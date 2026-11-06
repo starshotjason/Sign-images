@@ -1,6 +1,6 @@
 # StreetZim sign-reader photo set (world)
 
-**1947 openly licensed photos of street signs, address plates, business signs and landmark name boards across 191 countries**, 1947 of them visually transcribed (1761 MB). Built for the photo search (`--ocr` sign reader) in [jasontitus/streetzim](https://github.com/jasontitus/streetzim), using the record format of its `docs/ocr-test-set.md` and `tests/fixtures/ocr-signs/`.
+**1948 openly licensed photos of street signs, address plates, business signs and landmark name boards across 191 countries**, 1948 of them visually transcribed (1777 MB). Built for the photo search (`--ocr` sign reader) in [jasontitus/streetzim](https://github.com/jasontitus/streetzim), using the record format of its `docs/ocr-test-set.md` and `tests/fixtures/ocr-signs/`.
 
 Score it with streetzim's runner:
 
@@ -24,7 +24,7 @@ python3 tools/ocr_photos.py --set <this repo>/ocr-signs --maps <maps folder> --o
 
 This cloud crawler's IP was throttled by Wikimedia's and Flickr's original-file servers, so some files are the sources' own published renditions rather than originals; each record's `derivative` field says exactly which (empty = byte-unmodified original):
 
-- 1457: original
+- 1459: original
 - 28: Flickr's published 1024 px 'large' rendition, served by the Openverse image API
 - 22: whole 4000x3000 HD picture as served by the Panoramax instance
 - 16: rectilinear
@@ -42,7 +42,6 @@ This cloud crawler's IP was throttled by Wikimedia's and Flickr's original-file 
 - 4: whole 4096x2304 full-size processed
 - 4: whole 3840x2160 HD picture as served by the Panoramax instance
 - 4: whole 1440x1080 HD picture as served by the Panoramax instance
-- 3: Wikimedia Commons standard 1920px-wide rendition
 - 3: whole 3072x1728 HD picture as served by the Panoramax instance
 - 3: whole 4000x2250 HD picture as served by the Panoramax instance
 - 3: whole 3072x4096 HD picture as served by the Panoramax instance
@@ -52,6 +51,7 @@ This cloud crawler's IP was throttled by Wikimedia's and Flickr's original-file 
 - 3: whole 4624x2604 HD picture as served by the Panoramax instance
 - 3: whole 4080x2295 HD picture as served by the Panoramax instance
 - 2: whole 1049x634 HD picture as served by the Panoramax instance
+- 2: Wikimedia Commons standard 1920px-wide rendition
 - 2: whole 3264x1840 full-size processed
 - 2: whole 4128x2322 full-size processed
 - 2: whole 4160x2340 HD picture as served by the Panoramax instance
@@ -361,7 +361,7 @@ This cloud crawler's IP was throttled by Wikimedia's and Flickr's original-file 
 |---|---:|
 | commons | 1229 |
 | panoramax | 250 |
-| flickr | 232 |
+| flickr | 233 |
 | kartaview | 209 |
 | tcmb | 14 |
 | gongu | 13 |
@@ -369,7 +369,7 @@ This cloud crawler's IP was throttled by Wikimedia's and Flickr's original-file 
 | Kind | Photos |
 |---|---:|
 | business sign | 661 |
-| landmark | 571 |
+| landmark | 572 |
 | street sign | 418 |
 | hard | 136 |
 | transit | 58 |
@@ -381,7 +381,7 @@ This cloud crawler's IP was throttled by Wikimedia's and Flickr's original-file 
 | Licence | Photos |
 |---|---:|
 | CC BY-SA 4.0 | 1061 |
-| CC BY 2.0 | 233 |
+| CC BY 2.0 | 234 |
 | CC BY-SA 3.0 | 210 |
 | CC BY-SA 2.0 | 153 |
 | CC0 1.0 | 108 |
@@ -471,7 +471,7 @@ This cloud crawler's IP was throttled by Wikimedia's and Flickr's original-file 
 | HU Hungary | Latin | H | 10 | 10 | 10 |
 | IS Iceland | Latin | H | 10 | 10 | 10 |
 | IN India | Devanagari | LM | 15 | 15 | 15 |
-| ID Indonesia | Latin | UM | 11 | 11 | 12 |
+| ID Indonesia | Latin | UM | 12 | 12 | 12 |
 | IR Iran | Arabic | UM | 15 | 15 | 15 |
 | IQ Iraq | Arabic | UM | 15 | 15 | 15 |
 | IE Ireland | Latin | H | 10 | 10 | 10 |

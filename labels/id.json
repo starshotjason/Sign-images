@@ -512,5 +512,37 @@
  "f4d540e97-3782-44ba-ade9-f69fe1b0440e": {
   "accept": false,
   "reason": "Borobudur stupas and reliefs; no sign text"
+ },
+ "f8a1785dd-7b86-486f-8fd3-6e44940e0d33": {
+  "accept": false,
+  "reason": "temple and macaque photo; no sign text"
+ },
+ "f3dba798f-89cc-499b-9254-4a1441ecae8d": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "PANGGUNG TERBUKA",
+    "lang": "id"
+   },
+   {
+    "text": "RAMAYANA",
+    "lang": "id"
+   },
+   {
+    "text": "Ramayana Open Stage",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Ramayana Open Stage",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Illuminated night-time direction board at Prambanan (Yogyakarta). Distractors on the same post: 'MUSHOLA / Mosque' and a smaller 'RESTORAN & PANGGUNG KINARA-KINARI' board; the yellow 'Ramayana Ballet Prambanan' banners also carry text."
  }
 }

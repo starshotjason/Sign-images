@@ -5760,41 +5760,47 @@ Photo: shankar s., CC BY 2.0, via Flickr. Source: https://www.flickr.com/photos/
 
 File: [id/id-5005.jpg](id/id-5005.jpg)
 
-Photo: ivanlanin, CC BY-SA 2.0, via Flickr. Source: https://www.flickr.com/photos/81434456@N00/2778608898. License: https://creativecommons.org/licenses/by-sa/2.0/. Unmodified original.
+Photo: shankar s., CC BY 2.0, via Flickr. Source: https://www.flickr.com/photos/77742560@N06/43773434715. License: https://creativecommons.org/licenses/by/2.0/. Unmodified original.
 
 ## id-5006
 
 File: [id/id-5006.jpg](id/id-5006.jpg)
 
-Photo: GOC53, CC BY 2.0, via Flickr. Source: https://www.flickr.com/photos/30659367@N00/5514377743. License: https://creativecommons.org/licenses/by/2.0/. Unmodified original.
+Photo: ivanlanin, CC BY-SA 2.0, via Flickr. Source: https://www.flickr.com/photos/81434456@N00/2778608898. License: https://creativecommons.org/licenses/by-sa/2.0/. Unmodified original.
 
 ## id-5007
 
 File: [id/id-5007.jpg](id/id-5007.jpg)
 
-Photo: JasonParis, CC BY 2.0, via Flickr. Source: https://www.flickr.com/photos/94064020@N00/6231398067. License: https://creativecommons.org/licenses/by/2.0/. Unmodified original.
+Photo: GOC53, CC BY 2.0, via Flickr. Source: https://www.flickr.com/photos/30659367@N00/5514377743. License: https://creativecommons.org/licenses/by/2.0/. Unmodified original.
 
 ## id-5008
 
 File: [id/id-5008.jpg](id/id-5008.jpg)
 
-Photo: nSeika, CC BY 2.0, via Flickr. Source: https://www.flickr.com/photos/33542052@N07/8217953027. License: https://creativecommons.org/licenses/by/2.0/. Unmodified original.
+Photo: JasonParis, CC BY 2.0, via Flickr. Source: https://www.flickr.com/photos/94064020@N00/6231398067. License: https://creativecommons.org/licenses/by/2.0/. Unmodified original.
 
 ## id-5009
 
 File: [id/id-5009.jpg](id/id-5009.jpg)
 
-Photo: JasonParis, CC BY 2.0, via Flickr. Source: https://www.flickr.com/photos/94064020@N00/6231373181. License: https://creativecommons.org/licenses/by/2.0/. Unmodified original.
+Photo: nSeika, CC BY 2.0, via Flickr. Source: https://www.flickr.com/photos/33542052@N07/8217953027. License: https://creativecommons.org/licenses/by/2.0/. Unmodified original.
 
 ## id-5010
 
 File: [id/id-5010.jpg](id/id-5010.jpg)
 
-Photo: D-Stanley, CC BY 2.0, via Flickr. Source: https://www.flickr.com/photos/79721788@N00/6336844763. License: https://creativecommons.org/licenses/by/2.0/. Unmodified original.
+Photo: JasonParis, CC BY 2.0, via Flickr. Source: https://www.flickr.com/photos/94064020@N00/6231373181. License: https://creativecommons.org/licenses/by/2.0/. Unmodified original.
 
 ## id-5011
 
 File: [id/id-5011.jpg](id/id-5011.jpg)
+
+Photo: D-Stanley, CC BY 2.0, via Flickr. Source: https://www.flickr.com/photos/79721788@N00/6336844763. License: https://creativecommons.org/licenses/by/2.0/. Unmodified original.
+
+## id-5012
+
+File: [id/id-5012.jpg](id/id-5012.jpg)
 
 Photo: ivanlanin, CC BY-SA 2.0, via Flickr. Source: https://www.flickr.com/photos/81434456@N00/1533781655. License: https://creativecommons.org/licenses/by-sa/2.0/. Unmodified original.
 
@@ -9342,7 +9348,7 @@ Photo: CROIX, CC BY 4.0, via Wikimedia Commons. Source: https://commons.wikimedi
 
 File: [ag/ag-5005.jpg](ag/ag-5005.jpg)
 
-Photo: CROIX, CC BY 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Road_sign_in_Antigua_and_Barbuda_2020s_05.jpg. License: https://creativecommons.org/licenses/by/4.0/. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
+Photo: CROIX, CC BY 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Road_sign_in_Antigua_and_Barbuda_2020s_05.jpg. License: https://creativecommons.org/licenses/by/4.0/. Unmodified original.
 
 ## ar-5001
 
