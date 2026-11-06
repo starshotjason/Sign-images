@@ -1,162 +1,166 @@
 {
-  "c100180403": {
-    "accept": false,
-    "reason": "sea and sky landscape (St Philip coast); no sign"
+ "c100180403": {
+  "accept": false,
+  "reason": "sea and sky landscape (St Philip coast); no sign"
+ },
+ "c118273042": {
+  "accept": false,
+  "reason": "hand-painted 'DANGER PLEASE TAKE HEED HIGH VOLTAGE ALARM! RING BELL OR CALL OUT' warning on a private gate with a name and phone number; warning, no place name"
+ },
+ "c118277296": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Pioneers of Peri Peri chicken in Antigua",
+    "lang": "en"
+   },
+   {
+    "text": "FLATTIES FLAME",
+    "lang": "en"
+   },
+   {
+    "text": "GRILL",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Flatties Flame Grill",
+   "type": "poi"
   },
-  "c118273042": {
-    "accept": false,
-    "reason": "hand-painted 'DANGER PLEASE TAKE HEED HIGH VOLTAGE ALARM! RING BELL OR CALL OUT' warning on a private gate with a name and phone number; warning, no place name"
+  "difficulty": "medium",
+  "notes": "Black roadside board in front of the restaurant on Dockyard Drive, English Harbour (camera 17.0122, -61.7686); a support post crosses the S of FLATTIES. 'GRILL' is in a flame-style font between two spatula icons. The yellow 'Carib REAL CARIBBEAN BEER' logo at the right end is advertising, not part of the label. Distractors: a second identical board at far right, 'JACKEE'S' sign on the white building, menu chalkboards and a 'Welcome to Jackee's...' easel."
+ },
+ "c139760965": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ANTIGUA AND BARBUDA",
+    "lang": "en"
+   },
+   {
+    "text": "International Islamic Society",
+    "lang": "en"
+   },
+   {
+    "text": "Masjid",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "International Islamic Society",
+   "type": "poi"
   },
-  "c118277296": {
-    "accept": true,
-    "reason": "",
-    "kind": "business sign",
-    "scripts": [
-      "Latn"
-    ],
-    "lines": [
-      {
-        "text": "Pioneers of Peri Peri chicken in Antigua",
-        "lang": "en"
-      },
-      {
-        "text": "FLATTIES FLAME",
-        "lang": "en"
-      },
-      {
-        "text": "GRILL",
-        "lang": "en"
-      }
-    ],
-    "expect": {
-      "query": "Flatties Flame Grill",
-      "type": "poi"
-    },
-    "difficulty": "medium",
-    "notes": "Black roadside board in front of the restaurant on Dockyard Drive, English Harbour (camera 17.0122, -61.7686); a support post crosses the S of FLATTIES. 'GRILL' is in a flame-style font between two spatula icons. The yellow 'Carib REAL CARIBBEAN BEER' logo at the right end is advertising, not part of the label. Distractors: a second identical board at far right, 'JACKEE'S' sign on the white building, menu chalkboards and a 'Welcome to Jackee's...' easel."
+  "difficulty": "medium",
+  "notes": "Hanging white sign on a metal frame at the gate of a mosque in St. John's (camera 17.1132, -61.8292), seen from a distance and slightly from below; red arrow under 'Masjid' points left. At left is a decorative Arabic calligraphy logo (محمد, Muhammad) with tiny honorific text; it is not transcribed. Parked cars behind (number plates incidental and small)."
+ },
+ "c139761912": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "WELCOME TO",
+    "lang": "en"
+   },
+   {
+    "text": "JOHN HUGHES",
+    "lang": "en"
+   },
+   {
+    "text": "COMMUNITY",
+    "lang": "en"
+   },
+   {
+    "text": ".FOLLY",
+    "lang": "en"
+   },
+   {
+    "text": ".BISHOP",
+    "lang": "en"
+   },
+   {
+    "text": ".SAWCOLTS",
+    "lang": "en"
+   },
+   {
+    "text": ".WALLINGS",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "John Hughes",
+   "type": "place"
   },
-  "c139760965": {
-    "accept": true,
-    "reason": "",
-    "kind": "landmark",
-    "scripts": [
-      "Latn"
-    ],
-    "lines": [
-      {
-        "text": "ANTIGUA AND BARBUDA",
-        "lang": "en"
-      },
-      {
-        "text": "International Islamic Society",
-        "lang": "en"
-      },
-      {
-        "text": "Masjid",
-        "lang": "en"
-      }
-    ],
-    "expect": {
-      "query": "International Islamic Society",
-      "type": "poi"
-    },
-    "difficulty": "medium",
-    "notes": "Hanging white sign on a metal frame at the gate of a mosque in St. John's (camera 17.1132, -61.8292), seen from a distance and slightly from below; red arrow under 'Masjid' points left. At left is a decorative Arabic calligraphy logo (محمد, Muhammad) with tiny honorific text; it is not transcribed. Parked cars behind (number plates incidental and small)."
+  "difficulty": "hard",
+  "notes": "Weathered concrete village welcome sign, Saint Mary Parish (camera 17.0508, -61.8084). Blue stencilled 'WELCOME TO' (arched) / 'JOHN HUGHES' / 'COMMUNITY', then four red-brown locality names in two columns, each preceded by a dot (left: FOLLY, SAWCOLTS; right: BISHOP, WALLINGS), listed row by row. Bottom line '(DONATED BY F.S.CONSTRUCTION)' is faded and stained (the T of CONSTRUCTION is worn) and is not transcribed. Mould and rust streaks over the paint."
+ },
+ "c184150849": {
+  "accept": false,
+  "reason": "heavily motion-blurred shot from a moving car; the bend warning sign and the red plate under it are unreadable"
+ },
+ "c184150852": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "AIRPO... RD.",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Airport Road",
+   "type": "street"
   },
-  "c139761912": {
-    "accept": true,
-    "reason": "",
-    "kind": "landmark",
-    "scripts": [
-      "Latn"
-    ],
-    "lines": [
-      {
-        "text": "WELCOME TO",
-        "lang": "en"
-      },
-      {
-        "text": "JOHN HUGHES",
-        "lang": "en"
-      },
-      {
-        "text": "COMMUNITY",
-        "lang": "en"
-      },
-      {
-        "text": ".FOLLY",
-        "lang": "en"
-      },
-      {
-        "text": ".BISHOP",
-        "lang": "en"
-      },
-      {
-        "text": ".SAWCOLTS",
-        "lang": "en"
-      },
-      {
-        "text": ".WALLINGS",
-        "lang": "en"
-      }
-    ],
-    "expect": {
-      "query": "John Hughes",
-      "type": "place"
-    },
-    "difficulty": "hard",
-    "notes": "Weathered concrete village welcome sign, Saint Mary Parish (camera 17.0508, -61.8084). Blue stencilled 'WELCOME TO' (arched) / 'JOHN HUGHES' / 'COMMUNITY', then four red-brown locality names in two columns, each preceded by a dot (left: FOLLY, SAWCOLTS; right: BISHOP, WALLINGS), listed row by row. Bottom line '(DONATED BY F.S.CONSTRUCTION)' is faded and stained (the T of CONSTRUCTION is worn) and is not transcribed. Mould and rust streaks over the paint."
-  },
-  "c184150849": {
-    "accept": false,
-    "reason": "heavily motion-blurred shot from a moving car; the bend warning sign and the red plate under it are unreadable"
-  },
-  "c184150852": {
-    "accept": true,
-    "reason": "",
-    "kind": "street sign",
-    "scripts": [
-      "Latn"
-    ],
-    "lines": [
-      {
-        "text": "AIRPO... RD.",
-        "lang": "en"
-      }
-    ],
-    "expect": {
-      "query": "Airport Road",
-      "type": "street"
-    },
-    "difficulty": "hard",
-    "notes": "Green US-style street blade on a rusty perforated post in Codrington, Barbuda (camera 17.6372, -61.8265). The post hides the 'R' and most of the 'T' of AIRPORT (only a sliver of the T shows), so the legible text is 'AIRPO' + 'RD.'; the sign reads Airport Rd. Distractor: the faded cross blade above, 'EAST / AIRPORT LN.' (first letters worn off)."
-  },
-  "c27249188": {
-    "accept": false,
-    "reason": "park bench with a painted Bible verse (John 3:16) and 'LMR COMMUNITY BENCH'; no place sign"
-  },
-  "c40628975": {
-    "accept": false,
-    "reason": "rescue-exercise photo: a firefighter tending a casualty; people (faces) are the subject"
-  },
-  "c5010168": {
-    "accept": false,
-    "reason": "scanned document (Russian presidential decree), not a photograph of a sign"
-  },
-  "c52879252": {
-    "accept": false,
-    "reason": "harbourfront shop seen from the water: the dominant text is the 'Welcome to Antigua' roof slogan with brand logos (Polo Ralph Lauren, DUTY FREE, a stylised partly painted-over name); the store name 'NEW GATES' appears only on small brand-advert posters"
-  },
-  "c52879424": {
-    "accept": false,
-    "reason": "'PLEASE DO NOT DUMP GARBAGE HERE' notice; no place name"
-  },
-  "c184150853": {
-    "accept": false,
-    "reason": "roundabout warning triangle with 'REDUCE SPEED NOW / NEW ROUNDABOUT AHEAD' plates; warning only, no place name (the Bridget's shop sign behind is too small)"
-  },
-  "c184150859": {
-    "accept": false,
-    "reason": "plain no-entry roundel by a residential lane; no text"
-  }
+  "difficulty": "hard",
+  "notes": "Green US-style street blade on a rusty perforated post in Codrington, Barbuda (camera 17.6372, -61.8265). The post hides the 'R' and most of the 'T' of AIRPORT (only a sliver of the T shows), so the legible text is 'AIRPO' + 'RD.'; the sign reads Airport Rd. Distractor: the faded cross blade above, 'EAST / AIRPORT LN.' (first letters worn off)."
+ },
+ "c27249188": {
+  "accept": false,
+  "reason": "park bench with a painted Bible verse (John 3:16) and 'LMR COMMUNITY BENCH'; no place sign"
+ },
+ "c40628975": {
+  "accept": false,
+  "reason": "rescue-exercise photo: a firefighter tending a casualty; people (faces) are the subject"
+ },
+ "c5010168": {
+  "accept": false,
+  "reason": "scanned document (Russian presidential decree), not a photograph of a sign"
+ },
+ "c52879252": {
+  "accept": false,
+  "reason": "harbourfront shop seen from the water: the dominant text is the 'Welcome to Antigua' roof slogan with brand logos (Polo Ralph Lauren, DUTY FREE, a stylised partly painted-over name); the store name 'NEW GATES' appears only on small brand-advert posters"
+ },
+ "c52879424": {
+  "accept": false,
+  "reason": "'PLEASE DO NOT DUMP GARBAGE HERE' notice; no place name"
+ },
+ "c184150853": {
+  "accept": false,
+  "reason": "roundabout warning triangle with 'REDUCE SPEED NOW / NEW ROUNDABOUT AHEAD' plates; warning only, no place name (the Bridget's shop sign behind is too small)"
+ },
+ "c184150859": {
+  "accept": false,
+  "reason": "plain no-entry roundel by a residential lane; no text"
+ },
+ "c184150861": {
+  "accept": false,
+  "reason": "generic airport parking wayfinding (Long Term Parking / Staff Parking / Exit); names no place"
+ }
 }

@@ -5798,12 +5798,6 @@ File: [id/id-5011.jpg](id/id-5011.jpg)
 
 Photo: ivanlanin, CC BY-SA 2.0, via Flickr. Source: https://www.flickr.com/photos/81434456@N00/1533781655. License: https://creativecommons.org/licenses/by-sa/2.0/. Unmodified original.
 
-## id-5012
-
-File: [id/id-5012.jpg](id/id-5012.jpg)
-
-Photo: shankar s., CC BY 2.0, via Flickr. Source: https://www.flickr.com/photos/77742560@N06/44681167141. License: https://creativecommons.org/licenses/by/2.0/. Unmodified original.
-
 ## la-5001
 
 File: [la/la-5001.jpg](la/la-5001.jpg)
@@ -9344,12 +9338,6 @@ File: [ag/ag-5004.jpg](ag/ag-5004.jpg)
 
 Photo: CROIX, CC BY 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Road_sign_in_Antigua_and_Barbuda_2020s_01.jpg. License: https://creativecommons.org/licenses/by/4.0/. Unmodified original.
 
-## ag-5005
-
-File: [ag/ag-5005.jpg](ag/ag-5005.jpg)
-
-Photo: CROIX, CC BY 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Road_sign_in_Antigua_and_Barbuda_2020s_06.jpg. License: https://creativecommons.org/licenses/by/4.0/. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
-
 ## ar-5001
 
 File: [ar/ar-5001.jpg](ar/ar-5001.jpg)
@@ -11503,18 +11491,6 @@ Photo: Alixun, CC BY-SA 4.0, via Panoramax. Source: https://panoramax.openstreet
 File: [pw/pw-5001.jpg](pw/pw-5001.jpg)
 
 Photo: Abasaa, Public domain, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Palau_Park_sign_1.JPG. License: https://creativecommons.org/publicdomain/mark/1.0/. Unmodified original.
-
-## pw-5002
-
-File: [pw/pw-5002.jpg](pw/pw-5002.jpg)
-
-Photo: U.S. Marine Corps photo by Lance Cpl. Atticus Martinez, Public domain, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Signing_the_Dotted_Line_(6799688).jpg. License: https://creativecommons.org/publicdomain/mark/1.0/. Unmodified original.
-
-## pw-5003
-
-File: [pw/pw-5003.jpg](pw/pw-5003.jpg)
-
-Photo: Canaan, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Cartel_identificador_de_%C3%A1rbol.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Unmodified original.
 
 ## ws-5001
 

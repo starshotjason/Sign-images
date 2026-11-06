@@ -1,0 +1,32 @@
+{
+ "c160398035": {
+  "accept": false,
+  "reason": "signing-ceremony news photo; no sign"
+ },
+ "c47222772": {
+  "accept": false,
+  "reason": "wrong country: tree label at the Palau de Pedralbes, Barcelona"
+ },
+ "c12775537": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Kana",
+   "Hani"
+  ],
+  "lines": [
+   {
+    "text": "パラオ公園",
+    "lang": "ja",
+    "latin": "Parao Kōen (Palau Park)"
+   }
+  ],
+  "expect": {
+   "query": "Palau Park",
+   "type": "place"
+  },
+  "difficulty": "medium",
+  "notes": "Japanese-era (South Pacific Mandate) carved stone post in Koror, text vertical. The first character パ is partly eroded on its left side; the rest is clear. A modern map may name the park differently; a Shell station and a store are distractors behind it."
+ }
+}
