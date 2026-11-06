@@ -1,23 +1,31 @@
 {
-  "source": "panoramax",
-  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=9d0df77f-cd7b-40dc-a25b-06c9c2a48a86",
-  "original_url": "https://panoramax.openstreetmap.fr/images/9d/0d/f7/7f/cd7b-40dc-a25b-06c9c2a48a86.jpg",
-  "license_as_published": "CC-BY-SA-4.0",
-  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
-  "author_as_published": "Peter Bremer",
-  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
-  "title": "Panoramax picture 9d0df77f-cd7b-40dc-a25b-06c9c2a48a86 (London, 2024-07-07)",
-  "description": "Street-level picture on Panoramax, taken 2024-07-07 near London by Peter Bremer, sequence 31a25e1e-51ac-4c10-bc72-55c9b18820e9, heading 251. OCR (PP-OCRv3) read: Sainsbury's | E130M | At any time | No loading",
-  "date": "2024-07-07",
-  "categories": [],
-  "camera_location": [
-    51.512140724,
-    -0.128577895
+  "source": "commons",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Exeter_(Devon,_UK),_Quay_--_2013_--_5.jpg",
+  "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Exeter_%28Devon%2C_UK%29%2C_Quay_--_2013_--_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author_as_published": "Dietmar Rabich",
+  "credit_as_published": "Own work",
+  "title": "File:Exeter (Devon, UK), Quay -- 2013 -- 5.jpg",
+  "description": "Shop “Winterwood” at the quayside of the river Exe in Exeter , Devon , England",
+  "date": "Taken on 2 August 2013, 15:01",
+  "categories": [
+    "August 2013 in Devon",
+    "Exeter Quay Vaults",
+    "Furniture shops in England",
+    "Shop signs in England",
+    "Shops in Exeter",
+    "Shops in the United Kingdom photographed in 2013",
+    "Summer in Devon"
   ],
-  "found_by": "panoramax-ocr:London",
-  "bytes": 2448152,
-  "width": 3912,
-  "height": 2934,
-  "downloaded_url": "https://panoramax.openstreetmap.fr/images/9d/0d/f7/7f/cd7b-40dc-a25b-06c9c2a48a86.jpg",
-  "derivative": "crop 167,10,4079,2944 of the 4080x3060 HD picture"
+  "camera_location": [
+    50.718,
+    -3.53
+  ],
+  "found_by": "keyword",
+  "bytes": 1071493,
+  "width": 1920,
+  "height": 1417,
+  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Exeter_%28Devon%2C_UK%29%2C_Quay_--_2013_--_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "derivative": ""
 }

@@ -1,25 +1,25 @@
 {
   "source": "commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:%C4%8Cevica_Slovenia_-_sign.jpg",
-  "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/%C4%8Cevica_Slovenia_-_sign.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Liubliana_19.jpg",
+  "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Liubliana_19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
   "license_as_published": "CC BY-SA 4.0",
   "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0",
-  "author_as_published": "Doremo",
+  "author_as_published": "LBM1948",
   "credit_as_published": "Own work",
-  "title": "File:Čevica Slovenia - sign.jpg",
-  "description": "Street sign in Čevica, Municipality of Logatec. Slovenia",
-  "date": "2022-04-29 09:13:42",
+  "title": "File:Liubliana 19.jpg",
+  "description": "A window and street sign. Ljubljana, Slovenia",
+  "date": "2010-04-06 10:49:00",
   "categories": [
-    "Čevica"
+    "Green street signs",
+    "Green windows",
+    "Rectangular windows in Ljubljana",
+    "Street signs in Ljubljana"
   ],
-  "camera_location": [
-    45.917764,
-    14.225825
-  ],
+  "camera_location": null,
   "found_by": "keyword",
-  "bytes": 914077,
+  "bytes": 1692738,
   "width": 1920,
-  "height": 1610,
-  "downloaded_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/%C4%8Cevica_Slovenia_-_sign.jpg/1920px-%C4%8Cevica_Slovenia_-_sign.jpg",
-  "derivative": "Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org)"
+  "height": 2816,
+  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Liubliana_19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "derivative": ""
 }

@@ -206,5 +206,9 @@
  "c73900227": {
   "accept": false,
   "reason": "'DEFLATE TYRES TO 0.8 bar' instruction and 20 speed-limit sign; no place name"
+ },
+ "c73900356": {
+  "accept": false,
+  "reason": "80 km/h speed-limit sign only; no place text (Xai-Xai bridge in the background)"
  }
 }

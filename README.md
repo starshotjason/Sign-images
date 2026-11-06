@@ -1,6 +1,6 @@
 # StreetZim sign-reader photo set (world)
 
-**1852 openly licensed photos of street signs, address plates, business signs and landmark name boards across 184 countries**, 1830 of them visually transcribed (1674 MB). Built for the photo search (`--ocr` sign reader) in [jasontitus/streetzim](https://github.com/jasontitus/streetzim), using the record format of its `docs/ocr-test-set.md` and `tests/fixtures/ocr-signs/`.
+**1888 openly licensed photos of street signs, address plates, business signs and landmark name boards across 186 countries**, 1851 of them visually transcribed (1705 MB). Built for the photo search (`--ocr` sign reader) in [jasontitus/streetzim](https://github.com/jasontitus/streetzim), using the record format of its `docs/ocr-test-set.md` and `tests/fixtures/ocr-signs/`.
 
 Score it with streetzim's runner:
 
@@ -24,13 +24,13 @@ python3 tools/ocr_photos.py --set <this repo>/ocr-signs --maps <maps folder> --o
 
 This cloud crawler's IP was throttled by Wikimedia's and Flickr's original-file servers, so some files are the sources' own published renditions rather than originals; each record's `derivative` field says exactly which (empty = byte-unmodified original):
 
-- 1320: original
-- 33: Flickr's published 1024 px 'large' rendition, served by the Openverse image API
-- 23: Wikimedia Commons standard 1920px-wide rendition
+- 1374: original
+- 28: Flickr's published 1024 px 'large' rendition, served by the Openverse image API
 - 22: whole 4000x3000 HD picture as served by the Panoramax instance
 - 16: rectilinear
 - 10: whole 1280x960 HD picture as served by the Panoramax instance
 - 10: whole 4032x3024 HD picture as served by the Panoramax instance
+- 8: Wikimedia Commons standard 1920px-wide rendition
 - 8: whole 3840x2160 full-size processed
 - 7: crop 720,0,1920,900 of the 1920x1080 full-size processed
 - 6: whole 3072x1728 full-size processed
@@ -43,6 +43,7 @@ This cloud crawler's IP was throttled by Wikimedia's and Flickr's original-file 
 - 4: whole 4096x2304 full-size processed
 - 4: whole 3840x2160 HD picture as served by the Panoramax instance
 - 4: whole 1440x1080 HD picture as served by the Panoramax instance
+- 4: Wikimedia Commons standard 1280px-wide rendition
 - 3: whole 3072x1728 HD picture as served by the Panoramax instance
 - 3: whole 4000x2250 HD picture as served by the Panoramax instance
 - 3: whole 3072x4096 HD picture as served by the Panoramax instance
@@ -278,8 +279,6 @@ This cloud crawler's IP was throttled by Wikimedia's and Flickr's original-file 
 - 1: crop 0,624,3072,4080 of the 3072x4080 HD picture
 - 1: whole 3953x2965 HD picture as served by the Panoramax instance
 - 1: crop 1590,306,4031,2136 of the 4032x3024 full-size processed
-- 1: crop 1488,229,2688,1129 of the 2688x1512 full-size processed
-- 1: crop 0,0,1200,900 of the 2688x1512 full-size processed
 - 1: crop 0,578,1200,1478 of the 3840x2160 full-size processed
 - 1: crop 2135,854,3859,2147 of the 4032x3024 HD picture
 - 1: whole 4208x3120 full-size processed
@@ -374,37 +373,36 @@ This cloud crawler's IP was throttled by Wikimedia's and Flickr's original-file 
 
 | Source | Photos |
 |---|---:|
-| commons | 1117 |
+| commons | 1156 |
 | panoramax | 259 |
-| flickr | 232 |
-| kartaview | 217 |
+| flickr | 231 |
+| kartaview | 215 |
 | tcmb | 14 |
 | gongu | 13 |
 
 | Kind | Photos |
 |---|---:|
-| business sign | 644 |
-| landmark | 524 |
-| street sign | 395 |
-| hard | 133 |
-| transit | 52 |
+| business sign | 648 |
+| landmark | 533 |
+| street sign | 411 |
+| hard | 132 |
+| transit | 53 |
 | address plate | 41 |
 | building tag | 33 |
 | negative | 24 |
-| road sign | 2 |
-| bilingual | 2 |
-| sign | 2 |
+| sign | 10 |
+| bilingual | 3 |
 
 | Licence | Photos |
 |---|---:|
-| CC BY-SA 4.0 | 1027 |
-| CC BY 2.0 | 230 |
-| CC BY-SA 3.0 | 190 |
-| CC BY-SA 2.0 | 144 |
-| CC0 1.0 | 94 |
-| CC BY 3.0 | 68 |
-| CC BY 4.0 | 56 |
-| Public domain | 39 |
+| CC BY-SA 4.0 | 1041 |
+| CC BY 2.0 | 229 |
+| CC BY-SA 3.0 | 202 |
+| CC BY-SA 2.0 | 147 |
+| CC0 1.0 | 93 |
+| CC BY 3.0 | 70 |
+| CC BY 4.0 | 57 |
+| Public domain | 45 |
 | CC BY 2.5 | 3 |
 | OGDL-Taiwan-1.0 | 1 |
 
@@ -417,16 +415,16 @@ This cloud crawler's IP was throttled by Wikimedia's and Flickr's original-file 
 | DZ Algeria | Arabic | UM | 15 | 15 | 15 |
 | AD Andorra | Latin | H | 10 | 10 | 10 |
 | AO Angola | Latin | LM | 3 | 3 | 12 |
-| AG Antigua and Barbuda | Latin | H | 0 | 0 | 10 |
+| AG Antigua and Barbuda | Latin | H | 10 | 0 | 10 |
 | AR Argentina | Latin | UM | 12 | 12 | 12 |
 | AM Armenia | Armenian | UM | 15 | 15 | 15 |
 | AU Australia | Latin | H | 4 | 4 | 10 |
 | AT Austria | Latin | H | 10 | 10 | 10 |
 | AZ Azerbaijan | Latin | UM | 12 | 12 | 12 |
-| BS Bahamas | Latin | H | 2 | 2 | 10 |
+| BS Bahamas | Latin | H | 10 | 2 | 10 |
 | BH Bahrain | Arabic | H | 8 | 8 | 15 |
 | BD Bangladesh | Bengali | LM | 15 | 15 | 15 |
-| BB Barbados | Latin | H | 2 | 2 | 10 |
+| BB Barbados | Latin | H | 10 | 2 | 10 |
 | BY Belarus | Cyrillic | UM | 15 | 15 | 15 |
 | BE Belgium | Latin | H | 10 | 10 | 10 |
 | BZ Belize | Latin | UM | 12 | 12 | 12 |
@@ -456,7 +454,7 @@ This cloud crawler's IP was throttled by Wikimedia's and Flickr's original-file 
 | CY Cyprus | Greek | H | 15 | 15 | 15 |
 | CZ Czech Republic | Latin | H | 10 | 10 | 10 |
 | CD DR Congo | Latin | L | 0 | 0 | 15 |
-| DK Denmark | Latin | H | 10 | 7 | 10 |
+| DK Denmark | Latin | H | 10 | 10 | 10 |
 | DJ Djibouti | Arabic | LM | 1 | 1 | 15 |
 | DM Dominica | Latin | UM | 3 | 3 | 12 |
 | DO Dominican Republic | Latin | UM | 3 | 3 | 12 |
@@ -488,14 +486,14 @@ This cloud crawler's IP was throttled by Wikimedia's and Flickr's original-file 
 | HU Hungary | Latin | H | 10 | 10 | 10 |
 | IS Iceland | Latin | H | 10 | 10 | 10 |
 | IN India | Devanagari | LM | 15 | 15 | 15 |
-| ID Indonesia | Latin | UM | 10 | 6 | 12 |
+| ID Indonesia | Latin | UM | 9 | 9 | 12 |
 | IR Iran | Arabic | UM | 15 | 15 | 15 |
 | IQ Iraq | Arabic | UM | 15 | 15 | 15 |
 | IE Ireland | Latin | H | 10 | 10 | 10 |
 | IL Israel | Hebrew | H | 15 | 15 | 15 |
 | IT Italy | Latin | H | 10 | 10 | 10 |
 | CI Ivory Coast | Latin | LM | 12 | 12 | 12 |
-| JM Jamaica | Latin | UM | 5 | 4 | 12 |
+| JM Jamaica | Latin | UM | 4 | 4 | 12 |
 | JP Japan | Japanese | H | 15 | 15 | 15 |
 | JO Jordan | Arabic | LM | 15 | 15 | 15 |
 | KZ Kazakhstan | Cyrillic | UM | 15 | 15 | 15 |
@@ -508,9 +506,9 @@ This cloud crawler's IP was throttled by Wikimedia's and Flickr's original-file 
 | LV Latvia | Latin | H | 10 | 10 | 10 |
 | LB Lebanon | Arabic | LM | 15 | 15 | 15 |
 | LS Lesotho | Latin | LM | 3 | 3 | 12 |
-| LR Liberia | Latin | L | 5 | 4 | 15 |
+| LR Liberia | Latin | L | 4 | 4 | 15 |
 | LY Libya | Arabic | UM | 4 | 4 | 15 |
-| LI Liechtenstein | Latin | H | 6 | 6 | 10 |
+| LI Liechtenstein | Latin | H | 8 | 8 | 10 |
 | LT Lithuania | Latin | H | 10 | 10 | 10 |
 | LU Luxembourg | Latin | H | 10 | 10 | 10 |
 | MO Macau | Han | H | 15 | 15 | 15 |
@@ -530,7 +528,7 @@ This cloud crawler's IP was throttled by Wikimedia's and Flickr's original-file 
 | MN Mongolia | Cyrillic | UM | 15 | 15 | 15 |
 | ME Montenegro | Cyrillic | UM | 15 | 15 | 15 |
 | MA Morocco | Arabic | LM | 15 | 15 | 15 |
-| MZ Mozambique | Latin | L | 8 | 7 | 15 |
+| MZ Mozambique | Latin | L | 7 | 7 | 15 |
 | MM Myanmar | Burmese | LM | 15 | 15 | 15 |
 | NA Namibia | Latin | UM | 12 | 12 | 12 |
 | NR Nauru | Latin | H | 0 | 0 | 10 |
@@ -555,7 +553,7 @@ This cloud crawler's IP was throttled by Wikimedia's and Flickr's original-file 
 | PL Poland | Latin | H | 10 | 10 | 10 |
 | PT Portugal | Latin | H | 10 | 10 | 10 |
 | QA Qatar | Arabic | H | 15 | 15 | 15 |
-| CG Republic of the Congo | Latin | LM | 6 | 5 | 12 |
+| CG Republic of the Congo | Latin | LM | 6 | 6 | 12 |
 | RO Romania | Latin | H | 10 | 10 | 10 |
 | RU Russia | Cyrillic | H | 15 | 15 | 15 |
 | RW Rwanda | Latin | L | 11 | 11 | 15 |
@@ -566,14 +564,14 @@ This cloud crawler's IP was throttled by Wikimedia's and Flickr's original-file 
 | SM San Marino | Latin | H | 10 | 10 | 10 |
 | ST Sao Tome and Principe | Latin | LM | 1 | 1 | 12 |
 | SA Saudi Arabia | Arabic | H | 15 | 14 | 15 |
-| SN Senegal | Latin | LM | 8 | 7 | 12 |
+| SN Senegal | Latin | LM | 8 | 8 | 12 |
 | RS Serbia | Cyrillic | UM | 15 | 15 | 15 |
 | SC Seychelles | Latin | H | 4 | 4 | 10 |
 | SL Sierra Leone | Latin | L | 2 | 2 | 15 |
 | SG Singapore | Latin | H | 10 | 10 | 10 |
 | SK Slovakia | Latin | H | 10 | 10 | 10 |
-| SI Slovenia | Latin | H | 10 | 2 | 10 |
-| SB Solomon Islands | Latin | LM | 8 | 7 | 12 |
+| SI Slovenia | Latin | H | 10 | 10 | 10 |
+| SB Solomon Islands | Latin | LM | 7 | 7 | 12 |
 | SO Somalia | Latin | L | 5 | 5 | 15 |
 | ZA South Africa | Latin | UM | 12 | 12 | 12 |
 | KR South Korea | Hangul | H | 15 | 15 | 15 |
@@ -600,17 +598,17 @@ This cloud crawler's IP was throttled by Wikimedia's and Flickr's original-file 
 | UG Uganda | Latin | L | 15 | 15 | 15 |
 | UA Ukraine | Cyrillic | UM | 15 | 15 | 15 |
 | AE United Arab Emirates | Arabic | H | 15 | 15 | 15 |
-| GB United Kingdom | Latin | H | 7 | 7 | 10 |
+| GB United Kingdom | Latin | H | 10 | 10 | 10 |
 | US United States | Latin | H | 3 | 3 | 10 |
 | UY Uruguay | Latin | H | 0 | 0 | 10 |
 | UZ Uzbekistan | Latin | LM | 12 | 12 | 12 |
 | VU Vanuatu | Latin | LM | 12 | 12 | 12 |
-| VA Vatican City | Latin | H | 0 | 0 | 10 |
+| VA Vatican City | Latin | H | 10 | 0 | 10 |
 | VE Venezuela | Latin | UM | 12 | 12 | 12 |
 | VN Vietnam | Latin | LM | 12 | 12 | 12 |
 | YE Yemen | Arabic | L | 7 | 7 | 15 |
 | ZM Zambia | Latin | LM | 12 | 12 | 12 |
 | ZW Zimbabwe | Latin | LM | 8 | 8 | 12 |
 
-**No photos yet (15):** Antigua and Barbuda, Chad, Comoros, DR Congo, Equatorial Guinea, Guyana, Marshall Islands, Nauru, Palau, Papua New Guinea, Saint Kitts and Nevis, South Sudan, Trinidad and Tobago, Uruguay, Vatican City
+**No photos yet (13):** Chad, Comoros, DR Congo, Equatorial Guinea, Guyana, Marshall Islands, Nauru, Palau, Papua New Guinea, Saint Kitts and Nevis, South Sudan, Trinidad and Tobago, Uruguay
 

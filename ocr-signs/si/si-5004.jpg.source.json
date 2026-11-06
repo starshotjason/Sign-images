@@ -1,26 +1,25 @@
 {
   "source": "commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:A_Slovenian_sign_about_children_in_the_road.jpg",
-  "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/A_Slovenian_sign_about_children_in_the_road.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-  "license_as_published": "CC BY-SA 4.0",
-  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0",
-  "author_as_published": "Alexwlchan",
+  "source_url": "https://commons.wikimedia.org/wiki/File:%C4%8Cir%C4%8Di%C4%8De_Slovenia_-_sign_2.jpg",
+  "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/%C4%8Cir%C4%8Di%C4%8De_Slovenia_-_sign_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "license_as_published": "CC BY 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by/4.0",
+  "author_as_published": "Doremo",
   "credit_as_published": "Own work",
-  "title": "File:A Slovenian sign about children in the road.jpg",
-  "description": "A triangular road sign in Postojna, Slovenia which reads “Šolska pot; pozor, otroci!”, which translates as “School route; watch out for children!”",
-  "date": "Taken on 15 September 2023, 16:25:50",
+  "title": "File:Čirčiče Slovenia - sign 2.jpg",
+  "description": "A street sign in Čirčiče, Municipality of Kranj, Slovenia",
+  "date": "2024-08-17 06:34:53",
   "categories": [
-    "Road transport infrastructure in Postojna",
-    "School warning road signs in Slovenia",
-    "Slovene-language road signs",
-    "Streets in Postojna",
-    "Tripods"
+    "Čirčiče"
   ],
-  "camera_location": null,
+  "camera_location": [
+    46.22787,
+    14.365198
+  ],
   "found_by": "keyword",
-  "bytes": 1945350,
+  "bytes": 432663,
   "width": 1920,
-  "height": 2560,
-  "downloaded_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/A_Slovenian_sign_about_children_in_the_road.jpg/1920px-A_Slovenian_sign_about_children_in_the_road.jpg",
-  "derivative": "Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org)"
+  "height": 1391,
+  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/%C4%8Cir%C4%8Di%C4%8De_Slovenia_-_sign_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "derivative": ""
 }

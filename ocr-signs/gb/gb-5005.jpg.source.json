@@ -1,23 +1,23 @@
 {
   "source": "panoramax",
-  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=05994009-dfa6-4bc3-ab08-a1f0dfd362b1",
-  "original_url": "https://panoramax.openstreetmap.fr/images/05/99/40/09/dfa6-4bc3-ab08-a1f0dfd362b1.jpg",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=9d0df77f-cd7b-40dc-a25b-06c9c2a48a86",
+  "original_url": "https://panoramax.openstreetmap.fr/images/9d/0d/f7/7f/cd7b-40dc-a25b-06c9c2a48a86.jpg",
   "license_as_published": "CC-BY-SA-4.0",
   "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
-  "author_as_published": "Robot8A",
+  "author_as_published": "Peter Bremer",
   "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
-  "title": "Panoramax picture 05994009-dfa6-4bc3-ab08-a1f0dfd362b1 (London, 2024-11-17)",
-  "description": "Street-level picture on Panoramax, taken 2024-11-17 near London by Robot8A, sequence 99a7787d-d333-433d-8779-2b5c07efff13, heading 259. OCR (PP-OCRv3) read: DANIEL | &Hayward | ADT | Lettings02075824040 | KENNINGTONROA | Whenyou | move fast,",
-  "date": "2024-11-17",
+  "title": "Panoramax picture 9d0df77f-cd7b-40dc-a25b-06c9c2a48a86 (London, 2024-07-07)",
+  "description": "Street-level picture on Panoramax, taken 2024-07-07 near London by Peter Bremer, sequence 31a25e1e-51ac-4c10-bc72-55c9b18820e9, heading 251. OCR (PP-OCRv3) read: Sainsbury's | E130M | At any time | No loading",
+  "date": "2024-07-07",
   "categories": [],
   "camera_location": [
-    51.48788014,
-    -0.111438179
+    51.512140724,
+    -0.128577895
   ],
   "found_by": "panoramax-ocr:London",
-  "bytes": 1611926,
-  "width": 4032,
-  "height": 3024,
-  "downloaded_url": "https://panoramax.openstreetmap.fr/images/05/99/40/09/dfa6-4bc3-ab08-a1f0dfd362b1.jpg",
-  "derivative": "whole 4032x3024 HD picture as served by the Panoramax instance (byte-identical; the service blurs faces and number plates), not cropped"
+  "bytes": 2448152,
+  "width": 3912,
+  "height": 2934,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/9d/0d/f7/7f/cd7b-40dc-a25b-06c9c2a48a86.jpg",
+  "derivative": "crop 167,10,4079,2944 of the 4080x3060 HD picture"
 }

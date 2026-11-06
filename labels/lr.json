@@ -134,5 +134,9 @@
  "c56797737": {
   "accept": false,
   "reason": "STOP traffic sign is the subject; no place text (small street-name blade at left is illegible)"
+ },
+ "c58806930": {
+  "accept": false,
+  "reason": "Firestone rubber price board ('RUBBER PRICE PER WET TON DELIVERED TO FACTORY ... 666'); a price notice, not a place sign; trucks and people in the background"
  }
 }

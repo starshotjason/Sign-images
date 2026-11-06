@@ -312,5 +312,125 @@
  "fb0da085a-a7a8-44f6-9232-a9eb0d1bddfe": {
   "accept": false,
   "reason": "portrait of a tobacco-shop keeper (face is the subject); only handwritten price labels, no shop sign"
+ },
+ "f4149a614-2ea6-40d5-9139-434287f42591": {
+  "accept": false,
+  "reason": "busy market interior (Ubud); no legible sign"
+ },
+ "f478981e3-fece-4ec5-a727-2fe207ce53e6": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Sakura",
+    "lang": "id"
+   },
+   {
+    "text": "DENPASAR",
+    "lang": "id"
+   }
+  ],
+  "expect": {
+   "query": "Sakura",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Red jewellery-shop fascia in Kampung Arab, Denpasar, seen at an angle above the shop door. 'Sakura' is large and clear; the small address/phone line beneath ('JALAN ... No. 47 Telp. (0361) ...') is too small to read reliably and only its last word 'DENPASAR' is transcribed. Distractors: 'ISTANA MAS' fascia and vertical banners at left, a house number '47', Coca-Cola crates. Men seated in the foreground are incidental to the street scene."
+ },
+ "f603fa4d1-3a70-4555-b497-69837f848873": {
+  "accept": false,
+  "reason": "mirror reflecting a man on a pavement; only product cartons, no sign"
+ },
+ "f775a605d-947f-4f24-8504-2e16e158f63b": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "CANDI BOROBUDUR",
+    "lang": "id"
+   },
+   {
+    "text": "KEMENTERIAN PENDIDIKAN DAN KEBUDAYAAN",
+    "lang": "id"
+   },
+   {
+    "text": "DIREKTORAT JENDERAL KEBUDAYAAN",
+    "lang": "id"
+   },
+   {
+    "text": "BALAI KONSERVASI BOROBUDUR",
+    "lang": "id"
+   },
+   {
+    "text": "http://kebudayaan.kemdikbud.go.id/bkborobudur/",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "Candi Borobudur",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Header of the visitor-rules board at Borobudur temple: large 'CANDI BOROBUDUR' at left, ministry/conservation-office block at right. Below are 18 prohibition pictograms; the only other text is 'Official Permit is Required / Harus Dengan Izin Resmi' under the camera/drone panel and a tiny 'BEER' on a bottle."
+ },
+ "fa703ce11-0253-4af0-9b87-aff9bfc5d25d": {
+  "accept": false,
+  "reason": "stone Nandi sculpture at the National Museum; no sign text"
+ },
+ "fb02868ff-f3ff-446e-a076-a2596d47b8a7": {
+  "accept": false,
+  "reason": "near-duplicate of accepted f1176caec (same 'Wank INTERNET & GAME on line' shop sign in Kuta)"
+ },
+ "fb93024df-90ee-4012-ab0c-15092094d918": {
+  "accept": false,
+  "reason": "Kuta souvenir-shop row with several small signs and no single target; the main fascia is hidden behind flag bunting, the others ('INDO SILVER', 'YANTI SHOP') are small and partly blocked"
+ },
+ "fcd0a6fcd-e0cf-45f6-a553-f4880a4c1a2d": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "penangbistro",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Penang Bistro",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Night shot of illuminated channel letters on a facade in Jakarta, from below at an angle: 'penang' in purple and 'bistro' in orange, written as one word with no space."
+ },
+ "fcdbe1d8f-8bd7-435a-9a28-3fa71af63a71": {
+  "accept": false,
+  "reason": "monument and food carts; only a 'SAMPAI RAMBU BERIKUT' no-stopping plate, no place name"
+ },
+ "fda8507a1-515d-4a6b-b248-7e43f3b27f52": {
+  "accept": false,
+  "reason": "distant view of Borobudur temple; the small boards on the lawn are illegible"
+ },
+ "fdee0b305-4000-4ea6-9c8c-bb7a4dd202aa": {
+  "accept": false,
+  "reason": "Monkey Forest 'GUIDELINES' rules board (paragraphs and cartoons); a notice, not a name sign"
+ },
+ "fe0ac758a-a79d-4bd1-a1c0-f883bb884af2": {
+  "accept": false,
+  "reason": "close-up of batik fabrics; no sign"
+ },
+ "ff6175a58-e4e0-426d-b950-e9031e174101": {
+  "accept": false,
+  "reason": "salt-therapy advertising board (Bali Better Breathing) full of advert copy and photos; pure advert"
  }
 }

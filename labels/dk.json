@@ -282,5 +282,157 @@
  "c149245306": {
   "accept": false,
   "reason": "generic parking sign with terms text; no place name"
+ },
+ "c115852641": {
+  "accept": false,
+  "reason": "'Hunde i snor' dogs-on-leash rule sign (Helsingør Kommune header); a regulation notice, not a place sign"
+ },
+ "c115852710": {
+  "accept": false,
+  "reason": "beach rescue-point marker 'K 305 / SOS 112' and a dogs-on-leash notice; no place name"
+ },
+ "c144767117": {
+  "accept": false,
+  "reason": "pure traffic pictogram (no horse riding); no text"
+ },
+ "c144768498": {
+  "accept": false,
+  "reason": "pure traffic pictogram (no motor vehicles); no text"
+ },
+ "c148775905": {
+  "accept": false,
+  "reason": "cyclist warning sign with 'Krydsende cyklister' plate; warning text, no place name"
+ },
+ "c37330093": {
+  "accept": false,
+  "reason": "warning sign with 'Spor' (tracks) plate and turn arrow; no place name"
+ },
+ "c38083080": {
+  "accept": false,
+  "reason": "street view in Den Gamle By open-air museum; no legible sign (only tiny text on a barrel)"
+ },
+ "c44205010": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "TORTILLA",
+    "lang": "es"
+   },
+   {
+    "text": "FLATS",
+    "lang": "en"
+   },
+   {
+    "text": "RESTAURANTE MEXICANO",
+    "lang": "es"
+   },
+   {
+    "text": "66 12 61 15",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "Tortilla Flats",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Hanging cantilever sign of a Mexican restaurant in Odense, shot from below at an angle; decorative display font. 'RESTAURANTE MEXICANO' is small and slanted under the name; a second, illegible sign is on the wall at right."
+ },
+ "c44205015": {
+  "accept": false,
+  "reason": "the restaurant's round name sign is cut off at the frame ('DEN GAM...'); the main panel is a paragraph of German text about Danish kings"
+ },
+ "c61514435": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "SALT",
+    "lang": "da"
+   },
+   {
+    "text": "BAR OG R",
+    "lang": "da"
+   }
+  ],
+  "expect": {
+   "query": "Salt",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Vertical maroon banner on the brick facade of the Copenhagen Admiral Hotel. 'SALT' is large and clear; the vertical second line is cut off by the bottom edge after 'BAR OG R' (presumably 'BAR OG RESTAURANT', not visible)."
+ },
+ "c80472033": {
+  "accept": false,
+  "reason": "brown tourist direction sign with only the generic word 'Glaspusteri' (glassblowing workshop); no business name"
+ },
+ "c141250675": {
+  "accept": false,
+  "reason": "indoor 'CISCO NETWORKING ACADEMY PROGRAM' plaque with a slogan and a 'Brandtryk' fire-alarm sign; a programme plaque, not a mappable place"
+ },
+ "c154235804": {
+  "accept": false,
+  "reason": "'PAS PÅ - GLAT GULV' wet-floor warning stand with a bucket; warning only"
+ },
+ "c154235805": {
+  "accept": false,
+  "reason": "second shot of the same 'PAS PÅ - GLAT GULV' wet-floor warning stand; warning only"
+ },
+ "c137347748": {
+  "accept": false,
+  "reason": "'Ensrettet' one-way traffic sign; regulation text, no place name"
+ },
+ "c144769715": {
+  "accept": false,
+  "reason": "no-lorries prohibition pictogram with a '3,5t' plate; no place text"
+ },
+ "c154235806": {
+  "accept": false,
+  "reason": "third shot of the same 'PAS PÅ - GLAT GULV' wet-floor warning stand; warning only"
+ },
+ "c193223337": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "815",
+    "lang": "und"
+   },
+   {
+    "text": "Vejlby-Lystrup",
+    "lang": "da"
+   },
+   {
+    "text": "ruten",
+    "lang": "da"
+   },
+   {
+    "text": "Lystrup 5.6",
+    "lang": "da"
+   }
+  ],
+  "expect": {
+   "query": "Lystrup",
+   "type": "place"
+  },
+  "difficulty": "medium",
+  "notes": "Blue Danish cycle-route sign (route 815, Vejlby-Lystrup ruten) by Mollerup Skov, with a destination plate 'Lystrup 5.6' (km) and a right-arrow plate below. A scribbled tag and a torn sticker deface the destination plate but do not cover the text. A give-way triangle at right is a distractor."
+ },
+ "f6797a53f-2839-4868-ab08-58e1d8da2ce4": {
+  "accept": false,
+  "reason": "'Ensrettet' one-way sign with 'undtaget' cyclists-excepted plate; regulation text, no place name"
  }
 }

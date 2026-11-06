@@ -1,26 +1,23 @@
 {
   "source": "commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Slovenian_Sign_20.JPG",
-  "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Slovenian_Sign_20.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Radovljica_-_Trubarjeva_ulica_(tabla_z_imenom_ulice).jpg",
+  "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Radovljica_-_Trubarjeva_ulica_%28tabla_z_imenom_ulice%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
   "license_as_published": "CC BY-SA 3.0",
   "license_url_as_published": "https://creativecommons.org/licenses/by-sa/3.0",
-  "author_as_published": "MZaplotnik",
+  "author_as_published": "Johann Jaritz",
   "credit_as_published": "Own work",
-  "title": "File:Slovenian Sign 20.JPG",
-  "description": "Uskovnica - smerokaz",
-  "date": "2014-07-15 11:48:19",
+  "title": "File:Radovljica - Trubarjeva ulica (tabla z imenom ulice).jpg",
+  "description": "Street sign of Trubarjev Street in Radovljica , municipality Radovljica / Upper Carniola / Slovenia / EU",
+  "date": "2012-08-16",
   "categories": [
-    "Fingerposts in Triglav National Park",
-    "Hiking arrow signs",
-    "Left arrow signs",
-    "Uskovnica",
-    "Wooden signs in Slovenia"
+    "Red street signs in Slovenia",
+    "Trubarjeva ulica (Radovljica)"
   ],
   "camera_location": null,
   "found_by": "keyword",
-  "bytes": 834712,
+  "bytes": 319942,
   "width": 1920,
-  "height": 1440,
-  "downloaded_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Slovenian_Sign_20.JPG/1920px-Slovenian_Sign_20.JPG",
-  "derivative": "Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org)"
+  "height": 1111,
+  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Radovljica_-_Trubarjeva_ulica_%28tabla_z_imenom_ulice%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "derivative": ""
 }

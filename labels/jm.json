@@ -130,5 +130,9 @@
  "c71907890": {
   "accept": false,
   "reason": "wrong country (Maui, Hawaii) and only a plant label 'Coral Tree'"
+ },
+ "c139194300": {
+  "accept": false,
+  "reason": "historic-marker panel showing only paragraphs of text about the Port Maria Court House; no title or name panel in the frame"
  }
 }

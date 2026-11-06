@@ -166,5 +166,45 @@
  "c174200094": {
   "accept": false,
   "reason": "near-duplicate of accepted c174200098 (same Avenue de Ngouedi plate, similar angle)"
+ },
+ "c174200100": {
+  "accept": false,
+  "reason": "near-duplicate of accepted c174200098 (same Avenue de Ngouedi plate, Ville de Pointe-Noire / 1.E.P.LUMUMBA / LOSANGE, from a low angle)"
+ },
+ "c174200447": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Ville de Pointe-Noire",
+    "lang": "fr"
+   },
+   {
+    "text": "1.E.P.LUMUMBA / LOSANGE",
+    "lang": "fr"
+   },
+   {
+    "text": "AVENUE",
+    "lang": "fr"
+   },
+   {
+    "text": "LINGUISSI",
+    "lang": "fr"
+   },
+   {
+    "text": "PEMBELLOT",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "Avenue Linguissi Pembellot",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Close, frame-filling blue enamel street plate with the city crest, Pointe-Noire; same plate series as the other accepted cg plates but a different street. '1.E.P.LUMUMBA / LOSANGE' is the arrondissement/quarter line."
  }
 }

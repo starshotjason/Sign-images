@@ -1,26 +1,22 @@
 {
   "source": "commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Road_signs_Senegal.jpg",
-  "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Road_signs_Senegal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-  "license_as_published": "CC BY-SA 4.0",
-  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0",
-  "author_as_published": "Babacar Dioum",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Linguere_sign.jpg",
+  "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Linguere_sign.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "license_as_published": "CC0",
+  "license_url_as_published": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "author_as_published": "Catjacket",
   "credit_as_published": "Own work",
-  "title": "File:Road signs Senegal.jpg",
-  "description": "Road signs allow drivers to find out what to expect at the end of an area or a main road. There are many of them in Africa. But they suffer from some drivers or other people sticking them with photos or posters.",
-  "date": "2020-04-07 08:12:57",
+  "title": "File:Linguere sign.jpg",
+  "description": "The welcome sign in Linguere, Senegal",
+  "date": "2021-04-15 09:57:04",
   "categories": [
-    "Directional road signs in Senegal",
-    "Transport in Thiès"
+    "Linguère"
   ],
-  "camera_location": [
-    14.794154,
-    -16.919452
-  ],
+  "camera_location": null,
   "found_by": "keyword",
-  "bytes": 578963,
-  "width": 1280,
-  "height": 1734,
-  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Road_signs_Senegal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "bytes": 836082,
+  "width": 1920,
+  "height": 1440,
+  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Linguere_sign.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
   "derivative": ""
 }

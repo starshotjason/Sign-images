@@ -382,5 +382,25 @@
  "fe4415db8-b754-44f3-824c-0efa77551fdf": {
   "accept": false,
   "reason": "beach landscape; no sign"
+ },
+ "f0bcea426-1253-44bf-8e0c-512846270472": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "N'ICE CREAM",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "N'ice Cream",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Blue lettering on the white, polka-dot-decorated wall of an ice-cream shop in Dakar (Flickr geotag 14.6689, -17.4405, central Dakar). A cut-off building name at the far left ('IMMEUBLE EL ...') is a distractor; a person at the right edge is incidental."
  }
 }

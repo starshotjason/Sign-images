@@ -164,5 +164,109 @@
   },
   "difficulty": "medium",
   "notes": "Gilt serif lettering on a curved plum-coloured fascia with a fleur-de-lis, The Square, Buxton (Derbyshire); a bronze stag sculpture sits above. The first 'O' is partly hidden behind a festoon light bulb and the curve of the fascia; festoon bulbs cross the text line."
+ },
+ "c107893683": {
+  "accept": false,
+  "reason": "paper notices in a shop window ('COVID UPDATE' and 'Opening Times'); no business or place name"
+ },
+ "c154413077": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "EGLWYS GYMRAEG",
+    "lang": "cy"
+   },
+   {
+    "text": "COVENTRY",
+    "lang": "en"
+   },
+   {
+    "text": "WELSH CHURCH",
+    "lang": "en"
+   },
+   {
+    "text": "(Presbyterian)",
+    "lang": "en"
+   },
+   {
+    "text": "\"DEUWCH, CANWN I'R ARGLWYDD......\"",
+    "lang": "cy"
+   },
+   {
+    "text": "OEDFA'R SUL AM 2.30pm",
+    "lang": "cy"
+   }
+  ],
+  "expect": {
+   "query": "Coventry Welsh Church",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Blue church noticeboard in Welsh and English, Coventry. The upper part (name, Sunday service time) is clear; the lower part (weekly meetings, minister's name and phone) is hidden behind a shrub and not transcribed."
+ },
+ "c164602464": {
+  "accept": false,
+  "reason": "'Weight limit' 7.5 t regulatory sign is the subject; the small brown 'Landmark Centre' sign is distant and secondary"
+ },
+ "c29162147": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "01392",
+    "lang": "und"
+   },
+   {
+    "text": "279606",
+    "lang": "und"
+   },
+   {
+    "text": "Winterwood 2",
+    "lang": "en"
+   },
+   {
+    "text": "Prop:",
+    "lang": "en"
+   },
+   {
+    "text": "J.Chappelle.",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Winterwood",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Arched green fascia over a furniture shop in a brick vault at Exeter Quay; the '2' is red. House number plate '21' above the sign; framed boards on the doors ('mat askham DESIGNER MAKER', 'WINTERWOOD 2 ... 21 The Quay, Exeter') are distractors. Two shoppers in the doorway are incidental."
+ },
+ "c52448871": {
+  "accept": true,
+  "reason": "",
+  "kind": "transit",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "GLOUCESTER ROAD STATION",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Gloucester Road",
+   "type": "stop"
+  },
+  "difficulty": "medium",
+  "notes": "Gold lettering on the oxblood-tiled facade of the London Underground station, written with decorative interpunct dots between the words ('GLOUCESTER·ROAD·STATION'). Shop fascias below ('eurochange Bureau de Change', '138 FLOWERS INC 020 7373 3041') and a cycle-hire map pylon are distractors."
  }
 }

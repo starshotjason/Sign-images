@@ -1,27 +1,25 @@
 {
   "source": "commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Ulica_Zofke_Kvedrove_tabla_1.jpg",
-  "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Ulica_Zofke_Kvedrove_tabla_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Jerova_Vas_Slovenia_-_sign.jpg",
+  "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Jerova_Vas_Slovenia_-_sign.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
   "license_as_published": "CC BY-SA 4.0",
   "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0",
-  "author_as_published": "LanaDH",
+  "author_as_published": "Doremo",
   "credit_as_published": "Own work",
-  "title": "File:Ulica Zofke Kvedrove tabla 1.jpg",
-  "description": "Street named after Slovenian writer and publicist.",
-  "date": "2020-12-17 09:39:40",
+  "title": "File:Jerova Vas Slovenia - sign.jpg",
+  "description": "Street sign in Jerova Vas, Municipality of Grosuplje, Slovenia",
+  "date": "2023-06-24 08:31:45",
   "categories": [
-    "Green street signs in Slovenia",
-    "Street signs in Ljubljana",
-    "Ulica Zofke Kvedrove"
+    "Jerova Vas"
   ],
   "camera_location": [
-    46.0725,
-    14.491389
+    45.965317,
+    14.663262
   ],
   "found_by": "keyword",
-  "bytes": 501698,
+  "bytes": 324203,
   "width": 1920,
-  "height": 3413,
-  "downloaded_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Ulica_Zofke_Kvedrove_tabla_1.jpg/1920px-Ulica_Zofke_Kvedrove_tabla_1.jpg",
-  "derivative": "Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org)"
+  "height": 1233,
+  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Jerova_Vas_Slovenia_-_sign.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "derivative": ""
 }

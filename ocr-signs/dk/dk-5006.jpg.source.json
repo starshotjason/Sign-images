@@ -1,23 +1,24 @@
 {
-  "source": "panoramax",
-  "source_url": "https://panoramax.ign.fr/#focus=pic&pic=92c8f8a2-d420-4a6c-8c4d-83de09a57a4b",
-  "original_url": "https://panoramax.ign.fr/api/pictures/92c8f8a2-d420-4a6c-8c4d-83de09a57a4b/hd.jpg",
-  "license_as_published": "etalab-2.0",
-  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
-  "author_as_published": "elgaard@agol.dk",
-  "credit_as_published": "Panoramax, instance ign (https://panoramax.ign.fr)",
-  "title": "Panoramax picture 92c8f8a2-d420-4a6c-8c4d-83de09a57a4b (Copenhagen, 2025-03-28)",
-  "description": "Street-level picture on Panoramax, taken 2025-03-28 near Copenhagen by elgaard@agol.dk, sequence 4456efca-220e-4870-aaf1-d53c297861e9, heading 14. OCR (PP-OCRv3) read: Netto | Gallery | 7-22 | ALLEDAGE | URE",
-  "date": "2025-03-28",
-  "categories": [],
-  "camera_location": [
-    55.683888889,
-    12.587777778
+  "source": "commons",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Old_Mexican_Restaurant_in_Odense.jpg",
+  "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Old_Mexican_Restaurant_in_Odense.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "license_as_published": "CC0",
+  "license_url_as_published": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "author_as_published": "Bo Jessen",
+  "credit_as_published": "Own work",
+  "title": "File:Old Mexican Restaurant in Odense.jpg",
+  "description": "Tortilla Flats. Forår i Odense 2012",
+  "date": "2012-03-04 10:51:08",
+  "categories": [
+    "Mexican style restaurants",
+    "Restaurant signs in Denmark",
+    "Shop signs in Odense"
   ],
-  "found_by": "panoramax-ocr:Copenhagen",
-  "bytes": 477563,
-  "width": 1880,
-  "height": 1080,
-  "downloaded_url": "https://panoramax.ign.fr/api/pictures/92c8f8a2-d420-4a6c-8c4d-83de09a57a4b/hd.jpg",
-  "derivative": "crop 40,0,1920,1080 of the 1920x1080 HD picture"
+  "camera_location": null,
+  "found_by": "keyword",
+  "bytes": 395747,
+  "width": 1920,
+  "height": 1281,
+  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Old_Mexican_Restaurant_in_Odense.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "derivative": ""
 }

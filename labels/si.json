@@ -78,5 +78,289 @@
  "pd93eaef26a": {
   "accept": false,
   "reason": "low-contrast embossed paragraph on a fountain sculpture; the title is not reliably legible"
+ },
+ "c117603151": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ČEVICA",
+    "lang": "sl"
+   }
+  ],
+  "expect": {
+   "query": "Čevica",
+   "type": "place"
+  },
+  "difficulty": "easy",
+  "notes": "Red enamel plate with white capitals on a wall in Čevica (Logatec), a downpipe at left. Note the caron on Č."
+ },
+ "c133551927": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Jerova vas",
+    "lang": "sl"
+   }
+  ],
+  "expect": {
+   "query": "Jerova vas",
+   "type": "place"
+  },
+  "difficulty": "easy",
+  "notes": "White street-name blade with black text in a chrome frame on a pole; settlement-name street address (Grosuplje municipality)."
+ },
+ "c138549419": {
+  "accept": false,
+  "reason": "temporary school-route warning tripod ('Šolska pot / POZOR, OTROCI !'); warning text, no place name"
+ },
+ "c151572804": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Čirče",
+    "lang": "sl"
+   }
+  ],
+  "expect": {
+   "query": "Čirče",
+   "type": "place"
+  },
+  "difficulty": "easy",
+  "notes": "Two identical white blades on one pole, both reading 'Čirče'. The file title says 'Čirčiče' (the official settlement name), but the plates read 'Čirče'; transcribed as written."
+ },
+ "c151572935": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Cesta na Klanec",
+    "lang": "sl"
+   }
+  ],
+  "expect": {
+   "query": "Cesta na Klanec",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "White street-name blade in a chrome frame against foliage, Kranj."
+ },
+ "c158970102": {
+  "accept": false,
+  "reason": "wide road view of a former border crossing; the only sign (Kompas Shop pylon) is tiny and distant, and a van's number plate is visible"
+ },
+ "c20714964": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "TRUBARJEVA",
+    "lang": "sl"
+   },
+   {
+    "text": "ULICA",
+    "lang": "sl"
+   }
+  ],
+  "expect": {
+   "query": "Trubarjeva ulica",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Frame-filling red enamel street plate, Radovljica."
+ },
+ "c27245165": {
+  "accept": false,
+  "reason": "no-stopping sign with 'INTERVENCIJSKA POT' (emergency access route) plate and tow-away pictogram; regulation, no place name"
+ },
+ "c27760780": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "A1",
+    "lang": "und"
+   },
+   {
+    "text": "E70",
+    "lang": "und"
+   },
+   {
+    "text": "E61",
+    "lang": "und"
+   },
+   {
+    "text": "Trst",
+    "lang": "sl"
+   },
+   {
+    "text": "Koper",
+    "lang": "sl"
+   },
+   {
+    "text": "Kozina",
+    "lang": "sl"
+   },
+   {
+    "text": "Nova Gorica",
+    "lang": "sl"
+   },
+   {
+    "text": "H4",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "Koper",
+   "type": "place"
+  },
+  "difficulty": "hard",
+  "notes": "Two overhead motorway gantry signs seen from a moving car at a distance: green A1/E70/E61 board (Trst, Koper, Kozina) at left and blue H4 board (Nova Gorica, with an oval 'I' Italy sticker) at right. A smaller green toll notice ('plačilo cestnine / pay toll / ...') and a van's rear are distractors."
+ },
+ "c29414166": {
+  "accept": false,
+  "reason": "1961 archival street scene; the 'PREŠERNOVA ULICA' plate is too small and grainy to read reliably and the 'VARTEKS OBLEKE' shop lettering is a long-gone business"
+ },
+ "c30382783": {
+  "accept": false,
+  "reason": "1959 archival photo of Glavni trg, Maribor; only a keep-right arrow sign, no text"
+ },
+ "c34693818": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "USKOVNICA",
+    "lang": "sl"
+   },
+   {
+    "text": "PL.ŠEH",
+    "lang": "sl"
+   },
+   {
+    "text": "Konjska dolina",
+    "lang": "sl"
+   }
+  ],
+  "expect": {
+   "query": "Uskovnica",
+   "type": "place"
+  },
+  "difficulty": "medium",
+  "notes": "Wooden hiking fingerposts in Triglav National Park. Clear: red-brown 'USKOVNICA' arrow and dark 'PL.ŠEH' arrow on the right post, 'Konjska dolina' on the left board followed by a hand-painted distance (about '4.8 km', decimal mark unclear, not transcribed). The weathered lower-right board ('Uskovnica Triglav 6h / 0.7 km', faded) is not part of the target lines."
+ },
+ "c34693821": {
+  "accept": false,
+  "reason": "hand-painted farm-produce advert ('SIR, SKUTA, MLEKO IN ŠE ...' with arrows); no place or business name"
+ },
+ "c34693837": {
+  "accept": false,
+  "reason": "STOP sign and disabled-parking pictogram are the subject; the brown tourist board at right is cut off at the frame ('Prikaz zgodovine Vita...')"
+ },
+ "c57479032": {
+  "accept": false,
+  "reason": "hand-written 'OPEN / ODPRTO' on a vinyl record; generic open sign, no business name"
+ },
+ "c69208083": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Ulica",
+    "lang": "sl"
+   },
+   {
+    "text": "Mlinska cesta",
+    "lang": "sl"
+   }
+  ],
+  "expect": {
+   "query": "Mlinska cesta",
+   "type": "street"
+  },
+  "difficulty": "medium",
+  "notes": "Yellow street-name blade with the Slovenske Konjice coat of arms (white horse); slightly soft, dusk light. A small code under the crest ('JP 884680' or 'JP 834680', a digit is ambiguous) is not transcribed."
+ },
+ "c71393518": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ULICA",
+    "lang": "sl"
+   },
+   {
+    "text": "NA GRAD",
+    "lang": "sl"
+   }
+  ],
+  "expect": {
+   "query": "Ulica na grad",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Green enamel plate with decorative white border above a green-framed window, Ljubljana."
+ },
+ "c89242258": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Frizerski salon",
+    "lang": "sl"
+   },
+   {
+    "text": "MINI",
+    "lang": "sl"
+   }
+  ],
+  "expect": {
+   "query": "Frizerski salon Mini",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Carved wooden arrow-shaped sign for a hair salon in Polšnik; decorative curly lettering with dots that are not diacritics."
  }
 }

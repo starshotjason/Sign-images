@@ -1,25 +1,24 @@
 {
   "source": "commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Slovenian_Road_Sign_52.JPG",
-  "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Slovenian_Road_Sign_52.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-  "license_as_published": "CC BY-SA 3.0",
-  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/3.0",
-  "author_as_published": "MZaplotnik",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Street_Sign_Slovenske_Konjice.jpg",
+  "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Street_Sign_Slovenske_Konjice.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author_as_published": "Shabicht",
   "credit_as_published": "Own work",
-  "title": "File:Slovenian Road Sign 52.JPG",
-  "description": "Cestni znak, Vitanje, Slovenija",
-  "date": "2014-02-21 15:16:02",
+  "title": "File:Street Sign Slovenske Konjice.jpg",
+  "description": "Street sign at Slovenske Konjice, Slovenia",
+  "date": "2018-05-17 20:21:24",
   "categories": [
-    "Disabled parking road signs",
-    "Parking signs in Slovenia",
-    "Photographs of red octagonal stop signs",
-    "Red octagonal stop signs in Slovenia"
+    "Mlinska cesta (Slovenske Konjice)",
+    "Street signs in Slovenia",
+    "Yellow street signs in Slovenia"
   ],
   "camera_location": null,
   "found_by": "keyword",
-  "bytes": 1304122,
+  "bytes": 452217,
   "width": 1920,
-  "height": 2560,
-  "downloaded_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Slovenian_Road_Sign_52.JPG/1920px-Slovenian_Road_Sign_52.JPG",
-  "derivative": "Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org)"
+  "height": 1440,
+  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Street_Sign_Slovenske_Konjice.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "derivative": ""
 }

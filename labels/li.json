@@ -314,5 +314,101 @@
   },
   "difficulty": "medium",
   "notes": "Yellow hiking fingerposts at the 'Post Vaduz' waypoint (455 m) in Vaduz; the white location plate names where the post stands. Times are written with spaces as on the sign ('1h 15 min'). Via Alpina plate on top, a bilingual 'DROHNENVERBOT / NO DRONE ZONE' sign below and a map board at left are distractors."
+ },
+ "c79689081": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Gnalp",
+    "lang": "de"
+   },
+   {
+    "text": "1180 m",
+    "lang": "und"
+   },
+   {
+    "text": "Triesenberg",
+    "lang": "de"
+   },
+   {
+    "text": "Wanderweg",
+    "lang": "de"
+   }
+  ],
+  "expect": {
+   "query": "Gnalp",
+   "type": "place"
+  },
+  "difficulty": "medium",
+  "notes": "Signpost at Gnalp (Triesenberg): small white location plate 'Gnalp / 1180 m' at the top of the pole, two maroon mountain-bike route arrows each with a small 'Triesenberg' route badge, and a yellow 'Wanderweg' arrow. Shot from below; the location plate is the target."
+ },
+ "c79689082": {
+  "accept": false,
+  "reason": "generic yellow 'Wanderweg' hiking-trail diamond on a barn wall; names no place"
+ },
+ "c79689333": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Masescha 30 min",
+    "lang": "de"
+   },
+   {
+    "text": "Triesenberg 1h 15 min",
+    "lang": "de"
+   },
+   {
+    "text": "Bargella 30 min",
+    "lang": "de"
+   },
+   {
+    "text": "Fürstensteig 1h 15 min",
+    "lang": "de"
+   },
+   {
+    "text": "Gaflei 30 min",
+    "lang": "de"
+   },
+   {
+    "text": "Silum",
+    "lang": "de"
+   },
+   {
+    "text": "1469 m",
+    "lang": "und"
+   },
+   {
+    "text": "Sücka 30 min",
+    "lang": "de"
+   },
+   {
+    "text": "Steg 45 min",
+    "lang": "de"
+   },
+   {
+    "text": "Rheintalseite",
+    "lang": "de"
+   },
+   {
+    "text": "Drei Schwestern 3h 15 min",
+    "lang": "de"
+   }
+  ],
+  "expect": {
+   "query": "Silum",
+   "type": "place"
+  },
+  "difficulty": "medium",
+  "notes": "Yellow Swiss-style hiking fingerpost at Silum (white location panel 'Silum / 1469 m' in the middle) with a blue 'Drei Schwestern' mountain-route arrow and route-66 badges below. The upper right board ('Sücka / Steg ... 30 min') has a third line hidden behind the lower board, not transcribed. Small text on the route-66 and Via Alpina plates is illegible. People at the far left are incidental."
  }
 }
