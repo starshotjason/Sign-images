@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/11575466/124/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyNS84LzEzL3Byb2MvMTE1NzU0NjZfYWNkZGRiYzMwZTZmMzQ4N2NmY2Y2MGY0NjM2M2QzOTEuanBn",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "nursultan-ormonov",
+  "credit_as_published": "KartaView user nursultan-ormonov (user id 253145); © KartaView contributors",
+  "title": "KartaView photo 2622791899, sequence 11575466 #124 (Bishkek, 2025-08-12)",
+  "description": "Street-level picture on KartaView, taken 2025-08-12 near Bishkek by nursultan-ormonov, sequence 11575466, heading 274.87. OCR (PP-OCRv3) read: HEMAH | [unread] AAPLI",
+  "date": "2025-08-12",
+  "categories": [],
+  "camera_location": [
+    42.872459,
+    74.595715
+  ],
+  "found_by": "kartaview-ocr:Bishkek",
+  "bytes": 436816,
+  "width": 1800,
+  "height": 1350,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyNS84LzEzL3Byb2MvMTE1NzU0NjZfYWNkZGRiYzMwZTZmMzQ4N2NmY2Y2MGY0NjM2M2QzOTEuanBn",
+  "derivative": "crop 0,0,1800,1350 of the 2560x1440 full-size processed (blurred) picture"
+}

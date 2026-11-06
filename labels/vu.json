@@ -1,0 +1,318 @@
+{
+ "c126836716": {
+  "accept": false,
+  "reason": "pool safety warnings (no diving / no running, trilingual); names no place"
+ },
+ "c170311397": {
+  "accept": false,
+  "reason": "private-property and beware-of-dog warnings in Bislama; names no place"
+ },
+ "c17713894": {
+  "accept": false,
+  "reason": "vehicle branding (Tusker beer slogan on a truck tailgate) and a number plate"
+ },
+ "c17715900": {
+  "accept": false,
+  "reason": "hand-painted sale notice (advert copy) on a co-op wall; the co-op name is only part of a sale advert"
+ },
+ "c17716177": {
+  "accept": true,
+  "reason": "",
+  "kind": "hard",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ERNEST",
+    "lang": "en"
+   },
+   {
+    "text": "ROAD MARKET",
+    "lang": "en"
+   },
+   {
+    "text": "W.W.II",
+    "lang": "en"
+   },
+   {
+    "text": "MUSEUM",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Ernest's Road Market",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Hand-painted roadside stall/museum at Port Havannah, Efate. The fascia reads 'ERNEST' then a gap where letters have weathered off (a vertical stroke after T, probably the 'S' of ERNEST'S is gone), then 'ROAD MARKET' with red flowers covering the 'O' and a stroke after 'MARKET'. A float hides part of the 'E' in MUSEUM. Not transcribed: 'YOUR BEST SOUVENIR' board (partly hidden by the pole), 'SECOND WORLD WAR MEMORABILLIA. RUST IN PEACE.', 'FOR SALE AMERICAN COCA-COLA BOTTLE. AND DISPLAY PIECES OF WREKS.', and a 'W.W.II PLANE U.S.N.BASE' board with small dated lines."
+ },
+ "c195197747": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "BOUCHERIE",
+    "lang": "fr"
+   },
+   {
+    "text": "DU MARCHÉ",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "Boucherie du Marché",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Old colour slide of the Port Vila market; the painted name board is on the red building behind the vendors. MARCHÉ has an acute accent. Many market vendors in the foreground (incidental)."
+ },
+ "c201642212": {
+  "accept": false,
+  "reason": "'NO SAKEM TOTI' no-littering notice (Port Vila City Council logo); names no place"
+ },
+ "c201642312": {
+  "accept": false,
+  "reason": "Bislama hygiene notices and a handwashing poster; names no place"
+ },
+ "c25269139": {
+  "accept": false,
+  "reason": "'U MAS PUSEM TRUCK NOMO' broken-truck notice on a windscreen; names no place"
+ },
+ "c27445082": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "USP",
+    "lang": "en"
+   },
+   {
+    "text": "THE UNIVERSITY OF THE SOUTH PACIFIC",
+    "lang": "en"
+   },
+   {
+    "text": "EMALUS CAMPUS",
+    "lang": "en"
+   },
+   {
+    "text": "L'UNIVERSITE DU PACIFIQUE SUD",
+    "lang": "fr"
+   },
+   {
+    "text": "UNIVESITI BLONG SAOT PASIFIK",
+    "lang": "bi"
+   }
+  ],
+  "expect": {
+   "query": "Emalus Campus",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Trilingual (English/French/Bislama) fascia over a covered walkway, Port Vila; seen at an angle from below. L'UNIVERSITE is written without an accent. A small 'RECEPTION' plate is a distractor."
+ },
+ "c27973862": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "VANUATU",
+    "lang": "en"
+   },
+   {
+    "text": "POST",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Vanuatu Post",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Post office in Port Vila: 'VANUATU' arched over a wave logo with 'POST' below, on the white wall panel at right and repeated over the entrance. Distractors: 'WESTERN UNION MONEY TRANSFER' panel, 'ATM' plate, '...u Ltd' fascia cut off at left, door stickers. Relief mural at lower right."
+ },
+ "c32167568": {
+  "accept": false,
+  "reason": "handwritten free-condom note on a basket; not a place sign"
+ },
+ "c32167664": {
+  "accept": false,
+  "reason": "duplicate of c32167568 (identical free-condom basket note)"
+ },
+ "c50131012": {
+  "accept": false,
+  "reason": "hand-painted compost instruction board in Bislama; names no place"
+ },
+ "c50945932": {
+  "accept": true,
+  "reason": "",
+  "kind": "transit",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Air Vanuatu",
+    "lang": "en"
+   },
+   {
+    "text": "NORSUP AIRPORT",
+    "lang": "en"
+   },
+   {
+    "text": "MALEKULA",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Norsup Airport",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Small terminal shelter on Malekula with passengers waiting (incidental). 'Air Vanuatu' is the airline's italic logo. Distractors: 'We've got the Nambas! Accommodation & Tours' board, 'DEPARTURE...' board and a 'Ma... Handicra...' sign at right (cut off)."
+ },
+ "c5100987": {
+  "accept": true,
+  "reason": "",
+  "kind": "hard",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "WeL COMe",
+    "lang": "en"
+   },
+   {
+    "text": "To",
+    "lang": "en"
+   },
+   {
+    "text": "LeLePa SDA CHURCH",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Lelepa SDA Church",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Hand-painted board at Natapau, Lelepa Island, in mixed-case hand lettering ('WEL COME' split in two, lowercase-style e and a). Case is transcribed as it looks; an OCR match should be case-insensitive. SDA = Seventh-day Adventist."
+ },
+ "c52741643": {
+  "accept": false,
+  "reason": "generic carved 'WELKAM' plaque; no place name"
+ },
+ "c57631946": {
+  "accept": true,
+  "reason": "",
+  "kind": "transit",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "AEROPORT DE PORT VILA BAUERFIELD INTERNATIONAL AIRPORT",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "Bauerfield International Airport",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Terminal fascia in white letters on a blue band, seen at an angle (the left end is foreshortened). AEROPORT is written without an accent; French and English are mixed in one line. In front, a large group of people poses holding 'WELKAM LO VANUATU' letter boards with 'Vanuatu DISCOVER WHAT MATTERS' tourism logos (slogan distractor). A small plate at the far left end of the fascia is illegible."
+ },
+ "c58867140": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "NATIONAL MUSEUM",
+    "lang": "en"
+   },
+   {
+    "text": "OF VANUATU",
+    "lang": "en"
+   },
+   {
+    "text": "MUSEE",
+    "lang": "fr"
+   },
+   {
+    "text": "NATIONAL DE VANUATU",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "National Museum of Vanuatu",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Orange roadside board in Port Vila, mid-distance. MUSEE without accent. Not transcribed: the small italic taglines ('\"Explore Vanuatu's Diverse Cultures\"' / '\"Explorez les Diverses Cultures du Vanuatu\"'), 'Sponsored by' with a BRED Bank logo, and a second partly hidden white board behind the ring sculpture ('NATIONAL MU... OF VANU... DISCOV...')."
+ },
+ "c58867238": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Café Deli",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "Café Deli",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Painted name on a blue fascia in Port Vila; Café with an acute accent. Orange 'SALE' / 'CLEARANCE SALE' window cards and an A-board are advert distractors; a person stands in the doorway."
+ },
+ "c58867415": {
+  "accept": false,
+  "reason": "pile of traffic pictogram signs (STOP, no entry, no turn); no place name"
+ },
+ "c58867421": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "FUNG KWAN CHEE",
+    "lang": "zh"
+   }
+  ],
+  "expect": {
+   "query": "Fung Kwan Chee",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Hanging red-lettered shop board over a gated doorway in Port Vila; a romanised Chinese (Cantonese) store name. Small poster on the wall at right is illegible."
+ },
+ "c77669299": {
+  "accept": false,
+  "reason": "crop of c57631946 showing only the 'WELKAM LO VANUATU' slogan letters held by people; slogan, near-duplicate"
+ }
+}

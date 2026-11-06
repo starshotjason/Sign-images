@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.osm-hr.org/#focus=pic&pic=181340d6-2d07-45ee-ba8c-815e9b0284b8",
+  "original_url": "https://panoramax.osm-hr.org/permanent/18/13/40/d6/2d07-45ee-ba8c-815e9b0284b8.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "Janjko",
+  "credit_as_published": "Panoramax, instance osm-hr (https://panoramax.osm-hr.org)",
+  "title": "Panoramax picture 181340d6-2d07-45ee-ba8c-815e9b0284b8 (Zagreb, 2026-07-12)",
+  "description": "Street-level picture on Panoramax, taken 2026-07-12 near Zagreb by Janjko, sequence 35c0532c-b5f1-4030-a25b-41f2f27bc306, heading 0. OCR (PP-OCRv3) read: FOCACCINA | ZLATAR | Panetterie | ZLATAR | UVELIR | FOCACCINA | YOU | HUNGRY",
+  "date": "2026-07-12",
+  "categories": [],
+  "camera_location": [
+    45.8139427,
+    15.975978
+  ],
+  "found_by": "panoramax-ocr:Zagreb",
+  "bytes": 2985658,
+  "width": 4032,
+  "height": 2268,
+  "downloaded_url": "https://panoramax.osm-hr.org/permanent/18/13/40/d6/2d07-45ee-ba8c-815e9b0284b8.jpg",
+  "derivative": "whole 4032x2268 HD picture as served by the Panoramax instance (byte-identical; the service blurs faces and number plates), not cropped"
+}

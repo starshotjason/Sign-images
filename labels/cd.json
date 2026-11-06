@@ -1,0 +1,30 @@
+{
+ "fe5b0372a-568a-46c6-8cb7-5f907979dfc3": {
+  "accept": false,
+  "reason": "people at a condolence-book signing indoors; no sign"
+ },
+ "k2627014700": {
+  "accept": false,
+  "reason": "open diary with product logos, not a sign"
+ },
+ "k2627014742": {
+  "accept": false,
+  "reason": "laptop keyboard and screen, not a sign"
+ },
+ "c112867092": {
+  "accept": false,
+  "reason": "news photo of a MONUSCO/FARDC handover signing ceremony; no sign, people are the subject"
+ },
+ "c112867112": {
+  "accept": false,
+  "reason": "news photo of a MONUSCO/FARDC handover ceremony; no sign, faces are the subject"
+ },
+ "c112867104": {
+  "accept": false,
+  "reason": "news photo of a MONUSCO/FARDC document signing; no sign"
+ },
+ "c112867103": {
+  "accept": false,
+  "reason": "news photo of a MONUSCO/FARDC handover ceremony; no sign, faces are the subject"
+ }
+}

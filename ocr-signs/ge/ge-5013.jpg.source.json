@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=7fdf0c68-bbb7-455e-a712-9465b14b6095",
+  "original_url": "https://panoramax.openstreetmap.fr/images/7f/df/0c/68/bbb7-455e-a712-9465b14b6095.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "Robot8A",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture 7fdf0c68-bbb7-455e-a712-9465b14b6095 (Kutaisi, 2020-01-15)",
+  "description": "Street-level picture taken 2020-01-15 near Kutaisi by Robot8A, sequence bbb3f4d8-02eb-4bf7-abb6-240ac3e16f9b, heading 76. OCR (PP-OCRv3) read: HOSTEL | TamTeam | nvest Center- | HOSTEL LUXE",
+  "date": "2020-01-15",
+  "categories": [],
+  "camera_location": [
+    42.264218965,
+    42.674239454
+  ],
+  "found_by": "panoramax-ocr:Kutaisi",
+  "bytes": 414751,
+  "width": 1598,
+  "height": 1198,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/7f/df/0c/68/bbb7-455e-a712-9465b14b6095.jpg",
+  "derivative": "crop 1012,326,2610,1524 of the 4032x3024 HD picture"
+}

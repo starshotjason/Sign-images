@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=b0675d72-32af-41a6-b5dc-bc8b53fd8679",
+  "original_url": "https://panoramax.openstreetmap.fr/images/b0/67/5d/72/32af-41a6-b5dc-bc8b53fd8679.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "Ondřej Lopatka",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture b0675d72-32af-41a6-b5dc-bc8b53fd8679 (Prague, 2025-11-25)",
+  "description": "Street-level picture on Panoramax, taken 2025-11-25 near Prague by Ondřej Lopatka, sequence 83d15866-20c5-4009-a93d-eb0a8fab13b2, heading 50. OCR (PP-OCRv3) read: Bohemta",
+  "date": "2025-11-25",
+  "categories": [],
+  "camera_location": [
+    50.0829755,
+    14.4216119
+  ],
+  "found_by": "panoramax-ocr:Prague",
+  "bytes": 194679,
+  "width": 1445,
+  "height": 1083,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/b0/67/5d/72/32af-41a6-b5dc-bc8b53fd8679.jpg",
+  "derivative": "crop 0,0,1445,1083 of the 4000x3000 HD picture"
+}

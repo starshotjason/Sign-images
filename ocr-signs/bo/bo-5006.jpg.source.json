@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=572ee9f1-5f25-454a-ba8c-68e97bef1b74",
+  "original_url": "https://panoramax.openstreetmap.fr/images/57/2e/e9/f1/5f25-454a-ba8c-68e97bef1b74.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "rodolfovargas",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture 572ee9f1-5f25-454a-ba8c-68e97bef1b74 (La Paz, 2025-02-10)",
+  "description": "Street-level picture taken 2025-02-10 near La Paz by rodolfovargas, sequence 36264412-25e4-497b-9ef6-30d2806da8a8, heading 124. OCR (PP-OCRv3) read: CAJA BANCARIA ESTATAL DE SALUD",
+  "date": "2025-02-10",
+  "categories": [],
+  "camera_location": [
+    -16.497802,
+    -68.125679
+  ],
+  "found_by": "panoramax-ocr:La Paz",
+  "bytes": 3418216,
+  "width": 3000,
+  "height": 3810,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/57/2e/e9/f1/5f25-454a-ba8c-68e97bef1b74.jpg",
+  "derivative": "crop 0,0,3000,3810 of the 3000x4000 HD picture"
+}

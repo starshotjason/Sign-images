@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/117631/998/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMy5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE3LzQvOC9wcm9jLzExNzYzMV82YWJkZl81OGU5MThiZTM2YzE4LmpwZw",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "mackerski",
+  "credit_as_published": "KartaView user mackerski (user id 1963); © KartaView contributors",
+  "title": "KartaView photo 25465335, sequence 117631 #998 (Dublin, 2017-04-08)",
+  "description": "Street-level picture on KartaView, taken 2017-04-08 near Dublin by mackerski, sequence 117631, heading 270.29. OCR (PP-OCRv3) read: Caolas OfLicene",
+  "date": "2017-04-08",
+  "categories": [],
+  "camera_location": [
+    53.359145,
+    -6.25852
+  ],
+  "found_by": "kartaview-ocr:Dublin",
+  "bytes": 200465,
+  "width": 1200,
+  "height": 900,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMy5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE3LzQvOC9wcm9jLzExNzYzMV82YWJkZl81OGU5MThiZTM2YzE4LmpwZw",
+  "derivative": "crop 496,1036,1696,1936 of the 4032x3024 full-size processed (blurred) picture"
+}

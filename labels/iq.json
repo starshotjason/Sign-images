@@ -1,0 +1,601 @@
+{
+  "c156544775": {
+    "accept": true,
+    "reason": "",
+    "kind": "address plate",
+    "scripts": [
+      "Arab"
+    ],
+    "lines": [
+      {
+        "text": "زقاق",
+        "lang": "ar",
+        "latin": "Zuqaq (Alley)"
+      },
+      {
+        "text": "١٥",
+        "lang": "und",
+        "latin": "15"
+      },
+      {
+        "text": "محلة ٢٠٣",
+        "lang": "ar",
+        "latin": "Mahalla 203 (Block 203)"
+      },
+      {
+        "text": "حي الدواسة",
+        "lang": "ar",
+        "latin": "Hay al-Dawwasa (Dawwasa district)"
+      }
+    ],
+    "expect": {
+      "query": "الدواسة",
+      "type": "place"
+    },
+    "difficulty": "easy",
+    "notes": "Mosul painted metal address plate: alley (zuqaq) 15, mahalla 203, Dawwasa district, with a right-pointing triangle. Arabic-Indic digits. The dot of the first letter of زقاق is faint. Ends in ة (two dots visible)."
+  },
+  "c156629108": {
+    "accept": false,
+    "reason": "plate torn and paint-smeared: mahalla number and district name only partly legible (near-duplicate format of other Mosul plates)"
+  },
+  "c157462162": {
+    "accept": true,
+    "reason": "",
+    "kind": "address plate",
+    "scripts": [
+      "Arab"
+    ],
+    "lines": [
+      {
+        "text": "زقاق",
+        "lang": "ar",
+        "latin": "Zuqaq (Alley)"
+      },
+      {
+        "text": "٤٣",
+        "lang": "und",
+        "latin": "43"
+      },
+      {
+        "text": "محلة ٢١٠",
+        "lang": "ar",
+        "latin": "Mahalla 210 (Block 210)"
+      },
+      {
+        "text": "المنصورية",
+        "lang": "ar",
+        "latin": "al-Mansuriyya"
+      }
+    ],
+    "expect": {
+      "query": "المنصورية",
+      "type": "place"
+    },
+    "difficulty": "medium",
+    "notes": "Small white Mosul alley plate on a plastered wall, paint drips across it; plate is small in frame. The first digit of ٢١٠ is partly faded. Arabic-Indic digits."
+  },
+  "c158961837": {
+    "accept": true,
+    "reason": "",
+    "kind": "address plate",
+    "scripts": [
+      "Arab"
+    ],
+    "lines": [
+      {
+        "text": "زقاق",
+        "lang": "ar",
+        "latin": "Zuqaq (Alley)"
+      },
+      {
+        "text": "٣",
+        "lang": "und",
+        "latin": "3"
+      },
+      {
+        "text": "محلة ٢٢٠",
+        "lang": "ar",
+        "latin": "Mahalla 220 (Block 220)"
+      },
+      {
+        "text": "النبي جرجيس",
+        "lang": "ar",
+        "latin": "al-Nabi Jarjis"
+      }
+    ],
+    "expect": {
+      "query": "النبي جرجيس",
+      "type": "place"
+    },
+    "difficulty": "medium",
+    "notes": "Tilted (about 25 degrees) white alley plate in Mosul old city: alley 3, mahalla 220, Nabi Jarjis quarter. Arabic-Indic digits."
+  },
+  "f5b806cc5-07eb-4fac-9a11-44d0a3eb5f56": {
+    "accept": false,
+    "reason": "near-duplicate of c22188447 (same Erbil Baghdad/Kirkuk/Mosul gantry signage) and too low-res to resolve Kurdish diacritics"
+  },
+  "c112990914": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "City Centre - ناو شار",
+        "lang": "en",
+        "latin": "City Centre - Naw Shar"
+      },
+      {
+        "text": "BAGHDAD - بەغدا",
+        "lang": "en",
+        "latin": "Baghdad - Bexda"
+      },
+      {
+        "text": "KIRKUK - کەرکوک",
+        "lang": "en",
+        "latin": "Kirkuk - Kerkuk"
+      },
+      {
+        "text": "DUHOK - دهۆک",
+        "lang": "en",
+        "latin": "Duhok - Dihok"
+      },
+      {
+        "text": "SULAIMANI - سلێمانی",
+        "lang": "en",
+        "latin": "Sulaimani - Slemani"
+      },
+      {
+        "text": "نەخۆشخانەی ڕزگاری",
+        "lang": "ku",
+        "latin": "Nexoshxaney Rizgari (Rizgari Hospital)"
+      },
+      {
+        "text": "Rizgari Hospital",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Rizgari Hospital",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Stack of four direction signs on one pole in Erbil; each line pairs English with Sorani Kurdish (ckb, Arabic script with ە, ۆ, ێ, ڕ and keheh ک). Mixed-script lines are tagged en. Arrows: up (City Centre), left (Baghdad/Kirkuk), right (Duhok/Sulaimani, hospital). No-stopping/towing and crossing signs below are distractors."
+  },
+  "c25569453": {
+    "accept": false,
+    "reason": "busy Mutanabbi Street market scene with dozens of small shop/ad banners; no single target sign"
+  },
+  "c58609657": {
+    "accept": true,
+    "reason": "",
+    "kind": "building tag",
+    "scripts": [
+      "Arab"
+    ],
+    "lines": [
+      {
+        "text": "كلية التربية",
+        "lang": "ar",
+        "latin": "Kulliyyat al-Tarbiya (College of Education)"
+      },
+      {
+        "text": "قسم اللغة الأنكليزية",
+        "lang": "ar",
+        "latin": "Qism al-Lugha al-Inkliziyya (English Department)"
+      }
+    ],
+    "expect": {
+      "query": "كلية التربية",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Small panel above a doorway on a university building (Mosul coordinates); red outlined text on white, white text on green. Iraqi spelling الأنكليزية with ك. Two small logos are not transcribed; '28' painted by the door is a distractor."
+  },
+  "c58810633": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "متحف",
+        "lang": "ar",
+        "latin": "Mathaf (Museum)"
+      },
+      {
+        "text": "نبوخذنصر",
+        "lang": "ar",
+        "latin": "Nabukhadhnasr (Nebuchadnezzar)"
+      },
+      {
+        "text": "Nebuchadnezzar II Museum",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Nebuchadnezzar II Museum",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Framed museum name board at Babylon. The Roman numeral II is rendered as two vertical bars (looks like '||'). Shadow of photographer and a person at the right edge are incidental."
+  },
+  "f98259389-c3dd-4c1b-a377-6c49199462ba": {
+    "accept": false,
+    "reason": "portrait of a person, no sign"
+  },
+  "c19832786": {
+    "accept": false,
+    "reason": "wrong country: Darvazeh Araq street sign in Nishapur, Iran"
+  },
+  "c21172587": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Syrc",
+      "Arab"
+    ],
+    "lines": [
+      {
+        "text": "گوندا ئەرادنا",
+        "lang": "ku",
+        "latin": "Gunda Eradna (Eradna village)"
+      },
+      {
+        "text": "قرية ارادن",
+        "lang": "ar",
+        "latin": "Qaryat Aradin (Aradin village)"
+      }
+    ],
+    "expect": {
+      "query": "ارادن",
+      "type": "place"
+    },
+    "difficulty": "medium",
+    "notes": "Hand-painted blue village sign in Dohuk province, trilingual. The TOP line is in Syriac script (Aramaic) and is NOT transcribed here (script outside the reader's set; not transcribed to avoid guessing). Lines above are the Kurdish (Badini, Arabic script) and Arabic lines. Small signature at bottom-left is a distractor."
+  },
+  "c17748845": {
+    "accept": false,
+    "reason": "four-photo collage about counterfeit 'Super LG' products/branding"
+  },
+  "c22188447": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "BAGHDAD - بەغدا",
+        "lang": "en",
+        "latin": "Baghdad - Bexda"
+      },
+      {
+        "text": "KIRKUK - كەركوك",
+        "lang": "en",
+        "latin": "Kirkuk - Kerkuk"
+      },
+      {
+        "text": "پاركی منارە",
+        "lang": "ku",
+        "latin": "Parki Manare (Minaret Park)"
+      },
+      {
+        "text": "Minaret park",
+        "lang": "en"
+      },
+      {
+        "text": "Sheki Choli - شێخی چۆلی",
+        "lang": "en",
+        "latin": "Sheki Choli - Shexi Choli"
+      },
+      {
+        "text": "Media Hall - هۆلی میدیا",
+        "lang": "en",
+        "latin": "Media Hall - Holi Midya"
+      }
+    ],
+    "expect": {
+      "query": "Minaret Park",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Large Erbil roadside direction sign; target is the LEFT column (left-turn arrow). Kirkuk is written with Arabic kaf (final ك has the inner mark), so ك is used throughout that panel; medial kaf in پاركی is visually ambiguous. The middle (Mosul / Parliament / Erbil international airport / Saad Abdulla Hall) and right (Ainkawa) columns are distractors. Car plate and pedestrians are incidental."
+  },
+  "c8453631": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "تونێلی پێشڕەو",
+        "lang": "ku",
+        "latin": "Tuneli Peshrew (Peshraw Tunnel)"
+      },
+      {
+        "text": "PESHRAW TUNNEL",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Peshraw Tunnel",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Blue name board for a road tunnel near Sulaymaniyah; Sorani Kurdish (ckb) with ێ and ڕ. Photo slightly soft/blurred."
+  },
+  "c187121787": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "گاوانی",
+        "lang": "ku",
+        "latin": "Gawani"
+      },
+      {
+        "text": "GAWANI",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Gawani",
+      "type": "place"
+    },
+    "difficulty": "easy",
+    "notes": "Green village name sign on two posts, Bazyan subdistrict, Sulaymaniyah. Sorani Kurdish with Kurdish final ی (no dots)."
+  },
+  "f54fa5e02-9fc1-4f4c-9320-fb0cca2fe883": {
+    "accept": false,
+    "reason": "near-duplicate: night photo of the same Erbil gantry sign as c22188447"
+  },
+  "f0b2b4104-6034-4660-a967-8f50dc6c0d63": {
+    "accept": false,
+    "reason": "tea shop interior with framed photos; no sign"
+  },
+  "f16b0487a-df7b-4f1c-a580-a77ddb1d0b79": {
+    "accept": false,
+    "reason": "shelves of pottery in a gift shop; no sign"
+  },
+  "f3bab9436-c694-4193-b433-f1ac38be0bb5": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "مۆزەی رستن وچنینی کوردەواری",
+        "lang": "ku",
+        "latin": "Mozey Ristin w Chinini Kurdewari (Museum of Kurdish spinning and weaving)"
+      },
+      {
+        "text": "Kurdish Textile Museum",
+        "lang": "en"
+      },
+      {
+        "text": "متحف النسيج الكوردى",
+        "lang": "ar",
+        "latin": "Mathaf al-Nasij al-Kurdi (Kurdish Textile Museum)"
+      }
+    ],
+    "expect": {
+      "query": "Kurdish Textile Museum",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Painted direction board (red left arrow) at Erbil citadel; target is the RIGHT sign. Dry twigs hang over the Kurdish line; no diacritic mark is visible under the ر of رستن, so it is transcribed as plain ر. Arabic line ends with dotless ى. The left sign 'أنتيك القلعة / ANTIQ KALA' is a distractor."
+  },
+  "f8cbf95c2-0869-4780-abf3-8e28f6855e63": {
+    "accept": false,
+    "reason": "people posing in an antique shop; no sign"
+  },
+  "fed2c9a64-0a33-40d7-aa4f-ef6662e860ac": {
+    "accept": false,
+    "reason": "mall atrium overview; shop signs small and no single target"
+  },
+  "f2bc2fe43-3bf7-477d-9338-1b788de82c45": {
+    "accept": false,
+    "reason": "city skyline; hotel tower has no legible sign"
+  },
+  "f6fd9d82f-936c-4722-be6f-890784ae07e5": {
+    "accept": false,
+    "reason": "aerial view of amusement park; no sign"
+  },
+  "fb9138a2d-377d-4514-b98f-d53872281f33": {
+    "accept": false,
+    "reason": "near-duplicate of the Erbil Baghdad/Kirkuk/Mosul gantry signs (c22188447, fe0c6d48e); low-res"
+  },
+  "fca48c868-94b5-4e9c-a519-a8487c8c228f": {
+    "accept": false,
+    "reason": "zoo promenade; no legible sign"
+  },
+  "fdd45c674-d7e3-4dfc-b2de-44eca3aebe26": {
+    "accept": false,
+    "reason": "mosque exterior; no sign"
+  },
+  "c58810759": {
+    "accept": true,
+    "reason": "",
+    "kind": "building tag",
+    "scripts": [
+      "Arab"
+    ],
+    "lines": [
+      {
+        "text": "أتحاد الفروسية العراقي المركزي",
+        "lang": "ar",
+        "latin": "Ittihad al-Furusiyya al-'Iraqi al-Markazi (Iraqi Central Equestrian Federation)"
+      },
+      {
+        "text": "فرع ديالى",
+        "lang": "ar",
+        "latin": "Far' Diyala (Diyala branch)"
+      }
+    ],
+    "expect": {
+      "query": "اتحاد الفروسية",
+      "type": "poi"
+    },
+    "difficulty": "hard",
+    "notes": "Panel over an entrance gate, photographed at an angle and fairly small in frame. Spelled أتحاد (hamza on the alif) as on the sign; ديالى ends in dotless ى. Federation logo and horse picture are not text."
+  },
+  "fe0c6d48e-c281-4759-b427-99f8af9f7e17": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "MOSUL - موسل",
+        "lang": "en",
+        "latin": "Mosul - Mosil"
+      },
+      {
+        "text": "Parliament - پەرلەمان",
+        "lang": "en",
+        "latin": "Parliament - Perleman"
+      },
+      {
+        "text": "فرۆکەخانەی نێودەوڵەتی هەولێر",
+        "lang": "ku",
+        "latin": "Frokexaney Nêwdewletî Hewlêr (Erbil International Airport)"
+      },
+      {
+        "text": "Erbil international airport",
+        "lang": "en"
+      },
+      {
+        "text": "هۆلی شەهید سەعد عەبدولڵا",
+        "lang": "ku",
+        "latin": "Holi Shehid Se'd 'Ebdulla (Martyr Saad Abdulla Hall)"
+      },
+      {
+        "text": "Saad Abdulla Hall",
+        "lang": "en"
+      },
+      {
+        "text": "موصل - برلمان",
+        "lang": "ar",
+        "latin": "Mawsil - Barlaman (Mosul - Parliament)"
+      }
+    ],
+    "expect": {
+      "query": "Erbil International Airport",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Overhead gantry direction sign in Erbil (down-right arrow), close and sharp; trilingual English / Sorani Kurdish / Arabic. Diacritics as seen: ڵ (v above) in نێودەوڵەتی; plain ل in هۆلی and the first lam of عەبدولڵا, with the v mark only over the final lam-alef. Medial kaf in فرۆکە is visually ambiguous (ک/ك). Kurdistan flag and airplane pictograms; traffic light below is a distractor. Different panel and text from the roadside version in c22188447."
+  },
+  "f24bb5250-8a25-41ca-b5ed-5d2e9221e338": {
+    "accept": false,
+    "reason": "Mutanabbi Street market scene; overhead banner is mostly advertising copy, no clear single target"
+  },
+  "f89b34479-2779-440a-bdce-0876f2c6b22a": {
+    "accept": false,
+    "reason": "shop signs partly hidden by bunting and flags; people are the subject"
+  },
+  "ff9c9a6bf-51b4-479a-a07e-b8617410cf8f": {
+    "accept": false,
+    "reason": "shop sign too dark and blurred to read"
+  },
+  "c58479913": {
+    "accept": false,
+    "reason": "wrong country: dargah in Kolkata, India; Quranic verse panel, no place name"
+  },
+  "c159102905": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Arab"
+    ],
+    "lines": [
+      {
+        "text": "شارع الفاروق",
+        "lang": "ar",
+        "latin": "Shari' al-Faruq (Faruq Street)"
+      },
+      {
+        "text": "دورة قاسم الخياط",
+        "lang": "ar",
+        "latin": "Dawrat Qasim al-Khayyat (Qasim al-Khayyat roundabout)"
+      },
+      {
+        "text": "محلة الأحمدية",
+        "lang": "ar",
+        "latin": "Mahallat al-Ahmadiyya (Ahmadiyya quarter)"
+      }
+    ],
+    "expect": {
+      "query": "شارع الفاروق",
+      "type": "street"
+    },
+    "difficulty": "easy",
+    "notes": "Three green arrow-shaped fingerpost blades on one pole in Mosul, white Arabic text, photographed from below. Reading order: left blade (Faruq St), upper right (roundabout), lower right (mahalla)."
+  },
+  "f8a0bbf2d-686e-4529-99ba-3d167638bbe2": {
+    "accept": false,
+    "reason": "boat with hull branding 'PURSUIT' only (vehicle branding); no sign"
+  },
+  "ff710b797-0976-46bd-a55a-d28440747592": {
+    "accept": false,
+    "reason": "photo of Al-Zawra tower; no sign text"
+  },
+  "f8ee55ef4-65de-4331-9d91-8948d28bee3b": {
+    "accept": false,
+    "reason": "rifles in a shop interior; no sign"
+  },
+  "f99588fbb-15e8-4da1-9f03-9cf7527818a8": {
+    "accept": false,
+    "reason": "motion-blurred market scene; shop signs blurred and people dominate the frame"
+  },
+  "c154826761": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "I ♥ ALQOSH",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Alqosh",
+      "type": "place"
+    },
+    "difficulty": "easy",
+    "notes": "Large free-standing 'I love' letters at the entrance of Alqosh (Nineveh plains); the heart is a red heart shape (♥). The Q has a red diagonal tail. The small Arabic information board at the right end is too small to read and is not part of the label; car bonnet in the foreground."
+  },
+  "c92898736": {
+    "accept": false,
+    "reason": "ceremonial/news banner announcing the prime minister's opening of a hospital (press-event content), not a name board"
+  }
+}

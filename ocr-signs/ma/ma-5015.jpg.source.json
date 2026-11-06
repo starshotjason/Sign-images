@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/1173535/0/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlNy5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE4LzQvMzAvcHJvYy8xMTczNTM1X2E2YjUzXzAuanBn",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "kaartcam",
+  "credit_as_published": "KartaView user kaartcam (user id 13565); © KartaView contributors",
+  "title": "KartaView photo 236499173, sequence 1173535 #0 (Casablanca, 2018-04-14)",
+  "description": "Street-level picture on KartaView, taken 2018-04-14 near Casablanca by kaartcam, sequence 1173535, heading 0. OCR (PP-OCRv3) read: BMCI | ons | DIAL",
+  "date": "2018-04-14",
+  "categories": [],
+  "camera_location": [
+    33.590032,
+    -7.614137
+  ],
+  "found_by": "kartaview-ocr:Casablanca",
+  "bytes": 321048,
+  "width": 1200,
+  "height": 900,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlNy5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE4LzQvMzAvcHJvYy8xMTczNTM1X2E2YjUzXzAuanBn",
+  "derivative": "crop 0,224,1200,1124 of the 3072x1728 full-size processed (blurred) picture"
+}

@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=595e5086-7622-47db-81aa-c7a733028db9",
+  "original_url": "https://panoramax.openstreetmap.fr/images/59/5e/50/86/7622-47db-81aa-c7a733028db9.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "MatthiasMatthias",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture 595e5086-7622-47db-81aa-c7a733028db9 (San Jose CR, 2026-04-02)",
+  "description": "Street-level picture taken 2026-04-02 near San Jose CR by MatthiasMatthias, sequence 56c8d094-43c9-4481-9b77-16256d9f35c4, heading 111. OCR (PP-OCRv3) read: 黄SouvenirjADE巢 | LIDAD | MINIMARKET | (506)6078-8400 | TEL:6078-8400 | 1000AM-7:00PM | EADO | ITAL",
+  "date": "2026-04-02",
+  "categories": [],
+  "camera_location": [
+    9.9334993,
+    -84.0737429
+  ],
+  "found_by": "panoramax-ocr:San Jose CR",
+  "bytes": 1567202,
+  "width": 3195,
+  "height": 2295,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/59/5e/50/86/7622-47db-81aa-c7a733028db9.jpg",
+  "derivative": "crop 550,0,3745,2295 of the 4080x2295 HD picture"
+}

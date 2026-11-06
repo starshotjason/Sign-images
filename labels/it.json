@@ -1,0 +1,346 @@
+{
+ "f6935f21b-6d6d-4cc4-9d2f-d0174863a6bf": {
+  "accept": false,
+  "reason": "'VIETATO DI FUMARE' no-smoking warning, not a place sign"
+ },
+ "k1442676409": {
+  "accept": false,
+  "reason": "generic wayfinding panel on construction hoarding by the Colosseum ('Biglietterie / Ticket Office / 售票处'), names no specific place; motion-blurred"
+ },
+ "k1443820697": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "MaxMara",
+    "lang": "it"
+   }
+  ],
+  "expect": {
+   "query": "Max Mara",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "White MaxMara lettering on a dark fascia over a shop door, Rome (slightly soft, shot from a car); the name repeats cut-off on fascias left ('xMara') and right ('Ma'). House number '30' carved above. Lane-direction traffic sign in front is a distractor."
+ },
+ "k1443822489": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "KETER",
+    "lang": "it"
+   },
+   {
+    "text": "BANCO METALLI s.r.l.",
+    "lang": "it"
+   },
+   {
+    "text": "VIA MERULANA, 7",
+    "lang": "it"
+   },
+   {
+    "text": "COMPRO",
+    "lang": "it"
+   },
+   {
+    "text": "ORO",
+    "lang": "it"
+   },
+   {
+    "text": "ARGENTO",
+    "lang": "it"
+   },
+   {
+    "text": "DIAMANTI • ROLEX",
+    "lang": "it"
+   }
+  ],
+  "expect": {
+   "query": "Via Merulana 7",
+   "type": "addr"
+  },
+  "difficulty": "medium",
+  "notes": "Pole sign under a street clock, Rome, for the Keter gold-buying shop (crown logo over the R), giving its address. Small print under the street line and the 'T03' code are distractors; the small 'Banco Metalli s.r.l.' line is in small caps and slightly soft. An 'OPEN' LED sign on the right is a distractor."
+ },
+ "k675007990": {
+  "accept": false,
+  "reason": "street view with van branding ('Initial') only; no sign"
+ },
+ "p9a89ea7c62": {
+  "accept": false,
+  "reason": "coach branding ('troiani')"
+ },
+ "pa682e27df6": {
+  "accept": false,
+  "reason": "car-dealer advert on the back of a bus"
+ },
+ "pc80e8e7ead": {
+  "accept": false,
+  "reason": "closing-down sale posters in shop windows (SVENDITA TOTALE, SCONTI, BY GARDINI); building plaques too small"
+ },
+ "pc9df18d1eb": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "TORO",
+    "lang": "it"
+   },
+   {
+    "text": "ASSICURAZIONI",
+    "lang": "it"
+   }
+  ],
+  "expect": {
+   "query": "Toro Assicurazioni",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Marble plaque with engraved letters on a rusticated corner, Rome, slightly blurred; a tiny word above TORO is unreadable. Above it the bottom of a street plate shows '...CONSULTA' (cut off). Blurred one-way 'UNICO' sign and no-stopping sign below are distractors."
+ },
+ "pd07967ae43": {
+  "accept": false,
+  "reason": "theatre poster ('I 7 Re di Roma') is the main text; BAR / GASTRONOMIA sign is far and generic"
+ },
+ "pd1a2ed5e1b": {
+  "accept": false,
+  "reason": "exhibition advertising banner (Don McCullin / Boris Mikhailov) on Palazzo delle Esposizioni"
+ },
+ "c112502804": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "località Croso",
+    "lang": "it"
+   },
+   {
+    "text": "Crösu",
+    "lang": "lij"
+   }
+  ],
+  "expect": {
+   "query": "Croso",
+   "type": "place"
+  },
+  "difficulty": "medium",
+  "notes": "Bilingual Italian / Ligurian locality plate on a dry-stone wall in Giustenice (Liguria), slightly soft focus. Ligurian 'Crösu' has an o-umlaut. The tiny 'Comune di Giustenice' text above the crest is not legible and not transcribed."
+ },
+ "c113649247": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "corso",
+    "lang": "it"
+   },
+   {
+    "text": "M. D’Azeglio",
+    "lang": "it"
+   }
+  ],
+  "expect": {
+   "query": "Corso Massimo d'Azeglio",
+   "type": "street"
+  },
+  "difficulty": "medium",
+  "notes": "Turin street-name plate at the top right of a traffic-light pole; the traffic lights and the blue 'straight or right' pictogram dominate the frame. Typographic apostrophe in D’Azeglio."
+ },
+ "c170652103": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "GELATERIA ARTIGIANALE",
+    "lang": "it"
+   },
+   {
+    "text": "Serendipity",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Serendipity",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Oval fascia of an ice-cream shop over a rusty roller shutter, Viale Giacomo Matteotti 71, Nettuno; 'GELATERIA' left and 'ARTIGIANALE' right of a cone icon. House-number tile '71' on the left pillar. Distractors: menu strips (GRANITA AL CAFFE', BRIOCHE, FRAPPE', CREPES, YOGURT, BANANA SPLIT), ho-mobile.it flag/chalkboard and NOKIA / HUAWEI / SAMSUNG window lettering of the shop next door."
+ },
+ "c170926293": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "PARRUCCHIERIA HAIR CARE",
+    "lang": "it"
+   }
+  ],
+  "expect": {
+   "query": "Hair Care",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Hairdresser in Via Alarico Ciotti, Cisterna di Latina: name printed on the awning valance. A square wall panel above repeats 'PARRUCCHIERIA / HAIR CARE' around a drawn face with a small tagline that is not reliably legible; door decal and doormat repeat the name."
+ },
+ "c29798296": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "STERZING",
+    "lang": "de"
+   },
+   {
+    "text": "VIPITENO",
+    "lang": "it"
+   },
+   {
+    "text": "Willkommen",
+    "lang": "de"
+   },
+   {
+    "text": "Benvenuti",
+    "lang": "it"
+   }
+  ],
+  "expect": {
+   "query": "Sterzing",
+   "type": "place"
+  },
+  "difficulty": "easy",
+  "notes": "Bilingual German / Italian town welcome sign, South Tyrol, with a bicycle pictogram; frame-filling. 'Vipiteno' is the Italian name of the same town."
+ },
+ "c25972738": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Scarpe diem",
+    "lang": "it"
+   }
+  ],
+  "expect": {
+   "query": "Scarpe diem",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Shoe shop name in decorative script on a white awning, Pianello Val Tidone (Piacenza); pun on 'Carpe diem'. Window posters below (CastelNov... on Air, 1 MAGGIO..., FINE SERIE & Stock) are distractors."
+ },
+ "c124195360": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "via",
+    "lang": "it"
+   },
+   {
+    "text": "D.Minzoni",
+    "lang": "it"
+   }
+  ],
+  "expect": {
+   "query": "Via Don Minzoni",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Street plate on a pole in Borghetto Santo Spirito, above a one-way arrow and two brown-on-white direction signs 'stadio' and 'carabinieri' (distractors, with a graffiti tag on 'stadio'). No space after 'D.' on the plate."
+ },
+ "c151082945": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "CHIESA DI",
+    "lang": "it"
+   },
+   {
+    "text": "S. EGIDIO",
+    "lang": "it"
+   },
+   {
+    "text": "sec. XII - XIV",
+    "lang": "it"
+   },
+   {
+    "text": "collegata all’ospedale di S. Giacomo in Lecco",
+    "lang": "it"
+   }
+  ],
+  "expect": {
+   "query": "Sant'Egidio",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Brown tourist direction sign to the church of Sant'Egidio, Lecco, with two children's drawings and tiny credit text (not transcribed). Above it a locality plate 'località / sant' egidio' (lower case, apostrophe then space) with scribbled graffiti; an ultras sticker on the arrow is a distractor."
+ },
+ "c128713255": {
+  "accept": true,
+  "reason": "",
+  "kind": "hard",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "centro naturalistico",
+    "lang": "it"
+   },
+   {
+    "text": "Bosco della Guizza",
+    "lang": "it"
+   }
+  ],
+  "expect": {
+   "query": "Bosco della Guizza",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Small brown post sign at the left edge (cycling pictogram and municipal crest above the text) in front of the nature-centre building, Isola Vicentina; text is small in the frame but legible on zoom."
+ }
+}

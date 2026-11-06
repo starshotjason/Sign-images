@@ -1,0 +1,313 @@
+{
+ "f5b046508-308a-4ef0-8a32-f86c15d62eb0": {
+  "accept": true,
+  "reason": "",
+  "kind": "hard",
+  "scripts": [
+   "Arab",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "المؤسسة العامة للاتصالات السلكية",
+    "lang": "ar",
+    "latin": "al-Mu'assasa al-'Amma lil-Ittisalat as-Silkiyya (Public Telecommunication Corporation)"
+   },
+   {
+    "text": "IC TELECOMMUNICATION CORPORATI",
+    "lang": "en"
+   },
+   {
+    "text": "فرع محافظة المحويت",
+    "lang": "ar",
+    "latin": "far' Muhafazat al-Mahwit (Al-Mahwit Governorate branch)"
+   }
+  ],
+  "expect": {
+   "query": "المؤسسة العامة للاتصالات",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Rooftop board of the Public Telecommunication Corporation, Al-Mahwit branch, shot from below at dusk and partly hidden. Only the visible parts are transcribed: the next Arabic word ('واللا...', i.e. واللاسلكية) and 'PUBL' of PUBLIC are hidden behind the oval 'YemenNet' lightbox, and 'ON' of CORPORATION plus the start of 'المؤسسة' are behind flowering bushes. Small, faint header lines ('Republic of Yemen / Ministry of Telecommunication & Information Technology' at left, Arabic equivalent at right) and the 'YT' logo are not transcribed."
+ },
+ "f5c05bc04-121d-40b6-b6a1-4ccb3815c1e6": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Arab"
+  ],
+  "lines": [
+   {
+    "text": "مركز العماد",
+    "lang": "ar",
+    "latin": "Markaz al-'Imad (al-Imad Centre)"
+   }
+  ],
+  "expect": {
+   "query": "مركز العماد",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Hand-painted, weathered shop sign above blue shutter doors (women's tailoring/abaya shop), with paintings of veiled women. 'مركز' in white, 'العماد' in stylised gold calligraphy with small decorative marks omitted. Smaller painted lines are only partly legible and not transcribed: left block apparently 'للخياطة وجميع أنواع الأزياء النسائية', right block ending '... العبايات الخليجية', bottom-left owner line 'لصاحبه / ... عماد ...'."
+ },
+ "f61cafb61-bbfa-423b-b37d-3f1b7bfec8a9": {
+  "accept": false,
+  "reason": "near-duplicate of accepted f5c05bc04 (same 'مركز العماد' shop sign and blue doors, wider framing with the sign smaller)"
+ },
+ "ff95cdb53-905e-4d64-bb43-995ef03565d4": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Arab",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "معرض الصمود",
+    "lang": "ar",
+    "latin": "Ma'rad as-Sumud (as-Sumud showroom)"
+   },
+   {
+    "text": "AL SUMOOD EXHIBITION",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "معرض الصمود",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Shop name painted across closed metal shutter doors. In the Latin line 'AL' sits in a small circle and the 'S' is the big white letter of the blue round logo, followed by 'UMOOD EXHIBITION' on a brown band (a latch partly covers one O). Not transcribed: the small white Arabic slogan arcing around the logo, and the large bottom Arabic line (begins 'للت', ends '...يات'), whose middle letters are covered by red spray graffiti."
+ },
+ "fdec19eef-5695-4f08-ac9f-fa8abbb136cc": {
+  "accept": false,
+  "reason": "night view into a small grocery; no legible shop sign (awning text dark and cut off)"
+ },
+ "f5c53f972-7a1b-4ba7-9019-690d4ad781b6": {
+  "accept": false,
+  "reason": "project information board (Dragon's Blood Tree cultivation project, Socotra) naming no mappable place; partly overwritten with graffiti"
+ },
+ "c56262291": {
+  "accept": true,
+  "reason": "",
+  "kind": "hard",
+  "scripts": [
+   "Arab"
+  ],
+  "lines": [
+   {
+    "text": "ينابيع",
+    "lang": "ar",
+    "latin": "Yanabi' (Springs)"
+   },
+   {
+    "text": "للعسل",
+    "lang": "ar",
+    "latin": "lil-'Asal (for honey)"
+   },
+   {
+    "text": "والتمور",
+    "lang": "ar",
+    "latin": "wal-Tumur (and dates)"
+   }
+  ],
+  "expect": {
+   "query": "ينابيع للعسل والتمور",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Sana'a street corner by the Alkhair mosque; target is the small brown vertical honey-and-dates shop sign at the right corner of the building (far, hazy). Distractors: the blue travel-agency banner 'وكالة ...لان للسفريات والسياحة وخدمات الحج والعمرة' (agency name partly unclear), a red honey-shop sign at left and a 'دار ...' sign at far right."
+ },
+ "c56262299": {
+  "accept": false,
+  "reason": "mosque wall; shop signs at the right edge are cut off"
+ },
+ "c56262305": {
+  "accept": false,
+  "reason": "mosque building; the only sign is cut off at the top-left edge"
+ },
+ "c33167619": {
+  "accept": true,
+  "reason": "",
+  "kind": "hard",
+  "scripts": [
+   "Arab"
+  ],
+  "lines": [
+   {
+    "text": "ياسر",
+    "lang": "ar",
+    "latin": "Yasir (Yasser)"
+   },
+   {
+    "text": "والبهارات",
+    "lang": "ar",
+    "latin": "wal-Baharat (and spices)"
+   },
+   {
+    "text": "والمكسرات - والعطارة",
+    "lang": "ar",
+    "latin": "wal-Mukassarat - wal-'Itara (and nuts - and herbs)"
+   }
+  ],
+  "expect": {
+   "query": "ياسر",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Back-lit coffee-and-spice shop sign at night in the Hodeidah market, with teapot and coffee-cup images. The very large word between 'ياسر' and 'والبهارات' is a stylised form of بن (coffee) with an extra leading stroke; its exact letters (بن / لبن / للبن) cannot be determined reliably, so it is NOT transcribed. Bottom line is partly crossed by a wire (المكسرات obscured but readable). The lower red sign repeats '...ن والبهارات والمكسرات' and is a distractor."
+ },
+ "f05041ac0-c316-4a6b-b079-e3156282c3ae": {
+  "accept": false,
+  "reason": "portrait of a silversmith at work; no sign"
+ },
+ "ffae9f6a6-d09e-42aa-9c25-ec9e1c717530": {
+  "accept": false,
+  "reason": "camel-driven sesame mill; only a small religious calligraphy plaque"
+ },
+ "f3f97e532-9a78-47c6-8ed8-6fd71e774f8d": {
+  "accept": false,
+  "reason": "costumed mannequins; no sign"
+ },
+ "f75349237-2354-4903-ba86-1b8fe2d2a8a9": {
+  "accept": false,
+  "reason": "wrong country: New Museum, New York (designed by SANAA)"
+ },
+ "f7cd9e8d7-2519-48af-87fe-e2a783b3785d": {
+  "accept": false,
+  "reason": "jewellery shop doorway; no sign"
+ },
+ "f9ddd64bc-cb3a-4ad3-a24c-a45b97db0514": {
+  "accept": false,
+  "reason": "street crowd and armoured vehicles in front of buildings; shop signs small and partly hidden"
+ },
+ "ffc4fd134-0004-411c-bfe1-573ce9a1bb41": {
+  "accept": false,
+  "reason": "wrong country (Aden Adde airport, Mogadishu, Somalia); people holding a certificate"
+ },
+ "ffeb64452-4cc9-4f38-ada1-41772f64a821": {
+  "accept": false,
+  "reason": "protest camp at Change Square, Sana'a; banners and billboards, no single target"
+ },
+ "c130538802": {
+  "accept": false,
+  "reason": "project/funding notice board (dragon's blood tree cultivation) with graffiti; no map name"
+ },
+ "c5010699": {
+  "accept": false,
+  "reason": "scanned document (Russian presidential decree), not a photograph"
+ },
+ "c17492604": {
+  "accept": false,
+  "reason": "protest banners (2011 revolution)"
+ },
+ "c38880074": {
+  "accept": false,
+  "reason": "old film street scene in Sana'a; shop signs small, faded and unreadable"
+ },
+ "f211194b0-421a-4f7f-9cf3-87aaa04fd75e": {
+  "accept": false,
+  "reason": "old-city alley with jewellery stalls; no legible sign"
+ },
+ "f28cd2349-be12-4ad3-90d8-25b0928ead01": {
+  "accept": false,
+  "reason": "grain shop interior; only product packaging text"
+ },
+ "f861e79ee-4a0d-42ce-ad54-d4963fe50745": {
+  "accept": false,
+  "reason": "portrait of a man in Suq al-Hab is the subject; signs small and partly hidden"
+ },
+ "ffa768cf2-24f1-43b5-a984-42082bd07faa": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Arab"
+  ],
+  "lines": [
+   {
+    "text": "غالب العمري",
+    "lang": "ar",
+    "latin": "Ghalib al-'Umari"
+   },
+   {
+    "text": "لبيع جميع أنواع الحناء واللبان",
+    "lang": "ar",
+    "latin": "li-bay' jami' anwa' al-hinna' wal-luban (for sale of all kinds of henna and frankincense)"
+   },
+   {
+    "text": "جملة وتجزئة",
+    "lang": "ar",
+    "latin": "jumla wa tajzi'a (wholesale and retail)"
+   }
+  ],
+  "expect": {
+   "query": "غالب العمري",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Hand-lettered awning valance on a henna shop in Sana'a; the text follows the scalloped edge. 'جملة وتجزئة' is small at the far left; a tiny painter's signature above 'العمري' and a phone number at the left end are not transcribed. The pink sign above the awning and the banner below the counter are distractors."
+ },
+ "f211f1f5c-4ef3-491f-b089-af4de916a1f0": {
+  "accept": false,
+  "reason": "shop interior with goods, no readable sign"
+ },
+ "f2ba8200f-c1e4-49ba-97ea-f932ccdc519a": {
+  "accept": false,
+  "reason": "hanging pots and kettles; background signs tiny and illegible"
+ },
+ "f822b8c4c-86cf-4316-a57e-06f7c6a3e00a": {
+  "accept": false,
+  "reason": "grain sacks in a market alley, no readable sign"
+ },
+ "f4a18386c-d245-4b2d-93fd-f849154ffc8e": {
+  "accept": false,
+  "reason": "old-city street at dusk; awning lettering small and partly hidden, nothing legible enough to transcribe"
+ },
+ "ff83cfba6-2e4c-4ec4-a099-89d8b15fefe2": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Arab"
+  ],
+  "lines": [
+   {
+    "text": "بهارات ومعطارة",
+    "lang": "ar",
+    "latin": "baharat wa-mi'tara (spices and perfumery)"
+   },
+   {
+    "text": "الناشري",
+    "lang": "ar",
+    "latin": "al-Nashiri"
+   },
+   {
+    "text": "عود عنبر",
+    "lang": "ar",
+    "latin": "'ud 'anbar (oud, ambergris)"
+   },
+   {
+    "text": "بخور",
+    "lang": "ar",
+    "latin": "bukhur (incense)"
+   }
+  ],
+  "expect": {
+   "query": "الناشري",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Hanging black spice-shop board in the old souq of Sana'a, black-and-white photo, seen at an angle with a wire across the top line. Only the clearly legible lines are transcribed; the smaller item labels below (apparently أعشاب طبيه, زيوت طبيه, قهوة ولاد) and a cut-off bottom line are too small to be certain. Distractors: the 'محل أحسن الخلقي' board at left, the awning 'زبيري للعطارة', and a large banner at top right."
+ },
+ "ffc9f7984-69fc-4f6d-89d3-5fe4d41fa713": {
+  "accept": false,
+  "reason": "jewellery shop window at night; no sign"
+ },
+ "f3b93b046-d8fc-4b7b-8774-395ada237fe8": {
+  "accept": false,
+  "reason": "belt stall interior with a seated man; no sign text"
+ }
+}

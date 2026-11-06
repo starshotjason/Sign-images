@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=0c9ed2a3-42ce-49fc-abaa-2635aabdbf0a",
+  "original_url": "https://panoramax.openstreetmap.fr/images/0c/9e/d2/a3/42ce-49fc-abaa-2635aabdbf0a.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "Robot8A",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture 0c9ed2a3-42ce-49fc-abaa-2635aabdbf0a (Athens, 2025-05-17)",
+  "description": "Street-level picture on Panoramax, taken 2025-05-17 near Athens by Robot8A, sequence 99615bd3-124b-4958-8b5c-0e357b0f8095, heading 73. OCR (PP-OCRv3) read: METALFOR | YIOAHMATON ENAYMATON TZANTON | [unread] CADOIPEZAIAHO.E | EFIOZTAZIO:XATZHANEZTH14PENTHITHA.210.4932.943FAX-21 | [unread] Z607 | IPATHPIO:IPOTOTENOY5&AIEAEOYHI（HAATEIAYPPH)TELFAX | SOVLAKI | TATTOO | AKI-GRILL | WALK-IN | ATM | FOREVER YOUNG",
+  "date": "2025-05-17",
+  "categories": [],
+  "camera_location": [
+    37.978075811,
+    23.725784309
+  ],
+  "found_by": "panoramax-ocr:Athens",
+  "bytes": 2428964,
+  "width": 4032,
+  "height": 3024,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/0c/9e/d2/a3/42ce-49fc-abaa-2635aabdbf0a.jpg",
+  "derivative": "whole 4032x3024 HD picture as served by the Panoramax instance (byte-identical; the service blurs faces and number plates), not cropped"
+}

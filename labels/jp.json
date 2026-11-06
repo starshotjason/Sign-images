@@ -1,0 +1,519 @@
+{
+ "p221361bb80": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn",
+   "Kana",
+   "Hani"
+  ],
+  "lines": [
+   {
+    "text": "FUJIYAMA TOKYO",
+    "lang": "en"
+   },
+   {
+    "text": "高級寿司",
+    "lang": "ja",
+    "latin": "kōkyū sushi (high-class sushi)"
+   },
+   {
+    "text": "食べ放題",
+    "lang": "ja",
+    "latin": "tabehōdai (all you can eat)"
+   },
+   {
+    "text": "フジヤマトーキョー",
+    "lang": "ja",
+    "latin": "Fujiyama Tōkyō"
+   }
+  ],
+  "expect": {
+   "query": "Fujiyama Tokyo",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Osaka (the restaurant is named 'Tokyo' but the photo is in Osaka, consistent with the GPS). Target is the large panel; 'NO SUSHI, NO LIFE.' above it is a slogan. Also visible: an intersection name plate '四ツ橋ランプ西 / Yotsubashi Ramp W.' at right (the ツ looks slightly smaller than the other characters), a small 'FUJIYAMA TOKYO' blade sign and a green 'インドレストラン' vertical sign. No address plate (chome-ban-go) visible."
+ },
+ "p270c6522b9": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ROOST",
+    "lang": "en"
+   },
+   {
+    "text": "SHINSAIBASHI",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "ROOST Shinsaibashi",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Busy Shinsaibashi (America-mura) crossing; target is the ROOST SHINSAIBASHI fascia at top right, last letter touching the frame edge. Many distractors: 'closetchild', 'fave COFFEE', 'FtF Face to Face' awnings, 'サントニブンノイチ', 'MUMU 古着屋', 'たこ焼き'. No address plate visible."
+ },
+ "p29dd68539d": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "QUEENS",
+    "lang": "en"
+   },
+   {
+    "text": "QUEENS",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "QUEENS",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Vertical blue blade sign (Asakusabashi area, Tokyo): large QUEENS plus bee logo and a small QUEENS badge. Part of the main shop fascia at left is privacy-blurred. Distractors: '栄和不動産(株) TEL 3881-1144' small sign, '日本焼肉党' vertical sign, 'MIYAKOSUS...' shutter mural, 'GS Park' parking sign. No address plate visible."
+ },
+ "p5a9e4b3d9a": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "FOOD",
+    "lang": "en"
+   },
+   {
+    "text": "BEER",
+    "lang": "en"
+   },
+   {
+    "text": "MUSIC",
+    "lang": "en"
+   },
+   {
+    "text": "MIKE'S",
+    "lang": "en"
+   },
+   {
+    "text": "SLICE",
+    "lang": "en"
+   },
+   {
+    "text": "OF",
+    "lang": "en"
+   },
+   {
+    "text": "DETROIT",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Mike's Slice of Detroit",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Tall vertical pole sign in Osaka; the round door decal repeats MIKE'S SLICE OF DETROIT. 'OF' is flanked by decorative dots. Menu board at right is a distractor. No address plate visible."
+ },
+ "p755929174f": {
+  "accept": false,
+  "reason": "only admission-fee and 'NOW OPEN' opening-hours boards plus posters; no place name (the museum's name sign is in pb85ac438e1)"
+ },
+ "p7ced92b40a": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn",
+   "Hani"
+  ],
+  "lines": [
+   {
+    "text": "TERAMACHI",
+    "lang": "ja"
+   },
+   {
+    "text": "寺町",
+    "lang": "ja",
+    "latin": "Teramachi"
+   }
+  ],
+  "expect": {
+   "query": "寺町",
+   "type": "street"
+  },
+  "difficulty": "medium",
+  "notes": "Night, Kyoto: entrance gate of the Teramachi covered shopping arcade (寺町通). The kanji 寺町 on the gate are in a heavy geometric display face. Banner inside repeats it: '京の散歩道 寺町 御池—三条' with '歩行者専用道路 自転車通行禁止 中京警察署'. Distractors: KYOYA signs, 'さんてら番屋', 'YATA-DERA 矢田寺', bicycle signs '自転車を除く 0-10'. No chome-ban-go plate visible."
+ },
+ "pa64bec67d0": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Kana",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "パンジャビスパイス",
+    "lang": "ja",
+    "latin": "Panjabi Supaisu"
+   },
+   {
+    "text": "PUNJABI SPICE",
+    "lang": "en"
+   },
+   {
+    "text": "Indian Restaurant Cafe & Bar",
+    "lang": "en"
+   },
+   {
+    "text": "インドレストラン カフェ&バー",
+    "lang": "ja",
+    "latin": "Indo resutoran kafe & bā (Indian restaurant cafe & bar)"
+   }
+  ],
+  "expect": {
+   "query": "Punjabi Spice",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Frontal hanging sign in Osaka. Distractors: red '2F入口 / エレベーターはこちら' sign, staff-recruitment poster, noren at left."
+ },
+ "pb85ac438e1": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn",
+   "Hani",
+   "Kana"
+  ],
+  "lines": [
+   {
+    "text": "Extinct Media Museum Otemachi",
+    "lang": "en"
+   },
+   {
+    "text": "絶滅",
+    "lang": "ja",
+    "latin": "Zetsumetsu"
+   },
+   {
+    "text": "メディア",
+    "lang": "ja",
+    "latin": "Media"
+   },
+   {
+    "text": "博物館",
+    "lang": "ja",
+    "latin": "Hakubutsukan (Extinct Media Museum)"
+   }
+  ],
+  "expect": {
+   "query": "絶滅メディア博物館",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Museum entrance banner in Otemachi, Tokyo. Distractors: 'LIBRARY of the LOST CATALOG' and 'Studio236' badges, NOW OPEN board, partial round sign at left. No address plate visible."
+ },
+ "k2619282041": {
+  "accept": true,
+  "reason": "",
+  "kind": "building tag",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "TONES OSAKA",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "TONES OSAKA",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Osaka: gold serif letters on a dark grey name panel mounted on a brick pier; slight angle, a few scuff marks on the panel between the words. No address plate visible."
+ },
+ "k2634394311": {
+  "accept": false,
+  "reason": "Japan Post postbox collection-time and slot labels; no place name (the collecting office label is too small to read)"
+ },
+ "p145f43f31f": {
+  "accept": false,
+  "reason": "menu / opening-hours card on a table (Green Earth vegan cafe), not a street sign"
+ },
+ "k2634394314": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "FamilyMart",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "FamilyMart",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Kyoto convenience store fascia, sun flare at top left. Distractors: vertical banners '朝ファミマのコンビ割' with 'AM 5:00-11:00', 'ファミペイ' posters, a red '110番' poster at right; two pedestrians' faces are blurred. No address plate visible."
+ },
+ "pff1df73924": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Hani",
+   "Hira",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "いち た もん あと",
+    "lang": "ja",
+    "latin": "ichi ta mon ato (furigana)"
+   },
+   {
+    "text": "市多聞跡",
+    "lang": "ja",
+    "latin": "Ichi-tamon ato (Site of Ichi-tamon Turret)"
+   },
+   {
+    "text": "Site of Ichi-tamon Turret",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "市多聞跡",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Osaka Castle (Ōte-guchi) historic-site board; target is the title panel with furigana above 市多聞跡. The long Japanese and English explanation paragraphs and the '歴史街道' badge are distractors."
+ },
+ "k2634394313": {
+  "accept": true,
+  "reason": "",
+  "kind": "address plate",
+  "scripts": [
+   "Hani",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "東山区新門前通大和大路東入二丁目中之町",
+    "lang": "ja",
+    "latin": "Higashiyama-ku Shinmonzen-dōri Yamatoōji higashi-iru 2-chōme Nakano-chō"
+   },
+   {
+    "text": "Higashiyama-ku Shinmonzendori Yamatooji higashi iru Nakano-cho",
+    "lang": "ja"
+   }
+  ],
+  "expect": {
+   "query": "新門前通",
+   "type": "street"
+  },
+  "difficulty": "medium",
+  "notes": "Kyoto-style location strip under a '京都市広報板' (Kyoto City notice board): ward + street + cross street + direction (東入 = east of) + 二丁目 + town 中之町, the Kyoto 通り名 address format rather than a chome-ban-go 住居表示 plate. The romanised line omits '2-chome'. Distractors: board title 京都市広報板, posters (第61回 有済区民大運動会), red fire-extinguisher box 消火器 with a small vertical red place label, a small roadside shrine."
+ },
+ "k2625879235": {
+  "accept": false,
+  "reason": "shop name only on noren seen mirrored through glass or cut off and washed out by sun (かじわら精穀 / KAJIWARA SEIK...); the board in front is a menu"
+ },
+ "c160539280": {
+  "accept": true,
+  "reason": "",
+  "kind": "address plate",
+  "scripts": [
+   "Hani",
+   "Hira",
+   "Latn",
+   "Hang"
+  ],
+  "lines": [
+   {
+    "text": "鍛冶町通り",
+    "lang": "ja",
+    "latin": "Kajimachi-dōri"
+   },
+   {
+    "text": "Kaji-machi-dori Ave.",
+    "lang": "en"
+   },
+   {
+    "text": "가지마치도리 도로",
+    "lang": "ko",
+    "latin": "Gajimachidori doro"
+   },
+   {
+    "text": "冶炼町路",
+    "lang": "zh",
+    "latin": "Yěliàn tīng lù"
+   },
+   {
+    "text": "#3",
+    "lang": "und"
+   },
+   {
+    "text": "天神三丁目1番",
+    "lang": "ja",
+    "latin": "Tenjin san-chōme ichi-ban (Tenjin 3-chōme, block 1)"
+   }
+  ],
+  "expect": {
+   "query": "天神3丁目",
+   "type": "addr"
+  },
+  "difficulty": "medium",
+  "notes": "Fukuoka (Chūō-ku). Blue street-name plate strapped to a utility pole, curved around it; vertical Japanese at right, then English, Korean and simplified Chinese columns. The bottom line is a chōme-ban address in kanji numerals for the chōme and an Arabic numeral for the ban. The plate is peeling at the left edge. Street name alternative query: 鍛冶町通り."
+ },
+ "c156500778": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Hani",
+   "Hira",
+   "Latn",
+   "Hang"
+  ],
+  "lines": [
+   {
+    "text": "住吉宮前通り",
+    "lang": "ja",
+    "latin": "Sumiyoshi-miyamae-dōri"
+   },
+   {
+    "text": "Sumiyoshimiya-mae-dori Ave.",
+    "lang": "en"
+   },
+   {
+    "text": "스미요시미야마에 도리 도로",
+    "lang": "ko",
+    "latin": "Sumiyosimiyamae dori doro"
+   },
+   {
+    "text": "住吉宮前路",
+    "lang": "zh",
+    "latin": "Zhùjí gōng qián lù"
+   },
+   {
+    "text": "西#0",
+    "lang": "ja"
+   },
+   {
+    "text": "博多区役所",
+    "lang": "ja",
+    "latin": "Hakata-kuyakusho (Hakata Ward Office)"
+   }
+  ],
+  "expect": {
+   "query": "住吉宮前通り",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Fukuoka (Hakata-ku), Sumiyoshi 1-chōme intersection. Teal pole-mounted street-name plate, vertical text; a plastic tie crosses the Korean column. The Chinese line's third character could be the simplified 宫 or 宮 at this resolution; transcribed as it appears (宮), a checker may accept either. Distractor: '番' and a phone number on a shop sign at the right edge."
+ },
+ "c89260053": {
+  "accept": true,
+  "reason": "",
+  "kind": "transit",
+  "scripts": [
+   "Hani",
+   "Latn",
+   "Hang"
+  ],
+  "lines": [
+   {
+    "text": "豊平公園",
+    "lang": "ja",
+    "latin": "Toyohira Kōen"
+   },
+   {
+    "text": "Toyohira koen",
+    "lang": "en"
+   },
+   {
+    "text": "丰平公园",
+    "lang": "zh",
+    "latin": "Fēngpíng gōngyuán"
+   },
+   {
+    "text": "도요히라코엔",
+    "lang": "ko",
+    "latin": "Doyohirakoen"
+   },
+   {
+    "text": "H11",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "豊平公園駅",
+   "type": "stop"
+  },
+  "difficulty": "easy",
+  "notes": "Sapporo Municipal Subway Tōhō Line station name board (H11), frontal. Adjacent stations along the line bar: 学園前 Gakuen mae (previous) and 次は 美園 Misono (next, H12) with their Chinese/Korean forms in small type."
+ },
+ "c89468507": {
+  "accept": true,
+  "reason": "",
+  "kind": "transit",
+  "scripts": [
+   "Hani",
+   "Latn",
+   "Hang"
+  ],
+  "lines": [
+   {
+    "text": "南郷7丁目",
+    "lang": "ja",
+    "latin": "Nangō nana-chōme"
+   },
+   {
+    "text": "Nango nanachome",
+    "lang": "en"
+   },
+   {
+    "text": "南乡7丁目",
+    "lang": "zh",
+    "latin": "Nánxiāng 7 dīngmù"
+   },
+   {
+    "text": "난고7초메",
+    "lang": "ko",
+    "latin": "Nango 7 chome"
+   },
+   {
+    "text": "T14",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "南郷7丁目駅",
+   "type": "stop"
+  },
+  "difficulty": "easy",
+  "notes": "Sapporo Municipal Subway Tōzai Line station name board (T14), frontal; the station name is itself a chōme. Adjacent stations: 白石 Shiroishi (previous) and 次は 南郷13丁目 Nango jusanchome (next, T15)."
+ }
+}

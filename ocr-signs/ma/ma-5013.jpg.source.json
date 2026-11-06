@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/1173707/544/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlNy5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE4LzQvMzAvcHJvYy8xMTczNzA3XzYwODBiXzU0NC5qcGc",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "kaartcam",
+  "credit_as_published": "KartaView user kaartcam (user id 13565); © KartaView contributors",
+  "title": "KartaView photo 236517647, sequence 1173707 #544 (Casablanca, 2018-04-14)",
+  "description": "Street-level picture on KartaView, taken 2018-04-14 near Casablanca by kaartcam, sequence 1173707, heading 61. OCR (PP-OCRv3) read: MOBILIER | Gale | NAPOLEON | [unread] Uy lesign | [unread] Jeep",
+  "date": "2018-04-14",
+  "categories": [],
+  "camera_location": [
+    33.589544,
+    -7.615235
+  ],
+  "found_by": "kartaview-ocr:Casablanca",
+  "bytes": 733608,
+  "width": 3072,
+  "height": 1728,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlNy5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE4LzQvMzAvcHJvYy8xMTczNzA3XzYwODBiXzU0NC5qcGc",
+  "derivative": "whole 3072x1728 full-size processed (blurred) picture as served by the KartaView CDN (byte-identical; the service blurs faces and number plates), not cropped"
+}

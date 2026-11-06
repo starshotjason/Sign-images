@@ -1,0 +1,206 @@
+{
+ "f631ee6ec-a66a-44ca-9ccf-94e40e5b25c4": {
+  "accept": false,
+  "reason": "bookseller's label pasted inside a book (a document/product), not a street sign"
+ },
+ "fc7b7084e-a21d-4497-9538-2b55bb123baf": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "PELUQUERIA",
+    "lang": "es"
+   },
+   {
+    "text": "MAVI'S",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Mavi's",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Yellow-on-black projecting box sign of a hairdresser, Madrid; written without the accent (PELUQUERIA). The side face repeats it vertically; a small graffiti sticker at lower right is a distractor."
+ },
+ "k1003130046": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "HOTEL",
+    "lang": "es"
+   },
+   {
+    "text": "MODERNO",
+    "lang": "es"
+   },
+   {
+    "text": "★★★",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "Hotel Moderno",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Tall vertical blade sign with gold letters on dark blue, stacked letter by letter, three stars at the bottom; pedestrian street leading to Puerta del Sol (Casa de Correos clock tower in the background). Distractors: 'BURGER KING' signs, a green pharmacy cross showing '12H', IKKS/UNO/'Iris' shop signs at right. Crowd is face-blurred and incidental."
+ },
+ "k1020761130": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "SHOES",
+    "lang": "en"
+   },
+   {
+    "text": "&",
+    "lang": "und"
+   },
+   {
+    "text": "COLORS",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Shoes & Colors",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Multicoloured letters on a white window panel of a shoe shop at the right of the frame, between pop-art shoe panels; small and seen through a dirty windscreen. The vertical 'HOTEL EMPERADOR' blade at far left is cut ('...TEL EMPERADOR'), and Lion King / Preventiva signs are distractors."
+ },
+ "k1020969730": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "FARMACIA",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Farmacia",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Red fascia panel with yellow letters and a small flower motif, over a striped awning; image washed out by sun glare. Generic name only (no pharmacy name). A faded plaza name plate on the corner wall above is illegible; an unlit green cross is at left."
+ },
+ "k1020970562": {
+  "accept": false,
+  "reason": "strongly motion-blurred shoe-brand window banner (advert); text not reliable"
+ },
+ "k1184782029": {
+  "accept": false,
+  "reason": "night photo of Pride lamp-post banners and a kiosk with posters (slogans/adverts); traffic plate unreadable"
+ },
+ "k1957106937": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "IGO RAMEN",
+    "lang": "ja"
+   },
+   {
+    "text": "COMIDA JAPONESA",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Igo Ramen",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Black fascia board with white letters along a narrow street, at an oblique angle. Distractors: a projecting 'Casa Parrondo / Restaurante' sign with the Asturian flag further down, and vertical Japanese text 日本料理専門店 on the next facade. Pedestrians are face-blurred and incidental."
+ },
+ "k1957107417": {
+  "accept": false,
+  "reason": "shop signs are cut by the frame (CIBER LOC...) or small; no single clear target"
+ },
+ "k2027068841": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "CASA TONI",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Casa Toni",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "White letters on the valance of a red awning at top right, steep angle and motion blur. The blue 'ATM-Cajero' machine and a MoneyGram sign at left are distractors."
+ },
+ "p9846a3e6e4": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "TAPA TAPA",
+    "lang": "es"
+   },
+   {
+    "text": "BAR DE TAPAS",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Tapa Tapa",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Black arched fascia over a glass entrance, frontal and sharp; the name repeats on the window and door. Wall-mounted menu, alarm-company sticker and house number '1' in a circle are distractors."
+ },
+ "pa36f42ac81": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "TIERRA",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Tierra",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Orange channel letters above a doorway on a granite facade; a red neon circular 'TIERRA' sign in the right window and an A-board menu repeat it. Cables and shadows cross the wall."
+ }
+}

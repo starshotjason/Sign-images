@@ -1,0 +1,218 @@
+{
+ "k243031831": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Landsbankinn",
+    "lang": "is"
+   }
+  ],
+  "expect": {
+   "query": "Landsbankinn",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Landsbankinn bank sign (logo box plus white lettering on a dark-blue bar) high on a building, Reykjavík, rainy street view. Distractors: 'American Style' restaurant fascia and flags below, GINGER van."
+ },
+ "k243043145": {
+  "accept": true,
+  "reason": "",
+  "kind": "hard",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "HARPA",
+    "lang": "is"
+   }
+  ],
+  "expect": {
+   "query": "Harpa",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Dim, dusky shot: temporary white direction sign with HARPA and a left arrow (smaller second line, probably 'CONCERT HALL', unreadable) next to a 30 limit sign on a construction fence, Reykjavík. Gold letters on the building (TOLLHÚSIÐ) are too dark to read reliably. 'ÞG VERK / Síðan 1998' construction banner is a distractor."
+ },
+ "p0782d21b12": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "MJÚK",
+    "lang": "is"
+   },
+   {
+    "text": "Iceland",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Mjúk Iceland",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Cut-out metal letters on a black plate over a shop, Reykjavík, on a black-and-white mural wall. 'caratoes' (mural artist signature) and window reflections are distractors."
+ },
+ "p4129b7796f": {
+  "accept": true,
+  "reason": "",
+  "kind": "address plate",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "SKÓLAVÖRÐUSTÍGUR 7",
+    "lang": "is"
+   }
+  ],
+  "expect": {
+   "query": "Skólavörðustígur 7",
+   "type": "addr"
+  },
+  "difficulty": "medium",
+  "notes": "Widely spaced dark serif letters painted on a white facade, Reykjavík (rainbow street). A lamppost passes over the Ð, so its crossbar is hidden; the rest (Ó, Ö, Í) is clearly visible."
+ },
+ "p7bebebafdb": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "SMEKKLEYSA",
+    "lang": "is"
+   },
+   {
+    "text": "BADTASTE",
+    "lang": "en"
+   },
+   {
+    "text": "RECORD STORE",
+    "lang": "en"
+   },
+   {
+    "text": "VINYL+VENUE",
+    "lang": "en"
+   },
+   {
+    "text": "COFFEE BAR",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Smekkleysa",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Black stencil letters painted on an ochre wall among doodle figures, Reykjavík. Distractors: 66°NORTH sign and Geiri Smart awning on the left, 'BAD TASTE RECORD SHOP' door stickers, smaller repeated SMEKKLEYSA logos."
+ },
+ "p7f794fd5fd": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Cafe",
+    "lang": "en"
+   },
+   {
+    "text": "Babalú",
+    "lang": "is"
+   }
+  ],
+  "expect": {
+   "query": "Café Babalú",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Red 'Cafe' script and yellow oval 'Babalú' sign on an orange house, Reykjavík; 'ROOF TOP DINING' board above. The mural wall to the right lists menu items (crêpes, paninis, drinks...) and is a distractor."
+ },
+ "padf57f478c": {
+  "accept": false,
+  "reason": "private-parking notice (EINKABÍLASTÆÐI / PRIVATE PARKING), motion-blurred; not a place name"
+ },
+ "pc11bcf4b2a": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "kokka",
+    "lang": "is"
+   }
+  ],
+  "expect": {
+   "query": "Kokka",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Dark hanging board with light lowercase 'kokka' under an awning, Laugavegur, Reykjavík (dusk). Second hanging sign 'kroll' further along is a distractor."
+ },
+ "pc723340085": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Bankastræti",
+    "lang": "is"
+   }
+  ],
+  "expect": {
+   "query": "Bankastræti",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "White Reykjavík street plate with black letters on a lamppost, against the sky; note the æ ligature."
+ },
+ "pdc571acde4": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "VARÚÐ!",
+    "lang": "is"
+   },
+   {
+    "text": "Tóbaksverslun",
+    "lang": "is"
+   },
+   {
+    "text": "BJÖRK",
+    "lang": "is"
+   }
+  ],
+  "expect": {
+   "query": "Björk",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Yellow, red-bordered hanging sign of the Björk tobacco shop, Reykjavík, with a Sherlock Holmes silhouette; styled as a warning sign ('Varúð!' = caution). A reflection of the sign in the window is a distractor."
+ }
+}

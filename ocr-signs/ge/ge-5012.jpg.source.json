@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=7708f4a7-9b8c-43c6-b912-d4d0ed1e387a",
+  "original_url": "https://panoramax.openstreetmap.fr/images/77/08/f4/a7/9b8c-43c6-b912-d4d0ed1e387a.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "p4n-pics",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture 7708f4a7-9b8c-43c6-b912-d4d0ed1e387a (Tbilisi, 2023-04-02)",
+  "description": "Street-level picture taken 2023-04-02 near Tbilisi by p4n-pics, sequence a67de1c0-5d45-4b2b-950e-3796ec2a4921, heading None. OCR (PP-OCRv3) read: OLDCITY | LAUNDRY",
+  "date": "2023-04-02",
+  "categories": [],
+  "camera_location": [
+    41.694017,
+    44.804354
+  ],
+  "found_by": "panoramax-ocr:Tbilisi",
+  "bytes": 173401,
+  "width": 1050,
+  "height": 634,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/77/08/f4/a7/9b8c-43c6-b912-d4d0ed1e387a.jpg",
+  "derivative": "whole 1050x634 HD picture as served by the Panoramax instance (byte-identical; the instance blurs faces and number plates), not cropped"
+}

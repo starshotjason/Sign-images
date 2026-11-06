@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/2890350/459/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMC84LzkvcHJvYy8yODkwMzUwX2U0MzM1XzVmMzA0YjUxMjUwZWQuanBn",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "charlie-plett",
+  "credit_as_published": "KartaView user charlie-plett (user id 24854); © KartaView contributors",
+  "title": "KartaView photo 1042107402, sequence 2890350 #459 (Belize City, 2020-03-11)",
+  "description": "Street-level picture on KartaView, taken 2020-03-11 near Belize City by charlie-plett, sequence 2890350, heading 128.5. OCR (PP-OCRv3) read: TOPROOUCEZETAWATE | Reheshing Ereyg Mo",
+  "date": "2020-03-11",
+  "categories": [],
+  "camera_location": [
+    17.499075,
+    -88.190677
+  ],
+  "found_by": "kartaview-ocr:Belize City",
+  "bytes": 615534,
+  "width": 1945,
+  "height": 1458,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMC84LzkvcHJvYy8yODkwMzUwX2U0MzM1XzVmMzA0YjUxMjUwZWQuanBn",
+  "derivative": "crop 2054,460,3999,1918 of the 4000x2250 full-size processed (blurred) picture"
+}

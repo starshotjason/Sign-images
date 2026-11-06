@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/7434873/23/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMy82LzE3L3Byb2MvNzQzNDg3M18xYjYyYTBjNDBhNDJjZGViNTg3MmI5MDI4ZTEzZTc2NC5qcGc",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "razvan-sandu2",
+  "credit_as_published": "KartaView user razvan-sandu2 (user id 56977); © KartaView contributors",
+  "title": "KartaView photo 1744073321, sequence 7434873 #23 (Bucharest, 2023-06-16)",
+  "description": "Street-level picture on KartaView, taken 2023-06-16 near Bucharest by razvan-sandu2, sequence 7434873, heading 126.39. OCR (PP-OCRv3) read: OPTICA | PROCRESIVE | OPTICA | PLAFAR | OCHELARI | PENTRU | NTREAGA | FAMILIE | PLAFAR | INTRA | COPTICAMEDICALA | SI OPTOMETRIE",
+  "date": "2023-06-16",
+  "categories": [],
+  "camera_location": [
+    44.42883,
+    26.107706
+  ],
+  "found_by": "kartaview-ocr:Bucharest",
+  "bytes": 506823,
+  "width": 1555,
+  "height": 1166,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMy82LzE3L3Byb2MvNzQzNDg3M18xYjYyYTBjNDBhNDJjZGViNTg3MmI5MDI4ZTEzZTc2NC5qcGc",
+  "derivative": "crop 1486,107,3041,1273 of the 3264x1836 full-size processed (blurred) picture"
+}

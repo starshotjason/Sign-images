@@ -1,0 +1,491 @@
+{
+ "p02a6af0204": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "S. Diversões Norte",
+    "lang": "pt"
+   }
+  ],
+  "expect": {
+   "query": "Setor de Diversões Norte",
+   "type": "place"
+  },
+  "difficulty": "hard",
+  "notes": "Green Brasília sector name sign, dark and soft, in the lower-left corner; the left edge of the panel is cut by the frame (a dash or arrow fragment before 'S.'). 'S.' abbreviates 'Setor'. Keep the tilde in 'Diversões'."
+ },
+ "p0b7a0b3687": {
+  "accept": false,
+  "reason": "painted advertisement 'TCC 99405-9000' on an overpass parapet; no place name"
+ },
+ "p4872c002a2": {
+  "accept": false,
+  "reason": "row of advertising billboards (Magazine Luiza, CAIXA, Simmons) at dusk; advertising copy, no single place sign"
+ },
+ "p6403658da5": {
+  "accept": false,
+  "reason": "Hotel Nacional lettering is mostly hidden behind palm fronds and too soft to read; the bus LED destination is blurred and its first character is cut"
+ },
+ "p743706fb29": {
+  "accept": false,
+  "reason": "handwritten placard held by a person (appeal for help with a phone/Pix number); not a sign naming a place"
+ },
+ "pb928211c18": {
+  "accept": false,
+  "reason": "only text is the slogan 'MOVIDO A BIODIESEL' on a bus; no place name"
+ },
+ "pf88fe45953": {
+  "accept": false,
+  "reason": "LED advertising screen ('Saldão de Natal ... Divertido é comprar barato'); advertising copy"
+ },
+ "pfcb7b06308": {
+  "accept": false,
+  "reason": "bus LED display showing a fare notice ('0.168 SOMENTE CARTÃO'), blurred; no place sign as target"
+ },
+ "k246050749": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Pague Menos",
+    "lang": "pt"
+   },
+   {
+    "text": "PagueMenos",
+    "lang": "pt"
+   }
+  ],
+  "expect": {
+   "query": "Pague Menos",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Corner pharmacy with two Pague Menos signs (stacked logo over the door, one-line logo on the long facade), São Paulo centre, dashcam view. A small street plate on the pole reads 'Senador Feijó' (the accent is not resolvable at this size). Graffiti on the upper floors and 'REMÉDIO GRAÇA' / 'GENÉRICO BARATO AQUI' window posters are distractors."
+ },
+ "k246239541": {
+  "accept": false,
+  "reason": "rear of a city bus (AR CONDICIONADO, 909T-10 destination, Sudoeste livery); street plate at left too small"
+ },
+ "k247062771": {
+  "accept": false,
+  "reason": "bus livery ('PREFEITURA DE SÃO PAULO')"
+ },
+ "k247062851": {
+  "accept": false,
+  "reason": "speed-camera warning (60 km/h, FISCALIZAÇÃO ELETRÔNICA NESTA VIA); names no place"
+ },
+ "k249932165": {
+  "accept": false,
+  "reason": "temporary traffic-restriction banner ('25/05 - SEXTA SEM CARRO ... ACESSO SOMENTE PARA ÔNIBUS...') is the main text; small street signs unreadable"
+ },
+ "k249932225": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn",
+   "Zyyy"
+  ],
+  "lines": [
+   {
+    "text": "IMPOSTÔMETRO",
+    "lang": "pt"
+   },
+   {
+    "text": "937.057.156.006,42",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "Impostômetro",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "The Impostômetro tax-counter panel of the Associação Comercial de São Paulo on Rua Boa Vista, orange header with LED digits below (the figure changes constantly). Small unit labels (TRILHÕES, BILHÕES, MILHÕES, MIL, REAIS, CENTAVOS) and the association name are too small to transcribe. People incidental."
+ },
+ "p564ba3c15d": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Asa Norte",
+    "lang": "pt"
+   },
+   {
+    "text": "Saída Norte",
+    "lang": "pt"
+   },
+   {
+    "text": "Torre TV Digital",
+    "lang": "pt"
+   },
+   {
+    "text": "Digital TV Tower",
+    "lang": "en"
+   },
+   {
+    "text": "Estádio Nacional",
+    "lang": "pt"
+   },
+   {
+    "text": "National Stadium",
+    "lang": "en"
+   },
+   {
+    "text": "Ministérios",
+    "lang": "pt"
+   },
+   {
+    "text": "Ministries",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Estádio Nacional",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Directional signs on a road overpass in Brasília: green panel (Asa Norte, Saída Norte) above a brown tourist panel (Torre TV Digital), and a brown bilingual panel on the right (Estádio Nacional, Ministérios). Distractors: painted political slogan 'O AMOR VENCERA O ODIO' (accents not visible) on the left of the beam and a 'NO TÚNEL' truck-ban sign."
+ },
+ "c85962539": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "AVENIDA",
+    "lang": "pt"
+   },
+   {
+    "text": "CLETO NUNES",
+    "lang": "pt"
+   }
+  ],
+  "expect": {
+   "query": "Avenida Cleto Nunes",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Old yellow enamel street plate with a left-arrow plate below, Vitória (ES). Rust spots and bolt holes cut into several letters (the O of CLETO is chipped)."
+ },
+ "c121671577": {
+  "accept": false,
+  "reason": "trail distance/altitude marker (PERCURSO / ALTITUDE / PBMB / FNMA - 1997); no place name"
+ },
+ "c121671600": {
+  "accept": false,
+  "reason": "trail distance/altitude marker, same series as c121671577; no place name"
+ },
+ "c57500873": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Im. Italiano",
+    "lang": "pt"
+   },
+   {
+    "text": "Praça do Imigrante Italiano",
+    "lang": "pt"
+   },
+   {
+    "text": "Sé",
+    "lang": "pt"
+   },
+   {
+    "text": "6",
+    "lang": "und"
+   },
+   {
+    "text": "Pinheiros",
+    "lang": "pt"
+   },
+   {
+    "text": "CEP 01448-120",
+    "lang": "pt"
+   }
+  ],
+  "expect": {
+   "query": "Praça do Imigrante Italiano",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "São Paulo blue street plate: abbreviated name large, full name below, white strip with district box 'Sé 6' at left and 'Pinheiros / CEP 01448-120' at right. Shot from below beside a concrete pole."
+ },
+ "c72145195": {
+  "accept": true,
+  "reason": "",
+  "kind": "hard",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Próxima Saída",
+    "lang": "pt"
+   },
+   {
+    "text": "R. Zamenhof",
+    "lang": "pt"
+   }
+  ],
+  "expect": {
+   "query": "Rua Zamenhof",
+   "type": "street"
+  },
+  "difficulty": "hard",
+  "notes": "Night shot of an overhead lane sign in Estácio, Rio de Janeiro: yellow 'Próxima Saída' header with arrow, green street panel 'R. Zamenhof', brown lane-arrow panel below. Strong streetlight glare above the sign."
+ },
+ "c118385733": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Fausto",
+    "lang": "pt"
+   },
+   {
+    "text": "Cardoso",
+    "lang": "pt"
+   },
+   {
+    "text": "Praça Fausto Cardoso",
+    "lang": "pt"
+   },
+   {
+    "text": "Centro",
+    "lang": "pt"
+   },
+   {
+    "text": "CEP 49010-080",
+    "lang": "pt"
+   },
+   {
+    "text": "Rio Branco",
+    "lang": "pt"
+   },
+   {
+    "text": "Av. Rio Branco",
+    "lang": "pt"
+   },
+   {
+    "text": "Centro",
+    "lang": "pt"
+   },
+   {
+    "text": "CEP 49010-030",
+    "lang": "pt"
+   }
+  ],
+  "expect": {
+   "query": "Praça Fausto Cardoso",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Pair of corner street-name blades in Centro, Aracaju: left blade Praça Fausto Cardoso, right blade Avenida Rio Branco, each with neighbourhood and CEP. Sponsor panel above ('Atalaia Rações / Pet Shop / atalaiaracoes.com.br') is a distractor. Shot from below with wires across."
+ },
+ "c143901080": {
+  "accept": false,
+  "reason": "pictogram-only park sign (rock-art figure) in Serra da Capivara; no text"
+ },
+ "c143901144": {
+  "accept": false,
+  "reason": "pictogram-only park sign (rock-art figure); no text"
+ },
+ "c144141083": {
+  "accept": false,
+  "reason": "dirt road with a pictogram-only park sign; no text"
+ },
+ "c149516768": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "RUA",
+    "lang": "pt"
+   },
+   {
+    "text": "DO BOMFIM",
+    "lang": "pt"
+   }
+  ],
+  "expect": {
+   "query": "Rua do Bomfim",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Small dark-blue enamel street plate on an ochre wall in Medina (MG). Spelling on the plate is 'BOMFIM' (not Bonfim)."
+ },
+ "c198170711": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Praça Pio X",
+    "lang": "pt"
+   },
+   {
+    "text": "20040-020",
+    "lang": "und"
+   },
+   {
+    "text": "Centro",
+    "lang": "pt"
+   },
+   {
+    "text": "Avenida",
+    "lang": "pt"
+   },
+   {
+    "text": "Presidente Vargas",
+    "lang": "pt"
+   },
+   {
+    "text": "328",
+    "lang": "und"
+   },
+   {
+    "text": "290",
+    "lang": "und"
+   },
+   {
+    "text": "20091 060",
+    "lang": "und"
+   },
+   {
+    "text": "Centro",
+    "lang": "pt"
+   }
+  ],
+  "expect": {
+   "query": "Avenida Presidente Vargas",
+   "type": "street"
+  },
+  "difficulty": "medium",
+  "notes": "Rio de Janeiro corner street-name blades in front of the Candelária church dome. Each blade has a small biographical line (Praça Pio X: '1835-1914. Giusepe Sarto Papa de 1903 a 1914, canonizado em 1954'; Av. Presidente Vargas: '1882-1954 Lider politico, Governador do RS, presidente da República (1930-1945 e 1951-1954)', accents in the small text not verifiable) left out of lines. Number range 290 / 328 on the Vargas blade."
+ },
+ "c198170717": {
+  "accept": false,
+  "reason": "near-duplicate of c198170711 (same Praça Pio X / Av. Presidente Vargas blades, wider view)"
+ },
+ "c143901092": {
+  "accept": false,
+  "reason": "pictogram parking sign ('E') in Serra da Capivara; no place name"
+ },
+ "c103198433": {
+  "accept": false,
+  "reason": "street scene of delivery motorcyclists; no legible sign"
+ },
+ "c132022605": {
+  "accept": false,
+  "reason": "internal campus wayfinding ('Estacionamento Laboratórios'); not a searchable place name"
+ },
+ "c184532839": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "CGH SALTO",
+    "lang": "pt"
+   },
+   {
+    "text": "DOS CRAVOS",
+    "lang": "pt"
+   },
+   {
+    "text": "DELFIM MOREIRA",
+    "lang": "pt"
+   },
+   {
+    "text": "A 11 KM",
+    "lang": "pt"
+   },
+   {
+    "text": "LIMITE DE MUNICÍPIO",
+    "lang": "pt"
+   },
+   {
+    "text": "DELFIM MOREIRA",
+    "lang": "pt"
+   },
+   {
+    "text": "WENCESLAU BRÁZ",
+    "lang": "pt"
+   }
+  ],
+  "expect": {
+   "query": "Delfim Moreira",
+   "type": "place"
+  },
+  "difficulty": "easy",
+  "notes": "MG-350 roadside: green direction sign (CGH Salto dos Cravos left, Delfim Moreira 11 km ahead) above a blue municipal-border sign. Small graffiti 'AMSC' on the blue sign. Sign spells 'BRÁZ' with an accent."
+ },
+ "c149449774": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ESCOLINHA",
+    "lang": "pt"
+   },
+   {
+    "text": "Dona Xepa",
+    "lang": "pt"
+   },
+   {
+    "text": "157",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "Escolinha Dona Xepa",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Small school's painted facade in Medina (MG): block letters 'ESCOLINHA' and yellow script 'Dona Xepa', house number 157 below the script. Cartoon children, alphabet letters and digits are decoration; '155' painted near the door, a 'CUIDADO / RISCO DE CHOQUE ELÉTRICO' plate and a pole flyer are distractors."
+ },
+ "c10755137": {
+  "accept": false,
+  "reason": "metro line route diagram above platform doors (map-like strip of many station names), not a single station sign"
+ }
+}

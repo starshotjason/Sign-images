@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=3101ddc6-a250-4849-ac03-e54595a19f4e",
+  "original_url": "https://panoramax.openstreetmap.fr/images/31/01/dd/c6/a250-4849-ac03-e54595a19f4e.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "sykul",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture 3101ddc6-a250-4849-ac03-e54595a19f4e (Hanoi, 2025-07-31)",
+  "description": "Street-level picture taken 2025-07-31 near Hanoi by sykul, sequence f4fc204e-b548-44c8-8c9d-47668f445a55, heading 281. OCR (PP-OCRv3) read: SSHINPOONG | SHINCARE | LIVER | mobifone | TUAN NGH | SIMTHE PHUKIEN DIERA | GARDEN HOUSE | KINI MAT VIETT'S | Thien AnO | CAN-LOAN-MATRONG-BA RONG | RAU MA-TRATLCAY TUOLNUOCDUA | TUANNGHA",
+  "date": "2025-07-31",
+  "categories": [],
+  "camera_location": [
+    21.027767167,
+    105.841636639
+  ],
+  "found_by": "panoramax-ocr:Hanoi",
+  "bytes": 1994989,
+  "width": 4000,
+  "height": 3000,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/31/01/dd/c6/a250-4849-ac03-e54595a19f4e.jpg",
+  "derivative": "whole 4000x3000 HD picture as served by the Panoramax instance (byte-identical; the instance blurs faces and number plates), not cropped"
+}

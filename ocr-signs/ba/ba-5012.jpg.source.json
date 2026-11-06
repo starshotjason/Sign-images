@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=29ceff59-134e-462d-9bd6-54bc08a71dbc",
+  "original_url": "https://panoramax.openstreetmap.fr/images/29/ce/ff/59/134e-462d-9bd6-54bc08a71dbc.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "Robot8A",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture 29ceff59-134e-462d-9bd6-54bc08a71dbc (Sarajevo, 2026-04-03)",
+  "description": "Street-level picture on Panoramax, taken 2026-04-03 near Sarajevo by Robot8A, sequence 0efb1c0e-0854-4e04-936f-30e067ae7603, heading 228. OCR (PP-OCRv3) read: HISTORJJSKIMUZEJ | BOSNEIHERCEGOVINE | SPARKASSES | POSJETITE NASU STALNU POSTAVKU\"OPKOLJENO SARAJEVOUHISTORIJSKOMMUZEJU BOS | SARAJEVO | DESTRUKCISADESTRUCTION",
+  "date": "2026-04-03",
+  "categories": [],
+  "camera_location": [
+    43.855422222,
+    18.401155556
+  ],
+  "found_by": "panoramax-ocr:Sarajevo",
+  "bytes": 3724225,
+  "width": 5712,
+  "height": 4284,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/29/ce/ff/59/134e-462d-9bd6-54bc08a71dbc.jpg",
+  "derivative": "whole 5712x4284 HD picture as served by the Panoramax instance (byte-identical; the service blurs faces and number plates), not cropped"
+}

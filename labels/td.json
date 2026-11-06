@@ -1,0 +1,38 @@
+{
+ "f1776ac73-09c2-40c1-be2b-896a1dfb857b": {
+  "accept": false,
+  "reason": "wrong country: Ronald McDonald House, Birmingham, UK (not Chad)"
+ },
+ "fca3af488-276d-4ff4-a835-6cfb5be88564": {
+  "accept": false,
+  "reason": "wrong country: Whittall Street, Birmingham, UK (not Chad); also an ambulance and parking-restriction signs, no clear main name sign"
+ },
+ "c160414484": {
+  "accept": false,
+  "reason": "not in Chad: framed newspaper page about the Donner Party (USA), filed under td because the photographer is Chad Douglas; document, not a sign"
+ },
+ "c160414546": {
+  "accept": false,
+  "reason": "not in Chad: 'Hastings Cutoff' trail marker post in Utah, USA (photographer Chad Douglas)"
+ },
+ "c160415118": {
+  "accept": false,
+  "reason": "not in Chad: framed map of the Hastings Cutoff in Utah, USA (photographer Chad Douglas); a map, not a sign"
+ },
+ "c160415620": {
+  "accept": false,
+  "reason": "not in Chad: 'The Spanish Trail 1800-1850' marker in Utah, USA (photographer Chad Douglas)"
+ },
+ "c157109778": {
+  "accept": false,
+  "reason": "wrong country: New Orleans, USA (Royal Street, French Quarter)"
+ },
+ "c160416232": {
+  "accept": false,
+  "reason": "wrong country: Utah, USA (Old Spanish Trail sign)"
+ },
+ "c86721124": {
+  "accept": false,
+  "reason": "wrong country: New Orleans, USA (Bourbon Street)"
+ }
+}

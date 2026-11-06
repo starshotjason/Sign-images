@@ -1,0 +1,82 @@
+{
+ "k1345570301": {
+  "accept": true,
+  "reason": "",
+  "kind": "hard",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "City Hotel,",
+    "lang": "sl"
+   },
+   {
+    "text": "2 parkirni mesti",
+    "lang": "sl"
+   }
+  ],
+  "expect": {
+   "query": "City Hotel",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Supplementary plate under a no-parking sign, reserving two spaces for the hotel; leaves hide the first word of line 1 (left out). The hotel's own pylon sign at right ('cityhotel ...') is behind branches and not readable. Hotel canopy and facade fill the background."
+ },
+ "k1346142413": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "MAXXIMUMSHOP",
+    "lang": "en"
+   },
+   {
+    "text": "prehranska dopolnila",
+    "lang": "sl"
+   }
+  ],
+  "expect": {
+   "query": "Maxximum",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Black fascia box over a supplement shop door; 'XX' are red overlapping letters and 'SHOP' is orange, with no space before SHOP. Distractors: a purple 'FOTOKOPIRNICA GOSPOSVETSKA' feather flag, a vertical blue 'SONČEK / Obišči svet!' travel-agency panel, a 'CO TO' arch sign and a small green house-number plate '47' at far left (street name too small). Pedestrians are face-blurred and incidental."
+ },
+ "k1346142493": {
+  "accept": false,
+  "reason": "main text is bus advertising livery (Cankarjev dom); direction sign at top right is cut off"
+ },
+ "k1362350309": {
+  "accept": false,
+  "reason": "regulatory traffic plate, cut off at the right edge; no complete place name"
+ },
+ "p224aa407c7": {
+  "accept": false,
+  "reason": "generic drinking-water label on a fountain; no place or business name"
+ },
+ "p582a8930c2": {
+  "accept": false,
+  "reason": "supermarket billboard with the address lines cut off at the left edge"
+ },
+ "p632155f8c4": {
+  "accept": false,
+  "reason": "statue without readable plinth text; the 'PIZZERIA LJU...' sign behind is cut off"
+ },
+ "p63e2d0dc12": {
+  "accept": false,
+  "reason": "monument dedication plaque (text about the 1943 demonstrations), no place or business name"
+ },
+ "p7930d57c0c": {
+  "accept": false,
+  "reason": "indoor AED/defibrillator notice; not a mappable place sign"
+ },
+ "pd93eaef26a": {
+  "accept": false,
+  "reason": "low-contrast embossed paragraph on a fountain sculpture; the title is not reliably legible"
+ }
+}

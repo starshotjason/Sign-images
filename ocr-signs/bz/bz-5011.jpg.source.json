@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/2889950/233/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMC84LzkvcHJvYy8yODg5OTUwXzk1ZjQ4XzVmMzAyYWY3YjM0YmUuanBn",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "charlie-plett",
+  "credit_as_published": "KartaView user charlie-plett (user id 24854); © KartaView contributors",
+  "title": "KartaView photo 1041896578, sequence 2889950 #233 (Belize City, 2020-03-10)",
+  "description": "Street-level picture on KartaView, taken 2020-03-10 near Belize City by charlie-plett, sequence 2889950, heading 281.84. OCR (PP-OCRv3) read: Shop | LIZHEN | BAR&GAMEROOM",
+  "date": "2020-03-10",
+  "categories": [],
+  "camera_location": [
+    17.496853,
+    -88.193041
+  ],
+  "found_by": "kartaview-ocr:Belize City",
+  "bytes": 234128,
+  "width": 1260,
+  "height": 945,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMC84LzkvcHJvYy8yODg5OTUwXzk1ZjQ4XzVmMzAyYWY3YjM0YmUuanBn",
+  "derivative": "crop 2718,0,3978,945 of the 4000x2250 full-size processed (blurred) picture"
+}

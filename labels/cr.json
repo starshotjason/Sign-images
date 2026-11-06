@@ -1,0 +1,295 @@
+{
+ "p26b0060df2": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "LA BOMBA",
+    "lang": "es"
+   },
+   {
+    "text": "Farmacia",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Farmacia La Bomba",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Blue pharmacy fascia on a pedestrian street, San José; a small logo panel to its left repeats 'LA BOMBA Farmacia'. Distractors: 'EDIFICIO LA UNION' carved above (also a valid building name), the yellow 'SE ALQUILA 2do PISO' sign, the 'Sarelly' sign further back."
+ },
+ "p595e508676": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Souvenir JADE",
+    "lang": "es"
+   },
+   {
+    "text": "(506) 6078 - 8400",
+    "lang": "und"
+   },
+   {
+    "text": "MINI MARKET",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Souvenir Jade",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Hanging shop sign under an arcade, San José, with 'Souvenir' in thin serif letters and 'JADE' in large capitals on one line. A tiny opening-hours line ('10:30AM ... ?:30PM') is too small to transcribe fully and is left out. The painted shutter at right repeats 'SOUVENIR JADE' and 'TEL. 6078-8400 / 10:00AM - 7:00PM'."
+ },
+ "p99aa8add93": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Payless",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Payless",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Shoe store fascia with an orange logo on the left of a pedestrian street, San José. Distractors on the right: 'KOAJ' (large outline letters and a lit box sign) and 'DUNKIN'."
+ },
+ "pa526634ce0": {
+  "accept": false,
+  "reason": "main sign ('FACES') is cut off at the top edge, and the small hanging plate is too small; no complete target"
+ },
+ "pa963975022": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "SAN JOSÉ",
+    "lang": "es"
+   },
+   {
+    "text": "MUNDO SAN JOSÉ",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Mundo San José",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Store fascia at the top-left corner, San José. The large red 'SAN JOSÉ' is preceded by a logo cut off by the frame; 'MUNDO SAN JOSÉ' is the small line under the logo. Keep the accent on 'JOSÉ'. The category strips ('MASCOTAS', 'BELLEZA'), the social-media handle '@mundosanjosecr' and the partial '...ntral' sign at right are distractors."
+ },
+ "pdd964d65e5": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "FARMACIA DR. LEE",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Farmacia Dr. Lee",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Purple-and-white lightbox with pharmacy pictograms, San José. Distractors: the vertical 'lecsa' sign at right, graffiti on the shutters, a café sandwich board."
+ },
+ "k1216326005": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "COOCIQUE",
+    "lang": "es"
+   },
+   {
+    "text": "La empresa financiera con sentido social",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Coocique",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Blue wraparound fascia of the Coocique credit co-operative on a corner in central San José, repeated on three faces (left copy cut). Above it a carved building name 'EDIFICIO / LA UNION' (secondary); below, a 'Fischel FARMACIA' sign. Crowd in the foreground with faces blurred; 'Rebelión Jeans' window poster and 'Sucre' sign at right are distractors."
+ },
+ "k1216345369": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "BCR",
+    "lang": "es"
+   },
+   {
+    "text": "Banco de Costa Rica",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Banco de Costa Rica",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "BCR bank sign on a building at the left edge of an avenue in San José, seen at an angle on an overcast day; a lamppost crosses the tagline. Distractors: large vertical CASINO sign, BCR PYMES 'VENDA MÁS' billboard on the roof, 'SE VENDE' sign, TOYS sign and sportswear billboard on the right."
+ },
+ "k1216352653": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "EL TOSTADOR",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "El Tostador",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Red letters on the black fascia of an El Tostador coffee shop on a brick corner building, San José; a cyclist in an orange vest fills the left foreground (back view, face blurred) and pedestrians cross in front."
+ },
+ "k1216352793": {
+  "accept": false,
+  "reason": "a cyclist's jersey (SUNGARD / SAXO BANK) is the main subject; the FONDESA sign is at the edge and partly cut"
+ },
+ "k1216367625": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "CREDICHIPS",
+    "lang": "es"
+   },
+   {
+    "text": "SU CALZADO A CREDITO",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Credichips",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Red shoe-store fascia on a corner, San José, with CREDICHIPS repeated on the window bands below; dull, backlit shot. Distractors: 'BOUTIQUE Palmeros' sign on the left, faint 'EDIFICIO LUX' lettering on the blue roof edge, DC logo, concert poster in a kiosk."
+ },
+ "p0a5e86247d": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Zapatería",
+    "lang": "es"
+   },
+   {
+    "text": "Jireh",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Zapatería Jireh",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Blue shoe-shop facade with white 'Jireh' wordmark and small 'Zapatería' above it, San José (wide-angle reprojected view); 'Jireh' repeats smaller on the side and over the shutters. Distractors: vertical '...O·COSMÉTICO / PROFESIONAL' sign and 'SE ALQUILAN OFICINAS' banner on the left, 'CARNICERÍA EL NOVILLO DE ORO' sign down the street, 'Tus estilos Preferidos aquí' poster."
+ },
+ "p295f491fcb": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "CAPITAL",
+    "lang": "en"
+   },
+   {
+    "text": "COFFEE",
+    "lang": "en"
+   },
+   {
+    "text": "ROASTER",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Capital Coffee Roaster",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Brown fascia with white letters and 'CCR' coffee-pot icons over closed shutters, San José; the O of COFFEE is a coffee bean and the O of ROASTER a cup. Distractors: the 'NO HAY PASO' no-entry sign in the foreground (most prominent text), the cut-off yellow '...Paolo' sign with phone 2256-0610 on the left, price boards further along."
+ },
+ "paa7f8741de": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn",
+   "Zyyy"
+  ],
+  "lines": [
+   {
+    "text": "1880",
+    "lang": "und"
+   },
+   {
+    "text": "MERCADO CENTRAL",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Mercado Central",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Raised gold letters over the gated entrance of the Mercado Central, San José, on a pale-green facade. A small green street plate at upper left (starts 'CALLE', number not reliably legible) and a toucan mural on the utility box are distractors; posters on the gate are unreadable."
+ }
+}

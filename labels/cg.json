@@ -1,0 +1,134 @@
+{
+ "c174199938": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Ville de Pointe-Noire",
+    "lang": "fr"
+   },
+   {
+    "text": "1.E.P.LUMUMBA / LOSANGE",
+    "lang": "fr"
+   },
+   {
+    "text": "BOULEVARD",
+    "lang": "fr"
+   },
+   {
+    "text": "du GÉNÉRAL",
+    "lang": "fr"
+   },
+   {
+    "text": "Charles de GAULLE",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "Boulevard du Général Charles de Gaulle",
+   "type": "street"
+  },
+  "difficulty": "medium",
+  "notes": "Blue enamel French-style street plate on a post in Pointe-Noire, shot from below at an angle. Small header gives the city and district (arrondissement 1 E.P. Lumumba, quartier Losange). A cut-off pharmacy cross sign at the left edge is a distractor."
+ },
+ "c174199943": {
+  "accept": false,
+  "reason": "near-duplicate of accepted c174199938 (same Boulevard Charles de Gaulle plate from almost the same angle)"
+ },
+ "c178211195": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Ville de Pointe-Noire",
+    "lang": "fr"
+   },
+   {
+    "text": "1.E.P.LUMUMBA / BUTTE DES MANGUIERS",
+    "lang": "fr"
+   },
+   {
+    "text": "RUE",
+    "lang": "fr"
+   },
+   {
+    "text": "de LIMBOU",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "Rue de Limbou",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Blue enamel street plate on a wall in central Pointe-Noire, frontal and sharp; city crest at top left. 'E.P.LUMUMBA' is printed with no space after the last full stop."
+ },
+ "c178211194": {
+  "accept": false,
+  "reason": "near-duplicate of accepted c178211195 (same Rue de Limbou plate, slightly cropped)"
+ },
+ "c169576886": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Rue Loufou",
+    "lang": "fr"
+   },
+   {
+    "text": "Avenue D. C. GANAO",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "Avenue D. C. Ganao",
+   "type": "street"
+  },
+  "difficulty": "medium",
+  "notes": "Two crossed green US-style street-name blades on a pole; the lower edge of 'Loufou' is partly hidden behind the mounting bracket and the lower blade. No camera location; category places it in the Republic of the Congo. A shop name ('...MARA') on the building below is a distractor."
+ },
+ "c169576885": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Rue Moukoukoulou",
+    "lang": "fr"
+   },
+   {
+    "text": "Avenue D. C. GANAO",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "Rue Moukoukoulou",
+   "type": "street"
+  },
+  "difficulty": "medium",
+  "notes": "Green street blades over an octagonal Western Union direction board ('WESTERN UNION ... A 100 mètres'), which is a distractor. The 'Avenue D. C. GANAO' blade is turned away at a steep angle and partly overlapped; slightly soft, upscaled image. Different intersection from c169576886 (shares only the avenue)."
+ },
+ "c8291530": {
+  "accept": false,
+  "reason": "wrong country (eastern DR Congo per description) and a weapons-prohibition sign with a person's face as the subject"
+ },
+ "c82194574": {
+  "accept": false,
+  "reason": "wrong country (DR Congo per description); 'PAS D'ARMES / NO WEAPONS' prohibition sign with no place name"
+ }
+}

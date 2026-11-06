@@ -1,0 +1,51 @@
+{
+  "p36f32d49d5": {
+    "accept": false,
+    "reason": "pedestrian-crossing warning pictogram with '50m' only; no place text"
+  },
+  "c127592817": {
+    "accept": false,
+    "reason": "wrong country: Kanaha Beach, Maui, Hawaii (matched on 'Guinea grass')"
+  },
+  "c71926962": {
+    "accept": false,
+    "reason": "wrong country: Kilauea Point refuge, Kauai, Hawaii (matched on 'Guinea grass'); also a no-entry notice"
+  },
+  "c74371792": {
+    "accept": false,
+    "reason": "wrong country: Honokowai, Maui, Hawaii (matched on 'Guinea grass'); also a no-trespassing notice"
+  },
+  "c36016363": {
+    "accept": false,
+    "reason": "a person posing is the subject; the only signs are an Ebola information poster and an Orange Money payment sticker"
+  },
+  "c81869412": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn",
+      "Nkoo"
+    ],
+    "lines": [
+      {
+        "text": "BIENVENUE A KANKAN NABAYA",
+        "lang": "fr"
+      },
+      {
+        "text": "VILLE",
+        "lang": "fr"
+      },
+      {
+        "text": "DE LA PROSPÉRITÉ",
+        "lang": "fr"
+      }
+    ],
+    "expect": {
+      "query": "Kankan",
+      "type": "place"
+    },
+    "difficulty": "medium",
+    "notes": "Arched city gate over the RN1 at the entrance to Kankan: red, gold and green panels. Each panel has a small subtitle line in N'Ko (gold/black) under the French text, which is too small and blurred at this resolution to transcribe character by character, so it is left out rather than guessed. Small tick marks above some capitals (including the A before KANKAN) look like rivets, not accents; 'PROSPÉRITÉ' clearly has both accents. The 'CARREFOUR MOUCTARYA' sign under the arch, the 'DON DE SEDE ...' plaques and the money-transfer billboard at right are distractors. Note: 'Nkoo' is listed because the sign carries N'Ko text, but no N'Ko line is transcribed."
+  }
+}

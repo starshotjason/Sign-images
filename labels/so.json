@@ -1,0 +1,224 @@
+{
+ "c110778975": {
+  "accept": false,
+  "reason": "tablet screen and printed publications (document/screen), not a sign"
+ },
+ "c38819061": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn",
+   "Zyyy"
+  ],
+  "lines": [
+   {
+    "text": "Telesom",
+    "lang": "en"
+   },
+   {
+    "text": "The Reliable Choice",
+    "lang": "en"
+   },
+   {
+    "text": "ABAARSO",
+    "lang": "so"
+   },
+   {
+    "text": "Abaarso → Arabsiyo = 20Km",
+    "lang": "so"
+   }
+  ],
+  "expect": {
+   "query": "Abaarso",
+   "type": "place"
+  },
+  "difficulty": "medium",
+  "notes": "Weathered green village-name board sponsored by Telesom on the Hargeisa road at Abaarso (Somaliland). The arrow is a painted red arrow and '20Km' is painted in red. The 'The Reliable Choice' tagline is small and widely spaced. A taxi with a number plate and a man walking at right are incidental. Alternative query: 'Arabsiyo'."
+ },
+ "c41460254": {
+  "accept": false,
+  "reason": "news/agency street photo (AMISOM series), no sign"
+ },
+ "c41460256": {
+  "accept": false,
+  "reason": "news/agency photo of a construction alley, no sign"
+ },
+ "c41460258": {
+  "accept": false,
+  "reason": "news/agency portrait of workers, no sign"
+ },
+ "c41460265": {
+  "accept": false,
+  "reason": "news/agency street photo, no sign"
+ },
+ "c44164097": {
+  "accept": false,
+  "reason": "wrong country (former Somali embassy, Bonn, Germany); German parking notice"
+ },
+ "c87413000": {
+  "accept": true,
+  "reason": "",
+  "kind": "transit",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ARRIVAL TREE",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Arrival Tree",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Hand-painted wooden plank tied to a tree that serves as the arrivals area at Kismayo airport; letter spacing is uneven ('ARR IVAL'). The 'SAFETY FIRST' banner on the wall behind is a distractor. Alternative query: 'Kismayo Airport'."
+ },
+ "c87413001": {
+  "accept": true,
+  "reason": "",
+  "kind": "transit",
+  "scripts": [
+   "Latn",
+   "Zyyy"
+  ],
+  "lines": [
+   {
+    "text": "DISTANCE IN KM",
+    "lang": "en"
+   },
+   {
+    "text": "MOGADISHU 410",
+    "lang": "en"
+   },
+   {
+    "text": "WAJIR 363",
+    "lang": "en"
+   },
+   {
+    "text": "NAIROBI 645",
+    "lang": "en"
+   },
+   {
+    "text": "STOCKHOLM 6781",
+    "lang": "en"
+   },
+   {
+    "text": "KATHMANDU 5114",
+    "lang": "en"
+   },
+   {
+    "text": "LONDON 6910",
+    "lang": "en"
+   },
+   {
+    "text": "J'OBURG 3252",
+    "lang": "en"
+   },
+   {
+    "text": "ROME 5587",
+    "lang": "en"
+   },
+   {
+    "text": "SARAJEVO 5476",
+    "lang": "en"
+   },
+   {
+    "text": "COLOMBO 3836",
+    "lang": "en"
+   },
+   {
+    "text": "MOSCOW 6262",
+    "lang": "en"
+   },
+   {
+    "text": "DEPARTURE TREE",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Departure Tree",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Hand-painted distance board over a 'DEPARTURE TREE' plank at Kismayo airport (the departure counterpart of the 'ARRIVAL TREE' sign, a different sign). 'DEPARTURE' has small dots between some letters on the plank. 'IED ENVIRONMENT AWARENESS / BEWARE IED THREATS' posters at the bottom are distractors. Alternative query: 'Kismayo Airport'."
+ },
+ "c87418548": {
+  "accept": false,
+  "reason": "wrong country (language-café notices in a Swedish library)"
+ },
+ "c87524111": {
+  "accept": false,
+  "reason": "selfie: a man's face is the main subject; same 'ARRIVAL TREE' sign as c87413000 (near-duplicate)"
+ },
+ "c96531556": {
+  "accept": false,
+  "reason": "1993 temporary military camp sign (Camp Stalder) seen through blurred foreground; not a current map place"
+ },
+ "f33cb6d77-b934-41e9-9b6c-05d8d69354e5": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "AL-IKHWA",
+    "lang": "so"
+   },
+   {
+    "text": "GENERAL TRADING COMPANY",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Al-Ikhwa General Trading",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Hand-painted storefront in Berbera (Somaliland): red 'AL-IKHWA' with white outline over a black-on-yellow line. Painted drinks and rice-sack murals (RANI, Coca-Cola, Sprite) are advertising distractors; small stencilled numbers on the side wall and a tag on the door are not part of the sign."
+ },
+ "f6076c020-4b1b-4327-bf0a-ba81ab964f22": {
+  "accept": false,
+  "reason": "'I ♥ SOMALILAND' slogan letters; not a place-name sign for a mappable site"
+ },
+ "fe2bdd3f3-5aa4-4fa1-98d0-144930dec059": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Telesom company",
+    "lang": "en"
+   },
+   {
+    "text": "XARUNTA TOTAL",
+    "lang": "so"
+   }
+  ],
+  "expect": {
+   "query": "Telesom",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Telesom headquarters/shop in Hargeisa (Somaliland): green rooftop channel letters where the 'o' of Telesom is a yellow disc and 'company' follows with almost no gap; red 'XARUNTA TOTAL' on the fascia (Somali 'xarunta' = the centre). The green 'Taaj' remittance logo over the door (its tiny subtitle is not legible) and the side-wall repeat of the rooftop sign are distractors. People and vehicles are incidental."
+ },
+ "c41460266": {
+  "accept": false,
+  "reason": "AMISOM/UN news photo of Mogadishu rooftops, no legible sign"
+ },
+ "c41460277": {
+  "accept": false,
+  "reason": "AMISOM/UN news photo, city panorama with no sign"
+ },
+ "c41460279": {
+  "accept": false,
+  "reason": "AMISOM/UN news photo, person walking in street, no sign"
+ }
+}

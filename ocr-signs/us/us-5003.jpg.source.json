@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/995311/882/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlNy5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE4LzEvOS9wcm9jLzk5NTMxMV8xMGZmN181YTU0Y2M5ZjUwMDg5LmpwZw",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "danbjoseph",
+  "credit_as_published": "KartaView user danbjoseph (user id 230); © KartaView contributors",
+  "title": "KartaView photo 187413665, sequence 995311 #882 (Washington, 2018-01-09)",
+  "description": "Street-level picture on KartaView, taken 2018-01-09 near Washington by danbjoseph, sequence 995311, heading 181.4. OCR (PP-OCRv3) read: ARDEN",
+  "date": "2018-01-09",
+  "categories": [],
+  "camera_location": [
+    38.901205,
+    -77.032008
+  ],
+  "found_by": "kartaview-ocr:Washington",
+  "bytes": 351453,
+  "width": 1200,
+  "height": 900,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlNy5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE4LzEvOS9wcm9jLzk5NTMxMV8xMGZmN181YTU0Y2M5ZjUwMDg5LmpwZw",
+  "derivative": "crop 493,0,1693,900 of the 3840x2160 full-size processed (blurred) picture"
+}

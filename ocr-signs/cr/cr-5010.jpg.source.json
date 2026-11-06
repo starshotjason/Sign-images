@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=295f491f-cbf8-40bf-8f4d-9d75cdbde390",
+  "original_url": "https://panoramax.openstreetmap.fr/images/29/5f/49/1f/cbf8-40bf-8f4d-9d75cdbde390.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "MatthiasMatthias",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture 295f491f-cbf8-40bf-8f4d-9d75cdbde390 (San Jose CR, 2026-04-02)",
+  "description": "Street-level picture on Panoramax, taken 2026-04-02 near San Jose CR by MatthiasMatthias, sequence 56c8d094-43c9-4481-9b77-16256d9f35c4, heading 81. OCR (PP-OCRv3) read: Paolo | NO HAY | CAP:TAL | CLFFEE | PASO | RBASTER",
+  "date": "2026-04-02",
+  "categories": [],
+  "camera_location": [
+    9.9333613,
+    -84.0730769
+  ],
+  "found_by": "panoramax-ocr:San Jose CR",
+  "bytes": 655850,
+  "width": 2263,
+  "height": 1697,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/29/5f/49/1f/cbf8-40bf-8f4d-9d75cdbde390.jpg",
+  "derivative": "crop 0,0,2263,1697 of the 4080x2295 HD picture"
+}

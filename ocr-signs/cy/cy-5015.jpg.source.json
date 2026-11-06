@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=b086fb79-d33a-4081-9aa5-91907ec0a61a",
+  "original_url": "https://panoramax.openstreetmap.fr/images/b0/86/fb/79/d33a-4081-9aa5-91907ec0a61a.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "nave88",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture b086fb79-d33a-4081-9aa5-91907ec0a61a (Limassol, 2026-06-08)",
+  "description": "Street-level picture taken 2026-06-08 near Limassol by nave88, sequence dfda0885-5ae4-473a-b195-5afc1f46fb7e, heading 212. OCR (PP-OCRv3) read: O0OSMAPAOQNOZ | MARATHONOS Str.",
+  "date": "2026-06-08",
+  "categories": [],
+  "camera_location": [
+    34.676817972,
+    33.040773972
+  ],
+  "found_by": "panoramax-ocr:Limassol",
+  "bytes": 2035675,
+  "width": 3346,
+  "height": 2510,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/b0/86/fb/79/d33a-4081-9aa5-91907ec0a61a.jpg",
+  "derivative": "crop 733,0,4079,2510 of the 4080x3060 HD picture"
+}

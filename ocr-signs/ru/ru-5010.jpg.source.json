@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/135620/676/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMy5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE3LzQvMjMvcHJvYy8xMzU2MjBfMTc5ODhfNThmZDA2NjQ1NTZhMi5qcGc",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "alexletov",
+  "credit_as_published": "KartaView user alexletov (user id 8219); © KartaView contributors",
+  "title": "KartaView photo 29151364, sequence 135620 #676 (Saint Petersburg, 2017-04-23)",
+  "description": "Street-level picture on KartaView, taken 2017-04-23 near Saint Petersburg by alexletov, sequence 135620, heading 112.19. OCR (PP-OCRv3) read: NOMOHOCOBA0.3 | nepeynok | KPbinoBA | 5AHKOBCKMM | HCEAHK",
+  "date": "2017-04-23",
+  "categories": [],
+  "camera_location": [
+    59.929499,
+    30.324637
+  ],
+  "found_by": "kartaview-ocr:Saint Petersburg",
+  "bytes": 210941,
+  "width": 1200,
+  "height": 900,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMy5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE3LzQvMjMvcHJvYy8xMzU2MjBfMTc5ODhfNThmZDA2NjQ1NTZhMi5qcGc",
+  "derivative": "crop 1952,1123,3152,2023 of the 4032x3024 full-size processed (blurred) picture"
+}

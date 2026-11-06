@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/3872117/219/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMS8xMC82L3Byb2MvMzg3MjExN184MjkwMjVmMjNkNDIxY2ZhYTJjOGRkYjMyMzQzNmRiOC5qcGc",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "ishan-uditha",
+  "credit_as_published": "KartaView user ishan-uditha (user id 50621); © KartaView contributors",
+  "title": "KartaView photo 1384623541, sequence 3872117 #219 (Colombo, 2021-10-06)",
+  "description": "Street-level picture on KartaView, taken 2021-10-06 near Colombo by ishan-uditha, sequence 3872117, heading 69.31. OCR (PP-OCRv3) read: NAWAGIRI HOTEL | DILUSHIACA | METERTAXI",
+  "date": "2021-10-06",
+  "categories": [],
+  "camera_location": [
+    6.934711,
+    79.852129
+  ],
+  "found_by": "kartaview-ocr:Colombo",
+  "bytes": 441237,
+  "width": 2080,
+  "height": 1440,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMS8xMC82L3Byb2MvMzg3MjExN184MjkwMjVmMjNkNDIxY2ZhYTJjOGRkYjMyMzQzNmRiOC5qcGc",
+  "derivative": "crop 0,0,2080,1440 of the 2560x1440 full-size processed (blurred) picture"
+}

@@ -1,0 +1,31 @@
+{
+  "source": "tcmb",
+  "source_url": "https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Place&id=333080",
+  "original_url": "https://dcm.s3.hicloud.net.tw/new/collectionOpen/2020-04-03/4fc470c0-b198-4860-8db5-af083227118e/5b668d4a-c808-4e46-bccb-48877ebf6fea.jpg",
+  "license_as_published": "CC BY",
+  "license_url_as_published": "https://creativecommons.org/licenses/by/3.0/tw/",
+  "author_as_published": "苗栗縣政府文化觀光局",
+  "credit_as_published": "苗栗縣政府文化觀光局, 國家文化記憶庫 Taiwan Cultural Memory Bank, CC BY",
+  "title": "造橋車站",
+  "description": "造橋車站，位於苗栗縣造橋鄉，日治時期以「造橋驛」為名正式營運。造橋鄉位於苗栗北部，古苗栗八景詩之一「馬陵小海」即是現今的苗栗縣造橋鄉龍昇湖（清代稱之為馬陵潭），因潭水淤塞嚴重，如今已無法窺見當時的景色盛況。造橋也漸漸罕為被文人書寫，到近年由錢群星撰寫的報導文學〈造橋車站的歷史解說告示作為起始—被忽視的一段故事〉刊載，才揭開了一段造橋車站被淡忘的百年歷史，揭示了苗栗縣造橋鄉的另一種文學樣貌。 具有百年歷史的造橋車站站體為古典洋式建築，在民國五、六十年代扮演了重要的運輸角色。錢群星的〈造橋車站的歷史解說告示作為起始—被忽視的一段故事〉為2014年第十七屆夢花文學獎報導文學類得獎作品，文中詳述造橋鄉為當時油礦盛產之地，日本政府看準其經濟利益，為使產地附近的交通運輸更為便捷，便將車站改建為材質較堅固的混凝土建築。如今造橋車站的人流雖已沒落，但其文史價值仍然具有深遠的代表性。",
+  "date": null,
+  "categories": [
+    "藝術與人文",
+    "文學地景",
+    "苗栗文學",
+    "造橋車站",
+    "造橋鄉",
+    "造橋驛",
+    "錢群星"
+  ],
+  "camera_location": [
+    24.6416556,
+    120.8669278
+  ],
+  "found_by": "tcmb-opendata:dataSet/culture title/keyword match '車站'; rapidocr pre-screen read ['Zaociag']; visually reviewed",
+  "bytes": 8515625,
+  "width": 3508,
+  "height": 2631,
+  "downloaded_url": "https://tcmb.culture.tw/imagor/filters:raw()/https%3A%2F%2Fdcm.s3.hicloud.net.tw%2Fnew%2FcollectionOpen%2F2020-04-03%2F4fc470c0-b198-4860-8db5-af083227118e%2F5b668d4a-c808-4e46-bccb-48877ebf6fea.jpg",
+  "derivative": ""
+}

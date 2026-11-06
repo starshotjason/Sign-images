@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=5c7a3d6a-15b4-49ef-996d-c788a5f1aef1",
+  "original_url": "https://panoramax.openstreetmap.fr/images/5c/7a/3d/6a/15b4-49ef-996d-c788a5f1aef1.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "nave88",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture 5c7a3d6a-15b4-49ef-996d-c788a5f1aef1 (Nicosia, 2025-10-25)",
+  "description": "360-degree panorama taken 2025-10-25 near Nicosia by nave88, sequence e7b25821-6d49-4174-bd63-322329aa1b2b, heading 191. OCR (PP-OCRv3) read: MupowAcionATPAZ》 | Gosmetiss | PATRAS",
+  "date": "2025-10-25",
+  "categories": [],
+  "camera_location": [
+    35.1716658,
+    33.3616026
+  ],
+  "found_by": "panoramax-ocr:Nicosia",
+  "bytes": 352055,
+  "width": 1440,
+  "height": 1080,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/5c/7a/3d/6a/15b4-49ef-996d-c788a5f1aef1.jpg",
+  "derivative": "rectilinear (gnomonic) view, yaw -28.8 deg from the panorama centre, pitch +11.9 deg, horizontal field of view 90 deg, 1440x1080 px, reprojected from the 5760x2880 HD equirectangular panorama"
+}

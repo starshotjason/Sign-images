@@ -1,0 +1,467 @@
+{
+ "f0c9dc60f-3c73-43fe-8c7c-b8d4c3dd3d9d": {
+  "accept": false,
+  "reason": "mobile-operator branding cards ('Pata huduma hapa', tigo); no business or place name"
+ },
+ "f14a67a69-8466-49bb-9368-931a64b04f15": {
+  "accept": false,
+  "reason": "wildlife warning sign ('SLOW! COLOBUS CROSSING'), no place name"
+ },
+ "f39c4262c-0f12-4d74-b00b-1b679a7cd79c": {
+  "accept": false,
+  "reason": "advertising billboard ('Money.ahead')"
+ },
+ "f458577ba-2216-4e75-903b-5089687576fd": {
+  "accept": false,
+  "reason": "road-project information board with small text; not a place name sign"
+ },
+ "f58244f8a-a2d0-4eb3-995a-416722f16afb": {
+  "accept": false,
+  "reason": "wrong country: Club Zanzibar strip club on Yonge St, Toronto (adult-venue marquee)"
+ },
+ "f63ce4336-0579-40fb-8804-5b709f3692d1": {
+  "accept": false,
+  "reason": "wrong country: Zanzibar Trading Company sign at Walt Disney World, Florida"
+ },
+ "f6b895867-7a3b-497f-9452-f0f86c993826": {
+  "accept": false,
+  "reason": "framed explanatory text notice ('SLAVE CHAMBER'), not a name sign"
+ },
+ "f6c1727c1-4a6e-44e1-8a93-9b78eb74c454": {
+  "accept": false,
+  "reason": "'SILENCE PLEASE!' poster with NSSF advertising"
+ },
+ "f6d55767f-251c-4a72-8373-aa54ac3f0706": {
+  "accept": false,
+  "reason": "memorial plaque listing names of people killed; not a place sign"
+ },
+ "f760a0ec0-6022-4dd6-bb9c-0b75c42655c0": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ZANZIBAR",
+    "lang": "sw"
+   }
+  ],
+  "expect": {
+   "query": "Zanzibar",
+   "type": "place"
+  },
+  "difficulty": "easy",
+  "notes": "Large blue mounted capitals on the roof railing of a terminal building in the port area, Stone Town, Zanzibar. Two roof workers at left are incidental. Faint letters behind the lower window are not readable."
+ },
+ "f81ef8cde-b1d2-45bd-a3ec-8f3cc0963735": {
+  "accept": false,
+  "reason": "wrong country: Club Zanzibar strip club, Toronto (adult-venue marquee)"
+ },
+ "f8ba147e8-e34f-413c-a1fb-99037bac6458": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "WELCOME TO",
+    "lang": "en"
+   },
+   {
+    "text": "THE ANGLICAN CHRIST CHURCH CATHEDRAL",
+    "lang": "en"
+   },
+   {
+    "text": "(THE FORMER SLAVE MARKET SITE)",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Christ Church Cathedral",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Painted heritage board outside the Anglican cathedral, Stone Town, Zanzibar. Only the black-on-white heading (the site name) is transcribed; the long white-on-green history text below and the 'FORMER SL... SITE ENTRANCE 4 USD ...' notice on the wall at right are distractors."
+ },
+ "f90399cfc-350d-4daa-b858-f87c7a4416f4": {
+  "accept": false,
+  "reason": "mobile-operator advertising billboard over the road"
+ },
+ "f9804ef48-9cd4-4ca0-bc86-e131db3f6652": {
+  "accept": true,
+  "reason": "",
+  "kind": "transit",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ZANZIBAR INTERNATIONAL AIRPORT",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Zanzibar International Airport",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Thin grey mounted capitals along the roof line of the old terminal, against a grey sky (low contrast); a mast crosses the T of INTERNATIONAL and the clock tower sits below. Distractors: the DTB (Diamond Trust Bank) cube under the clock and a green panel cut off at left ('...ar')."
+ },
+ "fac75c72d-9176-42bb-a2ed-e6520bdc7b90": {
+  "accept": false,
+  "reason": "battered STOP sign only, no place text"
+ },
+ "fb3804d3a-72f8-4d68-9ff4-c36c89818319": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn",
+   "Zyyy"
+  ],
+  "lines": [
+   {
+    "text": "PRINCESS",
+    "lang": "en"
+   },
+   {
+    "text": "COMPUTER TRAINING",
+    "lang": "en"
+   },
+   {
+    "text": "ENGLISH & COMPUTER COURSE",
+    "lang": "en"
+   },
+   {
+    "text": ";2183740 ;15732 DSM.",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Princess Computer Training",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Painted sign over an alley entrance, Dar es Salaam. A bundle of cables hangs over the logo and the 'CO' of COMPUTER (still readable). The left edge of the frame trims the E of ENGLISH and the right edge may cut a final letter after COURSE. The fourth line has a phone icon before 2183740 and a P.O. Box (envelope) icon before 15732; DSM. = Dar es Salaam. The pink 'MDIA ELECTRONIC SERVICES' sign below (first letter missing) and the small repeat of the sign down the alley are distractors."
+ },
+ "fbb1a9b88-eb02-4dfd-a140-339af3c2f188": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "SLAVE",
+    "lang": "en"
+   },
+   {
+    "text": "CHAMBERS",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Slave Chambers",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Hand-painted black capitals with a left arrow on a white pillar of a covered walkway at the Anglican cathedral (old slave market), Stone Town, Zanzibar. The sign is small in the lower left; the cathedral facade fills the rest of the frame. Same site as the cathedral welcome board but a different sign."
+ },
+ "fc570096f-a103-4444-b367-8b31b70f252e": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "La Boutique",
+    "lang": "fr"
+   },
+   {
+    "text": "at Cristal Resort",
+    "lang": "en"
+   },
+   {
+    "text": "Souvenirs-Care Products-Clothing",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Cristal Resort",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Hand-painted white script on a weathered wooden board, Paje, Zanzibar; a faded earlier painting of 'La Boutique' shows through. The C of Cristal and Clothing is a decorative capital. The separators in the third line are small dash-like marks, transcribed as hyphens. The 'KK SECURITY THE KK GROUP OF COMPANIES www.kksecurity.com' plate below is a distractor. Alternative query: 'La Boutique'."
+ },
+ "fc5deb37b-3bb0-4a61-9849-4be8555cc9de": {
+  "accept": false,
+  "reason": "wrong country: Zanzibar Shell Co. facade at Walt Disney World, Florida"
+ },
+ "fd6cb7535-ecd1-4602-b51d-29e5339bf2e1": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "TOGETHER HAIR",
+    "lang": "en"
+   },
+   {
+    "text": "Cutting Saloon",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Together Hair Cutting Saloon",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Painted signboard over a barbershop door in a colonial-era facade, Stone Town, Zanzibar. 'Saloon' (not Salon) is as written. Distractors: the small red 'BARBER SHOP' script at left, the older painted lintel text 'HAIR MIREY Cutting ... SALOON' around the date plaque '1931', and an 'OPEN' sign in the window."
+ },
+ "fd97d25b2-0025-471f-8dce-0be8d8ca460e": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "NANJA",
+    "lang": "sw"
+   }
+  ],
+  "expect": {
+   "query": "Nanja",
+   "type": "place"
+  },
+  "difficulty": "medium",
+  "notes": "White roadside place-name board with black capitals and a diagonal bar across it (end of the settlement), on the road west of Arusha, shot from a moving vehicle; the bar crosses the letters but they stay readable. The dark blurred sign at the left edge is a distractor."
+ },
+ "fe57790f4-0291-4314-87b9-a702891c08e4": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "PAGODA",
+    "lang": "en"
+   },
+   {
+    "text": "CHINESE",
+    "lang": "en"
+   },
+   {
+    "text": "RESTAURANT",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Pagoda Chinese Restaurant",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Hand-painted red capitals on a white hanging board with a left arrow, Stone Town, Zanzibar, seen from below. Overhead cables cross the C of CHINESE and the E of RESTAURANT but the letters stay readable."
+ },
+ "ff7ced894-d768-4fdf-8fb9-a56066a9c7b3": {
+  "accept": false,
+  "reason": "mobile-money kiosk covered in operator branding (tigo pesa, airtel, M-PESA); no business name"
+ },
+ "k300974379": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "BW Best Western CBD Hotel",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Best Western CBD Hotel",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "White fascia band high on a stone-clad hotel building, Dar es Salaam, with the round BW logo before the name. The pay-TV advert drum on the lamp post ('TSH 78,000', 'FULL HD', 'ASHTON' at the base) is a distractor."
+ },
+ "k300974419": {
+  "accept": false,
+  "reason": "tyre and detergent advertising billboards"
+ },
+ "k300974439": {
+  "accept": false,
+  "reason": "driving-school sign blurred with its first letters uncertain (?MAMILO); the rest are adverts and an obscured bank sign"
+ },
+ "k300974459": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "playmaster",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Playmaster",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Dark fascia over a sports-betting shop on the first floor, Dar es Salaam: 'play' in white on a green shape, 'master' in black on a white shape, all lowercase. A faint spaced tagline below (apparently SPORTS BETTING) is too small to transcribe. Distractors: 'PLAY' and 'master' panels above the window, 'MO electro' sign and green shop signs at street level, and a bus destination board ('...ACH TOWN')."
+ },
+ "c195657233": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "MANYEMA ROAD",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Manyema Road",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Yellow street blade with black condensed capitals on a black-and-yellow pole, Moshi. The motorcyclist is incidental; a large cut-off billboard ('M...') at the top right and vehicle plates in the background are distractors."
+ },
+ "c15952942": {
+  "accept": false,
+  "reason": "elephant warning pictogram only; no place text"
+ },
+ "c87363082": {
+  "accept": false,
+  "reason": "'RAIL CROSSING WAY' crossbuck warning sign; no place name (the TANROADS office board in the distance is illegible)"
+ },
+ "c318315": {
+  "accept": false,
+  "reason": "park information and camping-notice boards are small and blurry (paragraph text); the 'MOMELA WILDLIFE' direction sign is cut off at the right edge"
+ },
+ "c89328568": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Bikini ice cream Parlour",
+    "lang": "en"
+   },
+   {
+    "text": "2000/SCOOP",
+    "lang": "und"
+   },
+   {
+    "text": "DIFFERENT",
+    "lang": "en"
+   },
+   {
+    "text": "FLAVOURS",
+    "lang": "en"
+   },
+   {
+    "text": "COME AND",
+    "lang": "en"
+   },
+   {
+    "text": "TRY IT OUT!!",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Bikini Ice Cream Parlour",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Hand-painted chalkboard-style easel sign with an ice-cream cone, beach bar on Zanzibar's north shore. The name line is the target; the price and slogan lines are advertising copy. A cocktail menu board behind ('BIK... HAPPY HOUR COCKTAIL') and a 'TIP BOX' are distractors."
+ },
+ "c6511335": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Godwin Loi",
+    "lang": "en"
+   },
+   {
+    "text": "Shop",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Godwin Loi Shop",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "White name board with a Coca-Cola bottle panel on the left, on the roof edge of a small shop on the Arusha-Dodoma road; seen from a distance. 'celtel' and 'Vodacom'-style operator posters on the wall are distractors; men seated on the veranda are incidental."
+ },
+ "c47207121": {
+  "accept": false,
+  "reason": "TANROADS anti-littering notice ('TUNZA BARABARA / DO NOT LITTER'); a warning, not a place name"
+ },
+ "c12213089": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "MIKUMI",
+    "lang": "en"
+   },
+   {
+    "text": "NATIONAL PARK",
+    "lang": "en"
+   },
+   {
+    "text": "DANGER",
+    "lang": "en"
+   },
+   {
+    "text": "WILD ANIMALS",
+    "lang": "en"
+   },
+   {
+    "text": "NEXT 50 KMS",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Mikumi National Park",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Green board with a yellow border and stencil-style lettering on the highway through the park, seen at an angle from the left; red 'DANGER' on a white panel. The warning lines are secondary; the park name is the target."
+ }
+}

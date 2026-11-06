@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=a9639750-226f-47d7-bba4-2b5f36eb16f7",
+  "original_url": "https://panoramax.openstreetmap.fr/images/a9/63/97/50/226f-47d7-bba4-2b5f36eb16f7.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "MatthiasMatthias",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture a9639750-226f-47d7-bba4-2b5f36eb16f7 (San Jose CR, 2026-04-02)",
+  "description": "Street-level picture taken 2026-04-02 near San Jose CR by MatthiasMatthias, sequence 56c8d094-43c9-4481-9b77-16256d9f35c4, heading 90. OCR (PP-OCRv3) read: SANJOSE | MUNDO SANJOSE | MASCOTAS | BELLEZA",
+  "date": "2026-04-02",
+  "categories": [],
+  "camera_location": [
+    9.9337738,
+    -84.0762091
+  ],
+  "found_by": "panoramax-ocr:San Jose CR",
+  "bytes": 5325863,
+  "width": 4080,
+  "height": 2295,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/a9/63/97/50/226f-47d7-bba4-2b5f36eb16f7.jpg",
+  "derivative": "whole 4080x2295 HD picture as served by the Panoramax instance (byte-identical; the instance blurs faces and number plates), not cropped"
+}

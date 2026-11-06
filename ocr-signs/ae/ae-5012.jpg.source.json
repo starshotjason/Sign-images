@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/444111/27/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlNC5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE3LzYvNC9wcm9jLzQ0NDExMV9jMWQxNF81OTM0Mjc5YmM5NTNjLmpwZw",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "ConsEbt",
+  "credit_as_published": "KartaView user ConsEbt (user id 2569); © KartaView contributors",
+  "title": "KartaView photo 41524820, sequence 444111 #27 (Sharjah, 2017-06-04)",
+  "description": "Street-level picture on KartaView, taken 2017-06-04 near Sharjah by ConsEbt, sequence 444111, heading 50.8. OCR (PP-OCRv3) read: Dubai slamic B",
+  "date": "2017-06-04",
+  "categories": [],
+  "camera_location": [
+    25.347281,
+    55.388077
+  ],
+  "found_by": "kartaview-ocr:Sharjah",
+  "bytes": 116844,
+  "width": 1225,
+  "height": 918,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlNC5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE3LzYvNC9wcm9jLzQ0NDExMV9jMWQxNF81OTM0Mjc5YmM5NTNjLmpwZw",
+  "derivative": "crop 1463,0,2688,918 of the 2688x1520 full-size processed (blurred) picture"
+}

@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=a10cbe3b-beaa-4150-ab04-37c02932db55",
+  "original_url": "https://panoramax.openstreetmap.fr/images/a1/0c/be/3b/beaa-4150-ab04-37c02932db55.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "Robot8A",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture a10cbe3b-beaa-4150-ab04-37c02932db55 (Kutaisi, 2020-01-15)",
+  "description": "Street-level picture taken 2020-01-15 near Kutaisi by Robot8A, sequence bbb3f4d8-02eb-4bf7-abb6-240ac3e16f9b, heading 82. OCR (PP-OCRv3) read: sHouse | BoB's | BoB'sHouse",
+  "date": "2020-01-15",
+  "categories": [],
+  "camera_location": [
+    42.26859221,
+    42.674362045
+  ],
+  "found_by": "panoramax-ocr:Kutaisi",
+  "bytes": 1390123,
+  "width": 2905,
+  "height": 2179,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/a1/0c/be/3b/beaa-4150-ab04-37c02932db55.jpg",
+  "derivative": "crop 1126,0,4031,2179 of the 4032x3024 HD picture"
+}

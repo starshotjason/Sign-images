@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/8579/92/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlNC5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE2LzcvMS9wcm9jLzg1NzlfNTA2YjRfNTc3NjE4MTMxNjljMy5qcGc",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "OpenStreetView",
+  "credit_as_published": "KartaView user OpenStreetView (user id 44); © KartaView contributors",
+  "title": "KartaView photo 3126200, sequence 8579 #92 (Bern, 2016-06-20)",
+  "description": "Street-level picture on KartaView, taken 2016-06-20 near Bern by OpenStreetView, sequence 8579, heading 114.72. OCR (PP-OCRv3) read: 50-75% | SPORTXX | ral art floral art floral art floral art flor | ral artflo",
+  "date": "2016-06-20",
+  "categories": [],
+  "camera_location": [
+    46.948942,
+    7.445865
+  ],
+  "found_by": "kartaview-ocr:Bern",
+  "bytes": 733645,
+  "width": 2278,
+  "height": 1708,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlNC5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE2LzcvMS9wcm9jLzg1NzlfNTA2YjRfNTc3NjE4MTMxNjljMy5qcGc",
+  "derivative": "crop 0,227,2278,1935 of the 2592x1936 full-size processed (blurred) picture"
+}

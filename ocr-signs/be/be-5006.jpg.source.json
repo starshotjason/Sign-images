@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=96cc9fa3-aeae-4a7b-978b-3ad89d3f5622",
+  "original_url": "https://panoramax.openstreetmap.fr/images/96/cc/9f/a3/aeae-4a7b-978b-3ad89d3f5622.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "tykayn",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture 96cc9fa3-aeae-4a7b-978b-3ad89d3f5622 (Brussels, 2023-12-28)",
+  "description": "360-degree panorama on Panoramax, taken 2023-12-28 near Brussels by tykayn, sequence fb3898b3-8f2f-4a6a-9af5-356b496d267a, heading 97. OCR (PP-OCRv3) read: LE PAIN QUOTIDIEN | EVILLE | THEATREDU",
+  "date": "2023-12-28",
+  "categories": [],
+  "camera_location": [
+    50.8476613,
+    4.3547889
+  ],
+  "found_by": "panoramax-ocr:Brussels",
+  "bytes": 272820,
+  "width": 1420,
+  "height": 1065,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/96/cc/9f/a3/aeae-4a7b-978b-3ad89d3f5622.jpg",
+  "derivative": "rectilinear (gnomonic) view, yaw -11.2 deg from the panorama centre, pitch -4.7 deg, horizontal field of view 90 deg, 1420x1065 px, reprojected from the 5662x2831 HD equirectangular panorama"
+}

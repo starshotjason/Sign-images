@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/8763/276/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMS5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE2LzcvNC9wcm9jLzg3NjNfMTc5ODhfNTc3YWI0MzlkMzBmZS5qcGc",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "heko2",
+  "credit_as_published": "KartaView user heko2 (user id 85); © KartaView contributors",
+  "title": "KartaView photo 3418257, sequence 8763 #276 (Berlin, 2016-07-04)",
+  "description": "Street-level picture on KartaView, taken 2016-07-04 near Berlin by heko2, sequence 8763, heading 357.33. OCR (PP-OCRv3) read: NOVOTEL",
+  "date": "2016-07-04",
+  "categories": [],
+  "camera_location": [
+    52.51251,
+    13.403594
+  ],
+  "found_by": "kartaview-ocr:Berlin",
+  "bytes": 258205,
+  "width": 1200,
+  "height": 900,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMS5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE2LzcvNC9wcm9jLzg3NjNfMTc5ODhfNTc3YWI0MzlkMzBmZS5qcGc",
+  "derivative": "crop 690,265,1890,1165 of the 2160x2160 full-size processed (blurred) picture"
+}

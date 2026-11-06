@@ -1,0 +1,438 @@
+{
+ "p56112ebd16": {
+  "accept": false,
+  "reason": "building lettering incomplete: only 'UNI...' and 'LABOR' remain, the middle letters are missing or hidden; cannot be transcribed reliably"
+ },
+ "p6066b77c65": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "UNIVERSITY OF NAIROBI",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "University of Nairobi",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Blue gate banner with the university coat of arms at the right, at dusk, Nairobi. The decorated matatu on the left ('METRO TRANS', 'STATESMAN THE LOYAL') is a large distractor, as are 'ENTRY FOR AUTHORIZED ...' and the far 'CENTRAL POLICE STATION' gate sign. Pedestrians are blurred."
+ },
+ "p86f635d785": {
+  "accept": false,
+  "reason": "information pillar listing Dean of Students services (paragraph text, emails); a directory board, not a place-name sign"
+ },
+ "p8d82f21d96": {
+  "accept": false,
+  "reason": "subject is a decorated matatu (vehicle slogans); no place sign as target"
+ },
+ "p9b3b182162": {
+  "accept": true,
+  "reason": "",
+  "kind": "building tag",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "GLOBE BUSINESS CENTER",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Globe Business Center",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Green fascia over a two-storey commercial building at dusk, Nairobi. Distractors: the HMD billboard, the 'Farmers World Limited' signs, the taps clock pillar, 'JESUS CHRIST IS THE LORD / UNIVERSAL' and 'YOGI...' at right, and matatus in the foreground."
+ },
+ "pbf133a51b5": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "MAHATMA GANDHI GRADUATE LIBRARY",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Mahatma Gandhi Graduate Library",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Black letters along a concrete canopy edge, strongly foreshortened, University of Nairobi. 'MAHATMA' at the far end is small and compressed. The partial 'ENTRAN...' sign at right is a distractor."
+ },
+ "pd7dad580d9": {
+  "accept": false,
+  "reason": "Dean of Students services directory pillar (paragraph text); near-duplicate of p86f635d785 and not a place-name sign"
+ },
+ "pe4f82b4c8e": {
+  "accept": false,
+  "reason": "clock-tower information board with paragraph text about Dean of Students services; notice board, and the angled side panel naming the campus is too oblique"
+ },
+ "p9034e4890a": {
+  "accept": false,
+  "reason": "matatu (minibus) vehicle branding"
+ },
+ "p9644ac7a45": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "TULIAOLDTOWN",
+    "lang": "sw"
+   }
+  ],
+  "expect": {
+   "query": "Tulia Old Town",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Carved white-washed wooden plaque with green capitals inside a guesthouse courtyard, Old Town, Mombasa. The words are run together on the sign with no spaces (Tulia Old Town); OCR may join them. Distractors: small room plaque 'PWEZA' and a door notice 'PLEASE DON'T BE NAKED FROM 10AM-12PM THERAPY IS EXPENSIVE'."
+ },
+ "c174284516": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "TOM MBOYA STREET",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Tom Mboya Street",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Raised black serif letters fixed to a rusticated stone course on the corner of the National Archives building, Nairobi; seen slightly from the left with peeling paint."
+ },
+ "c175032017": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "UHURU",
+    "lang": "sw"
+   },
+   {
+    "text": "PARK",
+    "lang": "en"
+   },
+   {
+    "text": "Karibu",
+    "lang": "sw"
+   }
+  ],
+  "expect": {
+   "query": "Uhuru Park",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Black 3D letters on a grey gateway wall with red/green/black/white flag stripes, Nairobi; shot upward at an angle. 'Karibu' (Swahili 'welcome') is in widely spaced lowercase between two bars."
+ },
+ "c191617512": {
+  "accept": false,
+  "reason": "shop-window advertising posters ('BACK TO SCHOOL GEAR UP'); no shop or place name"
+ },
+ "c172572433": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "khazanah",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Khazanah",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Yellow Latin letters on a black box sign over a closed shutter in a mall (Village Market area, Nairobi), in a decorative Devanagari-style font with a head bar and a chandrabindu-like flourish over the second 'a'. The file title says Tamil, but the text is Latin. A partial tagline to the right ('...ndian CURRIES &') is cut off and left out; bright ceiling light glare above."
+ },
+ "f28fdaf05-9bc7-4228-a14f-de1a83789096": {
+  "accept": false,
+  "reason": "animal-feed advertising mural ('GOLDSTAR ... LAYERS MASH'), cut off at the right edge"
+ },
+ "f8da89209-2779-4725-957e-247ac36b397e": {
+  "accept": false,
+  "reason": "warning notice ('TRESPASSERS WILL BE POISONED'); no place name"
+ },
+ "c152881740": {
+  "accept": false,
+  "reason": "group photo of people holding a dedication board (faces are a main subject); the board is mostly commemorative paragraph text"
+ },
+ "c114961845": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Mobile",
+    "lang": "en"
+   },
+   {
+    "text": "Charging",
+    "lang": "en"
+   },
+   {
+    "text": "G-UNIT KINYOZI",
+    "lang": "sw"
+   }
+  ],
+  "expect": {
+   "query": "G-Unit Kinyozi",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Hand-painted barbershop front in Turkana with rasta-gradient capitals and two painted haircut portraits (artwork, not real faces). 'Kinyozi' is Swahili for barber. The tiny painter credit ('Drawn By: ... ARTS CENTRE' and a phone number) between the words is left out."
+ },
+ "c88746125": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "J·N AUTO&REPAIRS",
+    "lang": "en"
+   },
+   {
+    "text": "EXPART IN-ALL KIND OF VEHICLES &",
+    "lang": "en"
+   },
+   {
+    "text": "MOTORBIKES. CALL:",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "J.N Auto & Repairs",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Hand-painted red-on-white board over a green wooden kiosk. 'J·N' uses a middle dot; 'EXPART' is the sign's own misspelling of 'expert'. The phone number after 'CALL:' is blurred out in the source image."
+ },
+ "c173803706": {
+  "accept": false,
+  "reason": "religious slogan banner ('DO NOT BE DECEIVED ... REPENT'); no place name"
+ },
+ "c186583955": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "PWANI UNIVERSITY",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Pwani University",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Blue raised capitals on the white gate arch at Kilifi, between two blue dots, with a palm-tree logo globe on top. Small 'PEPSI THIRSTY' and 'PWANI SHO...' signs at the bottom are distractors."
+ },
+ "c186582912": {
+  "accept": false,
+  "reason": "near-duplicate of accepted c186583955 (same Pwani University gate arch, wider view)"
+ },
+ "c21632222": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "NATIONAL MUSEUMS OF KENYA",
+    "lang": "en"
+   },
+   {
+    "text": "WHERE HERITAGE LIVES ON",
+    "lang": "en"
+   },
+   {
+    "text": "KAREN BLIXEN MUSEUM",
+    "lang": "en"
+   },
+   {
+    "text": "Open Daily 8.30am - 6.30pm",
+    "lang": "en"
+   },
+   {
+    "text": "www.museums.or.ke",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Karen Blixen Museum",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Hanging white-and-orange museum sign on chains over the roadside in Karen, Nairobi, with the NMK logo and a line drawing of the house; slightly bowed shape."
+ },
+ "c69550679": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "NAKURU TOWN 17 KM",
+    "lang": "en"
+   },
+   {
+    "text": "MAIN GATE EXIT 13 KM",
+    "lang": "en"
+   },
+   {
+    "text": "BABOON CLIFF LOOKOUT 10 KM",
+    "lang": "en"
+   },
+   {
+    "text": "8",
+    "lang": "und"
+   },
+   {
+    "text": "LAKE NAKURU LODGE . . KM",
+    "lang": "en"
+   },
+   {
+    "text": "NDERIT GATE EXIT . . . . KM",
+    "lang": "en"
+   },
+   {
+    "text": "MAKALIA FALLS CAMPSITE . . . 13 KM",
+    "lang": "en"
+   },
+   {
+    "text": "NAISHI GUEST HOUSE . . . . 7 KM",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Baboon Cliff",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Stone junction marker no. 8 in Lake Nakuru National Park with orange painted boards. The right-hand board has 'KM' with no distance numbers (blank). The angled lower board is small; dot leaders are approximate. The top 'OBEY PARK REGULATIONS' board is rules text and left out."
+ },
+ "c186580552": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "BISHOP GATIMU NGANDU",
+    "lang": "en"
+   },
+   {
+    "text": "GIRLS HIGH SCHOOL",
+    "lang": "en"
+   },
+   {
+    "text": "CATHOLIC ARCHDIOCESE OF NYERI",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Bishop Gatimu Ngandu Girls High School",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Green raised letters on the white panel atop the school gate arch, Nyeri County. The 'TAKE A GIRL MAKE A LEADER' motto board and a partly hidden repeat of the name on the right wall are distractors; a motorcyclist at the far left is incidental."
+ },
+ "c186580239": {
+  "accept": false,
+  "reason": "near-duplicate of accepted c186580552 (same Bishop Gatimu Ngandu school gate)"
+ },
+ "c172984702": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "MAASAI MARA",
+    "lang": "en"
+   },
+   {
+    "text": "UNIVERSITY",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Maasai Mara University",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Cream direction board in a red frame with the university crest between two arrows, at a busy junction in Narok; tiny 'ISO 9001:2015 certified' under the name is left out. Many distractors: 'Welcome to IMANI ORPHAN CARE FOUNDATION', 'WORLDWIDE GOSPEL CHURCH OF KENYA', 'BILAL SCHOOLS NAROK', 'CAUTION WORK IN PROGRESS', '(SI)GN WRITING DONE HERE', a 'NYAMA CHOMA' board, and motorbike riders and plates (incidental)."
+ },
+ "c89062658": {
+  "accept": true,
+  "reason": "",
+  "kind": "transit",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "TERMINAL 1A",
+    "lang": "en"
+   },
+   {
+    "text": "INT'L ARRI",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Jomo Kenyatta International Airport",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Hanging blue terminal sign with gold letters and an arrival-plane pictogram at JKIA, Nairobi. Sun glare washes out the end of the second line: only 'INT'L ARRI' is legible (the rest, presumably 'VALS', is not transcribed). Barclays/ATM and 'INFO' boards are distractors; travellers are incidental."
+ }
+}

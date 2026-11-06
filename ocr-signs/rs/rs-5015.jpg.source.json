@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=5e08ddea-e233-41b8-ac6e-d42a80d223cc",
+  "original_url": "https://panoramax.openstreetmap.fr/images/5e/08/dd/ea/e233-41b8-ac6e-d42a80d223cc.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "Robot8A",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture 5e08ddea-e233-41b8-ac6e-d42a80d223cc (Belgrade, 2024-08-22)",
+  "description": "Street-level picture taken 2024-08-22 near Belgrade by Robot8A, sequence 50942256-da72-400c-ad2a-0473ed29390a, heading 93. OCR (PP-OCRv3) read: boutique SANDRA | OOPUN | MOZZART | NALOG",
+  "date": "2024-08-22",
+  "categories": [],
+  "camera_location": [
+    44.815668588,
+    20.462836361
+  ],
+  "found_by": "panoramax-ocr:Belgrade",
+  "bytes": 1769775,
+  "width": 2845,
+  "height": 2134,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/5e/08/dd/ea/e233-41b8-ac6e-d42a80d223cc.jpg",
+  "derivative": "crop 0,479,2845,2613 of the 4032x3024 HD picture"
+}

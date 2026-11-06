@@ -1,0 +1,134 @@
+{
+ "c139291884": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "the CAPTAIN'S and Gr",
+    "lang": "en"
+   },
+   {
+    "text": "the CAPTAIN'S Bakery and Grill",
+    "lang": "en"
+   },
+   {
+    "text": "the CAPTAI Bakery and Grill",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Captain's Bakery and Grill",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Yellow fascia and long banner of The Captain's Bakery and Grill (Jamaica); the striped dome-topped pole hides the end of the upper fascia ('and Gr...') and part of the second banner logo ('CAPTAI...'). 'the' is in small script above CAPTAIN'S. Distractors: red 'NO ...KING' sign at lower left, cut-off teal billboard at right ('Your Mo... / SHOP T... / ACT... Home ... / KINGSTON | MONTE...'), small neon 'Donuts' in the window."
+ },
+ "c138631434": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Claude Stuart",
+    "lang": "en"
+   },
+   {
+    "text": "Park",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Claude Stuart Park",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Jamaica National Heritage Trust heritage-trail marker in Port Maria, St. Mary: name panel on top, long history text panel below (small text, not transcribed; mentions Victoria Park, Sir Charles Price, Tacky and Wycliffe Martin monuments, declared a National Monument on May 2, 1996). JNHT and TPDCo logos in the corners."
+ },
+ "c138631435": {
+  "accept": false,
+  "reason": "same Claude Stuart Park marker as c138631434, with the name panel cut off; only the history text panel visible"
+ },
+ "c138631441": {
+  "accept": false,
+  "reason": "near-duplicate of c138631434 (same Claude Stuart Park marker, wider view with the cenotaph)"
+ },
+ "c43608567": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "THANKS",
+    "lang": "en"
+   },
+   {
+    "text": "FOR MAKING IT",
+    "lang": "en"
+   },
+   {
+    "text": "RICKS",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Rick's Cafe",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Round red-yellow-green smiley sign with cut-out letters under a thatched gable at Rick's Café, Negril; 'THANKS' arcs around the top. The sign spells RICKS without an apostrophe; it is a farewell sign, so the business name is the only searchable part."
+ },
+ "c5744319": {
+  "accept": false,
+  "reason": "wrong country: welcome sign of Jamaica, Iowa (USA)"
+ },
+ "c39148473": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Fly Jamaica",
+    "lang": "en"
+   },
+   {
+    "text": "2 Holborn Road, Kingston 10",
+    "lang": "en"
+   },
+   {
+    "text": "Reservations: (876) 656-9832",
+    "lang": "en"
+   },
+   {
+    "text": "(876) 619-3595",
+    "lang": "und"
+   },
+   {
+    "text": "www.fly-jamaica.com",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "Holborn Road",
+   "type": "street"
+  },
+  "difficulty": "medium",
+  "notes": "Monument sign outside the Fly Jamaica Airways headquarters, Kingston, slightly soft focus; the lower slots of the panel are empty. Small text on the logo is not legible. Query could also be the airline name ('Fly Jamaica')."
+ },
+ "c71907890": {
+  "accept": false,
+  "reason": "wrong country (Maui, Hawaii) and only a plant label 'Coral Tree'"
+ }
+}

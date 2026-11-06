@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/1257897/45/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlOC5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE4LzYvMjkvcHJvYy8xMjU3ODk3XzBfODY4NjZfNDYuanBn",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "ConsEbt",
+  "credit_as_published": "KartaView user ConsEbt (user id 2569); © KartaView contributors",
+  "title": "KartaView photo 272963343, sequence 1257897 #45 (Dubai, 2018-06-29)",
+  "description": "Street-level picture on KartaView, taken 2018-06-29 near Dubai by ConsEbt, sequence 1257897, heading 102.47. OCR (PP-OCRv3) read: MAH | AND SHAH WAZIR | TEXAS | YASEENALKHAIA | [unread] TEXASE",
+  "date": "2018-06-29",
+  "categories": [],
+  "camera_location": [
+    25.26991,
+    55.303444
+  ],
+  "found_by": "kartaview-ocr:Dubai",
+  "bytes": 914997,
+  "width": 3037,
+  "height": 2160,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlOC5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE4LzYvMjkvcHJvYy8xMjU3ODk3XzBfODY4NjZfNDYuanBn",
+  "derivative": "crop 802,0,3839,2160 of the 3840x2160 full-size processed (blurred) picture"
+}

@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/6411865/1177/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMi8xMi8xNS9wcm9jLzY0MTE4NjVfZjY2ZjlfNjM5YjExNGFmMGRhMi5qcGc",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "damianeue",
+  "credit_as_published": "KartaView user damianeue (user id 37910); © KartaView contributors",
+  "title": "KartaView photo 1660673177, sequence 6411865 #1177 (San Marino, 2022-12-15)",
+  "description": "Street-level picture on KartaView, taken 2022-12-15 near San Marino by damianeue, sequence 6411865, heading 148.45. OCR (PP-OCRv3) read: albertini | albertin",
+  "date": "2022-12-15",
+  "categories": [],
+  "camera_location": [
+    43.934712,
+    12.447194
+  ],
+  "found_by": "kartaview-ocr:San Marino",
+  "bytes": 249215,
+  "width": 1200,
+  "height": 900,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMi8xMi8xNS9wcm9jLzY0MTE4NjVfZjY2ZjlfNjM5YjExNGFmMGRhMi5qcGc",
+  "derivative": "crop 2584,792,3784,1692 of the 4000x2250 full-size processed (blurred) picture"
+}

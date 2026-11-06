@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=92262820-c112-4f25-9acb-8161fcb4bf1c",
+  "original_url": "https://panoramax.openstreetmap.fr/images/92/26/28/20/c112-4f25-9acb-8161fcb4bf1c.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "ravidwivedi",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture 92262820-c112-4f25-9acb-8161fcb4bf1c (Bangkok Sukhumvit, 2024-02-10)",
+  "description": "Street-level picture taken 2024-02-10 near Bangkok Sukhumvit by ravidwivedi, sequence 1144deb9-a463-46ce-8680-d5f1a80d6bdf, heading 266. OCR (PP-OCRv3) read: JOLARIA HOTEL | SHERATON",
+  "date": "2024-02-10",
+  "categories": [],
+  "camera_location": [
+    13.73664633,
+    100.56151618
+  ],
+  "found_by": "panoramax-ocr:Bangkok Sukhumvit",
+  "bytes": 125776,
+  "width": 1200,
+  "height": 900,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/92/26/28/20/c112-4f25-9acb-8161fcb4bf1c.jpg",
+  "derivative": "crop 1270,0,2470,900 of the 4000x3000 HD picture"
+}

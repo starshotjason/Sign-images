@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=f44fe482-968b-4340-9928-c91be0db5828",
+  "original_url": "https://panoramax.openstreetmap.fr/images/f4/4f/e4/82/968b-4340-9928-c91be0db5828.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "Vellu75",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture f44fe482-968b-4340-9928-c91be0db5828 (Tallinn, 2026-06-22)",
+  "description": "Street-level picture on Panoramax, taken 2026-06-22 near Tallinn by Vellu75, sequence 62b2fb06-49a8-431b-9730-2b9032201bf7, heading 223. OCR (PP-OCRv3) read: SUPER | KARIAMARKE | salonshop | KARIA | MARKET",
+  "date": "2026-06-22",
+  "categories": [],
+  "camera_location": [
+    59.4442822,
+    24.7438875
+  ],
+  "found_by": "panoramax-ocr:Tallinn",
+  "bytes": 5628799,
+  "width": 5568,
+  "height": 4872,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/f4/4f/e4/82/968b-4340-9928-c91be0db5828.jpg",
+  "derivative": "whole 5568x4872 HD picture as served by the Panoramax instance (byte-identical; the service blurs faces and number plates), not cropped"
+}

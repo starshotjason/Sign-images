@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/4602041/4/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMi8yLzI4L3Byb2MvNDYwMjA0MV9kMDA5Nl82MjFkNWQ5YmM5NjI2LmpwZw",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "mikki65",
+  "credit_as_published": "KartaView user mikki65 (user id 15875); © KartaView contributors",
+  "title": "KartaView photo 1443820697, sequence 4602041 #4 (Rome, 2022-02-28)",
+  "description": "Street-level picture on KartaView, taken 2022-02-28 near Rome by mikki65, sequence 4602041, heading 96.18. OCR (PP-OCRv3) read: MaxMara | MaxMar? | MeMara",
+  "date": "2022-02-28",
+  "categories": [],
+  "camera_location": [
+    41.900736,
+    12.493116
+  ],
+  "found_by": "kartaview-ocr:Rome",
+  "bytes": 185265,
+  "width": 1200,
+  "height": 900,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMi8yLzI4L3Byb2MvNDYwMjA0MV9kMDA5Nl82MjFkNWQ5YmM5NjI2LmpwZw",
+  "derivative": "crop 1283,904,2483,1804 of the 3840x2160 full-size processed (blurred) picture"
+}

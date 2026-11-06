@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/11676769/0/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyNi83LzMvcHJvYy8xMTY3Njc2OV9jZGM2N182YTQ3NjAwNzUwOTU3LmpwZw",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "seven",
+  "credit_as_published": "KartaView user seven (user id 10951); © KartaView contributors",
+  "title": "KartaView photo 2631246615, sequence 11676769 #0 (Astana, 2026-07-02)",
+  "description": "Street-level picture on KartaView, taken 2026-07-02 near Astana by seven, sequence 11676769, heading 0. OCR (PP-OCRv3) read: Goffee BooM | [unread] 300M | WWW.COFFEEBOOM.K2 | [unread] CB | LCoffeeBOOM- | 6OnATbIHOPbIH",
+  "date": "2026-07-02",
+  "categories": [],
+  "camera_location": [
+    51.163972,
+    71.416557
+  ],
+  "found_by": "kartaview-ocr:Astana",
+  "bytes": 1156081,
+  "width": 3914,
+  "height": 2304,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyNi83LzMvcHJvYy8xMTY3Njc2OV9jZGM2N182YTQ3NjAwNzUwOTU3LmpwZw",
+  "derivative": "crop 131,0,4045,2304 of the 4096x2304 full-size processed (blurred) picture"
+}

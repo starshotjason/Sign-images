@@ -1,0 +1,34 @@
+{
+  "source": "tcmb",
+  "source_url": "https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Place&id=2200613",
+  "original_url": "https://dcm.s3.hicloud.net.tw/new/collection/2024-01-04/d3e90c19-2fce-4465-b4dd-ce6737b04ee3/eb1bb198-9b52-401c-b948-fd417aebbfb7.jpg",
+  "license_as_published": "CC BY",
+  "license_url_as_published": "https://creativecommons.org/licenses/by/3.0/tw/",
+  "author_as_published": "私有老建築保存再生計畫",
+  "credit_as_published": "私有老建築保存再生計畫, 國家文化記憶庫 Taiwan Cultural Memory Bank, CC BY",
+  "title": "銀座通五福商店",
+  "description": "楊添賜先生於1914年創立五福商店、從事貿易，原設立於本町三丁目102番地（今永福路、民權路二段交岔口一帶），後於1928年購入西門町四丁目27番地的現址土地（今中正路124、126號），興建五福商店新建物。 興建時期略早於同樣在銀座通上的林百貨及末廣町店鋪住宅（1932年），相較於前兩者多使用RC結構，五福商店經鋼筋掃描後，發現僅有柱、樑為RC造，但壁體為磚砌、樓板為木造，推測可能是為了打造三開間大跨距店面，而選擇的實驗性作法，足以見證RC在府城發展歷程。而正立面有著高聳山牆與西洋古典語彙，例如希臘回紋、螺旋飾等，搭配偏本土語彙的流蘇、「福」與「GOFUKUSHOTEN」字樣符號，混用多種不同風格，打造獨有美學，成為府城歷史街區重要歷史街道上折衷式樣的裝飾藝術（Art Deco）代表性建物。 建物整修後，有關再生使用方式及公益性，預計於2024年末至2025年初，將有國際精品香氛品牌開設於此。另外後續預計於三樓部分空間開設「五福商店文史館」，辦理有關本建物文史的常設展覽與導覽，以及其他特別展覽。並配合臺南市政府文化局，於2024年台灣設計展期間，提供部分樓層空間辦理「臺南市歷史老屋再生案例展」相關展覽使用，希望帶動中正路之潮流脈動，同時搭配臺南市政府所致力於再現銀座通風華之政策。",
+  "date": null,
+  "categories": [
+    "空間、地域與遷徙",
+    " tainanoldhouse",
+    "Art Deco",
+    "oldisgood",
+    "五福商店",
+    "末廣町",
+    "好舊好",
+    "裝飾藝術",
+    "臺南老屋",
+    "銀座通"
+  ],
+  "camera_location": [
+    22.992636627445652,
+    120.1998255478579
+  ],
+  "found_by": "tcmb-opendata:dataSet/culture title/keyword match '商店'; rapidocr pre-screen read ['部卸店商福五俱百米盛']; visually reviewed",
+  "bytes": 947574,
+  "width": 1200,
+  "height": 900,
+  "downloaded_url": "https://tcmb.culture.tw/imagor/filters:raw()/https%3A%2F%2Fdcm.s3.hicloud.net.tw%2Fnew%2Fcollection%2F2024-01-04%2Fd3e90c19-2fce-4465-b4dd-ce6737b04ee3%2Feb1bb198-9b52-401c-b948-fd417aebbfb7.jpg",
+  "derivative": ""
+}

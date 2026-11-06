@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=75b1f0d2-bb0d-48c7-a3e0-6b37ef932156",
+  "original_url": "https://panoramax.openstreetmap.fr/images/75/b1/f0/d2/bb0d-48c7-a3e0-6b37ef932156.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "nave88",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture 75b1f0d2-bb0d-48c7-a3e0-6b37ef932156 (Limassol, 2026-05-31)",
+  "description": "Street-level picture taken 2026-05-31 near Limassol by nave88, sequence b907f5ee-b564-4c9f-b303-9c6346ac5988, heading 333. OCR (PP-OCRv3) read: ANDRIS | 20m | Antigura | REAL LEATHER | BELTS",
+  "date": "2026-05-31",
+  "categories": [],
+  "camera_location": [
+    34.67309,
+    33.042031
+  ],
+  "found_by": "panoramax-ocr:Limassol",
+  "bytes": 695864,
+  "width": 2016,
+  "height": 1512,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/75/b1/f0/d2/bb0d-48c7-a3e0-6b37ef932156.jpg",
+  "derivative": "crop 1164,790,3180,2302 of the 4080x3060 HD picture"
+}

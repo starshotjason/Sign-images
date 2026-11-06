@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/1132/601/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMS5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE2LzMvMzEvcHJvYy8xMTMyXzFkMmJiXzU2ZmQyZmM3ZGE4NmMuanBn",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "telenavdrives",
+  "credit_as_published": "KartaView user telenavdrives (user id 53); © KartaView contributors",
+  "title": "KartaView photo 416316, sequence 1132 #601 (London, 2016-03-25)",
+  "description": "Street-level picture on KartaView, taken 2016-03-25 near London by telenavdrives, sequence 1132, heading 26.04. OCR (PP-OCRv3) read: FLIGHT CE | FLIGHT | CENTRE | off | licence | FLIGHTCENTRE | RUGHTCONTRE",
+  "date": "2016-03-25",
+  "categories": [],
+  "camera_location": [
+    51.509419,
+    -0.126802
+  ],
+  "found_by": "kartaview-ocr:London",
+  "bytes": 906406,
+  "width": 2288,
+  "height": 1716,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMS5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE2LzMvMzEvcHJvYy8xMTMyXzFkMmJiXzU2ZmQyZmM3ZGE4NmMuanBn",
+  "derivative": "crop 975,1,3263,1717 of the 3264x2448 full-size processed (blurred) picture"
+}

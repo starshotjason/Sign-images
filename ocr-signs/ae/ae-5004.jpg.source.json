@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/444111/57/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlNC5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE3LzYvNC9wcm9jLzQ0NDExMV9jMjEwYl81OTM0MjdiNDhkNjI4LmpwZw",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "ConsEbt",
+  "credit_as_published": "KartaView user ConsEbt (user id 2569); © KartaView contributors",
+  "title": "KartaView photo 41524850, sequence 444111 #57 (Sharjah, 2017-06-04)",
+  "description": "Street-level picture on KartaView, taken 2017-06-04 near Sharjah by ConsEbt, sequence 444111, heading 290.24. OCR (PP-OCRv3) read: OMRAN TOYER | OMRAN PLAZAI",
+  "date": "2017-06-04",
+  "categories": [],
+  "camera_location": [
+    25.345525,
+    55.39249
+  ],
+  "found_by": "kartaview-ocr:Sharjah",
+  "bytes": 375589,
+  "width": 2688,
+  "height": 1520,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlNC5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE3LzYvNC9wcm9jLzQ0NDExMV9jMjEwYl81OTM0MjdiNDhkNjI4LmpwZw",
+  "derivative": "whole 2688x1520 full-size processed (blurred) picture as served by the KartaView CDN (byte-identical; the service blurs faces and number plates), not cropped"
+}

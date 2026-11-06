@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=df72ca0d-1c08-43d8-8916-db6edb944268",
+  "original_url": "https://panoramax.openstreetmap.fr/images/df/72/ca/0d/1c08-43d8-8916-db6edb944268.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "ViewStreet",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture df72ca0d-1c08-43d8-8916-db6edb944268 (Athens, 2026-10-23)",
+  "description": "Street-level picture taken 2026-10-23 near Athens by ViewStreet, sequence 83c3cb15-7454-4c99-b208-1f05f06750a9, heading 201. OCR (PP-OCRv3) read: wManpowerGroup | [unread] OAOFHIKO | organic-market | &more | EVOLKANAH | ORCANIC | [unread] yEuatoppovtiSa | [unread] Dyetayla tjyuntoubo ytu tivtoopponta",
+  "date": "2026-10-23",
+  "categories": [],
+  "camera_location": [
+    37.988448333,
+    23.750053333
+  ],
+  "found_by": "panoramax-ocr:Athens",
+  "bytes": 1063639,
+  "width": 1440,
+  "height": 1920,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/df/72/ca/0d/1c08-43d8-8916-db6edb944268.jpg",
+  "derivative": "whole 1440x1920 HD picture as served by the Panoramax instance (byte-identical; the instance blurs faces and number plates), not cropped"
+}

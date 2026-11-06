@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.mapcomplete.org/#focus=pic&pic=b40228e9-aa8d-4031-8ad7-1fe02be2a17c",
+  "original_url": "https://panoramax.mapcomplete.org/permanent/b4/02/28/e9/aa8d-4031-8ad7-1fe02be2a17c.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "mapcomplete",
+  "credit_as_published": "Panoramax, instance mapcomplete (https://panoramax.mapcomplete.org)",
+  "title": "Panoramax picture b40228e9-aa8d-4031-8ad7-1fe02be2a17c (Bratislava, 2025-05-19)",
+  "description": "Street-level picture on Panoramax, taken 2025-05-19 near Bratislava by mapcomplete, sequence 14ea2dff-2d5f-4134-9a9c-0b7ff34d87aa, heading 251. OCR (PP-OCRv3) read: TOMIO DOME KONCERTOVAL | RKU1762 | AKO SESTROCNY | WOLFGANG AMADEUSY",
+  "date": "2025-05-19",
+  "categories": [],
+  "camera_location": [
+    48.142602078,
+    17.106511886
+  ],
+  "found_by": "panoramax-ocr:Bratislava",
+  "bytes": 5902470,
+  "width": 3072,
+  "height": 4080,
+  "downloaded_url": "https://panoramax.mapcomplete.org/permanent/b4/02/28/e9/aa8d-4031-8ad7-1fe02be2a17c.jpg",
+  "derivative": "whole 3072x4080 HD picture as served by the Panoramax instance (byte-identical; the service blurs faces and number plates), not cropped"
+}

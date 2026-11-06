@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/1382698/239/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTEub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAxOS80LzIyL3Byb2MvMTM4MjY5OF9jYjJmMV8yMzkuanBn",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "grabsg",
+  "credit_as_published": "KartaView user grabsg (user id 15255); © KartaView contributors",
+  "title": "KartaView photo 391888250, sequence 1382698 #239 (Singapore, 2019-03-25)",
+  "description": "Street-level picture on KartaView, taken 2019-03-25 near Singapore by grabsg, sequence 1382698, heading 303. OCR (PP-OCRv3) read: The Capitol Kempinski Horel",
+  "date": "2019-03-25",
+  "categories": [],
+  "camera_location": [
+    1.29337,
+    103.852399
+  ],
+  "found_by": "kartaview-ocr:Singapore",
+  "bytes": 619645,
+  "width": 1854,
+  "height": 1390,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTEub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAxOS80LzIyL3Byb2MvMTM4MjY5OF9jYjJmMV8yMzkuanBn",
+  "derivative": "crop 476,0,2330,1390 of the 3072x1728 full-size processed (blurred) picture"
+}

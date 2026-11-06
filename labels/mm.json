@@ -1,0 +1,486 @@
+{
+  "c82469712": {
+    "accept": false,
+    "reason": "military propaganda slogan board on the Mandalay Palace wall, not a place name"
+  },
+  "c64588195": {
+    "accept": false,
+    "reason": "military propaganda slogan board (same Mandalay Palace wall slogan), not a place name"
+  },
+  "c64170879": {
+    "accept": false,
+    "reason": "military propaganda slogan board (same Mandalay Palace wall slogan), not a place name"
+  },
+  "c85131921": {
+    "accept": false,
+    "reason": "cosmetics (thanaka) advertising billboard"
+  },
+  "c85102282": {
+    "accept": false,
+    "reason": "product advertising banner over a market stall"
+  },
+  "c67533185": {
+    "accept": false,
+    "reason": "village sign in Kayin language written in Myanmar script; letters cannot be transcribed reliably"
+  },
+  "fc90723ff-234f-4178-acaf-d857ceeab717": {
+    "accept": false,
+    "reason": "tourism slogan board ('Warmly Welcome & Take Care of Tourists') with hotline numbers, not a place name"
+  },
+  "fbd306d13-7804-434b-9f83-541127b9ad25": {
+    "accept": false,
+    "reason": "generic 'WiFi Internet Cafe' board of software logos; the shop name plate is cut by a rope"
+  },
+  "fb43f1f2e-c09c-447c-9729-509e00ab3795": {
+    "accept": false,
+    "reason": "wrong country (House of Blues, Mandalay Bay, Las Vegas)"
+  },
+  "fa04dce57-1e38-4319-8e71-04798d09c3c8": {
+    "accept": false,
+    "reason": "service advertising banner (DV form, visa, email/fax)"
+  },
+  "f9d0a1dba-8989-4a3e-8e65-35fac41d2f66": {
+    "accept": false,
+    "reason": "'LUGGAGES WAITING' wayfinding notice, not a place name"
+  },
+  "c4485303": {
+    "accept": true,
+    "reason": "",
+    "kind": "negative",
+    "scripts": [
+      "Mymr"
+    ],
+    "lines": [
+      {
+        "text": "ဥစ္စာထွန်းလင်း",
+        "lang": "my",
+        "latin": "Ouksa Htun Lin (shining wealth)"
+      },
+      {
+        "text": "မိုးယံရွှေလမင်း",
+        "lang": "my",
+        "latin": "Moe Yan Shwe La Min"
+      }
+    ],
+    "expect": {
+      "query": "မိုးယံရွှေလမင်း",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Lottery-ticket shop, Yangon. Target is the complete yellow board above the ticket cabinet (pink 'Ouksa Htun Lin' then blue 'Moe Yan Shwe La Min'). A decorative swash sits under ယ on both this board and the large top fascia; read as part of the lettering, not a dot-below. The large top fascia repeats 'မိုးယံ ရွှေလ...' but is cut off at the right. Distractors: banner of prize numbers in Burmese digits, red poster with winning-ticket list, framed photos."
+  },
+  "c67698597": {
+    "accept": true,
+    "reason": "",
+    "kind": "negative",
+    "scripts": [
+      "Mymr"
+    ],
+    "lines": [
+      {
+        "text": "ကြိုဆိုပါ၏",
+        "lang": "my",
+        "latin": "Kyo-zo-ba-i (welcome)"
+      },
+      {
+        "text": "မြို့ဟောင်းရွာ",
+        "lang": "my",
+        "latin": "Myohaung Ywa (Myohaung village)"
+      },
+      {
+        "text": "ကြာအင်းဆိပ်ကြီးမြို့နယ်",
+        "lang": "my",
+        "latin": "Kya-in-seikgyi Myone (Kyain Seikgyi Township)"
+      }
+    ],
+    "expect": {
+      "query": "မြို့ဟောင်း",
+      "type": "place"
+    },
+    "difficulty": "easy",
+    "notes": "Village welcome board, Kayin State: gold relief letters on a maroon panel in a gold frame, some paint peeling (no letters lost). Frontal and close. Distractor: blank white board at left."
+  },
+  "f751319ea-005b-4a66-a784-b24441d0a802": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Mymr",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "မဟာမုနိရုပ်ရှင်တော်",
+        "lang": "my",
+        "latin": "Mahamuni Yokshin-daw (Mahamuni Image)"
+      },
+      {
+        "text": "MAHAMUNI IMAGE",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Mahamuni",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Large rooftop frame sign at night with red outline Burmese letters and yellow Latin letters on horizontal slats, Mahamuni Pagoda, Mandalay. Seen from below; the slats run behind the letters."
+  },
+  "f39febb9b-63cd-45bd-baf0-6124cc93ca04": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Mymr",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "အမြတေဆေးဆိုင်",
+        "lang": "my",
+        "latin": "Amyate hsei-hsaing (Amyate medicine shop)"
+      },
+      {
+        "text": "THE GREAT IMMORTAL PHARMACY",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "The Great Immortal Pharmacy",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Blue panel in a red frame over the shop, Yangon, seen from above. Big stylised pink 'အမြတေ' then smaller 'ဆေးဆိုင်'. Distractors: Sports City sign (left, Burmese), yellow gold-shop sign and Intertrust Travels & Tours sign (right)."
+  },
+  "c67708822": {
+    "accept": true,
+    "reason": "",
+    "kind": "negative",
+    "scripts": [
+      "Mymr"
+    ],
+    "lines": [
+      {
+        "text": "အခြေခံပညာဦးစီးဌာန",
+        "lang": "my",
+        "latin": "Akhyei-gan Pyinnya Oo-zi Htana (Department of Basic Education)"
+      },
+      {
+        "text": "အခြေခံပညာအထက်တန်းကျောင်း",
+        "lang": "my",
+        "latin": "Akhyei-gan Pyinnya Ahtet-tan Kyaung (Basic Education High School)"
+      },
+      {
+        "text": "ခလယ်",
+        "lang": "my",
+        "latin": "Khale"
+      },
+      {
+        "text": "ကြာအင်းဆိပ်ကြီးမြို့နယ်",
+        "lang": "my",
+        "latin": "Kya-in-seikgyi Myone (Kyain Seikgyi Township)"
+      }
+    ],
+    "expect": {
+      "query": "ခလယ်",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Green tiled school board with white letters, Khale (Kha Lel), Kayin State; frontal. The first line is small print at the top. 'ခလယ်' (village) and the township sit side by side on the last row. A faded inscription on the plinth below is illegible."
+  },
+  "f97a69f93-d08c-4672-9ae4-4e6ae7731c2b": {
+    "accept": false,
+    "reason": "wrong country (House of Blues, Mandalay Bay, Las Vegas)"
+  },
+  "c37512126": {
+    "accept": false,
+    "reason": "visitor rules notice board ('NOTICES'), not a place name"
+  },
+  "c52746383": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "KYIN SEIN VISION",
+        "lang": "en"
+      },
+      {
+        "text": "MANN MYITTAR CO.,LTD.",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Kyin Sein Vision",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "White serif letters on a blue fascia over a closed optician's shop, Mawlamyine; dim evening light. 'KS' star logo at left. No Burmese on the target."
+  },
+  "c46188471": {
+    "accept": true,
+    "reason": "",
+    "kind": "negative",
+    "scripts": [
+      "Mymr"
+    ],
+    "lines": [
+      {
+        "text": "လှိုက်လှဲစွာကြိုဆိုပါ၏",
+        "lang": "my",
+        "latin": "Hlaik-hle-zwa kyo-zo-ba-i (warmly welcome)"
+      },
+      {
+        "text": "ဆောမြို့",
+        "lang": "my",
+        "latin": "Hsaw Myo (Saw town)"
+      }
+    ],
+    "expect": {
+      "query": "ဆော",
+      "type": "place"
+    },
+    "difficulty": "easy",
+    "notes": "Red town welcome board with gold relief letters in an ornate gold frame, Saw Township, Magway Region; slightly angled, bright sun."
+  },
+  "c46184044": {
+    "accept": true,
+    "reason": "",
+    "kind": "hard",
+    "scripts": [
+      "Mymr",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "BAGAN",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Bagan",
+      "type": "place"
+    },
+    "difficulty": "hard",
+    "notes": "Small dark-brown name plate on a post at a road junction, Bagan, backlit and far away. The Burmese word above 'BAGAN' (begins like ပုဂံ, followed by a third glyph that may be မြို့) is too small and dark to transcribe, so only the Latin line is given."
+  },
+  "c87474639": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "OK",
+        "lang": "en"
+      },
+      {
+        "text": "Mobile",
+        "lang": "en"
+      },
+      {
+        "text": "Phone & Computer Service",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "OK Mobile",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Green fascia of a closed phone shop, downtown Mawlamyine. The 'K' in 'OK' has lost its silver face (only the outline remains). A phone line below (09 numbers separated by underscores) is not transcribed: one digit in the first number is ambiguous (2 or 5). Distractors: blue Burmese sign at upper left, dot stickers on the pillar."
+  },
+  "c87474634": {
+    "accept": true,
+    "reason": "",
+    "kind": "negative",
+    "scripts": [
+      "Mymr"
+    ],
+    "lines": [
+      {
+        "text": "သုခဝတီ ဥယျာဉ်",
+        "lang": "my",
+        "latin": "Thukhawadi Uyin (Thukhawadi garden)"
+      }
+    ],
+    "expect": {
+      "query": "သုခဝတီ",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Large green plant-nursery board, downtown Mawlamyine. Only the top line is transcribed; the lines below are hidden by potted plants. Distractors: True Money, Wave Money, mytel pay, OK$ and EasyPay banners, red gold-shop sign at left."
+  },
+  "c87474630": {
+    "accept": false,
+    "reason": "near-duplicate of c87474634 (same plant-nursery board, Mawlamyine)"
+  },
+  "c83897077": {
+    "accept": true,
+    "reason": "",
+    "kind": "negative",
+    "scripts": [
+      "Mymr"
+    ],
+    "lines": [
+      {
+        "text": "ကြိုဆိုပါ၏",
+        "lang": "my",
+        "latin": "Kyo-zo-ba-i (welcome)"
+      },
+      {
+        "text": "ပုလိန်ကျေးရွာ",
+        "lang": "my",
+        "latin": "Pu Lein Kyei-ywa (Pu Lein village)"
+      },
+      {
+        "text": "ကြာအင်းဆိပ်ကြီးမြို့နယ် ကရင်ပြည်နယ်",
+        "lang": "my",
+        "latin": "Kya-in-seikgyi Myone, Kayin Pyine (Kyain Seikgyi Township, Kayin State)"
+      }
+    ],
+    "expect": {
+      "query": "ပုလိန်",
+      "type": "place"
+    },
+    "difficulty": "easy",
+    "notes": "Blue village welcome board on a plinth, mostly frontal, Kayin State. The last line has two parts separated by a gap (township, state). The marble plaque on the plinth below is illegible."
+  },
+  "c83897075": {
+    "accept": false,
+    "reason": "near-duplicate of c83897077 (same Pu Lein welcome board)"
+  },
+  "c83897074": {
+    "accept": false,
+    "reason": "near-duplicate of c83897077 (same Pu Lein welcome board)"
+  },
+  "c83897073": {
+    "accept": false,
+    "reason": "near-duplicate of c83897077 (same Pu Lein welcome board)"
+  },
+  "c72053379": {
+    "accept": true,
+    "reason": "",
+    "kind": "negative",
+    "scripts": [
+      "Mymr"
+    ],
+    "lines": [
+      {
+        "text": "အနောက်မြောက်တိုင်းမြို့တော်-မုံရွာမြို့",
+        "lang": "my",
+        "latin": "Anauk-myauk Taing Myo-daw - Monywa Myo (North-West Division capital - Monywa city)"
+      }
+    ],
+    "expect": {
+      "query": "မုံရွာ",
+      "type": "place"
+    },
+    "difficulty": "medium",
+    "notes": "Ornate red-and-gold town gateway arch over the road into Monywa, white letters on the red lintel; seen from a vehicle at medium distance, evening light. Single line with a hyphen before the town name."
+  },
+  "c133569318": {
+    "accept": true,
+    "reason": "",
+    "kind": "negative",
+    "scripts": [
+      "Mymr"
+    ],
+    "lines": [
+      {
+        "text": "မန္တလေးတိုင်း",
+        "lang": "my",
+        "latin": "Mandalay Taing (Mandalay Division)"
+      },
+      {
+        "text": "ကျောက်ဆည်မြို့နယ်အစ",
+        "lang": "my",
+        "latin": "Kyaukse Myone-ne a-sa (Kyaukse Township begins)"
+      },
+      {
+        "text": "မိုင် ၁၀/၆",
+        "lang": "my",
+        "latin": "Mile 10/6"
+      }
+    ],
+    "expect": {
+      "query": "ကျောက်ဆည်",
+      "type": "place"
+    },
+    "difficulty": "medium",
+    "notes": "Township boundary board with gold relief letters on a peeling green panel in a gold frame, on the Hanmyintmo-Myogyi-Ywangan-Aungban road; shot from below at an angle. Mile marker uses Burmese digits (၁၀/၆)."
+  },
+  "c64170934": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "OZZY",
+        "lang": "en"
+      },
+      {
+        "text": "FASHION SHOP",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Ozzy Fashion Shop",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Curved shop sign, Pyin Oo Lwin: 'OZZY' written vertically in red script down both black side panels, with an Ozzy logo and red 'FASHION SHOP' on the central poster image (a small singer figure, not the subject). Seen from below."
+  },
+  "f3132d651-9723-4b39-9a61-42434cf511d7": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "HNINN SI",
+        "lang": "en"
+      },
+      {
+        "text": "BUDGET",
+        "lang": "en"
+      },
+      {
+        "text": "INN",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Hninn Si Budget Inn",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Printed paper sign taped to a folding grille, Yangon, with a separate red 'NOW OPEN' sheet below it (not part of the name). Distractor: cut-off company fascia above ('...ANY LIMITED.' / '...AGODA ROAD, YANGON.')."
+  },
+  "c169837591": {
+    "accept": false,
+    "reason": "truck-route map board with traffic rules (Mong La), not a single place name"
+  },
+  "c105341865": {
+    "accept": false,
+    "reason": "interpretive notice about a tree (Chayar Tree, Shwezigon Pagoda) and a rules notice, not a place sign"
+  },
+  "c115940777": {
+    "accept": false,
+    "reason": "subject is a statue; the Kanbawzathadi name board is cut off at the right edge"
+  },
+  "c72053390": {
+    "accept": false,
+    "reason": "pagoda gateway arch; first glyph of the main name hidden behind an ornament and the small date lines are unclear"
+  }
+}

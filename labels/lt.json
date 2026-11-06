@@ -1,0 +1,320 @@
+{
+ "f2fec2e73-a778-4a94-b612-4e1371c09c7f": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "SANTAKOS",
+    "lang": "lt"
+   },
+   {
+    "text": "G-VĖ",
+    "lang": "lt"
+   }
+  ],
+  "expect": {
+   "query": "Santakos gatvė",
+   "type": "street"
+  },
+  "difficulty": "medium",
+  "notes": "Black-and-white photo of an old enamel street plate on a crumbling wall, Kaunas, shot at a steep angle; 'G-VĖ' (gatvė, street) in small letters after the name with the Ė dot visible. A small house-number plate above is cut and unreadable."
+ },
+ "k1571691865": {
+  "accept": false,
+  "reason": "trolleybus destination display (3 KAROLINIŠKĖS) on a moving vehicle, not a fixed sign"
+ },
+ "k1571692505": {
+  "accept": false,
+  "reason": "advertising livery on the back of a bus (Vilnius / Vilniaus centras / #susisiekime)"
+ },
+ "k286764673": {
+  "accept": true,
+  "reason": "",
+  "kind": "hard",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "AUTOMOBILIŲ",
+    "lang": "lt"
+   }
+  ],
+  "expect": {
+   "query": "Automobilių stiklai",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Blue fascia with white letters on an old single-storey building, Vilnius; the last letter is cut at the right frame edge (Ų partly visible) and a no-stopping sign pole crosses it. The parked van carries the same firm's branding 'AUTOMOBILIŲ STIKLAI / Pakalnės g. 13/1, Vilnius' (distractor, vehicle). Vertical HOTEL sign on the left is another distractor."
+ },
+ "k286764713": {
+  "accept": false,
+  "reason": "advertising banners on a road bridge (PANORAMA shopping centre ad, 'NET 20 NAUJŲ GURMANIŠKŲ...'), seen through a rainy windscreen"
+ },
+ "k95845917": {
+  "accept": false,
+  "reason": "parking-regulation sign stack (P, R zona, 35 m); names no place"
+ },
+ "k95847453": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "AMBERTON",
+    "lang": "en"
+   },
+   {
+    "text": "HOTEL · VIEŠBUTIS",
+    "lang": "lt"
+   }
+  ],
+  "expect": {
+   "query": "Amberton",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Gold raised letters with an 'A' logo over a hotel entrance, Vilnius (dull light, slight angle). A small street plate at left is unreadable; AMBERTON repeats faintly on the dark canopy below."
+ },
+ "k99516311": {
+  "accept": false,
+  "reason": "pedestrian-crossing sign and cinema advert (EMODŽI film poster); no place name"
+ },
+ "p18a3d64849": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "GEDIMINAS",
+    "lang": "lt"
+   },
+   {
+    "text": "LIETUVOS DIDYSIS KUNIGAIKŠTIS",
+    "lang": "lt"
+   }
+  ],
+  "expect": {
+   "query": "Gediminas",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Incised serif letters on a slate slab set in a paved path (memorial 'family tree' of names), Vilnius, viewed from above at an angle. The first I in GEDIMINAS carries a small decorative dot (looks like İ). Small name slabs in the background (MARIJA, KUNIGUNDA, ELŽBIETA, MANVYDAS, ...) are distractors."
+ },
+ "pb528993beb": {
+  "accept": false,
+  "reason": "gravestone inscription (Ksiądz Wincenty Butwid, 1912) in a cemetery; names a person, not a mappable place"
+ },
+ "pbeff7336ef": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Pirmieji",
+    "lang": "lt"
+   },
+   {
+    "text": "gyventojai",
+    "lang": "lt"
+   },
+   {
+    "text": "Senasis",
+    "lang": "lt"
+   },
+   {
+    "text": "arsenalas",
+    "lang": "lt"
+   }
+  ],
+  "expect": {
+   "query": "Senasis arsenalas",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Yellow museum pylon of the Old Arsenal (Lithuanian National Museum), Vilnius, at the left edge of a wide view, seen at a steep angle. Other headings: '(A)rcheologija' (A cut off), 'Baltų kultūrą/kultūra' (a mark under the final a makes it ambiguous), and tiny English subtitles and 'Lietuvos nacionalinis muziejus' at the bottom, not transcribed."
+ },
+ "c184322735": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn",
+   "Cyrl"
+  ],
+  "lines": [
+   {
+    "text": "UKRAINOS DIDVYRIŲ g.",
+    "lang": "lt"
+   },
+   {
+    "text": "вулиця Героїв України",
+    "lang": "uk",
+    "latin": "vulytsia Heroiv Ukrainy (Street of the Heroes of Ukraine)"
+   }
+  ],
+  "expect": {
+   "query": "Ukrainos didvyrių gatvė",
+   "type": "street"
+  },
+  "difficulty": "hard",
+  "notes": "Two street-name plates on a post in a snowy Vilnius street, small in the frame (centre). Upper plate Lithuanian with 'Ų'; lower plate Ukrainian in a decorative Old-Slavonic-style typeface beside the Ukrainian trident arms. 'g.' abbreviates gatvė."
+ },
+ "c3315318": {
+  "accept": false,
+  "reason": "wrought-iron open-book shop sign seen in silhouette; its text is tiny and illegible, and the wall lettering is cut off ('KN...')"
+ },
+ "c19699553": {
+  "accept": false,
+  "reason": "warehouse 'LOGISTIKOS CENTRAS' lettering is tiny on the horizon; too far to read reliably (same building as c19729563)"
+ },
+ "c19729563": {
+  "accept": false,
+  "reason": "roof lettering is only the generic 'LOGISTIKOS CENTRAS' (logistics centre); the company name under the logo is not legible"
+ },
+ "c54337052": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "bitė",
+    "lang": "lt"
+   }
+  ],
+  "expect": {
+   "query": "Bitė",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Green 'bitė' mobile-operator shop sign over the door of a 1910 corner building, Vytauto g., Ukmergė; lower case with ė. House number '6' on the pilaster. Distractors: blue direction sign '174 RAGUVA / A6 E262 JONAVA KAUNAS / UTENA A6 E262', a 'TORTAI' sign at the far left, promo posters in the windows."
+ },
+ "c56601157": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "SENUKAI",
+    "lang": "lt"
+   }
+  ],
+  "expect": {
+   "query": "Senukai",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Gold serif 'SENUKAI' lettering under the black/red/yellow 'CSSD'-style chain logo on the corner of the Senukai head-office tower, Kaunas. Logo itself is a graphic, not text."
+ },
+ "c60333325": {
+  "accept": true,
+  "reason": "",
+  "kind": "hard",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "VYTAUTO g.",
+    "lang": "lt"
+   }
+  ],
+  "expect": {
+   "query": "Vytauto gatvė",
+   "type": "street"
+  },
+  "difficulty": "hard",
+  "notes": "Small white street plate with a double-headed arrow under a yield and pedestrian-crossing sign, right of centre, Ukmergė (corner of Bažnyčios and Vytauto g.). Distractor: green 'Drabužių' clothes-shop sign with a tiny illegible subtitle on the building opposite."
+ },
+ "c60729461": {
+  "accept": false,
+  "reason": "near-duplicate target: another SENUKAI store logo (same lettering as accepted c56601157), smaller and farther"
+ },
+ "c39756220": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "A. ROTUNDO g.",
+    "lang": "lt"
+   }
+  ],
+  "expect": {
+   "query": "A. Rotundo gatvė",
+   "type": "street"
+  },
+  "difficulty": "medium",
+  "notes": "White enamel street plate on a grey wall in Vilnius, shot from below at a steep angle with slight motion blur. The plate has 'A.' and 'ROTUNDO' nearly touching; a space is given here."
+ },
+ "c25615788": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Mon Ami boulangerie",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "Mon Ami",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Script fascia lettering of a bakery on Laisvės alėja, Kaunas; house-number plate '81' at the right. Distractors: 'biosala' projecting sign and green 'sala' lettering of the neighbouring shop, 'NATŪRALŪS LEDAI' poster in the window, round hanging sign at the right edge (illegible)."
+ },
+ "c9844763": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "McDonald's",
+    "lang": "en"
+   },
+   {
+    "text": "McDRIVE",
+    "lang": "en"
+   },
+   {
+    "text": "24 val.",
+    "lang": "lt"
+   }
+  ],
+  "expect": {
+   "query": "McDonald's",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Illuminated McDonald's sign with a 'McDRIVE 24 val.' panel at dusk, Klaipėda; image is somewhat soft. Left half is a Statoil pylon cut off at the edge ('...TATOIL' / '...ovykla'), a distractor."
+ }
+}

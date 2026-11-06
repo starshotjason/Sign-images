@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=c89f64da-b1c9-4e97-9b3b-c1ef62e9f196",
+  "original_url": "https://panoramax.openstreetmap.fr/images/c8/9f/64/da/b1c9-4e97-9b3b-c1ef62e9f196.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "Robot8A",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture c89f64da-b1c9-4e97-9b3b-c1ef62e9f196 (Baku, 2020-01-20)",
+  "description": "Street-level picture on Panoramax, taken 2020-01-20 near Baku by Robot8A, sequence 17ecd942-bda0-4630-bfaa-3a2e74d9d8ba, heading 25. OCR (PP-OCRv3) read: HANDMADE | CENTER | Buta",
+  "date": "2020-01-20",
+  "categories": [],
+  "camera_location": [
+    40.367152405,
+    49.836464003
+  ],
+  "found_by": "panoramax-ocr:Baku",
+  "bytes": 334370,
+  "width": 1200,
+  "height": 900,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/c8/9f/64/da/b1c9-4e97-9b3b-c1ef62e9f196.jpg",
+  "derivative": "crop 2832,0,4032,900 of the 4032x3024 HD picture"
+}

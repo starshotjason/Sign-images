@@ -1,0 +1,114 @@
+{
+  "c11934457": {
+    "accept": false,
+    "reason": "wrong country: Angola Ferry sign at Louisiana State Penitentiary, USA"
+  },
+  "c8981312": {
+    "accept": false,
+    "reason": "CAN 2010 football tournament countdown board: event advertising, no place name"
+  },
+  "c47539956": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "BEM-VINDO | BIENVENUE | WELCOME",
+        "lang": "pt"
+      },
+      {
+        "text": "TAMBWOQUENO",
+        "lang": "und"
+      },
+      {
+        "text": "À CIDADE DE SAURIMO",
+        "lang": "pt"
+      },
+      {
+        "text": "PROVÍNCIA DA LUNDA SUL",
+        "lang": "pt"
+      },
+      {
+        "text": "CIDADE",
+        "lang": "pt"
+      },
+      {
+        "text": "DIAMANTE",
+        "lang": "pt"
+      }
+    ],
+    "expect": {
+      "query": "Saurimo",
+      "type": "place"
+    },
+    "difficulty": "medium",
+    "notes": "Trilingual welcome billboard to Saurimo, Lunda Sul, seen across a wet road. 'TAMBWOQUENO' is a local-language welcome word. 'CIDADE DIAMANTE' is to the right beside a diamond graphic. Alternative query: 'Lunda Sul'."
+  },
+  "c52270071": {
+    "accept": true,
+    "reason": "",
+    "kind": "building tag",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "INSTITUTO MÉDIO POLITÉCNICO",
+        "lang": "pt"
+      },
+      {
+        "text": "ALDA LARA",
+        "lang": "pt"
+      },
+      {
+        "text": "INAUGURADO NO DIA 28 DE FEVEREIRO",
+        "lang": "pt"
+      },
+      {
+        "text": "DE 2002,POR SUA EXª SR. MINISTRO",
+        "lang": "pt"
+      },
+      {
+        "text": "DA EDUCAÇÃO E CULTURA DR. ANTÓNIO",
+        "lang": "pt"
+      },
+      {
+        "text": "BURITY DA SILVA.",
+        "lang": "pt"
+      }
+    ],
+    "expect": {
+      "query": "Instituto Médio Politécnico Alda Lara",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Bronze inauguration plaque with Angolan coat of arms (small 'R.A' on its ribbon). The school name is the first two lines; the rest is the dedication. 'EXª' has a superscript underlined a; the Y of 'BURITY' is partly broken. No space between '2002,' and 'POR' and between 'EDUCAÇÃO' and 'E' is tight."
+  },
+  "c8686198": {
+    "accept": true,
+    "reason": "",
+    "kind": "hard",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "AEROPORTO IN",
+        "lang": "pt"
+      },
+      {
+        "text": "4 DE FE",
+        "lang": "pt"
+      }
+    ],
+    "expect": {
+      "query": "Aeroporto 4 de Fevereiro",
+      "type": "poi"
+    },
+    "difficulty": "hard",
+    "notes": "Night shot of the illuminated lettering on Luanda's Quatro de Fevereiro airport, angled and slightly blurred. The bulbs of the T in 'AEROPORTO' are out, so it reads 'AEROPOR-O'. Both lines are cut off at the right edge (full text 'AEROPORTO INTERNACIONAL' / '4 DE FEVEREIRO'). Camera date stamp '17-Aug-09 20:51' at lower right is a distractor."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/970779/10/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlNi5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE3LzExLzE2L3Byb2MvOTcwNzc5X2VhMmRjXzExLmpwZw",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "Mapanauta",
+  "credit_as_published": "KartaView user Mapanauta (user id 46); © KartaView contributors",
+  "title": "KartaView photo 164429133, sequence 970779 #10 (Quito, 2017-10-12)",
+  "description": "Street-level picture on KartaView, taken 2017-10-12 near Quito by Mapanauta, sequence 970779, heading 140.33. OCR (PP-OCRv3) read: TRIGO DORADO | deria y Pasteleria",
+  "date": "2017-10-12",
+  "categories": [],
+  "camera_location": [
+    -0.21818,
+    -78.509904
+  ],
+  "found_by": "kartaview-ocr:Quito",
+  "bytes": 338987,
+  "width": 1523,
+  "height": 1142,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlNi5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE3LzExLzE2L3Byb2MvOTcwNzc5X2VhMmRjXzExLmpwZw",
+  "derivative": "crop 0,484,1523,1626 of the 2592x1936 full-size processed (blurred) picture"
+}

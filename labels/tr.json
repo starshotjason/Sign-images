@@ -1,0 +1,519 @@
+{
+  "p45cee96dda": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "ANADOLU",
+        "lang": "tr"
+      },
+      {
+        "text": "MEDENİYETLERİ",
+        "lang": "tr"
+      },
+      {
+        "text": "MÜZESİ",
+        "lang": "tr"
+      }
+    ],
+    "expect": {
+      "query": "Anadolu Medeniyetleri Müzesi",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Carved letters in the marble tympanum over the entrance of the Museum of Anatolian Civilizations, Ankara. Capital dotted İ in MEDENİYETLERİ and MÜZESİ. Round museum emblem (1921) and bilingual history plaques at the bottom are distractors."
+  },
+  "p7f57902c3b": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "ŞEREFEFENDİ",
+        "lang": "tr"
+      },
+      {
+        "text": "SOKAĞI",
+        "lang": "tr"
+      }
+    ],
+    "expect": {
+      "query": "Şerefefendi Sokağı",
+      "type": "street"
+    },
+    "difficulty": "medium",
+    "notes": "Istanbul (Fatih) red street-name plate with double arrow, near Çemberlitaş / Grand Bazaar. Bottom teal strip with tiny neighbourhood text and 'FATİH' is not legible enough to transcribe. Distractors: brown tourist signs 'Çember...' / 'Kapalıçarş...' / 'Nuruos...' cut off at right, a large maroon sign at left (cut off), blue bus-direction sign, 'DIAZ' shop."
+  },
+  "peeb72c5229": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "MİLLİ TÜRK TALEBE BİRLİĞİ",
+        "lang": "tr"
+      },
+      {
+        "text": "GENEL MERKEZİ",
+        "lang": "tr"
+      }
+    ],
+    "expect": {
+      "query": "Milli Türk Talebe Birliği",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Fascia of the National Turkish Student Union (MTTB) headquarters, Istanbul, seen from below. The smaller blue panel 'BİRLİK VAKFI' (dotted İ in BİRLİK, undotted I in VAKFI) above it is a second organisation; 'M.T.T.B.' 1916 shields and flags are distractors."
+  },
+  "pf89e2396b8": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "FAB'ART",
+        "lang": "und"
+      },
+      {
+        "text": "MOUNTING",
+        "lang": "en"
+      },
+      {
+        "text": "DIAMOND",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Fab'Art",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Gold lettering on a jewellery shop fascia near the Grand Bazaar, Istanbul; 'FAB'ART' repeated on the awning. Distractors: 'tan DIAMOND' blade sign and window graphics, yellow 'KİRALIK DÜKKAN / MÜRACAAT ÇAY OCAĞI' rental poster on the shutter, postcards stand."
+  },
+  "k26929198": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "Coffee Island",
+        "lang": "en"
+      },
+      {
+        "text": "Eatery & Drink",
+        "lang": "en"
+      },
+      {
+        "text": "Kahve Adası",
+        "lang": "tr"
+      }
+    ],
+    "expect": {
+      "query": "Coffee Island",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Ankara (Kızılay) hanging black sign; the I of Island is drawn like a '1'. Dotless ı in Adası. Distractors: 'PEGEM AKADEMİ / ALES-DGS-ÜDS-KPDS / ÖĞRETMENLİK-MEMURLUK', 'ARKA BAHÇE', 'ÇÖZÜM KOLEJİ … AÇILIYOR!', 'BULVAR CAFÉ BILLARDS', KFC flags and van livery. Faces blurred."
+  },
+  "k26929208": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "EL PASO",
+        "lang": "es"
+      },
+      {
+        "text": "Best Of Wes",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "El Paso",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Ankara restaurant pylon sign with red longhorn head; the lower panel is cut by a roof edge after 'Wes' (West). 'ANADOLU MUTFAĞI' round sign at left, 'Karanfil Cafe', 'Limna' and a 'Bilge…' building sign are distractors. Pedestrian's face blurred."
+  },
+  "k26933873": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "Anıtkabir",
+        "lang": "tr"
+      },
+      {
+        "text": "Dikmen",
+        "lang": "tr"
+      },
+      {
+        "text": "Konya",
+        "lang": "tr"
+      },
+      {
+        "text": "Eskişehir",
+        "lang": "tr"
+      }
+    ],
+    "expect": {
+      "query": "Anıtkabir",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Ankara overhead direction sign (right panel, up-right arrow): Anıtkabir on a brown tourist band, Konya/Eskişehir on a blue highway band. The left panel (Kızılay / Maltepe / Kavaklıdere / Çankaya, down arrow) is too blurred to verify the diacritics, so it is not transcribed. Cinemaximum ANKAmall video billboard and a bus destination 'YENİMAHALLE - KIZILAY' are distractors."
+  },
+  "k122826": {
+    "accept": true,
+    "reason": "",
+    "kind": "hard",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "H.AKSOY",
+        "lang": "tr"
+      },
+      {
+        "text": "AKSOY TİCARET",
+        "lang": "tr"
+      }
+    ],
+    "expect": {
+      "query": "Aksoy Ticaret",
+      "type": "poi"
+    },
+    "difficulty": "hard",
+    "notes": "Istanbul (Sultanahmet), vertical blade sign read top to bottom, backlit by the low sun; small red 'H.AKSOY' at the top. Dotted capital İ in TİCARET. Travel-agency sign ('… TRAVEL / Discover Turkey with Us') and a red neon below are distractors."
+  },
+  "f702b1355-8016-4b6f-bff0-f07ba334a926": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "ORIENT",
+        "lang": "en"
+      },
+      {
+        "text": "EXPRESS",
+        "lang": "en"
+      },
+      {
+        "text": "RESTAURANT",
+        "lang": "en"
+      },
+      {
+        "text": "& CAFE",
+        "lang": "en"
+      },
+      {
+        "text": "Tel: 522 22 80",
+        "lang": "und"
+      },
+      {
+        "text": "www.orientexpressrestaurant.net",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Orient Express Restaurant",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Free-standing sign with red arrow inside Sirkeci station, Istanbul. Round logo text (ORIENT EXPRESS / LONDON PARIS WIEN ISTANBUL) is small and not transcribed."
+  },
+  "f774c21e9-5a17-42b7-b743-7a4a4bc539a3": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "ELECTRO SOUND",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Electro Sound",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Unlit neon-tube letters on a white panel with a red down arrow between the words, Istanbul (Beyoğlu); daylight, so the tubes are thin."
+  },
+  "f3625a4f9-fab2-4a1f-900d-a36fb6415f03": {
+    "accept": true,
+    "reason": "",
+    "kind": "hard",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "ZİNCİRLİ HAN",
+        "lang": "tr"
+      }
+    ],
+    "expect": {
+      "query": "Zincirli Han",
+      "type": "poi"
+    },
+    "difficulty": "hard",
+    "notes": "Grand Bazaar, Istanbul: black-and-white, dim arrow-shaped direction sign hanging over a crowded lane; dotted capital İ three times. Vertical 'ALYANS' shop signs, a jeweller's sign at left and an 'OZAYDIN' pillar sign are distractors; shoppers incidental."
+  },
+  "k26929188": {
+    "accept": false,
+    "reason": "pure advert (Petlas tyre billboard on a footbridge)"
+  },
+  "k26929178": {
+    "accept": false,
+    "reason": "school/course signs cut off at the frame edge; no complete place sign"
+  },
+  "k26933863": {
+    "accept": false,
+    "reason": "video-billboard advert and 'ALO 153' hotline lettering; no place name"
+  },
+  "pf0e752c429": {
+    "accept": false,
+    "reason": "café menu board"
+  },
+  "k26930467": {
+    "accept": false,
+    "reason": "union HQ sign angled and crossed by branches; middle line illegible, other signs hidden"
+  },
+  "p2188d95585": {
+    "accept": false,
+    "reason": "pure advert (Birevim billboard on a footbridge)"
+  },
+  "k26933853": {
+    "accept": false,
+    "reason": "near-duplicate of k26933873 (same drive, same Anıtkabir direction signage), motion-blurred"
+  },
+  "f429c6cc6-f8f2-4aed-ba73-3889c00c8bd4": {
+    "accept": false,
+    "reason": "generic ticket-office and foreign-currency notices; no place name"
+  },
+  "f5a3b7745-7a06-490c-8f29-8dac35d10e5d": {
+    "accept": false,
+    "reason": "vehicle branding (Marmaray train front); no station sign"
+  },
+  "f807727d2-4fee-418b-b748-676e904de648": {
+    "accept": false,
+    "reason": "TCDD trilingual warning sign ('do not enter')"
+  },
+  "f99f117c5-4935-47af-8294-5a77f47ff2ea": {
+    "accept": false,
+    "reason": "crowd and faces are the subject; stylised shop name's diacritics not resolvable"
+  },
+  "f131a05c5-c748-4c8f-a435-e51ca2c463d3": {
+    "accept": false,
+    "reason": "salon name cut by the window frame; only generic 'Kuaför / Barber' legible"
+  },
+  "f5be28b42-850c-494a-992b-d6051f50f169": {
+    "accept": false,
+    "reason": "shop-window reflection with a cat; no sign"
+  },
+  "f7b016600-4ca0-4000-b494-b7eac54f8805": {
+    "accept": false,
+    "reason": "municipal logo on a lamp post; no text"
+  },
+  "f7754da5e-01a7-459f-a460-24d6796a3e8e": {
+    "accept": false,
+    "reason": "café terraces on a stepped street; signs too small to read"
+  },
+  "fa8d0e54d-527c-4a6f-93be-eef31dc6d9b0": {
+    "accept": false,
+    "reason": "upside-down puddle reflection; no sign"
+  },
+  "fae8586a6-d6fb-4071-a6e4-5254fa1fc50a": {
+    "accept": false,
+    "reason": "busy street with many partial signs and a photo-studio advert board; no single main sign"
+  },
+  "c198399915": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "T.C. AYDIN BÜYÜKŞEHİR BELEDİYESİ",
+        "lang": "tr"
+      },
+      {
+        "text": "CAMİATİK MAHALLESİ",
+        "lang": "tr"
+      },
+      {
+        "text": "2151",
+        "lang": "und"
+      },
+      {
+        "text": "SOKAK",
+        "lang": "tr"
+      },
+      {
+        "text": "(TN: 43)",
+        "lang": "tr"
+      }
+    ],
+    "expect": {
+      "query": "2151 Sokak",
+      "type": "street"
+    },
+    "difficulty": "easy",
+    "notes": "Blue enamel numbered-street plate, Kuşadası (Aydın province), frontal. Turkish format: municipality header, mahalle (neighbourhood) name, street number + SOKAK, and 'TN:' = tabela numarası (sign number) 43 with a direction arrow. Glare covers the 'LE' of BELEDİYESİ; 'AYDIN' has dotless capital I as expected, other capitals are dotted İ."
+  },
+  "c36082930": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "KÖPRÜLÜ",
+        "lang": "tr"
+      },
+      {
+        "text": "MEHMET PAŞA",
+        "lang": "tr"
+      },
+      {
+        "text": "SOKAK",
+        "lang": "tr"
+      },
+      {
+        "text": "Kökçüoğlu Mahallesi",
+        "lang": "tr"
+      },
+      {
+        "text": "(TN:11)",
+        "lang": "tr"
+      }
+    ],
+    "expect": {
+      "query": "Köprülü Mehmet Paşa Sokak",
+      "type": "street"
+    },
+    "difficulty": "easy",
+    "notes": "Blue embossed street plate in Samsun with chipped paint, slightly from below. Neighbourhood name and sign number (TN = tabela numarası) on the bottom strip. Torn muhtar election posters ('KÖKÇÜOĞLU MAHALLESİ MUHTAR ADAYI') at top right are distractors."
+  },
+  "c37845253": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn",
+      "Zyyy"
+    ],
+    "lines": [
+      {
+        "text": "HATTUŞA",
+        "lang": "tr"
+      },
+      {
+        "text": "ÖRENYERİ",
+        "lang": "tr"
+      },
+      {
+        "text": "28/11/1986 Tarihinde",
+        "lang": "tr"
+      },
+      {
+        "text": "Dünya Kültür Mirasi Listesine Alınmıştır",
+        "lang": "tr"
+      },
+      {
+        "text": "Registered on the World Heritage",
+        "lang": "en"
+      },
+      {
+        "text": "List on 28/11/1986",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Hattuşa",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Diamond-shaped World Heritage site board in a wooden frame at Hattusa (Boğazkale, Çorum). 'Mirasi' is printed with a dotted i (standard Turkish would be Mirası); transcribed as printed. UNESCO and World Heritage emblems at top and bottom are not text targets."
+  },
+  "c38580294": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "Köprübaşı",
+        "lang": "tr"
+      },
+      {
+        "text": "(City Center)",
+        "lang": "en"
+      },
+      {
+        "text": "Vilayet",
+        "lang": "tr"
+      },
+      {
+        "text": "Büyükşehir Bld.",
+        "lang": "tr"
+      },
+      {
+        "text": "Haller",
+        "lang": "tr"
+      },
+      {
+        "text": "Gençlik Merkezi",
+        "lang": "tr"
+      },
+      {
+        "text": "Anadolu Üniv.",
+        "lang": "tr"
+      }
+    ],
+    "expect": {
+      "query": "Köprübaşı",
+      "type": "place"
+    },
+    "difficulty": "easy",
+    "notes": "Stack of four fingerpost blades under the Eskişehir Büyükşehir Belediyesi logo on Cengiz Topel Blvd: yellow Köprübaşı (City Center) left, orange Vilayet / Büyükşehir Bld. (Governorate / Metropolitan Municipality) left, brown Haller Gençlik Merkezi (youth centre) right, yellow Anadolu Üniv. right. Distractors: red 'BALIK & BALIK LOKANTASI' and 'KÖMÜRDE BALIK / BALIK LOKANTASI' restaurant fascias behind."
+  }
+}

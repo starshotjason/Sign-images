@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/2822302/35/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMC83LzI3L3Byb2MvMjgyMjMwMl8yN2QxMF81ZjFlYTAwZTY3YjRhLmpwZw",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "emilio-gomez",
+  "credit_as_published": "KartaView user emilio-gomez (user id 37738); © KartaView contributors",
+  "title": "KartaView photo 1016828238, sequence 2822302 #35 (Andorra la Vella, 2015-12-17)",
+  "description": "Street-level picture on KartaView, taken 2015-12-17 near Andorra la Vella by emilio-gomez, sequence 2822302, heading 252. OCR (PP-OCRv3) read: SP SPORT | ANDORRA",
+  "date": "2015-12-17",
+  "categories": [],
+  "camera_location": [
+    42.505331,
+    1.527363
+  ],
+  "found_by": "kartaview-ocr:Andorra la Vella",
+  "bytes": 188525,
+  "width": 1200,
+  "height": 900,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMC83LzI3L3Byb2MvMjgyMjMwMl8yN2QxMF81ZjFlYTAwZTY3YjRhLmpwZw",
+  "derivative": "crop 0,923,1200,1823 of the 2592x1944 full-size processed (blurred) picture"
+}

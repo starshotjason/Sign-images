@@ -1,0 +1,110 @@
+{
+ "c10906855": {
+  "accept": false,
+  "reason": "wrong country: Century Plaza in Tamuning, Guam (US territory), not FSM"
+ },
+ "c10986909": {
+  "accept": false,
+  "reason": "wrong country: Micronesia Mall interior, Guam (US territory), not FSM"
+ },
+ "c11705973": {
+  "accept": true,
+  "reason": "",
+  "kind": "hard",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "KOSRAE INTERNATIONAL AIRPORT",
+    "lang": "en"
+   },
+   {
+    "text": "Welcome",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Kosrae International Airport",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Brown name board in front of the terminal, partly hidden by shrubs (leaves cross INTERNATIONAL and AIRPORT; the rest of the 'Welcome ...' line is hidden). The painted board on the roof reads 'WELCOME TO KOSRAE' / 'THE MYSTERIOUS PARADISE ISLAND' / 'HOME OF THE SLEEPING LADY MOUNTAIN' (plus tiny illegible text); it is a second, fully legible target."
+ },
+ "c158149573": {
+  "accept": false,
+  "reason": "lecture-room photo with a slide projection; no sign"
+ },
+ "c52692723": {
+  "accept": false,
+  "reason": "'BEWARE OF THE DOGS' warning board (Japanese text unreadable at this size); names no place"
+ },
+ "c8481112": {
+  "accept": true,
+  "reason": "",
+  "kind": "transit",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "CHUUK INTERNATIONAL",
+    "lang": "en"
+   },
+   {
+    "text": "AIRPORT",
+    "lang": "en"
+   },
+   {
+    "text": "We Hope You Enjoyed Your Stay",
+    "lang": "en"
+   },
+   {
+    "text": "Come Again",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Chuuk International Airport",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Small sign in the middle of a lawn; occupies a small part of the frame. The bottom line is a row of greetings in local languages separated by bullets (appears to be 'RAN ANNIM • KASELEHLIE • MOGETHIN • PAING KOWOS' as on the Pohnpei sign) but is too small to read reliably, so it is not transcribed."
+ },
+ "c9543540": {
+  "accept": true,
+  "reason": "",
+  "kind": "transit",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "WELCOME TO POHNPEI",
+    "lang": "en"
+   },
+   {
+    "text": "Capital of the Federated States of Micronesia",
+    "lang": "en"
+   },
+   {
+    "text": "POHNPEI INTERNATIONAL",
+    "lang": "en"
+   },
+   {
+    "text": "AIRPORT",
+    "lang": "en"
+   },
+   {
+    "text": "KASELEHLIE • RAN ANNIM • MOGETHIN • PAING KOWOS",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "Pohnpei International Airport",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Terminal name board, slightly angled. The last line is 'welcome/greeting' words in Pohnpeian, Chuukese, Yapese and Kosraean, separated by bullets. Distractors: 'Continental Micronesia SORRY NO TRANSITING PASSENGERS BEYOND THIS POINT' sandwich board, blue immigration notice (English/Japanese) over the door."
+ }
+}

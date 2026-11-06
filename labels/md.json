@@ -1,0 +1,332 @@
+{
+ "p6e9fe63846": {
+  "accept": false,
+  "reason": "no place sign: only a slogan and 'PÖSSL' brand on a camper van"
+ },
+ "pc7d2335765": {
+  "accept": false,
+  "reason": "no place sign: only 'surfskisport.com' and sponsor stickers on a van"
+ },
+ "k1108579998": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "BODYBUILDING.MD",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Bodybuilding.md",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Chișinău: yellow channel letters on a brick-clad upper storey, angled from a moving car; small dot before MD. White 'Küpper…' lettering lower right is cut by the frame edge; blue P parking sign down the street is a distractor."
+ },
+ "k1113754830": {
+  "accept": true,
+  "reason": "",
+  "kind": "hard",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ravetti",
+    "lang": "it"
+   }
+  ],
+  "expect": {
+   "query": "Ravetti",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Chișinău shoe shop, lowercase 'ravetti' repeated on three white panels (fascia and corner awning); heavy sun glare and dashcam windscreen haze, small illegible tagline under each. Date overlay '2020-05-16 17:50:16' at the bottom is a distractor."
+ },
+ "k404443082": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "MeXX",
+    "lang": "en"
+   },
+   {
+    "text": "JACK",
+    "lang": "en"
+   },
+   {
+    "text": "JONES",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Jack & Jones",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Chișinău: dark fascia with two brand names; Mexx is written with a small lowercase-style e, and the '&' of JACK & JONES is a small box logo, not a letter. '…ODA' on the next fascia (cut by the tree), 'Amadeus Travel' / '…URISM' signs at lower left and road signs are distractors."
+ },
+ "k1108576414": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ORATORICA",
+    "lang": "ro"
+   }
+  ],
+  "expect": {
+   "query": "Oratorica",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Chișinău corner building: white-blue panel with round logo above the door; a small subtitle line under the name is illegible. Large 'CHIRIE 079 551 888' rental banner at left (first letter hidden by the tree) and a small street plate are distractors."
+ },
+ "k1110777838": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Orange",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Orange",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Chișinău (Ștefan cel Mare boulevard): red 'Orange' letters on the building front, twice, with the orange square logo. A dark kiosk canopy with small 'GUST NOU - SENZAȚII NOI' text (diacritics not verifiable) and a distant blue 'MOLDINDCONBANK' fascia are distractors."
+ },
+ "k404443442": {
+  "accept": true,
+  "reason": "",
+  "kind": "hard",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "FinComBank",
+    "lang": "ro"
+   }
+  ],
+  "expect": {
+   "query": "FinComBank",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Chișinău: teal exchange-rate board with FC logo, half in shadow, behind a Range Rover. The slogan 'ÎNTR-UN PAS PRIN VIAȚ…' and the 'CUMPĂRARE / VÂNZARE' rate headings are too soft to confirm every diacritic, so they are left out."
+ },
+ "k238967353": {
+  "accept": false,
+  "reason": "political campaign billboard (advert)"
+ },
+ "k1114462570": {
+  "accept": false,
+  "reason": "'RENT APARTMENT' advert; hotel/casino lettering over the door too small to read"
+ },
+ "k248067721": {
+  "accept": false,
+  "reason": "trolleybus destination displays and fleet numbers (vehicle text)"
+ },
+ "k238967319": {
+  "accept": false,
+  "reason": "generic 'digital shop' lettering partly hidden by a trolleybus; same Orange-dealer branding as k1110777838"
+ },
+ "k404444202": {
+  "accept": false,
+  "reason": "rental advert banner ('În chirie spații comerciale')"
+ },
+ "k1110819862": {
+  "accept": false,
+  "reason": "vehicle branding (itaxi)"
+ },
+ "k1064513098": {
+  "accept": false,
+  "reason": "near-duplicate of k1108576414 (same corner building), only the rental banner visible"
+ },
+ "c67057218": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Cyrl",
+   "Zyyy"
+  ],
+  "lines": [
+   {
+    "text": "34",
+    "lang": "und"
+   },
+   {
+    "text": "стр. А. МАНОЙЛОВ",
+    "lang": "ro",
+    "latin": "str. A. Manoilov (Moldovan Cyrillic: A. Manoilov Street)"
+   },
+   {
+    "text": "ул. А. МАНОЙЛОВА",
+    "lang": "ru",
+    "latin": "ul. A. Manoylova"
+   },
+   {
+    "text": "вул. А. МАНОЙЛОВА",
+    "lang": "uk",
+    "latin": "vul. A. Manoilova"
+   }
+  ],
+  "expect": {
+   "query": "улица Манойлова",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Trilingual stencilled street plate in Tiraspol (Transnistria): Moldovan/Romanian in Cyrillic, Russian, Ukrainian, all Cyrillic; house number 34 on an oval tile above. Abbreviations are lower case, names upper case. The bronze memorial plaque at the top ('...КАВБРИГАДЫ / Г.И. КОТОВСКОГО') is cut off and a distractor."
+ },
+ "c102801854": {
+  "accept": false,
+  "reason": "emergency-exit stair sign (IEŞIRE / ВЫХОД); names no place"
+ },
+ "c202065893": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ANENII NOI",
+    "lang": "ro"
+   },
+   {
+    "text": "RAIONUL",
+    "lang": "ro"
+   }
+  ],
+  "expect": {
+   "query": "Anenii Noi",
+   "type": "place"
+  },
+  "difficulty": "medium",
+  "notes": "Roadside district welcome monument on the R2: large 3-D letters 'ANENII NOI' above a blue drum reading 'RAIONUL' (read together: Raionul Anenii Noi). Distractor at left: small village-entry sign 'CHETROSU' with a 50 limit."
+ },
+ "c202065918": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "MUNICIPIUL CHIȘINĂU",
+    "lang": "ro"
+   }
+  ],
+  "expect": {
+   "query": "Chișinău",
+   "type": "place"
+  },
+  "difficulty": "medium",
+  "notes": "Concrete welcome lettering at the Chișinău municipality boundary on the R2, viewed at an angle; the dots of the i's are spheres. The Ș has a detached slanted block below (comma form) and the Ă a block breve on top, so OCR may drop the diacritics."
+ },
+ "c40980555": {
+  "accept": false,
+  "reason": "Soviet order emblems on a stele (only 'СССР' and 'ОТЕЧЕСТВЕННАЯ ВОЙНА' on the medals); no place name"
+ },
+ "c40980561": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Cyrl"
+  ],
+  "lines": [
+   {
+    "text": "ТИРАСПОЛЬ",
+    "lang": "ru",
+    "latin": "Tiraspol"
+   }
+  ],
+  "expect": {
+   "query": "Тирасполь",
+   "type": "place"
+  },
+  "difficulty": "easy",
+  "notes": "Large dark-red letters on the city welcome monument of Tiraspol (Transnistria), with the city arms (tiny '1792') and three Soviet order emblems on the pylon (distractors)."
+ },
+ "c91068954": {
+  "accept": false,
+  "reason": "currency-rate LED boards dominate; the exchange-office names ('Clio / SCHIMB VALUTAR', partial 'EXCHANG...') are secondary"
+ },
+ "c59614708": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "REZERVAȚIA",
+    "lang": "ro"
+   },
+   {
+    "text": "„CODRII”",
+    "lang": "ro"
+   }
+  ],
+  "expect": {
+   "query": "Codrii",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Painted arrow-shaped road sign to the Codrii nature reserve beside the M1 near Lozova; Ț has a mark below, 'CODRII' is in Romanian low-high quotation marks and its two I's carry small hat marks (stylised, not diacritics). The white board at the left with animal drawings and a tiny 'CODRII' logo is a distractor."
+ },
+ "c112469783": {
+  "accept": false,
+  "reason": "station wayfinding sign 'IEȘIRE ÎN ORAȘ / EXIT OUT ON THE TOWN' (exit direction); names no specific place"
+ },
+ "c163079187": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn",
+   "Zyyy"
+  ],
+  "lines": [
+   {
+    "text": "FLORESTI",
+    "lang": "ro"
+   },
+   {
+    "text": "1588",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "Florești",
+   "type": "place"
+  },
+  "difficulty": "medium",
+  "notes": "Mosaic-tile town entrance stele of Florești with a sunflower motif and founding year 1588. No comma under the S is visible (the ledge below may hide it), so the line is transcribed without it; the place is Florești. Small 'photobank.md' credit at the bottom-right edge, not across the image."
+ }
+}

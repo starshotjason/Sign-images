@@ -1,0 +1,42 @@
+{
+  "source": "flickr",
+  "source_url": "https://www.flickr.com/photos/10559879@N00/4837690398",
+  "original_url": "https://live.staticflickr.com/4130/4837690398_c2593884ac_o.jpg",
+  "license_as_published": "CC BY-SA 2.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/2.0/",
+  "author_as_published": "avlxyz",
+  "credit_as_published": "\"Shopfront - Cha Ca La Vong\" by avlxyz is licensed under CC BY-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.0/.",
+  "title": "Shopfront - Cha Ca La Vong",
+  "description": "",
+  "date": "",
+  "categories": [
+    "chaca",
+    "chacalavong",
+    "chu1ea3cu00e1",
+    "chu1ea3cu00e1lu00e3vu1ecdng",
+    "ch\\u1ea3c\\xe1",
+    "ch\\u1ea3c\\xe1l\\xe3v\\u1ecdng",
+    "exterior",
+    "hanoi",
+    "restaurant",
+    "shopfront",
+    "vietnam"
+  ],
+  "camera_location": null,
+  "found_by": "openverse:Vietnam street sign",
+  "bytes": 139185,
+  "width": 686,
+  "height": 1024,
+  "downloaded_url": "https://api.openverse.org/v1/images/fb3dcef1-0937-4d44-b604-dc047ef2cfab/thumb/?full_size=true&compressed=false",
+  "derivative": "Flickr's published 1024 px 'large' rendition, served by the Openverse image API (Flickr originals were throttled for this client)",
+  "flickr": {
+    "flickr_url": "https://www.flickr.com/photos/10559879@N00/4837690398",
+    "flickr_license": "CC BY-SA 2.0",
+    "lat": null,
+    "lon": null,
+    "original_url": "https://live.staticflickr.com/4130/4837690398_c2593884ac_o.jpg",
+    "flickr_license_code": 5,
+    "retrieved": "2026-11-06T05:17:31.939819+00:00"
+  },
+  "openverse_id": "fb3dcef1-0937-4d44-b604-dc047ef2cfab"
+}

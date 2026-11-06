@@ -1,0 +1,66 @@
+{
+ "c18505875": {
+  "accept": true,
+  "reason": "",
+  "kind": "hard",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ABAIANG ISLAND",
+    "lang": "en"
+   },
+   {
+    "text": "COUNCIL OFFICE",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Abaiang Island Council Office",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Small hand-lettered white board in the gable of the council building, far from the camera and low-resolution (letters are soft at 1280 px). A small board under the eaves ('Thank you ...') is illegible."
+ },
+ "c36936906": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "THE PARLIAMENT OF THE REPUBLIC OF KIRIBATI",
+    "lang": "en"
+   },
+   {
+    "text": "TE MANEABA NI MAUNGATABU",
+    "lang": "gil"
+   },
+   {
+    "text": "BUILDINGS",
+    "lang": "en"
+   },
+   {
+    "text": "CENTRAL BUILDINGS - PARLIAMENT HOUSE",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Maneaba ni Maungatabu",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Hand-painted site board with a building plan in front of the Parliament at Ambo, Tarawa. 'OF' and 'NI' are small. Gilbertese has no ISO 639-1 code, so lang 'gil' (639-2) is used for the Maneaba line. Not transcribed: the numbered building list ('1) Front (canoe-shape) Building - Display House', '2) Behind the Parliament - (A) Cabinet Office (B) Local Maneaba', '3) Behind the Parliamentarians Offices', '•Parliamentarians Lounge', '•Parliamentarians Canteen.') and tiny plan labels."
+ },
+ "c46268424": {
+  "accept": false,
+  "reason": "painted AIDS-awareness poster in Gilbertese (slogans); not a place sign"
+ },
+ "c5009442": {
+  "accept": false,
+  "reason": "scanned Russian presidential decree document, not a photo of a sign"
+ }
+}

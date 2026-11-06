@@ -1,0 +1,35 @@
+{
+  "source": "flickr",
+  "source_url": "https://www.flickr.com/photos/40098061@N00/3188327043",
+  "original_url": "https://live.staticflickr.com/3128/3188327043_357e6c5c9d_o.jpg",
+  "license_as_published": "CC BY 2.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by/2.0/",
+  "author_as_published": "saragoldsmith",
+  "credit_as_published": "\"macr jacosb\" by saragoldsmith is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/.",
+  "title": "macr jacosb",
+  "description": "",
+  "date": "",
+  "categories": [
+    "hanoi",
+    "macrjacosb",
+    "storefront",
+    "vietnam"
+  ],
+  "camera_location": null,
+  "found_by": "openverse:Vietnam storefront",
+  "bytes": 234364,
+  "width": 1024,
+  "height": 768,
+  "downloaded_url": "https://api.openverse.org/v1/images/8246c56e-d458-46f1-8773-96b48501435d/thumb/?full_size=true&compressed=false",
+  "derivative": "Flickr's published 1024 px 'large' rendition, served by the Openverse image API (Flickr originals were throttled for this client)",
+  "flickr": {
+    "flickr_url": "https://www.flickr.com/photos/40098061@N00/3188327043",
+    "flickr_license": "CC BY 2.0",
+    "lat": null,
+    "lon": null,
+    "original_url": "https://live.staticflickr.com/3128/3188327043_357e6c5c9d_o.jpg",
+    "flickr_license_code": 4,
+    "retrieved": "2026-11-06T05:18:06.956474+00:00"
+  },
+  "openverse_id": "8246c56e-d458-46f1-8773-96b48501435d"
+}

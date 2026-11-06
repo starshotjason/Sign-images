@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/9031689/159/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyNC82LzEyL3Byb2MvOTAzMTY4OV82ZTViMl82NjY5ZGRlNWI3OTc3LmpwZw",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "arubi-risdianto",
+  "credit_as_published": "KartaView user arubi-risdianto (user id 28558); © KartaView contributors",
+  "title": "KartaView photo 1975069705, sequence 9031689 #159 (Doha, 2024-06-12)",
+  "description": "Street-level picture on KartaView, taken 2024-06-12 near Doha by arubi-risdianto, sequence 9031689, heading 181.43. OCR (PP-OCRv3) read: nMohammedStreet",
+  "date": "2024-06-12",
+  "categories": [],
+  "camera_location": [
+    25.291616,
+    51.529911
+  ],
+  "found_by": "kartaview-ocr:Doha",
+  "bytes": 226554,
+  "width": 1562,
+  "height": 1171,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyNC82LzEyL3Byb2MvOTAzMTY4OV82ZTViMl82NjY5ZGRlNWI3OTc3LmpwZw",
+  "derivative": "crop 0,560,1562,1731 of the 4000x2250 full-size processed (blurred) picture"
+}

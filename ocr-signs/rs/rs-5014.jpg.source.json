@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=17f42479-a903-488a-ae89-c4e0fed7d100",
+  "original_url": "https://panoramax.openstreetmap.fr/images/17/f4/24/79/a903-488a-ae89-c4e0fed7d100.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "Robot8A",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture 17f42479-a903-488a-ae89-c4e0fed7d100 (Novi Sad, 2024-08-21)",
+  "description": "Street-level picture taken 2024-08-21 near Novi Sad by Robot8A, sequence 036d6425-159f-4092-9172-bb4e72d051b6, heading 159. OCR (PP-OCRv3) read: [unread] CAFOUSTCAROCAE",
+  "date": "2024-08-21",
+  "categories": [],
+  "camera_location": [
+    45.263171707,
+    19.831050353
+  ],
+  "found_by": "panoramax-ocr:Novi Sad",
+  "bytes": 353054,
+  "width": 1200,
+  "height": 900,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/17/f4/24/79/a903-488a-ae89-c4e0fed7d100.jpg",
+  "derivative": "crop 802,1089,2002,1989 of the 4032x3024 HD picture"
+}

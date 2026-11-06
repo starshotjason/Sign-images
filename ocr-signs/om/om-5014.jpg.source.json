@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/3849601/0/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMS85LzIxL3Byb2MvMzg0OTYwMV9hOGQwYV82MTRhMGJmNWE1ZTFlLmpwZw",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "vincent-bombaerts",
+  "credit_as_published": "KartaView user vincent-bombaerts (user id 59597); © KartaView contributors",
+  "title": "KartaView photo 1377932825, sequence 3849601 #0 (Muscat, 2020-02-10)",
+  "description": "Street-level picture on KartaView, taken 2020-02-10 near Muscat by vincent-bombaerts, sequence 3849601, heading 289.71. OCR (PP-OCRv3) read: HOSPITA | al-Qurm | Muscat",
+  "date": "2020-02-10",
+  "categories": [],
+  "camera_location": [
+    23.588933,
+    58.408185
+  ],
+  "found_by": "kartaview-ocr:Muscat",
+  "bytes": 246651,
+  "width": 1200,
+  "height": 900,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMS85LzIxL3Byb2MvMzg0OTYwMV9hOGQwYV82MTRhMGJmNWE1ZTFlLmpwZw",
+  "derivative": "crop 713,0,1913,900 of the 1920x1080 full-size processed (blurred) picture"
+}

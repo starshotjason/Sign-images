@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=5a9e4b3d-9aa7-4a2a-bf40-97880c43ee22",
+  "original_url": "https://panoramax.openstreetmap.fr/images/5a/9e/4b/3d/9aa7-4a2a-bf40-97880c43ee22.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "Anonymous897234",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture 5a9e4b3d-9aa7-4a2a-bf40-97880c43ee22 (Osaka, 2026-10-22)",
+  "description": "Street-level picture taken 2026-10-22 near Osaka by Anonymous897234, sequence 8f55b91f-4d7e-4f5f-926e-4e7d758ef5b4, heading 331. OCR (PP-OCRv3) read: BEER | MUSIC | MIKE'S | SLICE | DETROIT",
+  "date": "2026-10-22",
+  "categories": [],
+  "camera_location": [
+    34.703701995,
+    135.521075008
+  ],
+  "found_by": "panoramax-ocr:Osaka",
+  "bytes": 1890453,
+  "width": 2160,
+  "height": 3840,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/5a/9e/4b/3d/9aa7-4a2a-bf40-97880c43ee22.jpg",
+  "derivative": "whole 2160x3840 HD picture as served by the Panoramax instance (byte-identical; the instance blurs faces and number plates), not cropped"
+}

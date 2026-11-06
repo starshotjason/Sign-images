@@ -1,0 +1,498 @@
+{
+ "k587519682": {
+  "accept": false,
+  "reason": "only an 'Entry' traffic sign; the boards behind it are illegible"
+ },
+ "c192726237": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ST. ANDREW'S CHURCH BUKOTO",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "St Andrew's Church Bukoto",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Large church noticeboard over a gate in Bukoto, Kampala, seen from below. Only the title is the target; the service-time table, 'Other Programs' list and the footer ('St Andrews Bukoto | We are Fisher's of Men | St Andrews Church Bukoto-COU') are secondary text. The sign uses a typographic apostrophe (’), transcribed as ASCII."
+ },
+ "c88793646": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Parliament Av.",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Parliament Avenue",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Yellow KCCA street-name sign with a left arrow on two posts, Kampala. The tiny KCCA logo, date '14/07/17' and serial 'SN 0026' in the corners are not part of the name. Lamp-post adverts in the background are distractors."
+ },
+ "c142887439": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Safe Journey",
+    "lang": "en"
+   },
+   {
+    "text": "ST. DANIEL COMBONI HOSPITAL",
+    "lang": "en"
+   },
+   {
+    "text": "KYAMUHUNGA",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "St. Daniel Comboni Hospital",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Hospital signpost at Kyamuhunga (Bushenyi District), seen from below; 'Safe Journey' is on a separate top panel. The long bilingual English/Runyankore 'SERVICES OFFERED (OBUHEREZA BWEITU)' list, the phone/email footer and a faded P.O. Box line are secondary text left out of lines. People walking behind are incidental."
+ },
+ "c156010209": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Welcome to",
+    "lang": "en"
+   },
+   {
+    "text": "Kabubbu Community Library",
+    "lang": "en"
+   },
+   {
+    "text": "Oyanirizibwa ku Tterekero",
+    "lang": "lg"
+   },
+   {
+    "text": "Ly'ebitabo ly'abatuuze b'e Kabubbu",
+    "lang": "lg"
+   }
+  ],
+  "expect": {
+   "query": "Kabubbu Community Library",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "English/Luganda name plate on a wall, Kabubbu, Wakiso District. The sign uses typographic apostrophes (’), transcribed as ASCII. The crest text ('KABUBBU COMMUNITY LIBRARY / EDUCATING THE GENERATION!') and the faint steel dedication plaque below are left out."
+ },
+ "c156013972": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "FORT PORTAL CITY",
+    "lang": "en"
+   },
+   {
+    "text": "PUBLIC LIBRARY",
+    "lang": "en"
+   },
+   {
+    "text": "&",
+    "lang": "und"
+   },
+   {
+    "text": "DIGITAL LEARNING CENTRE",
+    "lang": "en"
+   },
+   {
+    "text": "P.O.Box 29, Fort Portal City",
+    "lang": "en"
+   },
+   {
+    "text": "Supported by :",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Fort Portal City Public Library",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "White signpost with the Ugandan coat of arms at right, mid-distance (about 170 px wide). The UCC (Uganda Communications Commission) logo text is tiny and left out. The fascia lettering 'ORTAL CITY PUBLICLIBRARY' at left (cut off by the frame) and the pink 'BEAUTY SALON' in the background are distractors; car number plates are incidental."
+ },
+ "c169683862": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ITANDA FALLS EXPERIENCE",
+    "lang": "en"
+   },
+   {
+    "text": "Where the River Roars and the Heart Soars",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Itanda Falls",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Printed entrance board on a fence at Itanda Falls (Nile, near Jinja). The entrance-fee table ('Entree Fee', UGX/USD prices) and 'Welcome Feel at Home' are secondary text left out of lines."
+ },
+ "c38645400": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "UGANDA",
+    "lang": "en"
+   },
+   {
+    "text": "MUSEUM",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Uganda Museum",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Round hanging sign in a ring frame outside the Uganda Museum, Kampala, seen from below. The photo has a strong green/cyan colour filter; a banana leaf crosses just under 'MUSEUM' without hiding letters."
+ },
+ "c62524087": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn",
+   "Zyyy"
+  ],
+  "lines": [
+   {
+    "text": "MASINDI MUNICIPAL",
+    "lang": "en"
+   },
+   {
+    "text": "COUNCIL",
+    "lang": "en"
+   },
+   {
+    "text": "HEAD OFFICES",
+    "lang": "en"
+   },
+   {
+    "text": "P.O. Box 192 , MASINDI",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Masindi Municipal Council",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Weathered signpost at the council gate, Masindi; 'HEAD OFFICES' sits between painted arrow bars pointing right. Older painted-over lettering ghosts behind 'COUNCIL'. The seal text ('MASINDI MUNICIPAL COUNCIL') is small and left out. The sign spaces 'P.O. Box 192 , MASINDI' with a space before the comma."
+ },
+ "f1bb639b3-ebd1-45a8-ad18-11cae65813dd": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn",
+   "Zyyy"
+  ],
+  "lines": [
+   {
+    "text": "God Cares",
+    "lang": "en"
+   },
+   {
+    "text": "High",
+    "lang": "en"
+   },
+   {
+    "text": "School",
+    "lang": "en"
+   },
+   {
+    "text": "BOX No 26977",
+    "lang": "en"
+   },
+   {
+    "text": "TEL 041 269886",
+    "lang": "en"
+   },
+   {
+    "text": "MY HELP COMES FROM GOD",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "God Cares High School",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Painted school signboard on a brick wall, Kampala. The box number and phone sit at left beside 'School'; reading order is approximate. A cut-off banner at the left edge is a distractor."
+ },
+ "f5d4434e4-aa81-42fc-aacf-7faf4e7e0d08": {
+  "accept": false,
+  "reason": "generic product sign 'JAPAN MADE USED TYRES' (advert, no business name)"
+ },
+ "c181048182": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn",
+   "Zyyy"
+  ],
+  "lines": [
+   {
+    "text": "HIGH COURT OF UGANDA AT",
+    "lang": "en"
+   },
+   {
+    "text": "KABALE",
+    "lang": "en"
+   },
+   {
+    "text": "Email: kabale Highcourt@Judiciary.go.ug",
+    "lang": "en"
+   },
+   {
+    "text": "P.O.Box 89, KABALE",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "High Court Kabale",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Signpost with a left arrow and the Judiciary seal ('THE JUDICIARY / UGANDA', left out), Kabale, on a foggy morning. The email line has a space after 'kabale' as printed. A tiny 'STEPHIE'S SUIT POINT' sticker at lower left is a distractor."
+ },
+ "c185206379": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ROYAL WELCOME",
+    "lang": "en"
+   },
+   {
+    "text": "TO",
+    "lang": "en"
+   },
+   {
+    "text": "MUGABA PALACE",
+    "lang": "en"
+   },
+   {
+    "text": "HERITAGE SITE",
+    "lang": "en"
+   },
+   {
+    "text": "DEPARTMENT OF MUSEUMS & MONUMENTS",
+    "lang": "en"
+   },
+   {
+    "text": "MINISTRY OF TOURISM, WILDLIFE & ANTIQUITIES",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Mugaba Palace",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Green and yellow entrance board between two poles in front of the palace gate (Mbarara). The two ministry lines in the bottom strip are small."
+ },
+ "c63369207": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn",
+   "Zyyy"
+  ],
+  "lines": [
+   {
+    "text": "UGANDA VIRUS RESEARCH INSTITUTE",
+    "lang": "en"
+   },
+   {
+    "text": "P.O.BOX 49 ENTEBBE. PLOT 51/59 NAKIWOGO ROAD",
+    "lang": "en"
+   },
+   {
+    "text": "TEL:256(0)41320385/6 FAX.256(0)41320483",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Uganda Virus Research Institute",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Stack of white boards at the UVRI gate, Entebbe, at an angle. Target is the top panel; the lower panels (collaborative programmes: MRC/UVRI, Rakai Health Sciences Programme, IAVI, CDC Uganda, WHO/EPI) and the 'STOP SECURITY CHECK' plate are distractors. The phone line is partly cut at the left edge of the board ('TEL:' is clear). Alternative query: 'Nakiwogo Road' (street)."
+ },
+ "c100757705": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "AKIM MEDICALS LTD",
+    "lang": "en"
+   },
+   {
+    "text": "\"Your Health Partner\"",
+    "lang": "en"
+   },
+   {
+    "text": "College Road, Kididima - Kigumba",
+    "lang": "en"
+   },
+   {
+    "text": "kiryandongo District",
+    "lang": "en"
+   },
+   {
+    "text": "TEL: 0788 042006 / 0705 046521",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Akim Medicals",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Printed pharmacy fascia over a shop door in Kigumba, Kiryandongo District, in a very tall frame (sign occupies the upper third). Lowercase 'kiryandongo' as printed, and the bottom of that line is slightly clipped by the panel edge; the last phone digit touches the right edge. The man in the doorway is incidental; the stock photo of a doctor and child is part of the sign artwork."
+ },
+ "c11910353": {
+  "accept": false,
+  "reason": "facade dominated by mobile-operator branding (celtel 'Making life better'); the small tenant boards are secondary and partly cramped"
+ },
+ "c36491332": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "MINISTRY OF WATER, LANDS & ENVIRONMENT",
+    "lang": "en"
+   },
+   {
+    "text": "DIRECTORATE OF WATER DEVELOPMENT",
+    "lang": "en"
+   },
+   {
+    "text": "SOUTH WESTERN TOWNS WATER",
+    "lang": "en"
+   },
+   {
+    "text": "AND SANITATION PROJECT",
+    "lang": "en"
+   },
+   {
+    "text": "P.O.Box 100 KISORO",
+    "lang": "en"
+   },
+   {
+    "text": "Funded Under Austrain Development Co-operation",
+    "lang": "en"
+   },
+   {
+    "text": "KISORO TOWN WATER AND SANITATION OFFICE",
+    "lang": "en"
+   },
+   {
+    "text": "KITOWASO",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Kisoro Town Water and Sanitation Office",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Stencil-lettered office board on a metal frame in Kisoro (1999). 'Austrain' is the sign's own misspelling of 'Austrian'. The SWTWS logo at the right has tiny text ('AMAIZI MARUNGI', 'South Western Towns Water & Sanitation UGANDA - AUSTRIA') not transcribed beyond the header. Alternative query: 'KITOWASO'."
+ },
+ "c146316752": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ST. MARY'S",
+    "lang": "en"
+   },
+   {
+    "text": "VOCATIONAL",
+    "lang": "en"
+   },
+   {
+    "text": "SCHOOL KYAMUHUNGA",
+    "lang": "en"
+   },
+   {
+    "text": "P.O BOX 112 BUSHENYI",
+    "lang": "en"
+   },
+   {
+    "text": "LUX VESTRA LUCEAT",
+    "lang": "la"
+   }
+  ],
+  "expect": {
+   "query": "St. Mary's Vocational School Kyamuhunga",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Blue-bordered school direction board with a crest and a red right arrow, shot upward through barbed wire, Bushenyi District. A banana leaf overlaps the top-right corner (the apostrophe and S of MARY'S are shaded) and a barbed-wire strand crosses the motto line. The crest repeats the name and motto in tiny text."
+ }
+}

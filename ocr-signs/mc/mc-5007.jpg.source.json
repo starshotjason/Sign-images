@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.ign.fr/#focus=pic&pic=f0e4e950-320e-4608-ad06-a4979e599e86",
+  "original_url": "https://panoramax.ign.fr/api/pictures/f0e4e950-320e-4608-ad06-a4979e599e86/hd.jpg",
+  "license_as_published": "etalab-2.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "ign_majec_aix-en-provence",
+  "credit_as_published": "Panoramax, instance ign (https://panoramax.ign.fr)",
+  "title": "Panoramax picture f0e4e950-320e-4608-ad06-a4979e599e86 (Monaco, 2024-06-27)",
+  "description": "Street-level picture on Panoramax, taken 2024-06-27 near Monaco by ign_majec_aix-en-provence, sequence 7b179c5e-7f87-45b2-a1a3-f1d1e7048eec, heading 226. OCR (PP-OCRv3) read: JARDINEXOTIQUE | Gare Ferroviaire | BEAUSOLEIL | Direction | du Tourisme | IGN Majec Aix-en-Provence",
+  "date": "2024-06-27",
+  "categories": [],
+  "camera_location": [
+    43.740222625,
+    7.424303758
+  ],
+  "found_by": "panoramax-ocr:Monaco",
+  "bytes": 2194869,
+  "width": 4000,
+  "height": 3000,
+  "downloaded_url": "https://panoramax.ign.fr/api/pictures/f0e4e950-320e-4608-ad06-a4979e599e86/hd.jpg",
+  "derivative": "whole 4000x3000 HD picture as served by the Panoramax instance (byte-identical; the service blurs faces and number plates), not cropped"
+}

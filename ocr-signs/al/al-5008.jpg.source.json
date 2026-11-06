@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=635a66da-3b0a-41cf-813c-fffe55f9a22a",
+  "original_url": "https://panoramax.openstreetmap.fr/images/63/5a/66/da/3b0a-41cf-813c-fffe55f9a22a.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "IrdiIs",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture 635a66da-3b0a-41cf-813c-fffe55f9a22a (Tirana, 2026-02-13)",
+  "description": "Street-level picture taken 2026-02-13 near Tirana by IrdiIs, sequence 4b8132da-baa2-4db6-b7fe-c7d2b6e4af56, heading 204. OCR (PP-OCRv3) read: EYES | IFASTiFOOD | Albania",
+  "date": "2026-02-13",
+  "categories": [],
+  "camera_location": [
+    41.328555462,
+    19.816103792
+  ],
+  "found_by": "panoramax-ocr:Tirana",
+  "bytes": 275336,
+  "width": 1283,
+  "height": 962,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/63/5a/66/da/3b0a-41cf-813c-fffe55f9a22a.jpg",
+  "derivative": "crop 1934,83,3217,1045 of the 4032x1814 HD picture"
+}

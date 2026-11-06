@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.mapcomplete.org/#focus=pic&pic=9606aeaf-e2fa-4e65-a149-cd5553808a20",
+  "original_url": "https://panoramax.mapcomplete.org/permanent/96/06/ae/af/e2fa-4e65-a149-cd5553808a20.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "mapcomplete",
+  "credit_as_published": "Panoramax, instance mapcomplete (https://panoramax.mapcomplete.org)",
+  "title": "Panoramax picture 9606aeaf-e2fa-4e65-a149-cd5553808a20 (Kolkata, 2025-11-09)",
+  "description": "Street-level picture on Panoramax, taken 2025-11-09 near Kolkata by mapcomplete, sequence 14ea2dff-2d5f-4134-9a9c-0b7ff34d87aa, heading 238. OCR (PP-OCRv3) read: KRISHNA FASHIONS",
+  "date": "2025-11-09",
+  "categories": [],
+  "camera_location": [
+    22.5490489,
+    88.3535785
+  ],
+  "found_by": "panoramax-ocr:Kolkata",
+  "bytes": 2731206,
+  "width": 3280,
+  "height": 2464,
+  "downloaded_url": "https://panoramax.mapcomplete.org/permanent/96/06/ae/af/e2fa-4e65-a149-cd5553808a20.jpg",
+  "derivative": "whole 3280x2464 HD picture as served by the Panoramax instance (byte-identical; the service blurs faces and number plates), not cropped"
+}

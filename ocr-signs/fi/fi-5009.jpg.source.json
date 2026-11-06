@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/1577493/0/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTEub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAxOS83LzYvcHJvYy8xNTc3NDkzX2NkYzY3XzVkMjA5YmQ3ZDBiYWEuanBn",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "ConsEbt",
+  "credit_as_published": "KartaView user ConsEbt (user id 2569); © KartaView contributors",
+  "title": "KartaView photo 451420841, sequence 1577493 #0 (Helsinki, 2019-06-09)",
+  "description": "Street-level picture on KartaView, taken 2019-06-09 near Helsinki by ConsEbt, sequence 1577493, heading 0. OCR (PP-OCRv3) read: omenahotels.com | nudge",
+  "date": "2019-06-09",
+  "categories": [],
+  "camera_location": [
+    60.167981,
+    24.938633
+  ],
+  "found_by": "kartaview-ocr:Helsinki",
+  "bytes": 745777,
+  "width": 1980,
+  "height": 1485,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTEub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAxOS83LzYvcHJvYy8xNTc3NDkzX2NkYzY3XzVkMjA5YmQ3ZDBiYWEuanBn",
+  "derivative": "crop 1633,130,3613,1615 of the 3840x2160 full-size processed (blurred) picture"
+}

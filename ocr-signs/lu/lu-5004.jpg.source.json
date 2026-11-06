@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=6130f942-fcbe-4ed1-af78-1467da7e5e52",
+  "original_url": "https://panoramax.openstreetmap.fr/images/61/30/f9/42/fcbe-4ed1-af78-1467da7e5e52.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "pbraun",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture 6130f942-fcbe-4ed1-af78-1467da7e5e52 (Luxembourg, 2025-07-17)",
+  "description": "Street-level picture on Panoramax, taken 2025-07-17 near Luxembourg by pbraun, sequence 69dd1bae-0eaa-466f-8f47-58fa9d17f375, heading 253. OCR (PP-OCRv3) read: AVENUE DELA | GARE | AlAvenue | EPIC | EVENTS | Lycee | emile weber | LuxairYon",
+  "date": "2025-07-17",
+  "categories": [],
+  "camera_location": [
+    49.60456546,
+    6.13358249
+  ],
+  "found_by": "panoramax-ocr:Luxembourg",
+  "bytes": 485501,
+  "width": 1537,
+  "height": 1153,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/61/30/f9/42/fcbe-4ed1-af78-1467da7e5e52.jpg",
+  "derivative": "crop 1497,47,3034,1200 of the 3840x2160 HD picture"
+}

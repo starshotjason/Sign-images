@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/3354713/94/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMS8xLzcvcHJvYy8zMzU0NzEzX2U2ZGU4XzVmZjc2YWNhYzQ2ZWYuanBn",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "elopio",
+  "credit_as_published": "KartaView user elopio (user id 44825); © KartaView contributors",
+  "title": "KartaView photo 1216345369, sequence 3354713 #94 (San Jose CR, 2015-09-12)",
+  "description": "Street-level picture on KartaView, taken 2015-09-12 near San Jose CR by elopio, sequence 3354713, heading 81.48. OCR (PP-OCRv3) read: BCR | PYMES | VENDA MAS | BCR | CASINO | BCR",
+  "date": "2015-09-12",
+  "categories": [],
+  "camera_location": [
+    9.933574,
+    -84.081293
+  ],
+  "found_by": "kartaview-ocr:San Jose CR",
+  "bytes": 1089805,
+  "width": 3264,
+  "height": 2448,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMS8xLzcvcHJvYy8zMzU0NzEzX2U2ZGU4XzVmZjc2YWNhYzQ2ZWYuanBn",
+  "derivative": "whole 3264x2448 full-size processed (blurred) picture as served by the KartaView CDN (byte-identical; the service blurs faces and number plates), not cropped"
+}

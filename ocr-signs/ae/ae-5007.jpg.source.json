@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/6327769/440/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMi8xMS8xMC9wcm9jLzYzMjc3NjlfY2I4ZjRfNjM2ZDQwYzY1YTI1Ni5qcGc",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "dennis-g-d",
+  "credit_as_published": "KartaView user dennis-g-d (user id 47873); © KartaView contributors",
+  "title": "KartaView photo 1648640921, sequence 6327769 #440 (Sharjah, 2022-11-10)",
+  "description": "Street-level picture on KartaView, taken 2022-11-10 near Sharjah by dennis-g-d, sequence 6327769, heading 25.22. OCR (PP-OCRv3) read: [unread] GYM | ALBARASHI | MOBILEPHDNETRADING.N | YASMED | AL SAHAWAAL | FORRENTSHOP&OFFICES | BanishBlaldines | gulfate | T.0656333971stFloorwww.hairfi | EYAS | ROLLA O | [unread] YeKobr",
+  "date": "2022-11-10",
+  "categories": [],
+  "camera_location": [
+    25.358569,
+    55.388902
+  ],
+  "found_by": "kartaview-ocr:Sharjah",
+  "bytes": 1015493,
+  "width": 3264,
+  "height": 1836,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMi8xMS8xMC9wcm9jLzYzMjc3NjlfY2I4ZjRfNjM2ZDQwYzY1YTI1Ni5qcGc",
+  "derivative": "whole 3264x1836 full-size processed (blurred) picture as served by the KartaView CDN (byte-identical; the service blurs faces and number plates), not cropped"
+}

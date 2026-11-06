@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/1161615/256/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlNy5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE4LzQvNi9wcm9jLzExNjE2MTVfZTRiZjNfMS5qcGc",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "ConsEbt",
+  "credit_as_published": "KartaView user ConsEbt (user id 2569); © KartaView contributors",
+  "title": "KartaView photo 223403601, sequence 1161615 #256 (Victoria, 2018-04-03)",
+  "description": "Street-level picture on KartaView, taken 2018-04-03 near Victoria by ConsEbt, sequence 1161615, heading 335.53. OCR (PP-OCRv3) read: 24/7ATM | Dynamic.Diversified.Differentiated. | ALSALAMBANK",
+  "date": "2018-04-03",
+  "categories": [],
+  "camera_location": [
+    -4.624529,
+    55.453107
+  ],
+  "found_by": "kartaview-ocr:Victoria",
+  "bytes": 722363,
+  "width": 3840,
+  "height": 2160,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlNy5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE4LzQvNi9wcm9jLzExNjE2MTVfZTRiZjNfMS5qcGc",
+  "derivative": "whole 3840x2160 full-size processed (blurred) picture as served by the KartaView CDN (byte-identical; the service blurs faces and number plates), not cropped"
+}

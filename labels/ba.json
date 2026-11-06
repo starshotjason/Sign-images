@@ -1,0 +1,337 @@
+{
+ "p52b5f03976": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "HOTEL HOLIDAY",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Hotel Holiday",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Rooftop sign (four stars above) of the yellow Hotel Holiday, Sarajevo; a second 'HOTEL' rooftop sign and a smaller 'HOTEL HOLIDAY' on the tower are visible. Distractors: graffiti 'ETO ME NA KAFU ... ČEKAM TRAMVAJ' on the tram shelter, 'WERKSTATT' poster, 'Centrotrans' bus."
+ },
+ "p66d1a6efd6": {
+  "accept": false,
+  "reason": "near-duplicate of p52b5f03976 (same Hotel Holiday view from the same tram stop)"
+ },
+ "pa353a5fd8d": {
+  "accept": true,
+  "reason": "",
+  "kind": "transit",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ŽELJEZNIČKA STANICA",
+    "lang": "bs"
+   }
+  ],
+  "expect": {
+   "query": "Željeznička stanica",
+   "type": "stop"
+  },
+  "difficulty": "easy",
+  "notes": "Steel letters over the entrance of Sarajevo railway station; carons on Ž and Č are separate pieces above the letters. 'ULAZ' painted on the steps is a distractor."
+ },
+ "p0cfc85655f": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ASTRA",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "Astra",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Vertical blade sign, letters stacked, on a pedestrian street in central Sarajevo; a street lamp overlaps the first 'A'. A separate panel above shows only an 'L' (rest cut off by the top frame); it is unclear whether it belongs to the same name, so only ASTRA is labelled. Distractors: 'CITY LOUNGE' / Carlsberg awnings, Sparkasse logo, museum banner."
+ },
+ "p63fd489c9b": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ULICA",
+    "lang": "bs"
+   },
+   {
+    "text": "ZELENIH",
+    "lang": "bs"
+   },
+   {
+    "text": "BERETKI",
+    "lang": "bs"
+   }
+  ],
+  "expect": {
+   "query": "Zelenih beretki",
+   "type": "street"
+  },
+  "difficulty": "hard",
+  "notes": "Small green street-name plate on the corner of the Museum Sarajevo 1878-1918 building. Next to it a second plate reads 'ULICA / OBALA KULINA / BANA' (the corner). The large 'MUZEJ MUSEUM' lettering and the 'Muzej Sarajeva' banner are the dominant text and serve as distractors / alternative landmark target."
+ },
+ "p4b4d227fd9": {
+  "accept": false,
+  "reason": "historical commemorative inscription (1914 assassination) with no place or business name to search"
+ },
+ "p53941bb67a": {
+  "accept": false,
+  "reason": "station hall: only 'PUTNIČKA BLAGAJNA / TICKET OFFICE' and a Coca-Cola mural; no station or place name"
+ },
+ "p2c95a109bb": {
+  "accept": false,
+  "reason": "operator logo 'ŽFBH' on the side of a train, not a place sign; person in foreground"
+ },
+ "p29ceff5913": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "HISTORIJSKI MUZEJ",
+    "lang": "bs"
+   },
+   {
+    "text": "BOSNE I HERCEGOVINE",
+    "lang": "bs"
+   }
+  ],
+  "expect": {
+   "query": "Historijski muzej Bosne i Hercegovine",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Museum name with logo at the left end of a long black banner on the History Museum of Bosnia and Herzegovina, Sarajevo, seen from below at an angle. The rest of the banner ('APRIL 1992.', 'POSJETITE NAŠU STALNU POSTAVKU \"OPKOLJENO SARAJEVO\"...', 'SARAJEVO 1992-2012', 'DESTRUKCIJA / DESTRUCTION') is exhibition advertising; the SPARKASSE tower sign at right is a distractor."
+ },
+ "k220152115": {
+  "accept": false,
+  "reason": "hospital health-campaign billboard; advertising copy"
+ },
+ "c3766644": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Cyrl"
+  ],
+  "lines": [
+   {
+    "text": "Сарајево",
+    "lang": "sr",
+    "latin": "Sarajevo"
+   },
+   {
+    "text": "Србиње",
+    "lang": "sr",
+    "latin": "Srbinje (Foča)"
+   },
+   {
+    "text": "С.Горажде",
+    "lang": "sr",
+    "latin": "S.Goražde (Srpsko Goražde, i.e. Ustiprača)"
+   }
+  ],
+  "expect": {
+   "query": "Сарајево",
+   "type": "place"
+  },
+  "difficulty": "easy",
+  "notes": "Yellow temporary direction sign at a junction in Ustiprača (Republika Srpska), all Cyrillic. Srbinje and Srpsko Goražde are wartime/RS names for Foča and Ustiprača, which a map may list only under the official names; Sarajevo is the safe query."
+ },
+ "c89597844": {
+  "accept": true,
+  "reason": "",
+  "kind": "address plate",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "1",
+    "lang": "und"
+   },
+   {
+    "text": "ULICA",
+    "lang": "bs"
+   },
+   {
+    "text": "TUNELI",
+    "lang": "bs"
+   },
+   {
+    "text": "TUNELI",
+    "lang": "bs"
+   }
+  ],
+  "expect": {
+   "query": "Tuneli",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Green Sarajevo house-number plate '1' above a large 'ULICA / TUNELI' street plate, with a smaller 'TUNELI' strip below; floodlight at top left."
+ },
+ "c152378452": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Caritas Mostar",
+    "lang": "hr"
+   },
+   {
+    "text": "CARITASOVE USTANOVE",
+    "lang": "hr"
+   },
+   {
+    "text": "ZA OSOBE S POSEBNIM POTREBAMA",
+    "lang": "hr"
+   },
+   {
+    "text": "NAZARET",
+    "lang": "hr"
+   },
+   {
+    "text": "SVETA OBITELJ",
+    "lang": "hr"
+   }
+  ],
+  "expect": {
+   "query": "Caritas Mostar",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Night shot of a framed direction sign with an arrow on a pavement in Mostar, pointing to the Caritas institutions Nazaret and Sveta Obitelj. The two small subtitle lines are small but readable. Distant street signs are distractors."
+ },
+ "c11380360": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "TRG",
+    "lang": "bs"
+   },
+   {
+    "text": "BOSNE I HERCEGOVINE",
+    "lang": "bs"
+   }
+  ],
+  "expect": {
+   "query": "Trg Bosne i Hercegovine",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Green illuminated square-name box on a pole, Sarajevo, slightly angled from below. Distractors: orange '500 m' panel below and 'let ANS DRIVE your project.' construction hoarding."
+ },
+ "c200933432": {
+  "accept": true,
+  "reason": "",
+  "kind": "address plate",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "1",
+    "lang": "und"
+   },
+   {
+    "text": "ULICA",
+    "lang": "bs"
+   },
+   {
+    "text": "Medreska",
+    "lang": "bs"
+   }
+  ],
+  "expect": {
+   "query": "Medreska",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Dark-blue reflective Mostar house-number plate on a stone gatepost at the Derviš-paša Bajezidagić mosque, Podhum; city crest at lower right."
+ },
+ "c44190007": {
+  "accept": false,
+  "reason": "only generic trade signs ('OTKUP ZLATA' gold buying, 'KROJAČ' tailor) in a Baščaršija lane; the one named sign (OPTIKA Durak board) is small and secondary"
+ },
+ "c202550249": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ags",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "AGS",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "AGS petrol station totem and canopy in Pregrađe (Ljubuški), seen from across the road; the stylised lowercase 'ags' logo is repeated on the canopy. Fuel price rows (98/95/D/LPG/AD Blue), 'quick / coffee time / zoom' and '6-24 h' on the totem are distractors."
+ },
+ "c76957865": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Ulica",
+    "lang": "bs"
+   },
+   {
+    "text": "JALSKA",
+    "lang": "bs"
+   },
+   {
+    "text": "1",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "Jalska",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Blue Tuzla street plate with yellow serif letters and city crest (small 'TUZLA ... 950' text in the crest is a distractor); house number 1 on a separate shield plate below."
+ }
+}

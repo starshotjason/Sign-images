@@ -1,0 +1,503 @@
+{
+ "f2eb9cac2-d560-4b97-82df-090bff4efe90": {
+  "accept": false,
+  "reason": "close-up of rice cakes, no sign"
+ },
+ "f44cf0724-8340-4d25-a366-97a6ad89c23c": {
+  "accept": false,
+  "reason": "landscape; only a tiny warning notice (no smoking/drugs), not a place name"
+ },
+ "f4bdce7d8-ba07-4d25-ad42-5b4a56220fd2": {
+  "accept": false,
+  "reason": "toilet / no-smoking / anti-trafficking notices, no place name"
+ },
+ "f50d37ea4-9fc9-4e09-97cb-fed5fc9ea406": {
+  "accept": false,
+  "reason": "printed legal warning notice, not a place sign"
+ },
+ "f85a3e160-9f76-4efd-831b-6fa64b6e667d": {
+  "accept": false,
+  "reason": "subject is a hammer-and-sickle flag; the only clear sign is a lottery-brand panel, not a named place"
+ },
+ "f86435938-ce4e-4463-a3e5-eadc62bbebfd": {
+  "accept": false,
+  "reason": "wrong country (Nongkhai customs, Thailand) and a narcotics warning notice"
+ },
+ "f87416391-9314-40ee-a34b-b69776ce060f": {
+  "accept": false,
+  "reason": "roadside shrine and stones, no sign text"
+ },
+ "fa2203c69-d4fa-4f6a-81f6-40422727e0eb": {
+  "accept": false,
+  "reason": "traffic pictograms only (deer crossing, no horn)"
+ },
+ "fb3af8545-f308-4919-9b28-5439b73f6375": {
+  "accept": false,
+  "reason": "bear enclosure; info board at edge is cut off and illegible"
+ },
+ "fc7421468-a2d3-4841-9bb2-dfe2b00a80ab": {
+  "accept": false,
+  "reason": "wrong country (library building tagged dcist, not Laos); generic 'Library' tag only"
+ },
+ "fcb0076eb-fae1-4359-baca-0749cb58fdec": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Laoo",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ຫໍພິພິທະພັນແຫ່ງຊາດຫລວງພະບາງ",
+    "lang": "lo",
+    "latin": "Ho Phiphithaphan Haeng Xat Louang Phabang (Luang Prabang National Museum)"
+   },
+   {
+    "text": "LUANGPRABANG NATIONAL MUSEUM",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Luang Prabang National Museum",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Small red-and-gold name board on two red posts in front of the white wall of the former Royal Palace, Luang Prabang; temple (Haw Pha Bang) behind. Board is small in the 1024 px frame. 'LUANGPRABANG' is written as one word."
+ },
+ "fdfebb7ac-8153-46aa-8bee-ce6ae1fd1b1f": {
+  "accept": false,
+  "reason": "photo of a bear, no sign"
+ },
+ "fe6355515-09cd-4bfb-9ec6-22bbef34a9d1": {
+  "accept": false,
+  "reason": "massage price list board (menu), shop not named"
+ },
+ "ff4747c0d-e196-4fc6-a169-2e40c3aaf20f": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Laoo",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ຮ້ານຕັດຜົມ",
+    "lang": "lo",
+    "latin": "Han tat phom (barber shop)"
+   },
+   {
+    "text": "BARBERSHOP",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Barbershop",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Target is the hand-painted yellow board hanging at upper right, Vang Vieng. The marks above ຮ and ຕ are partly hidden by the corrugated roof edge; the base letters are clear and the painted wall sign below reads ຕັດຜົມ / BARBERSHOP with a left arrow. Phone line 'Tel : 020 42448?4' not transcribed (one digit unclear). Generic name: no shop name given."
+ },
+ "c129977684": {
+  "accept": true,
+  "kind": "landmark",
+  "scripts": [
+   "Laoo",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ປະເທດລາວ",
+    "lang": "lo",
+    "latin": "Pathet Lao (Laos)"
+   },
+   {
+    "text": "WEL",
+    "lang": "en"
+   },
+   {
+    "text": "COME",
+    "lang": "en"
+   },
+   {
+    "text": "TO LAOS",
+    "lang": "en"
+   },
+   {
+    "text": "DONSAO",
+    "lang": "lo"
+   },
+   {
+    "text": "ISLAND",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Don Sao",
+   "type": "place"
+  },
+  "difficulty": "medium",
+  "notes": "Hand-painted yellow welcome board with the Lao flag on Don Sao island (Golden Triangle), shot from below at an angle. Reading order is the painted layout: WEL / COME / TO LAOS on the left and bottom, DONSAO / ISLAND to the right of the flag. The sign spells the island as one word 'DONSAO'. Distractors: 'ເບຍລາວ Beerlao' shop sign at right, posters below.",
+  "reason": ""
+ },
+ "c15086040": {
+  "accept": true,
+  "kind": "street sign",
+  "scripts": [
+   "Laoo",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ຖະໜົນ ຟລັ່ງຊົວງິນ",
+    "lang": "lo",
+    "latin": "Thanon Fangsua Ngin (François Ngin Road)"
+   },
+   {
+    "text": "RUE FRANÇOIS NGIN",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "François Ngin",
+   "type": "street"
+  },
+  "difficulty": "medium",
+  "notes": "Green bilingual street-name sign with gold frame on an ornamental pole, Vientiane; the sign is fairly small in the frame. ໜ is encoded as the single letter U+0EDC. Distractors: 'Sabaidee Coffee' (ສະບາຍດີກາເຟ) hanging sign and fascia, a no-entry sign, a partly hidden 'LAO ...' board.",
+  "reason": ""
+ },
+ "c57403979": {
+  "accept": true,
+  "kind": "business sign",
+  "scripts": [
+   "Latn",
+   "Laoo"
+  ],
+  "lines": [
+   {
+    "text": "ຮ້ານອາຫານ",
+    "lang": "lo",
+    "latin": "han ahan (restaurant)"
+   },
+   {
+    "text": "Mixai",
+    "lang": "lo"
+   },
+   {
+    "text": "Aria",
+    "lang": "it"
+   },
+   {
+    "text": "Italian Culinary Arts",
+    "lang": "en"
+   },
+   {
+    "text": "Restaurant",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Aria",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Hanging lightbox, rue François, Ban Mixai, Vientiane; cables cross behind it. The Lao top line continues with the restaurant name (ອາເ?່ຍ) after ຮ້ານອາຫານ; its consonant is drawn in a Thai-style font where ຮ and ຣ look alike, so the name word is not transcribed. Address/phone lines not labelled: '8 rue francois, ban mixai, vientiane lao pdr', 'phone (856) 21 222 589 - 030 570 0831', 'ariamixairestaurant@gmail.com - www.ariaorg.com'. 'acqua' letters on the building at left are a distractor.",
+  "reason": ""
+ },
+ "c57405651": {
+  "accept": true,
+  "kind": "business sign",
+  "scripts": [
+   "Laoo",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ສີມອນຫັດຖະກຳປໍສາ",
+    "lang": "lo",
+    "latin": "Simon hatthakam po sa (Simone mulberry-paper handicraft)"
+   },
+   {
+    "text": "Simone Saa Handicraft",
+    "lang": "en"
+   },
+   {
+    "text": "TEL : 071 213 044",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "Simone Saa Handicraft",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Carved gold-on-black shop board under a small shingle roof, Luang Prabang; medium distance with foliage in front of the lower post. The TEL line is small and slightly soft. A parked tuk-tuk at right is incidental.",
+  "reason": ""
+ },
+ "c79803739": {
+  "accept": true,
+  "kind": "landmark",
+  "scripts": [
+   "Latn",
+   "Laoo"
+  ],
+  "lines": [
+   {
+    "text": "ECOLE PRIMAIRE BANE DONE KHONE",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "Done Khone",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Hand-painted gate board of the primary school on Don Khon island. Only the French line is labelled: the large Lao line above (school name, ending in ...ບ້ານຄອນ / Ban Khon) and the small Lao address line (village, district, Champasak province) are stylised handwriting that cannot be transcribed reliably. Round emblem at left, school badge at right.",
+  "reason": ""
+ },
+ "c88930135": {
+  "accept": true,
+  "kind": "landmark",
+  "scripts": [
+   "Laoo",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ບ້ານ.ດອນຄູນ .ມ.ງອຍ.",
+    "lang": "lo",
+    "latin": "Ban Don Khun, M[ueang] Ngoy (Don Khoun village, Ngoy district)"
+   },
+   {
+    "text": ".B. DON .KHOUN.",
+    "lang": "lo"
+   },
+   {
+    "text": ".MG. NGOY.",
+    "lang": "lo"
+   }
+  ],
+  "expect": {
+   "query": "Don Khoun",
+   "type": "place"
+  },
+  "difficulty": "medium",
+  "notes": "Hand-painted blue village entrance board near Nong Khiaw, shot from below; painted dots separate abbreviations (B. = Ban, MG. = Mueang). Small red text under the Lao line is unreadable. The lower board (project notice: pond 150 m x 150 m, by the TABI project) is a distractor and not labelled.",
+  "reason": ""
+ },
+ "c88971285": {
+  "accept": true,
+  "kind": "landmark",
+  "scripts": [
+   "Laoo",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ວັດສົບສິກຂາຣ",
+    "lang": "lo",
+    "latin": "Vat Sop Sikkhara[m] (partial)"
+   },
+   {
+    "text": "WATSOPSICKARAM",
+    "lang": "lo"
+   }
+  ],
+  "expect": {
+   "query": "Wat Sop Sickaram",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Red-and-gold temple name board in Luang Prabang, partly behind tree branches. A branch hides the end of the Lao line: after ຣ only the top prongs of the final consonant (presumably ...າມ, 'aram') are visible, so the Lao line is transcribed only up to ຣ. The Latin line is written as one word.",
+  "reason": ""
+ },
+ "c88974416": {
+  "accept": true,
+  "kind": "landmark",
+  "scripts": [
+   "Laoo",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ໂຮງຮຽນ ປະຖົມສົມບູນ",
+    "lang": "lo",
+    "latin": "Honghian Pathom Sombun (complete primary school)"
+   },
+   {
+    "text": "ຫລວງພະບາງ",
+    "lang": "lo",
+    "latin": "Luang Phabang"
+   },
+   {
+    "text": "ÉCOlE PRIMAIRE LOUANG-PRABANG",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "École Primaire Louang-Prabang",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Blue school board with Lao flag and Ministry of Education badge, Luang Prabang. The painted French uses a lower-case l in 'ÉCOlE' (transcribed as painted). ຫລວງ is written with separate ຫ+ລ (not ຫຼ).",
+  "reason": ""
+ },
+ "f1f711d0d-299d-4cbd-ac0a-8ae0bcc36641": {
+  "accept": true,
+  "kind": "business sign",
+  "scripts": [
+   "Hani"
+  ],
+  "lines": [
+   {
+    "text": "久玖酒家",
+    "lang": "zh",
+    "latin": "Jiujiu Jiujia (Jiujiu Restaurant)"
+   }
+  ],
+  "expect": {
+   "query": "久玖酒家",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Rainbow fascia of a Chinese restaurant in Vientiane. The large Lao line (restaurant + name 'ອາຫານ...ຈິວ') is cut at the top frame edge, so its first word and tone marks are incomplete and it is not transcribed. Phone line 'Tel:021-213059 020-6235691' (last digits partly cut) not labelled. Window lettering in Chinese (欢迎光临, 宴席接待, 散餐服务, dish names) and a Beerlao stand are distractors. Parked motorbikes incidental.",
+  "reason": ""
+ },
+ "f32e910f9-d60c-49d1-988b-05af516f27a9": {
+  "accept": true,
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "TEX MEX ALEXIA",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Tex Mex Alexia",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Yellow awning valance of a restaurant in Vientiane, in a busy street scene. Distractors: neighbouring awning '...ETING POINT OF VIENTIANE' (cut), '...EER BAR' awning at right, Tiger beer pole sign with Lao text, souvenir stall. Tuk-tuk plates are tiny and incidental; people incidental.",
+  "reason": ""
+ },
+ "fab19b727-4286-4f21-9dd5-ae78a1008c3e": {
+  "accept": true,
+  "kind": "business sign",
+  "scripts": [
+   "Laoo",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ເຮືອນພັກ",
+    "lang": "lo",
+    "latin": "huean phak (guesthouse)"
+   },
+   {
+    "text": "MAO PHASOK GUESTHOUSE",
+    "lang": "en"
+   },
+   {
+    "text": "Tel 071 212513 0205570232.5873009",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "Mao Phasok Guesthouse",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Carved hanging board, Luang Prabang, seen from below. The Lao line continues with the name (two words, 'ມ…ວ ພ…ກ'), but the stacked vowel/tone marks on them cannot be read with confidence, so only the first word ເຮືອນພັກ is transcribed.",
+  "reason": ""
+ },
+ "f418a7249-ce27-4bd9-83ae-e06fc2e986c3": {
+  "accept": false,
+  "reason": "handwritten information notice (storage room for broken Buddha statues), not a place-name sign"
+ },
+ "f66aec480-58cc-4ba0-b0e8-3dacb7ed8f5d": {
+  "accept": false,
+  "reason": "pure traffic pictogram (crossroads warning), no place text"
+ },
+ "fdc3f8fdd-11ac-4cfd-a7cc-e66b1fa41226": {
+  "accept": false,
+  "reason": "historical information plaque (Patuxay), long body text, not a name sign"
+ },
+ "ff4e477e7-82ab-4b01-8ad1-13287b7248e9": {
+  "accept": true,
+  "kind": "business sign",
+  "scripts": [
+   "Laoo",
+   "Hani",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ຮ້ານ ໝີ່ ອາຕູ້",
+    "lang": "lo",
+    "latin": "Han Mi A Tu (A Du noodle shop)"
+   },
+   {
+    "text": "阿杜面馆",
+    "lang": "zh",
+    "latin": "A Du Mianguan (A Du noodle restaurant)"
+   },
+   {
+    "text": "A DU noodles restaurant",
+    "lang": "en"
+   },
+   {
+    "text": "TEL:020-6105008",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "A Du noodles restaurant",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Large trilingual fascia in Vientiane, shot from below; overhead cables cross the sign. 'A DU' is in decorative script capitals. ໝ is the single letter U+0EDD. The banner below (opening notice with dish photos, Lao/Chinese captions, 'Tel: 020-6..5008' partly hidden) and phone-shop signs (M-PHONE, tigo) are distractors. One man in the doorway is incidental.",
+  "reason": ""
+ },
+ "f7aeb39b3-5a14-42bb-aa6e-3cd33a7c4828": {
+  "accept": true,
+  "kind": "hard",
+  "scripts": [
+   "Laoo",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ເມືອງຈັນທະບູລີ",
+    "lang": "lo",
+    "latin": "Mueang Chanthabuli (Chanthabouly District)"
+   },
+   {
+    "text": "CHANTHABOULY DISTRICT",
+    "lang": "en"
+   },
+   {
+    "text": "SIHOM THE SANITARY MODEL VILLAGE",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Sihom",
+   "type": "place"
+  },
+  "difficulty": "hard",
+  "notes": "Small blue village board on a pylon across the street, Vientiane (low-resolution, 1280 px source). The third line (Lao village name 'ບ.ສີຫອມ ...' plus 'model sanitary village' wording) is too blurred for its vowel and tone marks to be transcribed reliably, so it is left out. Distractors: pedestrian-crossing and '30' speed signs, 'ETL' sign, Lao 'ຂາຍ...' arrow sign on the pylon, furniture shop, pickup with plate (small, incidental).",
+  "reason": ""
+ },
+ "f5fd54444-b5de-4663-be18-c669b0089103": {
+  "accept": false,
+  "reason": "spray-painted roadside warning notice, names no place"
+ },
+ "fa9ec0f84-067f-47d3-9479-809839369f4d": {
+  "accept": false,
+  "reason": "roadworks warning sign ('Work ahead'); the place-name sign at right is cut off"
+ }
+}

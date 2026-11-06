@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.multimodall.com/#focus=pic&pic=9b63c56f-7c0f-4012-9cd5-6b33556f4793",
+  "original_url": "https://panoramax.multimodall.com/api/pictures/9b63c56f-7c0f-4012-9cd5-6b33556f4793/hd.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "km2bp",
+  "credit_as_published": "Panoramax, instance multimodall (https://panoramax.multimodall.com)",
+  "title": "Panoramax picture 9b63c56f-7c0f-4012-9cd5-6b33556f4793 (Oslo, 2020-05-17)",
+  "description": "Street-level picture on Panoramax, taken 2020-05-17 near Oslo by km2bp, sequence 142e814c-aad4-499a-902e-3cb2ab3f4788, heading 84. OCR (PP-OCRv3) read: KATEDRALSKOLE | KLNNSKAP | SIDEN1153 | Varemottak",
+  "date": "2020-05-17",
+  "categories": [],
+  "camera_location": [
+    59.921649,
+    10.741478
+  ],
+  "found_by": "panoramax-ocr:Oslo",
+  "bytes": 2711294,
+  "width": 3178,
+  "height": 2384,
+  "downloaded_url": "https://panoramax.multimodall.com/api/pictures/9b63c56f-7c0f-4012-9cd5-6b33556f4793/hd.jpg",
+  "derivative": "crop 1000,476,4178,2860 of the 4344x5792 HD picture"
+}

@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.mapcomplete.org/#focus=pic&pic=55b5f51d-0cfc-4da3-b05a-fdd76fdaa99a",
+  "original_url": "https://panoramax.mapcomplete.org/permanent/55/b5/f5/1d/0cfc-4da3-b05a-fdd76fdaa99a.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "mapcomplete",
+  "credit_as_published": "Panoramax, instance mapcomplete (https://panoramax.mapcomplete.org)",
+  "title": "Panoramax picture 55b5f51d-0cfc-4da3-b05a-fdd76fdaa99a (Cape Town, 2026-02-03)",
+  "description": "Street-level picture on Panoramax, taken 2026-02-03 near Cape Town by mapcomplete, sequence 14ea2dff-2d5f-4134-9a9c-0b7ff34d87aa, heading 346. OCR (PP-OCRv3) read: PARK",
+  "date": "2026-02-03",
+  "categories": [],
+  "camera_location": [
+    -33.9131381,
+    18.4215643
+  ],
+  "found_by": "panoramax-ocr:Cape Town",
+  "bytes": 233755,
+  "width": 1200,
+  "height": 900,
+  "downloaded_url": "https://panoramax.mapcomplete.org/permanent/55/b5/f5/1d/0cfc-4da3-b05a-fdd76fdaa99a.jpg",
+  "derivative": "crop 0,1279,1200,2179 of the 3000x4000 HD picture"
+}

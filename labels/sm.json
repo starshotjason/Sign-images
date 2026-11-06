@@ -1,0 +1,86 @@
+{
+ "k1660673177": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "albertini",
+    "lang": "it"
+   }
+  ],
+  "expect": {
+   "query": "Albertini",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Lower-case shop name printed on the front valance of a cream awning; repeated in gold on the window panel below. Brown pedestrian direction sign at right ('Parcheggio Bus A', 'Parcheggio Bus B', 'Parcheggi 9/10') is a distractor. Taken through a slightly misted windscreen; trees partly block the view."
+ },
+ "k1660673337": {
+  "accept": false,
+  "reason": "only a distant generic 'HOTEL' rooftop sign with no name"
+ },
+ "k1660675113": {
+  "accept": false,
+  "reason": "roundabout warning sign '150 m'; the blue direction sign behind is blurred and unreadable"
+ },
+ "p1e2db9a19c": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "MARLÙ",
+    "lang": "it"
+   },
+   {
+    "text": "SPACE",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Marlù",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Jewellery shop name on the white panel at the end of a cream awning, with a grave accent on the U; the window display repeats it small. The script-font awning 'Daniela Battistini' next door is a distractor. Wide-angle lens; pedestrians incidental and face-blurred."
+ },
+ "p6556fc85f8": {
+  "accept": false,
+  "reason": "parking-restriction traffic sign ('su ambo i lati'); no place name"
+ },
+ "p7c325d4857": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "MUSEO DEI VAMPIRI",
+    "lang": "it"
+   }
+  ],
+  "expect": {
+   "query": "Museo dei Vampiri",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "White panel set in a black band on the stone wall; the M of VAMPIRI is red with fangs and 'DEI' is smaller. The black fascia above reads 'MUSEO VAMPIRI E LICANTROPI' but is cut at the right edge; '...E TITANO' lettering and an 'OSTERIA' poster on the left building and the house number 25 are distractors."
+ },
+ "p7f707de229": {
+  "accept": false,
+  "reason": "no-stopping traffic sign with hours only; no place name"
+ },
+ "pe639b8fca2": {
+  "accept": false,
+  "reason": "only sign 'CENTRO BENESSERE M...' is cut off by the frame edge; name incomplete"
+ }
+}

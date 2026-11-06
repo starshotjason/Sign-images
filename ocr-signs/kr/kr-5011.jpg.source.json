@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=69e63a13-ba60-43e4-8d6a-e39bcc3a046a",
+  "original_url": "https://panoramax.openstreetmap.fr/images/69/e6/3a/13/ba60-43e4-8d6a-e39bcc3a046a.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "Tehdastehdas",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture 69e63a13-ba60-43e4-8d6a-e39bcc3a046a (Seoul, 2019-09-05)",
+  "description": "Street-level picture taken 2019-09-05 near Seoul by Tehdastehdas, sequence 35f498ab-c175-4e60-9fc5-5ef695913db7, heading None. OCR (PP-OCRv3) read: TEA | [unread] 含e的eGALLERY",
+  "date": "2019-09-05",
+  "categories": [],
+  "camera_location": [
+    37.577730694,
+    126.990231556
+  ],
+  "found_by": "panoramax-ocr:Seoul",
+  "bytes": 191071,
+  "width": 1200,
+  "height": 900,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/69/e6/3a/13/ba60-43e4-8d6a-e39bcc3a046a.jpg",
+  "derivative": "crop 1065,342,2265,1242 of the 4160x3120 HD picture"
+}

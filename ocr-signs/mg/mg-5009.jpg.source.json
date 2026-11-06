@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=bcaef307-c2c5-4b51-8ad8-0ea57b5b1097",
+  "original_url": "https://panoramax.openstreetmap.fr/images/bc/ae/f3/07/c2c5-4b51-8ad8-0ea57b5b1097.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "Eric S",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture bcaef307-c2c5-4b51-8ad8-0ea57b5b1097 (Antananarivo, 2009-08-13)",
+  "description": "Street-level picture taken 2009-08-13 near Antananarivo by Eric S, sequence b46f18b1-98bf-409b-be98-a812c0ffcb5c, heading 169. OCR (PP-OCRv3) read: HAUTE VILLE | ISORAKA-ISOTRY | AMBOHITSOROHITRA",
+  "date": "2009-08-13",
+  "categories": [],
+  "camera_location": [
+    -18.90952025,
+    47.52458625
+  ],
+  "found_by": "panoramax-ocr:Antananarivo",
+  "bytes": 162529,
+  "width": 1280,
+  "height": 960,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/bc/ae/f3/07/c2c5-4b51-8ad8-0ea57b5b1097.jpg",
+  "derivative": "whole 1280x960 HD picture as served by the Panoramax instance (byte-identical; the instance blurs faces and number plates), not cropped"
+}

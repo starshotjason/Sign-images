@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=7699cade-7430-40e9-9aba-134f007f8c4a",
+  "original_url": "https://panoramax.openstreetmap.fr/images/76/99/ca/de/7430-40e9-9aba-134f007f8c4a.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "Eric S",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture 7699cade-7430-40e9-9aba-134f007f8c4a (Antananarivo, 2009-09-01)",
+  "description": "Street-level picture taken 2009-09-01 near Antananarivo by Eric S, sequence 5a9f4467-6869-44db-abf9-c24be477e63d, heading 148. OCR (PP-OCRv3) read: COMPTABILITE GENERALE ET INFORMATISEE | MARKETING ET GEST | -FRANCAIS ETA | TECHHIQUL | COMMERCE INTERNATIONAL | DACTYLOGRAPHIE SUR ORDINATEUR | GESTION MANAGEMENT INFORMATISEE | Instilutd'EnselgnemesteldeFermilien Prolessionnclle Agree ACEEM | Q：2266950 | MANDIMBYBOUTIOUE",
+  "date": "2009-09-01",
+  "categories": [],
+  "camera_location": [
+    -18.90666127,
+    47.52555782
+  ],
+  "found_by": "panoramax-ocr:Antananarivo",
+  "bytes": 235036,
+  "width": 1280,
+  "height": 960,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/76/99/ca/de/7430-40e9-9aba-134f007f8c4a.jpg",
+  "derivative": "whole 1280x960 HD picture as served by the Panoramax instance (byte-identical; the instance blurs faces and number plates), not cropped"
+}

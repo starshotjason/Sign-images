@@ -1,0 +1,50 @@
+{
+ "c115303845": {
+  "accept": false,
+  "reason": "19th-century aquatint engraving (artwork scan), not a photograph"
+ },
+ "c133074559": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "WELCOME TO SOUFRIERE",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Soufriere",
+   "type": "place"
+  },
+  "difficulty": "medium",
+  "notes": "White letters painted along a green sea wall, photographed from a boat in Soufriere Bay; letters are small relative to the frame. Written without the accent (Soufrière). A Rubis fuel-station pylon at right is a distractor."
+ },
+ "c169537444": {
+  "accept": false,
+  "reason": "operating-room photo of a nurse; no sign"
+ },
+ "c5009585": {
+  "accept": false,
+  "reason": "scanned Russian presidential decree document, not a photo of a sign"
+ },
+ "c91235672": {
+  "accept": false,
+  "reason": "fort wall and sailboat; no sign"
+ },
+ "c91235677": {
+  "accept": false,
+  "reason": "family posing at a cannon; no sign"
+ },
+ "c91235678": {
+  "accept": false,
+  "reason": "portrait of a man at the fort wall; no sign"
+ },
+ "c91235681": {
+  "accept": false,
+  "reason": "path and ruins; no sign"
+ }
+}

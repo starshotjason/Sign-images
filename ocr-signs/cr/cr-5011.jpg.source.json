@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=26b0060d-f2fb-499c-af4d-6755e20d5a6e",
+  "original_url": "https://panoramax.openstreetmap.fr/images/26/b0/06/0d/f2fb-499c-af4d-6755e20d5a6e.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "MatthiasMatthias",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture 26b0060d-f2fb-499c-af4d-6755e20d5a6e (San Jose CR, 2026-04-02)",
+  "description": "Street-level picture taken 2026-04-02 near San Jose CR by MatthiasMatthias, sequence b9114a80-c64b-4b9a-bdfe-3c6c3fbc4b1c, heading 107. OCR (PP-OCRv3) read: EDIFICIO | ekono | LAUINION | LABOMBA | LABOMBA | Farmacia | Sucre | TUMS | AUVIAIOS | SINTOMAS",
+  "date": "2026-04-02",
+  "categories": [],
+  "camera_location": [
+    9.9340602,
+    -84.078329
+  ],
+  "found_by": "panoramax-ocr:San Jose CR",
+  "bytes": 1234550,
+  "width": 2932,
+  "height": 2199,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/26/b0/06/0d/f2fb-499c-af4d-6755e20d5a6e.jpg",
+  "derivative": "crop 0,0,2932,2199 of the 4080x2295 HD picture"
+}

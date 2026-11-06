@@ -1,0 +1,230 @@
+{
+  "c16067790": {
+    "accept": false,
+    "reason": "event welcome banner for the AU summit ('THE PEOPLE OF THE GAMBIA WELCOME YOU TO THE A-U SUMMIT'); no place name to map"
+  },
+  "c57419221": {
+    "accept": false,
+    "reason": "room name plate inside a resort ('BAMBOO SUITE 62'); not something a map contains"
+  },
+  "c57419296": {
+    "accept": false,
+    "reason": "warning sign only ('NO LIFE GUARD ON DUTY')"
+  },
+  "c57428353": {
+    "accept": false,
+    "reason": "generic painted 'WELCOME TO HAIR SHOP' board with no business name"
+  },
+  "c57430869": {
+    "accept": false,
+    "reason": "road construction project information board (contractors, funders); the project road-name line is small and one village name is ambiguous"
+  },
+  "c57681616": {
+    "accept": false,
+    "reason": "near-duplicate of accepted c57681653: the same handwritten Wassu Stone Circle board, smaller in frame"
+  },
+  "c57683307": {
+    "accept": false,
+    "reason": "admission-fee board and painted site map of Abuko Nature Reserve; near-duplicate site of accepted c57683369"
+  },
+  "c101271887": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "innovaRx",
+        "lang": "en"
+      },
+      {
+        "text": "GLOBAL HEALTH",
+        "lang": "en"
+      },
+      {
+        "text": "Gateway to value-driven healthcare solutions.",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Innovarx Global Health",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Central white fascia panel above barred shopfronts (video still); 'innova' in green, 'Rx' stylised in orange, 'GLOBAL HEALTH' in red and blue. The side panels 'WOW Wellness On Wheels' and 'IGH + COMMUNITY PHARMACY' are distractors; the helmeted delivery rider is incidental."
+  },
+  "c17339736": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "Welcome",
+        "lang": "en"
+      },
+      {
+        "text": "to",
+        "lang": "en"
+      },
+      {
+        "text": "Kolongding",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Kolongding",
+      "type": "place"
+    },
+    "difficulty": "medium",
+    "notes": "Rusty entrance board of Kiang West National Park in a calligraphic black typeface; grass stalks cross the text. The ring text of the park logo is too small; the brown 'DEAR VISITORS ...' board at right is a distractor. Alternative query: 'Kiang West National Park'."
+  },
+  "c57428928": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "WELCOME T",
+        "lang": "en"
+      },
+      {
+        "text": "ROYAL ALBERT MA",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Albert Market",
+      "type": "poi"
+    },
+    "difficulty": "hard",
+    "notes": "Black letters on the yellow arch over the Albert Market entrance, Banjul, partly hidden behind the building at right: full text presumably 'WELCOME TO' / 'ROYAL ALBERT MARKET'; only the visible letters are transcribed. The 'JUMBO' advert, umbrellas and the 'BOUTI...' awning are distractors."
+  },
+  "c57429057": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "All About",
+        "lang": "en"
+      },
+      {
+        "text": "NAILS & BEAUTY",
+        "lang": "en"
+      },
+      {
+        "text": "Salon",
+        "lang": "en"
+      },
+      {
+        "text": "NAIL FIXING",
+        "lang": "en"
+      },
+      {
+        "text": "EYE LASHES",
+        "lang": "en"
+      },
+      {
+        "text": "PEDICURE & MANICURE",
+        "lang": "en"
+      },
+      {
+        "text": "7731509",
+        "lang": "und"
+      }
+    ],
+    "expect": {
+      "query": "All About Nails & Beauty Salon",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Hand-painted salon board leaning on a stall, Serekunda; 'All About' and 'Salon' in blue script, 'NAILS & BEAUTY' in red serif capitals (the Y touches the board edge). The painted woman is artwork."
+  },
+  "c57681653": {
+    "accept": true,
+    "reason": "",
+    "kind": "hard",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "WASSU STONE CIRCLE",
+        "lang": "en"
+      },
+      {
+        "text": "WelCOMe - WelkOMMen",
+        "lang": "en"
+      },
+      {
+        "text": "VISTORS ARE ENTERTAINE",
+        "lang": "en"
+      },
+      {
+        "text": "WITH BALAFON MUSIC.",
+        "lang": "en"
+      },
+      {
+        "text": "THE MUSICIAN APPRICIATES",
+        "lang": "en"
+      },
+      {
+        "text": "A DONATION OF ANYTHING",
+        "lang": "en"
+      },
+      {
+        "text": "FROM YOUR HEART...",
+        "lang": "en"
+      },
+      {
+        "text": "THANK YOU...",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Wassu Stone Circles",
+      "type": "poi"
+    },
+    "difficulty": "hard",
+    "notes": "Handwritten chalk/paint board on a tree at the Wassu stone circles; spellings as written ('VISTORS', 'ENTERTAINE', 'APPRICIATES', 'Welkommen'). Mixed letter case in line 2 is approximate (handwritten). Small marks after 'WASSU' look like stray dots, not letters."
+  },
+  "c57683369": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "WELCOME TO",
+        "lang": "en"
+      },
+      {
+        "text": "ABUKO NATURE RESERVE",
+        "lang": "en"
+      },
+      {
+        "text": "RULES & REGULATIONS",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Abuko Nature Reserve",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Green painted welcome board; yellow 'WELCOME TO', white reserve name, yellow 'RULES & REGULATIONS' (the & is a stylised ampersand). The lettered rules list below (A-E, 1-2) is not transcribed."
+  }
+}

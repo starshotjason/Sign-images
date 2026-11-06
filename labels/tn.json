@@ -1,0 +1,543 @@
+{
+  "pa78552b911": {
+    "accept": true,
+    "reason": "",
+    "kind": "hard",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "Polaris",
+        "lang": "fr"
+      }
+    ],
+    "expect": {
+      "query": "Polaris",
+      "type": "poi"
+    },
+    "difficulty": "hard",
+    "notes": "Night shot of a shopping-centre facade (Tunis); target is the small red Polaris store panel at lower left. Its tagline is illegible. Distractors: vertical red 'MONO...' sign (rest unreadable), partly hidden lower fascia with Latin/Arabic lettering, camper van in foreground."
+  },
+  "c107985887": {
+    "accept": false,
+    "reason": "traffic stop sign ('قف / STOP'), no place name"
+  },
+  "c15286913": {
+    "accept": false,
+    "reason": "not a sign: museum photo of a Punic stele (Tophet of Carthage) on black background, photographed in the Musée des Beaux-Arts de Lyon, France"
+  },
+  "c18892096": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "المسرح الدائري",
+        "lang": "ar",
+        "latin": "al-Masrah ad-Da'iri (the amphitheatre)"
+      },
+      {
+        "text": "AMPHITHEATRE",
+        "lang": "fr"
+      },
+      {
+        "text": "THE AMPHITHEATRE",
+        "lang": "en"
+      },
+      {
+        "text": "مدارج",
+        "lang": "ar",
+        "latin": "madarij (tiers)"
+      },
+      {
+        "text": "GRADINS",
+        "lang": "fr"
+      },
+      {
+        "text": "TIERS",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Amphitheatre",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Free-standing wayfinding totem inside the amphitheatre of El Jem, angled to the camera. Header (with UNESCO World Heritage emblem) names the site in small type; the large text is the direction to the tiers, with a left arrow. A scratch runs through 'مدارج' and 'GRADINS', letters intact. The amphitheatre plan and tiny 'Vous êtes ici / You are here' labels at the bottom are not transcribed."
+  },
+  "c36867691": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "الجمهورية التونسية",
+        "lang": "ar",
+        "latin": "al-Jumhuriya at-Tunisiya (Tunisian Republic)"
+      },
+      {
+        "text": "REPUBLIQUE TUNISIENNE",
+        "lang": "fr"
+      },
+      {
+        "text": "سور المدينة",
+        "lang": "ar",
+        "latin": "Sur al-Madina (the medina wall)"
+      },
+      {
+        "text": "( الثالث عشر ميلادي )",
+        "lang": "ar",
+        "latin": "(ath-thalith 'ashar miladi) (13th century AD)"
+      },
+      {
+        "text": "Le rempart de la médina",
+        "lang": "fr"
+      },
+      {
+        "text": "( 13es.)",
+        "lang": "fr"
+      },
+      {
+        "text": "Monument classe : Decret n° 218 du 03/03/1915",
+        "lang": "fr"
+      }
+    ],
+    "expect": {
+      "query": "Rempart de la médina",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "National Heritage Institute glass plaque on the medina wall of Monastir (Commons title: Beb Brikcha sign). The printed film is peeling, so the ministry and institute names (top left 'المعهد الوطني للتراث / Institut National du Patrimoine', top right ministry line) are partly lost and not transcribed; the 'Patrimoine National / تراث وطني' logo text is also skipped. The bottom Arabic line ('معلم مرتب: أمر 218 بتاريخ', classified monument: decree 218 dated) is not transcribed separately. Sun and shadow fall across the plaque."
+  },
+  "c37130852": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "ACADEMIE TUNISIENNE DES SCIENCES,",
+        "lang": "fr"
+      },
+      {
+        "text": "DES LETTRES ET DES ARTS",
+        "lang": "fr"
+      },
+      {
+        "text": "BEIT al-HIKMA",
+        "lang": "fr"
+      }
+    ],
+    "expect": {
+      "query": "Beit al-Hikma",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Stone mosaic name panel of the Tunisian Academy (Carthage), frontal; tree shadow over the upper-left corner. French only on this panel."
+  },
+  "c55909149": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "نهج بن نجمه",
+        "lang": "ar",
+        "latin": "Nahj Ben Nejma (Ben Nedjma Street)"
+      },
+      {
+        "text": "RUE",
+        "lang": "fr"
+      },
+      {
+        "text": "BEN NEDJMA",
+        "lang": "fr"
+      }
+    ],
+    "expect": {
+      "query": "Rue Ben Nedjma",
+      "type": "street"
+    },
+    "difficulty": "medium",
+    "notes": "Blue enamel medina street plate (Tunis), seen from slightly below. The Arabic is in a cursive Maghrebi hand: the last word ends in a long stroke with an upturned hook and no visible dots, so it is transcribed نجمه, although the Commons title spells it نجمة; a small mark above its first letter may be a damma. Checker please confirm the last letter. A chip in the enamel crosses the U of RUE."
+  },
+  "c99787718": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "I ♥ TOZEUR",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Tozeur",
+      "type": "place"
+    },
+    "difficulty": "medium",
+    "notes": "Free-standing white 3-D letters with a red heart in front of a whitewashed shop window in Tozeur; the heart is a shape, written here as ♥. Strong lens flare streak across the left part. Distractor: 'Boulangerie Pâtisserie Ben Bder' fascia at left (partly cut off). Borderline: a city-love sign rather than a name board, but it names the town."
+  },
+  "f0be62acd-426c-436e-a917-52ff633c3592": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn",
+      "Arab"
+    ],
+    "lines": [
+      {
+        "text": "Pharmacie",
+        "lang": "fr"
+      },
+      {
+        "text": "صيدلية",
+        "lang": "ar",
+        "latin": "saydaliya (pharmacy)"
+      },
+      {
+        "text": "PHARMACIE BEN ZAIED",
+        "lang": "fr"
+      },
+      {
+        "text": "صيدلية بن زايد",
+        "lang": "ar",
+        "latin": "Saydaliyat Bin Zayid (Ben Zaied Pharmacy)"
+      }
+    ],
+    "expect": {
+      "query": "Pharmacie Ben Zaied",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Pharmacy in Sousse: green rooftop letters (script 'Pharmacie' + Arabic) and two green awnings with the name in French and Arabic. Distractors at right: 'عالم النظارات / Mondial Optic' rooftop sign, 'OPTICIEN / Adaptation de lentilles de contact' and 'نظارات طبية' awnings with a phone number. Parked cars in the foreground are incidental. Source is 1024 px."
+  },
+  "f4ab54bff-500a-4495-99ba-8f4e8f424a0d": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "تونس",
+        "lang": "ar",
+        "latin": "Tunis"
+      },
+      {
+        "text": "TUNIS",
+        "lang": "fr"
+      },
+      {
+        "text": "هرقلة",
+        "lang": "ar",
+        "latin": "Hirqla (Hergla)"
+      },
+      {
+        "text": "HERGLA",
+        "lang": "fr"
+      },
+      {
+        "text": "سوسة",
+        "lang": "ar",
+        "latin": "Susa (Sousse)"
+      },
+      {
+        "text": "SOUSSE",
+        "lang": "fr"
+      },
+      {
+        "text": "حمّام سوسة",
+        "lang": "ar",
+        "latin": "Hammam Susa (Hammam Sousse)"
+      },
+      {
+        "text": "HAMMAM SOUSSE",
+        "lang": "fr"
+      }
+    ],
+    "expect": {
+      "query": "Hammam Sousse",
+      "type": "place"
+    },
+    "difficulty": "medium",
+    "notes": "Stack of four white arrow panels at night (Port El Kantaoui), lit by flash/street light; Tunis and Hergla to the right, Sousse and Hammam Sousse to the left. Any panel name is a valid place query. Car light trails in the background."
+  },
+  "fa3aea889-7b8d-4998-a38f-6d764ef7eb71": {
+    "accept": false,
+    "reason": "only generic text ('Shop' on a filling-station canopy), no place or business name; vehicle number plates prominent in the foreground"
+  },
+  "fffc23a50-680a-4cc8-b45e-1f8442e047d0": {
+    "accept": false,
+    "reason": "hillside letters 'MATMATA' photographed from behind, so the text is mirrored ('ATAMTAM' left to right); not a readable sign face"
+  },
+  "f1c047607-9a5d-4e12-88ce-509d0f1e4e2b": {
+    "accept": false,
+    "reason": "no text: painted clay amphorae (hand and fish symbols) against a rock wall, Matmata"
+  },
+  "f576b9bc1-63ac-4252-8e78-8b175b48bfd3": {
+    "accept": false,
+    "reason": "no sign text: whitewashed troglodyte house entrance with painted hand/fish symbols, Matmata"
+  },
+  "f66c400ac-be2b-40f4-bcc3-735197eda064": {
+    "accept": false,
+    "reason": "no sign: students at desks in a classroom (news photo); faces are the subject"
+  },
+  "f9b02b81e-51a7-491b-890f-ef0e6b4134ad": {
+    "accept": false,
+    "reason": "no sign: crowd at Friday prayer outside a mosque (news photo); faces are the subject"
+  },
+  "f052a9207-3dd0-4204-904a-5ac490d88db1": {
+    "accept": false,
+    "reason": "photo of a painting (museum artwork), not a sign"
+  },
+  "f874394f7-d5e6-4e58-be5a-8dd1fdc33d32": {
+    "accept": false,
+    "reason": "museum object (gourd vessel), no text"
+  },
+  "fde3124d6-9bdd-4544-a973-ab5d1c73c215": {
+    "accept": false,
+    "reason": "courtyard of a traditional house, no sign"
+  },
+  "fec68674a-800a-41b8-a4ea-31f17b5f267c": {
+    "accept": false,
+    "reason": "old manuscript pages in a display case (document), not a sign"
+  },
+  "fb27b8f65-2ad2-49b7-b40d-a6023604640b": {
+    "accept": false,
+    "reason": "Roman ruins (columns), no sign"
+  },
+  "f9055bb47-09ca-464a-a2e8-d65d947a5284": {
+    "accept": false,
+    "reason": "Roman ruins (Trifolium Villa, Dougga), no sign; same site as fb27b8f65"
+  },
+  "fa578adbf-e8a8-45c9-ba65-b1d226983f64": {
+    "accept": false,
+    "reason": "interior of Roman ruins (Dougga baths), no sign"
+  },
+  "c166762266": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Arab"
+    ],
+    "lines": [
+      {
+        "text": "ابن الشباط",
+        "lang": "ar",
+        "latin": "Ibn ash-Shabbat (Ibn Chabbat)"
+      }
+    ],
+    "expect": {
+      "query": "ابن الشباط",
+      "type": "street"
+    },
+    "difficulty": "easy",
+    "notes": "Painted ceramic-tile street plate with floral corners on a brick wall, Tozeur medina; one upper tile is missing but the name is complete. No 'نهج' prefix on this plate."
+  },
+  "c162807347": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Arab"
+    ],
+    "lines": [
+      {
+        "text": "نهج",
+        "lang": "ar",
+        "latin": "Nahj (street)"
+      },
+      {
+        "text": "محمد علي لعجيمي",
+        "lang": "ar",
+        "latin": "Muhammad 'Ali La'jimi (Mohamed Ali El Ajimi)"
+      }
+    ],
+    "expect": {
+      "query": "محمد علي لعجيمي",
+      "type": "street"
+    },
+    "difficulty": "easy",
+    "notes": "Ceramic-tile street plate, Tozeur; surname written 'لعجيمي' (colloquial, not 'العجيمي'). Tiny maker's signature in the bottom-left corner tile is not part of the label."
+  },
+  "c15364097": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "سوق البلغة",
+        "lang": "ar",
+        "latin": "Suq al-Balgha (slipper market)"
+      },
+      {
+        "text": "SOUK EL BELGHA",
+        "lang": "fr"
+      }
+    ],
+    "expect": {
+      "query": "Souk El Belgha",
+      "type": "place"
+    },
+    "difficulty": "easy",
+    "notes": "Name board over the souk gate, Nabeul. Distractors: hanging 'La Vieille Ville / The Old Town / Der Alt Stadt' sign and a dense Arabic restoration-project plaque (Tunisian Republic, Nabeul medina association, T. TELECOM / ONAS / SONED / STEG)."
+  },
+  "c10054286": {
+    "accept": true,
+    "reason": "",
+    "kind": "hard",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "بنيحي علي عزوز",
+        "lang": "ar",
+        "latin": "Bin Yahya 'Ali 'Azzuz (Ali Azzouz Ben Yahia)"
+      },
+      {
+        "text": "كاتب عمومي",
+        "lang": "ar",
+        "latin": "Katib 'Umumi (public writer)"
+      },
+      {
+        "text": "ECRIVAIN",
+        "lang": "fr"
+      },
+      {
+        "text": "PUBLIC",
+        "lang": "fr"
+      }
+    ],
+    "expect": {
+      "query": "علي عزوز",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Hand-painted red sign over a public letter-writer's door, Douz (photographed in 2002; the file is a scan of the photographer's own colour print, not a document). Calligraphic Arabic: the first word joins 'بن يحي' into one word 'بنيحي'. The Latin is hand-lettered with a rounded 'E' and the word 'PUBLIC' is set lower than 'ECRIVAIN'; inkwell-and-quill drawings in the corners."
+  },
+  "c47706623": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "حمّام الصّيودة",
+        "lang": "ar",
+        "latin": "Hammam as-Siyuda (Lions' baths)"
+      },
+      {
+        "text": "BAIN DES LIONS",
+        "lang": "fr"
+      }
+    ],
+    "expect": {
+      "query": "حمام الصيودة",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Painted lettering on the facade of a public bathhouse, Place Sidi El Bahri, Tunis; 1280 px image. Arabic is split across the arches (حمّام right, الصّيودة left) with small shadda marks over م and ص. A pedestrian partly overlaps the 'BA' of BAIN; parked vans in front, one with Tunisie Telecom 'TT' branding (distractor)."
+  },
+  "c56647800": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn",
+      "Arab"
+    ],
+    "lines": [
+      {
+        "text": "Tél.: 77 234 459",
+        "lang": "fr"
+      },
+      {
+        "text": "Fax: 77 233 493",
+        "lang": "fr"
+      },
+      {
+        "text": "TAPIS DES AGHLABITES",
+        "lang": "fr"
+      },
+      {
+        "text": "زرابي الأغالبة",
+        "lang": "ar",
+        "latin": "Zarabi al-Aghaliba (Aghlabid carpets)"
+      },
+      {
+        "text": "فتحي",
+        "lang": "ar",
+        "latin": "Fathi"
+      },
+      {
+        "text": "كشاط",
+        "lang": "ar",
+        "latin": "Kashshat"
+      }
+    ],
+    "expect": {
+      "query": "Tapis des Aghlabites",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Carpet shop fascia in Kairouan with a tiled minaret motif between the French and Arabic panels. Distractors: 'Artisanal' tile sign at left, Office National de l'Artisanat 'Magasin recommandé' plaque at upper right."
+  },
+  "c107985885": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Arab"
+    ],
+    "lines": [
+      {
+        "text": "جامع",
+        "lang": "ar",
+        "latin": "Jami' (mosque)"
+      },
+      {
+        "text": "سيدي محرز",
+        "lang": "ar",
+        "latin": "Sidi Mahriz (Sidi Mahrez)"
+      }
+    ],
+    "expect": {
+      "query": "جامع سيدي محرز",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Black direction sign with a left-pointing arrow containing a mosque pictogram, Djerba. Faint black marker graffiti scribbled over the black background is a distractor and not part of the label."
+  }
+}

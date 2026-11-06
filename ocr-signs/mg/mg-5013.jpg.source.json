@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=89133578-6a87-4660-9529-debd45a5af6b",
+  "original_url": "https://panoramax.openstreetmap.fr/images/89/13/35/78/6a87-4660-9529-debd45a5af6b.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "Eric S",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture 89133578-6a87-4660-9529-debd45a5af6b (Antananarivo, 2009-08-13)",
+  "description": "Street-level picture taken 2009-08-13 near Antananarivo by Eric S, sequence b2706443-80d6-4780-86a7-7bccfca58a20, heading 221. OCR (PP-OCRv3) read: AIGLE D'OR",
+  "date": "2009-08-13",
+  "categories": [],
+  "camera_location": [
+    -18.90621962,
+    47.52260887
+  ],
+  "found_by": "panoramax-ocr:Antananarivo",
+  "bytes": 201694,
+  "width": 1280,
+  "height": 960,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/89/13/35/78/6a87-4660-9529-debd45a5af6b.jpg",
+  "derivative": "whole 1280x960 HD picture as served by the Panoramax instance (byte-identical; the instance blurs faces and number plates), not cropped"
+}

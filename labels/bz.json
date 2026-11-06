@@ -1,0 +1,310 @@
+{
+ "k1041893002": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "BELIKIN",
+    "lang": "en"
+   },
+   {
+    "text": "FIVE BROTHER'S NIGHT CLUB",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Five Brother's Night Club",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Hanging Belikin-sponsored lightbox sign over a blue building, Belize City: large green BELIKIN brand name (distractor) above a beer-bottle painting, venue name in black on the bottom strip. A dark mirror housing covers the lower right of the frame."
+ },
+ "k1041894882": {
+  "accept": true,
+  "reason": "",
+  "kind": "hard",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "BELIKIN",
+    "lang": "en"
+   },
+   {
+    "text": "The Beer of Belize",
+    "lang": "en"
+   },
+   {
+    "text": "UPTOWN BAR",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Uptown Bar",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Small Belikin-sponsored hanging sign at the upper right of a street view through a windscreen, Belize City; venue name on the bottom strip. Distractors: UNO Shop fuel sign and a chicken-shop billboard in the distance, '46A' and 'WASH & DRY' painted on the building, mirror housing at right."
+ },
+ "k1041896578": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "UNO",
+    "lang": "en"
+   },
+   {
+    "text": "Shop",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "UNO",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Blue pylon sign of an UNO fuel station shop against the sky, Belize City, seen from below through a windscreen; the top of the UNO panel is cut by the frame and the second 'o' of Shop is orange."
+ },
+ "k1042106914": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Coca-Cola",
+    "lang": "en"
+   },
+   {
+    "text": "NEW BRIDGE RESTAURANT",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "New Bridge Restaurant",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Coca-Cola sponsored lightbox with the restaurant name on the bottom strip, Belize City; the name is repeated painted on the wall below ('NEW BRIDGE / RESTAURANT'). Coca-Cola logos (sign, awning, painted bottle) are distractors; a mirror housing hides the lower right."
+ },
+ "k1042107402": {
+  "accept": true,
+  "reason": "",
+  "kind": "hard",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Zeta",
+    "lang": "en"
+   },
+   {
+    "text": "Party Ice",
+    "lang": "en"
+   },
+   {
+    "text": "Zeta",
+    "lang": "en"
+   },
+   {
+    "text": "Purified Wa",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Zeta Purified Water",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Logos painted on the wall of the Zeta water/ice plant, Belize City, shot through a windscreen; a mirror housing hides the right side, cutting 'Purified Wa(ter)' and the tagline 'Refreshing Every Mom(ent)'. Tiny lines under 'Party Ice' and the text block at right are unreadable."
+ },
+ "k1042108234": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "NORTHERN",
+    "lang": "en"
+   },
+   {
+    "text": "FISHERMEN",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Northern Fishermen",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Red-orange letters on the ochre facade of the Northern Fishermen co-operative building, Belize City; the two words sit far apart on adjacent bays. Mirror housing at right and parked cars in front."
+ },
+ "k1042170674": {
+  "accept": true,
+  "reason": "",
+  "kind": "building tag",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "KEYSTONE",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Keystone",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Red letters stacked vertically on a dark pilaster of a new office building, Belize City (read top to bottom). Distractor: BELIKIN billboard far right."
+ },
+ "k1042753114": {
+  "accept": true,
+  "reason": "",
+  "kind": "hard",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Coca-Cola",
+    "lang": "en"
+   },
+   {
+    "text": "PEOPLE'S RESTAURANT",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "People's Restaurant",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Small Coca-Cola sponsored sign with the restaurant name on the bottom strip, Belize City, partly crossed by wires and a pipe. Large BELIKIN 'The Beer of Belize' board below, a vertical Belikin sign and a Digi sign are distractors."
+ },
+ "k1042787814": {
+  "accept": false,
+  "reason": "real-estate 'FOR SALE' advert board"
+ },
+ "k1042791690": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "CARDICOM",
+    "lang": "en"
+   },
+   {
+    "text": "Computer Training",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Cardicom",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Weathered hanging sign of a computer-training business, Belize City; the C is a large green cog-like logo. Smaller lines (tagline, an address that looks like '64 North Front Street', phone numbers, email) are too soft to transcribe reliably. 'FOR SALE / SEA SURE REAL ESTATE' advert board to the left is a distractor."
+ },
+ "k1042796454": {
+  "accept": false,
+  "reason": "generic 'HAPPY HOUR' letters on a balcony; the small A+ and Vibe signs are not legible enough to be the target"
+ },
+ "k1042800862": {
+  "accept": false,
+  "reason": "'NO PARKING ANY TIME' sign; names no place"
+ },
+ "k1042801714": {
+  "accept": false,
+  "reason": "minibus branding (PACZ TOURS)"
+ },
+ "k1042804182": {
+  "accept": false,
+  "reason": "STOP and no-left-turn signs; the green street plate is too small to read"
+ },
+ "k1042867634": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Coca-Cola",
+    "lang": "en"
+   },
+   {
+    "text": "GOLDEN SKY STORE",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Golden Sky Store",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Coca-Cola sponsored lightbox with the store name, Belize City; the store wall repeats 'GOLDEN SKY SHOP' (spelled Shop there). Distractors: 'KEEP RIGHT' and 'RESIDENTS ONLY' road-works signs, baby-product billboard ('We Care for your baby's comfort'), Digi sign. People incidental."
+ },
+ "c4286842": {
+  "accept": true,
+  "reason": "",
+  "kind": "hard",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "MORTUARY LANE",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Mortuary Lane",
+   "type": "street"
+  },
+  "difficulty": "hard",
+  "notes": "1975 faded colour print; small red street plate on a utility pole, Belize City Hospital area. A wire crosses the 'TU' of MORTUARY, partly hiding it; the name is confirmed by the photo description."
+ },
+ "c125897345": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "BULLET TREE FALLS",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Bullet Tree Falls",
+   "type": "place"
+  },
+  "difficulty": "medium",
+  "notes": "Village name in large free-standing 3D letters, each letter painted with wildlife/foliage art, which makes the letter shapes busy."
+ }
+}

@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/1185661/1506/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlOC5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE4LzUvMjMvcHJvYy8xMTg1NjYxX2E1NzE3XzE1MDcuanBn",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "skobblertest1",
+  "credit_as_published": "KartaView user skobblertest1 (user id 41); © KartaView contributors",
+  "title": "KartaView photo 249401021, sequence 1185661 #1506 (Panama City, 2015-11-15)",
+  "description": "Street-level picture on KartaView, taken 2015-11-15 near Panama City by skobblertest1, sequence 1185661, heading 0. OCR (PP-OCRv3) read: HUMGOLDTTOWER",
+  "date": "2015-11-15",
+  "categories": [],
+  "camera_location": [
+    8.980983,
+    -79.519955
+  ],
+  "found_by": "kartaview-ocr:Panama City",
+  "bytes": 138267,
+  "width": 1200,
+  "height": 900,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlOC5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE4LzUvMjMvcHJvYy8xMTg1NjYxX2E1NzE3XzE1MDcuanBn",
+  "derivative": "crop 0,80,1200,980 of the 1920x1080 full-size processed (blurred) picture"
+}

@@ -1,0 +1,114 @@
+{
+ "c186596687": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Makoanyane",
+    "lang": "en"
+   },
+   {
+    "text": "Military Hospital",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Makoanyane Military Hospital",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Orange cut-out letters fixed to a brick wall at the hospital entrance, Maseru. The doormat at the bottom right repeats the name upside down and cut off; a small plaque on the side wall is unreadable."
+ },
+ "c59930725": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "UNITED NATIONS RD",
+    "lang": "en"
+   },
+   {
+    "text": "Mafeteng",
+    "lang": "en"
+   },
+   {
+    "text": "Mohale Dam",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "United Nations Road",
+   "type": "street"
+  },
+  "difficulty": "medium",
+  "notes": "Green direction sign with a grey street-name header and a right arrow; 'Mohale Dam' is on a brown tourist panel. The 'WELCOME TO MASERU CITY' 3D letters on the stone gateway at left and the 'TRUSTED AS ALWAYS' billboard are distractors (the welcome letters are an alternative target: query 'Maseru')."
+ },
+ "c59930705": {
+  "accept": false,
+  "reason": "near-duplicate of accepted c59930725 (same Maseru junction; here the direction sign is half hidden by an ambulance)"
+ },
+ "c118753805": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Paballong",
+    "lang": "st"
+   },
+   {
+    "text": "Centre",
+    "lang": "en"
+   },
+   {
+    "text": "PABALLONG TRUST.",
+    "lang": "en"
+   },
+   {
+    "text": "REGISTRATION No. 26453 OF 24/07/01",
+    "lang": "en"
+   },
+   {
+    "text": "P.O. BOX 1839",
+    "lang": "en"
+   },
+   {
+    "text": "MASERU 100",
+    "lang": "en"
+   },
+   {
+    "text": "LESOTHO",
+    "lang": "en"
+   },
+   {
+    "text": "PABALLONG HIV/AIDS CARE CENTRE",
+    "lang": "en"
+   },
+   {
+    "text": "SUPPORTED BY:",
+    "lang": "en"
+   },
+   {
+    "text": "THE PABALLONG TRUST",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Paballong HIV/AIDS Care Centre",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "White board on posts behind barbed wire and razor wire; the wire crosses the bottom line ('REGISTRATION No:26453.'), which is left out. 'Paballong' in the logo is set on an arc. 'MASERU 100' has a small '100'."
+ }
+}

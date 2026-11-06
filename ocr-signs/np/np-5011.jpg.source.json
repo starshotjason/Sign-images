@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=24799adc-32d2-49ae-89ad-15ede0a8f459",
+  "original_url": "https://panoramax.openstreetmap.fr/images/24/79/9a/dc/32d2-49ae-89ad-15ede0a8f459.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "Niruta Neeupane",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture 24799adc-32d2-49ae-89ad-15ede0a8f459 (Kathmandu, 2023-05-09)",
+  "description": "360-degree panorama taken 2023-05-09 near Kathmandu by Niruta Neeupane, sequence 7a324326-cd8c-4a92-8574-8e8bc893dbf1, heading 0. OCR (PP-OCRv3) read: ATIONALWCEUSIUNGOMMSSION",
+  "date": "2023-05-09",
+  "categories": [],
+  "camera_location": [
+    27.679029333,
+    85.316770333
+  ],
+  "found_by": "panoramax-ocr:Kathmandu",
+  "bytes": 220412,
+  "width": 1000,
+  "height": 750,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/24/79/9a/dc/32d2-49ae-89ad-15ede0a8f459.jpg",
+  "derivative": "rectilinear (gnomonic) view, yaw -151.0 deg from the panorama centre, pitch -0.9 deg, horizontal field of view 62 deg, 1000x750 px, reprojected from the 3072x1536 HD equirectangular panorama"
+}

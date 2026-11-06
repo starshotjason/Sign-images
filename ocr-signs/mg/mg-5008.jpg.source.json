@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=f8a9575a-58b7-4203-860c-607d2b969bcc",
+  "original_url": "https://panoramax.openstreetmap.fr/images/f8/a9/57/5a/58b7-4203-860c-607d2b969bcc.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "Eric S",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture f8a9575a-58b7-4203-860c-607d2b969bcc (Antananarivo, 2009-08-13)",
+  "description": "Street-level picture on Panoramax, taken 2009-08-13 near Antananarivo by Eric S, sequence b081b437-80c1-4e8f-8153-8f2152f14b15, heading 40. OCR (PP-OCRv3) read: ARABEN'NY | FAHALEOVANTENA",
+  "date": "2009-08-13",
+  "categories": [],
+  "camera_location": [
+    -18.90572827,
+    47.52376636
+  ],
+  "found_by": "panoramax-ocr:Antananarivo",
+  "bytes": 253537,
+  "width": 1280,
+  "height": 960,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/f8/a9/57/5a/58b7-4203-860c-607d2b969bcc.jpg",
+  "derivative": "whole 1280x960 HD picture as served by the Panoramax instance (byte-identical; the service blurs faces and number plates), not cropped"
+}

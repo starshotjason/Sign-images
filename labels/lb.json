@@ -1,0 +1,635 @@
+{
+  "c32183002": {
+    "accept": false,
+    "reason": "no target place sign: war-damaged building whose vertical hotel letters are mostly missing; the legible text is a Bank Audi housing-loan advertising billboard (slogan)"
+  },
+  "f11619e34-ac35-432b-94ca-67dea5fbeddf": {
+    "accept": false,
+    "reason": "regulatory parking sign only ('P موقف لحظة', short-stay parking); no place name"
+  },
+  "f170d13c9-77ad-4654-8fe8-0ee3ee05b9ab": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "TIESTO",
+        "lang": "und"
+      }
+    ],
+    "expect": {
+      "query": "Tiesto",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Target is the large white fascia board at left (Beirut street corner); the same name is repeated on the projecting sign at centre. The two small Arabic lines at the bottom-left corner of the board are too small to read and are not transcribed. Distractors: P paid-parking and no-parking signs, 'ACADEMY ...' and green shop signs at right. Cars and people incidental."
+  },
+  "f1c02baa1-dea3-4f49-9e0c-864bd8731375": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "شارع بشير الجميّل",
+        "lang": "ar",
+        "latin": "Shari' Bashir al-Jumayyil (Bachir Gemayel Street)"
+      },
+      {
+        "text": "RUE BACHIR AL JEMAYEL",
+        "lang": "fr"
+      }
+    ],
+    "expect": {
+      "query": "Bachir Gemayel",
+      "type": "street"
+    },
+    "difficulty": "hard",
+    "notes": "Target is the old green enamel plate on the right-hand wall of the corner (Beirut). A black cable crosses the plate over 'RUE' and between the Arabic words; the shadda over the ي in الجميّل is small, checker please confirm. Above it, standard Beirut blue plates: 'SECTEUR 74 / [H]OP. ORTHODOXE | منطقة ٧٤ مستشفى الروم' and 'RUE 52 | شارع ٥٢'; on the left wall 'SECTEUR 74 ...' and 'RUE 14 | شارع ١٤' (all distractors). Photo is only 1023 px wide."
+  },
+  "f32e1d102-3707-4e50-827b-2f7a2bd0dcf5": {
+    "accept": false,
+    "reason": "wrong country: Missouri Route 66 Welcome Center sign, USA"
+  },
+  "f37e13d66-66b5-41ab-b4c3-050d7b700c70": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "شارع ربيز",
+        "lang": "ar",
+        "latin": "Shari' Rubayz (Rebeiz Street)"
+      },
+      {
+        "text": "RUE REBEIZ",
+        "lang": "fr"
+      },
+      {
+        "text": "SECTEUR 34",
+        "lang": "fr"
+      },
+      {
+        "text": "EL-HAMRA",
+        "lang": "fr"
+      },
+      {
+        "text": "منطقة ٣٤",
+        "lang": "ar",
+        "latin": "Mintaqa 34 (Sector 34)"
+      },
+      {
+        "text": "الحمراء",
+        "lang": "ar",
+        "latin": "al-Hamra"
+      },
+      {
+        "text": "RUE 83",
+        "lang": "fr"
+      },
+      {
+        "text": "شارع ٨٣",
+        "lang": "ar",
+        "latin": "Shari' 83 (Street 83)"
+      }
+    ],
+    "expect": {
+      "query": "Rue Rebeiz",
+      "type": "street"
+    },
+    "difficulty": "easy",
+    "notes": "Standard Beirut blue enamel street-plate stack, frontal: street name plate, then sector plate (Secteur 34 El-Hamra, Latin left / Arabic right), then street-number plate (Rue 83, Arabic-Indic ٨٣). Small paint chip in the Arabic street name between ر and ب, letters intact."
+  },
+  "f7a75fe10-6628-428e-b5e4-2c17585c7753": {
+    "accept": false,
+    "reason": "no legible target sign: fruit stall with handwritten price cards; the small blue handwritten card at left is not reliably legible"
+  },
+  "fea6cde79-6b61-47ff-bbd9-a7e4bf7b9fea": {
+    "accept": false,
+    "reason": "no legible target sign: vaulted souk passage (Byblos) with souvenir racks; only a Coca-Cola fridge and book covers are readable"
+  },
+  "fedf25474-9247-49d8-9c43-4ada8d396510": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "الهيئة العليا للتأديب",
+        "lang": "ar",
+        "latin": "al-Hay'a al-'Ulya lit-Ta'dib (Higher Disciplinary Board)"
+      },
+      {
+        "text": "CONSEIL SUPERIEUR DE DISCIPLINE",
+        "lang": "fr"
+      }
+    ],
+    "expect": {
+      "query": "Conseil Supérieur de Discipline",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "White arrow-shaped directional sign to a government body (Beirut). The 'K_Lynn / LINGERIE' shop board with red arrows below it and the painted hookah mural are distractors."
+  },
+  "k1288651701": {
+    "accept": false,
+    "reason": "dark, blurry dashcam frame through windscreen; bank sign small and low contrast"
+  },
+  "k1288670837": {
+    "accept": false,
+    "reason": "main text is hoarding advertising copy ('Smart homes for smart living'); building sign is small and unreadable"
+  },
+  "k1288650773": {
+    "accept": false,
+    "reason": "shop signs small and partly hidden behind trees through a dirty windscreen"
+  },
+  "k1288671733": {
+    "accept": false,
+    "reason": "blurred, overexposed; building name cut off at the edge"
+  },
+  "k1288675421": {
+    "accept": true,
+    "reason": "",
+    "kind": "hard",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "كافيتريا",
+        "lang": "ar",
+        "latin": "Kafitiriya (cafeteria)"
+      },
+      {
+        "text": "Kejo",
+        "lang": "en"
+      },
+      {
+        "text": "قهوة - شاي - نسكافه - كابوتشينو",
+        "lang": "ar",
+        "latin": "Qahwa - Shay - Nescafe - Cappuccino"
+      },
+      {
+        "text": "زهورات - مرطبات",
+        "lang": "ar",
+        "latin": "Zuhurat - Murattabat (herbal teas - soft drinks)"
+      }
+    ],
+    "expect": {
+      "query": "Kejo",
+      "type": "poi"
+    },
+    "difficulty": "hard",
+    "notes": "Tripoli (Lebanon) cafe sign seen from a car, partly blocked by a utility pole. The first Arabic word (right of 'و كافيتريا', starting with ص and ending with ح) is half hidden behind the pole and is not transcribed; the conjunction و before كافيتريا is also omitted from line 1. Small names 'ابو مصطفى' (left) and 'ابو ج...' (right, hidden by pole) not transcribed."
+  },
+  "k1288638165": {
+    "accept": false,
+    "reason": "street view; the only sign is an event banner (ICEO Awards advert); hotel name on roof far and small"
+  },
+  "k1288651013": {
+    "accept": false,
+    "reason": "pure advertising billboard (Harry Winston / Atamian)"
+  },
+  "k1288721853": {
+    "accept": false,
+    "reason": "mattress billboard advert; direction signs too small and smoky to read"
+  },
+  "k1288692825": {
+    "accept": false,
+    "reason": "mattress billboard advert; near-duplicate of k1288721853"
+  },
+  "k1288651461": {
+    "accept": false,
+    "reason": "bank logo far away on a rooftop; Arabic tagline unreadable"
+  },
+  "c200761947": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Arab",
+      "Armn",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "المدرسة الثانوية الأرمنية الإنجيلية",
+        "lang": "ar",
+        "latin": "al-Madrasa al-Thanawiyya al-Armaniyya al-Injiliyya (Armenian Evangelical Secondary School)"
+      },
+      {
+        "text": "ՀԱՅ ԱՒԵՏ.",
+        "lang": "hy",
+        "latin": "Hay Avet. (Armenian Evangelical, abbreviated)"
+      },
+      {
+        "text": "ԵՐԿՐԴ. ՎԱՐԺԱՐԱՆ",
+        "lang": "hy",
+        "latin": "Yerkrd. Varzharan (Secondary School, abbreviated)"
+      },
+      {
+        "text": "ARMENIAN EVANGELICAL",
+        "lang": "en"
+      },
+      {
+        "text": "SECONDARY SCHOOL",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Armenian Evangelical Secondary School",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Arrow-shaped (pointing left) trilingual school sign in Anjar: Arabic, Western Armenian (classical orthography with Ւ) and English. Armenian abbreviation dots rendered as '.'. School crest with letters ՀԱԵՎ not transcribed."
+  },
+  "c200760854": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Arab",
+      "Armn",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "المدرسة الثانوية الأرمنية الإنجيلية",
+        "lang": "ar",
+        "latin": "al-Madrasa al-Thanawiyya al-Armaniyya al-Injiliyya (Armenian Evangelical Secondary School)"
+      },
+      {
+        "text": "ՀԱՅ ԱՒԵՏ.",
+        "lang": "hy",
+        "latin": "Hay Avet."
+      },
+      {
+        "text": "ԵՐԿՐԴ. ՎԱՐԺԱՐԱՆ",
+        "lang": "hy",
+        "latin": "Yerkrd. Varzharan"
+      },
+      {
+        "text": "ARMENIAN EVANGELICAL",
+        "lang": "en"
+      },
+      {
+        "text": "SECONDARY SCHOOL",
+        "lang": "en"
+      },
+      {
+        "text": "الكنيسة الإنجيلية الأرمنية",
+        "lang": "ar",
+        "latin": "al-Kanisa al-Injiliyya al-Armaniyya (Armenian Evangelical Church)"
+      },
+      {
+        "text": "ՀԱՅ ԱՒԵՏ. ԵԿԵՂԵՑԻ",
+        "lang": "hy",
+        "latin": "Hay Avet. Yekeghetsi (Armenian Evangelical Church)"
+      },
+      {
+        "text": "ARMENIAN",
+        "lang": "en"
+      },
+      {
+        "text": "EVANGELICAL CHURCH",
+        "lang": "en"
+      },
+      {
+        "text": "500 M",
+        "lang": "und",
+        "latin": "500 M"
+      }
+    ],
+    "expect": {
+      "query": "Armenian Evangelical Church",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Large two-column direction board on posts in Anjar: left column the school (left arrow), right column the church (500 M, with cross). Different physical sign from c200761947. Lines listed left column first, then right column."
+  },
+  "c201550315": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Arab",
+      "Armn"
+    ],
+    "lines": [
+      {
+        "text": "شارع",
+        "lang": "ar",
+        "latin": "Shari' (Street)"
+      },
+      {
+        "text": "أبراهام أشجيان",
+        "lang": "ar",
+        "latin": "Abraham Ashjiyan"
+      },
+      {
+        "text": "ԱԲՐԱՀԱՄ ԱՇՃԵԱՆ",
+        "lang": "hy",
+        "latin": "Abraham Ashjian"
+      },
+      {
+        "text": "ՓՈՂՈՑ",
+        "lang": "hy",
+        "latin": "P'oghots' (Street)"
+      }
+    ],
+    "expect": {
+      "query": "Apraham Ashjian",
+      "type": "street"
+    },
+    "difficulty": "medium",
+    "notes": "Blue street plate in Bourj Hammoud, Arabic and Western Armenian, right arrow; small in frame (right side) with an Armenian-flag umbrella below. A small scratched mark at lower left is not text."
+  },
+  "c201550316": {
+    "accept": false,
+    "reason": "near-duplicate of c201550315 (same Apraham Ashjian street plate)"
+  },
+  "c82804316": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "جادة",
+        "lang": "ar",
+        "latin": "Jadda (Avenue)"
+      },
+      {
+        "text": "المحمية الطبيعية",
+        "lang": "ar",
+        "latin": "al-Mahmiyya al-Tabi'iyya (the nature reserve)"
+      },
+      {
+        "text": "Avenue",
+        "lang": "fr"
+      },
+      {
+        "text": "de la NATURELLE RESERVE",
+        "lang": "fr"
+      }
+    ],
+    "expect": {
+      "query": "جادة المحمية الطبيعية",
+      "type": "street"
+    },
+    "difficulty": "easy",
+    "notes": "Faded blue Arabic-French street sign in Tyre, filling the frame; text is darker blue on blue (low contrast). The French wording is ungrammatical as written ('NATURELLE RESERVE')."
+  },
+  "c11661292": {
+    "accept": false,
+    "reason": "shop-window lettering (Cigarette / Photocopie) and a 'for sale' notice; no place name"
+  },
+  "c81676210": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "إتحاد بلديات قضاء صور",
+        "lang": "ar",
+        "latin": "Ittihad Baladiyyat Qada' Sur (Union of Municipalities of Tyre District)"
+      },
+      {
+        "text": "كنيسة القديس توما للروم الكاثوليك",
+        "lang": "ar",
+        "latin": "Kanisat al-Qiddis Tuma lil-Rum al-Kathulik (St Thomas Greek Catholic Church)"
+      },
+      {
+        "text": "بنيت الكنيسة حوالي العام 1752 م بتمويل من تاجر يدعى",
+        "lang": "ar",
+        "latin": "Buniyat al-kanisa hawali al-'am 1752 m bi-tamwil min tajir yud'a (The church was built around 1752 funded by a merchant called)"
+      },
+      {
+        "text": "جرجس مشاقة. ولا يزال جزء من الكنيسة الصليبية محفوظا",
+        "lang": "ar",
+        "latin": "Jirjis Mashaqa. Wa-la yazal juz' min al-kanisa al-salibiyya mahfuzan (George Mashaqa. Part of the Crusader church is still preserved)"
+      },
+      {
+        "text": "تحت البناء الحالي.",
+        "lang": "ar",
+        "latin": "Taht al-bina' al-hali. (under the current building.)"
+      },
+      {
+        "text": "Saint Thomas Apostle, Greek Catholic Melkite Church",
+        "lang": "en"
+      },
+      {
+        "text": "Built in 12th century",
+        "lang": "en"
+      },
+      {
+        "text": "The church was built around the year 1752",
+        "lang": "en"
+      },
+      {
+        "text": "With the funding of a merchant named",
+        "lang": "en"
+      },
+      {
+        "text": "George Mashakka. Still part of the church",
+        "lang": "en"
+      },
+      {
+        "text": "Crusade preserved under the current construction",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Saint Thomas Greek Catholic Church",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Brown heritage information board at St Thomas Melkite cathedral, Tyre, frontal and sharp. The name panels are line 2 (Arabic) and line 6 (English); the rest is history text. Western digits 1752 in the Arabic paragraph."
+  },
+  "c89738105": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Arab"
+    ],
+    "lines": [
+      {
+        "text": "كنيسة",
+        "lang": "ar",
+        "latin": "Kanisa (Church)"
+      },
+      {
+        "text": "مار شربل الشهيد",
+        "lang": "ar",
+        "latin": "Mar Sharbel al-Shahid (St Sharbel the Martyr)"
+      },
+      {
+        "text": "مسجد القرية",
+        "lang": "ar",
+        "latin": "Masjid al-Qarya (the village mosque)"
+      }
+    ],
+    "expect": {
+      "query": "كنيسة مار شربل",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Two brown arrow signs in Ejdabrine, Koura: church (left arrow, church pictogram) above, mosque (right arrow) below. Paint is flaking but text is intact; a pasted white patch on the upper sign is not text."
+  },
+  "c113367127": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "شارع",
+        "lang": "ar",
+        "latin": "Shari' (Street)"
+      },
+      {
+        "text": "قرطاج",
+        "lang": "ar",
+        "latin": "Qartaj (Carthage)"
+      },
+      {
+        "text": "Rue CARTHAGE",
+        "lang": "fr"
+      }
+    ],
+    "expect": {
+      "query": "Rue Carthage",
+      "type": "street"
+    },
+    "difficulty": "easy",
+    "notes": "Blue Arabic-French street plate on a pole in central Tyre, frontal and sharp."
+  },
+  "c202785232": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "ZAITUNAY",
+        "lang": "en"
+      },
+      {
+        "text": "BAY",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Zaitunay Bay",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Night photo of a laser-cut metal totem at Zaitunay Bay marina, Beirut; letters are cut-outs with lights showing through, under an olive-tree cut-out. No Arabic on this panel."
+  },
+  "c202785236": {
+    "accept": false,
+    "reason": "near-duplicate of c202785232 (same Zaitunay Bay totem)"
+  },
+  "c74078737": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "ساحة",
+        "lang": "ar",
+        "latin": "Saha (Square)"
+      },
+      {
+        "text": "كمال جنبلاط",
+        "lang": "ar",
+        "latin": "Kamal Junblat"
+      },
+      {
+        "text": "Place Kamal JOUNBLAT",
+        "lang": "fr"
+      }
+    ],
+    "expect": {
+      "query": "Place Kamal Jounblat",
+      "type": "place"
+    },
+    "difficulty": "easy",
+    "notes": "Blue Arabic-French square-name plate in Tyre, close and frontal. French spelling JOUNBLAT as on the sign."
+  },
+  "c129571314": {
+    "accept": false,
+    "reason": "wrong country (Dormont, Pennsylvania, USA) and the sign frame is empty"
+  },
+  "c63914608": {
+    "accept": false,
+    "reason": "busy seafront facade with many signs and a large advertising billboard; no single target"
+  },
+  "c43191369": {
+    "accept": false,
+    "reason": "wrong country: Fort Indiantown Gap, Lebanon County, Pennsylvania, USA"
+  },
+  "c83199795": {
+    "accept": false,
+    "reason": "museum object photographed in tissue paper (Mt Lebanon Vinery, New Zealand); not in Lebanon"
+  },
+  "f4ac9e6cd-6e7b-4445-950a-2afabab00044": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "Hacienda",
+        "lang": "es"
+      },
+      {
+        "text": "Café-Resto",
+        "lang": "fr"
+      },
+      {
+        "text": "Byblos Fishing Club",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Byblos Fishing Club",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Hand-lettered black wooden sign in a wrought-iron frame on a stone wall in Byblos, slightly angled; decorative script. Two drawn faces flank 'Café-Resto'. The wooden board at top right ('HACIENDA de PEPE ... BYBLOS FISHING CLUB', cut off) is a distractor."
+  }
+}

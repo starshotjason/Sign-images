@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/966729/110/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlNi5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE3LzExLzEwL3Byb2MvOTY2NzI5XzdiMTM5XzVhMDVkYjZhYmJlMTUuanBn",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "danbjoseph",
+  "credit_as_published": "KartaView user danbjoseph (user id 230); © KartaView contributors",
+  "title": "KartaView photo 160782019, sequence 966729 #110 (Roseau, 2017-11-10)",
+  "description": "Street-level picture on KartaView, taken 2017-11-10 near Roseau by danbjoseph, sequence 966729, heading 137.54. OCR (PP-OCRv3) read: MFETISH",
+  "date": "2017-11-10",
+  "categories": [],
+  "camera_location": [
+    15.29912,
+    -61.385928
+  ],
+  "found_by": "kartaview-ocr:Roseau",
+  "bytes": 294267,
+  "width": 1200,
+  "height": 900,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlNi5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE3LzExLzEwL3Byb2MvOTY2NzI5XzdiMTM5XzVhMDVkYjZhYmJlMTUuanBn",
+  "derivative": "crop 2386,443,3586,1343 of the 3840x2160 full-size processed (blurred) picture"
+}

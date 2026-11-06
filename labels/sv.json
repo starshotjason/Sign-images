@@ -1,0 +1,218 @@
+{
+ "c1340429": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "TEL.",
+    "lang": "es"
+   },
+   {
+    "text": "384-3802",
+    "lang": "und"
+   },
+   {
+    "text": "COOPERATIVA",
+    "lang": "es"
+   },
+   {
+    "text": "FINANCIERA",
+    "lang": "es"
+   },
+   {
+    "text": "Unidad",
+    "lang": "es"
+   },
+   {
+    "text": "Acodjar de R.L.",
+    "lang": "es"
+   },
+   {
+    "text": "Sucursal Ilobasco",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Acodjar",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Pole-mounted cooperative bank sign in Ilobasco seen from below; overhead wires cross 'de R.L.' and 'Sucursal Ilobasco'. The L's in the last line are painted as capital-style glyphs ('SucursaL ILobasco'). A small sideways number on the box edge ('...793-286...') is not legible."
+ },
+ "c24986287": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "DON POLLO",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Don Pollo",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Orange fast-food fascia (sunburst sign) on a red-orange wall, slightly tilted. Distractors: 'Combos Familiares' poster with prices, menu board and 'SALIDA' sign inside."
+ },
+ "c57004904": {
+  "accept": false,
+  "reason": "near-duplicate of c57004907 (same El Pan Nuestro bakery and PANADERIA hanging sign)"
+ },
+ "c57004907": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "EL",
+    "lang": "es"
+   },
+   {
+    "text": "PAN NUESTRO",
+    "lang": "es"
+   },
+   {
+    "text": "LA PANADERIA",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "El Pan Nuestro",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Carved wooden bakery sign on a yellow-and-blue shopfront in Salcoatitán, at an angle; a hanging orange 'PANADERIA' street sign at right is a secondary sign. Partly in shadow of the eave."
+ },
+ "c12888373": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "AUTOPISTA",
+    "lang": "es"
+   },
+   {
+    "text": "COMALAPA",
+    "lang": "es"
+   },
+   {
+    "text": "AEROPUERTO",
+    "lang": "es"
+   },
+   {
+    "text": "HUIZUCAR",
+    "lang": "es"
+   },
+   {
+    "text": "COLONIA LA CIMA",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Autopista Comalapa",
+   "type": "street"
+  },
+  "difficulty": "medium",
+  "notes": "Overhead lane signs on the road from Antiguo Cuscatlán: blue/green 'AUTOPISTA COMALAPA / AEROPUERTO' with down arrow and green 'HUIZUCAR / COLONIA LA CIMA' with down arrow. Distractor billboard 'ARMANDO PAZ ... ¿HAY ALGO QUE QUIERAS CAMBIAR?' at left; vehicles with plates are small and incidental."
+ },
+ "c141742123": {
+  "accept": true,
+  "reason": "",
+  "kind": "hard",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "EL ALCALDE Y SU CONCEJO MUNICIPAL",
+    "lang": "es"
+   },
+   {
+    "text": "SE ENORGULLECEN DE ENTREGAR EL PROYECTO:",
+    "lang": "es"
+   },
+   {
+    "text": "\"REMODELACIÓN DEL PARQUE RAFAEL CAMPO\"",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Parque Rafael Campo",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Small brass commemorative plaque on a blue plinth in Parque Rafael Campo, Sonsonate, with the cathedral and a bust behind. Only the header and project title are transcribed; the rest of the plaque (dedication text, donor families, mayor 'JOSE ROBERTO AQUINO RUIZ', two columns of council names, date) is too small to read reliably. Crest legend 'SONSONATE' and the national seal ring text are tiny."
+ },
+ "c63996687": {
+  "accept": false,
+  "reason": "stained concrete wall with potted plants (building in Argentina named 'El Salvador'); no sign"
+ },
+ "c63996688": {
+  "accept": false,
+  "reason": "dark empty wall and floor; no sign"
+ },
+ "c63996689": {
+  "accept": false,
+  "reason": "dark underground car park with a gate; only a tiny illegible wall label; not El Salvador"
+ },
+ "c159074288": {
+  "accept": false,
+  "reason": "press photo of officials at a podium; people are the subject, no sign"
+ },
+ "c159074295": {
+  "accept": false,
+  "reason": "press photo of a treaty signing; people are the subject, no sign"
+ },
+ "c159074296": {
+  "accept": false,
+  "reason": "press photo of a speaker at a podium; no sign"
+ },
+ "c159074300": {
+  "accept": false,
+  "reason": "press photo of officials exchanging documents; no sign"
+ },
+ "c163040376": {
+  "accept": true,
+  "reason": "",
+  "kind": "hard",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ESTACIÓ",
+    "lang": "es"
+   },
+   {
+    "text": "ERR VIARIA",
+    "lang": "es"
+   },
+   {
+    "text": "UEZA TE EQU",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Quezaltepeque",
+   "type": "stop"
+  },
+  "difficulty": "hard",
+  "notes": "Weathered brown former railway station board (Estación Ferroviaria Quezaltepeque) with many brass letters missing: only ghost outlines remain for the F, the O of FERROVIARIA, the Q, the L, the P and the final E; the N of ESTACIÓN hangs loose (not counted). Lines give only the letters still attached, with gaps as spaces. A green building labelled 'MUSEO DE QUEZALTEPEQUE' at left is a secondary sign; a rail bogie stands in front."
+ }
+}

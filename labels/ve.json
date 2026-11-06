@@ -1,0 +1,386 @@
+{
+ "c10056714": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "cada",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Cada",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Old octagonal supermarket pylon sign in Judibana; lowercase 'ca' over 'da' in a stacked logo; weathered and seen from below."
+ },
+ "c10695588": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "CENTRO DE INVESTIGACIONES",
+    "lang": "es"
+   },
+   {
+    "text": "TECNOLOGICAS,",
+    "lang": "es"
+   },
+   {
+    "text": "INDUSTRIALES Y PESQUERAS",
+    "lang": "es"
+   },
+   {
+    "text": "C.I.T.I.P.",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Centro de Investigaciones Tecnológicas, Industriales y Pesqueras",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Institute name board in Punto Fijo (UNEFM). TECNOLOGICAS is written without an accent. Logos at both ends."
+ },
+ "c112507532": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "BIENVENIDOS",
+    "lang": "es"
+   },
+   {
+    "text": "C.C. MARACAY PLAZA",
+    "lang": "es"
+   },
+   {
+    "text": "@AutomercadoSanDiego",
+    "lang": "es"
+   },
+   {
+    "text": "#Compremasgastandomenos",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Maracay Plaza",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Green banner over the mall gate on Avenida Aragua. Logos at the ends: 'Maracay Plaza' (small script) and 'AUTOMERCADOS S-D SAN DIEGO'. Distractors: 'Duro's Jeans' banner, 'BOTIQUERIA' pharmacy fascias, 'G ... Gav...' sign at right."
+ },
+ "c112556576": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "GLOBAL",
+    "lang": "es"
+   },
+   {
+    "text": "CENTRO COMERCIAL",
+    "lang": "es"
+   },
+   {
+    "text": "MultiMax",
+    "lang": "es"
+   },
+   {
+    "text": "STORE",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Centro Comercial Global",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Mall facade on Avenida Bolívar, Maracay; 'MultiMax STORE' is the anchor tenant (STORE is widely letter-spaced). Billboards either side ('MultiMax ... ¡Las mejores marcas en 1 solo lugar!', LG, Oster) are adverts."
+ },
+ "c115426650": {
+  "accept": false,
+  "reason": "wrong country: heritage plaque in Jerusalem (former embassy of Venezuela)"
+ },
+ "c153930754": {
+  "accept": false,
+  "reason": "political graffiti stencil ('NO + TRUMP'); no place name"
+ },
+ "c178963893": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "GOBERNACION DEL",
+    "lang": "es"
+   },
+   {
+    "text": "ZULIA",
+    "lang": "es"
+   },
+   {
+    "text": "CORREDOR VIAL 100 LIBERTADOR",
+    "lang": "es"
+   },
+   {
+    "text": "MANUEL ROSALES",
+    "lang": "es"
+   },
+   {
+    "text": "GOBERNADOR",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Corredor Vial 100 Libertador",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Government road-corridor monument sign in Maracaibo with green 3D letters under a stylised Z flag. GOBERNACION is written without an accent."
+ },
+ "c25195332": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "fiesta",
+    "lang": "es"
+   },
+   {
+    "text": "to go!",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Fiesta to go",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Shopping-cart-shaped store sign on a building parapet in Maracaibo; 'to' sits in a purple circle and 'go' is yellow."
+ },
+ "c27051610": {
+  "accept": true,
+  "reason": "",
+  "kind": "hard",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "HELADERIA",
+    "lang": "es"
+   },
+   {
+    "text": "COROMOTO",
+    "lang": "es"
+   },
+   {
+    "text": "RECORD",
+    "lang": "es"
+   },
+   {
+    "text": "GUINNESS",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Heladería Coromoto",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Night photo of lit neon signs in Mérida, seen from below. HELADERIA and COROMOTO run vertically (letters stacked top to bottom); HELADERIA has no accent on the sign. Overhead wires cross the sign."
+ },
+ "c27689380": {
+  "accept": false,
+  "reason": "political party banner ('PRIMERO JUSTICIA') and campaign poster; not a place sign"
+ },
+ "c28187845": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Breidenbach",
+    "lang": "de"
+   },
+   {
+    "text": "Kaffee.c.a.",
+    "lang": "de"
+   },
+   {
+    "text": "RIF: J-31621030-8",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Breidenbach",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Carved wooden hanging sign in Colonia Tovar in German blackletter style. 'c.a.' = compañía anónima. RIF is the tax ID in small text, lower right. A tiny 'Kaffee Breidenbach' is painted on the carved house at left; a tiny signature at the far right is not transcribed."
+ },
+ "c28187847": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "BIENVENIDOS A MOCHIMA",
+    "lang": "es"
+   },
+   {
+    "text": "BIENVENIDOS",
+    "lang": "es"
+   },
+   {
+    "text": "PARQUE NACIONAL",
+    "lang": "es"
+   },
+   {
+    "text": "MOCHIMA",
+    "lang": "es"
+   },
+   {
+    "text": "TIERRA DE MUCHAS AGUAS",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Parque Nacional Mochima",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Two signs: an upper rope-lettered board 'BIENVENIDOS A MOCHIMA' and a lower painted wooden board with an arrow (INPARQUES logo left; small logo texts in the corners not transcribed)."
+ },
+ "c29553367": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "arena",
+    "lang": "es"
+   },
+   {
+    "text": "PLAZA",
+    "lang": "es"
+   },
+   {
+    "text": "ARENA PLAZA",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Arena Plaza",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Shopping-centre logo disc ('arena' / 'PLAZA') and facade lettering 'ARENA PLAZA', Barquisimeto. The green 'Garzón ¡Vive el ahorro!' supermarket panel is a distractor."
+ },
+ "c32500749": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "MERCADO PRINCIPAL DE MERIDA",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Mercado Principal de Mérida",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Painted green lettering on the market building, written without the accent (MERIDA). Parked cars fill the foreground."
+ },
+ "c32732940": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Schmidt",
+    "lang": "de"
+   },
+   {
+    "text": "Diseño Interior",
+    "lang": "es"
+   },
+   {
+    "text": "Telas Decorativas",
+    "lang": "es"
+   },
+   {
+    "text": "Muebles",
+    "lang": "es"
+   },
+   {
+    "text": "Tapiceria",
+    "lang": "es"
+   },
+   {
+    "text": "Cortinas",
+    "lang": "es"
+   },
+   {
+    "text": "Cubrecamas",
+    "lang": "es"
+   },
+   {
+    "text": "Accesorios",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Schmidt",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Small painted-tile shop plaque in script lettering on a yellow wall in El Hatillo. Tapiceria is written without an accent. The printed 'HORARIO' opening-hours notice on the gate is a distractor."
+ },
+ "c33095181": {
+  "accept": false,
+  "reason": "near-duplicate of c27051610 (same Heladería Coromoto / Record Guinness sign, daytime)"
+ }
+}

@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=af2606fb-14d0-4a21-884d-892b969bd73a",
+  "original_url": "https://panoramax.openstreetmap.fr/images/af/26/06/fb/14d0-4a21-884d-892b969bd73a.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "Julia Keil-Voss",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture af2606fb-14d0-4a21-884d-892b969bd73a (Sofia, 2026-08-15)",
+  "description": "Street-level picture taken 2026-08-15 near Sofia by Julia Keil-Voss, sequence 2b11418c-c58d-4def-8aa2-9c08a7a0eb4a, heading 8. OCR (PP-OCRv3) read: KATEAPAAGN | [unread] JX | [unread] NGBETA | PHC IUPH TO3HTEPOPHETH4EH | [unread] akCe | OnAarit 16th,1925this church as blown | up by agroup of Communists whose aim was | Lo assassinateH.M KinBais lThis act | of tErrorismtooK thE life of numrous innocEntpEople",
+  "date": "2026-08-15",
+  "categories": [],
+  "camera_location": [
+    42.6965665,
+    23.3212845
+  ],
+  "found_by": "panoramax-ocr:Sofia",
+  "bytes": 3095263,
+  "width": 1440,
+  "height": 1080,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/af/26/06/fb/14d0-4a21-884d-892b969bd73a.jpg",
+  "derivative": "whole 1440x1080 HD picture as served by the Panoramax instance (byte-identical; the instance blurs faces and number plates), not cropped"
+}

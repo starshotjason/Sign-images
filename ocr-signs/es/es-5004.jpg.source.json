@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/2832342/350/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMC83LzI5L3Byb2MvMjgzMjM0Ml82M2ZlNl81ZjIxYjBkMDA4OTI5LmpwZw",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "radnaj",
+  "credit_as_published": "KartaView user radnaj (user id 12405); © KartaView contributors",
+  "title": "KartaView photo 1020761130, sequence 2832342 #350 (Madrid, 2016-05-22)",
+  "description": "Street-level picture on KartaView, taken 2016-05-22 near Madrid by radnaj, sequence 2832342, heading 314.13. OCR (PP-OCRv3) read: TELEMPERADOR | SHOES | COLORS",
+  "date": "2016-05-22",
+  "categories": [],
+  "camera_location": [
+    40.421265,
+    -3.707458
+  ],
+  "found_by": "kartaview-ocr:Madrid",
+  "bytes": 1056594,
+  "width": 3264,
+  "height": 2448,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMC83LzI5L3Byb2MvMjgzMjM0Ml82M2ZlNl81ZjIxYjBkMDA4OTI5LmpwZw",
+  "derivative": "whole 3264x2448 full-size processed (blurred) picture as served by the KartaView CDN (byte-identical; the service blurs faces and number plates), not cropped"
+}

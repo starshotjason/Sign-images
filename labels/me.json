@@ -1,0 +1,497 @@
+{
+ "k409986378": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "MARKET",
+    "lang": "sr"
+   },
+   {
+    "text": "DUŠAN",
+    "lang": "sr"
+   }
+  ],
+  "expect": {
+   "query": "Market Dušan",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Podgorica dashcam view; target is the white light-box 'MARKET DUŠAN' at right (a small 'IN|ICTUS'-like brand mark with a face logo sits beside DUŠAN, too small to read reliably). Distractors: political-party banner 'SLOBODA TRAŽI LJUDE / POKRET ZA PROMJENE', billboard 'Od ogrebanih koljena do lijepog tena', rooftop 'GRAWE' and 'zetagradnja' logos."
+ },
+ "k409986338": {
+  "accept": false,
+  "reason": "same street and sequence as k409986378; main text is a political-party banner (POKRET ZA PROMJENE); the casino sign is blurred and unreadable"
+ },
+ "k410091870": {
+  "accept": false,
+  "reason": "subject is a pharmaceutical billboard advert (FerriMore) with strong sun glare; the small APOTEKA shop is the same one shown more clearly in p85aa44c6b8"
+ },
+ "p1a803f5683": {
+  "accept": false,
+  "reason": "dashcam through a rainy windscreen; only bus advertising livery (PULSE), no place sign"
+ },
+ "k410104290": {
+  "accept": false,
+  "reason": "graffiti names on a utility kiosk; no place sign"
+ },
+ "p158fddbc60": {
+  "accept": false,
+  "reason": "pure advertising billboard (food delivery app)"
+ },
+ "p642a8c64a4": {
+  "accept": false,
+  "reason": "pure advertising billboard (Rhinostop cold medicine)"
+ },
+ "p88f7b9c2c0": {
+  "accept": true,
+  "reason": "",
+  "kind": "hard",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "athos",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "athos",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Podgorica dashcam view down a tree-lined boulevard; target is the small white 'athos' fascia at right, under the parking sign (a smaller line beneath it is unreadable). Distractors: 'FENIKS ...' shop sign partly hidden by a sign post, 'FOR RENT' and 'IZDAJE SE 067 899 399' / '220 m2' window posters, dashcam overlay '2021-05-21 14:42:34 ... BLACKVUE DR900S-1CH/UHD'."
+ },
+ "k409859898": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Ziraat Bank",
+    "lang": "tr"
+   }
+  ],
+  "expect": {
+   "query": "Ziraat Bank",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Podgorica, overcast and slightly blurred, rain on lens; illuminated logo glare over the first letters. The same fascia continues round the corner at left with a logo word washed out by glare. Pedestrian's face is blurred."
+ },
+ "k410001570": {
+  "accept": false,
+  "reason": "only the generic word 'BANKA' and a logo are visible; the bank's name is hidden behind a tree and the frame is dark and blurred"
+ },
+ "pa9010e6cdf": {
+  "accept": false,
+  "reason": "dashcam pointed at the dashboard; no sign visible"
+ },
+ "p85aa44c6b8": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "APOTEKA",
+    "lang": "sr"
+   }
+  ],
+  "expect": {
+   "query": "Apoteka",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Podgorica pharmacy: green fascia 'APOTEKA' with a round logo whose text is too small to read; green LED cross shows a scrolling fragment 'RMAC' (from PHARMACY). Distractors: 'AQUA' shop panel at left, a blue plate at top right partly legible as 'KORA...'."
+ },
+ "k410002242": {
+  "accept": false,
+  "reason": "pure advertising billboard (s.Oliver shoes / UNO)"
+ },
+ "k410091830": {
+  "accept": false,
+  "reason": "only a STOP traffic sign is clear; the shop sign behind it is blurred and unreadable"
+ },
+ "p5d7b9bd834": {
+  "accept": false,
+  "reason": "pure advertising billboard (betting bonus '300% uz loyalty karticu')"
+ },
+ "c1305627": {
+  "accept": true,
+  "reason": "",
+  "kind": "transit",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "AUTOBUSKA STANICA",
+    "lang": "sr"
+   },
+   {
+    "text": "STACIONI I AUTOBUSAVE",
+    "lang": "sq"
+   },
+   {
+    "text": "BUS STATION",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Autobuska stanica",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Trilingual Montenegrin/Albanian/English pointer to the Ulcinj bus station, with bus pictogram and left arrow; no town name on the sign. Partial blue sign at bottom right edge is a distractor."
+ },
+ "c1305633": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ULICA - RRUGA",
+    "lang": "sr"
+   },
+   {
+    "text": "MAJKA TEREZA",
+    "lang": "sr"
+   },
+   {
+    "text": "NËNA TEREZË",
+    "lang": "sq"
+   }
+  ],
+  "expect": {
+   "query": "Majka Tereza",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Blue bilingual Montenegrin/Albanian street plate in Ulcinj; first line pairs the two words for 'street'."
+ },
+ "c1305638": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "BULEVAR - BULEVARDI",
+    "lang": "sr"
+   },
+   {
+    "text": "GJERGJ KASTRIOTI",
+    "lang": "sq"
+   },
+   {
+    "text": "SKËNDERBEU",
+    "lang": "sq"
+   }
+  ],
+  "expect": {
+   "query": "Skënderbeu",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Blue bilingual boulevard plate in Ulcinj; name is the Albanian form only, sign is scratched but fully legible."
+ },
+ "c103851747": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "NACIONALNI PARK",
+    "lang": "sr"
+   },
+   {
+    "text": "BIOGRADSKA GORA",
+    "lang": "sr"
+   },
+   {
+    "text": "National Park BIOGRADSKA GORA",
+    "lang": "en"
+   },
+   {
+    "text": "Dobrodošli",
+    "lang": "sr"
+   },
+   {
+    "text": "WELCOME",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Biogradska gora",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Roofed national-park welcome board at Biogradska gora; only the header/name lines are transcribed. Below is a long bilingual fact list (areas, peaks Crna glava/Zekova glava/Troglava, lakes, flora, fauna) over an aerial photo, plus prohibition pictograms, which are not the target."
+ },
+ "c157465455": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Cyrl"
+  ],
+  "lines": [
+   {
+    "text": "ТРГ",
+    "lang": "sr",
+    "latin": "Trg (square)"
+   },
+   {
+    "text": "НАТО ЖРТАВА",
+    "lang": "sr",
+    "latin": "NATO žrtava (of the NATO victims)"
+   }
+  ],
+  "expect": {
+   "query": "Трг НАТО жртава",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Blue Cyrillic square-name sign on a roundabout in Murino. Distractors behind: 'MURINA ČAKOR' garni hotel fascia, 'MARKET' window, speed and STOP signs; parked-car plates are incidental."
+ },
+ "c18654675": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Rijeka Bojana",
+    "lang": "sr"
+   },
+   {
+    "text": "Lumi Buna",
+    "lang": "sq"
+   },
+   {
+    "text": "Velika plaža",
+    "lang": "sr"
+   },
+   {
+    "text": "Plazhi i madh",
+    "lang": "sq"
+   },
+   {
+    "text": "Velika plaža",
+    "lang": "sr"
+   },
+   {
+    "text": "Plazhi i madh",
+    "lang": "sq"
+   },
+   {
+    "text": "TN Ada Bojana",
+    "lang": "sr"
+   },
+   {
+    "text": "KT Ada e Bunës",
+    "lang": "sq"
+   },
+   {
+    "text": "Svač",
+    "lang": "sr"
+   },
+   {
+    "text": "Shasi",
+    "lang": "sq"
+   },
+   {
+    "text": "Šasko jezero",
+    "lang": "sr"
+   },
+   {
+    "text": "Liqeni i Shasit",
+    "lang": "sq"
+   }
+  ],
+  "expect": {
+   "query": "Velika plaža",
+   "type": "place"
+  },
+  "difficulty": "easy",
+  "notes": "Stack of six bilingual Montenegrin/Albanian tourist direction panels in Ulcinj (green, white, blue, brown) with pictograms. Yellow tourist-info board and plates of parked vehicles in the background are distractors."
+ },
+ "c196865247": {
+  "accept": true,
+  "reason": "",
+  "kind": "address plate",
+  "scripts": [
+   "Latn",
+   "Zyyy"
+  ],
+  "lines": [
+   {
+    "text": "ULICA",
+    "lang": "sr"
+   },
+   {
+    "text": "OKTOBARSKE",
+    "lang": "sr"
+   },
+   {
+    "text": "REVOLUCIJE",
+    "lang": "sr"
+   },
+   {
+    "text": "5",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "Oktobarske revolucije",
+   "type": "addr"
+  },
+  "difficulty": "easy",
+  "notes": "Dark-blue Latin-script street plate with Podgorica coat-of-arms sticker and a separate house-number plate 5."
+ },
+ "c196865248": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Cyrl"
+  ],
+  "lines": [
+   {
+    "text": "УЛИЦА",
+    "lang": "sr",
+    "latin": "ulica (street)"
+   },
+   {
+    "text": "ОКТОБАРСКЕ",
+    "lang": "sr",
+    "latin": "Oktobarske"
+   },
+   {
+    "text": "РЕВОЛУЦИЈЕ",
+    "lang": "sr",
+    "latin": "revolucije (of the October Revolution)"
+   }
+  ],
+  "expect": {
+   "query": "Октобарске револуције",
+   "type": "street"
+  },
+  "difficulty": "medium",
+  "notes": "Older Cyrillic enamel plate for the same Podgorica street as c196865247 but a different physical sign and script. Enamel chipped, notably around Б in ОКТОБАРСКЕ; harsh side light."
+ },
+ "c22143485": {
+  "accept": false,
+  "reason": "only the generic word 'Mall' of the Mall of Montenegro lettering is visible; name cut off"
+ },
+ "c68390152": {
+  "accept": false,
+  "reason": "painted trail blaze on a tree ('PPT' plus a partly illegible distance); no legible place name"
+ },
+ "c68392353": {
+  "accept": true,
+  "reason": "",
+  "kind": "hard",
+  "scripts": [
+   "Latn",
+   "Zyyy"
+  ],
+  "lines": [
+   {
+    "text": "CRKVICE",
+    "lang": "sr"
+   },
+   {
+    "text": "VELIKI KABAO 4h",
+    "lang": "sr"
+   }
+  ],
+  "expect": {
+   "query": "Crkvice",
+   "type": "place"
+  },
+  "difficulty": "hard",
+  "notes": "Hand-painted hiking waymark on limestone (white letters, red outline) on the PPT trail, Orjen: names the village Crkvice and the peak Veliki Kabao, 4 hours. Mixed-case brush lettering ('i' with dots). A faded painted mark at the far left before VELIKI is not legible."
+ },
+ "c68392691": {
+  "accept": true,
+  "reason": "",
+  "kind": "hard",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ORJEN",
+    "lang": "sr"
+   },
+   {
+    "text": "SEDLO",
+    "lang": "sr"
+   }
+  ],
+  "expect": {
+   "query": "Orjensko sedlo",
+   "type": "place"
+  },
+  "difficulty": "hard",
+  "notes": "Hand-painted hiking waymark on cracked limestone with a red-white trail blaze pointing right; names the Orjen saddle (map name usually 'Orjensko sedlo'). The J is painted with its hook facing right (mirrored-looking); rock cracks cross the letters."
+ },
+ "c69154635": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Cyrl",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ПЕКАРНЯ",
+    "lang": "ru",
+    "latin": "Pekarnya (bakery)"
+   },
+   {
+    "text": "BAKERY",
+    "lang": "en"
+   },
+   {
+    "text": "ПЕКАРА",
+    "lang": "sr",
+    "latin": "Pekara (bakery)"
+   },
+   {
+    "text": "СПАСОЈе РАДОВИЋ",
+    "lang": "sr",
+    "latin": "Spasoje Radović"
+   }
+  ],
+  "expect": {
+   "query": "Пекара Спасоје Радовић",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Hand-painted wooden bakery signs in Budva old town: Russian and English arrow boards above the main Montenegrin board with the owner's name. In 'СПАСОЈе' the final е is painted in lowercase form; Serbian/Montenegrin Ј and Ћ present. Distractors: 'Monte negro art SUVENIRI', 'Blu', 'Boutique Limited', 'OPPOSITE' and other shop signs down the lane."
+ }
+}

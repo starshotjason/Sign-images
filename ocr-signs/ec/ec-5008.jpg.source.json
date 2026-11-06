@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=59411dc5-aa79-4b86-bbd2-1fed96e4db32",
+  "original_url": "https://panoramax.openstreetmap.fr/images/59/41/1d/c5/aa79-4b86-bbd2-1fed96e4db32.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "motocultrice",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture 59411dc5-aa79-4b86-bbd2-1fed96e4db32 (Quito, 2017-04-24)",
+  "description": "Street-level picture taken 2017-04-24 near Quito by motocultrice, sequence 3fbda365-57ab-4795-a2a3-24a18498f290, heading 87. OCR (PP-OCRv3) read: Av.12de | La Coruna | Octubre | NOR ESTE | Av.12 de | La Coruna | Octubre | SUR OESTE",
+  "date": "2017-04-24",
+  "categories": [],
+  "camera_location": [
+    -0.203348454,
+    -78.483623152
+  ],
+  "found_by": "panoramax-ocr:Quito",
+  "bytes": 395893,
+  "width": 1901,
+  "height": 1425,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/59/41/1d/c5/aa79-4b86-bbd2-1fed96e4db32.jpg",
+  "derivative": "crop 1163,347,3064,1772 of the 4160x3120 HD picture"
+}

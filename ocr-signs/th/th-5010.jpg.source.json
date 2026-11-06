@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/9312201/251/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyNC84LzE0L3Byb2MvOTMxMjIwMV8xNDc1YzM2MzZlOTQ3MjNiNGE5MTdjNTQ4NWZmOTY1My5qcGc",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "koki2529",
+  "credit_as_published": "KartaView user koki2529 (user id 221721); © KartaView contributors",
+  "title": "KartaView photo 2041439593, sequence 9312201 #251 (Pattaya, 2024-08-14)",
+  "description": "Street-level picture on KartaView, taken 2024-08-14 near Pattaya by koki2529, sequence 9312201, heading 68.69. OCR (PP-OCRv3) read: BIRDSNEST | SHARK S FIN | ROYALPALACE",
+  "date": "2024-08-14",
+  "categories": [],
+  "camera_location": [
+    12.92815,
+    100.878474
+  ],
+  "found_by": "kartaview-ocr:Pattaya",
+  "bytes": 392692,
+  "width": 1784,
+  "height": 1080,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyNC84LzE0L3Byb2MvOTMxMjIwMV8xNDc1YzM2MzZlOTQ3MjNiNGE5MTdjNTQ4NWZmOTY1My5qcGc",
+  "derivative": "crop 0,0,1784,1080 of the 1920x1080 full-size processed (blurred) picture"
+}

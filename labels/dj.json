@@ -1,0 +1,52 @@
+{
+ "f077909f0-dcc9-4fa7-a0c8-0ca4bdf7f170": {
+  "accept": false,
+  "reason": "not in Djibouti: Dead Sea shore in Israel (title says Dead Sea; panel is Hebrew/English/German/Italian bathing instructions); also a warning/instruction board, not a place name, and too small to read"
+ },
+ "fea861740-b762-431e-89b9-fc7c299e2237": {
+  "accept": false,
+  "reason": "safety notice ('Instructions concernant les dangers présentés par les courants électriques'), not a sign naming a place"
+ },
+ "f612c11a2-b4ad-4aa2-a00f-b1cf9ac8542e": {
+  "accept": false,
+  "reason": "no sign: close-up of people in a medical training drill (faces are the subject)"
+ },
+ "fee96cc94-e1ba-491b-82ba-d89ffa53588e": {
+  "accept": false,
+  "reason": "not a sign: printed paper with agency logos/seals on a table"
+ },
+ "c10329092": {
+  "accept": false,
+  "reason": "no sign; people/autograph event aboard a US Navy ship"
+ },
+ "c28901037": {
+  "accept": true,
+  "reason": "",
+  "kind": "transit",
+  "scripts": [
+   "Latn",
+   "Arab"
+  ],
+  "lines": [
+   {
+    "text": "AÉROPORT INTERNATIONAL DE DJIBOUTI",
+    "lang": "fr"
+   },
+   {
+    "text": "مطار جيبوتي الدولي",
+    "lang": "ar",
+    "latin": "Matar Jibuti ad-Duwali (Djibouti International Airport)"
+   }
+  ],
+  "expect": {
+   "query": "Aéroport International de Djibouti",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Terminal fascia board. DP WORLD logo text at right and the small yellow 'arrivée / وصول' sign and ATTENTION notice below are distractors."
+ },
+ "f55170178-254f-4f21-9bed-d82d86690d27": {
+  "accept": false,
+  "reason": "street scene; no single legible target sign (shop signs small/partial)"
+ }
+}

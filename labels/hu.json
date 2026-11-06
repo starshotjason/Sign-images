@@ -1,0 +1,342 @@
+{
+ "p5e8c2b43c7": {
+  "accept": true,
+  "reason": "",
+  "kind": "hard",
+  "scripts": [
+   "Latn",
+   "Zyyy"
+  ],
+  "lines": [
+   {
+    "text": "XI. kerület, Sasad",
+    "lang": "hu"
+   },
+   {
+    "text": "Barackfa utca",
+    "lang": "hu"
+   },
+   {
+    "text": "16",
+    "lang": "und"
+   },
+   {
+    "text": "20",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "Barackfa utca",
+   "type": "street"
+  },
+  "difficulty": "hard",
+  "notes": "Lower of two Budapest enamel street plates at dusk with flash glare, partly covered by twigs and dry seed pods: the 'r' of Barackfa and the 'X' of 'XI.' are mostly hidden by a branch (read from the visible strokes and the district). House-number range 16 -> 20 with arrow. The upper plate 'XI. kerület, Sasad / Cseresznye utca / 40 <- 50' is heavily obscured and is a distractor."
+ },
+ "pf4bcbff296": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "DIÓSZEGI",
+    "lang": "hu"
+   },
+   {
+    "text": "JÁTSZÓTÉR",
+    "lang": "hu"
+   }
+  ],
+  "expect": {
+   "query": "Diószegi játszótér",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Laser-cut letters in a green steel panel at a playground entrance, Budapest; graffiti tag above. The gate notice 'GESZTENYÉS JÁTSZÓTÉR' (opening hours, +36 1 688 69 99) and a summer-camp poster are secondary signs/distractors."
+ },
+ "pd95547e6aa": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Családi Csemege",
+    "lang": "hu"
+   }
+  ],
+  "expect": {
+   "query": "Családi Csemege",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "White script fascia of a small grocery at night, Budapest. The board beside the window repeats the name with opening hours ('Nyitvatartás / Hétköznap: 07:00 - 19:00 / Szombat: 07:00 - 13:00 / Vasárnap zárva') and a product list; a hair-salon card in the window is a distractor."
+ },
+ "p61941c9cd6": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn",
+   "Zyyy"
+  ],
+  "lines": [
+   {
+    "text": "I. ker. Gellérthegy",
+    "lang": "hu"
+   },
+   {
+    "text": "Antal lépcső",
+    "lang": "hu"
+   },
+   {
+    "text": "3",
+    "lang": "und"
+   },
+   {
+    "text": "1",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "Antal lépcső",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Brown-on-cream Budapest street plate with the district crest and a pointing-hand arrow (3 <- 1) on a fence; 'lépcső' = stairway. The red hydrant marker 'T 100 / 1,0 / 1,1' beside it is a distractor."
+ },
+ "p99691896f3": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn",
+   "Zyyy"
+  ],
+  "lines": [
+   {
+    "text": "XI. kerület, Gellérthegy",
+    "lang": "hu"
+   },
+   {
+    "text": "Balogh Tihamér utca",
+    "lang": "hu"
+   },
+   {
+    "text": "9",
+    "lang": "und"
+   },
+   {
+    "text": "1",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "Balogh Tihamér utca",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Enamel street plate on a low railing, Budapest, at a slight angle; arrow 9 -> 1. Rust has eaten the area after the final '1', so a second digit may be missing."
+ },
+ "p378b5dedca": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn",
+   "Zyyy"
+  ],
+  "lines": [
+   {
+    "text": "XI. kerület, Sasad",
+    "lang": "hu"
+   },
+   {
+    "text": "Botfalu udvar",
+    "lang": "hu"
+   },
+   {
+    "text": "1",
+    "lang": "und"
+   },
+   {
+    "text": "7",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "Botfalu udvar",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Enamel street plate on a chain-link fence, Budapest, angled view; arrow 1 -> 7. 'udvar' = courtyard (a residential close)."
+ },
+ "p7f0551d20e": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "BADACSONYI SZÉPSÉGSZALON",
+    "lang": "hu"
+   }
+  ],
+  "expect": {
+   "query": "Badacsonyi Szépségszalon",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Green lightbox over a beauty-salon door, Budapest, in dappled shade. The smaller service line beneath ('KOZMETIKA - FODRÁSZAT - KÉZ- ÉS LÁBÁPOLÁS', accents uncertain), the door lettering (www.badacsonyiszepsegszalon.hu, service list), no-smoking and 'MAGÁN PARKOLÓ' signs are distractors."
+ },
+ "k363720893": {
+  "accept": false,
+  "reason": "car number plate is the subject"
+ },
+ "pa559bb105b": {
+  "accept": false,
+  "reason": "parking pay machine labelled 'Díjfizetés' (payment); generic, blurred"
+ },
+ "k363728921": {
+  "accept": false,
+  "reason": "price/advert board on the back of a tourist vehicle (vehicle branding) with a number plate"
+ },
+ "f20183cda-f7f6-4ee6-8ea7-3b6216fc82f9": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "@",
+    "lang": "und"
+   },
+   {
+    "text": "eMagyarország pont",
+    "lang": "hu"
+   }
+  ],
+  "expect": {
+   "query": "eMagyarország pont",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Blue public-internet-access-point sign with a large @ pictogram, Keszthely. It marks a facility type (government e-access point) rather than a unique name, so a map search may match many places."
+ },
+ "c118452185": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Dobogókői út",
+    "lang": "hu"
+   },
+   {
+    "text": "Dobogóšska ulica",
+    "lang": "sk"
+   }
+  ],
+  "expect": {
+   "query": "Dobogókői út",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Bilingual Hungarian-Slovak enamel plate, Pilisszentkereszt (Pest County): blue on white above, white on blue below. Note 'ő' in Dobogókői and 'š' in Dobogóšska."
+ },
+ "c137151498": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ÁCHIM L. ANDRÁS",
+    "lang": "hu"
+   },
+   {
+    "text": "UTCA",
+    "lang": "hu"
+   },
+   {
+    "text": "ÁCHIMOVA",
+    "lang": "sk"
+   },
+   {
+    "text": "ULICA",
+    "lang": "sk"
+   }
+  ],
+  "expect": {
+   "query": "Áchim L. András utca",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Bilingual Hungarian-Slovak white enamel street plate in Békéscsaba; frontal and sharp."
+ },
+ "c26410596": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Ritkaházi utca",
+    "lang": "hu"
+   },
+   {
+    "text": "Ritkarovska ulica - Ritkarovzistraße",
+    "lang": "sl"
+   }
+  ],
+  "expect": {
+   "query": "Ritkaházi utca",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Trilingual Hungarian / Slovene / German street sign on a wrought-iron post in Alsószölnök (Vas County). Second line is Slovene 'Ritkarovska ulica' then German 'Ritkarovzistraße' (with ß), separated by a hyphen."
+ },
+ "c50599435": {
+  "accept": false,
+  "reason": "1938 archive photo, location unknown ('Hungary?'); historic tobacco shop (M.KIR.DOHÁNY és SZIVARÁRUDA) not findable on a current map"
+ },
+ "c155031596": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Szele OPTIKA",
+    "lang": "hu"
+   }
+  ],
+  "expect": {
+   "query": "Szele Optika",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Orange fascia of an optician in Tápiószele: 'Szele' in small cursive, the 'O' of OPTIKA drawn as an eye. Distractors: 'INSPIRÁCIÓ / HOME DEKOR / HOBBY / KREATÍV' hobby-shop board to the right, 'COMPUTERES LÁTÁSVIZSGÁLAT' window lettering, dpd Pickup sticker."
+ },
+ "c29444726": {
+  "accept": false,
+  "reason": "wrought-metal hussar shop-sign sculpture with no text"
+ }
+}

@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=44019b75-5667-4a89-8f81-b14c2eae83cb",
+  "original_url": "https://panoramax.openstreetmap.fr/images/44/01/9b/75/5667-4a89-8f81-b14c2eae83cb.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "Kevin32950",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture 44019b75-5667-4a89-8f81-b14c2eae83cb (Taipei Xinyi, 2025-01-05)",
+  "description": "360-degree panorama taken 2025-01-05 near Taipei Xinyi by Kevin32950, sequence 10ece5c9-90cd-4028-a2ac-e8d0149a47a7, heading 186. OCR (PP-OCRv3) read: TAIPEI CITY HALL",
+  "date": "2025-01-05",
+  "categories": [],
+  "camera_location": [
+    25.037595267,
+    121.56348215
+  ],
+  "found_by": "panoramax-ocr:Taipei Xinyi",
+  "bytes": 430439,
+  "width": 1920,
+  "height": 1440,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/44/01/9b/75/5667-4a89-8f81-b14c2eae83cb.jpg",
+  "derivative": "rectilinear (gnomonic) view, yaw -97.6 deg from the panorama centre, pitch +28.3 deg, horizontal field of view 90 deg, 1920x1440 px, reprojected from the 7680x3840 HD equirectangular panorama"
+}

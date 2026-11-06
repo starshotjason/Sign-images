@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.mapcomplete.org/#focus=pic&pic=a3b14a62-4b7b-467e-b817-5c65de53655e",
+  "original_url": "https://panoramax.mapcomplete.org/permanent/a3/b1/4a/62/4b7b-467e-b817-5c65de53655e.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "mapcomplete",
+  "credit_as_published": "Panoramax, instance mapcomplete (https://panoramax.mapcomplete.org)",
+  "title": "Panoramax picture a3b14a62-4b7b-467e-b817-5c65de53655e (Phnom Penh, 2026-02-18)",
+  "description": "Street-level picture on Panoramax, taken 2026-02-18 near Phnom Penh by mapcomplete, sequence a7cf963f-8d1c-4bac-9717-e3149f5f9fff, heading 279. OCR (PP-OCRv3) read: Halal-Food | MAMAK'SCORNER | Authentic MalaysiaSingapore-Indoncin dish | [unread] EsL1994 | WELCOME | WELCOME",
+  "date": "2026-02-18",
+  "categories": [],
+  "camera_location": [
+    11.5716729,
+    104.9205211
+  ],
+  "found_by": "panoramax-ocr:Phnom Penh",
+  "bytes": 1875368,
+  "width": 3264,
+  "height": 1836,
+  "downloaded_url": "https://panoramax.mapcomplete.org/permanent/a3/b1/4a/62/4b7b-467e-b817-5c65de53655e.jpg",
+  "derivative": "whole 3264x1836 HD picture as served by the Panoramax instance (byte-identical; the service blurs faces and number plates), not cropped"
+}

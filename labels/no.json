@@ -1,0 +1,210 @@
+{
+ "k1880754": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Ring 1",
+    "lang": "und"
+   },
+   {
+    "text": "Sentrum Ø",
+    "lang": "no"
+   }
+  ],
+  "expect": {
+   "query": "Ring 1",
+   "type": "street"
+  },
+  "difficulty": "medium",
+  "notes": "Yellow overhead direction sign hung on a wire across the street: right-turn arrow, white 'Ring 1' route shield, blue parking P, then 'Sentrum Ø'. A no-left-turn disc and a blue 'Taxi' sign hang beside it. A vertical black blade sign at top right ending '...akirken' is cut by the frame."
+ },
+ "k4016832": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "STEEN & STRØM",
+    "lang": "no"
+   }
+  ],
+  "expect": {
+   "query": "Steen & Strøm",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Department-store name on the curved canopy at right (clearest copy); the same name appears on the facade, on a black blade sign with 'MAGASIN' cut off, and on the windows. 'THE SALE IS HERE' banners, a VINMONOPOLET blade sign and a yellow 'FORTAU STENGT' notice are distractors. Taken through a windscreen."
+ },
+ "k4017229": {
+  "accept": false,
+  "reason": "regulatory traffic sign text only ('Gjelder ikke buss og taxi', 'unntatt'); no place name"
+ },
+ "p2a531896bc": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Oslo",
+    "lang": "no"
+   },
+   {
+    "text": "Museumsutstikkeren",
+    "lang": "no"
+   },
+   {
+    "text": "Nytt offentlig tilgjengelig rekreasjonsområde",
+    "lang": "no"
+   }
+  ],
+  "expect": {
+   "query": "Museumsutstikkeren",
+   "type": "place"
+  },
+  "difficulty": "medium",
+  "notes": "Black project information board for a new public pier next to the MUNCH museum building, heading set at a slight upward angle. Only the header is transcribed; the bullet list, credits (NRC Group, Rambøll, J & L Gibbons, Bymiljøetaten, Kulturetaten, Kultur- og idrettsbygg Oslo KF) and the 'ADGANG FORBUDT' site sign are distractors. Camera date stamp at lower right."
+ },
+ "p38e5e98ac2": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "DAVID-ANDERSEN",
+    "lang": "no"
+   }
+  ],
+  "expect": {
+   "query": "David-Andersen",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Gold raised letters on a green shop fascia (jeweller) on a pedestrian street. A small blue 'Karl Johans gate' street plate at the corner is a distractor and too small to use; 'TOMMY 1965' on a passer-by's jacket and window text are distractors."
+ },
+ "p696c06ee85": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "WELHAVEN - MONUMENTET",
+    "lang": "no"
+   }
+  ],
+  "expect": {
+   "query": "Welhaven",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Interpretive board by the monument; only the heading is the target. The body text (about Johan Sebastian Welhaven and sculptor Gunnar Utsond) and 'Oslo kommune' are distractors. Camera date stamp at lower right."
+ },
+ "p6bbdc0fa87": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "W. A. WEXELS",
+    "lang": "no"
+   },
+   {
+    "text": "1797 - 1866",
+    "lang": "und"
+   },
+   {
+    "text": "Prest ved",
+    "lang": "no"
+   },
+   {
+    "text": "Vor Frelsers Kirke",
+    "lang": "no"
+   },
+   {
+    "text": "1819 - 1866",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "Wexels",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Patinated bronze plaque on a granite statue plinth; raised letters, low contrast. 'Vor Frelsers Kirke' is the old name of Oslo Cathedral and is also a possible query. Shop 'SAVE UP TO 50%' posters behind are distractors."
+ },
+ "p9ab10b15c7": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "JOHANNE DYBWAD",
+    "lang": "no"
+   }
+  ],
+  "expect": {
+   "query": "Johanne Dybwad",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Name carved in relief on a pale granite statue plinth, low contrast. Tulips in front; people in the background (one photographing) are incidental. Camera date stamp at lower right."
+ },
+ "p9b63c56f7c": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "OSLO",
+    "lang": "no"
+   },
+   {
+    "text": "KATEDRALSKOLE",
+    "lang": "no"
+   },
+   {
+    "text": "KUNNSKAP",
+    "lang": "no"
+   },
+   {
+    "text": "SIDEN 1153",
+    "lang": "no"
+   }
+  ],
+  "expect": {
+   "query": "Oslo katedralskole",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "School name painted in a large mural (owl and rooftops) on the gable wall, stencil-style letters; '1153' is in a lighter grey. Seen from below at an angle."
+ },
+ "pe20e15800c": {
+  "accept": false,
+  "reason": "war memorial plaque listing names; no place, street or business name as the target"
+ }
+}

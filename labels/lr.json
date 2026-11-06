@@ -1,0 +1,134 @@
+{
+ "c38525120": {
+  "accept": false,
+  "reason": "Ebola public-health billboard; slogans, no place name"
+ },
+ "c53922516": {
+  "accept": false,
+  "reason": "humorous slogan board ('I Love Beer ...'); no place name"
+ },
+ "c56280159": {
+  "accept": false,
+  "reason": "beach scene with fishing canoes; no sign"
+ },
+ "c56328350": {
+  "accept": false,
+  "reason": "backlit street scene; shop signs are dark and illegible"
+ },
+ "c54650451": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "WULKI",
+    "lang": "en"
+   },
+   {
+    "text": "FARMS",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Wulki Farms",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Cement relief medallion in a brick-pattern frame by the road near Monrovia; 'WULKI' arcs over the top and 'FARMS' under a painted pig, duck and fish. Raised white letters on a dark band; the S of FARMS is reversed-looking."
+ },
+ "c55244106": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "TEACHER'S",
+    "lang": "en"
+   },
+   {
+    "text": "FILLING STATION",
+    "lang": "en"
+   },
+   {
+    "text": "BAR & GRILL",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Teacher's Filling Station",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Roadside board on two posts, Monrovia, shot through a wet windscreen; 'TEACHER'S' arched. A yellow painted X after GRILL is a mark, not text. The MTN 'Fastest Mobile Internet' poster at right is a distractor."
+ },
+ "c68595240": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "STELLA MARIS POLYTECHNIC",
+    "lang": "en"
+   },
+   {
+    "text": "CATHOLIC ARCHDIOCESE OF MONROVIA",
+    "lang": "en"
+   },
+   {
+    "text": "CHARTERED AUGUST 15 1988",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Stella Maris Polytechnic",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Light-blue stencil letters on a black painted panel on a compound wall, Capitol Hill, Monrovia; the photographer's finger blurs the right side of the frame. The Latin/English motto panel at right ('SAPIENTIA ERUDITIO ET SCIENTIA...') is cut off and is a distractor."
+ },
+ "c59567097": {
+  "accept": false,
+  "reason": "beach and hut, no sign"
+ },
+ "c56772287": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "CAMP DAVID",
+    "lang": "en"
+   },
+   {
+    "text": "PROVISION SHOP",
+    "lang": "en"
+   },
+   {
+    "text": "PARKER'S CORNER",
+    "lang": "en"
+   },
+   {
+    "text": "BREWERVILLE",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Camp David Provision Shop",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Roadside painted signboard in a metal frame; red/green/red lines. Address part is Parker's Corner, Brewerville. A pedestrian on the road is incidental."
+ }
+}

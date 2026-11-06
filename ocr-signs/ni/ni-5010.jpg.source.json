@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/1178441/1720/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlOC5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE4LzUvOS9wcm9jLzExNzg0NDFfN2RmNTFfMTcyMS5qcGc",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "skobblertest1",
+  "credit_as_published": "KartaView user skobblertest1 (user id 41); © KartaView contributors",
+  "title": "KartaView photo 241467481, sequence 1178441 #1720 (Managua, 2016-04-24)",
+  "description": "Street-level picture on KartaView, taken 2016-04-24 near Managua by skobblertest1, sequence 1178441, heading 0. OCR (PP-OCRv3) read: BODEGON | PACAS | Tel.: 2250-5762/8440-9995",
+  "date": "2016-04-24",
+  "categories": [],
+  "camera_location": [
+    12.145444,
+    -86.250154
+  ],
+  "found_by": "kartaview-ocr:Managua",
+  "bytes": 252091,
+  "width": 1492,
+  "height": 1080,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlOC5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE4LzUvOS9wcm9jLzExNzg0NDFfN2RmNTFfMTcyMS5qcGc",
+  "derivative": "crop 428,0,1920,1080 of the 1920x1080 full-size processed (blurred) picture"
+}

@@ -1,0 +1,468 @@
+{
+  "k1379221709": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "RESTAURANT",
+        "lang": "en"
+      },
+      {
+        "text": "BARBEQUE NATION",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Barbeque Nation",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Red channel letters on a dark fascia, Muscat (Al Khuwair area). Brand spelling BARBEQUE. Small logo box repeating 'Barbeque Nation', a strip of tiny cuisine text under RESTAURANT and an Arabic word cut off at the right edge are not transcribed."
+  },
+  "k1377933333": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "AL HAYAT HOSPITAL",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Al Hayat Hospital",
+      "type": "poi"
+    },
+    "difficulty": "hard",
+    "notes": "Vertical stacked-letter sign running down the left edge of the building, read top to bottom. The large 'Waterfront Villas / Hawana Salalah / Muriya / Laguna Gardens' billboard is an advert distractor; 'ALI SHAIHANI TOWER-' (cut at the right edge), 'BLOCK-2' and a small Arabic arch sign are further distractors."
+  },
+  "k1378421781": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "RIVA",
+        "lang": "en"
+      },
+      {
+        "text": "CHOICE",
+        "lang": "en"
+      },
+      {
+        "text": "RIVA Kids",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Riva",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Store names in raised letters on a wood-clad panel of Muscat Grand Mall; 'Riva' is in lowercase-style 'RIVa' lettering, 'Kids' in script. Partial '…ndMall' strip at lower left is cut off. Shot from a moving car, slightly blurred."
+  },
+  "k1379223693": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "nmc specialty hospital",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "NMC Specialty Hospital",
+      "type": "poi"
+    },
+    "difficulty": "hard",
+    "notes": "Rooftop lettering, all lowercase, with blue flower logo; 'nmc' is faint. Arabic name to the right of the logo is cut off by the frame and a pole, not transcribed; a smaller repeated '…ty hospital' sign above the entrance is partly hidden by trees."
+  },
+  "k1378030301": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "GMC",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "GMC",
+      "type": "poi"
+    },
+    "difficulty": "hard",
+    "notes": "Car-dealer showroom sign (red GMC letters) at the right edge; the dealer name line above ('MOOSA ABDUL RAHMAN HASSAN & CO…') and the Arabic lines are too blurred to transcribe reliably. Another small GMC sign on the showroom in the distance."
+  },
+  "k1378032037": {
+    "accept": true,
+    "reason": "",
+    "kind": "hard",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "N AVENUES MALL",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Oman Avenues Mall",
+      "type": "poi"
+    },
+    "difficulty": "hard",
+    "notes": "Mall name in maroon letters along the curved facade, cut off at the left edge (first word shows only its final 'N'); Arabic name after the logo is partly legible only, not transcribed. Tenant logos (4D E-Motion, Junior, cinépolis CINEMAS LUXURY, Magic Planet …) and a distant 'MUSCAT GRAND MALL' rooftop sign are distractors; blue gantry sign at right is too small."
+  },
+  "k1379217925": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "بوشر",
+        "lang": "ar",
+        "latin": "Bawshar"
+      },
+      {
+        "text": "Boshar",
+        "lang": "en"
+      },
+      {
+        "text": "السيب",
+        "lang": "ar",
+        "latin": "as-Sib"
+      },
+      {
+        "text": "al Seeb",
+        "lang": "en"
+      },
+      {
+        "text": "الغبرة",
+        "lang": "ar",
+        "latin": "al-Ghubra"
+      },
+      {
+        "text": "al Ghubrah",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Boshar",
+      "type": "place"
+    },
+    "difficulty": "easy",
+    "notes": "Overhead gantry of three blue direction panels (left / straight / right), Muscat. Each panel: Arabic above Latin. Billboard and a 'BOWSHAR …' hotel sign behind are distractors."
+  },
+  "k1377932825": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Latn",
+      "Arab"
+    ],
+    "lines": [
+      {
+        "text": "al-Qurm",
+        "lang": "en"
+      },
+      {
+        "text": "القرم",
+        "lang": "ar",
+        "latin": "al-Qurm"
+      },
+      {
+        "text": "Muscat",
+        "lang": "en"
+      },
+      {
+        "text": "مسقط",
+        "lang": "ar",
+        "latin": "Masqat (Muscat)"
+      }
+    ],
+    "expect": {
+      "query": "al-Qurm",
+      "type": "place"
+    },
+    "difficulty": "easy",
+    "notes": "Blue arrow-shaped direction sign under a flyover; Latin left, Arabic right on each line. The hospital name on the building behind ('… INTERNATIONAL HOSPITAL') is a distractor, its first word not reliably legible."
+  },
+  "k1377932869": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Arab"
+    ],
+    "lines": [
+      {
+        "text": "نفط عمان",
+        "lang": "ar",
+        "latin": "Naft 'Uman (Oman Oil)"
+      }
+    ],
+    "expect": {
+      "query": "Oman Oil",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Fuel-station canopy fascia with stylised geometric Arabic lettering only (Oman Oil brand). '180°' café sign and red vending machines are distractors."
+  },
+  "k1378033257": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn",
+      "Arab"
+    ],
+    "lines": [
+      {
+        "text": "RAMEZ",
+        "lang": "en"
+      },
+      {
+        "text": "Hyper",
+        "lang": "en"
+      },
+      {
+        "text": "رامز هايبر",
+        "lang": "ar",
+        "latin": "Ramiz Hayber (Ramez Hyper)"
+      }
+    ],
+    "expect": {
+      "query": "Ramez Hyper",
+      "type": "poi"
+    },
+    "difficulty": "hard",
+    "notes": "Hypermarket name repeated twice along a long white facade; the right instance is partly blocked by a traffic-light pole (over the 'M'), the left instance is small but complete. 'RG' logo between Latin and Arabic. Red 'DO NOT ENTER' signs are distractors."
+  },
+  "k1377933145": {
+    "accept": true,
+    "reason": "",
+    "kind": "hard",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "الخوير",
+        "lang": "ar",
+        "latin": "al-Khuwayr"
+      },
+      {
+        "text": "مطرح",
+        "lang": "ar",
+        "latin": "Matrah (Muttrah)"
+      },
+      {
+        "text": "al Khuwair",
+        "lang": "en"
+      },
+      {
+        "text": "Muttrah",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "al Khuwair",
+      "type": "place"
+    },
+    "difficulty": "hard",
+    "notes": "Two stacked blue arrow direction signs; transcribed the lower (right-pointing) panel, which is complete. The upper panel ('…عذيبة' / '…لا' / 'al Athaib…' / 'Ghala') is cut by the lamp post. Small, slightly blurred."
+  },
+  "fced0d6a7-e66b-4cd0-8b47-2fa5774c609a": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Arab"
+    ],
+    "lines": [
+      {
+        "text": "وزارة الشؤون القانونية",
+        "lang": "ar",
+        "latin": "Wizarat ash-Shu'un al-Qanuniya (Ministry of Legal Affairs)"
+      }
+    ],
+    "expect": {
+      "query": "Ministry of Legal Affairs",
+      "type": "poi"
+    },
+    "difficulty": "hard",
+    "notes": "Small Arabic name under the Omani khanjar emblem over the central entrance of a large white ministry building, Muscat; low resolution (1024 px source). The hamza seat in الشؤون is not clearly resolvable (could be written الشئون)."
+  },
+  "k1378421185": {
+    "accept": false,
+    "reason": "vehicle branding (SveLast truck); the rooftop logo has no text"
+  },
+  "k1378032393": {
+    "accept": false,
+    "reason": "warning sign ('DO NOT ENTER UNTIL EXIT CLEAR') and a Subway advert only"
+  },
+  "k1377932065": {
+    "accept": false,
+    "reason": "regulatory warning sign (trucks over 3 tonne not to use the flyover); no place name"
+  },
+  "k1378035269": {
+    "accept": false,
+    "reason": "row of many small shop signs with no single legible target"
+  },
+  "fa4187434-d8eb-4e7e-a3cc-a42f18ea433a": {
+    "accept": false,
+    "reason": "night view of Sultan Qaboos Grand Mosque with no sign text"
+  },
+  "fc639a625-7450-4ba8-9ddd-ae7fe8f9cb07": {
+    "accept": false,
+    "reason": "close-up of a tattooed arm and watch; no sign"
+  },
+  "feeecbbb7-7ea3-4295-b20d-0c2dabefd368": {
+    "accept": false,
+    "reason": "pedestrian-crossing pictogram only"
+  },
+  "f345813fa-bbe4-4340-b2ae-b839ae6a81c3": {
+    "accept": false,
+    "reason": "speed-limit sign only"
+  },
+  "c106025113": {
+    "accept": false,
+    "reason": "'تمهل / GO SLOW' warning road sign; no place name"
+  },
+  "c114614602": {
+    "accept": false,
+    "reason": "municipal prohibition/fines notice (BBQ, littering, spitting) on Muttrah corniche; no place name"
+  },
+  "c12810899": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "سلطنة عمان",
+        "lang": "ar",
+        "latin": "Saltanat 'Uman (Sultanate of Oman)"
+      },
+      {
+        "text": "وزارة السياحة",
+        "lang": "ar",
+        "latin": "Wizarat as-Siyaha (Ministry of Tourism)"
+      },
+      {
+        "text": "Sultanate of Oman",
+        "lang": "en"
+      },
+      {
+        "text": "Ministry of Tourism",
+        "lang": "en"
+      },
+      {
+        "text": "مرحبا بكم في قلعة نزوى",
+        "lang": "ar",
+        "latin": "Marhaban bikum fi Qal'at Nizwa (Welcome to Nizwa Fort)"
+      },
+      {
+        "text": "Welcome to Nizwa Fort",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Nizwa Fort",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Framed welcome panel above a relief model of the fort, mounted on a wall inside Nizwa Fort. The small brass dedication plate at bottom right (model presented in 1995 by the Ministry of Heritage and Culture) is not transcribed. Same place as c136297390 but a different sign."
+  },
+  "c136297390": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "قلعة نزوى",
+        "lang": "ar",
+        "latin": "Qal'at Nizwa (Nizwa Fort)"
+      },
+      {
+        "text": "NIZWA FORT",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Nizwa Fort",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Gilt lettering on a wooden lunette above the arched entrance, seen from below at mid distance. The Arabic is calligraphic with vowel marks (damma, sukun, superscript alef) that are omitted here. Small brass info plaques beside the door and two cannons are distractors; a visitor walking out is incidental."
+  },
+  "c148043485": {
+    "accept": false,
+    "reason": "swimwear dress-code notice at Wadi Bani Khalid; advisory text, no place name"
+  },
+  "c148043499": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn",
+      "Arab"
+    ],
+    "lines": [
+      {
+        "text": "SNOW OMAN",
+        "lang": "en"
+      },
+      {
+        "text": "سنو عمان",
+        "lang": "ar",
+        "latin": "Snu 'Uman (Snow Oman)"
+      },
+      {
+        "text": "WELCOME TO",
+        "lang": "en"
+      },
+      {
+        "text": "SNOW OMAN",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Snow Oman",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Indoor snow park in Muscat (Mall of Oman). Target is the logo disc with blue 'SNOW OMAN / سنو عمان' label, plus 'WELCOME TO SNOW OMAN' spray-painted on the fake snow rock below, angled and partly glare-hit. Penguin and polar-bear figures are decor."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/4712937/1373/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMi8zLzMvcHJvYy80NzEyOTM3X2QwOGYzXzYyMjFjM2U4NDBkMDYuanBn",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "seven",
+  "credit_as_published": "KartaView user seven (user id 10951); © KartaView contributors",
+  "title": "KartaView photo 1445276697, sequence 4712937 #1373 (Abu Dhabi, 2022-03-03)",
+  "description": "Street-level picture on KartaView, taken 2022-03-03 near Abu Dhabi by seven, sequence 4712937, heading 319.44. OCR (PP-OCRv3) read: by Retana | Federal Authonityforlden | Customer Happines | Identity Services | AlKhalidiya | deli | talabat",
+  "date": "2022-03-03",
+  "categories": [],
+  "camera_location": [
+    24.467646,
+    54.373259
+  ],
+  "found_by": "kartaview-ocr:Abu Dhabi",
+  "bytes": 807412,
+  "width": 3264,
+  "height": 1836,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMi8zLzMvcHJvYy80NzEyOTM3X2QwOGYzXzYyMjFjM2U4NDBkMDYuanBn",
+  "derivative": "whole 3264x1836 full-size processed (blurred) picture as served by the KartaView CDN (byte-identical; the service blurs faces and number plates), not cropped"
+}

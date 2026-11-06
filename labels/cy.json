@@ -1,0 +1,448 @@
+{
+ "p38dce5448c": {
+  "accept": false,
+  "reason": "parking warning on a barrier ('WARNING / STRICTLY NO PARKING HERE'), not a sign naming a place"
+ },
+ "p5c7a3d6a15": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Grek",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Μυροπωλείο «ΠΑΤΡΑΣ»",
+    "lang": "el",
+    "latin": "Myropoleio \"PATRAS\" (Patras perfumery)"
+   },
+   {
+    "text": "Cosmetics",
+    "lang": "en"
+   },
+   {
+    "text": "PATRAS",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Πάτρας",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Black raised letters on a stone fascia (with Greek guillemets) and red vinyl lettering on the shop window below; Nicosia old town. Reprojected panorama view, frontal. Neighbouring shop fronts carry no legible names."
+ },
+ "p706a919ff5": {
+  "accept": false,
+  "reason": "market awnings and bags; only a fragment ('ICE') of a fascia is visible and the street plate at the lower right is cut off"
+ },
+ "p75b1f0d2bb": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "D. Zavos",
+    "lang": "en"
+   },
+   {
+    "text": "Antiques",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Zavos Antiques",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Yellow board with black blackletter (Fraktur-style) lettering on an old stone facade in Limassol; the Z is a blackletter Z with a cross-bar. Distractors above: faded pink 'ANDRIS / JEWELLERY SHOP / SILVER - GOLD / СЕРЕБРО-ЗОЛОТО / WATCHES REPAIRS' arrow board with '20m', a vertical 'MEGARO' restaurant mosaic, and a show poster."
+ },
+ "pb086fb79d3": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Grek",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Οδός ΜΑΡΑΘΩΝΟΣ",
+    "lang": "el",
+    "latin": "Odos Marathonos (Marathon Street)"
+   },
+   {
+    "text": "MARATHONOS Str.",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Μαραθώνος",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Blue Limassol municipality street plate with round crest at left, upper right of frame, slightly angled. Red graffiti 'ΑΛΥΣΟΙ' and symbols on the wall are distractors."
+ },
+ "pe245d62354": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Grek",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ΟΔΟΣ ΟΝΑΣΑΓΟΡΟΥ",
+    "lang": "el",
+    "latin": "Odos Onasagorou (Onasagoras Street)"
+   },
+   {
+    "text": "ONASAGOROU STR",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Ονασαγόρου",
+   "type": "street"
+  },
+  "difficulty": "hard",
+  "notes": "Small blue Nicosia street plate high on a wall at upper left, tilted about 15 degrees and soft (reprojected 360 panorama). Larger distractors: 'KESS Clothing Store' fascia and a 'KITTIRAS GAS' LPG warning panel."
+ },
+ "peee88f8c18": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Grek",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Οδός ΓΕΝΕΘΛΙΟΥ ΜΙΤΕΛΛΑ",
+    "lang": "el",
+    "latin": "Odos Genethliou Mitella (Genethlios Mitellas Street)"
+   },
+   {
+    "text": "GENETHLIOU MITELLA Str.",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Γενεθλίου Μιτέλλα",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Blue Limassol municipality street plate with crest at left, near-frontal and sharp, below a barred window."
+ },
+ "pf9f62a7458": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "BAZAAR",
+    "lang": "en"
+   },
+   {
+    "text": "SOUVENIR SHOP",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Bazaar Souvenir Shop",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Painted red decorative lettering on a cream fascia board above a graffitied shutter, Limassol, angled. A small ligature monogram (looks like 'FB') precedes BAZAAR and is not transcribed; the O of SOUVENIR is drawn with a diagonal slash. Distractors: two blue street plates on the corner ('Οδός ΓΕΝΕΘΛΙΟΥ ΜΙΤΕΛΛΑ / GENETHLIOU MITELLA Str.', same text as accepted peee88f8c18, and 'Οδός ΔΗΜΗΤΡΙΟΥ ΜΗΤΡΟΠΟΥΛΟΥ / DIMITRIOU MITROPOULOU Str.' crossed by a pipe shadow) plus heavy graffiti."
+ },
+ "k994294998": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "mandeep Kaur",
+    "lang": "en"
+   },
+   {
+    "text": "Super Store",
+    "lang": "en"
+   },
+   {
+    "text": "&",
+    "lang": "und"
+   },
+   {
+    "text": "Mini Market",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Mini Market",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Red free-standing shop board at the left edge of a Nicosia street-level frame; the board is cut by the image edge so the owner's name begins mid-word ('...mandeep Kaur', probably Amandeep). Traffic signs, bus-stop plate and graffiti are distractors."
+ },
+ "k994295038": {
+  "accept": true,
+  "reason": "",
+  "kind": "hard",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Wrap-N-Run grill",
+    "lang": "en"
+   },
+   {
+    "text": "DELIVERY",
+    "lang": "en"
+   },
+   {
+    "text": "77777321",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "Wrap-N-Run",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Small black fascia across a wide road in Nicosia; red letters are soft/blurred. The huge Bolt Food burger billboard above, 'RENT' notices and the '...ceuR' shopfront are distractors. Same KartaView sequence as k994294998 but a different shop."
+ },
+ "f608b1d9d-2c3b-4880-a09a-614642034b6a": {
+  "accept": false,
+  "reason": "backhoe and a disabled-parking pictogram; no place text"
+ },
+ "f7dd3aa0f-4bad-4763-8f58-193ffd491eb2": {
+  "accept": false,
+  "reason": "prohibition pictogram (no dogs/bicycles); no text"
+ },
+ "f9d23de12-434f-49aa-a99d-7cfb9620d8fb": {
+  "accept": false,
+  "reason": "litter notice ('PLEASE KEEP CLEAN'), not a place sign"
+ },
+ "ff283c59e-279e-438d-a330-c231c2791ff7": {
+  "accept": false,
+  "reason": "'PLEASE DON'T STEP ON THE GRASS' warning, not a place sign"
+ },
+ "f18eae400-1f55-4548-b843-30bee36ec69c": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "HELLENIC BANK",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Hellenic Bank",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Metal letters over a shuttered Hellenic Bank branch on Ledra/Nicocles corner, Nicosia, seen at an upward angle. The municipal wayfinding pillar on the right (small bilingual destinations) is a distractor."
+ },
+ "f79b8d061-ba9d-452e-8187-ca705b2f96db": {
+  "accept": false,
+  "reason": "distant view of the same Hellenic Bank building as f18eae400/fc55cc345; signs too small"
+ },
+ "fc55cc345-42d6-4c04-9544-4642adc251c2": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Grek"
+  ],
+  "lines": [
+   {
+    "text": "ΕΛΛΗΝΙΚΗ ΤΡΑΠΕΖΑ",
+    "lang": "el",
+    "latin": "Elliniki Trapeza (Hellenic Bank)"
+   },
+   {
+    "text": "Κατάστημα Λήδρας",
+    "lang": "el",
+    "latin": "Katastima Lidras (Ledra branch)"
+   }
+  ],
+  "expect": {
+   "query": "Ελληνική Τράπεζα",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Greek-language fascia of the Hellenic Bank Ledra branch, Nicosia (the English fascia on the other face of the building is f18eae400). '1932' in the grille is a date. The small blue street plate at left reads 'ΟΔΟΣ ΝΙΚΟΚΛΕΟΥΣ / NICOCLES STR.' (distractor)."
+ },
+ "fd2770b85-6762-4bb8-8e6a-90481a4082d9": {
+  "accept": false,
+  "reason": "political statement plaque ('THE LAST DIVIDED CAPITAL'), not a sign used to find a place"
+ },
+ "f20b68a5d-57eb-41f6-938c-26b0c2f9974d": {
+  "accept": false,
+  "reason": "cathedral/mosque porch with no readable name sign"
+ },
+ "f031e624e-4681-4d7f-aee3-c3ea968b554d": {
+  "accept": false,
+  "reason": "old direction plate; the Greek name is not reliably legible and the English 'TO NOVELTY SHOP' is generic"
+ },
+ "f53820986-e524-4120-a269-b5a3988a352f": {
+  "accept": false,
+  "reason": "car number plate is the subject"
+ },
+ "f5a83e401-e3b6-49c5-91bc-731c88a251ce": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "MIKY",
+    "lang": "en"
+   },
+   {
+    "text": "SNACK",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Miky Snack",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Rusty fascia of a closed snack bar in Nicosia, 'MIKY' left and 'SNACK' right of a cartoon-mouse roundel. The faded Greek painted text below the awning is illegible and a distractor."
+ },
+ "f9637baa4-9f8c-4149-bf2a-5fd5b9b8a729": {
+  "accept": false,
+  "reason": "military forbidden-zone warning, not a place sign"
+ },
+ "fd6be3c47-bf61-48d6-8825-65465026fc4a": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "OLD PORT",
+    "lang": "en"
+   },
+   {
+    "text": "LIMASSOL",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Old Port Limassol",
+   "type": "place"
+  },
+  "difficulty": "easy",
+  "notes": "Large multicoloured 3D letters 'OLD / PORT' on a plinth reading 'LIMASSOL', with a small 'Cyprus Ports Authority' logo. Letters overlap each other; boat lettering ('SAIL...') behind is a distractor."
+ },
+ "f14964077-f9c2-4cd6-826c-2b156a8ed967": {
+  "accept": false,
+  "reason": "military parade, no sign"
+ },
+ "f49551cb8-d808-431b-b5a5-128968d95fd8": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "NO NAME",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "No Name",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Round reflective stainless-steel shop sign with blue letters, Limassol (clothing store); no-entry traffic sign to the right is a distractor. Strong shadow of the sign on the wall."
+ },
+ "fc51a4423-38c4-45e2-bce1-7dc57cf7db69": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "THE ORIGINAL",
+    "lang": "en"
+   },
+   {
+    "text": "STEAM BATH",
+    "lang": "en"
+   },
+   {
+    "text": "HAMAM",
+    "lang": "en"
+   },
+   {
+    "text": "SAUNA-STEAM-MASSAGE",
+    "lang": "en"
+   },
+   {
+    "text": "OPENING 2 pm.-10 pm.",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Hamam",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Banner over the gate of the old Turkish bath in Limassol, flanked by Carlsberg Beer logos (distractors). A small blue street plate on the right reads ΟΔΟΣ ΛΟΥΤΡΩΝ / LOUTRON STREET (secondary)."
+ },
+ "ff7254531-1d8d-493b-ac31-433193380a7b": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "CHAPTER HOUSE",
+    "lang": "en"
+   },
+   {
+    "text": "TAŞ ESERLER MÜZESİ (Lapidary Museum)",
+    "lang": "tr"
+   }
+  ],
+  "expect": {
+   "query": "Taş Eserler Müzesi",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Grey pedestrian fingerpost in north Nicosia (Lefkoşa) seen from below; target is the lower-left arm (with a P symbol). The upper arms are faint and only partly legible (something like ALİ RUHİ ÇEŞMESİ, BELEDİYE PAZARI, SAÇAKLI EV, ... MERKEZİ) and are not transcribed. Low-resolution source (576 px wide)."
+ },
+ "ffea7bbaf-e1a7-4753-adec-affb0182ca5e": {
+  "accept": false,
+  "reason": "museum exhibit (clay figurine), no sign"
+ }
+}

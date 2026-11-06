@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/2918274/465/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMC84LzE1L3Byb2MvMjkxODI3NF85NmRjNF81ZjM4NDMwZjU1MTQyLmpwZw",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "vlivyur",
+  "credit_as_published": "KartaView user vlivyur (user id 38722); © KartaView contributors",
+  "title": "KartaView photo 1053649430, sequence 2918274 #465 (Helsinki, 2018-05-02)",
+  "description": "Street-level picture on KartaView, taken 2018-05-02 near Helsinki by vlivyur, sequence 2918274, heading 88.52. OCR (PP-OCRv3) read: AHLSTROM CA | Finlayson | RAVNTOLA GOy RESTAURANT",
+  "date": "2018-05-02",
+  "categories": [],
+  "camera_location": [
+    60.167175,
+    24.947006
+  ],
+  "found_by": "kartaview-ocr:Helsinki",
+  "bytes": 2698367,
+  "width": 4608,
+  "height": 3456,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMC84LzE1L3Byb2MvMjkxODI3NF85NmRjNF81ZjM4NDMwZjU1MTQyLmpwZw",
+  "derivative": "whole 4608x3456 full-size processed (blurred) picture as served by the KartaView CDN (byte-identical; the service blurs faces and number plates), not cropped"
+}

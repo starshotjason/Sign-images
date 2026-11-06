@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/3354905/19/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMS8xLzcvcHJvYy8zMzU0OTA1X2NhNWM4XzVmZjc2ZmY1Njg3NjIuanBn",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "elopio",
+  "credit_as_published": "KartaView user elopio (user id 44825); © KartaView contributors",
+  "title": "KartaView photo 1216352653, sequence 3354905 #19 (San Jose CR, 2015-10-04)",
+  "description": "Street-level picture on KartaView, taken 2015-10-04 near San Jose CR by elopio, sequence 3354905, heading 103.2. OCR (PP-OCRv3) read: ELTOSTADOR | BANK",
+  "date": "2015-10-04",
+  "categories": [],
+  "camera_location": [
+    9.932847,
+    -84.083416
+  ],
+  "found_by": "kartaview-ocr:San Jose CR",
+  "bytes": 797818,
+  "width": 2020,
+  "height": 1515,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMS8xLzcvcHJvYy8zMzU0OTA1X2NhNWM4XzVmZjc2ZmY1Njg3NjIuanBn",
+  "derivative": "crop 1243,0,3263,1515 of the 3264x2448 full-size processed (blurred) picture"
+}

@@ -1,0 +1,584 @@
+{
+ "p202b98e912": {
+  "accept": false,
+  "reason": "near-duplicate of p44019b7556 (Taipei City Hall facade from a nearby angle in the same panorama sequence)"
+ },
+ "p2d238bd9d5": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Hani",
+   "Zyyy"
+  ],
+  "lines": [
+   {
+    "text": "泳亮汽車美容坊",
+    "lang": "zh",
+    "latin": "Yǒngliàng Qìchē Měiróngfāng (Yongliang car detailing shop)"
+   },
+   {
+    "text": "預約專線: 2378-8869",
+    "lang": "zh",
+    "latin": "Yùyuē zhuānxiàn (booking line): 2378-8869"
+   }
+  ],
+  "expect": {
+   "query": "泳亮汽車美容坊",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Taipei, crop from a 360 panorama. Yellow fascia; a vertical sign at left repeats '泳亮 汽車美容 (02)2378-8869'. Distractors: 'WAV 威... Winson Audio & Video' at right, blue '選配套件升級' column. No lane/alley/number address plate visible."
+ },
+ "p41e45ade83": {
+  "accept": false,
+  "reason": "only text is the taxi's registration number TDF-0003 and fleet name painted on the door (vehicle identifier, not a place)"
+ },
+ "p44019b7556": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Hani",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "臺北市政府",
+    "lang": "zh",
+    "latin": "Táiběi Shìzhèngfǔ (Taipei City Government)"
+   },
+   {
+    "text": "TAIPEI CITY HALL",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "臺北市政府",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Taipei City Hall main entrance, looking up, crop from a 360 panorama. Small dedication line above ('中華民國八十三年') and a calligraphy signature with seal below right are not part of the target. Search may also need the 台 variant (台北市政府). No address plate visible."
+ },
+ "p4f98eeaaf9": {
+  "accept": false,
+  "reason": "only viaduct pier numbers (P301, painted P20 / P301); not a mappable name"
+ },
+ "pa05e374a6a": {
+  "accept": false,
+  "reason": "real-estate advertising banner (板地王商城, floor areas in 坪, phone number, '鑽石在這裡'), not a place sign; also strongly tilted"
+ },
+ "pc9b6bca492": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Hani",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "和平東路",
+    "lang": "zh",
+    "latin": "Hépíng Dōnglù"
+   },
+   {
+    "text": "HePing E. Rd.",
+    "lang": "en"
+   },
+   {
+    "text": "敦化南路",
+    "lang": "zh",
+    "latin": "Dūnhuà Nánlù"
+   },
+   {
+    "text": "DunHua S. Rd.",
+    "lang": "en"
+   },
+   {
+    "text": "3 高速公路",
+    "lang": "zh",
+    "latin": "(National Freeway) 3 Gāosù Gōnglù"
+   },
+   {
+    "text": "FREEWAY",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "和平東路",
+   "type": "street"
+  },
+  "difficulty": "medium",
+  "notes": "Green overhead directional sign in Xinyi, Taipei, seen from below at an angle; the '3' is inside a plum-blossom national freeway shield. Either road name is a valid answer (敦化南路 equally). Distractors: red '地下道開頭燈 / Use Head Lights in Underpass', green '慢車及行人禁行地下道請改走市府路', height limit 2.0公尺 and '小貨車' plates. Not an address plate; no lane/alley/number plate visible."
+ },
+ "pcebcd493ae": {
+  "accept": false,
+  "reason": "near-duplicate of p2d238bd9d5 (same 泳亮汽車美容坊 shopfront from the same panorama sequence)"
+ },
+ "m200262": {
+  "accept": true,
+  "reason": "",
+  "kind": "transit",
+  "scripts": [
+   "Hani",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "竹南車站",
+    "lang": "zh",
+    "latin": "Zhúnán Chēzhàn (Zhunan Station)"
+   },
+   {
+    "text": "ZHUNAN STATION",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "竹南車站",
+   "type": "stop"
+  },
+  "difficulty": "easy",
+  "notes": "TRA Zhunan railway station, Miaoli. Large blue letters on the facade, Chinese characters spaced across the louvres with the English line between them. Distractors: small '歡迎光臨竹南車站 Welcome to Zhunan station' board over the entrance, LED clock, bus-stop sign at right. Taxi plate at the right edge is incidental."
+ },
+ "m2200613": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Hani",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "GOFUKUSHOTEN",
+    "lang": "ja",
+    "latin": "Gofuku Shōten (Wufu Store, Japanese reading)"
+   },
+   {
+    "text": "五福商店",
+    "lang": "zh",
+    "latin": "Wǔfú Shāngdiàn (Wufu Store)"
+   },
+   {
+    "text": "歐米百貨",
+    "lang": "zh",
+    "latin": "Ōumǐ bǎihuò (Western goods; 歐米 = Europe-America, Japanese-era usage)"
+   }
+  ],
+  "expect": {
+   "query": "五福商店",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Restored 1928 Art Deco shophouse at 中正路124、126號, Tainan (former 銀座通). The ground-floor fascia is written RIGHT TO LEFT: board order is '部卸?階 | 店商福五 | 貨百米歐'; lines above are in reading order. The left panel reads right-to-left 階 ? 卸部; its second glyph is stylised and not transcribed (left out of lines). 貨 in 歐米百貨 is stylised but legible. '福' medallion in the gable. Photo looking up at the building."
+ },
+ "m225931": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Hani"
+  ],
+  "lines": [
+   {
+    "text": "仁愛公",
+    "lang": "zh",
+    "latin": "Rén'ài Gōng[yuán] (Ren'ai Park; final character hidden)"
+   }
+  ],
+  "expect": {
+   "query": "仁愛公園",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Entrance gate of Ren'ai Park, Puli, Nantou. The name is on the lintel, read RIGHT TO LEFT (board order: [?] 公 愛 仁). The fourth tile (left end, presumably 園 per the metadata) is covered by foliage and is not legible, so only 仁愛公 is transcribed. Distractors: Lions Club emblem on top, slogan couplet on the pillars 照亮別人 / 燃燒自己, dedication plaque '埔里國際獅子會獻建', red no-motorbike notice at right."
+ },
+ "m292686": {
+  "accept": true,
+  "reason": "",
+  "kind": "transit",
+  "scripts": [
+   "Hani",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "林鳳營車站",
+    "lang": "zh",
+    "latin": "Línfèngyíng Chēzhàn (Linfengying Station)"
+   },
+   {
+    "text": "Linfengying Station",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "林鳳營車站",
+   "type": "stop"
+  },
+  "difficulty": "easy",
+  "notes": "Wooden Japanese-era station building, Liujia District, Tainan. TRA logo at left of the name board. Distractors: '服務鈴' tag, red no-smoking notice."
+ },
+ "m299963": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Hani"
+  ],
+  "lines": [
+   {
+    "text": "橋南意麵",
+    "lang": "zh",
+    "latin": "Qiáonán yìmiàn (Qiaonan yi-mein noodles)"
+   }
+  ],
+  "expect": {
+   "query": "橋南意麵",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Large billboard over an old shophouse on 橋南老街, Yanshui District, Tainan. Rest of the billboard is slogan copy (手工作麵日頭香 / 伴手意麵情意重) plus '鹽水區橋南社區發展協會' and a '橋南老街 CHIAO NAN COMMUNITY' logo. It may be a community noodle-shop or product board, not a separately mapped POI; fallback for search is the street. Small 門牌 on the post under the eave: 鹽水區 / 水正里 (small, uncertain) / 橋南街 / Ciaonan St (blurred) / 4. Cartoon bear standee and a scooter plate at left are incidental."
+ },
+ "m301977": {
+  "accept": true,
+  "reason": "",
+  "kind": "transit",
+  "scripts": [
+   "Hani",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "中壢車站",
+    "lang": "zh",
+    "latin": "Zhōnglì Chēzhàn (Zhongli Station)"
+   },
+   {
+    "text": "Zhongli Station",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "中壢車站",
+   "type": "stop"
+  },
+  "difficulty": "medium",
+  "notes": "Old (pre-2020s) Zhongli TRA station front, Taoyuan, seen from across the road. Individual character boards on the roof with the TRA logo; English on the canopy fascia. Distractors: taxis, '上計程車處' taxi sign, FamilyMart sign, phone number on a building at left."
+ },
+ "m329041": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Hani"
+  ],
+  "lines": [
+   {
+    "text": "廣盛老街",
+    "lang": "zh",
+    "latin": "Guǎngshèng Lǎojiē (Guangsheng Old Street)"
+   },
+   {
+    "text": "〔三叉河〕",
+    "lang": "zh",
+    "latin": "Sānchāhé (old name of Sanyi)"
+   }
+  ],
+  "expect": {
+   "query": "廣盛老街",
+   "type": "street"
+  },
+  "difficulty": "medium",
+  "notes": "Stone lantern pillar marking the old street in Sanyi, Miaoli. Red vertical carving, repeated on two faces; the small bracketed 三叉河 runs beside 廣盛. Distractors in the street behind: 世奇餅店 billboard, 傳統刨冰店, 自助餐, 肉圓 signs."
+ },
+ "m332075": {
+  "accept": true,
+  "reason": "",
+  "kind": "transit",
+  "scripts": [
+   "Hani",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "造橋車站",
+    "lang": "zh",
+    "latin": "Zàoqiáo Chēzhàn (Zaoqiao Station)"
+   },
+   {
+    "text": "Zaoqiao Station",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "造橋車站",
+   "type": "stop"
+  },
+  "difficulty": "easy",
+  "notes": "1936 concrete station building, Zaoqiao, Miaoli; name board on the roof with TRA logo. Distractors: wooden '造橋' board over the door (read right to left), township cartoon display at left."
+ },
+ "m332626": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Hani"
+  ],
+  "lines": [
+   {
+    "text": "洗水坑",
+    "lang": "zh",
+    "latin": "Xǐshuǐkēng (old name of Qing'an village)"
+   },
+   {
+    "text": "豆腐街",
+    "lang": "zh",
+    "latin": "dòufu jiē (Tofu Street)"
+   }
+  ],
+  "expect": {
+   "query": "洗水坑豆腐街",
+   "type": "street"
+  },
+  "difficulty": "medium",
+  "notes": "Ceramic roundels on a mosaic wall, Qing'an village, Tai'an, Miaoli. The wall reads 洗 (not the 冼 used in the metadata). Maps more often call it 清安豆腐街. Small wooden plaque at right repeats '洗水坑豆腐街' with 'Mayhin'. The large text panel below is a history board (distractor)."
+ },
+ "m333080": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Hani",
+   "Hira",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "造橋の文化財",
+    "lang": "ja",
+    "latin": "Zōkyō no bunkazai (Zaoqiao cultural property)"
+   },
+   {
+    "text": "造橋驛",
+    "lang": "zh",
+    "latin": "Zàoqiáo yì (Zaoqiao Station, Japanese-era name)"
+   },
+   {
+    "text": "Zaociao",
+    "lang": "zh"
+   }
+  ],
+  "expect": {
+   "query": "造橋車站",
+   "type": "stop"
+  },
+  "difficulty": "medium",
+  "notes": "Painted carving on a boulder beside Zaoqiao station, Miaoli. Same station as m332075 but a different sign (stone, old 驛 form, Japanese の, Tongyong-style 'Zaociao'), so kept for variety. The sign says 驛, while maps use 車站. Grass and leaves in the foreground; no-entry sign at top left is a distractor."
+ },
+ "m484789": {
+  "accept": true,
+  "reason": "",
+  "kind": "transit",
+  "scripts": [
+   "Hani",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "鳳山車站",
+    "lang": "zh",
+    "latin": "Fèngshān Chēzhàn (Fengshan Station)"
+   },
+   {
+    "text": "Fengshan Station",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "鳳山車站",
+   "type": "stop"
+  },
+  "difficulty": "medium",
+  "notes": "Night shot of the new underground-era Fengshan station, Kaohsiung. Target is the lit vertical totem (Chinese vertical, English rotated 90° beside it). The entrance canopy repeats '鳳山車站 Fengshan Station'. Small no-smoking sticker on the totem."
+ },
+ "m509153": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Hani"
+  ],
+  "lines": [
+   {
+    "text": "郭乾香",
+    "lang": "zh",
+    "latin": "Guō Qiánxiāng (Kuo Chien Hsiang bakery)"
+   }
+  ],
+  "expect": {
+   "query": "郭乾香",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "HISTORIC photo (1959), grainy black-and-white print, Hualien, in front of the old station on 黑金通. The shop name appears twice: the ground-floor fascia read RIGHT TO LEFT (board order 香 乾 郭) and a vertical sign at the right corner. The shop is still trading under this name at the same site per the source, so it is accepted. Two small lines left of the fascia are illegible. Distractors: 'GOLDEN DRAGON HOTEL' and 金龍大旅社 (right to left) on the upper floors, 國泰大旅社 at left, a partial '...運輸社' sign at lower left."
+ },
+ "m509233": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Hani",
+   "Bopo"
+  ],
+  "lines": [
+   {
+    "text": "ㄓㄨㄥ ㄓㄥ ㄌㄨ",
+    "lang": "zh",
+    "latin": "zhōng zhèng lù (Zhuyin phonetic line)"
+   },
+   {
+    "text": "中正路",
+    "lang": "zh",
+    "latin": "Zhōngzhèng Lù (Zhongzheng Road)"
+   }
+  ],
+  "expect": {
+   "query": "中正路",
+   "type": "street"
+  },
+  "difficulty": "hard",
+  "notes": "HISTORIC photo (1951): street-name board on two posts beside a house that collapsed in the 1951 Hualien earthquake, Zhongzheng Road, Hualien City. The road still exists under this name. Zhuyin is printed above the characters; tone marks are too faint to confirm, so they are left out (source says ㄓㄥˋ ㄌㄨˋ). Large handwritten white caption across the bottom of the print ('瓦屋須如之倒也 / 因為頂重腳輕也故' roughly) is a later annotation and a distractor. The query is ambiguous nationwide; it needs a Hualien City bias."
+ },
+ "m559981": {
+  "accept": false,
+  "reason": "collection-object shot of a removed, obsolete door plate (中壢市 馬祖新村 57, 郵320) on a black studio backdrop, not a sign in place; 中壢市 has been 中壢區 since 2014 and the village plate is no longer in use"
+ },
+ "m673127": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "7-ELEVEN",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "7-ELEVEN",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "7-Eleven 橋富門市, Yongkang District, Tainan (branch name not visible on the sign). Distractors: vertical '郡豐' building name on the block at left, service icons (KCCO etc.) at right. Scooters, people and plates are incidental."
+ },
+ "m702985": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Hani",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "文總",
+    "lang": "zh",
+    "latin": "Wénzǒng (short for 中華文化總會, General Association of Chinese Culture)"
+   },
+   {
+    "text": "GACC",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "中華文化總會",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Cut-out letters in a weathered steel plate at the GACC headquarters gate, Taipei, back-lit blue over yellow (Ukraine colours). 總 is in a stylised modular font. The sign shows only the abbreviation 文總/GACC; the map name is 中華文化總會."
+ },
+ "m703191": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Hani"
+  ],
+  "lines": [
+   {
+    "text": "萬華",
+    "lang": "zh",
+    "latin": "Wànhuá"
+   },
+   {
+    "text": "萬華茶室文化老街",
+    "lang": "zh",
+    "latin": "Wànhuá Cháshì Wénhuà Lǎojiē (Wanhua Tea-room Culture Old Street)"
+   }
+  ],
+  "expect": {
+   "query": "萬華茶室文化老街",
+   "type": "street"
+  },
+  "difficulty": "medium",
+  "notes": "Arch over an alley off 西園路, Wanhua, Taipei. Second gold line under the arch reads '60年懷念飲酒店老街' (年 partly occluded), with association notice boards on both sides. Distractors: a political banner with a candidate's photo, 遠傳 '龍山寺直營門市' store sign and Xiaomi ad at left. A van's number plate (foreground right) is prominent but incidental. The arch name may not be in OSM; fallback search is the area."
+ },
+ "m703194": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Hani",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "全家",
+    "lang": "zh",
+    "latin": "Quánjiā (FamilyMart)"
+   },
+   {
+    "text": "FamilyMart",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "全家",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "FamilyMart 萬華車站店 inside Wanhua station, Taipei. Distractors: hanging banner '即日起車站開放飲食(包含列車內) / 請依政府規範維持適當社交距離' (notice), '西3出口' exit sign, partial 凱達大飯店 / Caesar Metro Taipei sign at right, '匠' counter sign."
+ },
+ "m754741": {
+  "accept": true,
+  "reason": "",
+  "kind": "transit",
+  "scripts": [
+   "Hani",
+   "Zyyy"
+  ],
+  "lines": [
+   {
+    "text": "公共汽車 39",
+    "lang": "zh",
+    "latin": "Gōnggòng qìchē 39 (bus route 39)"
+   },
+   {
+    "text": "永吉路口",
+    "lang": "zh",
+    "latin": "Yǒngjí Lùkǒu (Yongji Road junction)"
+   }
+  ],
+  "expect": {
+   "query": "永吉路口",
+   "type": "stop"
+  },
+  "difficulty": "hard",
+  "notes": "HISTORIC photo (May 1972), low-contrast scan of black-and-white film with streaks, Taipei. Round bus-stop plate: header read RIGHT TO LEFT (board order 車汽 39 共公), stop name also right to left (board order 口路吉永). Route 39 was renumbered 207 in 1977, but a '永吉路口' stop name is still used in Taipei, so it is accepted. Small route text in the lower half is illegible. A '大同 Tatung' sponsor plate on the pole is a distractor."
+ }
+}

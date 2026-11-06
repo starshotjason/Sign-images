@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/1185995/129/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlOC5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE4LzUvMjQvcHJvYy8xMTg1OTk1X2M0ZmNiXzEyOS5qcGc",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "marcio-sampaio",
+  "credit_as_published": "KartaView user marcio-sampaio (user id 13851); © KartaView contributors",
+  "title": "KartaView photo 249932225, sequence 1185995 #129 (Sao Paulo, 2018-05-23)",
+  "description": "Street-level picture on KartaView, taken 2018-05-23 near Sao Paulo by marcio-sampaio, sequence 1185995, heading 349. OCR (PP-OCRv3) read: DIA2505 | SEXTASEM CA | IMPOSTOMETRO | MOTOCICLETAS | ENTRE06hE18h",
+  "date": "2018-05-23",
+  "categories": [],
+  "camera_location": [
+    -23.547684,
+    -46.63319
+  ],
+  "found_by": "kartaview-ocr:Sao Paulo",
+  "bytes": 343402,
+  "width": 1200,
+  "height": 900,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlOC5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE4LzUvMjQvcHJvYy8xMTg1OTk1X2M0ZmNiXzEyOS5qcGc",
+  "derivative": "crop 0,163,1200,1063 of the 3072x1728 full-size processed (blurred) picture"
+}

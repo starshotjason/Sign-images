@@ -1,0 +1,34 @@
+{
+ "c42632289": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "The Premier University",
+    "lang": "en"
+   },
+   {
+    "text": "of",
+    "lang": "en"
+   },
+   {
+    "text": "Sao Tome and Principe",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Universidade de São Tomé e Príncipe",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Painted board under a crest on a yellow facade; strong haze/low contrast over the whole photo. Decorative serif font with a stylised lowercase 'P' in 'Principe' and no accents. The tiny Latin motto on the crest ribbon is not transcribed. The map name is likely Portuguese ('Universidade de São Tomé e Príncipe'); an alternative query is 'Premier University'."
+ },
+ "c44726492": {
+  "accept": false,
+  "reason": "history information panel with paragraph text and photos ('Porto Alegre e Malanza, história e cultura local'); not a place name sign"
+ }
+}

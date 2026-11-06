@@ -1,0 +1,551 @@
+{
+  "pf254880b8e": {
+    "accept": false,
+    "reason": "no sign naming a place: street-level view in Gyumri dominated by a parked camper van; the only legible text is the vehicle maker's logo 'PiLOTE'"
+  },
+  "pc64a0750b2": {
+    "accept": false,
+    "reason": "only generic service text (key cutting: 'ИЗГОТОВЛЕНИЕ КЛЮЧЕЙ' / Armenian equivalent), no business name"
+  },
+  "k1325536597": {
+    "accept": false,
+    "reason": "a car with a tour-advert banner dominates the frame; the ABB bank pole sign and street plates in the background are small and not the subject"
+  },
+  "k1327066077": {
+    "accept": false,
+    "reason": "rear of a minibus (route 47, Hyundai branding) with its number plate as the subject; no place sign"
+  },
+  "k1321064081": {
+    "accept": false,
+    "reason": "parking regulation plates only ('MFA AND DIPLOMATIC CARS ONLY', hours); no place name"
+  },
+  "k2629516003": {
+    "accept": false,
+    "reason": "FASTBANK advertising pylons, blurred; pure advertising, no branch or place sign"
+  },
+  "c112739685": {
+    "accept": false,
+    "reason": "airport hall overview; the main sign is generic wayfinding (Departures/Arrivals); booth signs (HayPost, information, ABB, Sixt) are small with no single target"
+  },
+  "c152943064": {
+    "accept": false,
+    "reason": "handwritten no-parking notice and electrical danger plate; warnings only, no place name"
+  },
+  "c112833041": {
+    "accept": false,
+    "reason": "market entrance with only a generic currency-exchange board and a small shop word visible through the door; no legible main name sign"
+  },
+  "f4cf368ce-6360-473d-a041-af24c1bb1ae7": {
+    "accept": false,
+    "reason": "generic station 'inquiry office' sign (Armenian/Russian/English), not a named place"
+  },
+  "c37858726": {
+    "accept": false,
+    "reason": "traffic pictograms and speed limit / hours plate only; no place text"
+  },
+  "fab925edc-e275-454c-9f30-70843fb7abde": {
+    "accept": false,
+    "reason": "angel sculpture is the subject; the small signs beside it are too small to read"
+  },
+  "f83ea577f-c062-4698-b33b-c5f167afcdd7": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Armn",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "ՀՅՈՒՐ. ԱՆԻ ՊԼԱԶԱ",
+        "lang": "hy",
+        "latin": "Hyur. Ani Plaza (Hotel Ani Plaza)"
+      },
+      {
+        "text": "HOTEL ANI PLAZA",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Ani Plaza",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Upper white directional sign with left arrow, Yerevan. 'ՀՅՈՒՐ.' is a small prefix before the large 'ԱՆԻ ՊԼԱԶԱ'. The blue/beige sign below (ՍԵՎԱՆ / СЕВАН / SEVAN; հյուրանոց / гост. / hotel ԱՆԻ / АНИ / ANI) is a secondary distractor."
+  },
+  "c152943259": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Armn",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "ԱՔԱՂԱՂ",
+        "lang": "hy",
+        "latin": "Akaghagh (rooster)"
+      },
+      {
+        "text": "ՄԹԵՐՔ",
+        "lang": "hy",
+        "latin": "Mterk' (groceries)"
+      },
+      {
+        "text": "FOOD",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Աքաղաղ",
+      "type": "poi"
+    },
+    "difficulty": "hard",
+    "notes": "Rooster shop sign, Yerevan. The name is in decorative cut-out letters, one per fence picket, under the rooster; the red box letters below read 'ՄԹԵՐՔ | FOOD' in an Armenian-styled typeface. The shop name is Armenian only (Latin is just the generic 'FOOD'). Script signature at top-left is a distractor."
+  },
+  "c112739669": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn",
+      "Armn",
+      "Cyrl"
+    ],
+    "lines": [
+      {
+        "text": "SIXT",
+        "lang": "en"
+      },
+      {
+        "text": "ԱՎՏՈՄԵՔԵՆԱՆԵՐԻ ՎԱՐՁՈՒՅԹ",
+        "lang": "hy",
+        "latin": "Avtomekenaneri vardzuyt' (car rental)"
+      },
+      {
+        "text": "rent a car",
+        "lang": "en"
+      },
+      {
+        "text": "ПРОКАТ АВТОМОБИЛЕЙ",
+        "lang": "ru",
+        "latin": "Prokat avtomobiley (car rental)"
+      }
+    ],
+    "expect": {
+      "query": "Sixt",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Sixt car-rental counter, Zvartnots airport arrivals hall. Three fascia panels each with the SIXT logo; subtitles in Armenian (left), English (centre), Russian (right). Back wall 'the spirit of mobility' slogan and the cut-off bank sign at left are distractors. People at the counter are seen from behind."
+  },
+  "c112763137": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Armn",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "Մր. ԳԻՐՈՍ",
+        "lang": "hy",
+        "latin": "Mr. Giros (Mr. Gyros)"
+      },
+      {
+        "text": "Mr. GYROS",
+        "lang": "en"
+      },
+      {
+        "text": "ՀՈՒՆԱԿԱՆ • ԹԱՐՄ • ԱՐԱԳ",
+        "lang": "hy",
+        "latin": "hunakan, tarm, arag (Greek, fresh, fast)"
+      },
+      {
+        "text": "EST. 2009",
+        "lang": "en"
+      },
+      {
+        "text": "GREEK • FRESH • FAST",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Mr. Gyros",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Round illuminated sign on a stand outside the Mr. Gyros restaurant, Yerevan; the red fascia above the window repeats 'Մր. ԳԻՐՈՍ' with the same tagline. 'Մր.' is Armenian capital Մ with small ր. Small 'MG' logos omitted. Distractors: blue address plate '21/1 ԹՈՒՄԱՆՅԱՆ փող. TUMANYAN str.', 'Sorry we're CLOSED' tag, partial 'Armenian traditional cuisine' lettering."
+  },
+  "k1748178009": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Armn",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "ՄՈՍԿՈՎՅԱՆ",
+        "lang": "hy",
+        "latin": "Moskovyan"
+      },
+      {
+        "text": "փող.",
+        "lang": "hy",
+        "latin": "p'ogh. (street)"
+      },
+      {
+        "text": "MOSKOVYAN",
+        "lang": "en"
+      },
+      {
+        "text": "Str.",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Moskovyan",
+      "type": "street"
+    },
+    "difficulty": "medium",
+    "notes": "Two-sided blue street blade on a pole, Yerevan, moderately far: the Armenian face points right and the Latin face points left. A second blade behind ('...ՅԱՆ փող.') is cut off and is a distractor, as are the easywallet kiosk and blue info board."
+  },
+  "c133860661": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Armn",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "ԳԱԼՈՅԱՆ ԵՂԲԱՅՐՆԵՐԻ փ.",
+        "lang": "hy",
+        "latin": "Galoyan Eghbayrneri p'. (Galoyan Brothers Street)"
+      },
+      {
+        "text": "GALOYAN EGHBAYRNERI s.",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Galoyan Eghbayrneri",
+      "type": "street"
+    },
+    "difficulty": "easy",
+    "notes": "Blue street blade, Yerevan. The gap between ԳԱԼՈՅԱՆ and ԵՂԲԱՅՐՆԵՐԻ is very narrow on the sign. The cut-off Baghramyan blade at bottom right is a distractor."
+  },
+  "c133894948": {
+    "accept": true,
+    "reason": "",
+    "kind": "negative",
+    "scripts": [
+      "Armn"
+    ],
+    "lines": [
+      {
+        "text": "ԲԱՂՐԱՄՅԱՆ",
+        "lang": "hy",
+        "latin": "Baghramyan"
+      },
+      {
+        "text": "I նրբ.",
+        "lang": "hy",
+        "latin": "1-in nrb. (1st lane)"
+      }
+    ],
+    "expect": {
+      "query": "Բաղրամյան 1-ին նրբանցք",
+      "type": "street"
+    },
+    "difficulty": "medium",
+    "notes": "Target is the left blade (Baghramyan 1st lane), Armenian only apart from the Roman numeral I. The right blade 'M.BAGHRAMYAN Ave.' and the lower blade 'Մ. ԲԱՂՐԱՄՅԱՆ...' (partly hidden) are distractors. File title names Raphael Lemkin Street, but no Lemkin sign is visible."
+  },
+  "c133933277": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Armn",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "ԲԱՂՐԱՄՅԱՆ պող.",
+        "lang": "hy",
+        "latin": "Baghramyan pogh. (Baghramyan Avenue)"
+      },
+      {
+        "text": "BAGHRAMYAN Ave.",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Baghramyan",
+      "type": "street"
+    },
+    "difficulty": "easy",
+    "notes": "Close, frontal blue street blade, Yerevan; faint ghost letters of the reverse face show through."
+  },
+  "c151420951": {
+    "accept": true,
+    "reason": "",
+    "kind": "address plate",
+    "scripts": [
+      "Armn",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "1",
+        "lang": "und"
+      },
+      {
+        "text": "Բայրոն փ.",
+        "lang": "hy",
+        "latin": "Bayron p'. (Byron Street)"
+      },
+      {
+        "text": "Bayron st.",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Bayron st. 1",
+      "type": "addr"
+    },
+    "difficulty": "medium",
+    "notes": "Small green house-number plate at lower left (number 1, Byron Street, Yerevan). The Lord Byron relief with cursive 'Լորդ Բայրոն' above is a distractor."
+  },
+  "c133907874": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Armn",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "ԱԼԻԽԱՆՅԱՆ փող.",
+        "lang": "hy",
+        "latin": "Alikhanyan p'ogh. (Alikhanyan Street)"
+      },
+      {
+        "text": "ALIKHANYAN Str.",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Alikhanyan",
+      "type": "street"
+    },
+    "difficulty": "easy",
+    "notes": "Blue street blade, Yerevan. Cut-off Baghramyan blade at lower right is a distractor."
+  },
+  "c82561393": {
+    "accept": false,
+    "reason": "only the generic trade word 'ПАРИКМАХЕРСКАЯ' (barbershop), steeply angled; no business name"
+  },
+  "c152956613": {
+    "accept": false,
+    "reason": "generic service sign (shoe repair, 'entrance from the yard'), no business or place name"
+  },
+  "k1325536513": {
+    "accept": false,
+    "reason": "street scene with no legible main sign; kiosk branding and election poster are small"
+  },
+  "c146198681": {
+    "accept": false,
+    "reason": "memorial information plaque with paragraphs of text (document-like), not a place name sign"
+  },
+  "c76443930": {
+    "accept": false,
+    "reason": "night shot of traffic pictograms and a 'share the road' plate, blurred with glare; the small destination sign is illegible"
+  },
+  "c37858733": {
+    "accept": false,
+    "reason": "pictogram only (no dogs in water), no text"
+  },
+  "fe1441f14-4291-4999-b66b-f09a1f14e7f3": {
+    "accept": false,
+    "reason": "generic service plates (telephone repair, opening hours), no business or place name"
+  },
+  "c152943065": {
+    "accept": false,
+    "reason": "handwritten 'cold watermelon' advertisement, no place name"
+  },
+  "k1325488233": {
+    "accept": false,
+    "reason": "only a street blade cut by the image edge ('...RENATSI'); faces and cars dominate"
+  },
+  "c53682327": {
+    "accept": false,
+    "reason": "carved wooden hanging ornament with no readable text"
+  },
+  "c106547153": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn",
+      "Armn"
+    ],
+    "lines": [
+      {
+        "text": "SmArt village",
+        "lang": "en"
+      },
+      {
+        "text": "Դիտամրոց (X-XII դդ.)",
+        "lang": "hy",
+        "latin": "Ditamrots (watch fortress), 10th-12th c."
+      },
+      {
+        "text": "Watch Fortress (X-XII cc.)",
+        "lang": "en"
+      },
+      {
+        "text": "Սբ. Աստվածածին եկեղեցի (1888 – 1912թթ)",
+        "lang": "hy",
+        "latin": "Surb Astvatsatsin yekeghetsi (St. Astvatsatsin Church)"
+      },
+      {
+        "text": "St. Astvatsatsin Church (1888 – 1912)",
+        "lang": "en"
+      },
+      {
+        "text": "«Արքայաբլուր» և «Բերդալանջ» ամրոցներ, (մ.թ.ա. II-I հ.)",
+        "lang": "hy",
+        "latin": "Arqayablur ev Berdalanj amrotsner (Arqayablur and Berdalanj fortresses)"
+      },
+      {
+        "text": "\"Arqayablur\" and \"Berdalanj\" Fortresses (II-I millenium BC)",
+        "lang": "en"
+      },
+      {
+        "text": "Հակոբ Հովհաննիսյանի արվեստանոց",
+        "lang": "hy",
+        "latin": "Hakob Hovhannisyani arvestanots (Hakob Hovhannisyan art studio)"
+      },
+      {
+        "text": "Hakob Hovhannisyan Art Studio",
+        "lang": "en"
+      },
+      {
+        "text": "Սբ Հարություն մատուռ",
+        "lang": "hy",
+        "latin": "Surb Harutyun matur (St. Harutyun Chapel)"
+      },
+      {
+        "text": "St. Harutyun Chapel",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "St. Astvatsatsin Church",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Village sights board in Gusanagyugh (Shirak). The Armenian lines use a display font whose letters resemble Latin (e.g. Ք looks like f, ր like r), a useful OCR trap. 'millenium' is spelled so on the sign. Sponsor logos at top right (EU for Armenia, giz, Berlin Hotel) and the QR code are distractors and not transcribed."
+  },
+  "c170638825": {
+    "accept": true,
+    "reason": "",
+    "kind": "negative",
+    "scripts": [
+      "Armn",
+      "Syrc"
+    ],
+    "lines": [
+      {
+        "text": "ԻՍ ԱՐԶՆԻ",
+        "lang": "hy",
+        "latin": "Is Arzni (I [love] Arzni)"
+      }
+    ],
+    "expect": {
+      "query": "Արզնի",
+      "type": "place"
+    },
+    "difficulty": "medium",
+    "notes": "Large free-standing letters at the entrance of Arzni village: 'ԻՍ', then a heart emblem with the Assyrian flag, then 'ԱՐԶՆԻ'. The red Syriac-script line above the heart (Assyrian Neo-Aramaic) is not transcribed. No Latin text. Passers-by at right are incidental."
+  },
+  "k1748178169": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Armn",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "ՄԱՐՇԱԼ ԲԱՂՐԱՄՅԱՆ պող.",
+        "lang": "hy",
+        "latin": "Marshal Baghramyan pogh. (Marshal Baghramyan Avenue)"
+      },
+      {
+        "text": "MARSHAL BAGHRAMIAN ave.",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Marshal Baghramian",
+      "type": "street"
+    },
+    "difficulty": "medium",
+    "notes": "White street plate mounted under a parking sign, shot through a car windscreen in Yerevan; note the Latin spelling BAGHRAMIAN (not BAGHRAMYAN as on the blue blades). Parking zone plate (10 15 20), no-stopping sign, AVANTA / Japanese cuisine fascia and taxi roof sign are distractors."
+  },
+  "fa8b88711-d0e1-46a5-ab4d-e583120fa096": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Armn",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "ԳԱՌՆԻ ԳԵՂԱՐԴ",
+        "lang": "hy",
+        "latin": "Garni Geghard"
+      },
+      {
+        "text": "GARNI GUEGHARD",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Garni",
+      "type": "place"
+    },
+    "difficulty": "easy",
+    "notes": "Blue directional sign with a straight-ahead arrow in Yerevan pointing to Garni and Geghard. Benetton billboard and bus-stop sign behind are distractors."
+  },
+  "k1748162073": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "acba",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Acba",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Green fascia of an ACBA bank branch, Yerevan, slightly soft. The small phone number and website at the right of the fascia are too blurry to transcribe. Pink sign at left and dark pylon are distractors; faces are blurred."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=a64bec67-d079-4bb6-84ff-736d6845afb0",
+  "original_url": "https://panoramax.openstreetmap.fr/images/a6/4b/ec/67/d079-4bb6-84ff-736d6845afb0.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "Anonymous897234",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture a64bec67-d079-4bb6-84ff-736d6845afb0 (Osaka, 2026-10-21)",
+  "description": "Street-level picture taken 2026-10-21 near Osaka by Anonymous897234, sequence a12171a9-8a77-4ed3-ab08-f4c367efa782, heading 6. OCR (PP-OCRv3) read: SPICE | PUNJABI | Indian Restaurant Cafe &Bar | 2F入口 | PUNJAE | SPICE",
+  "date": "2026-10-21",
+  "categories": [],
+  "camera_location": [
+    34.683453958,
+    135.515962048
+  ],
+  "found_by": "panoramax-ocr:Osaka",
+  "bytes": 867342,
+  "width": 2160,
+  "height": 1800,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/a6/4b/ec/67/d079-4bb6-84ff-736d6845afb0.jpg",
+  "derivative": "crop 0,384,2160,2184 of the 2160x3840 HD picture"
+}

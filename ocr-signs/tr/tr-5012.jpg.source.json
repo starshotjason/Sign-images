@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/121190/743/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMy5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE3LzQvMTMvcHJvYy8xMjExOTBfZjNhZDRfNThlZjkzY2FlYzZjOC5qcGc",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "telenavdrives",
+  "credit_as_published": "KartaView user telenavdrives (user id 53); © KartaView contributors",
+  "title": "KartaView photo 26929208, sequence 121190 #743 (Ankara, 2017-04-05)",
+  "description": "Street-level picture on KartaView, taken 2017-04-05 near Ankara by telenavdrives, sequence 121190, heading 0. OCR (PP-OCRv3) read: SEKER | ELPASO | Best of Wes | NADOLU | MUTFAGI",
+  "date": "2017-04-05",
+  "categories": [],
+  "camera_location": [
+    39.915906,
+    32.8557
+  ],
+  "found_by": "kartaview-ocr:Ankara",
+  "bytes": 392378,
+  "width": 1574,
+  "height": 1180,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMy5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE3LzQvMTMvcHJvYy8xMjExOTBfZjNhZDRfNThlZjkzY2FlYzZjOC5qcGc",
+  "derivative": "crop 1017,456,2591,1636 of the 2592x1936 full-size processed (blurred) picture"
+}

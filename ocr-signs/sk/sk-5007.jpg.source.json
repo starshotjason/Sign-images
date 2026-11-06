@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=269c250d-b2a5-431f-a520-7900f81d5c07",
+  "original_url": "https://panoramax.openstreetmap.fr/images/26/9c/25/0d/b2a5-431f-a520-7900f81d5c07.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "Julia Keil-Voss",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture 269c250d-b2a5-431f-a520-7900f81d5c07 (Bratislava, 2026-07-12)",
+  "description": "Street-level picture on Panoramax, taken 2026-07-12 near Bratislava by Julia Keil-Voss, sequence 92beebb1-68ec-4a40-86b6-bc1cebabe788, heading 7. OCR (PP-OCRv3) read: 1.Ceskoslovenske opevnenie z rokov 1935-1938 | Czechoslovak fortifications from the years 1935-1938 | Mnichovska dohoda-koniecopevnenia,koniecCeskoslovenska | POLSKO | MADARSKO | Dovodyvystavby | *Czechoslovakfortifications from1935-1938 in Bratislava | Ceskoslovenske opevnenie zr.1935-1938vBratislave",
+  "date": "2026-07-12",
+  "categories": [],
+  "camera_location": [
+    48.127667972,
+    17.072337
+  ],
+  "found_by": "panoramax-ocr:Bratislava",
+  "bytes": 5211792,
+  "width": 4080,
+  "height": 3060,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/26/9c/25/0d/b2a5-431f-a520-7900f81d5c07.jpg",
+  "derivative": "whole 4080x3060 HD picture as served by the Panoramax instance (byte-identical; the service blurs faces and number plates), not cropped"
+}

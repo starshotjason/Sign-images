@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=203a98ee-288c-4030-aa73-aee395307e6a",
+  "original_url": "https://panoramax.openstreetmap.fr/images/20/3a/98/ee/288c-4030-aa73-aee395307e6a.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "rodolfovargas",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture 203a98ee-288c-4030-aa73-aee395307e6a (La Paz, 2025-02-10)",
+  "description": "Street-level picture taken 2025-02-10 near La Paz by rodolfovargas, sequence 9b51a021-137c-4c42-ad2a-c413b8e40fea, heading 215. OCR (PP-OCRv3) read: HOSPITAL MODELO | CAJA BANCARIA ESTATAL DE | EMERGENCIAS",
+  "date": "2025-02-10",
+  "categories": [],
+  "camera_location": [
+    -16.49708,
+    -68.123446972
+  ],
+  "found_by": "panoramax-ocr:La Paz",
+  "bytes": 7123806,
+  "width": 3000,
+  "height": 4000,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/20/3a/98/ee/288c-4030-aa73-aee395307e6a.jpg",
+  "derivative": "whole 3000x4000 HD picture as served by the Panoramax instance (byte-identical; the instance blurs faces and number plates), not cropped"
+}

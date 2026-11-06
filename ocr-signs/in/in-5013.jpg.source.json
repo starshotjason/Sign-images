@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=20a486a6-c2c3-4b34-bce0-1871fc920b69",
+  "original_url": "https://panoramax.openstreetmap.fr/images/20/a4/86/a6/c2c3-4b34-bce0-1871fc920b69.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "contrapunctus",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture 20a486a6-c2c3-4b34-bce0-1871fc920b69 (Bengaluru, 2025-09-22)",
+  "description": "Street-level picture taken 2025-09-22 near Bengaluru by contrapunctus, sequence 06800c80-b5df-403a-a7ab-43d8c89eb633, heading 246. OCR (PP-OCRv3) read: HITEHOUSE | &CHIVAS | GOOD T | RIG | BEGIN | FORSTERPHARMA | GSTIN29AFIPP9605G1ZQ | CHEMISTS &DRUGGISTS | #24StMarksRoad.Bangalore-560001.Tel:080-22213568/22222028 | Estd:1979 | Juice Junction | FOSTERING HEALTH",
+  "date": "2025-09-22",
+  "categories": [],
+  "camera_location": [
+    12.972241,
+    77.601066
+  ],
+  "found_by": "panoramax-ocr:Bengaluru",
+  "bytes": 3580717,
+  "width": 3072,
+  "height": 4096,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/20/a4/86/a6/c2c3-4b34-bce0-1871fc920b69.jpg",
+  "derivative": "whole 3072x4096 HD picture as served by the Panoramax instance (byte-identical; the instance blurs faces and number plates), not cropped"
+}

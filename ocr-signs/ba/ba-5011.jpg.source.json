@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=a353a5fd-8d0f-4b05-b5d0-7fbb42c6c2e4",
+  "original_url": "https://panoramax.openstreetmap.fr/images/a3/53/a5/fd/8d0f-4b05-b5d0-7fbb42c6c2e4.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "Robot8A",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture a353a5fd-8d0f-4b05-b5d0-7fbb42c6c2e4 (Sarajevo, 2026-04-04)",
+  "description": "Street-level picture taken 2026-04-04 near Sarajevo by Robot8A, sequence fb9fca9b-7421-48a7-9e9c-7b23dd28c198, heading 17. OCR (PP-OCRv3) read: ZELJEZNCKA STANCA",
+  "date": "2026-04-04",
+  "categories": [],
+  "camera_location": [
+    43.860052778,
+    18.399641667
+  ],
+  "found_by": "panoramax-ocr:Sarajevo",
+  "bytes": 3255826,
+  "width": 4284,
+  "height": 3928,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/a3/53/a5/fd/8d0f-4b05-b5d0-7fbb42c6c2e4.jpg",
+  "derivative": "crop 0,1528,4284,5456 of the 4284x5712 HD picture"
+}

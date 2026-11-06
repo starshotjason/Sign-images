@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/3670053/50/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMS82LzE2L3Byb2MvMzY3MDA1M182MDcxNl82MGNhODA3ZjAyNDk2LmpwZw",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "mishari",
+  "credit_as_published": "KartaView user mishari (user id 17953); © KartaView contributors",
+  "title": "KartaView photo 1323297289, sequence 3670053 #50 (Bangkok Sukhumvit, 2017-02-25)",
+  "description": "Street-level picture on KartaView, taken 2017-02-25 near Bangkok Sukhumvit by mishari, sequence 3670053, heading 84.19. OCR (PP-OCRv3) read: MULBERRY2",
+  "date": "2017-02-25",
+  "categories": [],
+  "camera_location": [
+    13.738311,
+    100.56408
+  ],
+  "found_by": "kartaview-ocr:Bangkok Sukhumvit",
+  "bytes": 1419239,
+  "width": 2820,
+  "height": 2115,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMS82LzE2L3Byb2MvMzY3MDA1M182MDcxNl82MGNhODA3ZjAyNDk2LmpwZw",
+  "derivative": "crop 0,648,2820,2763 of the 4000x3000 full-size processed (blurred) picture"
+}

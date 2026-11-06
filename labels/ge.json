@@ -1,0 +1,494 @@
+{
+ "p004506fc66": {
+  "accept": false,
+  "reason": "no single legible place sign: Pepsi advertising umbrella dominates; shop signs are small or hidden behind it"
+ },
+ "p2ef81ad6fb": {
+  "accept": true,
+  "reason": "",
+  "kind": "hard",
+  "scripts": [
+   "Geor",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "სასტუმრო",
+    "lang": "ka",
+    "latin": "sastumro (hotel)"
+   },
+   {
+    "text": "პოსეიდონი",
+    "lang": "ka",
+    "latin": "Poseidoni (Poseidon)"
+   },
+   {
+    "text": "HO",
+    "lang": "en"
+   },
+   {
+    "text": "POS",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Poseidon",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Rooftop letters of Hotel Poseidon, Batumi, seen from a distance with a Poseidon statue between the Georgian and Latin parts. Georgian is in uniform-height capital-style lettering, recorded with Mkhedruli code points. The Latin part is cut by the right image edge: only 'HO' and 'POS' are visible (presumably HOTEL / POSEIDON) and are not completed. Distractors: SLOT CLUB POSEIDON fascia at street level, TOURISM shop sign, entertainment banner."
+ },
+ "p7708f4a79b": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn",
+   "Geor"
+  ],
+  "lines": [
+   {
+    "text": "OLD CITY",
+    "lang": "en"
+   },
+   {
+    "text": "LAUNDRY",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Old City Laundry",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Clear acrylic panel with neon washing-machine graphic. A vertical line of small blue Georgian letters at the left edge of the panel and a short neon word on the machine are too small/stylised to read reliably and are not transcribed. Person in doorway is incidental."
+ },
+ "p7fdf0c68bb": {
+  "accept": true,
+  "reason": "",
+  "kind": "hard",
+  "scripts": [
+   "Geor",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ამთიმი",
+    "lang": "ka",
+    "latin": "...amtimi (Tamtimi)"
+   },
+   {
+    "text": "TamTeam",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "TamTeam",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Motion-blurred shot of a restaurant fascia with chef logo. The Georgian word is cut by the left image edge: only 'ამთიმი' is visible (likely თამთიმი, not completed). Neighbouring Georgian sign at right (cut off) is a distractor."
+ },
+ "p81691480e1": {
+  "accept": false,
+  "reason": "only graffiti tags (LST, NDC); no sign"
+ },
+ "pa10cbe3bbe": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Geor",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ბობის სახლი",
+    "lang": "ka",
+    "latin": "Bobis sakhli (Bob's house)"
+   },
+   {
+    "text": "BoB's House",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "BoB's House",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Upper window graphics; the same text repeats smaller on the panel above the right door. Awning and window text 'მარკეტი' (market) and Coca-Cola branding are distractors. Phone sticker 59 2159119 on door not labelled."
+ },
+ "pca0a72ede0": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Geor",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "დარაბა",
+    "lang": "ka",
+    "latin": "Daraba (shutter)"
+   },
+   {
+    "text": "DARABA",
+    "lang": "en"
+   },
+   {
+    "text": "CAFE & BAR",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Daraba",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Round lightbox sign. The Georgian word is stacked vertically, one letter per row, in the yellow strip of the shutter logo. The chalkboard 'Daily Offer' menu below is a distractor and not labelled."
+ },
+ "pf3345d30f0": {
+  "accept": false,
+  "reason": "only graffiti on a bench (LST.NDC.MILZ, WIRT. BLS.NSK); no sign"
+ },
+ "pa07260f339": {
+  "accept": false,
+  "reason": "arcade cabinet screen (game story text) in a cafe; no place sign"
+ },
+ "k1082525190": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Geor",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "რესტორანი",
+    "lang": "ka",
+    "latin": "restorani (restaurant)"
+   },
+   {
+    "text": "შუმერული",
+    "lang": "ka",
+    "latin": "Shumeruli"
+   },
+   {
+    "text": "Restaurant Shumeruli",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Shumeruli",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Target is the pale-blue fascia over the left shopfront, Batumi, seen from across the street and a little soft; the small top Georgian word is the least legible line. The wooden sign at right 'ლუდსახარში შუმერული' / 'BREWERY SHUMERULI' (same business) and the 'TURKISH TOBACCO' sign at far left are distractors. Parked cars dominate the foreground; their plates are blurred."
+ },
+ "c12594116": {
+  "accept": false,
+  "reason": "wrong country: Peachtree Corners, Georgia (USA)"
+ },
+ "c128946420": {
+  "accept": true,
+  "kind": "street sign",
+  "scripts": [
+   "Geor",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ჰოვანეს",
+    "lang": "ka",
+    "latin": "Hovanes"
+   },
+   {
+    "text": "თუმანიანის ქ.",
+    "lang": "ka",
+    "latin": "Tumanianis k. (Tumanyan St.)"
+   },
+   {
+    "text": "Hovhannes",
+    "lang": "en"
+   },
+   {
+    "text": "Tumanyan St.",
+    "lang": "en"
+   },
+   {
+    "text": "1",
+    "lang": "und"
+   },
+   {
+    "text": "ᲙᲠᲬᲐᲜᲘᲡᲘᲡ ᲠᲐᲘᲝᲜᲘ 0105",
+    "lang": "ka",
+    "latin": "Krtsanisis raioni 0105 (Krtsanisi District, postcode)"
+   }
+  ],
+  "expect": {
+   "query": "Hovhannes Tumanyan",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Modern blue Tbilisi address plate, house number 1. Bottom district line is in Mtavruli (capital Georgian, U+1C90 block). QR code at lower right.",
+  "reason": ""
+ },
+ "c136037020": {
+  "accept": true,
+  "kind": "street sign",
+  "scripts": [
+   "Geor",
+   "Armn",
+   "Cyrl"
+  ],
+  "lines": [
+   {
+    "text": "ᲩᲐᲠᲔᲜᲪᲘᲡ ქ.",
+    "lang": "ka",
+    "latin": "Charentsis k. (Charents St.)"
+   },
+   {
+    "text": "ՉԱՐԵՆՑ փ.",
+    "lang": "hy",
+    "latin": "Charents p. (Charents St.)"
+   },
+   {
+    "text": "ул. ЧАРЕНЦА",
+    "lang": "ru",
+    "latin": "ul. Charentsa (Charents St.)"
+   }
+  ],
+  "expect": {
+   "query": "Чаренца",
+   "type": "street"
+  },
+  "difficulty": "hard",
+  "notes": "Small old enamel trilingual plate (Georgian in Mtavruli capitals, Armenian, Russian) on a corner house in Akhalkalaki, far from the camera. The abbreviations are tiny: small ქ. after the Georgian, փ. after the Armenian and ул. before the Russian; the ул. is barely legible. Query uses the Russian line because it is the only script the reader handles here.",
+  "reason": ""
+ },
+ "c136940501": {
+  "accept": true,
+  "kind": "address plate",
+  "scripts": [
+   "Latn",
+   "Geor",
+   "Zyyy"
+  ],
+  "lines": [
+   {
+    "text": "ABOVIANI",
+    "lang": "en"
+   },
+   {
+    "text": "STREET",
+    "lang": "en"
+   },
+   {
+    "text": "8",
+    "lang": "und"
+   },
+   {
+    "text": "ᲐᲑᲝᲕᲘᲐᲜᲘᲡ",
+    "lang": "ka",
+    "latin": "Abovianis"
+   },
+   {
+    "text": "ᲥᲣᲩᲐ",
+    "lang": "ka",
+    "latin": "kucha (street)"
+   }
+  ],
+  "expect": {
+   "query": "Aboviani",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Decorative wrought-iron house-number plate, 8 Aboviani (Abovyan) Street, Tbilisi; English on the left, Georgian in Mtavruli capitals on the right, large 8 in the middle.",
+  "reason": ""
+ },
+ "c144438274": {
+  "accept": true,
+  "kind": "negative",
+  "scripts": [
+   "Geor"
+  ],
+  "lines": [
+   {
+    "text": "ბარბერი",
+    "lang": "ka",
+    "latin": "Barberi (Burberry)"
+   }
+  ],
+  "expect": {
+   "query": "Burberry",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Burberry store fascia in Tbilisi written only in Georgian Mkhedruli letters (no Latin brand name visible).",
+  "reason": ""
+ },
+ "c148293718": {
+  "accept": true,
+  "kind": "negative",
+  "scripts": [
+   "Geor",
+   "Armn"
+  ],
+  "lines": [
+   {
+    "text": "ილია ჭავჭავაძის ქ.",
+    "lang": "ka",
+    "latin": "Ilia Chavchavadzis k. (Ilia Chavchavadze St.)"
+   },
+   {
+    "text": "Իլիա Ճավճավաձեի փ.",
+    "lang": "hy",
+    "latin": "Ilia Chavchavadzei p. (Ilia Chavchavadze St.)"
+   }
+  ],
+  "expect": {
+   "query": "ილია ჭავჭავაძის ქუჩა",
+   "type": "street"
+  },
+  "difficulty": "medium",
+  "notes": "Modern silver plate on tuff wall in Akhalkalaki, shot from below at an angle; Georgian and Armenian only, no Latin or Cyrillic.",
+  "reason": ""
+ },
+ "c151989263": {
+  "accept": true,
+  "kind": "street sign",
+  "scripts": [
+   "Geor",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "სამტრედიის ქ.",
+    "lang": "ka",
+    "latin": "Samtrediis k. (Samtredia St.)"
+   },
+   {
+    "text": "Samtredia St.",
+    "lang": "en"
+   },
+   {
+    "text": "10",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "Samtredia",
+   "type": "street"
+  },
+  "difficulty": "medium",
+  "notes": "Blue/white Tbilisi street-and-number plate (Didube); the 't.' of 'St.' is partly scraped where a sticker was removed. Old lamp-box and enamel '10' number plates above are distractors.",
+  "reason": ""
+ },
+ "c156294527": {
+  "accept": true,
+  "kind": "business sign",
+  "scripts": [
+   "Geor",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ზოო იმპერია",
+    "lang": "ka",
+    "latin": "Zoo imperia (Zoo Empire)"
+   },
+   {
+    "text": "საუკეთესო ცხოველისათვის",
+    "lang": "ka",
+    "latin": "sauketeso tskhovelisatvis (for the best animal)"
+   },
+   {
+    "text": "ZOO EMPIRE",
+    "lang": "en"
+   },
+   {
+    "text": "For the best Pets",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Zoo Empire",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Pet-shop fascia, Tbilisi. Distractors: green 'ბორმანი / BORMANN' lightbox, 'Verbena' shop at left, product posters, and the address plate 'Ი.ᲕᲐᲙᲔᲚᲘᲡ 2ა' at right.",
+  "reason": ""
+ },
+ "c159029074": {
+  "accept": true,
+  "kind": "landmark",
+  "scripts": [
+   "Geor",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "მდ. უკანღელე",
+    "lang": "ka",
+    "latin": "md. Ukanghele (river Ukanghele)"
+   },
+   {
+    "text": "riv. UKANGELE",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Ukangele",
+   "type": "place"
+  },
+  "difficulty": "easy",
+  "notes": "Blue river-name sign at a road bridge, Lanchkhuti Municipality. The English romanisation drops the gh (UKANGELE).",
+  "reason": ""
+ },
+ "c163302459": {
+  "accept": false,
+  "reason": "faded ghost plaque; most letters illegible"
+ },
+ "c163938152": {
+  "accept": false,
+  "reason": "generic ghost fascia (meat / milk) naming no business; the small canteen plaque is a secondary sign"
+ },
+ "c163938388": {
+  "accept": true,
+  "kind": "business sign",
+  "scripts": [
+   "Geor",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ᲠᲘᲙᲝ ᲙᲠᲔᲓᲘᲢᲘ",
+    "lang": "ka",
+    "latin": "Riko kredit'i (Rico Credit)"
+   },
+   {
+    "text": "29 29 29",
+    "lang": "und"
+   },
+   {
+    "text": "www. rico.ge",
+    "lang": "en"
+   },
+   {
+    "text": "ᲚᲝᲛᲑᲐᲠᲓᲘ",
+    "lang": "ka",
+    "latin": "lombardi (pawnshop)"
+   }
+  ],
+  "expect": {
+   "query": "რიკო კრედიტი",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Rico Credit pawnshop fascia in Mtavruli capitals, Tbilisi. Distractors: old ghost lettering above (Georgian and Cyrillic 'КАФЕ'), round 'რიკო ჯგუფი' logo, exchange-rate LED board, 24/7 and ATM signs, parking sign. Trees partly in front of the upper ghost sign, not of the target.",
+  "reason": ""
+ }
+}

@@ -1,0 +1,372 @@
+{
+  "c153528230": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "Wilhelmstal",
+        "lang": "de"
+      },
+      {
+        "text": "PAD STAL",
+        "lang": "af"
+      },
+      {
+        "text": "BILTONG",
+        "lang": "af"
+      },
+      {
+        "text": "DROËWORS",
+        "lang": "af"
+      },
+      {
+        "text": "CHILLI BITES",
+        "lang": "en"
+      },
+      {
+        "text": "REFRESHMENTS",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Wilhelmstal Padstal",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Roadside farm-stall board at Wilhelmstal (B2). 'PAD' and 'STAL' are split either side of an oryx-head logo. Keep the diaeresis in 'DROËWORS'. The blue bottom strip ('TOLL FREE 924', 'E-MED RESCUE 24 CHOOSE LIFE') is an advert distractor; vehicles behind the fence are incidental."
+  },
+  "c70649643": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "Namib",
+        "lang": "en"
+      },
+      {
+        "text": "High School",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Namib High School",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Painted name plate in an uncial-style font on a yellow wall, Swakopmund. The blue relief plaque at left ('Erbaut im Jahre 1913', blackletter) is a distractor."
+  },
+  "c178874834": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "OKASISE",
+        "lang": "hz"
+      }
+    ],
+    "expect": {
+      "query": "Okasise",
+      "type": "place"
+    },
+    "difficulty": "medium",
+    "notes": "White river-name sign with a blue wavy-water pictogram beside the road east of Wilhelmstal; mid-distance (about 170 px wide). It marks the Okasise river crossing."
+  },
+  "c53533102": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn",
+      "Zyyy"
+    ],
+    "lines": [
+      {
+        "text": "Ghaub",
+        "lang": "de"
+      },
+      {
+        "text": "CAVES",
+        "lang": "en"
+      },
+      {
+        "text": "25km",
+        "lang": "und"
+      },
+      {
+        "text": "Gauss",
+        "lang": "de"
+      },
+      {
+        "text": "50 km",
+        "lang": "und"
+      }
+    ],
+    "expect": {
+      "query": "Gauss",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Two brown tourist direction signs (guest farms) with house, hiking and cave pictograms and right-turn arrows, on the B1 north of Otavi. 'CAVES' is a tiny label over the cave icon. Alternative query: 'Ghaub'."
+  },
+  "c79509140": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "Bismarck-Str.",
+        "lang": "de"
+      }
+    ],
+    "expect": {
+      "query": "Bismarck Street",
+      "type": "street"
+    },
+    "difficulty": "easy",
+    "notes": "Old German enamel street plate with rusted edges, Swakopmund. The map may list the street as 'Bismarck Street' or 'Bismarckstraße'; the sign itself reads 'Bismarck-Str.'."
+  },
+  "c113921182": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "NWR",
+        "lang": "en"
+      },
+      {
+        "text": "namibia wildlife resorts",
+        "lang": "en"
+      },
+      {
+        "text": "OFFICE HOURS",
+        "lang": "en"
+      },
+      {
+        "text": "BUROSTUNDEN",
+        "lang": "de"
+      },
+      {
+        "text": "SUNRISE - SUNSET",
+        "lang": "en"
+      },
+      {
+        "text": "SONNENAUFGANG - SONNENUTERGANG",
+        "lang": "de"
+      }
+    ],
+    "expect": {
+      "query": "Namibia Wildlife Resorts",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "English/German office-hours plate of a Namibia Wildlife Resorts office. 'NWR' is a stylised script logo. Spellings are as printed: 'BUROSTUNDEN' without umlaut and 'SONNENUTERGANG' (missing n). The dashes between times are square dots on the sign. Glare across the right of the lower lines."
+  },
+  "c125797042": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "Altstadt Restaurant",
+        "lang": "de"
+      },
+      {
+        "text": "SWAKOPMUND",
+        "lang": "de"
+      },
+      {
+        "text": "BIERGARTEN",
+        "lang": "de"
+      },
+      {
+        "text": "HENDRIK WITBOOI",
+        "lang": "en"
+      },
+      {
+        "text": "ANTON LUBOWSKI",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Altstadt Restaurant",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Pylon sign seen from below, Swakopmund: script 'Altstadt Restaurant' over a round logo ('EST. 2018' tiny), with two street-name light boxes ('HENDRIK WITBOOI', 'ANTON LUBOWSKI') on the same pole. The phone number is cut off behind the street box ('PHONE - 064 4...'). Alternative queries: 'Hendrik Witbooi' or 'Anton Lubowski' (street)."
+  },
+  "c126091609": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "Owela Museum",
+        "lang": "en"
+      },
+      {
+        "text": "National Theater of Namibia",
+        "lang": "en"
+      },
+      {
+        "text": "National Archives",
+        "lang": "en"
+      },
+      {
+        "text": "Old Windhoek Prison",
+        "lang": "en"
+      },
+      {
+        "text": "Franco Namibian Cultural Centre",
+        "lang": "en"
+      },
+      {
+        "text": "Reiterdenkmal",
+        "lang": "de"
+      },
+      {
+        "text": "Alte Feste",
+        "lang": "de"
+      },
+      {
+        "text": "Parliament Building",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Owela Museum",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Large brown tourist direction sign in Windhoek, seen from below, with museum/theatre/monument pictograms; the top five destinations go left, the bottom three right. A woman seen from behind is incidental. Alternative query: 'Alte Feste'."
+  },
+  "c19557031": {
+    "accept": false,
+    "reason": "schoolyard with flag; no legible sign"
+  },
+  "c53314699": {
+    "accept": false,
+    "reason": "museum information board listing cannons (English/German); the title line is cut off at the top"
+  },
+  "c69841757": {
+    "accept": false,
+    "reason": "generic 'WELKOM' farm gate sign; no name"
+  },
+  "c71217869": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "BAHNHOFSTRASSE",
+        "lang": "de"
+      }
+    ],
+    "expect": {
+      "query": "Bahnhof Street",
+      "type": "street"
+    },
+    "difficulty": "medium",
+    "notes": "White street blade seen from below, Windhoek; the edge of a perpendicular blade crosses the 'F' between 'BAHNHO' and 'STRASSE'. The street is usually mapped as 'Bahnhof Street'. The cross street blade (text edge-on, ending '...VENUE'?) is not legible."
+  },
+  "c19557035": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "MOKGANEDI",
+        "lang": "tn"
+      },
+      {
+        "text": "TlHABANEllO",
+        "lang": "tn"
+      },
+      {
+        "text": "HIGH SCHOOL",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Mokganedi Tlhabanello High School",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Painted lettering on the gate wall, Drimiopsis. The second line is in a brush-script font where the two 'l's are lowercase loop letters among capitals ('TlHABANEllO' = Tlhabanello); they could be misread as 'I'. The school crest at left and the 'AIDS KILLS / TAKE CONTROL' ribbon mural on the right wall are distractors."
+  },
+  "c11894401": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "ASAB GENERAL DEALER",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Asab General Dealer",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "White fascia over a store veranda in Asab, southern Namibia. Product logos (JOKO, MILK) on the fascia, MTC 'mtc make the connection' wall panels, a 'TAKE AWAY' sign and small posters are distractors."
+  },
+  "c74341273": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn",
+      "Zyyy"
+    ],
+    "lines": [
+      {
+        "text": "NAMIB-NAUKLUFT PARK",
+        "lang": "en"
+      },
+      {
+        "text": "CAUTION",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Namib-Naukluft Park",
+      "type": "place"
+    },
+    "difficulty": "easy",
+    "notes": "Green park rules board at the roadside. Only the park name and heading are targets; the warning pictograms, '100' speed-limit roundel, captions ('STRICTLY NO OFF-ROAD DRIVING', 'ADHERE TO THE SPEED LIMIT', 'IT IS ILLEGAL TO REMOVE PLANTS / ANIMALS', 'KEEP OUR PARK CLEAN - BRING OUT WHAT YOU TAKE IN', 'PLEASE REPORT ANY VIOLATIONS TO (064) 205 726') and the tiny sponsor line are secondary."
+  }
+}

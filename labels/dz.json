@@ -1,0 +1,535 @@
+{
+  "c180616033": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn",
+      "Arab"
+    ],
+    "lines": [
+      {
+        "text": "The Market Lalla Achou",
+        "lang": "en"
+      },
+      {
+        "text": "Le Marché Lalla Achou",
+        "lang": "fr"
+      },
+      {
+        "text": "سوق لالة عشو",
+        "lang": "ar",
+        "latin": "Suq Lalla Achou (Lalla Achou market)"
+      }
+    ],
+    "expect": {
+      "query": "Lalla Achou",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Trilingual interpretive panel on a wall in Ksar Beni Isguen (Ghardaia). Only the three title banners (English, French, Arabic, left to right) are transcribed; the long paragraph text under each title and the 'OTD' logo are not part of the label."
+  },
+  "c28468878": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Arab",
+      "Tfng"
+    ],
+    "lines": [
+      {
+        "text": "الأوراسية",
+        "lang": "ar",
+        "latin": "al-Awrasiya (the Aures one)"
+      },
+      {
+        "text": "حلويات و مرطبات",
+        "lang": "ar",
+        "latin": "Halawiyat wa murattabat (sweets and refreshments)"
+      }
+    ],
+    "expect": {
+      "query": "الأوراسية",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Orange pastry-shop fascia in Batna. Each Arabic line has a Tifinagh (neo-Tifinagh, Berber Academy style glyphs) line under it: 9 glyphs under the name, two words under 'halawiyat wa murattabat'. The Tifinagh lines are NOT transcribed: the glyph-to-Unicode mapping of this letter style is ambiguous and the labeller would have had to guess codepoints; a checker who reads Tifinagh should add them. Garage sign at right and car plates are distractors."
+  },
+  "c77678717": {
+    "accept": false,
+    "reason": "Wikivoyage banner crop (1600x228 strip): sign text cut off at top and bottom"
+  },
+  "c178461448": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "نهج",
+        "lang": "ar",
+        "latin": "Nahj (Street)"
+      },
+      {
+        "text": "عليوي بلقاسم",
+        "lang": "ar",
+        "latin": "Allioui Belkacem"
+      },
+      {
+        "text": "RUE",
+        "lang": "fr"
+      },
+      {
+        "text": "ALLIOUI BELKACEM",
+        "lang": "fr"
+      }
+    ],
+    "expect": {
+      "query": "Allioui Belkacem",
+      "type": "street"
+    },
+    "difficulty": "easy",
+    "notes": "Blue enamel street plate in Cherchell, frontal and sharp. Arabic uses 'nahj' for street."
+  },
+  "c180774055": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Arab"
+    ],
+    "lines": [
+      {
+        "text": "المسجد العتيق الجامع",
+        "lang": "ar",
+        "latin": "al-Masjid al-Atiq al-Jami' (the old congregational mosque)"
+      },
+      {
+        "text": "تأسس سنة 402 هـ - 1012 م",
+        "lang": "ar",
+        "latin": "Ta'assasa sanat 402 H - 1012 M (founded in 402 AH / 1012 AD)"
+      }
+    ],
+    "expect": {
+      "query": "المسجد العتيق",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Marble name plate of the old mosque of Ksar El Atteuf (M'zab valley). Western digits. 'سنة' is drawn with a long kashida (tatweel omitted here); the separator between 'هـ' and 1012 is a short dash/kashida."
+  },
+  "c181728460": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "جسر سيدي مسيد",
+        "lang": "ar",
+        "latin": "Jisr Sidi M'cid (Sidi M'Cid bridge)"
+      },
+      {
+        "text": "PONT SIDI M'CID",
+        "lang": "fr"
+      }
+    ],
+    "expect": {
+      "query": "Sidi M'Cid",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Marble plaque of the Sidi M'Cid suspension bridge, Constantine. Only the two title lines are labelled; the bilingual table below (length 160,00 m, width 5,80 m, height 175,00 m, 1912, rehabilitation 1982 et 2000, SAPTA) is not transcribed. Apostrophe in M'CID is a slanted typographic quote."
+  },
+  "c54399135": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "بلدية سفيزف",
+        "lang": "ar",
+        "latin": "Baladiyat Sfizef (Commune of Sfisef)"
+      },
+      {
+        "text": "ترحب بكم",
+        "lang": "ar",
+        "latin": "turahhibu bikum (welcomes you)"
+      },
+      {
+        "text": "LA COMMUNE",
+        "lang": "fr"
+      },
+      {
+        "text": "DE SFISEF VOUS",
+        "lang": "fr"
+      },
+      {
+        "text": "SOUHAITE LA BIENVENUE",
+        "lang": "fr"
+      },
+      {
+        "text": "WELCOME TO SFISEF",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Sfisef",
+      "type": "place"
+    },
+    "difficulty": "medium",
+    "notes": "Roadside trilingual welcome sign of Sfisef commune (right of frame). The overhead blue gantry 'ولاية سيدي بلعباس ترحب بكم / LA WILAYA DE SIDI BEL ABBES VOUS SOUHAITELA BIENVENUE' is a distractor. Small red paint mark on the S of SOUHAITE."
+  },
+  "c56406882": {
+    "accept": false,
+    "reason": "main door sign 'بيت الوضوء' (ablution room) is not a map place; the street plate on the corner is too small to read the final letters reliably"
+  },
+  "c60535577": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "ولاية البويرة ترحب بكم",
+        "lang": "ar",
+        "latin": "Wilayat al-Buwira turahhibu bikum (Bouira province welcomes you)"
+      },
+      {
+        "text": "LA WILAYA DE BOUIRA",
+        "lang": "fr"
+      },
+      {
+        "text": "VOUS SOUHAITE",
+        "lang": "fr"
+      },
+      {
+        "text": "LA BIENVENUE",
+        "lang": "fr"
+      }
+    ],
+    "expect": {
+      "query": "Bouira",
+      "type": "place"
+    },
+    "difficulty": "medium",
+    "notes": "Blue overhead welcome panel on the N5 near Lakhdaria, seen from the road. Distractors: red/green 'بلدية عمال ... LA COMMUNE DE AMMAL VOUS REMERCIE DE VOTRE VISITE / THANK YOU FOR YOUR VISIT' at right and a small Lakhdaria/Bouira direction sign."
+  },
+  "c138435192": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "EDITION",
+        "lang": "fr"
+      },
+      {
+        "text": "DISCO",
+        "lang": "fr"
+      },
+      {
+        "text": "MAGHREB",
+        "lang": "fr"
+      }
+    ],
+    "expect": {
+      "query": "Disco Maghreb",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Board over the closed Disco Maghreb record shop, Oran. The same name is painted vertically in green on the two pillars ('DISCO' and 'MAGHREB'); a broken neon 'Maghreb' script at the top and a no-entry sign are distractors."
+  },
+  "c66280552": {
+    "accept": false,
+    "reason": "near-duplicate of c138435192 (same Disco Maghreb shop); letters partly missing"
+  },
+  "c103366777": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "ولاية سيدي بلعباس",
+        "lang": "ar",
+        "latin": "Wilayat Sidi Bel Abbes (Sidi Bel Abbes province)"
+      },
+      {
+        "text": "ترحب بكم",
+        "lang": "ar",
+        "latin": "turahhibu bikum (welcomes you)"
+      },
+      {
+        "text": "LA WILAYA",
+        "lang": "fr"
+      },
+      {
+        "text": "DE SIDI BEL ABBES VOUS",
+        "lang": "fr"
+      },
+      {
+        "text": "SOUHAITE LA BIENVENUE",
+        "lang": "fr"
+      }
+    ],
+    "expect": {
+      "query": "Sidi Bel Abbes",
+      "type": "place"
+    },
+    "difficulty": "easy",
+    "notes": "Blue province-border welcome panel on the A3 motorway gantry. The yellow panel beside it ('ولاية معسكر تتمنى لكم طريق السلامة / LA WILAYA DE MASCARA VOUS SOUHAITE BONNE ROUTE') is a distractor."
+  },
+  "c103367068": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "بلدية وادي البارد ترحب بكم",
+        "lang": "ar",
+        "latin": "Baladiyat Wadi al-Barid turahhibu bikum (Oued El Bared commune welcomes you)"
+      },
+      {
+        "text": "LA COMMUNE DE OUED EL BARED VOUS SOUHAITE LA BIEN VENUS",
+        "lang": "fr"
+      }
+    ],
+    "expect": {
+      "query": "Oued El Bared",
+      "type": "place"
+    },
+    "difficulty": "medium",
+    "notes": "Welcome banner on a gantry over a bridge, Oued El Bared (Setif). Red Arabic over green French on one line; the French has a wide gap between 'BARED' and 'VOUS' and is misspelled 'BIEN VENUS' on the sign."
+  },
+  "c103376051": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "ولاية بجاية تتمنى لكم طريق السلامة",
+        "lang": "ar",
+        "latin": "Wilayat Bijaya tatamanna lakum tariq al-salama (Bejaia province wishes you a safe road)"
+      },
+      {
+        "text": "LA WILAYA DE BEJAIA VOUS SOUHAITE BONNE ROUTE",
+        "lang": "fr"
+      },
+      {
+        "text": "VGAYET TSARAMAWEN ABRID N'TALWIT",
+        "lang": "kab"
+      }
+    ],
+    "expect": {
+      "query": "Bejaia",
+      "type": "place"
+    },
+    "difficulty": "medium",
+    "notes": "Overhead farewell panel leaving Bejaia province towards Bouira; third line is Kabyle in Latin letters ('Vgayet' = Bejaia). Photo is heavily colour-processed (purple/blue cast) but the text is sharp."
+  },
+  "c18027306": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "ولاية معسكر ترحب بكم",
+        "lang": "ar",
+        "latin": "Wilayat Mu'askar turahhibu bikum (Mascara province welcomes you)"
+      },
+      {
+        "text": "LA WILAYA D E MASCARA",
+        "lang": "fr"
+      },
+      {
+        "text": "VOUS SOUHAITE LA BIENVENUE",
+        "lang": "fr"
+      },
+      {
+        "text": "WELCOME TO MASCARA",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Mascara",
+      "type": "place"
+    },
+    "difficulty": "easy",
+    "notes": "White welcome panel on a gantry at the western entry of Mascara province. 'D E' is spaced on the sign. Small red/green Bou Hanifia commune sign and a 60 speed-limit sign in the distance are distractors."
+  },
+  "c62087626": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Arab",
+      "Tfng",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "ساحة السوق",
+        "lang": "ar",
+        "latin": "Sahat al-Suq (Market square)"
+      },
+      {
+        "text": "PLACE du MARCHE",
+        "lang": "fr"
+      }
+    ],
+    "expect": {
+      "query": "Place du Marche",
+      "type": "street"
+    },
+    "difficulty": "easy",
+    "notes": "Hand-painted blue enamel plate in Beni Isguen (M'zab), with a left arrow. Between the Arabic and French lines is a Tifinagh line (two groups of glyphs, about 6 + 3 + 3 signs with colons); it is NOT transcribed because the glyph-to-Unicode mapping of this local letter style is uncertain. 'du' is small lowercase between PLACE and MARCHE; no accent on MARCHE."
+  },
+  "c191996061": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "مدرسة السينما الصحراوية",
+        "lang": "ar",
+        "latin": "Madrasat al-Sinima al-Sahrawiya (Sahrawi cinema school)"
+      },
+      {
+        "text": "E.F.A. ABIDIN",
+        "lang": "es"
+      },
+      {
+        "text": "KAID SALEH",
+        "lang": "es"
+      },
+      {
+        "text": "DE LA RASD",
+        "lang": "es"
+      },
+      {
+        "text": "ESCUELA DE FORMACION AUDIOVISIAL",
+        "lang": "es"
+      },
+      {
+        "text": "DEL SAHARA OCCIDENTAL",
+        "lang": "es"
+      },
+      {
+        "text": "الشهيد عابدين القائد صالح",
+        "lang": "ar",
+        "latin": "al-Shahid Abidin al-Qa'id Salih (Martyr Abidin Kaid Saleh)"
+      }
+    ],
+    "expect": {
+      "query": "Abidin Kaid Saleh",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Name board of the Abidin Kaid Saleh audiovisual school, Bojador Sahrawi refugee camp (Tindouf province, Algeria); shot from below at a slight angle. Spanish text, 'AUDIOVISIAL' as spelled on the sign. Camel/film-reel logo at left. Small Arabic lines top-left and bottom-left."
+  },
+  "c22097327": {
+    "accept": false,
+    "reason": "several small painted shop doors with generic words (Boucherie, Taxiphone, Poulet); no single named sign"
+  },
+  "c22098274": {
+    "accept": false,
+    "reason": "generic 'CYBERCAFE' sign with no business name"
+  },
+  "c24934764": {
+    "accept": false,
+    "reason": "a person walking toward the camera is the subject; no legible target sign"
+  },
+  "c22099396": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "ملعب زبانة",
+        "lang": "ar",
+        "latin": "Mal'ab Zabana (Zabana stadium)"
+      },
+      {
+        "text": "Stade ZABANA",
+        "lang": "fr"
+      },
+      {
+        "text": "مطار السانية",
+        "lang": "ar",
+        "latin": "Matar al-Saniya (Es Senia airport)"
+      },
+      {
+        "text": "Aéroport ES SENIA",
+        "lang": "fr"
+      },
+      {
+        "text": "السانية",
+        "lang": "ar",
+        "latin": "al-Saniya (Es Senia)"
+      },
+      {
+        "text": "Es Senia",
+        "lang": "fr"
+      },
+      {
+        "text": "حيّ السلام",
+        "lang": "ar",
+        "latin": "Hayy al-Salam (Essalam district)"
+      },
+      {
+        "text": "Hai ESSALAM",
+        "lang": "fr"
+      }
+    ],
+    "expect": {
+      "query": "Stade Zabana",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Stack of four white directional finger signs in Oran, mid-frame. 'حيّ' carries a shadda. Distractors: 'E.B.S / DECO FORGE / Portes en Fer Forgé' shop banners at left, car number plates (incidental)."
+  },
+  "c22099150": {
+    "accept": false,
+    "reason": "generic directional signs (Hôpital / Justice), the second panel broken and partly torn"
+  }
+}

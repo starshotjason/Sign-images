@@ -1,0 +1,523 @@
+{
+ "p245dd56cd0": {
+  "accept": false,
+  "reason": "advertising banner on a footbridge (GET CHARGED, 250ml); no place sign"
+ },
+ "p24799adc32": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Deva",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "राष्ट्रिय समावेशी आयोग",
+    "lang": "ne",
+    "latin": "Rashtriya Samaveshi Aayog (National Inclusion Commission)"
+   },
+   {
+    "text": "NATIONAL INCLUSION COMMISSION",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "National Inclusion Commission",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Government office board with Nepal emblem above a gate; image is 1000 px and slightly soft. Small plates on the gate pillar and the cut arch text '...विभाग' at left are distractors."
+ },
+ "p6f75b1f214": {
+  "accept": true,
+  "reason": "",
+  "kind": "hard",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "N DAN H SPITAL",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Nidan Hospital",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Fascia lettering seen at an angle from a 360 panorama (1000 px). A utility pole and cables completely hide one letter in each word; only the legible letters are transcribed, with a space where each hidden letter is (the name is presumably NIDAN HOSPITAL, matching the OCR hint 'NDAN H SPITAL'). Distractors: TRAUMA CENTER sign below right and a blue BUS STOP pictogram sign."
+ },
+ "pe1545ded9c": {
+  "accept": false,
+  "reason": "Gulf Lubricants advertising hoarding only; no place sign"
+ },
+ "pe436b72d21": {
+  "accept": false,
+  "reason": "advertising banner on a footbridge (GET CHARGED); near-duplicate of p245dd56cd0"
+ },
+ "p3a7969d350": {
+  "accept": false,
+  "reason": "rooftop advertising billboard for a brand ('MetLife', tagline unreadable), not a sign naming the place it stands on; low-resolution panorama crop, the building's own name panel at right is illegible"
+ },
+ "k1366555861": {
+  "accept": false,
+  "reason": "advert banner on a footbridge (Daraz)"
+ },
+ "k2501811481": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "SBR BATHROOM PLANET",
+    "lang": "en"
+   },
+   {
+    "text": "(WHOLESALE)",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "SBR Bathroom Planet",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Dark fascia on a corner building in Pokhara, seen from a car; small address lines beside and below are illegible. A second 'BATHROOM PLANET' board lower down and the yellow 'Himstar' sign at left are distractors."
+ },
+ "k2543648009": {
+  "accept": false,
+  "reason": "advert panels on a moving bus at night (vehicle branding)"
+ },
+ "k2567140985": {
+  "accept": false,
+  "reason": "car advert banners on a footbridge"
+ },
+ "k2628648409": {
+  "accept": false,
+  "reason": "green direction sign (Asan / Indrakali / Durbarmarg) too small and blurred to transcribe reliably, Devanagari unreadable; other signs are cluttered adverts"
+ },
+ "k495517721": {
+  "accept": true,
+  "reason": "",
+  "kind": "hard",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Deurali Mobile",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Deurali Mobile",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Small shop name in the lower right of an orange Xiaomi 'mi' fascia at the far left of a Pokhara street scene shot through a windscreen. Surrounding phone-brand boards (CUBOT, OPPO, HUAWEI, TECNO, SAMSUNG, Lenovo) are distractors."
+ },
+ "k576438486": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Global IME Bank",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Global IME Bank",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Bank fascia in Pokhara in hazy, washed-out light. The small Devanagari line under the name and the branch text at right ('New Road, Pokhara Branch' with a Devanagari line) are too faint to transcribe. 'Prudential Insurance Co. Ltd.' above and 'New DIAMOND' at right are distractors."
+ },
+ "k576438526": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn",
+   "Deva"
+  ],
+  "lines": [
+   {
+    "text": "SUNRISE BANK LIMITED",
+    "lang": "en"
+   },
+   {
+    "text": "पोखरा शाखा",
+    "lang": "ne",
+    "latin": "Pokhara shakha (Pokhara branch)"
+   }
+  ],
+  "expect": {
+   "query": "Sunrise Bank",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Red bank fascia in Pokhara, hazy. The tiny tagline under the name and the faint Devanagari text on the orange end panel are not transcribed. A blurred passer-by occupies the lower right."
+ },
+ "k576438566": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "BINDESHORI",
+    "lang": "en"
+   },
+   {
+    "text": "MADE IN",
+    "lang": "en"
+   },
+   {
+    "text": "POKHARA",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Bindeshori",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Raised dark letters on a white fascia (furniture showroom), New Road, Pokhara; 'MADE IN / POKHARA' is stacked at the right. Distractors: 'SANSKRITI TRADING HOUSE', the 'ईश्वर मेडिकल हल' pharmacy sign and SALE banners."
+ },
+ "c127694372": {
+  "accept": true,
+  "kind": "hard",
+  "scripts": [
+   "Deva"
+  ],
+  "lines": [
+   {
+    "text": "सगरमाथा विमान स्थल",
+    "lang": "ne",
+    "latin": "Sagarmatha biman sthal (Sagarmatha Airport)"
+   },
+   {
+    "text": "निर्माण स्थल",
+    "lang": "ne",
+    "latin": "nirman sthal (construction site)"
+   }
+  ],
+  "expect": {
+   "query": "सगरमाथा विमान स्थल",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Small blue/white board at a distance in a field with haystacks, marking the Sagarmatha (Nijgadh) airport construction site. A third small line (municipality/ward address) is too small to read and is not labelled. Lens flare at right.",
+  "reason": ""
+ },
+ "c192981789": {
+  "accept": true,
+  "kind": "landmark",
+  "scripts": [
+   "Latn",
+   "Deva"
+  ],
+  "lines": [
+   {
+    "text": "SANO",
+    "lang": "en"
+   },
+   {
+    "text": "DEURALI",
+    "lang": "en"
+   },
+   {
+    "text": "(सानो देउराली)",
+    "lang": "ne",
+    "latin": "Sano Deurali (small pass)"
+   },
+   {
+    "text": "Elevation: 2370 m.",
+    "lang": "en"
+   },
+   {
+    "text": "उचाई २३७० मि.",
+    "lang": "ne",
+    "latin": "uchai 2370 mi. (elevation 2370 m)"
+   }
+  ],
+  "expect": {
+   "query": "Sano Deurali",
+   "type": "place"
+  },
+  "difficulty": "medium",
+  "notes": "Yellow trail junction board in Shivapuri Nagarjun National Park; only the central circle (the place name) is labelled. Directional panels around it are distractors: NAGI GUMBA (नागी गुम्बा), HELIPAD (हेलिप्याड), SHIVAPURI PEAK (शिवपुरी चुचुरो), BAGHOWAR (बाघद्वार), plus 'HELP US TO KEEP THE NATIONAL PARK CLEAN'. Shaded forest, slightly soft focus.",
+  "reason": ""
+ },
+ "c200557429": {
+  "accept": true,
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Arjun Art Gallery",
+    "lang": "en"
+   },
+   {
+    "text": "PATAN DURBAR SQUARE MARG",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Arjun Art Gallery",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Hand-painted shop board, Patan (Lalitpur), with cables crossing its right end; a small phone number at lower right is not labelled. Distractors: 'ESPRESSO Coffee Available' board, partly visible red script lightbox ('...Temple') above, paintings.",
+  "reason": ""
+ },
+ "c20188740": {
+  "accept": true,
+  "kind": "landmark",
+  "scripts": [
+   "Deva",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "'देवीमाँ' आयुर्वेंद ग्रामिण चिकित्सालय",
+    "lang": "ne",
+    "latin": "Devi Ma Ayurved Gramin Chikitsalaya (Devi Ma Ayurveda Rural Hospital)"
+   },
+   {
+    "text": "'DEVI MA' AYURVEDA RURAL HOSPITAL",
+    "lang": "en"
+   },
+   {
+    "text": "Estd. 2059",
+    "lang": "en"
+   },
+   {
+    "text": "Sipadol, Bhaktapur",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Devi Ma Ayurveda Rural Hospital",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Hand-painted hospital board, Sipadol, Bhaktapur. The Devanagari title is transcribed as painted, including the anusvara over वें in आयुर्वेंद and the spelling ग्रामिण. Smaller lines not labelled: 'Reg. No.:- 704/7-063', 'S.W.C. No:- 20084', 'देवी माँ कुञ्जद्वारा संचालित / Run by DEVI MA KUNJA', 'स्थापित:- २०५९', the Devanagari place line (a small mark over the first syllable is unclear), and the round logo.",
+  "reason": ""
+ },
+ "c20450743": {
+  "accept": true,
+  "kind": "street sign",
+  "scripts": [
+   "Deva",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "मरुटोल",
+    "lang": "ne",
+    "latin": "Marutol"
+   },
+   {
+    "text": "MARU TOL",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Maru Tol",
+   "type": "place"
+  },
+  "difficulty": "easy",
+  "notes": "Green trilingual locality sign, Kathmandu, shot from below; dented, with a damaged spot on ट. The top line is in Ranjana (Nepal Lipi) script, which has no Unicode encoding, so it is not transcribed and is not part of the lines.",
+  "reason": ""
+ },
+ "c20463614": {
+  "accept": true,
+  "kind": "street sign",
+  "scripts": [
+   "Deva",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "त्योर",
+    "lang": "ne",
+    "latin": "Tyor"
+   },
+   {
+    "text": "TYORA",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Tyora",
+   "type": "place"
+  },
+  "difficulty": "easy",
+  "notes": "Green trilingual locality sign (Tyora Tol), Kathmandu; same series as c20450743 but a different place. The top line is in Ranjana script (no Unicode encoding) and is not transcribed. Peeling paint over the lower half.",
+  "reason": ""
+ },
+ "c2881761": {
+  "accept": false,
+  "reason": "busy Thamel street view with dozens of signs; no single main target"
+ },
+ "c37511567": {
+  "accept": true,
+  "kind": "landmark",
+  "scripts": [
+   "Deva",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "जिरी अस्पताल",
+    "lang": "ne",
+    "latin": "Jiri Aspatal (Jiri Hospital)"
+   },
+   {
+    "text": "JIRI HOSPITAL",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Jiri Hospital",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Red-on-white overhead hospital banner, Jiri, Dolakha. Smaller header lines (नेपाल सरकार, ministry and department names) and a phone number cut off at the right edge are not labelled. Nepal emblem at left, 'H' box at right.",
+  "reason": ""
+ },
+ "c40582244": {
+  "accept": true,
+  "kind": "landmark",
+  "scripts": [
+   "Deva",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "रारा राष्ट्रिय निकुञ्ज",
+    "lang": "ne",
+    "latin": "Rara Rashtriya Nikunja (Rara National Park)"
+   },
+   {
+    "text": "स्थापित:२०३३",
+    "lang": "ne",
+    "latin": "sthapit: 2033 (established 2033 BS)"
+   },
+   {
+    "text": "हुटु मुगु",
+    "lang": "ne",
+    "latin": "Hutu, Mugu"
+   },
+   {
+    "text": "RARA NATIONAL PARK",
+    "lang": "en"
+   },
+   {
+    "text": "HUTU, MUGU",
+    "lang": "en"
+   },
+   {
+    "text": "estd : 1976",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Rara National Park",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Two hand-painted yellow boards behind a log fence. In राष्ट्रिय the hand-painted ट in the conjunct ष्ट्रि has a tail that could also be read as ड; the standard spelling ट is used. The stapit date is in Devanagari digits.",
+  "reason": ""
+ },
+ "c49999919": {
+  "accept": true,
+  "kind": "landmark",
+  "scripts": [
+   "Latn",
+   "Deva"
+  ],
+  "lines": [
+   {
+    "text": "ALCHEMIST ACADEMY",
+    "lang": "en"
+   },
+   {
+    "text": "(SECONDARY SCHOOL)",
+    "lang": "en"
+   },
+   {
+    "text": "अलकेमिष्ट एकेडेमी मा.वि.",
+    "lang": "ne",
+    "latin": "Alkemisht Ekedemi Ma.Vi. (Alchemist Academy Secondary School)"
+   }
+  ],
+  "expect": {
+   "query": "Alchemist Academy",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Vinyl school direction banner, Jorpati, Kathmandu. Smaller lines not labelled: motto in quotes under the logo, 'दुर सञ्चार अगाडि' (in front of the telecom office), phone number 'फोन: ४९१२२६७', and the arrow panel '६० मिटर अगाडि' (60 metres ahead).",
+  "reason": ""
+ },
+ "c56232788": {
+  "accept": true,
+  "kind": "business sign",
+  "scripts": [
+   "Deva"
+  ],
+  "lines": [
+   {
+    "text": "मुग्लिन प्रकाश होटल",
+    "lang": "ne",
+    "latin": "Muglin Prakash Hotel"
+   },
+   {
+    "text": "एण्ड लज",
+    "lang": "ne",
+    "latin": "end laj (and Lodge)"
+   },
+   {
+    "text": "यहाँ खाना, नास्ता र बस्नको",
+    "lang": "ne",
+    "latin": "yahan khana, nasta ra basnako (here food, snacks and lodging)"
+   },
+   {
+    "text": "लागि राम्रो सुविधा छ।",
+    "lang": "ne",
+    "latin": "lagi ramro suvidha chha (good facilities)"
+   },
+   {
+    "text": "प्रो. प्रकाश थापा",
+    "lang": "ne",
+    "latin": "Pro. Prakash Thapa (proprietor)"
+   },
+   {
+    "text": "जिरो किलो",
+    "lang": "ne",
+    "latin": "Jiro Kilo (Zero Kilo)"
+   }
+  ],
+  "expect": {
+   "query": "मुग्लिन प्रकाश होटल",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Hand-painted black board over a roadside eatery; the address 'Zero Kilo' and 'Muglin' suggest Mugling rather than Melamchi as in the source title. The sentence ends with a slash-like danda. Distractors: red fascia 'प्रकाशभोजनाल[य]' (last letter hidden behind the board), Tuborg, Pepsi and F&N crates, painter credit at lower left. A child is seated in the foreground (incidental).",
+  "reason": ""
+ }
+}

@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.ign.fr/#focus=pic&pic=7f794fd5-fde1-4056-8f5f-15cf378d2c03",
+  "original_url": "https://panoramax.ign.fr/api/pictures/7f794fd5-fde1-4056-8f5f-15cf378d2c03/hd.jpg",
+  "license_as_published": "etalab-2.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "jg13",
+  "credit_as_published": "Panoramax, instance ign (https://panoramax.ign.fr)",
+  "title": "Panoramax picture 7f794fd5-fde1-4056-8f5f-15cf378d2c03 (Reykjavik, 2025-10-31)",
+  "description": "Street-level picture on Panoramax, taken 2025-10-31 near Reykjavik by jg13, sequence eb9eddd1-738a-4665-896d-a52573fec4a0, heading 149. OCR (PP-OCRv3) read: ROOF TOP DINING | Drinks | TakE-Away | Coffee | TERRace | WiRELeSS | BREaD | FRUiT-CREPeS | gRiLLED | CHEESE | giant CookiEs",
+  "date": "2025-10-31",
+  "categories": [],
+  "camera_location": [
+    64.144232,
+    -21.930077
+  ],
+  "found_by": "panoramax-ocr:Reykjavik",
+  "bytes": 2054176,
+  "width": 1816,
+  "height": 4032,
+  "downloaded_url": "https://panoramax.ign.fr/api/pictures/7f794fd5-fde1-4056-8f5f-15cf378d2c03/hd.jpg",
+  "derivative": "whole 1816x4032 HD picture as served by the Panoramax instance (byte-identical; the service blurs faces and number plates), not cropped"
+}

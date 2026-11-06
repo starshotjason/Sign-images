@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/11716331/0/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyNi8xMC8xMS9wcm9jLzExNzE2MzMxX2NkYzY3XzZhY2FlNGI2NzhiYjkuanBn",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "tadanet3",
+  "credit_as_published": "KartaView user tadanet3 (user id 12141); © KartaView contributors",
+  "title": "KartaView photo 2634394314, sequence 11716331 #0 (Kyoto, 2026-10-11)",
+  "description": "Street-level picture on KartaView, taken 2026-10-11 near Kyoto by tadanet3, sequence 11716331, heading 19.48. OCR (PP-OCRv3) read: FamilyMart | 110元 | FamilyMart",
+  "date": "2026-10-11",
+  "categories": [],
+  "camera_location": [
+    35.007234,
+    135.775305
+  ],
+  "found_by": "kartaview-ocr:Kyoto",
+  "bytes": 845198,
+  "width": 2880,
+  "height": 1620,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyNi8xMC8xMS9wcm9jLzExNzE2MzMxX2NkYzY3XzZhY2FlNGI2NzhiYjkuanBn",
+  "derivative": "whole 2880x1620 full-size processed (blurred) picture as served by the KartaView CDN (byte-identical; the service blurs faces and number plates), not cropped"
+}

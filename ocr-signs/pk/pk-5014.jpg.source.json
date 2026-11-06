@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/10036121/54/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyNC8xMC8xOC9wcm9jLzEwMDM2MTIxX2MxYTIzMGQxZTU3M2ZjMmY2ZmEwZDNkOTk5NTJhNDg2LmpwZw",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "shan-ameen",
+  "credit_as_published": "KartaView user shan-ameen (user id 231689); © KartaView contributors",
+  "title": "KartaView photo 2466551817, sequence 10036121 #54 (Lahore, 2024-10-18)",
+  "description": "Street-level picture on KartaView, taken 2024-10-18 near Lahore by shan-ameen, sequence 10036121, heading 352.47. OCR (PP-OCRv3) read: RAJPOOTMOTORS | GHARDHARA NISSAN LT. | PARKING",
+  "date": "2024-10-18",
+  "categories": [],
+  "camera_location": [
+    31.564026,
+    74.329996
+  ],
+  "found_by": "kartaview-ocr:Lahore",
+  "bytes": 211800,
+  "width": 1257,
+  "height": 943,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyNC8xMC8xOC9wcm9jLzEwMDM2MTIxX2MxYTIzMGQxZTU3M2ZjMmY2ZmEwZDNkOTk5NTJhNDg2LmpwZw",
+  "derivative": "crop 473,388,1730,1331 of the 4000x2250 full-size processed (blurred) picture"
+}

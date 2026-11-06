@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/9301/667/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMS5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE2LzcvMTEvcHJvYy85MzAxX2Q3Y2VkXzU3ODNjOTA3Yjk4MDAuanBn",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "telenavdrives",
+  "credit_as_published": "KartaView user telenavdrives (user id 53); © KartaView contributors",
+  "title": "KartaView photo 4016832, sequence 9301 #667 (Oslo, 2016-07-06)",
+  "description": "Street-level picture on KartaView, taken 2016-07-06 near Oslo by telenavdrives, sequence 9301, heading 106.34. OCR (PP-OCRv3) read: THE SA | THE SALE IS HERE | STEEN&S | THE SALEIS HERE | MAGAS | SALEISHERE | STEEN&STROM | FORTAUSTENGT | SALG",
+  "date": "2016-07-06",
+  "categories": [],
+  "camera_location": [
+    59.912133,
+    10.743658
+  ],
+  "found_by": "kartaview-ocr:Oslo",
+  "bytes": 855999,
+  "width": 3264,
+  "height": 2448,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMS5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE2LzcvMTEvcHJvYy85MzAxX2Q3Y2VkXzU3ODNjOTA3Yjk4MDAuanBn",
+  "derivative": "whole 3264x2448 full-size processed (blurred) picture as served by the KartaView CDN (byte-identical; the service blurs faces and number plates), not cropped"
+}

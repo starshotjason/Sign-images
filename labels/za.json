@@ -1,0 +1,354 @@
+{
+ "p55b5f51d0c": {
+  "accept": true,
+  "reason": "",
+  "kind": "hard",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ATTERY PARK",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Battery Park",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Engraved grey letters running bottom-to-top up the side of a concrete skate ramp in Battery Park, V&A Waterfront, Cape Town; the initial 'B' is below the frame edge so only '...ATTERY PARK' is visible, and a skater (face blurred, back to camera) partly covers the stone. The purple 'Disclaimer / SKATE PARK' plaque and a 'Heads up!' notice at left are small distractors."
+ },
+ "c74847378": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "THE",
+    "lang": "en"
+   },
+   {
+    "text": "OLD",
+    "lang": "en"
+   },
+   {
+    "text": "POST",
+    "lang": "en"
+   },
+   {
+    "text": "OFFICE",
+    "lang": "en"
+   },
+   {
+    "text": "COFFEE SHOP",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Old Post Office",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Hanging green sign with cut-out serif letters, heavily weathered and peeling, Port Elizabeth (Gqeberha); the P of POST and F of OFFICE are mostly lost in the peeled backing."
+ },
+ "c169781176": {
+  "accept": false,
+  "reason": "beer advertising and price board; ABSA ATM sign is the only other text"
+ },
+ "c158202251": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "TAFELBERG",
+    "lang": "en"
+   },
+   {
+    "text": "FURNISHERS",
+    "lang": "en"
+   },
+   {
+    "text": "expert",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Tafelberg Furnishers",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Orange store fascia in Tokai, Cape Town; 'expert' is the franchise logo. Brand signs (DEFY, SKYWORTH, LG, Sealy, Posturepedic) are distractors."
+ },
+ "c26446785": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ABDUL",
+    "lang": "en"
+   },
+   {
+    "text": "CASH STORE",
+    "lang": "en"
+   },
+   {
+    "text": "Vodacom CELL c MTN",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Abdul Cash Store",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Hand-painted spaza-shop fascia in Joe Slovo Park, Cape Town; big Vodacom logo above and small product plaques (Iwisa, Hulletts) at right are distractors. Faded pink '...SEAP SH...' lettering at left is illegible. Person at right edge is incidental."
+ },
+ "c52307326": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Saldanha",
+    "lang": "en"
+   },
+   {
+    "text": "DIAZ ROAD",
+    "lang": "en"
+   },
+   {
+    "text": "Diazville",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Diaz Road",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Green direction sign with a ship pictogram next to Saldanha (port) and white street-name panel DIAZ ROAD. Small brown 'Bus Dev Centre / Transnet Hub' sign and 'HALAAL Take aways' are distractors."
+ },
+ "c168722770": {
+  "accept": false,
+  "reason": "shop name cut off behind awning, Coca-Cola mural dominates; Cornwall Rd plate too small"
+ },
+ "c15062751": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "DUNCAN STREET",
+    "lang": "en"
+   },
+   {
+    "text": "M7 Colbyn",
+    "lang": "en"
+   },
+   {
+    "text": "Queenswood",
+    "lang": "en"
+   },
+   {
+    "text": "M7 Brooklyn",
+    "lang": "en"
+   },
+   {
+    "text": "Fountains Valley",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Duncan Street",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Green intersection direction board in Pretoria with white street-name header; M7 route numbers in yellow. 'Fountain s Valley' has a gap where an apostrophe would be."
+ },
+ "c31553730": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "HLUHLUWE",
+    "lang": "zu"
+   }
+  ],
+  "expect": {
+   "query": "Hluhluwe",
+   "type": "place"
+  },
+  "difficulty": "medium",
+  "notes": "White town-name board under a 60 km/h speed-limit roundel, seen through tall grass (scanned 1997 print); grass stalks cross the letters."
+ },
+ "c37384945": {
+  "accept": false,
+  "reason": "prohibition pictogram (no trading), no text"
+ },
+ "c88121560": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "PARK ST",
+    "lang": "en"
+   },
+   {
+    "text": "GLYN ST SOUTH",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Glyn Street South",
+   "type": "street"
+  },
+  "difficulty": "medium",
+  "notes": "Two white corner blades on one pole at a mini-roundabout in Hatfield, Pretoria; tiny vertical block-number tags next to each blade are unreadable. Car number plate is incidental, not the subject."
+ },
+ "c174530142": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "MILLSTONE",
+    "lang": "en"
+   },
+   {
+    "text": "FARMSTALL",
+    "lang": "en"
+   },
+   {
+    "text": "CAFE",
+    "lang": "en"
+   },
+   {
+    "text": "PONY RIDES",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Millstone Farm Stall",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "MILLSTONE is written in metal letters around a cable-drum wheel (read clockwise from lower left), flanked by a fork and knife; arrow board below says FARMSTALL CAFE, small PONY RIDES arrow under it. Cape Town."
+ },
+ "c88944465": {
+  "accept": false,
+  "reason": "COVID floor sticker, slogan only"
+ },
+ "c18491048": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "WELCOME, WELKOM, WAMKELEKILE",
+    "lang": "en"
+   },
+   {
+    "text": "Patensie",
+    "lang": "af"
+   },
+   {
+    "text": "KOUGA",
+    "lang": "en"
+   },
+   {
+    "text": "local municipality",
+    "lang": "en"
+   },
+   {
+    "text": "Prosperity through vision",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Patensie",
+   "type": "place"
+  },
+  "difficulty": "medium",
+  "notes": "Sail-shaped town welcome sign; the welcome line is curved along the edge (English, Afrikaans, Xhosa) and 'Patensie' runs vertically (rotated 90°)."
+ },
+ "c183323360": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Häagen-Dazs",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Häagen-Dazs",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Brand name on the planter box of the ice-cream shop terrace on Kloof Street, Cape Town; repeated on a hanging oval sign. Distractors: 'LOVE MATCHA' shop sign and 'GET IT RIGHT INSIDE NOW' poster. People seated are incidental."
+ },
+ "c88944466": {
+  "accept": false,
+  "reason": "COVID distancing notice, no place name"
+ },
+ "c67747525": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "KAROSS",
+    "lang": "en"
+   },
+   {
+    "text": "GROEP 91",
+    "lang": "af"
+   }
+  ],
+  "expect": {
+   "query": "Kaross",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Two mosaic name panels on a yellow gate wall at the Kaross embroidery workshop near Tzaneen, Limpopo; KAROSS (left) is the target, GROEP 91 (right) is the farm group."
+ }
+}

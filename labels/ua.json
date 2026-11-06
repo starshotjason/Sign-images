@@ -1,0 +1,468 @@
+{
+ "p30ecd6ee97": {
+  "accept": false,
+  "reason": "gravestone inscription (a person's name and dates) in a Lviv cemetery; not a mappable place sign"
+ },
+ "p63f3d6aaa3": {
+  "accept": false,
+  "reason": "gravestones in a Lviv cemetery (family name КОНОПАДА); personal names, not a mappable place sign"
+ },
+ "p2e2d2d4d97": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Cyrl",
+   "Zyyy"
+  ],
+  "lines": [
+   {
+    "text": "ВУЛИЦЯ",
+    "lang": "uk",
+    "latin": "Vulytsia (Street)"
+   },
+   {
+    "text": "НАЗВАНА ІМ’ЯМ",
+    "lang": "uk",
+    "latin": "nazvana im'iam (named after)"
+   },
+   {
+    "text": "ВИДАТНОГО УКРАЇНСЬКОГО",
+    "lang": "uk",
+    "latin": "vydatnoho ukrainskoho (the outstanding Ukrainian)"
+   },
+   {
+    "text": "ПИСЬМЕННИКА",
+    "lang": "uk",
+    "latin": "pysmennyka (writer)"
+   },
+   {
+    "text": "Г.Ф.КВІТКИ-ОСНОВ’ЯНЕНКА",
+    "lang": "uk",
+    "latin": "H.F. Kvitky-Osnov'ianenka"
+   },
+   {
+    "text": "1778-1843 р.р.",
+    "lang": "uk",
+    "latin": "1778-1843 rr. (years)"
+   }
+  ],
+  "expect": {
+   "query": "Квітки-Основ'яненка",
+   "type": "street"
+  },
+  "difficulty": "medium",
+  "notes": "Kharkiv: black stone memorial plaque explaining the street name (вулиця Квітки-Основ'яненка), shot upward at an angle. Apostrophes are typographic (’) on the plaque; 'р.р.' is in smaller letters. A small torn sticker sits at the lower left of the plaque."
+ },
+ "pad16b4be66": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Cyrl"
+  ],
+  "lines": [
+   {
+    "text": "БІЛИЙ",
+    "lang": "uk",
+    "latin": "Bilyi (White)"
+   },
+   {
+    "text": "ВЕЛОСИПЕД",
+    "lang": "uk",
+    "latin": "Velosyped (Bicycle)"
+   },
+   {
+    "text": "пам’ятник загиблим",
+    "lang": "uk",
+    "latin": "pam'iatnyk zahyblym (memorial to the killed)"
+   },
+   {
+    "text": "велосипедистам",
+    "lang": "uk",
+    "latin": "velosypedystam (cyclists)"
+   },
+   {
+    "text": "Києва",
+    "lang": "uk",
+    "latin": "Kyieva (of Kyiv)"
+   }
+  ],
+  "expect": {
+   "query": "Білий велосипед",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Kyiv ghost-bike memorial (OSM memorial=ghost_bike). Title letters are cut-out stencil letters in a steel plate, so the background shows through and contrast is low; the three small lines below are engraved and small."
+ },
+ "c134354822": {
+  "accept": true,
+  "reason": "",
+  "kind": "hard",
+  "scripts": [
+   "Cyrl"
+  ],
+  "lines": [
+   {
+    "text": "ГІРСЬКЕ",
+    "lang": "uk",
+    "latin": "Hirske"
+   }
+  ],
+  "expect": {
+   "query": "Гірське",
+   "type": "place"
+  },
+  "difficulty": "hard",
+  "notes": "Luhansk Oblast, end-of-settlement sign (red diagonal bar across the name, crossing the С and Ь), small in the frame and shot through a car window; car mirror at bottom left. Below it: 24 t weight-limit and axle-load signs, with a partly painted-over plate."
+ },
+ "c134261670": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Cyrl"
+  ],
+  "lines": [
+   {
+    "text": "БІЛОКУРАКИНЕ 34",
+    "lang": "uk",
+    "latin": "Bilokurakyne 34"
+   },
+   {
+    "text": "Н-26 СВАТОВЕ 56",
+    "lang": "uk",
+    "latin": "N-26 Svatove 56"
+   },
+   {
+    "text": "КУП’ЯНСЬК 113",
+    "lang": "uk",
+    "latin": "Kupiansk 113"
+   },
+   {
+    "text": "НОВОПСКОВ 36",
+    "lang": "uk",
+    "latin": "Novopskov 36"
+   },
+   {
+    "text": "БІЛОВОДСЬК 54 Н-26",
+    "lang": "uk",
+    "latin": "Bilovodsk 54"
+   },
+   {
+    "text": "МІЛОВЕ",
+    "lang": "uk",
+    "latin": "Milove"
+   }
+  ],
+  "expect": {
+   "query": "Сватове",
+   "type": "place"
+  },
+  "difficulty": "medium",
+  "notes": "Starobilsk, Luhansk Oblast. Fallen blue direction board leaning on a kerb, slightly bent. Left arrow with route H-26 for the upper three, right arrow with H-26 for the lower three. Weeds partly cover the Ь of БІЛОВОДСЬК and the bottom of МІЛОВЕ. Apostrophe in КУП’ЯНСЬК is a typographic ’."
+ },
+ "c173380275": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Cyrl"
+  ],
+  "lines": [
+   {
+    "text": "СОЛОБКІВЦІ",
+    "lang": "uk",
+    "latin": "Solobkivtsi"
+   }
+  ],
+  "expect": {
+   "query": "Солобківці",
+   "type": "place"
+  },
+  "difficulty": "easy",
+  "notes": "Khmelnytskyi Oblast, white village-entry sign, near-frontal. Distractors: speed-camera and service pictogram signs with '3км', a military billboard at left."
+ },
+ "c134261484": {
+  "accept": true,
+  "reason": "",
+  "kind": "hard",
+  "scripts": [
+   "Cyrl"
+  ],
+  "lines": [
+   {
+    "text": "пгт. Донецкий",
+    "lang": "ru",
+    "latin": "pgt. Donetskiy (urban-type settlement Donetskyi)"
+   }
+  ],
+  "expect": {
+   "query": "Донецький",
+   "type": "place"
+  },
+  "difficulty": "hard",
+  "notes": "Luhansk Oblast. Small settlement sign seen through a car windscreen (mirror and dashboard frame the view). The sign is in Russian ('пгт.', 'Донецкий'), not Ukrainian (смт Донецький), so the map query uses the Ukrainian form."
+ },
+ "c181869341": {
+  "accept": false,
+  "reason": "two overlapping old plates: the end of 'ФАБРИЧНА…' is hidden behind a detached, rusted vertical plate whose letters (…Капітана/Капитана Семенюка) are too corroded to transcribe without guessing"
+ },
+ "c53184556": {
+  "accept": true,
+  "reason": "",
+  "kind": "address plate",
+  "scripts": [
+   "Cyrl",
+   "Zyyy"
+  ],
+  "lines": [
+   {
+    "text": "8",
+    "lang": "und"
+   },
+   {
+    "text": "ул. ДИМИТРОВА",
+    "lang": "ru",
+    "latin": "ul. Dimitrova (Dimitrov Street)"
+   }
+  ],
+  "expect": {
+   "query": "Димитрова 8",
+   "type": "addr"
+  },
+  "difficulty": "hard",
+  "notes": "Brovary, Kyiv Oblast. Rusty stencilled Soviet-era street plate in Russian with a separate house-number plate 8; the 'ул.' is faint. The street has since been renamed вулиця Степана Бандери (Stepana Bandery), so a current map may only have the new name. Angled shot."
+ },
+ "c118500104": {
+  "accept": false,
+  "reason": "the subject is the Blue Palace building; its only signs are small bank/ATM panels ('УКРСОЦБАНК', 'БАНКОМАТ'), no name board for the building"
+ },
+ "c180853850": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Cyrl",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "МЕДВЕДІВКА",
+    "lang": "uk",
+    "latin": "Medvedivka"
+   },
+   {
+    "text": "MEDVEDIVKA",
+    "lang": "uk"
+   }
+  ],
+  "expect": {
+   "query": "Медведівка",
+   "type": "place"
+  },
+  "difficulty": "easy",
+  "notes": "Village entry sign with a fluorescent yellow-green border; Ukrainian and Latin transliteration. A small scratch/sticker after the final А is not a letter; sunlight glare on the right half."
+ },
+ "c180883692": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Cyrl",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ЛУКАШІВКА",
+    "lang": "uk",
+    "latin": "Lukashivka"
+   },
+   {
+    "text": "LUKASHIVKA",
+    "lang": "uk"
+   }
+  ],
+  "expect": {
+   "query": "Лукашівка",
+   "type": "place"
+  },
+  "difficulty": "medium",
+  "notes": "Vinnytsia Oblast. White village entry sign, weathered and slightly soft (shot through a car window). Priority-road sign at left is a distractor."
+ },
+ "c53263898": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Cyrl"
+  ],
+  "lines": [
+   {
+    "text": "КНИГИ",
+    "lang": "uk",
+    "latin": "Knyhy (Books)"
+   }
+  ],
+  "expect": {
+   "query": "Книги",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Horlivka (2011). Black lightbox over the corner door of a bookshop; panoramic stitch. Distractors at right: 'МИР ФОТО на документы' and 'КСЕРО КОПИЯ' signs (Russian), graffiti 'MO'."
+ },
+ "c54886300": {
+  "accept": false,
+  "reason": "wide street scene; the shop signs ('ЭЛИТНАЯ МЕБЕЛЬ', 'ГАСТРОНОМ') are small and partly blocked by a pole and tree, and the rest is advertising"
+ },
+ "c103653907": {
+  "accept": true,
+  "reason": "",
+  "kind": "address plate",
+  "scripts": [
+   "Cyrl",
+   "Zyyy"
+  ],
+  "lines": [
+   {
+    "text": "вулиця",
+    "lang": "uk",
+    "latin": "vulytsia (street)"
+   },
+   {
+    "text": "К. МАЛЕВИЧА",
+    "lang": "uk",
+    "latin": "K. Malevycha (Kazimir Malevich)"
+   },
+   {
+    "text": "(Боженка)",
+    "lang": "uk",
+    "latin": "(Bozhenka), the former name"
+   },
+   {
+    "text": "66",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "вулиця Казимира Малевича 66",
+   "type": "addr"
+  },
+  "difficulty": "easy",
+  "notes": "Kyiv. Lightbox corner plate with the new name and the former name in brackets, house number 66 on the side panels. A CCTV camera sits on top."
+ },
+ "c133611079": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Cyrl"
+  ],
+  "lines": [
+   {
+    "text": "вулиця",
+    "lang": "uk",
+    "latin": "vulytsia (street)"
+   },
+   {
+    "text": "ЦИТАДЕЛЬНА",
+    "lang": "uk",
+    "latin": "Tsytadelna"
+   }
+  ],
+  "expect": {
+   "query": "вулиця Цитадельна",
+   "type": "street"
+  },
+  "difficulty": "medium",
+  "notes": "Kyiv (Pechersk). Direction plate with a green left arrow, slightly out of focus. Below it an insurance advert panel ('ІНГО УКРАЇНА', 'ІНГО життя', '390-57-47, вул. ЦИТАДЕЛЬНА, 3, 3-й пов.') is a distractor/advert."
+ },
+ "c193850137": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Cyrl"
+  ],
+  "lines": [
+   {
+    "text": "ПРОСПЕКТ",
+    "lang": "uk",
+    "latin": "prospekt (avenue)"
+   },
+   {
+    "text": "ПОСТИШЕВА",
+    "lang": "uk",
+    "latin": "Postysheva"
+   }
+  ],
+  "expect": {
+   "query": "проспект Постишева",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Kharkiv. Old blue enamel plate under a corrugated roof. The avenue was renamed проспект Любові Малої in 2015, so a current map may only have the new name."
+ },
+ "c3874935": {
+  "accept": true,
+  "reason": "",
+  "kind": "address plate",
+  "scripts": [
+   "Cyrl",
+   "Zyyy"
+  ],
+  "lines": [
+   {
+    "text": "САНАТОРНЫЙ",
+    "lang": "ru",
+    "latin": "Sanatornyy"
+   },
+   {
+    "text": "ПЕРЕУЛОК",
+    "lang": "ru",
+    "latin": "pereulok (lane)"
+   },
+   {
+    "text": "15",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "Санаторний провулок",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Kherson. Old Russian-language enamel lane plate (Ukrainian form: Санаторний провулок) with a dark rusted house-number plate 15 below."
+ },
+ "c76802044": {
+  "accept": true,
+  "reason": "",
+  "kind": "address plate",
+  "scripts": [
+   "Cyrl",
+   "Zyyy"
+  ],
+  "lines": [
+   {
+    "text": "вулиця",
+    "lang": "uk",
+    "latin": "vulytsia (street)"
+   },
+   {
+    "text": "Гагаріна",
+    "lang": "uk",
+    "latin": "Haharina (Gagarin)"
+   },
+   {
+    "text": "21",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "вулиця Гагаріна 21",
+   "type": "addr"
+  },
+  "difficulty": "easy",
+  "notes": "Nova Vodolaha, Kharkiv Oblast. Modern blue-and-white address plate with house number 21 in the white panel, serif lettering, frontal."
+ }
+}

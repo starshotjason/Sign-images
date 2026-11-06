@@ -1,0 +1,508 @@
+{
+ "p2d5c399660": {
+  "accept": false,
+  "reason": "only a СКОПСКО beer-brand sign and betting-shop slogans (ТИ ОДБЕРИ ЈА НАЈДОБРАТА); the shop name is cut off at the frame edge"
+ },
+ "p38a5829717": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "SKOPJE",
+    "lang": "en"
+   },
+   {
+    "text": "DOWNTOWN",
+    "lang": "en"
+   },
+   {
+    "text": "HOSTEL",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Skopje Downtown Hostel",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Round projecting lightbox. The initial D of DOWNTOWN is drawn as the large circular logo outline, so OCR may read 'OWNTOWN'."
+ },
+ "p4039a5cdc9": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "STUDIO",
+    "lang": "en"
+   },
+   {
+    "text": "DOUBLE DUTY THE BEAUTY",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Double Duty The Beauty",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Round projecting beauty-salon sign, slightly soft focus, outlined pink letters. Graffiti 'LEONARDO WILL WIN THE TENDER' below and the far hostel sign at right are distractors."
+ },
+ "p981e40dfe1": {
+  "accept": false,
+  "reason": "advertising billboards only (ТОПСИ promo, media agency board); no place sign"
+ },
+ "pc4aa15a3ef": {
+  "accept": false,
+  "reason": "only advertising slogan on a delivery van (КВАЛИТЕТОТ НИ Е ЗАЕДНИЧКИ, FENIKS INVEST); no place sign"
+ },
+ "pe93383fae5": {
+  "accept": false,
+  "reason": "main text is graffiti; the hostel sign is tiny and duplicates p38a5829717"
+ },
+ "peb6439461c": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "PARK",
+    "lang": "en"
+   },
+   {
+    "text": "HOTEL & SPA",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Park Hotel & Spa",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Rooftop lettering with large P monogram on a dark hotel facade, backlit; a parked motorhome dominates the foreground. Stadium banner 'СЕВЕРНА ТРИБИНА' at left is a distractor."
+ },
+ "c10001287": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Cyrl"
+  ],
+  "lines": [
+   {
+    "text": "ЗРЗЕ",
+    "lang": "mk",
+    "latin": "Zrze"
+   }
+  ],
+  "expect": {
+   "query": "Зрзе",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Brass letters on a dark-blue wooden board at Zrze Monastery; close crop, the board continues off the left edge so further text may be cut off. Decorative Byzantine-style letterforms (З resembles the digit 3)."
+ },
+ "c101327169": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn",
+   "Cyrl"
+  ],
+  "lines": [
+   {
+    "text": "RRUGA",
+    "lang": "sq"
+   },
+   {
+    "text": "BITPAZARSKA",
+    "lang": "sq"
+   },
+   {
+    "text": "УЛИЦА",
+    "lang": "mk",
+    "latin": "ulica (street)"
+   },
+   {
+    "text": "БИТПАЗАРСКА",
+    "lang": "mk",
+    "latin": "Bitpazarska"
+   },
+   {
+    "text": "KOMUNA ÇAIR",
+    "lang": "sq"
+   },
+   {
+    "text": "ОПШТИНА ЧАИР",
+    "lang": "mk",
+    "latin": "Opština Čair (Čair Municipality)"
+   }
+  ],
+  "expect": {
+   "query": "Битпазарска",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Blue bilingual Albanian/Macedonian street plate, Skopje (Čair). Albanian 'ÇAIR' has a cedilla on the C."
+ },
+ "c118362606": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "MIRË SE VINI",
+    "lang": "sq"
+   },
+   {
+    "text": "- KOMUNA E KËRÇOVËS -",
+    "lang": "sq"
+   }
+  ],
+  "expect": {
+   "query": "Kërçovë",
+   "type": "place"
+  },
+  "difficulty": "medium",
+  "notes": "Albanian welcome sign 'Welcome - Municipality of Kičevo' (genitive form Kërçovës); tight crop, soft/upscaled. Macedonian name is Кичево."
+ },
+ "c122873494": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "liquid",
+    "lang": "en"
+   },
+   {
+    "text": "OLD TOWN BAR&KITCHEN",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Liquid",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Back-lit cut-out letters on a wooden board over an Ohrid old-town passage; stylised lowercase with the final 'd' drawn as a hooked stroke. Distractors: Heineken lightbox, 'ANTIQUE CURIOSITY' plaque, 'FILEVI Original Ohrid's pearls' arrow sign, 'Topencarov Guest House' plaque."
+ },
+ "c124347728": {
+  "accept": false,
+  "reason": "novelty fingerpost of joke destinations (Iceland, Hawaii, Miami...); no single target, place signs at top are small"
+ },
+ "c124587768": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Cyrl"
+  ],
+  "lines": [
+   {
+    "text": "РИБАРНИЦА",
+    "lang": "mk",
+    "latin": "Ribarnica (fish shop)"
+   },
+   {
+    "text": "ПАСТРМКА",
+    "lang": "mk",
+    "latin": "Pastrmka (trout)"
+   }
+  ],
+  "expect": {
+   "query": "Пастрмка",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Blue projecting lightbox with trout pictogram, Ohrid; seen from below at an angle against dusk sky."
+ },
+ "c163100061": {
+  "accept": false,
+  "reason": "indoor photo of people signing a document; faces are the subject, no sign target"
+ },
+ "c182741516": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "MIR SE VINI",
+    "lang": "sq"
+   },
+   {
+    "text": "NË",
+    "lang": "sq"
+   },
+   {
+    "text": "KËSHAVË",
+    "lang": "sq"
+   }
+  ],
+  "expect": {
+   "query": "Këshavë",
+   "type": "place"
+  },
+  "difficulty": "easy",
+  "notes": "Red village welcome board with two double-headed eagle emblems flanking 'NË'. Spelled 'MIR' (not 'MIRË') on the sign. Macedonian name Кишава (Kišava)."
+ },
+ "c185109673": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "SHUTO♥ORIZARI",
+    "lang": "sq"
+   }
+  ],
+  "expect": {
+   "query": "Shuto Orizari",
+   "type": "place"
+  },
+  "difficulty": "medium",
+  "notes": "Free-standing 3D letter place-name sign at the Šuto Orizari market, Skopje; a red heart stands between the two words. Angled view, letter shadows. Macedonian name Шуто Оризари."
+ },
+ "c198801097": {
+  "accept": false,
+  "reason": "in-store wayfinding (cash desk / fitting rooms) inside a mall shop; not a mappable target"
+ },
+ "c28147169": {
+  "accept": false,
+  "reason": "warning sign only (high voltage / danger to life), no place text"
+ },
+ "c57501243": {
+  "accept": false,
+  "reason": "pure traffic pictograms (no overtaking, 40 speed limit, inverted), no place text"
+ },
+ "c9201157": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Cyrl",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Град Скопје",
+    "lang": "mk",
+    "latin": "Grad Skopje (City of Skopje)"
+   },
+   {
+    "text": "City of Skopje",
+    "lang": "en"
+   },
+   {
+    "text": "Град Скопје",
+    "lang": "mk",
+    "latin": "Grad Skopje"
+   },
+   {
+    "text": "City of Skopje",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Скопје",
+   "type": "place"
+  },
+  "difficulty": "easy",
+  "notes": "Two stacked bilingual city name panels with faint coat of arms on a lamp post; Macedonian ј in Скопје. A billboard at lower left ('Живеј ги своите желби') is an advert distractor."
+ },
+ "c97416356": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn",
+   "Cyrl"
+  ],
+  "lines": [
+   {
+    "text": "RRUGA",
+    "lang": "sq"
+   },
+   {
+    "text": "ÇARSHIA E MBULUAR",
+    "lang": "sq"
+   },
+   {
+    "text": "УЛИЦА",
+    "lang": "mk",
+    "latin": "ulica (street)"
+   },
+   {
+    "text": "ПОКРИЕНА ЧАРШИЈА",
+    "lang": "mk",
+    "latin": "Pokriena Čaršija (Covered Bazaar)"
+   },
+   {
+    "text": "KOMUNA ÇAIR",
+    "lang": "sq"
+   },
+   {
+    "text": "ОПШТИНА ЧАИР",
+    "lang": "mk",
+    "latin": "Opština Čair (Čair Municipality)"
+   }
+  ],
+  "expect": {
+   "query": "Покриена Чаршија",
+   "type": "street"
+  },
+  "difficulty": "medium",
+  "notes": "Blue bilingual Albanian/Macedonian street plate on a stone pillar, Skopje old bazaar, seen from below at an angle. Cedilla on Ç in ÇARSHIA is clear; on ÇAIR it is faint. Bridal-shop poster at left is a distractor."
+ },
+ "c97831878": {
+  "accept": false,
+  "reason": "warning notice only (peacocks can harm you), no place text"
+ },
+ "f278c03f4-7b63-455a-9aa8-cafa8f44de27": {
+  "accept": false,
+  "reason": "pure traffic pictogram (no entry), no place text; HDR street view"
+ },
+ "f2970bc72-c19b-4e27-8ca2-b6aa56184add": {
+  "accept": false,
+  "reason": "warning notice only (entry forbidden due to restoration), no place name"
+ },
+ "f396c980e-1483-4e70-b484-10b4e41e8dcd": {
+  "accept": false,
+  "reason": "commemorative historical plaque (prose text), not a name sign"
+ },
+ "f3a9a65c0-aa7d-4743-8651-c967159fb08d": {
+  "accept": true,
+  "reason": "",
+  "kind": "building tag",
+  "scripts": [
+   "Cyrl"
+  ],
+  "lines": [
+   {
+    "text": "МАКЕДОНСКИ ЖЕЛЕЗНИЦИ",
+    "lang": "mk",
+    "latin": "Makedonski železnici (Macedonian Railways)"
+   },
+   {
+    "text": "ТЕХНИЧКО ПРЕГЛЕДНА СЛУЖБА",
+    "lang": "mk",
+    "latin": "Tehničko pregledna služba (technical inspection service)"
+   },
+   {
+    "text": "БИТОЛА",
+    "lang": "mk",
+    "latin": "Bitola"
+   }
+  ],
+  "expect": {
+   "query": "Македонски железници Битола",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Rusty enamel sign on a railway building at Bitola station, shot at an angle from below; a black cable crosses 'ТЕХНИЧКО' and a thin wire crosses 'ПРЕГЛЕДНА', rust spots over several letters. MŽ logo top centre."
+ },
+ "f3c5c9d11-cadd-4ec6-aafc-13c404b53af4": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Cyrl",
+   "Zyyy"
+  ],
+  "lines": [
+   {
+    "text": "УГОСТИТЕЛСКИ ДУКАН",
+    "lang": "mk",
+    "latin": "Ugostitelski dukan (catering shop)"
+   },
+   {
+    "text": "НАРОДНА КУЈНА",
+    "lang": "mk",
+    "latin": "Narodna kujna (traditional cuisine)"
+   },
+   {
+    "text": "С. МУШЕ",
+    "lang": "mk",
+    "latin": "S. Muše"
+   },
+   {
+    "text": ":КОСМОС:",
+    "lang": "mk",
+    "latin": "Kosmos"
+   },
+   {
+    "text": "УЛ. БЕЛГРАДСКА 108 ТЕЛ. 211-908",
+    "lang": "mk",
+    "latin": "ul. Belgradska 108, tel. 211-908"
+   }
+  ],
+  "expect": {
+   "query": "Космос",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Old painted fascia of the Kosmos eatery near Bit Pazar, Skopje; the name is flanked by colon-like dots. The address line (ul. Belgradska 108) is small. Red Coca-Cola awning repeating 'КОСМОС' and a Telekom 'HotSpot' sign are distractors."
+ },
+ "f68630740-3935-46b4-9297-99a1f76be9e9": {
+  "accept": false,
+  "reason": "wrong country (Kosovo: Pejë/Mitrovicë directions, KS plates) and defaced sign"
+ },
+ "f7e9502a7-6fb2-4a6e-acc8-ced7eb445e5b": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn",
+   "Cyrl"
+  ],
+  "lines": [
+   {
+    "text": "Tose",
+    "lang": "mk"
+   },
+   {
+    "text": "ТОДОР ПРОЕСКИ",
+    "lang": "mk",
+    "latin": "Todor Proeski"
+   },
+   {
+    "text": "УЛИЦА",
+    "lang": "mk",
+    "latin": "ulica (street)"
+   }
+  ],
+  "expect": {
+   "query": "Тодор Проески",
+   "type": "street"
+  },
+  "difficulty": "medium",
+  "notes": "Brass street-name plaque on dark granite: a script 'Tose' signature logo above a wavy banner with treble clef reading 'ТОДОР ПРОЕСКИ', and small 'УЛИЦА' below-left. The 'Tose' logo is a stylised signature, not a separate sign."
+ },
+ "f913a5de0-721e-4511-bd11-fe4be3f715c0": {
+  "accept": false,
+  "reason": "chalkboard art installation with handwritten graffiti ('Before I die I want to...'), no place name"
+ }
+}

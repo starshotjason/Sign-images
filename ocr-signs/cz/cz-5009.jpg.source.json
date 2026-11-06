@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.mapcomplete.org/#focus=pic&pic=1b2b23f3-d848-492a-b915-86e4e133cd9d",
+  "original_url": "https://panoramax.mapcomplete.org/permanent/1b/2b/23/f3/d848-492a-b915-86e4e133cd9d.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "mapcomplete",
+  "credit_as_published": "Panoramax, instance mapcomplete (https://panoramax.mapcomplete.org)",
+  "title": "Panoramax picture 1b2b23f3-d848-492a-b915-86e4e133cd9d (Prague, 2026-09-05)",
+  "description": "Street-level picture on Panoramax, taken 2026-09-05 near Prague by mapcomplete, sequence 42ef5bd3-ac04-4013-997e-26afe99f1066, heading 278. OCR (PP-OCRv3) read: BBOSUSHIWOK | FAMOUS LOUISIANA CHICKEN",
+  "date": "2026-09-05",
+  "categories": [],
+  "camera_location": [
+    50.080032856,
+    14.428887415
+  ],
+  "found_by": "panoramax-ocr:Prague",
+  "bytes": 3664292,
+  "width": 4032,
+  "height": 3024,
+  "downloaded_url": "https://panoramax.mapcomplete.org/permanent/1b/2b/23/f3/d848-492a-b915-86e4e133cd9d.jpg",
+  "derivative": "whole 4032x3024 HD picture as served by the Panoramax instance (byte-identical; the service blurs faces and number plates), not cropped"
+}

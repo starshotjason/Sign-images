@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=8cc4c60f-97c9-4e06-bd77-ef665cc91ee3",
+  "original_url": "https://panoramax.openstreetmap.fr/images/8c/c4/c6/0f/97c9-4e06-bd77-ef665cc91ee3.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "motocultrice",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture 8cc4c60f-97c9-4e06-bd77-ef665cc91ee3 (Quito, 2017-04-24)",
+  "description": "Street-level picture taken 2017-04-24 near Quito by motocultrice, sequence 6e24d76b-61e0-41dd-b680-8fc5d015982d, heading 195. OCR (PP-OCRv3) read: Magnate | CICLOVIA",
+  "date": "2017-04-24",
+  "categories": [],
+  "camera_location": [
+    -0.207400591,
+    -78.48203985
+  ],
+  "found_by": "panoramax-ocr:Quito",
+  "bytes": 506064,
+  "width": 2145,
+  "height": 1608,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/8c/c4/c6/0f/97c9-4e06-bd77-ef665cc91ee3.jpg",
+  "derivative": "crop 857,748,3002,2356 of the 4160x3120 HD picture"
+}

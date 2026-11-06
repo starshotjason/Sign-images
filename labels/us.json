@@ -1,0 +1,86 @@
+{
+ "k187413665": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "HILTON GARDEN INN",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Hilton Garden Inn",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Tall vertical blade sign on a hotel facade (Washington, DC), letters stacked top to bottom under a red flower logo, seen at an angle with sun glare at its foot. A mirror-image reflection of the same sign appears in the glass building at left (distractor)."
+ },
+ "k187413723": {
+  "accept": false,
+  "reason": "only a tiny 'POTBELLY' window sign and a 'LOVE' holiday banner; nothing legible enough as the target"
+ },
+ "k187429829": {
+  "accept": false,
+  "reason": "taxis (one with a readable number plate) dominate the frame; the blue wayfinding sign is too small to read reliably at 1600 px"
+ },
+ "k187429849": {
+  "accept": false,
+  "reason": "taxi and FedEx truck branding only; bank fascia too small"
+ },
+ "k187430053": {
+  "accept": false,
+  "reason": "moving-van branding (Victory Van Corporation), vehicle advertising"
+ },
+ "k187430133": {
+  "accept": false,
+  "reason": "only a 'DO NOT ENTER' traffic sign; no place name (Washington Monument in background has no sign)"
+ },
+ "k187437427": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "UNITED BANK",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "United Bank",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "White letters with a 'U' logo on the dark fascia of a bank branch at a street corner; the name repeats on the side ('...ITED BANK'). The address plate '1667 K' on the pillar at left could support an addr query (1667 K St NW). Distractors: 'ONE WAY' and no-turn signs, a red 'K STREET' banner, a green K St blade at far left; pedestrians incidental."
+ },
+ "p57aba253ef": {
+  "accept": true,
+  "reason": "",
+  "kind": "hard",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Williams Alley",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Williams Alley",
+   "type": "street"
+  },
+  "difficulty": "hard",
+  "notes": "Small green street blade at dusk on a pole above a 'SPEED LIMIT 25' sign, seen through a dashcam windscreen; low contrast. Dashcam overlay 'MIC OFF/HDR BLACKVUE DR900...' at the bottom is not sign text. A truck at left is incidental."
+ },
+ "pad819803a5": {
+  "accept": false,
+  "reason": "dark dashcam frame; only parking-regulation plates, unreadable"
+ }
+}

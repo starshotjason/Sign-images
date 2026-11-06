@@ -1,0 +1,474 @@
+{
+ "c127951749": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "AGAVE",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "Agavé",
+   "type": "place"
+  },
+  "difficulty": "easy",
+  "notes": "Red-bordered French-style village entry sign in bushes, Plateaux region; printed without the accent (the village is spelled 'Agavé'). The lower-right corner of the plate is peeling."
+ },
+ "c128118554": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "GBOGAM",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "Gbogame",
+   "type": "place"
+  },
+  "difficulty": "medium",
+  "notes": "Village name plate on a pole by a dirt road, Avé prefecture. The final letter after 'GBOGAM' is scraped off (the village is Koudassi-Gbogame, so it was probably 'E'); only the legible part is transcribed."
+ },
+ "c130129939": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "BIENVENUE",
+    "lang": "fr"
+   },
+   {
+    "text": "DANS LA",
+    "lang": "fr"
+   },
+   {
+    "text": "COMMUNE BINAH2",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "Binah",
+   "type": "place"
+  },
+  "difficulty": "easy",
+  "notes": "White roadside board with blue serif capitals on the Kara-Kétao road; no space between 'BINAH' and '2'."
+ },
+ "c130141499": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ECOLE",
+    "lang": "fr"
+   },
+   {
+    "text": "PRIMAIRE PUBLIQUE",
+    "lang": "fr"
+   },
+   {
+    "text": "KARA-CENTRALE",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "École Primaire Publique Kara-Centrale",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Painted gate pillar, Kara; blue 'ECOLE PRIMAIRE PUBLIQUE', orange 'KARA-CENTRALE' (the final E touches the edge). The phone/email/motto lines below are partly hidden by motorbike mirrors and left out. The left pillar ('MEPS-FP DRE-KARA IEPP KOZAH-CENTRE') and the motorbike plate are distractors."
+ },
+ "c130142519": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "REPUBLIQUE TOGOLAISE",
+    "lang": "fr"
+   },
+   {
+    "text": "Travail LiberTé PaTrie",
+    "lang": "fr"
+   },
+   {
+    "text": "MEPSTA",
+    "lang": "fr"
+   },
+   {
+    "text": "DREKARA",
+    "lang": "fr"
+   },
+   {
+    "text": "IEPP KOZAH - CENTRE",
+    "lang": "fr"
+   },
+   {
+    "text": "JEP/EPP DONGOYO",
+    "lang": "fr"
+   },
+   {
+    "text": "DEVISE: Travail - Discipline - Succ",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "EPP Dongoyo",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Hand-painted direction board for the Dongoyo public primary school, Kara, with a red arrow pointing right; flags at the top corners. Mixed case as painted ('LiberTé PaTrie' with capital T's). 'DRE' is green and 'KARA' blue, run together. The motto line is cut by the open van door ('Succ[ès]'). The van and its number plate are distractors."
+ },
+ "c130142523": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "EGLISE DES ASSEMBLEES DE DIEU",
+    "lang": "fr"
+   },
+   {
+    "text": "KARA DONGOYO",
+    "lang": "fr"
+   },
+   {
+    "text": "TEMPLE LA VICTOIRE",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "Église des Assemblées de Dieu Kara Dongoyo",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Church name banner on a gabled wall, Kara; target is the top three white lines on blue. The Bible-verse slogan below ('Jésus Revient Bientôt, Es-tu prêt?', 'Je viens bientôt...', 'Apocalypse 3:11') is a distractor."
+ },
+ "c130144581": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "MAISON",
+    "lang": "fr"
+   },
+   {
+    "text": "DES JEUNES",
+    "lang": "fr"
+   },
+   {
+    "text": "DE KARA",
+    "lang": "fr"
+   },
+   {
+    "text": "INCUBATEUR",
+    "lang": "fr"
+   },
+   {
+    "text": "Hub de créativité",
+    "lang": "fr"
+   },
+   {
+    "text": "Kara, quartier Dongoyo, à 50m",
+    "lang": "fr"
+   },
+   {
+    "text": "à gauche de l’hôtel Kara",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "Maison des Jeunes de Kara",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Tall totem sign, Kara, seen at an angle; yellow name lines. A stylised lab name between 'INCUBATEUR' and 'Hub de créativité' (looks like Kabiyè 'tɩlɩtʋ Lab') is left out because its special letters are not certain. The small ministry header ('RÉPUBLIQUE TOGOLAISE', 'Ministère du Développement à la Base, de la Jeunesse et de l'Emploi des Jeunes') is a distractor; a scratched QR code sits beside the pointing-hand arrow."
+ },
+ "c132716626": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "L’AN DEUX MIL SEIZE ET LE VINGT-CINQ AVRIL",
+    "lang": "fr"
+   },
+   {
+    "text": "Son Excellence Monsieur Faure Essozimna GNASSINGBE",
+    "lang": "fr"
+   },
+   {
+    "text": "Président de la République Togolaise",
+    "lang": "fr"
+   },
+   {
+    "text": "a inauguré la nouvelle aérogare",
+    "lang": "fr"
+   },
+   {
+    "text": "de l’Aéroport International GNASSINGBE EYADEMA.",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "Aéroport International Gnassingbé Eyadéma",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Gold letters on a granite inauguration stele in front of the Lomé airport terminal; the airport name is the last line (no accents on the capitalised names). Commemorative text otherwise."
+ },
+ "c140246352": {
+  "accept": false,
+  "reason": "commemorative dedication stone (date, president's name, 'dédie ce site écologique aux générations futures'); no place name beyond the acronym 'CIDAP-AI'"
+ },
+ "c145728561": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "HOTEL",
+    "lang": "fr"
+   },
+   {
+    "text": "LES COPAINS",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "Hôtel Les Copains",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "White panel with navy letters between two red arrows, Aného; no accent on HOTEL. An unlit neon tube 'R' and arrow and a dark LED display above are distractors."
+ },
+ "c146147374": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "MINISTERE DES DROITS DE L’HOMME,",
+    "lang": "fr"
+   },
+   {
+    "text": "DE LA FORMATION A LA CITOYENNETE,",
+    "lang": "fr"
+   },
+   {
+    "text": "DES RELATIONS AVEC LES INSTITUTIONS",
+    "lang": "fr"
+   },
+   {
+    "text": "DE LA REPUBLIQUE",
+    "lang": "fr"
+   },
+   {
+    "text": "SECRETARIAT GENERAL",
+    "lang": "fr"
+   },
+   {
+    "text": "(DRIR)",
+    "lang": "fr"
+   },
+   {
+    "text": "DIRECTION DES RELATIONS",
+    "lang": "fr"
+   },
+   {
+    "text": "AVEC LES INSTITUTIONS DE LA REPUBLIQUE",
+    "lang": "fr"
+   },
+   {
+    "text": "BP: 12482 - Tél: 22 21 72 51 Lomé",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "Direction des Relations avec les Institutions de la République",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Government office board on a wall, Lomé; ministry lines in dark green, secretariat in black, directorate in red, contact line in black with the 'BP:' colon looking like a semicolon. Coat of arms ('RT') at both ends."
+ },
+ "c147885652": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Caritas",
+    "lang": "fr"
+   },
+   {
+    "text": "AFRICA",
+    "lang": "fr"
+   },
+   {
+    "text": "SECRETARIAT EXECUTIF REGIONAL",
+    "lang": "fr"
+   },
+   {
+    "text": "REGIONAL EXECUTIVE SECRETARIAT",
+    "lang": "en"
+   },
+   {
+    "text": "SECRETARIA EXECUTIVA REGIONAL",
+    "lang": "pt"
+   },
+   {
+    "text": "www.caritas-africa.org",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "Caritas Africa",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Office sign under a small tiled roof, Lomé; trilingual French/English/Portuguese. The small contact lines above the website ('8 BP 83 95 LOME 8 - TOGO - TEL. +228 ...', complaints e-mail) are left out. The OCDI-marked van at left is a distractor."
+ },
+ "c151157710": {
+  "accept": true,
+  "reason": "",
+  "kind": "hard",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "PARC SARAKAWA",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "Parc Sarakawa",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Heavily rusted green wooden-post sign with white painted capitals, Parc Sarakawa (Kara region); rust spots break up the letters, especially 'RAKAW', but every letter remains identifiable. Shallow depth of field."
+ },
+ "c155075833": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "FRERES MARIANISTES",
+    "lang": "fr"
+   },
+   {
+    "text": "COMMUNAUTE CHAMINADE",
+    "lang": "fr"
+   },
+   {
+    "text": "COLLEGE CHAMINADE",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "Collège Chaminade",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Cream panel on the compound wall in Kara with letters made of embedded dark gravel (textured, speckled strokes); no accents on the sign. Slight background blur."
+ },
+ "c155075817": {
+  "accept": false,
+  "reason": "near-duplicate of accepted c155075833 (same Collège Chaminade wall panel, wider view with the gate)"
+ },
+ "c154416729": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "MEPST",
+    "lang": "fr"
+   },
+   {
+    "text": "DRE GRAND LOME",
+    "lang": "fr"
+   },
+   {
+    "text": "IEPP LOME SUD",
+    "lang": "fr"
+   },
+   {
+    "text": "EPP + JEP ADJOMAYI",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "EPP Adjomayi",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "School name painted on a grey wall between two Togolese flags, Bè-Klikamé, Lomé. A paint chip sits on the 'Y' of 'ADJOMAYI' (still readable). Faint pencil scribble 'RODE' to the right and a blue scrawl at the right edge are distractors."
+ },
+ "c89168232": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "RATO MOTO",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "Rato Moto",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Blue-and-white awning banner of a motorbike dealer in Lomé, repeated on two faces with 'RATO' logo badges; the photo is tilted about 10 degrees. The tiny address/phone lines under the logo badges are unreadable. The 'MEGA PROMO 320.000 FCFA' A-frame is an advert distractor."
+ }
+}

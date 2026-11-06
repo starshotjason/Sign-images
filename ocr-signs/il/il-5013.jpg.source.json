@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=a9300e0b-9510-4141-8ccc-358305950ba7",
+  "original_url": "https://panoramax.openstreetmap.fr/images/a9/30/0e/0b/9510-4141-8ccc-358305950ba7.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "urimsch",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture a9300e0b-9510-4141-8ccc-358305950ba7 (Tel Aviv, 2025-12-31)",
+  "description": "Street-level picture on Panoramax, taken 2025-12-31 near Tel Aviv by urimsch, sequence 26d91456-bd59-4881-b958-bdc81ad7a2ee, heading 132. OCR (PP-OCRv3) read: [unread] 18.001400ea | [unread] LCECU LEI ELCE NOIL | [unread] LIEU AA CR UCEO LNOIL | [unread] NI LUEAL NO EtI INI LAO | [unread] NU XINU CLELO",
+  "date": "2025-12-31",
+  "categories": [],
+  "camera_location": [
+    32.093712547,
+    34.8138915
+  ],
+  "found_by": "panoramax-ocr:Tel Aviv",
+  "bytes": 2592613,
+  "width": 3060,
+  "height": 2785,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/a9/30/0e/0b/9510-4141-8ccc-358305950ba7.jpg",
+  "derivative": "crop 0,866,3060,3651 of the 3060x4080 HD picture"
+}

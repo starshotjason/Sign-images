@@ -1,0 +1,206 @@
+{
+ "k2862254": {
+  "accept": false,
+  "reason": "main text is van branding (gfeller elektro & telematik); the street finger signs are too small to read reliably at 1600 px"
+ },
+ "k3126200": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "TITOLO",
+    "lang": "it"
+   }
+  ],
+  "expect": {
+   "query": "Titolo",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Sneaker shop name repeated on three white boxes over an arched shop window in Bern; the left one is partly hidden by a parked van. Language: the name is Italian ('title') used as a brand. The van lettering 'floral art floral art' is vehicle branding (distractor); small 'SPORTXX' and '50-75%' sale posters at right are distractors. Through a windscreen."
+ },
+ "k334708771": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Central",
+    "lang": "de"
+   },
+   {
+    "text": "HOTEL St. Gotthard",
+    "lang": "de"
+   }
+  ],
+  "expect": {
+   "query": "Central",
+   "type": "place"
+  },
+  "difficulty": "medium",
+  "notes": "Zürich, Bahnhofstrasse area: white lane sign with a green motorway pictogram and 'Central' (both lines de; Central is a square name) with two turn arrows; below it a brown hotel finger sign 'HOTEL St. Gotthard' (de). Distractors: 'KUONI RE...' building sign, 'RISTORANTE ...' sign, 'ROBO-SMARTASS ET MANAG...' window poster. Passers-by face-blurred; car plate blurred."
+ },
+ "k334708831": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Hauptbahnhof",
+    "lang": "de"
+   },
+   {
+    "text": "Zürich Nord",
+    "lang": "de"
+   },
+   {
+    "text": "Industriequartier",
+    "lang": "de"
+   },
+   {
+    "text": "Limmatplatz",
+    "lang": "de"
+   }
+  ],
+  "expect": {
+   "query": "Limmatplatz",
+   "type": "place"
+  },
+  "difficulty": "easy",
+  "notes": "All lines German (de). Green parking guidance finger with arrow and P pictogram ('Hauptbahnhof'), and below a red cycle-route sign with bicycle symbol: 'i Zürich Nord' with route-number badge, 'Industriequartier / Limmatplatz' with left arrow. Autumn tree behind."
+ },
+ "k3374301": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "sta TRAVEL",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "STA Travel",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "White letters on the dark canopy edge, seen at a steep angle from a car on a dull day in Bern (language en). 'OLMO' red logo over a red awning at left and a cut 'VON G...' sign at right are distractors; the truck at left shows partial 'ROS' branding."
+ },
+ "k86674": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Schroders",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Schroders",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Blue channel letters on the roof of an office building in Zürich (company name, en), seen from below; tram wires cross the text."
+ },
+ "p0556631870": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "LANZ",
+    "lang": "de"
+   },
+   {
+    "text": "conditorei",
+    "lang": "de"
+   }
+  ],
+  "expect": {
+   "query": "Lanz",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Corner pastry shop in Bern: 'LANZ' in four white discs with red letters at left and red 'conditorei' channel letters (lower-case, both de) above a red awning. Shot through a curved windscreen with a wiper crossing the frame and reflections; a small 'Lanz' logo panel by the door repeats the name."
+ },
+ "p0696f2ef89": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Benedict",
+    "lang": "de"
+   }
+  ],
+  "expect": {
+   "query": "Benedict",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Red vertical blade sign with white italic letters 'Benedict' (school, Zürich), no accents visible on this sign; the horizontal fascia at left reads 'Bénéd...' with accents but is cut by a parking sign. 'B.H.M.S. / Business & Hotel Management School' (en) is a second sign; 'ARTISA Group / WE DEVELOP REAL ESTATE VISIONS ALL OVER EUROPE' hoarding is advertising (distractor). Pedestrian face-blurred; car plate blurred."
+ },
+ "p635b48c77b": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "PKZ WOMEN",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "PKZ",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Fashion store fascia (Zürich): large serif 'PKZ' with smaller 'WOMEN' (en), at an angle. Distractors: 'Latin VIBES' window graphic, rooftop 'DACHTER...' letters cut by the frame, yellow Swiss Post van with 'Summend statt brummend' livery (vehicle branding)."
+ },
+ "pb16294fca4": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Schlossgasse",
+    "lang": "de"
+   }
+  ],
+  "expect": {
+   "query": "Schlossgasse",
+   "type": "street"
+  },
+  "difficulty": "medium",
+  "notes": "Blue Zürich street-name plate with white letters on a pole, seen from below, slightly blurred (de). Two more plates on the pole are angled: 'Steinstrasse' (partly legible, de) and one unreadable; not included."
+ }
+}

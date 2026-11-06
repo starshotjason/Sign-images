@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=77cff494-4fa7-4f34-9976-28fc5d94ee8a",
+  "original_url": "https://panoramax.openstreetmap.fr/images/77/cf/f4/94/4fa7-4f34-9976-28fc5d94ee8a.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "Eric S",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture 77cff494-4fa7-4f34-9976-28fc5d94ee8a (Antananarivo, 2009-08-13)",
+  "description": "Street-level picture taken 2009-08-13 near Antananarivo by Eric S, sequence 27c4ddb1-a77c-4e2c-8d9a-8ede2cea973a, heading 241. OCR (PP-OCRv3) read: AVENUE | General Gabriel RAMANANTSOA | CHEF D'ETAT (1972-1975)",
+  "date": "2009-08-13",
+  "categories": [],
+  "camera_location": [
+    -18.91070317,
+    47.52289476
+  ],
+  "found_by": "panoramax-ocr:Antananarivo",
+  "bytes": 191691,
+  "width": 1280,
+  "height": 960,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/77/cf/f4/94/4fa7-4f34-9976-28fc5d94ee8a.jpg",
+  "derivative": "whole 1280x960 HD picture as served by the Panoramax instance (byte-identical; the instance blurs faces and number plates), not cropped"
+}

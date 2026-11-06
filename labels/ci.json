@@ -1,0 +1,494 @@
+{
+  "p10b5be7c3b": {
+    "accept": false,
+    "reason": "advertising billboard for car insurance, partly blocked by the windscreen mirror; advertising copy"
+  },
+  "p116cd2029e": {
+    "accept": false,
+    "reason": "subject is a pickup truck (brand lettering); the direction sign in the background is too small"
+  },
+  "p1a4350dbb8": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "YAMOUSSOUKRO",
+        "lang": "fr"
+      },
+      {
+        "text": "YOPOUGON",
+        "lang": "fr"
+      }
+    ],
+    "expect": {
+      "query": "Yopougon",
+      "type": "place"
+    },
+    "difficulty": "easy",
+    "notes": "Two arrow-shaped direction signs on a pole, Abidjan: green panel 'YAMOUSSOUKRO' over white panel 'YOPOUGON', both pointing right. Alternative query: 'Yamoussoukro'."
+  },
+  "p4793f75ad6": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "YAMOUSSOUKRO",
+        "lang": "fr"
+      },
+      {
+        "text": "BINGERVILLE",
+        "lang": "fr"
+      },
+      {
+        "text": "ABOBO",
+        "lang": "fr"
+      },
+      {
+        "text": "COCODY",
+        "lang": "fr"
+      }
+    ],
+    "expect": {
+      "query": "Cocody",
+      "type": "place"
+    },
+    "difficulty": "medium",
+    "notes": "Overhead gantry direction sign seen through the windscreen; the top band shows only an up arrow. The first two names are on green bands, the last two in black on white. The right edge of the frame is blocked by the rear-view mirror; the vertical 'ADJAMÉ' sign at lower left is a distractor. Alternative query: 'Abobo'."
+  },
+  "p8c9059b9da": {
+    "accept": false,
+    "reason": "subject is a vehicle number plate"
+  },
+  "pcb28e7da09": {
+    "accept": false,
+    "reason": "subject is a vehicle (Toyota tailgate lettering); no place sign"
+  },
+  "pdd5cf1d5c5": {
+    "accept": false,
+    "reason": "subject is a pickup truck (Toyota tailgate); no place sign as target"
+  },
+  "pe16b8714ed": {
+    "accept": false,
+    "reason": "near-duplicate of accepted p4793f75ad6: the same road, the same sign style and the same destinations (YAMOUSSOUKRO / BINGERVILLE / ABOBO)"
+  },
+  "f15c474e5-594f-4ab9-954f-9010624068c7": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn",
+      "Zyyy"
+    ],
+    "lines": [
+      {
+        "text": "MINISTERE DE L'EDUCATION NATIONALE",
+        "lang": "fr"
+      },
+      {
+        "text": "GROUPE SCOLAIRE LES DAUPHINS",
+        "lang": "fr"
+      },
+      {
+        "text": "MATERNELLE-PRIMAIRE-COLLEGE",
+        "lang": "fr"
+      },
+      {
+        "text": "06 BP 2445 ABIDJAN 06 TEL: 22.41.35.40",
+        "lang": "fr"
+      },
+      {
+        "text": "E-mail: lesdauphins@aviso.ci",
+        "lang": "fr"
+      }
+    ],
+    "expect": {
+      "query": "Groupe Scolaire Les Dauphins",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Painted cloth banner on a steel frame over a school wall, Deux Plateaux, Abidjan. Written without accents (MINISTERE, EDUCATION, COLLEGE); apostrophe transcribed as ASCII. The right edge of the photo clips the final S of DAUPHINS and the final E of COLLEGE (both partly visible). This is a postal-box address (06 BP 2445), not a street address."
+  },
+  "f6aced74d-85a5-4394-a462-77d9f781f8a4": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Latn",
+      "Zyyy"
+    ],
+    "lines": [
+      {
+        "text": "RUE L54",
+        "lang": "fr"
+      },
+      {
+        "text": "RUE L9",
+        "lang": "fr"
+      }
+    ],
+    "expect": {
+      "query": "Rue L9",
+      "type": "street"
+    },
+    "difficulty": "medium",
+    "notes": "Two blue street-name blades at a right angle on one pole, Angré, Cocody, Abidjan, seen from below; gold capitals. The 'RUE L54' blade is at a steep angle. Tiny 'VILLE D'ABIDJAN / COMMUNE DE COCODY' crest text is not transcribed. The 'Styliste Modéliste' shop awning at bottom left is a distractor. Alternative query: 'Rue L54'."
+  },
+  "f7a8098fa-24e4-48fa-ae05-a15e85ad7060": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Latn",
+      "Zyyy"
+    ],
+    "lines": [
+      {
+        "text": "VILLE D'ABIDJAN",
+        "lang": "fr"
+      },
+      {
+        "text": "COMMUNE DE COCODY",
+        "lang": "fr"
+      },
+      {
+        "text": "BOULEVARD A5",
+        "lang": "fr"
+      },
+      {
+        "text": "LATRILLE",
+        "lang": "fr"
+      }
+    ],
+    "expect": {
+      "query": "Boulevard Latrille",
+      "type": "street"
+    },
+    "difficulty": "easy",
+    "notes": "Blue street-name plate with gold capitals and a gold border, Cocody, Abidjan, slightly from below. The small header 'VILLE D'ABIDJAN' and 'COMMUNE DE COCODY' (split over three lines around the crest) is tiny but legible; the main lines are 'BOULEVARD A5' and 'LATRILLE'. Same blue Cocody style as other Abidjan plates but a different street."
+  },
+  "ffdbce8c8-88f4-4275-a7c6-50d15a12046c": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn",
+      "Zyyy"
+    ],
+    "lines": [
+      {
+        "text": "AGENCE",
+        "lang": "fr"
+      },
+      {
+        "text": "UNIVERSITAIRE",
+        "lang": "fr"
+      },
+      {
+        "text": "DE LA FRANCOPHONIE",
+        "lang": "fr"
+      },
+      {
+        "text": "CAMPUS",
+        "lang": "fr"
+      },
+      {
+        "text": "NUMERIQUE",
+        "lang": "fr"
+      },
+      {
+        "text": "FRANCOPHONE",
+        "lang": "fr"
+      },
+      {
+        "text": "ABIDJAN",
+        "lang": "fr"
+      },
+      {
+        "text": "Centre d'Accès à",
+        "lang": "fr"
+      },
+      {
+        "text": "l'Information",
+        "lang": "fr"
+      },
+      {
+        "text": "Fournisseur",
+        "lang": "fr"
+      },
+      {
+        "text": "d'Accès Internet",
+        "lang": "fr"
+      },
+      {
+        "text": "Formation Initiale &",
+        "lang": "fr"
+      },
+      {
+        "text": "Continue",
+        "lang": "fr"
+      },
+      {
+        "text": "CURAT",
+        "lang": "fr"
+      },
+      {
+        "text": "LAF 401 AUF",
+        "lang": "fr"
+      }
+    ],
+    "expect": {
+      "query": "Campus Numérique Francophone Abidjan",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Tall totem sign at the roadside, Cocody (university area), Abidjan, slightly from below. Capitals written without accents (NUMERIQUE) while the lowercase lines keep them (Accès, à); apostrophes as ASCII. The initials A and U in AGENCE / UNIVERSITAIRE are picked out in red. The 'SPONSOR OFFICIEL Côte d'Ivoire Telecom' panel at the base is a distractor. Alternative queries: 'Agence universitaire de la Francophonie', 'CURAT'."
+  },
+  "pa0ff9339b5": {
+    "accept": false,
+    "reason": "mineral-water advertising poster"
+  },
+  "pf8cc22f53d": {
+    "accept": false,
+    "reason": "insurance advertising billboard"
+  },
+  "c101257672": {
+    "accept": false,
+    "reason": "generic 'HOPITAL' arrow sign with no proper name; the rest is a market street scene"
+  },
+  "c129500253": {
+    "accept": false,
+    "reason": "health slogan board ('UN ESPRIT SAIN...'); the Parc National du Banco header duplicates the accepted Banco signs"
+  },
+  "c130735311": {
+    "accept": false,
+    "reason": "farewell message only ('Merci aurevoir et à bientôt'); no place name"
+  },
+  "c130917204": {
+    "accept": false,
+    "reason": "subject is a taxi's exhaust smoke and vehicle lettering; no sign"
+  },
+  "c145937793": {
+    "accept": false,
+    "reason": "Rotary International emblem sculpture on a roundabout; logo, not a place sign"
+  },
+  "c113287726": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "COVIMA",
+        "lang": "fr"
+      },
+      {
+        "text": "POUR LA TRANSFORMATION",
+        "lang": "fr"
+      },
+      {
+        "text": "DU CACAO DE LA MARAHOUE",
+        "lang": "fr"
+      }
+    ],
+    "expect": {
+      "query": "COVIMA",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Hand-painted sign on a wall, Bouaflé: red 'COVIMA' under a logo with a Côte d'Ivoire outline (the logo itself repeats 'CO' and 'IMA'), green slogan with a red arrow. No accent painted on MARAHOUE."
+  },
+  "c129499194": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "MONTAGNE",
+        "lang": "fr"
+      },
+      {
+        "text": "PRECIPICES",
+        "lang": "fr"
+      },
+      {
+        "text": "1,5Km",
+        "lang": "fr"
+      },
+      {
+        "text": "ECOLE FORESTIERE",
+        "lang": "fr"
+      },
+      {
+        "text": "1,5 Km",
+        "lang": "fr"
+      },
+      {
+        "text": "SALLE MULTIMEDIA",
+        "lang": "fr"
+      },
+      {
+        "text": "2,KM",
+        "lang": "fr"
+      },
+      {
+        "text": "ARBORETUM",
+        "lang": "fr"
+      },
+      {
+        "text": "1,75",
+        "lang": "und"
+      },
+      {
+        "text": "MARTINEAU",
+        "lang": "fr"
+      },
+      {
+        "text": "ECO-MUSEE",
+        "lang": "fr"
+      },
+      {
+        "text": "3KM",
+        "lang": "fr"
+      }
+    ],
+    "expect": {
+      "query": "Arboretum",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Five coloured arrow fingerposts on a yellow pole in Parc National du Banco, Abidjan; read left board then right board, top to bottom. The health slogan board above ('POUR LUTTER CONTRE LE DIABETE ...', 'DON LIONS CLUB COTE D'IVOIRE') and its cut-off 'PARC NATIONAL DU BANCO' header are distractors. Alternative queries: 'Parc National du Banco', 'École Forestière'."
+  },
+  "c129501646": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "CIRCUIT ECOTOURISTIQUE",
+        "lang": "fr"
+      },
+      {
+        "text": "PARC NATIONAL DU BANCO",
+        "lang": "fr"
+      },
+      {
+        "text": "VOUS ETES A",
+        "lang": "fr"
+      },
+      {
+        "text": "CARREFOUR MONTAGNE",
+        "lang": "fr"
+      },
+      {
+        "text": "MARTINEAU",
+        "lang": "fr"
+      },
+      {
+        "text": "DON DES LIONS CLUBS DE COTE D’IVOIRE",
+        "lang": "fr"
+      }
+    ],
+    "expect": {
+      "query": "Parc National du Banco",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "'You are here' board at a trail junction in the forest; small in frame. A crease runs through 'ECOTOURISTIQUE' and 'DU' in the header. The mossy fingerposts below ('SORTIE ESPACE-ECO 2 Km', 'OBSERVEZ LES DIFFERENTS OBSTACLES', 'SORTIE ENTREE ESPACE-ECO') are distractors. Alternative query: 'Carrefour Montagne Martineau'."
+  },
+  "c131713818": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "BANDAMA",
+        "lang": "fr"
+      }
+    ],
+    "expect": {
+      "query": "Bandama",
+      "type": "place"
+    },
+    "difficulty": "easy",
+    "notes": "Black river-name sign with white wave symbol at the Bandama bridge near Tiassalé; close and frontal."
+  },
+  "c18601831": {
+    "accept": true,
+    "reason": "",
+    "kind": "transit",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "P2",
+        "lang": "und"
+      },
+      {
+        "text": "AEROGARE",
+        "lang": "fr"
+      },
+      {
+        "text": "DEPART",
+        "lang": "fr"
+      },
+      {
+        "text": "AUTOCARS",
+        "lang": "fr"
+      }
+    ],
+    "expect": {
+      "query": "Aérogare",
+      "type": "stop"
+    },
+    "difficulty": "easy",
+    "notes": "Three blue overhead lane signs at Abidjan's Félix Houphouët-Boigny airport: 'P' with subscript 2 and a down arrow, 'AEROGARE DEPART' with two down arrows, 'AUTOCARS' with a diagonal arrow. The terminal lettering behind is hidden by the trees; no-parking pictograms are distractors."
+  },
+  "c34834651": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "MINISTERE DE LA SANTE PUBLIQUE",
+        "lang": "fr"
+      },
+      {
+        "text": "HOPITAL GENERAL D'ADIAK",
+        "lang": "fr"
+      },
+      {
+        "text": "BP 54 TEL:21.30.70.40/21.30.70.74",
+        "lang": "fr"
+      }
+    ],
+    "expect": {
+      "query": "Hôpital Général d'Adiaké",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Gate lintel of the general hospital, Adiaké, shot from a moving vehicle at an angle with slight motion blur; a red cross precedes 'HOPITAL'. The name is cut at the right edge after 'ADIAK' (full 'D'ADIAKE'). No accents painted."
+  }
+}

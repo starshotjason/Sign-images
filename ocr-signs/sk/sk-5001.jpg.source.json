@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.mapcomplete.org/#focus=pic&pic=ebacafa8-0541-4d43-880b-e2787805748a",
+  "original_url": "https://panoramax.mapcomplete.org/permanent/eb/ac/af/a8/0541-4d43-880b-e2787805748a.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "mapcomplete",
+  "credit_as_published": "Panoramax, instance mapcomplete (https://panoramax.mapcomplete.org)",
+  "title": "Panoramax picture ebacafa8-0541-4d43-880b-e2787805748a (Bratislava, 2025-05-19)",
+  "description": "Street-level picture on Panoramax, taken 2025-05-19 near Bratislava by mapcomplete, sequence 14ea2dff-2d5f-4134-9a9c-0b7ff34d87aa, heading 229. OCR (PP-OCRv3) read: BERNOLAK",
+  "date": "2025-05-19",
+  "categories": [],
+  "camera_location": [
+    48.141590548,
+    17.105489487
+  ],
+  "found_by": "panoramax-ocr:Bratislava",
+  "bytes": 2275606,
+  "width": 3072,
+  "height": 3456,
+  "downloaded_url": "https://panoramax.mapcomplete.org/permanent/eb/ac/af/a8/0541-4d43-880b-e2787805748a.jpg",
+  "derivative": "crop 0,624,3072,4080 of the 3072x4080 HD picture"
+}

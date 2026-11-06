@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/8496985/102/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyNC8xLzE2L3Byb2MvODQ5Njk4NV83ZmVmYTRhZDc2NzA5YzA3ZGQzODU0NmZkY2MzNDQyZi5qcGc",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "johnny-rose-carlsen",
+  "credit_as_published": "KartaView user johnny-rose-carlsen (user id 17727); © KartaView contributors",
+  "title": "KartaView photo 1901834009, sequence 8496985 #102 (Chiang Mai, 2024-01-16)",
+  "description": "Street-level picture on KartaView, taken 2024-01-16 near Chiang Mai by johnny-rose-carlsen, sequence 8496985, heading 91.07. OCR (PP-OCRv3) read: School Zone | Huen Phen",
+  "date": "2024-01-16",
+  "categories": [],
+  "camera_location": [
+    18.785803,
+    98.985036
+  ],
+  "found_by": "kartaview-ocr:Chiang Mai",
+  "bytes": 1570586,
+  "width": 3840,
+  "height": 2160,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyNC8xLzE2L3Byb2MvODQ5Njk4NV83ZmVmYTRhZDc2NzA5YzA3ZGQzODU0NmZkY2MzNDQyZi5qcGc",
+  "derivative": "whole 3840x2160 full-size processed (blurred) picture as served by the KartaView CDN (byte-identical; the service blurs faces and number plates), not cropped"
+}

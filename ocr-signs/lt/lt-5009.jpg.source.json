@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/525939/587/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlNS5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE3LzgvMTMvcHJvYy81MjU5MzlfMDdkZjVfMzguanBn",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "ciprian-habuc",
+  "credit_as_published": "KartaView user ciprian-habuc (user id 8769); © KartaView contributors",
+  "title": "KartaView photo 95847453, sequence 525939 #587 (Vilnius, 2017-08-13)",
+  "description": "Street-level picture on KartaView, taken 2017-08-13 near Vilnius by ciprian-habuc, sequence 525939, heading 0. OCR (PP-OCRv3) read: AMBERTON | HOTEL-YIESBUTIS",
+  "date": "2017-08-13",
+  "categories": [],
+  "camera_location": [
+    54.685241,
+    25.28553
+  ],
+  "found_by": "kartaview-ocr:Vilnius",
+  "bytes": 220039,
+  "width": 1211,
+  "height": 908,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlNS5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE3LzgvMTMvcHJvYy81MjU5MzlfMDdkZjVfMzguanBn",
+  "derivative": "crop 1907,937,3118,1845 of the 3264x2448 full-size processed (blurred) picture"
+}

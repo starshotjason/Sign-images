@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=22f5fee2-ca84-4ebd-ab6b-52fdd71da09a",
+  "original_url": "https://panoramax.openstreetmap.fr/images/22/f5/fe/e2/ca84-4ebd-ab6b-52fdd71da09a.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "urimsch",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture 22f5fee2-ca84-4ebd-ab6b-52fdd71da09a (Tel Aviv, 2025-12-01)",
+  "description": "Street-level picture taken 2025-12-01 near Tel Aviv by urimsch, sequence f7823e5b-ff01-40ee-9d5f-dcb67c8fc784, heading 46. OCR (PP-OCRv3) read: Metrofun | [unread] OGLL .LI.ULIAMLL",
+  "date": "2025-12-01",
+  "categories": [],
+  "camera_location": [
+    32.071424061,
+    34.779005936
+  ],
+  "found_by": "panoramax-ocr:Tel Aviv",
+  "bytes": 399515,
+  "width": 1354,
+  "height": 1016,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/22/f5/fe/e2/ca84-4ebd-ab6b-52fdd71da09a.jpg",
+  "derivative": "crop 1083,1652,2437,2668 of the 4080x3060 HD picture"
+}

@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.mapcomplete.org/#focus=pic&pic=dac46768-7d0c-478d-8620-d21c75b88209",
+  "original_url": "https://panoramax.mapcomplete.org/permanent/da/c4/67/68/7d0c-478d-8620-d21c75b88209.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "mapcomplete",
+  "credit_as_published": "Panoramax, instance mapcomplete (https://panoramax.mapcomplete.org)",
+  "title": "Panoramax picture dac46768-7d0c-478d-8620-d21c75b88209 (Hong Kong, 2022-10-16)",
+  "description": "Street-level picture on Panoramax, taken 2022-10-16 near Hong Kong by mapcomplete, sequence 1de6f4a1-73ac-4c75-ab7f-2a2aabddf50a, heading 342. OCR (PP-OCRv3) read: 維多利 | Victoria P | Book | 维多利空公属WictoriaP",
+  "date": "2022-10-16",
+  "categories": [],
+  "camera_location": [
+    22.2824859,
+    114.1898351
+  ],
+  "found_by": "panoramax-ocr:Hong Kong",
+  "bytes": 851241,
+  "width": 2117,
+  "height": 2822,
+  "downloaded_url": "https://panoramax.mapcomplete.org/permanent/da/c4/67/68/7d0c-478d-8620-d21c75b88209.jpg",
+  "derivative": "whole 2117x2822 HD picture as served by the Panoramax instance (byte-identical; the service blurs faces and number plates), not cropped"
+}

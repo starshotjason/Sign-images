@@ -1,0 +1,27 @@
+{
+  "source": "tcmb",
+  "source_url": "https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=703191",
+  "original_url": "https://dcm.s3.hicloud.net.tw/new/excel/object/2022-06-15/e20d27ba-60b2-4407-8b73-9181715d35c9/collection/3c9fe49e-6313-41db-8ebb-b36331b928cf/7a5f3ee1-f44a-42ab-bf95-2236547a0c09.jpg",
+  "license_as_published": "CC BY",
+  "license_url_as_published": "https://creativecommons.org/licenses/by/3.0/tw/",
+  "author_as_published": "萬華茶室文化老街 / 邱怡靜",
+  "credit_as_published": "萬華茶室文化老街 / 邱怡靜（國立臺灣歷史博物館）, 國家文化記憶庫 Taiwan Cultural Memory Bank, CC BY",
+  "title": "萬華茶室文化老街街景",
+  "description": "此為萬華茶室文化老街招牌。萬華區西園路一帶，是有著六十年懷念飲酒店文化的老街。 2021年5月起，在萬華地區發生多起COVID-19群聚傳染事件，不僅使萬華成為疫情重災區，也是臺灣防疫以來最嚴重的社區感染擴散事件，全臺因此進入第三級防疫警戒狀態。當時因有確診個案連續多天往返位於萬華的茶藝館與住家，加上衛福部長陳時中的一句「人與人的連結」，使萬華的阿公店文化再度引起外界關注，也讓萬華區被視為防疫破口。 嚴重特殊傳染性肺炎（Coronavirus disease 2019），簡稱為COVID-19。於2019年12月1日，於中華人民共和國湖北省武漢市發現首宗感染個案（BBC NEWS 中文網，2020年2月18日），並於2020年初迅速擴散傳播至全球多個國家，導致逾2億多例確診，450多萬人死亡，演變成一場全球性大瘟疫。流行初期亦造成全球社會在醫療、民生用品上的恐慌性消費。此外，為防止疫情擴散，全球各國皆被迫關閉公共區域、教育機構等，或是取消、推遲各項娛樂藝能展演、體育賽事，對全球經濟造成不小影響。由於COVID-19主要是通過人與人之間的近距離接觸而傳播，因此，隨時保持社交距離、配戴口罩、保持個人與接觸物品表面間的清潔、勤洗手，是目前被認為較為有效能夠預防COVID-19傳播的方法。 參考資料 1.〈萬華阿公才沒玩很大！年近60茶室老闆娘揭不為人知「孤獨老人」哀歌：只是想找人講講話…〉，風傳媒，2021年06月17日， https://today.line.me/tw/v2/article/W2MzBv（瀏覽日期：111/03/24） 2.〈升三級警戒可能性變小？陳時中證實：萬華茶室女與前獅子會長有 「人與人的連結」〉，民視新聞網，2021/05/13，https://www.ftvnews.com.tw/news/detail/2021513L01M1（瀏覽日期：111/03/24）",
+  "date": "2022/06/15",
+  "categories": [
+    "社會與政治",
+    "COVID-19",
+    "破口",
+    "街景",
+    "萬華茶室",
+    "確診"
+  ],
+  "camera_location": null,
+  "found_by": "tcmb-opendata:dataSet/culture title/keyword match '老街'; rapidocr pre-screen read ['萬华茶室文化老街', '龍山寺直学門市', '康享祥係仔', '熏外民主']; visually reviewed",
+  "bytes": 937917,
+  "width": 1920,
+  "height": 1280,
+  "downloaded_url": "https://tcmb.culture.tw/imagor/filters:raw()/https%3A%2F%2Fdcm.s3.hicloud.net.tw%2Fnew%2Fexcel%2Fobject%2F2022-06-15%2Fe20d27ba-60b2-4407-8b73-9181715d35c9%2Fcollection%2F3c9fe49e-6313-41db-8ebb-b36331b928cf%2F7a5f3ee1-f44a-42ab-bf95-2236547a0c09.jpg",
+  "derivative": ""
+}

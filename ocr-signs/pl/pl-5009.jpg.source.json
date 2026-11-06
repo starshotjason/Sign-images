@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=ddbd9331-d94d-4681-a4a6-e4f19e684423",
+  "original_url": "https://panoramax.openstreetmap.fr/images/dd/bd/93/31/d94d-4681-a4a6-e4f19e684423.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "Piotr Strębski",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture ddbd9331-d94d-4681-a4a6-e4f19e684423 (Warsaw, 2026-07-28)",
+  "description": "Street-level picture on Panoramax, taken 2026-07-28 near Warsaw by Piotr Strębski, sequence d6a50ddc-b6dd-4ea6-bf07-14873cce242b, heading 350. OCR (PP-OCRv3) read: Ujazdow | Sielce | Siekierki | MPWiK | tazienki | Krolewskie",
+  "date": "2026-07-28",
+  "categories": [],
+  "camera_location": [
+    52.2046083,
+    21.0493233
+  ],
+  "found_by": "panoramax-ocr:Warsaw",
+  "bytes": 696855,
+  "width": 1615,
+  "height": 1211,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/dd/bd/93/31/d94d-4681-a4a6-e4f19e684423.jpg",
+  "derivative": "crop 1649,266,3264,1477 of the 3264x1478 HD picture"
+}

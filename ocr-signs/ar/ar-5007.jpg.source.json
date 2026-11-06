@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/3505585/8919/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMS80LzE0L3Byb2MvMzUwNTU4NV82ZGMyNGRiYmYyY2QyNjU4YzJhZmQ0YmY1NjVkN2RmMi5qcGc",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "matiasj",
+  "credit_as_published": "KartaView user matiasj (user id 14453); © KartaView contributors",
+  "title": "KartaView photo 1274289053, sequence 3505585 #8919 (Buenos Aires, 2021-04-10)",
+  "description": "Street-level picture on KartaView, taken 2021-04-10 near Buenos Aires by matiasj, sequence 3505585, heading 354.13. OCR (PP-OCRv3) read: ESTACIONAMIENTO | FABRIC | VALET PARKING | ESTACIONAMIENTO",
+  "date": "2021-04-10",
+  "categories": [],
+  "camera_location": [
+    -34.602416,
+    -58.367281
+  ],
+  "found_by": "kartaview-ocr:Buenos Aires",
+  "bytes": 245090,
+  "width": 1200,
+  "height": 900,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMS80LzE0L3Byb2MvMzUwNTU4NV82ZGMyNGRiYmYyY2QyNjU4YzJhZmQ0YmY1NjVkN2RmMi5qcGc",
+  "derivative": "crop 1872,378,3072,1278 of the 3072x1728 full-size processed (blurred) picture"
+}

@@ -1,0 +1,438 @@
+{
+ "p3ca67e9cb1": {
+  "accept": true,
+  "reason": "",
+  "kind": "hard",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "STACIONI",
+    "lang": "sq"
+   }
+  ],
+  "expect": {
+   "query": "Stacioni i Autobusëve",
+   "type": "stop"
+  },
+  "difficulty": "hard",
+  "notes": "Far rooftop lettering of the Prishtina bus station seen through trees; only 'STACIONI' is clearly legible (a branch crosses the T). The rest of the sign is hidden by a road-sign back and a tree trunk; fragments after it look like 'UTO...' but are not transcribed. Query is the station's name inferred from the visible word and the photo's location, not read in full."
+ },
+ "p7fded0c296": {
+  "accept": false,
+  "reason": "graffiti only"
+ },
+ "pe373096f7c": {
+  "accept": false,
+  "reason": "'Smoking zone' notice, not a place name"
+ },
+ "k293613363": {
+  "accept": false,
+  "reason": "motion-blurred 'HOUSE for rent' advert board"
+ },
+ "k294550667": {
+  "accept": true,
+  "reason": "",
+  "kind": "hard",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "TERRACE38",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Terrace38",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Wide view down a paved walkway in Pristina; the small white TERRACE38 panel sits above a row of shop signs at the far end. Distractors: 'Capital / Ria / PAGESAT' money-transfer fascia, 'CONA SPORT' shoe-shop sign, red neon letters, and PAGESAT / Capital Ria boards on the railings in the foreground."
+ },
+ "k294559285": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "MAXI",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "Maxi",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Maxi supermarket, Pristina: red MAXI letters (X drawn as a stylised hourglass) on a dark box sign over the entrance; a second large MAXI in raised red letters on the roof is seen edge-on and hard to read."
+ },
+ "k295704721": {
+  "accept": false,
+  "reason": "ice-cream/dessert menu and price poster in a window"
+ },
+ "k295704761": {
+  "accept": false,
+  "reason": "political graffiti/stencil ('KU UKSHIN HOTI?') on a wall; the small shop signs are unreadable"
+ },
+ "k295712015": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "SONDER",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Sonder",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Round hanging café sign with a tree logo whose trunk forms the D of SONDER, Pristina. Two small tagline lines below the name are unreadable. BEKO logo on the air conditioner is a distractor."
+ },
+ "k295713827": {
+  "accept": false,
+  "reason": "truck branding (S4 / EMILECAMION)"
+ },
+ "k295713847": {
+  "accept": false,
+  "reason": "taxi and truck branding (Radio Taxi Dallas); no fixed sign as target"
+ },
+ "k296842777": {
+  "accept": false,
+  "reason": "back of a football shirt (VOKRRI 9) is the subject; shop signs behind are unreadable"
+ },
+ "k296842797": {
+  "accept": false,
+  "reason": "NEWBORN monument letters covered in graffiti; no legible name"
+ },
+ "k300876923": {
+  "accept": true,
+  "reason": "",
+  "kind": "hard",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "nd Hotel Prishtina",
+    "lang": "sq"
+   }
+  ],
+  "expect": {
+   "query": "Grand Hotel Prishtina",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Rooftop letters of the Grand Hotel Prishtina seen far away down a street against a white sky; the start ('Gra') is hidden behind the building on the left. Low contrast."
+ },
+ "pd6dde1fae8": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Qeshmja",
+    "lang": "sq"
+   },
+   {
+    "text": "Mulla Hamit Bytyqi",
+    "lang": "sq"
+   }
+  ],
+  "expect": {
+   "query": "Mulla Hamit Bytyqi",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Outlined black letters engraved on a granite public drinking fountain in Pristina, seen from above at an angle ('Qeshmja' = the fountain). Spelled 'Qeshmja' with Q on the stone (standard Albanian would be Çeshmja)."
+ },
+ "c87483280": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "RR./UL./SK.",
+    "lang": "sq"
+   },
+   {
+    "text": "ADEM JASHARI",
+    "lang": "sq"
+   },
+   {
+    "text": "RR./UL./SK.",
+    "lang": "sq"
+   },
+   {
+    "text": "MARK KAÇINARI",
+    "lang": "sq"
+   }
+  ],
+  "expect": {
+   "query": "Adem Jashari",
+   "type": "street"
+  },
+  "difficulty": "medium",
+  "notes": "Prizren. Two blue street-name blades on one pole (Albanian/Serbian/Turkish abbreviations rr./ul./sk.), seen from below. Keep the Ç in KAÇINARI. Distractors: brown/green tourist panels in four languages (Parku Nacional 'Prevalla', Muzeu i Lidhjes së Prizrenit / Museum of Prizren League, Shtëpia e Kulturës, Muzeu Arkeologjik), a blue direction sign 'Prishtinë / Pristina Pristine', 'Brezovicë / Brezovica Brezovica', and a '...PARK' board."
+ },
+ "c87483297": {
+  "accept": true,
+  "reason": "",
+  "kind": "address plate",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Rr. Ul. Cad.",
+    "lang": "sq"
+   },
+   {
+    "text": "337",
+    "lang": "und"
+   },
+   {
+    "text": "KALAJA",
+    "lang": "sq"
+   },
+   {
+    "text": "KALJAJA",
+    "lang": "sr"
+   },
+   {
+    "text": "KALE",
+    "lang": "tr"
+   }
+  ],
+  "expect": {
+   "query": "Kalaja",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Prizren, below the fortress. Blue enamel trilingual street plate (Albanian / Serbian Latin / Turkish) with street-register number 337, on a stone gatepost. Red-white hiking waymark above it."
+ },
+ "c87483309": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "RR./UL./SK.",
+    "lang": "sq"
+   },
+   {
+    "text": "SHABAN JASHARI",
+    "lang": "sq"
+   }
+  ],
+  "expect": {
+   "query": "Shaban Jashari",
+   "type": "street"
+  },
+  "difficulty": "medium",
+  "notes": "Prizren, at night under flash, shot upward. A keep-right regulatory sign in the foreground partly overlaps the lower-left of the frame but not the plate. Different street from the Adem Jashari plate."
+ },
+ "c15444014": {
+  "accept": false,
+  "reason": "politically defaced direction sign: the Serbian names are covered with stickers (anti-Serb vandalism), so it is partly illegible protest content"
+ },
+ "c17030611": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "BIBLIOTEKA KOMBËTARE",
+    "lang": "sq"
+   },
+   {
+    "text": "DHE UNIVERSITARE E KOSOVËS",
+    "lang": "sq"
+   }
+  ],
+  "expect": {
+   "query": "Biblioteka Kombëtare e Kosovës",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Pristina, National Library building. Raised-letter name board on the domed lattice facade, shot from below at an angle. Keep the ë in KOMBËTARE and KOSOVËS."
+ },
+ "c25258260": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ENDODENT",
+    "lang": "sq"
+   },
+   {
+    "text": "KLINIKA SPECIALISTIKE E DHËMBËVE",
+    "lang": "sq"
+   },
+   {
+    "text": "044 257 592",
+    "lang": "und"
+   },
+   {
+    "text": "dr_shatri@hotmail.com",
+    "lang": "und"
+   },
+   {
+    "text": "spec.dr. Muhamet Shatri",
+    "lang": "sq"
+   },
+   {
+    "text": "endodont",
+    "lang": "sq"
+   }
+  ],
+  "expect": {
+   "query": "Endodent",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Pristina dental clinic lightbox, near-frontal. Tooth logo at left."
+ },
+ "c12056870": {
+  "accept": true,
+  "reason": "",
+  "kind": "address plate",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Rr. Ul. Cad.",
+    "lang": "sq"
+   },
+   {
+    "text": "207",
+    "lang": "und"
+   },
+   {
+    "text": "AHMET PRIŞTINA",
+    "lang": "tr"
+   }
+  ],
+  "expect": {
+   "query": "Ahmet Prishtina",
+   "type": "street"
+  },
+  "difficulty": "hard",
+  "notes": "Prizren. Small blue street plate on a wall; the name is spelt with Turkish Ş ('PRIŞTINA'), the Albanian spelling is Prishtina. Larger distractors: 'Restaurant SEF... / PR... JELLERA' banner, graffiti 'PE', kiosk with 'KEMI PIJE TE FTOHTA' notice."
+ },
+ "c12057027": {
+  "accept": false,
+  "reason": "the only sign is a tiny, blurred street plate ('Rr. Ul. Cad. 201', name not reliably legible at 1600 px); same Prizren 2010 series as c12056870"
+ },
+ "c24910421": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "HOTEL SIRIUS",
+    "lang": "en"
+   },
+   {
+    "text": "CONFERENCE CENTER",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Hotel Sirius",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Pristina. Large raised serif letters with a star logo on a grey textured wall, near-frontal."
+ },
+ "c134036998": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "viva",
+    "lang": "sq"
+   },
+   {
+    "text": "Fresh Store",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Viva Fresh Store",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Pristina at night. Two identical illuminated round logos on a pylon, small in the frame; 'viva' is a small green script word above 'Fresh Store' in red-and-yellow script. A cut-off lit sign at the top right and one-way arrow signs are distractors."
+ },
+ "c25378173": {
+  "accept": false,
+  "reason": "donor/project boards ('Rehabilitation of the City Park', EU water-pipe replacement project board); project notices rather than a park name sign"
+ },
+ "c64725463": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "BULEVARDI / BULEVAR",
+    "lang": "sq"
+   },
+   {
+    "text": "XHORXH BUSH",
+    "lang": "sq"
+   },
+   {
+    "text": "RR. / UL.",
+    "lang": "sq"
+   },
+   {
+    "text": "MARK SOPI",
+    "lang": "sq"
+   }
+  ],
+  "expect": {
+   "query": "Bulevardi Xhorxh Bush",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Pristina. Two blue street blades on one pole: the frontal one is the target (George Bush Boulevard in Albanian spelling); the second blade 'RR. / UL. MARK SOPI' is angled away. A parked car and a mobile-tariff billboard ('Komuniko shumë dhe...', 3G/4G prices) are distractors."
+ }
+}

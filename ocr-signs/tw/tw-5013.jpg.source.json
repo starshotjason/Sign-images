@@ -1,0 +1,28 @@
+{
+  "source": "tcmb",
+  "source_url": "https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=299963",
+  "original_url": "https://dcm.s3.hicloud.net.tw/new/h_upload/collection/2019-11-30/9fc2dcd1-f044-49c8-86fa-d4a3d9ec1779/2f0ae392-73ab-40b1-ae54-0015193d62ac.jpg",
+  "license_as_published": "CC BY-SA",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/3.0/tw/",
+  "author_as_published": "姜玫如/透南風文化創意有限公司",
+  "credit_as_published": "姜玫如/透南風文化創意有限公司（臺南市政府文化局）, 國家文化記憶庫 Taiwan Cultural Memory Bank, CC BY-SA",
+  "title": "鹽水區橋南社區4-1 清朝古道橋南老街/社區文史脈絡",
+  "description": "橋南老街位於鹽水興隆橋之南，因而得名「橋南」街，位在鹽水港舊港邊，是鹽水開發最早的地方，在明末清初時期，橋南老街是通往南北官道的唯一要道，往南通往臺南（府城），往北通往嘉義、北港、布袋，全長400公尺，寬6.8公尺，是臺灣現存清朝古道之一，尚保存臺灣傳統的商店街屋。而興隆橋命名的由來，有一說是港口經商者祈求生意昌隆。 橋南老街兩邊歷史悠久的店舖街屋，建築特色是有亭仔腳，第一落是半樓式閣樓，設矩形樓井可以上下輸送貨物，落與落間設有天井以利採光，單邊設有過水廊。街屋木作的窗戶門板可以一片片地拆卸下來，當拆卸下來後再一片片地平整排放變成為販售物品的平台，相當地靈活運用。店家每天把木板窗戶一片一片拿下來，傍晚在一片一片裝設回去，彷彿是日出而作日入而息的一個儀式。",
+  "date": "2019/11/30",
+  "categories": [
+    "空間、地域與遷徙",
+    "清朝古道",
+    "橋南",
+    "橋南咖啡屋",
+    "橋南社區",
+    "興隆橋",
+    "鹽水區橋南社區"
+  ],
+  "camera_location": null,
+  "found_by": "tcmb-opendata:dataSet/culture title/keyword match '老街'; rapidocr pre-screen read ['橋南意题', '手工作题日頭香', '伴手意题情意重']; visually reviewed",
+  "bytes": 2446569,
+  "width": 5472,
+  "height": 3648,
+  "downloaded_url": "https://tcmb.culture.tw/imagor/filters:raw()/https%3A%2F%2Fdcm.s3.hicloud.net.tw%2Fnew%2Fh_upload%2Fcollection%2F2019-11-30%2F9fc2dcd1-f044-49c8-86fa-d4a3d9ec1779%2F2f0ae392-73ab-40b1-ae54-0015193d62ac.jpg",
+  "derivative": ""
+}

@@ -1,0 +1,568 @@
+{
+ "pcdd5b36916": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "McDona",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "McDonald's",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "McDonald's fascia in Intramuros, Manila, at an angle; the end of the name ('ld's') is hidden behind a utility pole, so only 'McDona' is transcribed. Red golden-arches box sign above. 'NO PARKING' sign and the Intramuros wall are distractors."
+ },
+ "p07721dbaaf": {
+  "accept": false,
+  "reason": "only congratulation banners ('BACK-2-BACK CHAMPIONS', 'COACH OF THE YEAR') with people's images; the school name on the second banner is too small to read reliably"
+ },
+ "p0a371de9e4": {
+  "accept": false,
+  "reason": "building lettering cut off by the frame edge ('P. LAUREL' only, partly hidden by trees); full name not visible"
+ },
+ "p63bc6ba64c": {
+  "accept": false,
+  "reason": "subject is an excavator ('DOOSAN' branding, rear plate); no place sign"
+ },
+ "k1279140945": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "A&R",
+    "lang": "en"
+   },
+   {
+    "text": "BEEF PARIS & MAMI HAUS",
+    "lang": "tl"
+   },
+   {
+    "text": "TAPSILOGAN",
+    "lang": "tl"
+   }
+  ],
+  "expect": {
+   "query": "A&R Beef Paris & Mami Haus",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Cebu City eatery, light-green panel sign; panorama crop tilted about 20 degrees. Distractors: KFC delivery sign behind, 'DIAL #8-7000 Jollibee Delivery' banner, 'GLOBAL DOMINION … PRENDA OR/CR' banner with phone number, 'A and R' menu board."
+ },
+ "k2480911769": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "CEBUANA",
+    "lang": "en"
+   },
+   {
+    "text": "LHUILLIER",
+    "lang": "en"
+   },
+   {
+    "text": "PAWNSHOP • PERA PADALA • INSURANCE • BILLS PAYMENT • E-LOAD",
+    "lang": "tl"
+   }
+  ],
+  "expect": {
+   "query": "Cebuana Lhuillier",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Cebu City (near the Cebu Provincial Capitol / P. del Rosario St). Blue lightbox; small 'OWNED AND OPERATED BY …' and 'P. DEL ROSARIO' branch text at the lower right not transcribed. Distractors: '₱1 NA LANG … LIBRENG PADALA' banner, 'NO LEFT TURN' sign, '…erto's PIZZA', 'ess cafe'. Black fisheye mask at the top of the panorama crop."
+ },
+ "p8bcf80cb15": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "G. Araneta",
+    "lang": "en"
+   },
+   {
+    "text": "Maria Clara / Talayan",
+    "lang": "en"
+   },
+   {
+    "text": "NEXT EXIT",
+    "lang": "en"
+   },
+   {
+    "text": "Quezon Ave.",
+    "lang": "en"
+   },
+   {
+    "text": "EXIT",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Quezon Ave.",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Two green overhead expressway exit signs (Skyway Stage 3, Quezon City), taken through a rain-spotted windscreen. Yellow billboard '…n Ave. / … across Fisher mall' below is an advert distractor."
+ },
+ "k1279145305": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "JAKOSALEM",
+    "lang": "en"
+   },
+   {
+    "text": "NATIONAL ROAD",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Jakosalem",
+   "type": "street"
+  },
+  "difficulty": "medium",
+  "notes": "Cebu City green street blade on a yellow post, dim. The office sign above ('PROTECT MARINE D… / OF T…' with logo and a phone number) is cut off at the right edge and is a distractor."
+ },
+ "k1954013049": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "LBC",
+    "lang": "en"
+   },
+   {
+    "text": "PAYMENTS & REMITTANCE",
+    "lang": "en"
+   },
+   {
+    "text": "DOCUMENTS & MAIL",
+    "lang": "en"
+   },
+   {
+    "text": "PARCELS & BOXES",
+    "lang": "en"
+   },
+   {
+    "text": "CARGO & LOGISTICS",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "LBC",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Cebu City corner: red LBC courier fascia seen from below (panorama crop with black mask at the top). The adjoining 'street level radio … streetlevelradio.com … SPONSORED BY BBC's PRINTSTOP' banner is a second sign / distractor; a second LBC logo at the top-right corner is cut off."
+ },
+ "pe089070ff4": {
+  "accept": false,
+  "reason": "real-estate advert pole banner (FNG / Federal Land / Nomura)"
+ },
+ "k1322713573": {
+  "accept": false,
+  "reason": "vehicle branding (Saulog Transit bus livery)"
+ },
+ "p99969c0759": {
+  "accept": false,
+  "reason": "commemorative quotation plaque under a bust; no place name"
+ },
+ "k2039669433": {
+  "accept": false,
+  "reason": "blurred LED advert screen ('HATID SA INYO NI')"
+ },
+ "k2488486057": {
+  "accept": false,
+  "reason": "vehicle branding and plates (bus, UV Express van)"
+ },
+ "p766cb9aea8": {
+  "accept": false,
+  "reason": "food advert banners (Seafood / Pancakes); no business name legible"
+ },
+ "c39783115": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "M LHUILLIER",
+    "lang": "en"
+   },
+   {
+    "text": "NUMERO UNO NG BAYAN",
+    "lang": "tl"
+   },
+   {
+    "text": "QUICK CASH LOANS",
+    "lang": "en"
+   },
+   {
+    "text": "ML PAMILYA INSURANCE PLANS",
+    "lang": "tl"
+   },
+   {
+    "text": "MONEY CHANGER",
+    "lang": "en"
+   },
+   {
+    "text": "ML KWARTA PADALA",
+    "lang": "tl"
+   },
+   {
+    "text": "ML KWARTA PADALA",
+    "lang": "tl"
+   },
+   {
+    "text": "We move your money fast!",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "M Lhuillier",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Angeles City pawnshop/remittance branch. The 'M' is followed by a diamond logo, so it reads 'M [diamond] LHUILLIER'. Partly crossed by overhead cables. Distractors: vertical 'QUICK CASH LOANS' panel, 'MoneyGram International Money Transfer' sign at top right (left edge cut: 'neyGram'), food poster on the pole, tricycle side-car plates. Different brand from the Cebuana Lhuillier sign already accepted."
+ },
+ "c50239233": {
+  "accept": false,
+  "reason": "commemorative heritage-trail marker ('Landas ng Kalayaan / Centennial '98 Freedom Trail / National Trunk Site'); it does not name the site (Aguinaldo Shrine) or any searchable place"
+ },
+ "c145107503": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ESPAÑA BLVD.",
+    "lang": "es"
+   },
+   {
+    "text": "BRGY. 451 ZONE 45 - DIST. IV",
+    "lang": "en"
+   },
+   {
+    "text": "Kapitana EVELYN E. DE GUZMAN",
+    "lang": "tl"
+   },
+   {
+    "text": "CRISTOBAL ST.",
+    "lang": "en"
+   },
+   {
+    "text": "BRGY. 451 ZONE 45 - DIST. IV",
+    "lang": "en"
+   },
+   {
+    "text": "Kapitana EVELYN E. DE GUZMAN",
+    "lang": "tl"
+   }
+  ],
+  "expect": {
+   "query": "España Boulevard",
+   "type": "street"
+  },
+  "difficulty": "medium",
+  "notes": "Sampaloc, Manila: corner of España Blvd and R. Cristobal St. Two barangay lightbox street signs on one pole, shot from below; keep the Ñ in ESPAÑA. A small green official plate 'R. CRISTOBAL ST.' is on the far pole at right. Distractors: bus livery ('Fairview', 'ATPI 3240'), a barangay welcome banner, billboards."
+ },
+ "c145107505": {
+  "accept": false,
+  "reason": "near-duplicate of c145107503: same barangay 'CRISTOBAL ST.' lightbox sign at the same corner"
+ },
+ "c152300147": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "UP ARBORETUM",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "UP Arboretum",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "U.P. Diliman campus at Commonwealth Avenue, Quezon City, on a rainy day. Blue street blade on a utility pole. Distractors: 'NO PARKING THIS SIDE' sign, graffitied panel, fuel-price board (Diesel 52.40, XCS PLUS 57.90, Blaze 67.95), 'LOADING/UNLOADING AUV TAXI' sign."
+ },
+ "c176975859": {
+  "accept": true,
+  "reason": "",
+  "kind": "building tag",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ROMAN R. SANTOS",
+    "lang": "en"
+   },
+   {
+    "text": "BLDG.",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Roman R. Santos Building",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Santa Cruz, Manila. Dark bronze building-name plaque with raised condensed serif letters, low contrast, shot slightly from below."
+ },
+ "c195036224": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "USWAG",
+    "lang": "hil"
+   },
+   {
+    "text": "ILOILO",
+    "lang": "hil"
+   }
+  ],
+  "expect": {
+   "query": "Iloilo",
+   "type": "place"
+  },
+  "difficulty": "medium",
+  "notes": "Sunburst Park, Iloilo City, at night: large 3D letter place-name sign with the city's bird-shaped logo at left; 'Uswag' (Hiligaynon, 'progress') is the city slogan word, so the searchable place is ILOILO. Flash glare top left; the letters have cracked paint."
+ },
+ "c29337238": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Q. PAREDES",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Quintin Paredes Street",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Binondo (Manila Chinatown). Red street plate hung below a cast-iron dragon. A partial red sign at the left edge ('...MIGA', vertical) is a distractor."
+ },
+ "f30a786c4-432c-4c2c-841c-9c0824f49571": {
+  "accept": false,
+  "reason": "hand-painted 'MASSAGE / OPEN: 1PM TO 4AM' advert board with no business name, cut off at the right edge"
+ },
+ "f8eb78f74-e4d8-48cb-ba71-512a913517be": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Escolta St",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Escolta Street",
+   "type": "street"
+  },
+  "difficulty": "medium",
+  "notes": "Binondo, Manila. Green street blade on a lamp-post arm, small against an old facade. Distractors: 'TARPAULIN PRINTING Tels. 735-7390 / www.premiumgraphics.com.ph', 'THE GENERICS PHARMACY', 'MAYNILA PENSION LOANS EXPRESS LOANS SSS GSIS PENSIONE[RS]', a taxi and pedestrians."
+ },
+ "c14626367": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Kalaw Ave",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Kalaw Avenue",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Ermita, Manila. Green lightbox street sign hanging from a traffic-signal arm, shot from below. Distractors: vertical red 'HOTEL' sign and a faded oval 'Corporate Inn' sign on the building behind."
+ },
+ "ff86ed830-1f38-4248-a752-550efd826dbc": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "WELCOME",
+    "lang": "en"
+   },
+   {
+    "text": "PHILIPPINE",
+    "lang": "en"
+   },
+   {
+    "text": "TAOIST",
+    "lang": "en"
+   },
+   {
+    "text": "TEMPLE",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Taoist Temple Cebu",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Cebu Taoist Temple (Beverly Hills, Cebu City). Small round sign on a stand in an arched walkway, fisheye vignetting at the corners. The red-circle '林' emblem on the wall behind is a distractor."
+ },
+ "c99305283": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn",
+   "Hani"
+  ],
+  "lines": [
+   {
+    "text": "MACAO IMPERIAL TEA",
+    "lang": "en"
+   },
+   {
+    "text": "澳門皇茶",
+    "lang": "zh",
+    "latin": "Àomén Huáng Chá (Macao Imperial Tea)"
+   }
+  ],
+  "expect": {
+   "query": "Macao Imperial Tea",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "One San Ildefonso Mall, San Ildefonso, Bulacan (opening day, flower stands in front). Lit fascia, traditional 門. The congratulation ribbons ('CONGRATULATIONS MACAO ONE SAN ILDEFONSO') are distractors."
+ },
+ "c195135279": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "WELCOME",
+    "lang": "en"
+   },
+   {
+    "text": "TO",
+    "lang": "en"
+   },
+   {
+    "text": "AMPUCAO-STA.FE RIDGE",
+    "lang": "en"
+   },
+   {
+    "text": "AMBANAO PAOAY 1788 mASL",
+    "lang": "en"
+   },
+   {
+    "text": "GUNGAL 1814 mASL",
+    "lang": "en"
+   },
+   {
+    "text": "MT. ULAP 1846 mASL",
+    "lang": "en"
+   },
+   {
+    "text": "PONG-OL BURIAL CAVES",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Mount Ulap",
+   "type": "place"
+  },
+  "difficulty": "easy",
+  "notes": "Itogon, Benguet. Green trailhead board with a small trail map at right (labels too small to transcribe: STA. FE, PONG-OL BURIAL CAVE, MT. ULAP, GUNGAL, AMBANAO PAOAY, TOKTOKAN). A parked motorbike behind is incidental."
+ },
+ "f6612c1a4-7156-4fe3-9b2c-a5dc659cbf0a": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "JAPANESE",
+    "lang": "en"
+   },
+   {
+    "text": "FAMILY RESTAURANT",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Japanese Family Restaurant",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Manila, at night. Lit cartoon lightbox; the wording is generic and may be a description rather than the restaurant's registered name, so map matching is uncertain. Cables cross the illustration but not the text."
+ },
+ "f24eb6a2a-8d77-4315-9548-8cbe24bd222f": {
+  "accept": false,
+  "reason": "Rizal Park anti-littering and no-smoking regulation board (fines list); a notice, not a name sign"
+ }
+}

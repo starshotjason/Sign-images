@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/8977673/723/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyNC81LzE4L3Byb2MvODk3NzY3M18zZWQ3YzdhNmU5ZTJjZmMyNTAzNmI3NDZmYTNkYTJhZS5qcGc",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "polkillas",
+  "credit_as_published": "KartaView user polkillas (user id 1609); © KartaView contributors",
+  "title": "KartaView photo 1957106937, sequence 8977673 #723 (Madrid, 2024-05-18)",
+  "description": "Street-level picture on KartaView, taken 2024-05-18 near Madrid by polkillas, sequence 8977673, heading 180. OCR (PP-OCRv3) read: IGORIMEN | COMIDAJAPONESA | Restaulante",
+  "date": "2024-05-18",
+  "categories": [],
+  "camera_location": [
+    40.419101,
+    -3.707377
+  ],
+  "found_by": "kartaview-ocr:Madrid",
+  "bytes": 640841,
+  "width": 3840,
+  "height": 2160,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyNC81LzE4L3Byb2MvODk3NzY3M18zZWQ3YzdhNmU5ZTJjZmMyNTAzNmI3NDZmYTNkYTJhZS5qcGc",
+  "derivative": "whole 3840x2160 full-size processed (blurred) picture as served by the KartaView CDN (byte-identical; the service blurs faces and number plates), not cropped"
+}

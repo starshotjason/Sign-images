@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/6179929/24/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMi8xMC81L3Byb2MvNjE3OTkyOV9jNWE0ZWEzZmZhNmI3NTNjMDA0Nzg1ODNjZTVjYTI1MC5qcGc",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "dennis-g-d",
+  "credit_as_published": "KartaView user dennis-g-d (user id 47873); © KartaView contributors",
+  "title": "KartaView photo 1622044073, sequence 6179929 #24 (Dubai, 2022-10-05)",
+  "description": "Street-level picture on KartaView, taken 2022-10-05 near Dubai by dennis-g-d, sequence 6179929, heading 13.2. OCR (PP-OCRv3) read: ZABIL | AYAS GENERALTRADING",
+  "date": "2022-10-05",
+  "categories": [],
+  "camera_location": [
+    25.260196,
+    55.298993
+  ],
+  "found_by": "kartaview-ocr:Dubai",
+  "bytes": 848236,
+  "width": 2550,
+  "height": 1912,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMi8xMC81L3Byb2MvNjE3OTkyOV9jNWE0ZWEzZmZhNmI3NTNjMDA0Nzg1ODNjZTVjYTI1MC5qcGc",
+  "derivative": "crop 0,219,2550,2131 of the 3840x2160 full-size processed (blurred) picture"
+}

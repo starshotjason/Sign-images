@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.osm-hr.org/#focus=pic&pic=667d292c-9bf5-443a-a844-a6cca3a08dc3",
+  "original_url": "https://panoramax.osm-hr.org/permanent/66/7d/29/2c/9bf5-443a-a844-a6cca3a08dc3.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "Janjko",
+  "credit_as_published": "Panoramax, instance osm-hr (https://panoramax.osm-hr.org)",
+  "title": "Panoramax picture 667d292c-9bf5-443a-a844-a6cca3a08dc3 (Zagreb, 2026-08-08)",
+  "description": "Street-level picture on Panoramax, taken 2026-08-08 near Zagreb by Janjko, sequence cadd2c06-bece-4365-bbaa-a72995c6b573, heading 0. OCR (PP-OCRv3) read: LONICA | Zaqrebaclca.banka",
+  "date": "2026-08-08",
+  "categories": [],
+  "camera_location": [
+    45.8131159,
+    15.9776428
+  ],
+  "found_by": "panoramax-ocr:Zagreb",
+  "bytes": 1577290,
+  "width": 2950,
+  "height": 2212,
+  "downloaded_url": "https://panoramax.osm-hr.org/permanent/66/7d/29/2c/9bf5-443a-a844-a6cca3a08dc3.jpg",
+  "derivative": "crop 1081,8,4031,2220 of the 4032x2268 HD picture"
+}

@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/11716330/0/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyNi8xMC8xMS9wcm9jLzExNzE2MzMwX2NkYzY3XzZhY2FlNDNjMDM1NTcuanBn",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "tadanet3",
+  "credit_as_published": "KartaView user tadanet3 (user id 12141); © KartaView contributors",
+  "title": "KartaView photo 2634394313, sequence 11716330 #0 (Kyoto, 2026-10-11)",
+  "description": "Street-level picture on KartaView, taken 2026-10-11 near Kyoto by tadanet3, sequence 11716330, heading 0. OCR (PP-OCRv3) read: 京都市報板 | 有济区民 | 东山区新門前通大和大路东入二丁目中之町 | Higashiyama-ku Shinmonzendori Yamatooji higashi iru Nakano-cho | 消火器",
+  "date": "2026-10-11",
+  "categories": [],
+  "camera_location": [
+    35.006076,
+    135.775365
+  ],
+  "found_by": "kartaview-ocr:Kyoto",
+  "bytes": 1103928,
+  "width": 2880,
+  "height": 1620,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyNi8xMC8xMS9wcm9jLzExNzE2MzMwX2NkYzY3XzZhY2FlNDNjMDM1NTcuanBn",
+  "derivative": "whole 2880x1620 full-size processed (blurred) picture as served by the KartaView CDN (byte-identical; the service blurs faces and number plates), not cropped"
+}

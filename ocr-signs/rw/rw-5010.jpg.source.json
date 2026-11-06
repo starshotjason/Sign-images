@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/582579/10/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlNS5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE3LzkvOC9wcm9jLzU4MjU3OV8zY2EyY18xMS5qcGc",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "ashish-kelkar",
+  "credit_as_published": "KartaView user ashish-kelkar (user id 11377); © KartaView contributors",
+  "title": "KartaView photo 117439653, sequence 582579 #10 (Kigali, 2017-09-08)",
+  "description": "Street-level picture on KartaView, taken 2017-09-08 near Kigali by ashish-kelkar, sequence 582579, heading 180.09. OCR (PP-OCRv3) read: SUITES",
+  "date": "2017-09-08",
+  "categories": [],
+  "camera_location": [
+    -1.950815,
+    30.061344
+  ],
+  "found_by": "kartaview-ocr:Kigali",
+  "bytes": 197459,
+  "width": 1200,
+  "height": 900,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlNS5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE3LzkvOC9wcm9jLzU4MjU3OV8zY2EyY18xMS5qcGc",
+  "derivative": "crop 736,788,1936,1688 of the 1936x2592 full-size processed (blurred) picture"
+}

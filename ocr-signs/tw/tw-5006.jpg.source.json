@@ -1,0 +1,27 @@
+{
+  "source": "tcmb",
+  "source_url": "https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Place&id=332626",
+  "original_url": "https://dcm.s3.hicloud.net.tw/new/collectionOpen/2020-03-10/3a98915b-75b1-4b0f-a48c-e24f98eabb87/ae4edb9e-6eb7-4b0d-b2af-86507fb6f8e4.jpg",
+  "license_as_published": "CC BY",
+  "license_url_as_published": "https://creativecommons.org/licenses/by/3.0/tw/",
+  "author_as_published": "苗栗縣政府文化觀光局",
+  "credit_as_published": "苗栗縣政府文化觀光局, 國家文化記憶庫 Taiwan Cultural Memory Bank, CC BY",
+  "title": "清安豆腐街",
+  "description": "清安豆腐街位於苗栗縣泰安鄉清安村，以豆腐料理聞名，與臺北縣深坑豆腐並稱「北深坑、中清安」。清安村舊稱冼水坑，因冼水溪清澈，墾居的客家人以客語「洗水」稱之，意即清澈之水。冼水溪上游為泰雅族聚落，中下游以客家人為多，現今清安街為泰雅族與客家人混居，因此清安豆腐街帶著一種客家、泰雅文化融合的風貌，別具特色。 冼水溪因水質清澈甘甜，十分適合做豆腐，以古法手工製作的豆腐，清香細滑，儼然成為豆腐街的招牌。除了手工豆腐店，這條巷弄裡也開滿各類豆腐料理店，小吃店、麵館、餐廳，無論煎、炸、炒、滷，應有盡有，再加上原住民的烤肉、竹筒飯，絕對是飽足感十足的美食之旅。",
+  "date": null,
+  "categories": [
+    "藝術與人文",
+    "豆腐",
+    "洗水坑",
+    "苗栗觀光",
+    "泰安鄉",
+    "清安豆腐街"
+  ],
+  "camera_location": null,
+  "found_by": "tcmb-opendata:dataSet/culture title/keyword match '街'; rapidocr pre-screen read ['洗水坑', '豆腐街', '安洗瓜', '水坑']; visually reviewed",
+  "bytes": 8492942,
+  "width": 4408,
+  "height": 2480,
+  "downloaded_url": "https://tcmb.culture.tw/imagor/filters:raw()/https%3A%2F%2Fdcm.s3.hicloud.net.tw%2Fnew%2FcollectionOpen%2F2020-03-10%2F3a98915b-75b1-4b0f-a48c-e24f98eabb87%2Fae4edb9e-6eb7-4b0d-b2af-86507fb6f8e4.jpg",
+  "derivative": ""
+}

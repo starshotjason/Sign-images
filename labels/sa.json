@@ -1,0 +1,556 @@
+{
+  "p05408cf3c1": {
+    "accept": true,
+    "reason": "",
+    "kind": "hard",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "ELAF KINDA HOTEL",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Elaf Kinda Hotel",
+      "type": "poi"
+    },
+    "difficulty": "hard",
+    "notes": "Illuminated hotel lettering on the facade at night, with motion blur. The Arabic name to its right is cut by the frame edge (only '...لاف كندة' visible, first letters lost), so it is not transcribed. Lower shop signs (AL ASEMA, a blue panel) are blurred distractors."
+  },
+  "p1d52c6a4e9": {
+    "accept": false,
+    "reason": "company livery on a moving bus ('مواكب الخير للنقل / Mawakeb Al-Khair for transportation'), photographed through a window; a vehicle, not a fixed place sign"
+  },
+  "p5b9228a360": {
+    "accept": false,
+    "reason": "ceremony hoarding around the Kaaba ('مراسم تغيير كسوة الكعبة المشرفة / CEREMONY TO REPLACE THE KISWAH OF THE NOBLE KA'BAH'); event caption, not a sign used to find a place"
+  },
+  "p814706e5fb": {
+    "accept": false,
+    "reason": "near-duplicate of p5b9228a360 (same Kiswah ceremony hoarding); a large blurred person fills the middle and the text is cut"
+  },
+  "p85c406ba2c": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "BREW92°",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Brew92",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Illuminated white lettering on a blue cafe fascia in a covered arcade near the Haram, evening. Distractors: the same chain's Arabic fascia 'برو' with Arabic-Indic '٩٢°' on the next storefront, 'Danube / الدانوب / SUPERMARKET' further right, and the 'RAFFLES / MAKKAH PALACE' hotel board at left."
+  },
+  "p8dddb70fe9": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn",
+      "Arab"
+    ],
+    "lines": [
+      {
+        "text": "Jasmine Royal",
+        "lang": "en"
+      },
+      {
+        "text": "الياسمين",
+        "lang": "ar",
+        "latin": "al-Yasamin (the Jasmine)"
+      },
+      {
+        "text": "No.",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Jasmine Royal",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Metal letters on a glass arch over a building entrance (hotel), shot through a vehicle window with slight blur and reflections. 'No.' sits left of the Arabic with no number after it (possibly missing letters). Taped notice on the door and a parked car are distractors."
+  },
+  "pba032a6050": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn",
+      "Arab"
+    ],
+    "lines": [
+      {
+        "text": "E",
+        "lang": "und"
+      },
+      {
+        "text": "الساحة الشرقية",
+        "lang": "ar",
+        "latin": "as-Saha ash-Sharqiya (the Eastern Plaza)"
+      },
+      {
+        "text": "Saha Eastern",
+        "lang": "en"
+      },
+      {
+        "text": "المطاف - الدور الأول",
+        "lang": "ar",
+        "latin": "al-Mataf - ad-Dawr al-Awwal (Mataf - first floor)"
+      },
+      {
+        "text": "1st Floor - Mataf Area",
+        "lang": "en"
+      },
+      {
+        "text": "مصليات",
+        "lang": "ar",
+        "latin": "Musallayat (prayer areas)"
+      },
+      {
+        "text": "Prayer Area",
+        "lang": "en"
+      },
+      {
+        "text": "خدمة العربات الكهربائية",
+        "lang": "ar",
+        "latin": "Khidmat al-'Arabat al-Kahraba'iya (electric cart service)"
+      },
+      {
+        "text": "Electric Wheelchair Service",
+        "lang": "en"
+      },
+      {
+        "text": "خريطة تفاعلية",
+        "lang": "ar",
+        "latin": "Khareeta Tafa'uliya (interactive map)"
+      },
+      {
+        "text": "Interactive Map",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "الساحة الشرقية",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Wayfinding totem for the Eastern Plaza (zone E) of Masjid al-Haram, close and frontal. Arrows and pictograms (Kaaba, prayer mat, cart) precede each entry. Not transcribed: QR code and the tiny footer text beside the logos. A smaller twin totem in the background is a distractor."
+  },
+  "pee05cf94da": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Arab",
+      "Latn",
+      "Beng"
+    ],
+    "lines": [
+      {
+        "text": "المملكة العربية السعودية",
+        "lang": "ar",
+        "latin": "al-Mamlaka al-'Arabiya as-Su'udiya (Kingdom of Saudi Arabia)"
+      },
+      {
+        "text": "وزارة الشؤون الإسلامية والدعوة والإرشاد",
+        "lang": "ar",
+        "latin": "Wizarat ash-Shu'un al-Islamiya wa-d-Da'wa wa-l-Irshad (Ministry of Islamic Affairs, Da'wah and Guidance)"
+      },
+      {
+        "text": "مكتبة مكة المكرمة",
+        "lang": "ar",
+        "latin": "Maktabat Makka al-Mukarrama (Makkah al-Mukarramah Library)"
+      },
+      {
+        "text": "Makkah al Mukarramah Library",
+        "lang": "en"
+      },
+      {
+        "text": "Established in 1951 AD",
+        "lang": "en"
+      },
+      {
+        "text": "تأسست عام ١٣٧٠ هـ",
+        "lang": "ar",
+        "latin": "ta'assasat 'am 1370 AH (founded in 1370 AH)"
+      },
+      {
+        "text": "La Bibliothèque de la Mecque",
+        "lang": "fr"
+      },
+      {
+        "text": "Mekke-i Mükerreme Kütüphanesi",
+        "lang": "tr"
+      },
+      {
+        "text": "PERPUSTAKAAN MAKKAH",
+        "lang": "id"
+      },
+      {
+        "text": "مکه المکرمه لائبریری",
+        "lang": "ur",
+        "latin": "Makka al-Mukarrama la'ibreri (Makkah library)"
+      },
+      {
+        "text": "کتابخانه مکه المکرمه",
+        "lang": "fa",
+        "latin": "Ketabkhaneh-ye Makke al-Mokarrameh (Makkah library)"
+      },
+      {
+        "text": "মক্কা আল-মোকাররমা লাইব্রেরী",
+        "lang": "bn",
+        "latin": "Makka al-Mokarrama laibreri (Makkah library)"
+      }
+    ],
+    "expect": {
+      "query": "مكتبة مكة المكرمة",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Large white name board above the door of the Makkah Library building, sharp, slight upward angle. The two top-right ministry header lines are small. Year '١٣٧٠' uses Arabic-Indic digits. The Urdu and Persian lines are transcribed with Persian kaf (ک) and yeh (ی, final form undotted) and plain heh (ه); a checker should treat ك/ک, ي/ی/ى and ه/ہ as equivalent there since the glyphs do not settle the code points. Ministry logo at top centre."
+  },
+  "pb52a53aa54": {
+    "accept": false,
+    "reason": "tilted shot of marble walls and a decorative frieze; no sign text"
+  },
+  "p55472f01a7": {
+    "accept": true,
+    "reason": "",
+    "kind": "transit",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "محطة شعب عامر",
+        "lang": "ar",
+        "latin": "Mahattat Shi'b 'Amir (Shaab Amer Station)"
+      },
+      {
+        "text": "SHAAB AMER STATION",
+        "lang": "en"
+      },
+      {
+        "text": "A",
+        "lang": "und"
+      }
+    ],
+    "expect": {
+      "query": "Shaab Amer",
+      "type": "stop"
+    },
+    "difficulty": "easy",
+    "notes": "White bus-station bay sign 'A' with a bus pictogram, Mecca, seen from below; yellow buses behind the patterned fence. Partial flag lettering ('LLAH...') at left is a distractor."
+  },
+  "c10693943": {
+    "accept": false,
+    "reason": "hotel notice-board rules text ('No Women', 'Above hours'); no place name"
+  },
+  "c125914377": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "YARA INTERNATIONAL SCHOOL",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Yara International School",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Raised gold condensed letters on a white fascia, Riyadh, shot from below at a steep angle so the line rises to the right. The small text under the open-book logo at right (probably 'Ministry of Education' wording) is not legible and not transcribed."
+  },
+  "c195800315": {
+    "accept": false,
+    "reason": "illuminated calligraphic welcome slogan 'مرحبا هيل عد السيل' (a traditional greeting); it does not name Raghdan Forest or any place"
+  },
+  "c195800318": {
+    "accept": false,
+    "reason": "same welcome-slogan sign as c195800315 from another angle; slogan, no place name"
+  },
+  "c24221783": {
+    "accept": false,
+    "reason": "'قف / STOP' traffic sign on KAUST campus; no place name"
+  },
+  "c31495880": {
+    "accept": false,
+    "reason": "handwritten-style notice of visiting hours for a named sheikh; personal schedule, not a place sign"
+  },
+  "c55839777": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Arab",
+      "Latn",
+      "Zyyy"
+    ],
+    "lines": [
+      {
+        "text": "المملكة العربية السعودية",
+        "lang": "ar",
+        "latin": "al-Mamlaka al-'Arabiya as-Sa'udiya (Kingdom of Saudi Arabia)"
+      },
+      {
+        "text": "مطار الظهران",
+        "lang": "ar",
+        "latin": "Matar az-Zahran (Dhahran Airport)"
+      },
+      {
+        "text": "DHAHRAN AIR FIELD",
+        "lang": "en"
+      },
+      {
+        "text": "DHAHRAN SAUDI ARABIA",
+        "lang": "en"
+      },
+      {
+        "text": "DHAHRAN ELEVATION 72FT",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Dhahran",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "1959 colour slide of a painted wooden board on the Dhahran air terminal (now King Abdulaziz Air Base), photographed from below at an angle; the left edge crops the first D of the first two English lines. The Arabic is in Naskh with shadda and other vowel marks, omitted here. Two palm-and-swords emblems flank the text."
+  },
+  "c61930146": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "للمسلمين فقط",
+        "lang": "ar",
+        "latin": "lil-Muslimin faqat (Muslims only)"
+      },
+      {
+        "text": "Muslims only",
+        "lang": "en"
+      },
+      {
+        "text": "مكة المكرمة",
+        "lang": "ar",
+        "latin": "Makka al-Mukarrama (Mecca)"
+      },
+      {
+        "text": "Makkah",
+        "lang": "en"
+      },
+      {
+        "text": "For Non Muslims",
+        "lang": "en"
+      },
+      {
+        "text": "غير المسلمين",
+        "lang": "ar",
+        "latin": "Ghayr al-Muslimin (Non-Muslims)"
+      }
+    ],
+    "expect": {
+      "query": "Makkah",
+      "type": "place"
+    },
+    "difficulty": "medium",
+    "notes": "Overhead gantry on the Jeddah-Makkah highway, shot through a windscreen (scratches, rear-view mirror at top right). Left panel: green 'Muslims only' box, Makkah with Kaaba pictogram; right panel: red 'For Non Muslims' box. Small route shields under the arrows (Arabic-Indic numbers, one possibly ٢٨٨) are too small to read reliably and are not transcribed."
+  },
+  "c67621723": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "شارع الأمير حمود بن عبد العزيز",
+        "lang": "ar",
+        "latin": "Shari' al-Amir Hamud bin 'Abd al-'Aziz (Prince Hamoud bin Abdulaziz Street)"
+      },
+      {
+        "text": "Prince Hamoud Bin Abdulaziz St.",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Prince Hamoud Bin Abdulaziz",
+      "type": "street"
+    },
+    "difficulty": "medium",
+    "notes": "Green street-name board at a junction in Khobar, shot through a windscreen with a smudge over the left end (the last word العزيز and 'Pr' of Prince are partly veiled but readable). Distractor: blue arrow blade on the pole at right, 'طريق الأمير فيصل بن فهد بن عبدالعزيز / Prince Faisal Bin Fahd Bin Abdulaziz Rd.' (small), and a store fascia behind."
+  },
+  "f05aa2cbb-c6de-4da9-8cb9-2d6bcc6f37d6": {
+    "accept": false,
+    "reason": "'BREAK GLASS FOR KEY' emergency key box; no place name"
+  },
+  "f0cadb9e3-8824-4fd9-acf9-7b9c84e60aa6": {
+    "accept": false,
+    "reason": "'OPEN' card on a chained glass door; no place name"
+  },
+  "f127b1fef-749f-41d0-9b11-92bbeed301a5": {
+    "accept": false,
+    "reason": "close-up of bangles in a jewellery shop; only a blurred partial box label, no sign"
+  },
+  "f24519374-c918-4a0e-8ce8-d7f046403dcb": {
+    "accept": true,
+    "reason": "",
+    "kind": "building tag",
+    "scripts": [
+      "Arab"
+    ],
+    "lines": [
+      {
+        "text": "رقم المبنى (١٦٧)",
+        "lang": "ar",
+        "latin": "Raqm al-Mabna (167) (Building number 167)"
+      },
+      {
+        "text": "بيت عبداللطيف باناجة",
+        "lang": "ar",
+        "latin": "Bayt 'Abd al-Latif Banaja (Abdullatif Banaja House)"
+      }
+    ],
+    "expect": {
+      "query": "بيت باناجة",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Target is the fourth panel of a six-panel restoration-project sign stack in Al-Balad (historic Jeddah): building number in Arabic-Indic digits in brackets, then the house name. Other panels are distractors: Ministry of Culture / 'إدارة منطقة جده التاريخية' (spelled جده with ه), the Crown Prince restoration project text, 'المشروع رقم (٢)' (project no. 2), consultant 'مؤسسة التراث الخيرية' and contractor 'مؤسسة مباني الوطن التراثيه للمقاولات / NATIONAL HERITAGE BUILDINGS For Contracting'. Hoarding text behind is cut off."
+  },
+  "f2b16b2ba-5759-41fc-810d-c9af63eb34e0": {
+    "accept": false,
+    "reason": "restoration-project information board (project title, dates, designer and contacts) on al-Matbouli House; descriptive text and contacts, not a name sign"
+  },
+  "f3111a08c-9472-4bae-91e2-bb00024535bf": {
+    "accept": false,
+    "reason": "henna stencils on display; product, no sign"
+  },
+  "f38e98fbb-a760-4efb-a102-9afcdadddcf5": {
+    "accept": false,
+    "reason": "wide view of Deera Square, Riyadh; no legible sign"
+  },
+  "f3aeb2ac6-d0c6-4af5-b133-bdb973b7b71c": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Arab",
+      "Latn",
+      "Zyyy"
+    ],
+    "lines": [
+      {
+        "text": "زقاق الجفرى (٨٨)",
+        "lang": "ar",
+        "latin": "Zuqaq al-Jifri (88) (Al-Jefri Lane 88)"
+      },
+      {
+        "text": "Al-Jefri Lane (88)",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Al-Jefri Lane",
+      "type": "street"
+    },
+    "difficulty": "medium",
+    "notes": "Green lane plate with arabesque border on a coral-stone wall in Al-Balad, historic Jeddah. Lane number given in Arabic-Indic digits (٨٨) on the Arabic line and Western (88) on the English line. The Arabic name ends with dotless ى as written. Rust/dirt spots over 'Al-Jefri' and 'Lane' make the 'l' and 'n' look broken; small at 1600 px."
+  },
+  "f463e4415-8e7d-4a88-ae75-736649d62cdb": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "تمور المملكة",
+        "lang": "ar",
+        "latin": "Tumur al-Mamlaka (Kingdom Dates)"
+      },
+      {
+        "text": "KINGDOM DATES",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Kingdom Dates",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Large printed fascia over a dates shop on Olaya Street, Riyadh, seen from below at an angle. Only the name is transcribed; the slogan 'أفضل أنواع التمور المنتقاة على مدار العام / THE BEST KIND OF DATES AVAILABLE ALL YEAR-ROUND', web/e-mail line and the small Al Qassim address/phone line are advertising distractors. Registered mark ® after the Arabic name."
+  },
+  "f62d222f8-532c-4480-bcad-2666fef28041": {
+    "accept": false,
+    "reason": "row of shop signs seen edge-on along a Riyadh street; no single legible target, parked cars dominate"
+  },
+  "f6a1f1eae-f273-4ef4-9060-1cbe0624742f": {
+    "accept": false,
+    "reason": "pilgrims descending aircraft stairs; people are the subject, no sign"
+  },
+  "f83fafe8d-3a0e-470b-8501-a7879aa37b21": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "إكسسوارات",
+        "lang": "ar",
+        "latin": "Iksiswarat (Accessories)"
+      },
+      {
+        "text": "UNIQUE GIFT COLLECTIONS",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Unique Gift Collections",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Green fascia over a gift shop in a Riyadh market lane, heavily HDR-processed, seen at an angle. A tiny Arabic line at the right end and small text at bottom left are not transcribed. Distractors: red jeans-brand banner at top left (Lacoste, Ralph Lauren, Levi's, Dockers, Emporio Armani), Levi's hanging signs, poster-covered wall at right. Shoppers and vendors are incidental."
+  },
+  "fdc339efb-9216-4172-8131-5b8e26c56816": {
+    "accept": false,
+    "reason": "crowd at an evening reception in a palace courtyard; no sign"
+  },
+  "ffd7093fd-d0d5-4a68-822a-98bc66c3ddd8": {
+    "accept": false,
+    "reason": "grocery fascia shows only the generic word 'تموينات' (groceries) large; the shop's name on the side panel is too small/angled to read reliably"
+  },
+  "fff35c4b5-d94a-40aa-9879-95b8102c801f": {
+    "accept": false,
+    "reason": "near-duplicate: same Kingdom Dates fascia design as accepted f463e4415"
+  }
+}

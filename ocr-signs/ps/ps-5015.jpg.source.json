@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=a3aaa485-aa53-407d-9e39-4a382f8f93ae",
+  "original_url": "https://panoramax.openstreetmap.fr/images/a3/aa/a4/85/aa53-407d-9e39-4a382f8f93ae.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "urimsch",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture a3aaa485-aa53-407d-9e39-4a382f8f93ae (Bethlehem, 2025-12-08)",
+  "description": "Street-level picture taken 2025-12-08 near Bethlehem by urimsch, sequence 0a104651-6c99-4e8d-83cf-cb8c89138019, heading 82. OCR (PP-OCRv3) read: CENTRE COMMUNAGTAIREFRANCOPHONE | OHEL YEHOSHUA | Chaharnt.eni Semaine:3Minin | Ohel Yeroshua | 0700 | 2017\"VUn",
+  "date": "2025-12-08",
+  "categories": [],
+  "camera_location": [
+    31.722790658,
+    35.218311119
+  ],
+  "found_by": "panoramax-ocr:Bethlehem",
+  "bytes": 1692326,
+  "width": 2876,
+  "height": 2157,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/a3/aa/a4/85/aa53-407d-9e39-4a382f8f93ae.jpg",
+  "derivative": "crop 1203,0,4079,2157 of the 4080x3060 HD picture"
+}

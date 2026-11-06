@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.mapcomplete.org/#focus=pic&pic=45ca1680-dda4-424e-8cd9-0d3e0174f53a",
+  "original_url": "https://panoramax.mapcomplete.org/permanent/45/ca/16/80/dda4-424e-8cd9-0d3e0174f53a.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "mapcomplete",
+  "credit_as_published": "Panoramax, instance mapcomplete (https://panoramax.mapcomplete.org)",
+  "title": "Panoramax picture 45ca1680-dda4-424e-8cd9-0d3e0174f53a (Bratislava, 2025-05-19)",
+  "description": "Street-level picture on Panoramax, taken 2025-05-19 near Bratislava by mapcomplete, sequence 14ea2dff-2d5f-4134-9a9c-0b7ff34d87aa, heading 13. OCR (PP-OCRv3) read: ake shop | production | Cakes on order",
+  "date": "2025-05-19",
+  "categories": [],
+  "camera_location": [
+    48.14308943,
+    17.108296931
+  ],
+  "found_by": "panoramax-ocr:Bratislava",
+  "bytes": 1124275,
+  "width": 3030,
+  "height": 2272,
+  "downloaded_url": "https://panoramax.mapcomplete.org/permanent/45/ca/16/80/dda4-424e-8cd9-0d3e0174f53a.jpg",
+  "derivative": "crop 42,240,3072,2512 of the 3072x4080 HD picture"
+}

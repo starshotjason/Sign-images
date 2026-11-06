@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=a669d9fb-4cf1-4286-97f0-75beb1e85902",
+  "original_url": "https://panoramax.openstreetmap.fr/images/a6/69/d9/fb/4cf1-4286-97f0-75beb1e85902.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "20Jakob09",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture a669d9fb-4cf1-4286-97f0-75beb1e85902 (Berlin, 2024-04-15)",
+  "description": "Street-level picture on Panoramax, taken 2024-04-15 near Berlin by 20Jakob09, sequence d0c0adad-dc8a-42d6-88d4-4f93b015979b, heading 116. OCR (PP-OCRv3) read: park inn",
+  "date": "2024-04-15",
+  "categories": [],
+  "camera_location": [
+    52.521388889,
+    13.41
+  ],
+  "found_by": "panoramax-ocr:Berlin",
+  "bytes": 350286,
+  "width": 1493,
+  "height": 1120,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/a6/69/d9/fb/4cf1-4286-97f0-75beb1e85902.jpg",
+  "derivative": "crop 1503,0,2996,1120 of the 3096x4128 HD picture"
+}

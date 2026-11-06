@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=de336dfc-2205-4ef5-a657-b758e8c6b9ec",
+  "original_url": "https://panoramax.openstreetmap.fr/images/de/33/6d/fc/2205-4ef5-a657-b758e8c6b9ec.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "Cameron R",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture de336dfc-2205-4ef5-a657-b758e8c6b9ec (Ottawa, 2026-04-10)",
+  "description": "Street-level picture on Panoramax, taken 2026-04-10 near Ottawa by Cameron R, sequence 0d567d46-f354-4d63-9dfe-ba269be377f4, heading 139. OCR (PP-OCRv3) read: Rue Montealm | Allumetteres | Souleverd des | CENYRE·VILLE | Catineeu | Maniwak",
+  "date": "2026-04-10",
+  "categories": [],
+  "camera_location": [
+    45.449117501,
+    -75.718380278
+  ],
+  "found_by": "panoramax-ocr:Ottawa",
+  "bytes": 655818,
+  "width": 2160,
+  "height": 1792,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/de/33/6d/fc/2205-4ef5-a657-b758e8c6b9ec.jpg",
+  "derivative": "crop 0,411,2160,2203 of the 2160x3840 HD picture"
+}

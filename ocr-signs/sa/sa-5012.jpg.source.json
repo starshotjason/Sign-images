@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=55472f01-a73b-4cc2-b40f-2ee2b47fc1dd",
+  "original_url": "https://panoramax.openstreetmap.fr/images/55/47/2f/01/a73b-4cc2-b40f-2ee2b47fc1dd.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "Danil",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture 55472f01-a73b-4cc2-b40f-2ee2b47fc1dd (Mecca, 2026-05-18)",
+  "description": "Street-level picture on Panoramax, taken 2026-05-18 near Mecca by Danil, sequence 8e165f07-c20b-4894-baef-2e738beed8f8, heading 78. OCR (PP-OCRv3) read: SHAABANER STATION | [unread] LLAI",
+  "date": "2026-05-18",
+  "categories": [],
+  "camera_location": [
+    21.428629945,
+    39.82994264
+  ],
+  "found_by": "panoramax-ocr:Mecca",
+  "bytes": 484437,
+  "width": 3072,
+  "height": 1728,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/55/47/2f/01/a73b-4cc2-b40f-2ee2b47fc1dd.jpg",
+  "derivative": "whole 3072x1728 HD picture as served by the Panoramax instance (byte-identical; the service blurs faces and number plates), not cropped"
+}

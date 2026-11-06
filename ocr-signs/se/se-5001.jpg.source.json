@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/941165/913/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlNi5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE3LzEwLzE3L3Byb2MvOTQxMTY1Xzc5NjJhXzE0LmpwZw",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "telenavdrives",
+  "credit_as_published": "KartaView user telenavdrives (user id 53); © KartaView contributors",
+  "title": "KartaView photo 145004799, sequence 941165 #913 (Stockholm, 2017-09-20)",
+  "description": "Street-level picture on KartaView, taken 2017-09-20 near Stockholm by telenavdrives, sequence 941165, heading 0. OCR (PP-OCRv3) read: STOCKHOLM HEAR | valea | EASTCAP | EIGIGANTEN | WESS AU SDERQVIS | Lakarbesok | nar det | passar dig",
+  "date": "2017-09-20",
+  "categories": [],
+  "camera_location": [
+    59.335227,
+    18.064106
+  ],
+  "found_by": "kartaview-ocr:Stockholm",
+  "bytes": 721505,
+  "width": 2592,
+  "height": 1936,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlNi5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE3LzEwLzE3L3Byb2MvOTQxMTY1Xzc5NjJhXzE0LmpwZw",
+  "derivative": "whole 2592x1936 full-size processed (blurred) picture as served by the KartaView CDN (byte-identical; the service blurs faces and number plates), not cropped"
+}

@@ -1,0 +1,82 @@
+{
+  "f45f97014-c5d2-4cd0-891b-a62a35a8f2b6": {
+    "accept": false,
+    "reason": "close-up of animal skulls at a fetish market; no sign"
+  },
+  "c53496175": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "MINISTERE DE LA DECENTRALISATION ET DE LA VILLE",
+        "lang": "fr"
+      },
+      {
+        "text": "HOTEL DE REGION",
+        "lang": "fr"
+      },
+      {
+        "text": "CONSEIL REGIONAL DE TOMBOUCTOU",
+        "lang": "fr"
+      },
+      {
+        "text": "TEL : 21791423  www : Email  artombuctou@gmail. com",
+        "lang": "fr"
+      }
+    ],
+    "expect": {
+      "query": "Conseil Régional de Tombouctou",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Long white panel over the entrance of the regional council building, Timbuktu; black ministry line, green italic 'HOTEL DE REGION', blue name line, small contact line (spacing as printed). No accents. Logo badges at both ends carry tiny unreadable text."
+  },
+  "c67870154": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "COOPERATIVE",
+        "lang": "fr"
+      },
+      {
+        "text": "« BENKADI » DE",
+        "lang": "fr"
+      },
+      {
+        "text": "DOUGOUNIONA",
+        "lang": "fr"
+      },
+      {
+        "text": "CENTRE DE PRODUCTION DE BEURRE ET",
+        "lang": "fr"
+      },
+      {
+        "text": "DE SAVON A BASE DE KARITE 2 km",
+        "lang": "fr"
+      },
+      {
+        "text": "Commune Nanfaga, Cercle Koutiala",
+        "lang": "fr"
+      },
+      {
+        "text": "Tél. : 65 21 22 73 / 69 51 35 81",
+        "lang": "fr"
+      }
+    ],
+    "expect": {
+      "query": "Dougouniona",
+      "type": "place"
+    },
+    "difficulty": "medium",
+    "notes": "Painted cooperative sign on posts at Nintabougoro village, with a pointing-hand arrow to the left; 'BENKADI' in French guillemets. The 'BENKADI' logo badge repeats the name. The white Save the Children/unicef 'PROGRAMME D'EDUCATION ... CDPE DE NINTABOUGORO' board at left is a distractor. Alternative query: 'Coopérative Benkadi'."
+  }
+}

@@ -1,0 +1,510 @@
+{
+  "fd7f2496e-6ee8-4cfe-b26b-0440ba2df857": {
+    "accept": false,
+    "reason": "a slogan poster with people's faces dominates ('YORQIN KELAJAKKA NAZAR!'); the NBU letters on the tower behind are secondary"
+  },
+  "f576aaa69-2297-4351-b1e3-71ed1b653b24": {
+    "accept": false,
+    "reason": "children-crossing pictogram only; the shop sign behind is cut off"
+  },
+  "f3e7a90c3-c95e-473e-9d8c-2e8a9b6e3945": {
+    "accept": false,
+    "reason": "advertising billboard ('MAN / funny prices are back!!!') dominates; the store's own MAN letters below are partly hidden by fountains"
+  },
+  "ffc9d00a6-2f13-45e3-9c6d-2fa5c6063562": {
+    "accept": false,
+    "reason": "wide street scene; only a billboard (DAR) and small far shop signs, none legible as a target"
+  },
+  "f21f8a5c0-b244-4c3c-8077-6c4f200ed80c": {
+    "accept": false,
+    "reason": "pebble-mosaic ground lettering showing only the fragment 'QAND' (cut from a longer word); not a readable place sign"
+  },
+  "f8682b3d9-07d1-4a27-8d87-9e83cf17567f": {
+    "accept": false,
+    "reason": "escalator pictogram only, no place text"
+  },
+  "fe05abbe3-42a0-42cb-b563-6acfe5ee079e": {
+    "accept": false,
+    "reason": "only the generic word RESTAURANT and a quote banner; the venue name logo is cut off and heavily filtered"
+  },
+  "f3861ceaa-2aa4-49cf-a9e4-ae091703df11": {
+    "accept": false,
+    "reason": "night view of Registan square, no sign text"
+  },
+  "f9dd07ca1-e007-4a28-a5e3-078d87557523": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "TOSHKENT",
+        "lang": "uz"
+      },
+      {
+        "text": "JIZZAX",
+        "lang": "uz"
+      }
+    ],
+    "expect": {
+      "query": "Jizzax",
+      "type": "place"
+    },
+    "difficulty": "easy",
+    "notes": "Blue two-panel roadside direction sign in Uzbek Latin: Toshkent straight ahead, Jizzax via U-turn arrow. Slightly tilted on a yellow post."
+  },
+  "f6332b439-d08c-48b4-ab2f-786c45305eca": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "KATTAQO'RG'ON 67",
+        "lang": "uz"
+      },
+      {
+        "text": "SAMARQAND 147",
+        "lang": "uz"
+      },
+      {
+        "text": "TOSHKENT 450",
+        "lang": "uz"
+      }
+    ],
+    "expect": {
+      "query": "Kattaqo'rg'on",
+      "type": "place"
+    },
+    "difficulty": "medium",
+    "notes": "Overhead gantry with three blue distance panels, shot through a dirty windscreen (Bukhara-Samarkand road). The two apostrophes in KATTAQO'RG'ON are tiny and nearly merge with the O and G; their exact glyph (' or the Uzbek ʻ) cannot be told at this resolution."
+  },
+  "c132651919": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn",
+      "Cyrl"
+    ],
+    "lines": [
+      {
+        "text": "Yevropa, Qrim,",
+        "lang": "uz"
+      },
+      {
+        "text": "Kavkaz ekspozitsiyasi",
+        "lang": "uz"
+      },
+      {
+        "text": "Экспозиция Европы,",
+        "lang": "ru",
+        "latin": "Ekspozitsiya Yevropy (Exposition of Europe,)"
+      },
+      {
+        "text": "Крыма, Кавказа",
+        "lang": "ru",
+        "latin": "Kryma, Kavkaza (Crimea, Caucasus)"
+      },
+      {
+        "text": "Amfiteatr",
+        "lang": "uz"
+      },
+      {
+        "text": "Амфитеатр",
+        "lang": "ru",
+        "latin": "Amfiteatr (Amphitheatre)"
+      }
+    ],
+    "expect": {
+      "query": "Amfiteatr",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Engraved wooden fingerposts in the Tashkent Botanical Garden. Target lines are the lower-left board (Europe/Crimea/Caucasus exposition, left arrow) and the right board (Amfiteatr, straight ahead). The upper-left board 'Shimo..y Amerika ekspozitsiyasi / Экспозиция Северной Америки' is a partial-read distractor: a wood knot hides the letters between 'Shimo' and 'y' (presumably Shimoliy), so it is not transcribed. A worn patch also blurs the 'sp' of 'ekspozitsiyasi' on the lower board. Small 'Навигация от mytaxi' sponsor tag below is a distractor."
+  },
+  "c132655525": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn",
+      "Cyrl"
+    ],
+    "lines": [
+      {
+        "text": "Togʻ landshaft",
+        "lang": "uz"
+      },
+      {
+        "text": "ekspozitsiyasi",
+        "lang": "uz"
+      },
+      {
+        "text": "Экспозиция горного",
+        "lang": "ru",
+        "latin": "Ekspozitsiya gornogo (Exposition of mountain)"
+      },
+      {
+        "text": "ландшафта",
+        "lang": "ru",
+        "latin": "landshafta (landscape)"
+      },
+      {
+        "text": "Yashil labirint",
+        "lang": "uz"
+      },
+      {
+        "text": "Зеленый лабиринт",
+        "lang": "ru",
+        "latin": "Zelenyy labirint (Green labyrinth)"
+      }
+    ],
+    "expect": {
+      "query": "Yashil labirint",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Two engraved wooden fingerposts (left arrows) in the Tashkent Botanical Garden. The gʻ in 'Togʻ' is written with a turned-comma mark (6-shaped), stored here as U+02BB ʻ. Russian 'Зеленый' is written with е, not ё. Same garden and sign family as c132651919 but different boards and destinations."
+  },
+  "c133666987": {
+    "accept": false,
+    "reason": "souvenir stall with pin-covered uniforms; car with a legible number plate dominates, no name sign"
+  },
+  "c133666989": {
+    "accept": false,
+    "reason": "pin-covered Soviet uniforms on display; merchandise, no sign"
+  },
+  "c133666990": {
+    "accept": false,
+    "reason": "pin-covered Soviet uniforms on display; merchandise, no sign (near-duplicate of c133666989)"
+  },
+  "c133666992": {
+    "accept": false,
+    "reason": "pin-covered Soviet uniforms on display; merchandise, no sign (near-duplicate of c133666989)"
+  },
+  "c143371518": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "Jahon hunarmandlar",
+        "lang": "uz"
+      },
+      {
+        "text": "shahri Qoʻqonga xush",
+        "lang": "uz"
+      },
+      {
+        "text": "kelibsiz!",
+        "lang": "uz"
+      },
+      {
+        "text": "Welcome to Kokand, the",
+        "lang": "en"
+      },
+      {
+        "text": "handicrafters city",
+        "lang": "en"
+      },
+      {
+        "text": "of  the world!",
+        "lang": "en"
+      },
+      {
+        "text": "WELCOME TO KOKAND",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Qoʻqon",
+      "type": "place"
+    },
+    "difficulty": "easy",
+    "notes": "City welcome board in Kokand: a framed banner with Uzbek and English text above large red 3D letters 'WELCOME TO KOKAND'. The oʻ in Qoʻqonga is a turned-comma (6-shaped) mark, stored as U+02BB ʻ. Double space in 'of  the world!' as printed. The banner photo of Khudayar Khan's palace is decoration."
+  },
+  "c144727322": {
+    "accept": true,
+    "reason": "",
+    "kind": "hard",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "NUROTA",
+        "lang": "uz"
+      },
+      {
+        "text": "XUSH KELIBSIZ",
+        "lang": "uz"
+      },
+      {
+        "text": "TUMANI",
+        "lang": "uz"
+      },
+      {
+        "text": "WELCOME!",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Nurota",
+      "type": "place"
+    },
+    "difficulty": "hard",
+    "notes": "Hillside district-border sign on the Qoraqargʻa pass, Nurota District, seen from the road at a distance (small in frame). Large 3D letters NUROTA with a mountain logo whose peak forms the N; blue strip below reads 'XUSH KELIBSIZ' (left), 'TUMANI' (centre, completing 'Nurota tumani' = Nurota district), 'WELCOME!' (right)."
+  },
+  "c153542830": {
+    "accept": true,
+    "reason": "",
+    "kind": "address plate",
+    "scripts": [
+      "Latn",
+      "Zyyy"
+    ],
+    "lines": [
+      {
+        "text": "DEHIBOLO MFY",
+        "lang": "uz"
+      },
+      {
+        "text": "MAYDON",
+        "lang": "uz"
+      },
+      {
+        "text": "KO`CHASI",
+        "lang": "uz"
+      },
+      {
+        "text": "O`ZBEKISTON",
+        "lang": "uz"
+      },
+      {
+        "text": "34",
+        "lang": "und"
+      },
+      {
+        "text": "UY",
+        "lang": "uz"
+      }
+    ],
+    "expect": {
+      "query": "Maydon ko'chasi",
+      "type": "addr"
+    },
+    "difficulty": "easy",
+    "notes": "Uzbek house-number plate over a door in Dehibolo village: MFY (mahalla fuqarolar yigʻini, neighbourhood) name, street name + KOʻCHASI (street), and on the blue right panel the flag, Oʻzbekiston and house number 34 + UY (house). Both oʻ letters are printed with a grave-accent-like stroke (`), stored as U+0060 to match the glyph; the standard spelling uses ʻ (U+02BB)."
+  },
+  "c154115983": {
+    "accept": true,
+    "reason": "",
+    "kind": "address plate",
+    "scripts": [
+      "Latn",
+      "Zyyy"
+    ],
+    "lines": [
+      {
+        "text": "OBOD YURT",
+        "lang": "uz"
+      },
+      {
+        "text": "KOʻCHASI",
+        "lang": "uz"
+      },
+      {
+        "text": "OʻZBEKISTON",
+        "lang": "uz"
+      },
+      {
+        "text": "109",
+        "lang": "und"
+      }
+    ],
+    "expect": {
+      "query": "Obod yurt koʻchasi",
+      "type": "addr"
+    },
+    "difficulty": "medium",
+    "notes": "Uzbek house-number plate on a plastered wall in Kokand: street name + KOʻCHASI on the white panel, flag, OʻZBEKISTON and house number 109 on the blue panel. Both oʻ use a turned-comma (6-shaped) mark, stored as U+02BB ʻ. Plate is small in the frame."
+  },
+  "c154221018": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "XIVA",
+        "lang": "uz"
+      },
+      {
+        "text": "KOʻCHASI",
+        "lang": "uz"
+      }
+    ],
+    "expect": {
+      "query": "Xiva koʻchasi",
+      "type": "street"
+    },
+    "difficulty": "medium",
+    "notes": "Weathered blue street plate on a wall in Kokand (near Yangi Chorsu mosque); paint drips and rust run over the letters but the text is complete. The oʻ in KOʻCHASI is a turned-comma mark, stored as U+02BB ʻ."
+  },
+  "c155912165": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "YANGIARIQ",
+        "lang": "uz"
+      }
+    ],
+    "expect": {
+      "query": "Yangiariq",
+      "type": "place"
+    },
+    "difficulty": "easy",
+    "notes": "Blue letters on a white entry-gate structure marking the border of Yangiariq district (Xorazm region). The sign may continue beyond the right edge of the frame (e.g. a 'TUMANI' word); only YANGIARIQ is visible, its Q touching the edge. The image looks digitally upscaled/smoothed. Two heads at the bottom edge are incidental."
+  },
+  "c171050977": {
+    "accept": false,
+    "reason": "manhole cover embossed 'ГАЗООПАСНО' (gas hazard); warning, no place name"
+  },
+  "c36231113": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "OʻZBEKISTON RESPUBLIKASI",
+        "lang": "uz"
+      },
+      {
+        "text": "MADANIYAT VA SPORT ISHLARI VAZIRLIGI",
+        "lang": "uz"
+      },
+      {
+        "text": "AMALIY SANʻAT",
+        "lang": "uz"
+      },
+      {
+        "text": "MUZEYI",
+        "lang": "uz"
+      },
+      {
+        "text": "MINISTRY OF CULTURAL AFFAIRS AND SPORTS",
+        "lang": "en"
+      },
+      {
+        "text": "REPUBLIC OF UZBEKISTAN",
+        "lang": "en"
+      },
+      {
+        "text": "MUSEUM OF",
+        "lang": "en"
+      },
+      {
+        "text": "APPLIED ARTS",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Amaliy sanʼat muzeyi",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Black plaque with raised metal letters and the state emblem, Museum of Applied Arts, Tashkent; slightly from below. MUZEYI is letter-spaced (M U Z E Y I). The mark in SANʻAT is a raised 6-shaped (turned-comma) tick, stored as U+02BB ʻ as it appears, although standard spelling is sanʼat with U+02BC ʼ; the tick in OʻZBEKISTON is tiny and its exact shape is not certain. The U of MUSEUM and the E of APPLIED are slightly displaced/damaged."
+  },
+  "c68385144": {
+    "accept": false,
+    "reason": "1964 night slide of a Bukhara market kiosk; sign only reads the generic 'Текстиль' (textiles) with a small, blurry 'палатка ... 1 Бухунивермага' line; no mappable name"
+  },
+  "c74418567": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "Rui Gonsales de Klavixo",
+        "lang": "uz"
+      },
+      {
+        "text": "KO’CHASI",
+        "lang": "uz"
+      }
+    ],
+    "expect": {
+      "query": "Rui Gonsales de Klavixo",
+      "type": "street"
+    },
+    "difficulty": "easy",
+    "notes": "White enamel street plate with maroon serif lettering on a brick wall, Samarkand; KOʻCHASI curves along the arched lower tab. The oʻ mark here is a 9-shaped closing quote, stored as U+2019 ’ to match the glyph (standard spelling uses ʻ U+02BB). Uzbek Latin spelling of Ruy González de Clavijo."
+  },
+  "c75485677": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn",
+      "Cyrl"
+    ],
+    "lines": [
+      {
+        "text": "”BO`ZI” MAHALLASI",
+        "lang": "uz"
+      },
+      {
+        "text": "XUSH KELIBSIZ",
+        "lang": "uz"
+      },
+      {
+        "text": "ХУШ ОМАДЕД",
+        "lang": "tg",
+        "latin": "Khush omaded (Welcome)"
+      }
+    ],
+    "expect": {
+      "query": "Boʻzi",
+      "type": "place"
+    },
+    "difficulty": "medium",
+    "notes": "Painted entrance arch of Boʻzi mahalla (neighbourhood), Samarkand. Top beam: the name in double quotes printed as two closing-style marks ” ... ” (U+201D), and the oʻ mark is a grave-like stroke stored as U+0060 to match the glyph. The two side posts carry 'XUSH KELIBSIZ' (Uzbek, left) and 'ХУШ ОМАДЕД' (Tajik Cyrillic, right) written vertically, one letter per row; word spaces are inferred because the stacking leaves no clear gap. Two cars under the arch show plates incidentally."
+  },
+  "c75490421": {
+    "accept": false,
+    "reason": "park prohibition signs (no bicycles, don't touch trees, no dogs); no place name"
+  },
+  "c9453001": {
+    "accept": false,
+    "reason": "Tashkent Zoo fingerpost with only 'ВЫХОД' (exit) and animal pictograms; no place name"
+  },
+  "f36ed3d37-7ac9-47d6-af2d-a4930269dac4": {
+    "accept": false,
+    "reason": "roadside advertising billboard (Podium, Karlovy Vary, UzMedExpo 2009, Mothercare); pure adverts"
+  },
+  "c37305310": {
+    "accept": false,
+    "reason": "people at a factory event are the subject (faces); no sign"
+  }
+}

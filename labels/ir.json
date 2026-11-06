@@ -1,0 +1,679 @@
+{
+ "f0e7dec6a-448a-4992-b124-63dabdb2b132": {
+  "accept": false,
+  "reason": "garden path and lamp post at Saadabad; no sign"
+ },
+ "f1c9a0a75-5b5b-4b86-83d5-793b2a8a4591": {
+  "accept": false,
+  "reason": "car in a museum; no sign"
+ },
+ "f1d81c1ac-a90e-4dc3-be7d-d5d7dc452aa9": {
+  "accept": false,
+  "reason": "hotel lobby interior; no sign"
+ },
+ "f1e8ab31e-7242-49d1-9139-58a2d489ef68": {
+  "accept": false,
+  "reason": "stereo triptych of a stuffed wolf; no sign"
+ },
+ "f2c68cddf-5907-4bb5-9caa-0765acaf2533": {
+  "accept": false,
+  "reason": "warning pictogram (!) with no text"
+ },
+ "f3b50cd8d-a411-49bc-9191-d65d30f7122e": {
+  "accept": false,
+  "reason": "car in a museum; no sign"
+ },
+ "f5479545f-0b4e-4411-91aa-1ca069174881": {
+  "accept": false,
+  "reason": "generic product word 'مرغ' (chicken) with a pictogram; no business or place name"
+ },
+ "f5950556d-4edd-4e34-bb2d-a02338a52739": {
+  "accept": false,
+  "reason": "cars in a museum; only tiny exhibit labels"
+ },
+ "f5d00b24e-d570-4484-a207-e84e64c22131": {
+  "accept": false,
+  "reason": "guest-house plaque partly hidden by a lamp and worn; name not reliably legible"
+ },
+ "f6cdbc1ea-8832-4a2c-816d-cd1d4c87a099": {
+  "accept": false,
+  "reason": "advertising billboard for Matrix mainboards"
+ },
+ "fc0306d3a-b8b3-4e71-a582-8fdcc229726c": {
+  "accept": false,
+  "reason": "menu-style list (ice cream, faloodeh, seasonal juice); no business name"
+ },
+ "fc1804041-d20a-4ba1-ae65-30f88a7f526f": {
+  "accept": true,
+  "reason": "",
+  "kind": "hard",
+  "scripts": [
+   "Latn",
+   "Arab"
+  ],
+  "lines": [
+   {
+    "text": "Romance",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Cafe Romance",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Engraved wooden cafe sign in Tehran under deep red light, strongly angled and slightly soft. The 'o' in Romance is a heart-like shape. The engraved Persian word above (probably 'رومنس') and a small mark between the two words are too shallow to read with certainty and are not transcribed."
+ },
+ "fd2b6f3b3-8193-4d0b-b100-3090d25e0415": {
+  "accept": false,
+  "reason": "person holding a company pennant; face is the subject"
+ },
+ "fdcf19421-dd27-438e-917a-c63e3822e7fd": {
+  "accept": false,
+  "reason": "thatched rural house at a museum; no sign"
+ },
+ "fde396e1e-cc40-4191-b9e4-3652d5279026": {
+  "accept": false,
+  "reason": "car interior in a museum; no sign"
+ },
+ "ff0d44858-1fe5-48b0-8531-ea4d09d50d33": {
+  "accept": false,
+  "reason": "wall niche with a lantern; no sign"
+ },
+ "ffb373b66-1dac-4fb6-a899-4b0d31c690cb": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "FAR AWAY",
+    "lang": "en"
+   },
+   {
+    "text": "INTERNATIONAL",
+    "lang": "en"
+   },
+   {
+    "text": "TELEPHONE",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Far Away International Telephone",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Hand-painted banner over a call shop in Yazd, shot upward at night. A small number plate on the brick pillar below (Persian digits) is a distractor and is not transcribed."
+ },
+ "c152143264": {
+  "accept": true,
+  "kind": "business sign",
+  "scripts": [
+   "Arab"
+  ],
+  "lines": [
+   {
+    "text": "جعفری",
+    "lang": "fa",
+    "latin": "Ja'fari"
+   }
+  ],
+  "expect": {
+   "query": "جعفری",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Yellow rooftop letters naming the Jafari shopping centre, Khorsand Boulevard, Kazerun; a power line crosses the letters. Many shop fascias below are distractors (e.g. 'سام مارکت' Sam Market, 'پخش ظروف پلاستیکی و ظروف یکبار مصرف / جعفری - جوکار'). Car plates incidental.",
+  "reason": ""
+ },
+ "c152143266": {
+  "accept": false,
+  "reason": "near-duplicate of c152143264 (same Jafari shopping centre facade)"
+ },
+ "c154087914": {
+  "accept": true,
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "DEN FOOD",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Den Food",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Illuminated fascia letters at night, Kazerun; slight motion blur, cypress trees partly in front of the facade but not over the letters.",
+  "reason": ""
+ },
+ "c154087915": {
+  "accept": false,
+  "reason": "near-duplicate of c154087914 (same DEN FOOD facade)"
+ },
+ "c31345596": {
+  "accept": false,
+  "reason": "no readable sign text (mosque door, banner blank/washed out)"
+ },
+ "c52034418": {
+  "accept": false,
+  "reason": "carpet inscription, not a sign"
+ },
+ "c53313094": {
+  "accept": true,
+  "kind": "landmark",
+  "scripts": [
+   "Arab",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "تخت سلیمان",
+    "lang": "fa",
+    "latin": "Takht-e Soleyman (Solomon's Throne)"
+   },
+   {
+    "text": "Takht-e Soleyman",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Takht-e Soleyman",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Black granite UNESCO World Heritage plaque, photographed at a steep angle. Only the site-name lines are labelled: Persian nastaliq title on the right half, English title on the left half. The small body text (UNESCO convention wording, Persian paragraph) is too small/angled to transcribe.",
+  "reason": ""
+ },
+ "c63219742": {
+  "accept": true,
+  "kind": "street sign",
+  "scripts": [
+   "Arab",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "خیابان شهید",
+    "lang": "fa",
+    "latin": "Khiyaban-e Shahid (Martyr ... Street)"
+   },
+   {
+    "text": "قاسمی",
+    "lang": "fa",
+    "latin": "Qasemi"
+   },
+   {
+    "text": "QASEMI ST.",
+    "lang": "en"
+   },
+   {
+    "text": "۴۲",
+    "lang": "und"
+   },
+   {
+    "text": "منطقه ۱",
+    "lang": "fa",
+    "latin": "Mantaqe 1 (District 1)"
+   }
+  ],
+  "expect": {
+   "query": "قاسمی",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Blue Tehran municipal street plate with red number box (۴۲) and District 1 label; Persian digits. The green arrow sign below ('حسینیه بزرگ / دزاشیب', Great Hosseiniyeh of Dezashib) is a distractor/secondary sign.",
+  "reason": ""
+ },
+ "c67116411": {
+  "accept": true,
+  "kind": "address plate",
+  "scripts": [
+   "Arab"
+  ],
+  "lines": [
+   {
+    "text": "پلاک کد پستی",
+    "lang": "fa",
+    "latin": "Pelak-e kod-e posti (postcode plate)"
+   },
+   {
+    "text": "۸۹۱۶۷-۷۵۴۳۱",
+    "lang": "und"
+   },
+   {
+    "text": "شهرداری یزد",
+    "lang": "fa",
+    "latin": "Shahrdari-ye Yazd (Yazd Municipality)"
+   },
+   {
+    "text": "۲۶",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "۸۹۱۶۷-۷۵۴۳۱",
+   "type": "addr"
+  },
+  "difficulty": "easy",
+  "notes": "Two plates on a mud-brick wall in Yazd: upper blue/white postcode plate (header 'پلاک کد پستی', small side texts 'شهرداری یزد' and 'اداره کل پست استان یزد' not labelled), lower metal municipal house-number plate 'شهرداری یزد' / ۲۶. Digits are Persian (U+06F0-06F9); the 4 in the postcode is drawn in the open ٤-like style common on Iranian signage and is encoded as Persian ۴.",
+  "reason": ""
+ },
+ "c81085166": {
+  "accept": false,
+  "reason": "rule/warning text ('Women only' metro floor sign), names no place"
+ },
+ "c81924572": {
+  "accept": false,
+  "reason": "stone relief (Faravahar), no sign text"
+ },
+ "f01850de9-a232-4dd6-902b-a777beb7ef82": {
+  "accept": false,
+  "reason": "warning sign only ('Danger, swimming forbidden')"
+ },
+ "f0a613b99-f33e-423f-9b2e-81dc2efc91c6": {
+  "accept": true,
+  "kind": "landmark",
+  "scripts": [
+   "Latn",
+   "Arab"
+  ],
+  "lines": [
+   {
+    "text": "Chehelsotoon Museum",
+    "lang": "en"
+   },
+   {
+    "text": "اغ موزه چهلستون",
+    "lang": "fa",
+    "latin": "[B]agh-e Muze-ye Chehelsotun (Chehel Sotoun Garden Museum)"
+   }
+  ],
+  "expect": {
+   "query": "Chehelsotoon",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Long bilingual name banner on brick wall, Isfahan. The Persian line is cut off at the right frame edge: the first letter ب of باغ is outside the photo, so only 'اغ موزه چهلستون' is visible. Tiny text in the middle of the banner is unreadable and not labelled.",
+  "reason": ""
+ },
+ "f19ffab18-d56e-4aac-a055-ccd1c5655c9d": {
+  "accept": false,
+  "reason": "bazaar interior; shop signs small and not legible enough, no main target sign"
+ },
+ "f1f9c8799-d964-4ea7-b5f0-9135fc54307f": {
+  "accept": false,
+  "reason": "museum exhibit (carriage), no sign target"
+ },
+ "f417b83ab-6237-41f6-a5e4-c3f123811a45": {
+  "accept": false,
+  "reason": "museum exhibit (carriage), no sign target"
+ },
+ "f451fe2b0-1e08-422f-afa0-a26779bb25bf": {
+  "accept": false,
+  "reason": "abstract motion-blurred lights, no readable text"
+ },
+ "f4e66b4fd-0ca4-4d5e-b470-2f46819d12bc": {
+  "accept": false,
+  "reason": "unlit wire-frame neon sign seen from behind/side; text not reliably readable"
+ },
+ "f55468445-2820-45a3-90c8-e69330c99d31": {
+  "accept": false,
+  "reason": "bazaar stall at night, no legible sign"
+ },
+ "f740813ee-467d-40a5-93c1-60fc35d0f659": {
+  "accept": true,
+  "kind": "business sign",
+  "scripts": [
+   "Arab"
+  ],
+  "lines": [
+   {
+    "text": "رستوران",
+    "lang": "fa",
+    "latin": "Restoran (restaurant)"
+   },
+   {
+    "text": "مارال",
+    "lang": "fa",
+    "latin": "Maral"
+   }
+  ],
+  "expect": {
+   "query": "مارال",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Red neon-tube letters on a frame against trees and sky, Isfahan (Restaurant Maral). Unlit daytime shot but letter shapes are clear.",
+  "reason": ""
+ },
+ "f799d5ac0-69ec-4a94-8a1c-3d0b7b2c336f": {
+  "accept": false,
+  "reason": "arcade of Naqsh-e Jahan square, no legible sign"
+ },
+ "fa12e9ea7-cd9e-45d8-837f-7fbae0e8329c": {
+  "accept": false,
+  "reason": "triple stereo image of a shop display case, no sign"
+ },
+ "fa3c46d4b-20bf-472d-8095-5681c944e730": {
+  "accept": false,
+  "reason": "red/cyan anaglyph composite, no sign"
+ },
+ "fb1cf77de-1827-408e-aa05-3d2600ff4870": {
+  "accept": false,
+  "reason": "barbershop interior with people as subject, no sign"
+ },
+ "fb89019f7-bcd2-4668-b2ee-2caf39cbdb76": {
+  "accept": false,
+  "reason": "generic 'هتل / HOTEL' lightbox with no name; nothing specific to search for"
+ },
+ "fc1e81155-0e51-4fd8-9bd8-302c589a2708": {
+  "accept": false,
+  "reason": "CCTV warning tile, names no place"
+ },
+ "fdc9d2266-4868-4234-8c3e-999550dd92cc": {
+  "accept": false,
+  "reason": "anaglyph image of a shop display case, no sign"
+ },
+ "fe217b1b9-09df-4ea4-ba2f-7ef18276a191": {
+  "accept": false,
+  "reason": "bazaar interior; only shop sign is cut off at the frame edge"
+ },
+ "fe43710e5-4bfe-4e14-a677-39a9ea729045": {
+  "accept": false,
+  "reason": "museum car exhibit; label plate tiny"
+ },
+ "ff782d242-ed59-475b-b8ba-b53a6581e930": {
+  "accept": false,
+  "reason": "decorative facade artwork, no sign text"
+ },
+ "ffa045e0c-9c8b-4082-8377-d2dc6cc5eb10": {
+  "accept": false,
+  "reason": "slogan sign (hijab message), names no place"
+ },
+ "ffb3389ae-ad10-4c03-adca-e7f530f45bc9": {
+  "accept": false,
+  "reason": "museum car exhibit; label plate small and angled"
+ },
+ "c112910682": {
+  "accept": false,
+  "reason": "handwritten personal notice (kidney donation), not a place sign"
+ },
+ "c11726874": {
+  "accept": false,
+  "reason": "framed signed photograph in a museum, not a sign"
+ },
+ "fa315d593-5635-451d-8248-b685ae711f47": {
+  "accept": false,
+  "reason": "tiled slogan panel ('Meet the Fars artisans and their products'), no place name"
+ },
+ "c162751230": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Arab",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "مرکزشهر-بازار",
+    "lang": "fa",
+    "latin": "Markaz-e shahr - Bazar (City centre - Market)"
+   },
+   {
+    "text": "City Center-Market Place",
+    "lang": "en"
+   },
+   {
+    "text": "نیروگاه-فراشبند",
+    "lang": "fa",
+    "latin": "Nirugah - Farashband (Power station - Farashband)"
+   },
+   {
+    "text": "Power Station-Farashband",
+    "lang": "en"
+   },
+   {
+    "text": "بوشهر-اهواز",
+    "lang": "fa",
+    "latin": "Bushehr - Ahvaz"
+   },
+   {
+    "text": "Boushehr-Ahvaz",
+    "lang": "en"
+   },
+   {
+    "text": "کوی پردیس",
+    "lang": "fa",
+    "latin": "Kuy-e Pardis (Pardis quarter)"
+   },
+   {
+    "text": "Pardis Area",
+    "lang": "en"
+   },
+   {
+    "text": "دریاچه پریشان",
+    "lang": "fa",
+    "latin": "Daryacheh-ye Parishan (Lake Parishan)"
+   },
+   {
+    "text": "Parishan Lake",
+    "lang": "en"
+   },
+   {
+    "text": "شیراز",
+    "lang": "fa",
+    "latin": "Shiraz"
+   },
+   {
+    "text": "Shiraz",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "دریاچه پریشان",
+   "type": "place"
+  },
+  "difficulty": "hard",
+  "notes": "Cluster of six bilingual arrow-shaped direction blades on a pole at a roundabout on Khorsand Boulevard, Kazerun; small in the frame (lower right). Left column (arrows left) listed first, then right column (arrows right). 'Parishan Lake' blade is blue, others white. A partly hidden seventh blade sits below on the right."
+ },
+ "f2d73b066-22e6-4a90-8d2a-ff42388bb68a": {
+  "accept": false,
+  "reason": "classic car in museum, no sign"
+ },
+ "fea535a44-44a5-4c68-a1d2-c15f3a0d80af": {
+  "accept": false,
+  "reason": "royal carriage in museum, no sign"
+ },
+ "f40ef8b27-6fd4-40e0-9be4-92474c568c63": {
+  "accept": false,
+  "reason": "museum car exhibit, info card unreadable"
+ },
+ "f5150e25b-7055-4c9b-97a5-1d928d683a04": {
+  "accept": false,
+  "reason": "museum car exhibit, no sign"
+ },
+ "c162802025": {
+  "accept": false,
+  "reason": "road and sky, no legible sign"
+ },
+ "f6ba6fb34-3c24-4234-8eea-8f183c16b838": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "PHOTO",
+    "lang": "en"
+   },
+   {
+    "text": "AFSHIN",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Photo Afshin",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Light-box shop sign in Yazd with a photographer-and-tripod pictogram; 'PHOTO' is set on a diagonal. The Persian half of the sign is cut off at the right edge (only red/blue fragments visible) and is not transcribed."
+ },
+ "fe3892aaf-712a-4029-b8b8-5ee4636c8964": {
+  "accept": false,
+  "reason": "commemorative text plaque (Fahraj revitalisation), not a name sign"
+ },
+ "f26e82a4b-9770-4285-8d26-d34c9282ba29": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Arab",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "فوق تخصص",
+    "lang": "fa",
+    "latin": "Fogh-e takhassos (sub-specialist)"
+   },
+   {
+    "text": "جراحی پلاستیک",
+    "lang": "fa",
+    "latin": "Jarrahi-ye plastik (plastic surgery)"
+   },
+   {
+    "text": "ترمیمی و زیبائی",
+    "lang": "fa",
+    "latin": "Tarmimi va zibaei (reconstructive and cosmetic)"
+   },
+   {
+    "text": "دکتر محمّدتقی ایمانی",
+    "lang": "fa",
+    "latin": "Doktor Mohammad-Taghi Imani"
+   },
+   {
+    "text": "PLASTIC SURGEON",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "دکتر محمدتقی ایمانی",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Middle panel of a stack of doctors' light-box signs in Shiraz: white Persian specialty text at left, blue name panel at right (the name has a shadda on محمّد). Panels above (Dr. H. Hodjati MD, General & Vascular Surgeon) and below (sonography / radiology clinic) are cut-off distractors; a cable crosses the bottom edge."
+ },
+ "f47577fb2-6b32-49e3-9995-d5eb486e6696": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Arab"
+  ],
+  "lines": [
+   {
+    "text": "خدمات فنی روستایی",
+    "lang": "fa",
+    "latin": "Khadamat-e Fanni-ye Rustai (Rustai technical services)"
+   },
+   {
+    "text": "تعمیرلوازم برقی ودیگهای بخار",
+    "lang": "fa",
+    "latin": "Ta'mir-e lavazem-e barghi va digha-ye bokhar (repair of electrical appliances and steam boilers)"
+   },
+   {
+    "text": "تیزکردن انواع چاقو قیچی وماشینهای",
+    "lang": "fa",
+    "latin": "Tiz kardan-e anva'-e chaghu, gheychi va mashinha-ye (sharpening all kinds of knives, scissors and ...)"
+   },
+   {
+    "text": "ریش تراش",
+    "lang": "fa",
+    "latin": "rish-tarash (shavers)"
+   },
+   {
+    "text": "تلفن ۶۲۲۲۷۵۹",
+    "lang": "fa",
+    "latin": "Telefon 6222759"
+   }
+  ],
+  "expect": {
+   "query": "خدمات فنی روستایی",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Hanging shop sign under a bazaar vault in Yazd, seen from below at an angle; name in red, services in blue-black, a hair clipper (MOSER) picture and red arrow at left. Phone number in Persian digits ۶۲۲۲۷۵۹ sits on the same physical row as 'تلفن' and 'ریش تراش'. A wire crosses the lower text. Words are run together as painted (تعمیرلوازم, ودیگهای, وماشینهای)."
+ },
+ "c94989822": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Arab",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "مسجدشیخ الاسلام",
+    "lang": "fa",
+    "latin": "Masjed-e Sheykh-ol-Eslam (Sheikh al-Islam Mosque)"
+   },
+   {
+    "text": "MOSQUE-SHEKHOLESLAM",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Sheikh al-Islam Mosque",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Green tourist direction blade with a mosque-dome pictogram, Isfahan. Persian has no space between مسجد and شیخ. English spelling on the sign is SHEKHOLESLAM (no 'i'). Sport-shop billboard below is a distractor."
+ },
+ "c94990814": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Arab",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "کوچه",
+    "lang": "fa",
+    "latin": "Kucheh (alley)"
+   },
+   {
+    "text": "شیخ الاسلام",
+    "lang": "fa",
+    "latin": "Sheykh-ol-Eslam"
+   },
+   {
+    "text": "SHEIKHOLESLAM ALLEY",
+    "lang": "en"
+   },
+   {
+    "text": "منطقه ۳",
+    "lang": "fa",
+    "latin": "Mantaqeh 3 (District 3)"
+   }
+  ],
+  "expect": {
+   "query": "Sheikholeslam Alley",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Standard Isfahan white alley plate with orange rails; the Persian name is letter-spaced (شیخ الا سلا م look) but reads شیخ الاسلام. District number uses Persian digit ۳. Blue square at right is blank (no house number)."
+ }
+}

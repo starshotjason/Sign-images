@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/165103/29/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMy5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE3LzUvMi9wcm9jLzE2NTEwM19hYzA4OV81OTA4ODg1MDBhYTdkLmpwZw",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "Bogdan Andrei",
+  "credit_as_published": "KartaView user Bogdan Andrei (user id 64); © KartaView contributors",
+  "title": "KartaView photo 31134986, sequence 165103 #29 (Bratislava, 2017-05-01)",
+  "description": "Street-level picture on KartaView, taken 2017-05-01 near Bratislava by Bogdan Andrei, sequence 165103, heading 117.28. OCR (PP-OCRv3) read: stavkova kancelaria | PRiSTAV | PASSENGERPORT | EKOTOP22.-26.5.2017 | ENVIRO | TYNAPREDA",
+  "date": "2017-05-01",
+  "categories": [],
+  "camera_location": [
+    48.144588,
+    17.112714
+  ],
+  "found_by": "kartaview-ocr:Bratislava",
+  "bytes": 810113,
+  "width": 3264,
+  "height": 2448,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMy5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE3LzUvMi9wcm9jLzE2NTEwM19hYzA4OV81OTA4ODg1MDBhYTdkLmpwZw",
+  "derivative": "whole 3264x2448 full-size processed (blurred) picture as served by the KartaView CDN (byte-identical; the service blurs faces and number plates), not cropped"
+}

@@ -1,0 +1,42 @@
+{
+  "source": "flickr",
+  "source_url": "https://www.flickr.com/photos/20462444@N00/34520848094",
+  "original_url": "https://live.staticflickr.com/4277/34520848094_b2f2f8de22_o.jpg",
+  "license_as_published": "CC BY-SA 2.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/2.0/",
+  "author_as_published": "cyanocorax",
+  "credit_as_published": "\"Blue Frog Cafe\" by cyanocorax is licensed under CC BY-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.0/.",
+  "title": "Blue Frog Cafe",
+  "description": "",
+  "date": "",
+  "categories": [
+    "countyclare",
+    "ennistymon",
+    "ireland",
+    "irish",
+    "red",
+    "roadsigns",
+    "signs",
+    "storefront",
+    "turquoise",
+    "village",
+    "white"
+  ],
+  "camera_location": null,
+  "found_by": "openverse:Ireland storefront",
+  "bytes": 3126607,
+  "width": 4608,
+  "height": 3456,
+  "downloaded_url": "https://live.staticflickr.com/4277/34520848094_b2f2f8de22_o.jpg",
+  "derivative": "",
+  "flickr": {
+    "flickr_url": "https://www.flickr.com/photos/20462444@N00/34520848094",
+    "flickr_license": "CC BY-SA 2.0",
+    "lat": null,
+    "lon": null,
+    "original_url": "https://live.staticflickr.com/4277/34520848094_b2f2f8de22_o.jpg",
+    "flickr_license_code": 5,
+    "retrieved": "2026-11-06T14:33:34.526999+00:00"
+  },
+  "openverse_id": "92470b9c-05fc-4683-b9bc-bf3753151d96"
+}

@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.mapcomplete.org/#focus=pic&pic=d6dde1fa-e867-41de-a7b9-83974961ba01",
+  "original_url": "https://panoramax.mapcomplete.org/permanent/d6/dd/e1/fa/e867-41de-a7b9-83974961ba01.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "mapcomplete",
+  "credit_as_published": "Panoramax, instance mapcomplete (https://panoramax.mapcomplete.org)",
+  "title": "Panoramax picture d6dde1fa-e867-41de-a7b9-83974961ba01 (Pristina, 2023-09-13)",
+  "description": "Street-level picture on Panoramax, taken 2023-09-13 near Pristina by mapcomplete, sequence 1de6f4a1-73ac-4c75-ab7f-2a2aabddf50a, heading None. OCR (PP-OCRv3) read: Oeshmia | Mulla Hamit Bytyqh",
+  "date": "2023-09-13",
+  "categories": [],
+  "camera_location": [
+    42.6670828,
+    21.1700148
+  ],
+  "found_by": "panoramax-ocr:Pristina",
+  "bytes": 1016536,
+  "width": 3500,
+  "height": 2636,
+  "downloaded_url": "https://panoramax.mapcomplete.org/permanent/d6/dd/e1/fa/e867-41de-a7b9-83974961ba01.jpg",
+  "derivative": "whole 3500x2636 HD picture as served by the Panoramax instance (byte-identical; the service blurs faces and number plates), not cropped"
+}

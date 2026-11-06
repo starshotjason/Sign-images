@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.mapcomplete.org/#focus=pic&pic=a36f42ac-816c-4de1-8f70-3f88bf1fb80b",
+  "original_url": "https://panoramax.mapcomplete.org/permanent/a3/6f/42/ac/816c-4de1-8f70-3f88bf1fb80b.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "mapcomplete",
+  "credit_as_published": "Panoramax, instance mapcomplete (https://panoramax.mapcomplete.org)",
+  "title": "Panoramax picture a36f42ac-816c-4de1-8f70-3f88bf1fb80b (Madrid, 2026-06-08)",
+  "description": "Street-level picture on Panoramax, taken 2026-06-08 near Madrid by mapcomplete, sequence a7cf963f-8d1c-4bac-9717-e3149f5f9fff, heading 204. OCR (PP-OCRv3) read: TIERRA",
+  "date": "2026-06-08",
+  "categories": [],
+  "camera_location": [
+    40.416004391,
+    -3.70235877
+  ],
+  "found_by": "panoramax-ocr:Madrid",
+  "bytes": 2695484,
+  "width": 2898,
+  "height": 2173,
+  "downloaded_url": "https://panoramax.mapcomplete.org/permanent/a3/6f/42/ac/816c-4de1-8f70-3f88bf1fb80b.jpg",
+  "derivative": "crop 248,471,3146,2644 of the 4032x3024 HD picture"
+}

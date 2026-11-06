@@ -1,0 +1,150 @@
+{
+  "c58931539": {
+    "accept": false,
+    "reason": "wrong country: embassy plaque of Guinea-Bissau in Berlin, Germany"
+  },
+  "c64050613": {
+    "accept": false,
+    "reason": "beer advertising billboard (Djumbai); pure advert"
+  },
+  "c77179610": {
+    "accept": false,
+    "reason": "public-health campaign billboard in Kriol (trachoma); slogans, no place name"
+  },
+  "c93474637": {
+    "accept": false,
+    "reason": "beer advertising plate ('PAMPA A CERVEJA RAINHA'); pure advert"
+  },
+  "c29234938": {
+    "accept": true,
+    "reason": "",
+    "kind": "hard",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "MINGOS",
+        "lang": "pt"
+      }
+    ],
+    "expect": {
+      "query": "São Domingos",
+      "type": "place"
+    },
+    "difficulty": "hard",
+    "notes": "Battered town-name plate under a 50 speed-limit roundel at São Domingos; the left part of the plate is broken/hidden so only 'MINGOS' (first M partly) is visible. The '50' is a distractor."
+  },
+  "c29235122": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "AVENIDA",
+        "lang": "pt"
+      },
+      {
+        "text": "CIDADE",
+        "lang": "pt"
+      },
+      {
+        "text": "DE",
+        "lang": "pt"
+      },
+      {
+        "text": "LISBOA",
+        "lang": "pt"
+      },
+      {
+        "text": "MAIO — 1983",
+        "lang": "pt"
+      }
+    ],
+    "expect": {
+      "query": "Avenida Cidade de Lisboa",
+      "type": "street"
+    },
+    "difficulty": "medium",
+    "notes": "White marble street plate on a red corner pillar, Bissau; moderately small in frame. The small date line has a long dash between 'MAIO' and '1983'."
+  },
+  "c29235161": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "PLUBA",
+        "lang": "pt"
+      }
+    ],
+    "expect": {
+      "query": "Pluba",
+      "type": "place"
+    },
+    "difficulty": "easy",
+    "notes": "Red-bordered village entry sign on two posts beside the road."
+  },
+  "c64329798": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "14 NOVEMBRO",
+        "lang": "pt"
+      },
+      {
+        "text": "SECTOR: BOLAMA",
+        "lang": "pt"
+      },
+      {
+        "text": "REGIÃO: BOLAMA",
+        "lang": "pt"
+      }
+    ],
+    "expect": {
+      "query": "Bolama",
+      "type": "place"
+    },
+    "difficulty": "medium",
+    "notes": "Neighbourhood board ('14 Novembro', Bolama) certifying it open-defecation free; the ODF logo text ('ODF LIVRE DE FECALISMO A CEU ABERTO') and partner logos (UE, unicef, AMI, PKT) are distractors. Painted 'Bar Funcionário' and 'Coca-Cola' on the wall behind are distractors. Alternative query: 'Avenida 14 de Novembro'."
+  },
+  "c77028523": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "CIDADE",
+        "lang": "pt"
+      },
+      {
+        "text": "BISSAU",
+        "lang": "pt"
+      },
+      {
+        "text": "154Km",
+        "lang": "pt"
+      }
+    ],
+    "expect": {
+      "query": "Bissau",
+      "type": "place"
+    },
+    "difficulty": "easy",
+    "notes": "Blue direction sign in Bafatá: 'CIDADE' (old town) straight ahead, 'BISSAU 154Km' to the left. A lens flare crosses the right side."
+  }
+}

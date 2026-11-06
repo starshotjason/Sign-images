@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/2194066/492/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMC81LzQvcHJvYy8yMTk0MDY2XzlfNmU5YjNfNDMuanBn",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "pik-pantita",
+  "credit_as_published": "KartaView user pik-pantita (user id 33342); © KartaView contributors",
+  "title": "KartaView photo 672805570, sequence 2194066 #492 (Phuket, 2020-05-03)",
+  "description": "Street-level picture on KartaView, taken 2020-05-03 near Phuket by pik-pantita, sequence 2194066, heading 0. OCR (PP-OCRv3) read: [unread] UinhShninSunn | DUCKY CUIZ",
+  "date": "2020-05-03",
+  "categories": [],
+  "camera_location": [
+    7.885052,
+    98.390728
+  ],
+  "found_by": "kartaview-ocr:Phuket",
+  "bytes": 235798,
+  "width": 1920,
+  "height": 1080,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMC81LzQvcHJvYy8yMTk0MDY2XzlfNmU5YjNfNDMuanBn",
+  "derivative": "whole 1920x1080 full-size processed (blurred) picture as served by the KartaView CDN (byte-identical; the service blurs faces and number plates), not cropped"
+}

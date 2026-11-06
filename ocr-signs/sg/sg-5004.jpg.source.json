@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/1382870/2806/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTEub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAxOS80LzIyL3Byb2MvMTM4Mjg3MF82ZWFhNl8yODA2LmpwZw",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "grabsg",
+  "credit_as_published": "KartaView user grabsg (user id 15255); © KartaView contributors",
+  "title": "KartaView photo 392118806, sequence 1382870 #2806 (Singapore, 2019-03-22)",
+  "description": "Street-level picture on KartaView, taken 2019-03-22 near Singapore by grabsg, sequence 1382870, heading 9. OCR (PP-OCRv3) read: ESPLANATE | RAFFLES:CITY | 430 | SUNTEC CITY | MARINA SQUARE | MILLENIA SPORE | SPORE FLYER | 114",
+  "date": "2019-03-22",
+  "categories": [],
+  "camera_location": [
+    1.289123,
+    103.854279
+  ],
+  "found_by": "kartaview-ocr:Singapore",
+  "bytes": 341907,
+  "width": 1200,
+  "height": 900,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTEub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAxOS80LzIyL3Byb2MvMTM4Mjg3MF82ZWFhNl8yODA2LmpwZw",
+  "derivative": "crop 874,484,2074,1384 of the 3072x1728 full-size processed (blurred) picture"
+}

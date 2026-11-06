@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/8596057/87/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyNC8zLzI2L3Byb2MvODU5NjA1N184ODhiZmE4OGQ0YTA0MDg0N2JlYmRmM2ZhNGM1MzQ4My5qcGc",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "kevin-eduard-chavez",
+  "credit_as_published": "KartaView user kevin-eduard-chavez (user id 202425); © KartaView contributors",
+  "title": "KartaView photo 1926817545, sequence 8596057 #87 (Santa Cruz BO, 2024-03-26)",
+  "description": "Street-level picture on KartaView, taken 2024-03-26 near Santa Cruz BO by kevin-eduard-chavez, sequence 8596057, heading 169.22. OCR (PP-OCRv3) read: DR ROOULO H RRERA",
+  "date": "2024-03-26",
+  "categories": [],
+  "camera_location": [
+    -17.783112,
+    -63.182671
+  ],
+  "found_by": "kartaview-ocr:Santa Cruz BO",
+  "bytes": 642376,
+  "width": 2371,
+  "height": 1778,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyNC8zLzI2L3Byb2MvODU5NjA1N184ODhiZmE4OGQ0YTA0MDg0N2JlYmRmM2ZhNGM1MzQ4My5qcGc",
+  "derivative": "crop 892,0,3263,1778 of the 3264x2448 full-size processed (blurred) picture"
+}

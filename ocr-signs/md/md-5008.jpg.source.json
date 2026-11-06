@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/1381522/96/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTEub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAxOS80LzIxL3Byb2MvMTM4MTUyMl80NWZjYV81Y2QxNGEwNzY2YjlmLmpwZw",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "anatolie-golovco-lightcyphers",
+  "credit_as_published": "KartaView user anatolie-golovco-lightcyphers (user id 13865); © KartaView contributors",
+  "title": "KartaView photo 404443442, sequence 1381522 #96 (Chisinau, 2019-03-11)",
+  "description": "Street-level picture on KartaView, taken 2019-03-11 near Chisinau by anatolie-golovco-lightcyphers, sequence 1381522, heading 44.73. OCR (PP-OCRv3) read: omBank",
+  "date": "2019-03-11",
+  "categories": [],
+  "camera_location": [
+    47.023071,
+    28.833023
+  ],
+  "found_by": "kartaview-ocr:Chisinau",
+  "bytes": 229052,
+  "width": 1200,
+  "height": 900,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTEub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAxOS80LzIxL3Byb2MvMTM4MTUyMl80NWZjYV81Y2QxNGEwNzY2YjlmLmpwZw",
+  "derivative": "crop 2620,1265,3820,2165 of the 4000x3000 full-size processed (blurred) picture"
+}

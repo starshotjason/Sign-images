@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=cc53e317-7ed5-46c0-a9b5-ee4985ba3901",
+  "original_url": "https://panoramax.openstreetmap.fr/images/cc/53/e3/17/7ed5-46c0-a9b5-ee4985ba3901.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "urimsch",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture cc53e317-7ed5-46c0-a9b5-ee4985ba3901 (Tel Aviv, 2025-12-31)",
+  "description": "Street-level picture taken 2025-12-31 near Tel Aviv by urimsch, sequence 04d8fffc-003b-4f0a-8d2c-bd58aba74e3c, heading 264. OCR (PP-OCRv3) read: ULCI XGLIU LNA XIGIL | THEROSHTZIPPOR BIRDWATCHING CENTRE",
+  "date": "2025-12-31",
+  "categories": [],
+  "camera_location": [
+    32.095159936,
+    34.806062467
+  ],
+  "found_by": "panoramax-ocr:Tel Aviv",
+  "bytes": 1102516,
+  "width": 1992,
+  "height": 1494,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/cc/53/e3/17/7ed5-46c0-a9b5-ee4985ba3901.jpg",
+  "derivative": "crop 1629,868,3621,2362 of the 4080x3060 HD picture"
+}

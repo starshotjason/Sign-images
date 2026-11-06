@@ -1,0 +1,438 @@
+{
+  "p2474fe8f94": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "KEM TRỨNG BÀ KHANH",
+        "lang": "vi"
+      },
+      {
+        "text": "Since 1988",
+        "lang": "en"
+      },
+      {
+        "text": "GIỜ MỞ CỬA : 9H - 22H",
+        "lang": "vi"
+      },
+      {
+        "text": "Hotline 098 983 6336 / 090 414 8330",
+        "lang": "vi"
+      },
+      {
+        "text": "55B Hai Bà Trưng",
+        "lang": "vi"
+      }
+    ],
+    "expect": {
+      "query": "Kem Trứng Bà Khanh",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Egg-cream shop fascia, Hanoi; address line gives house number 55 with superscript B and street Hai Bà Trưng (could also serve as an addr query '55B Hai Bà Trưng'). A second, partly hidden copy of the sign is on the fence below. Distractors: 'Ô DUY HÀO' umbrellas, 'Pariskitchen 55B HAI BÀ TRƯNG' and 'NAMANH L...' signs at right, small HanoiAnh Leather plate."
+  },
+  "p0b4e7de879": {
+    "accept": true,
+    "reason": "",
+    "kind": "hard",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "NHA KHOA QUỐC TẾ VIỆT",
+        "lang": "vi"
+      }
+    ],
+    "expect": {
+      "query": "Nha khoa Quốc tế Việt Đức",
+      "type": "poi"
+    },
+    "difficulty": "hard",
+    "notes": "Fascia of a dental clinic on Hai Bà Trưng, Hanoi, from across the street. The last word is partly hidden by a lamp-post: only 'Đ' and 'C' are visible, the middle letter is not transcribed; the query completes it from the English line above ('VIETDUC INTERNATIONAL DENTAL CENTRE', itself partly hidden). Small yellow band ('TRUNG TÂM THẨM MỸ RĂNG - HÀM - MẶT', address 84A Hai Bà Trưng) too small to transcribe reliably. Many distractors: THÀNH LONG 04R tyre shop, ROCKET, MỘT BUỔI SÁNG, EStudio, 'CÔNG TY DỊCH...'."
+  },
+  "p66a7408e1e": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "PHỐ ẨM THỰC",
+        "lang": "vi"
+      },
+      {
+        "text": "TỐNG DUY TÂN",
+        "lang": "vi"
+      }
+    ],
+    "expect": {
+      "query": "Tống Duy Tân",
+      "type": "street"
+    },
+    "difficulty": "medium",
+    "notes": "Night shot of the gateway to the Tống Duy Tân food street, Hanoi: red light box under the gate. The sign as written has an acute tone 'TỐNG' (the official street name is Tống Duy Tân with a hook-tilde/ngã); transcribed exactly as painted. The gate beam above repeats 'PHỐ ẨM THỰC'. Distractors: Coca-Cola 'FOODMA...' box, '333 PILSNER EXTRA SMOOTH' banner, menu boards."
+  },
+  "p3101ddc6a2": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "GARDEN HOUSE",
+        "lang": "en"
+      },
+      {
+        "text": "Rau má Mix",
+        "lang": "vi"
+      }
+    ],
+    "expect": {
+      "query": "Rau Má Mix",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Drinks shop sign in Hanoi (Đống Đa); a lamp-post crosses the 'R'. 'Mix' is in a decorative script. Small address/phone lines too small to transcribe. Distractors: 'SHINCARE LIVER' billboard, 'mobifone TUẤN NGHĨA' sign, viettel, 'Thiên An', 'KÍNH MẮT VIỆT TI...' (cut), 'RAU MÁ - TRÀ T... CÂY TƯƠI - NƯỚC DỪA' strip."
+  },
+  "p4a37dd550a": {
+    "accept": true,
+    "reason": "",
+    "kind": "hard",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "AM PATE",
+        "lang": "vi"
+      },
+      {
+        "text": "THỬ LÀ MÊ",
+        "lang": "vi"
+      },
+      {
+        "text": "Cà phê - Sinh tố - Nước hoa quả",
+        "lang": "vi"
+      }
+    ],
+    "expect": {
+      "query": "Kam Pate",
+      "type": "poi"
+    },
+    "difficulty": "hard",
+    "notes": "Yellow café/bánh mì fascia on Thợ Nhuộm, Hanoi. The first letter of the name is hidden by leaves (source OCR and the round logo suggest 'KAM'), so only 'AM PATE' is transcribed. Phone 092 808 1998 and small address line not targeted. Distractors: 'BELLUCCI TAILOR' (partly hidden), 'SHOP TÓC GIẢ SÀI GÒN', green pharmacy sign."
+  },
+  "pdce6f9b693": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "LOBSTER QUEEN",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Lobster Queen",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Restaurant fascia, Hanoi, steeply angled and slightly motion-blurred; phone number '090.656.93...' cut at the right. Distractors: 'LOBSTER ROLL' poster, window decal 'LOBSTER queen', 'HẦM RƯỢU VANG' sign, one-way traffic sign."
+  },
+  "p51dd204b45": {
+    "accept": false,
+    "reason": "main fascia is blurred out in the source; only a scrolling LED advert with cut-off text remains"
+  },
+  "pfa9ab0e808": {
+    "accept": false,
+    "reason": "drinking-water fountain panel (product/notice text), not a place sign; night shot"
+  },
+  "peeea920d86": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "LET'S PIZZA",
+        "lang": "en"
+      },
+      {
+        "text": "PIZZA, STEAK & PASTA",
+        "lang": "en"
+      },
+      {
+        "text": "15 LÊ DUẨN - P.CỬA NAM - Q. HOÀN KIẾM",
+        "lang": "vi"
+      }
+    ],
+    "expect": {
+      "query": "Let's Pizza",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Hanoi. Raised green/red letters over a green panel; white address strip with location pin (house number, street, ward Cửa Nam, district Hoàn Kiếm). Distractors: yellow 'Dán cường lực 10K' sign at left, menu posters ('HEALTHY COMBO', 'GET GO COMBO'), '17 LÊ DUẨN' plate next door, 'mama CHOCOLATE' sign at right."
+  },
+  "p295ef85429": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "BỆNH VIỆN PHỤ SẢN TRUNG ƯƠNG",
+        "lang": "vi"
+      }
+    ],
+    "expect": {
+      "query": "Bệnh viện Phụ sản Trung ương",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Blue channel letters on the dark gate canopy of the National Hospital of Obstetrics and Gynecology, Hanoi; round logo at right. The round emblem at left repeats the name in tiny text; the inner banner is illegible. Faces blurred."
+  },
+  "k2620126036": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "TABLET - PHỤ KIỆN",
+        "lang": "vi"
+      },
+      {
+        "text": "thegioididong",
+        "lang": "vi"
+      },
+      {
+        "text": ".com",
+        "lang": "en"
+      },
+      {
+        "text": "BÁN TRẢ GÓP",
+        "lang": "vi"
+      }
+    ],
+    "expect": {
+      "query": "Thế Giới Di Động",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Hanoi phone/laptop chain store; brand written unaccented as 'thegioididong' (Thế Giới Di Động). Fisheye panorama crop, slight curvature. Distractors: window posters ('TRUNG TÂM LAPTOP CHÍNH HÃNG', 'HỖ TRỢ THU CŨ - ĐỔI MỚI'), 'SIM CARD', 'GARMIN', 'MONEY EXCHANGE / BEST PRICE TOUR / SIM CARD' lightbox."
+  },
+  "f0c85d5b5-ca54-4b3c-bcbd-0159301f7c23": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "Thịt Cầy",
+        "lang": "vi"
+      },
+      {
+        "text": "Thành Bắc",
+        "lang": "vi"
+      },
+      {
+        "text": "KÍNH MỜI !",
+        "lang": "vi"
+      }
+    ],
+    "expect": {
+      "query": "Thịt Cầy Thành Bắc",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Hand-painted blue script on a grey-green metal A-board, Hội An (eatery serving dog meat; 'Kính mời' = 'you are welcome'). In the background a blue street plate 'ĐƯỜNG / ĐỖ ĐĂNG TUYỂN' is a small secondary target/distractor."
+  },
+  "f6cda8454-efc2-465e-94f0-03cfc66e271f": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "MIU MIU",
+        "lang": "vi"
+      },
+      {
+        "text": "BÁN BUÔN - BÁN LẺ",
+        "lang": "vi"
+      },
+      {
+        "text": "50 Hàng Cân",
+        "lang": "vi"
+      }
+    ],
+    "expect": {
+      "query": "50 Hàng Cân",
+      "type": "addr"
+    },
+    "difficulty": "medium",
+    "notes": "Night, Hanoi Old Quarter clothing shop; green lightbox with red 'MIU MIU' letters (wholesale - retail) and house address. Distractors: green banner 'KHAI TRƯƠNG GIẢM GIÁ CÓ QUÀ TẶNG / BÁN BUÔN - BÁN LẺ', neighbouring 'MAI HOA' and red 'Ro… / 48 Hàng Cân' signs. People sitting on the step are incidental."
+  },
+  "face11a53-6f59-4e5c-9635-5e76937d5db9": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "Kim Lai",
+        "lang": "vi"
+      },
+      {
+        "text": "Coffee",
+        "lang": "en"
+      },
+      {
+        "text": "99 Hàng Buồm, HK, Hà Nội",
+        "lang": "vi"
+      }
+    ],
+    "expect": {
+      "query": "Kim Lai Coffee",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Hanoi Old Quarter coffee shop; outline-script 'Kim Lai' on a dark fascia, repeated on a second panel at right. Phone/web/email lines and the 'kopi luwak - chồn - ...' product line are small and partly illegible, not transcribed; a small top line is unreadable. Distractors: 'Shop Bình An 95 Hàng Buồm' and 'BÁNH KẸO - ĐỒ HỘP CAO CẤP' at left, a menu board in the middle."
+  },
+  "f8246c56e-d458-46f1-8773-96b48501435d": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "HỢP TÁC XÃ MAY KHIÊM THÀNH",
+        "lang": "vi"
+      },
+      {
+        "text": "MACR JACOSB",
+        "lang": "en"
+      },
+      {
+        "text": "& MORES",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Macr Jacosb",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Hanoi Old Quarter knock-off fashion shop; the brand is deliberately misspelt 'MACR JACOSB' (final B written mirrored on the sign). Top line = Khiêm Thành tailoring cooperative. Overhead wires cross the sign. Distractors: '24 … A Đông GALLERY', 'BIG SALE' window, pedestrian-crossing sign, 'hoàng …' shop at right; tourist with camera incidental."
+  },
+  "ffb3dcef1-0937-4d44-b604-dc047ef2cfab": {
+    "accept": true,
+    "reason": "",
+    "kind": "hard",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "CHẢ CÁ Lã Vọng",
+        "lang": "vi"
+      }
+    ],
+    "expect": {
+      "query": "Chả Cá Lã Vọng",
+      "type": "poi"
+    },
+    "difficulty": "hard",
+    "notes": "Night, Hanoi: small wooden-framed gold sign at left of the entrance, house number 14 below it; the small address/phone line under the name ('14 Chả Cá …') is not legible. Second sign 'LÃ VỌNG' (partly covered by a ribbon) and 'GRILLED FISH Restaurant' sign at right; vertical 'CHẢ CÁ LÃ VỌNG' banner on the left pillar."
+  },
+  "f4d635a9a-350c-4373-b34e-8b24b6de68b2": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "Đường",
+        "lang": "vi"
+      },
+      {
+        "text": "ĐỒNG KHỞI",
+        "lang": "vi"
+      }
+    ],
+    "expect": {
+      "query": "Đồng Khởi",
+      "type": "street"
+    },
+    "difficulty": "medium",
+    "notes": "Ho Chi Minh City blue street plate on a red-and-white pole, photo tilted about 30 degrees with vignette filter. Second plate at right 'ĐƯỜNG / HỒ HUẤN NGHIỆP' is a crossing-street distractor (first letter partly hidden by the bracket)."
+  },
+  "pc6430c0645": {
+    "accept": false,
+    "reason": "wide building view with many small signs and a slogan banner; no single main sign"
+  },
+  "k1973495993": {
+    "accept": false,
+    "reason": "vehicle branding (SaigonBus)"
+  },
+  "k1973496153": {
+    "accept": false,
+    "reason": "vehicle branding and number plate on a bus rear"
+  },
+  "p672b205247": {
+    "accept": false,
+    "reason": "generic 'THÔNG TIN - INFORMATION / TICKET OFFICE' kiosk sign with no place name"
+  },
+  "f120f100e-c937-4a81-9ae0-fafe7122215d": {
+    "accept": false,
+    "reason": "lantern display; only a house number and a 'SCARF' tag"
+  },
+  "f938136d0-24bc-4112-bf3a-3b108c8752af": {
+    "accept": false,
+    "reason": "lantern display; shop sign hidden behind awning and lanterns"
+  },
+  "f192be10c-90a7-41cb-86f7-f724683ca703": {
+    "accept": false,
+    "reason": "night shop display; small name sign cut by a lantern and the tone mark in the address not resolvable"
+  },
+  "f7d43f6c0-9dc0-45fb-ac2d-7a4b97d36ac8": {
+    "accept": false,
+    "reason": "cluster of LED sample signs at a sign-maker; no single main sign"
+  },
+  "f80b7f47f-3134-4853-8379-e45ffe800709": {
+    "accept": false,
+    "reason": "bags of pigment; no sign"
+  },
+  "f14accb20-1b33-4d9d-82ef-a4bd39922b86": {
+    "accept": false,
+    "reason": "generic 'BĂNG ĐĨA NHẠC' (tapes/discs) sign with the name cut off; street vendors are the subject"
+  }
+}

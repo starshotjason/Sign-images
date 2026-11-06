@@ -1,0 +1,501 @@
+{
+  "pfc8fb26c30": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "JALAN PETALING",
+        "lang": "ms"
+      },
+      {
+        "text": "PETALING STREET",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Jalan Petaling",
+      "type": "street"
+    },
+    "difficulty": "medium",
+    "notes": "Night shot of the Petaling Street (Chinatown) gateway, Kuala Lumpur, DBKL crests either side. Between the two Latin lines is a Chinese line read right-to-left: '茨 ? 街' (Chee Cheong Kai) whose middle character is blurred out in the source image, so it is not transcribed. Distractors: 'SELAMAT DATANG · WELCOME · 欢迎光临 · நல்வரவு' hawkers' association banner, 'Happy Chinese New Year' banner, 'Sayangi Kuala Lumpur' panel, vertical Chinese couplets on the pillars."
+  },
+  "p51401f3cf3": {
+    "accept": true,
+    "reason": "",
+    "kind": "bilingual",
+    "scripts": [
+      "Latn",
+      "Taml"
+    ],
+    "lines": [
+      {
+        "text": "SELAMAT DATANG KE \"LITTLE INDIA\"",
+        "lang": "ms"
+      },
+      {
+        "text": "லிட்டில் இந்தியா உங்களை வரவேற்கிறது",
+        "lang": "ta",
+        "latin": "Littil Intiyā uṅkaḷai varavēṟkiṟatu (Little India welcomes you)"
+      }
+    ],
+    "expect": {
+      "query": "Little India",
+      "type": "place"
+    },
+    "difficulty": "medium",
+    "notes": "Welcome arch to Little India (Brickfields), Kuala Lumpur, seen at an angle; Malay line on the arch beam, Tamil line on the hanging panel below. The place name is in quotes on the sign."
+  },
+  "p118e3b9818": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "KEDAI CENDERAHATI",
+        "lang": "ms"
+      },
+      {
+        "text": "I KL GIFTS",
+        "lang": "en"
+      },
+      {
+        "text": "MALAYSIA",
+        "lang": "ms"
+      }
+    ],
+    "expect": {
+      "query": "KL Gifts",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Souvenir-shop fascia, Kuala Lumpur (Bukit Bintang area). Between 'I' and 'KL' is a red heart graphic (not a character). Small licence/owner lines at right ('DBKL...', 'Dimiliki oleh: ... Enterprise ...') are too small to transcribe exactly. A smaller 'I ♥ KL GIFTS' sign inside the shop is a duplicate."
+  },
+  "p9d32368f67": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Hani",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "圣德华文小学",
+        "lang": "zh",
+        "latin": "Shengde Huawen Xiaoxue (St. Teresa Chinese Primary School)"
+      },
+      {
+        "text": "SJK (C) St. Teresa",
+        "lang": "ms"
+      },
+      {
+        "text": "Brickfields Kuala Lumpur",
+        "lang": "ms"
+      }
+    ],
+    "expect": {
+      "query": "SJK (C) St. Teresa",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Dark-blue school direction sign with crest and right arrow, Little India Brickfields. Orange 'Riveria City / Galeri Jualan' arrow sign next to it is a second (sales-gallery) target; shop signs (SKIN STUDIO, KLINIK PERGIGIAN BALA DENTAL SURGERY, Mangala Theebam, NESBUAN TRAVEL) are distractors."
+  },
+  "k605082282": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "Wisma Persekutuan",
+        "lang": "ms"
+      },
+      {
+        "text": "Masjid Abu Bakar",
+        "lang": "ms"
+      },
+      {
+        "text": "Amari Johor Bahru",
+        "lang": "en"
+      },
+      {
+        "text": "Zenith Lifestyle Centre",
+        "lang": "en"
+      },
+      {
+        "text": "Suasana Suites",
+        "lang": "en"
+      },
+      {
+        "text": "Menara Landmark",
+        "lang": "ms"
+      },
+      {
+        "text": "Double Tree by Hilton",
+        "lang": "en"
+      },
+      {
+        "text": "Pusat Bandaraya",
+        "lang": "ms"
+      },
+      {
+        "text": "Woodlands",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Masjid Abu Bakar",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Johor Bahru blue direction sign (left / right panels). Top orange line '… Gertak Merah' has its first word hidden by foliage and the bottom orange line ('Jalan Tun Razak'?) is too blurred, so both are left out; 'Wisma' is partly obscured. Dashcam through a smeared windscreen."
+  },
+  "pf58ced5619": {
+    "accept": true,
+    "reason": "",
+    "kind": "transit",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "KL Sentral - red ONE",
+        "lang": "en"
+      },
+      {
+        "text": "KJ15",
+        "lang": "und"
+      }
+    ],
+    "expect": {
+      "query": "KL Sentral",
+      "type": "stop"
+    },
+    "difficulty": "hard",
+    "notes": "Small red LRT platform name plate (Kelana Jaya line, station code KJ15) at the far end of the platform, behind a motion-blurred train; tiny bottom line illegible. Large yellow 'DILARANG MELINTAS TREK / DO NOT CROSS TRACK … BAHAYA DANGER … VOLTAN TINGGI' warning signs are distractors."
+  },
+  "p280102cb76": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "HABIBI",
+        "lang": "en"
+      },
+      {
+        "text": "Juice",
+        "lang": "en"
+      },
+      {
+        "text": "HABIBI JUICE",
+        "lang": "en"
+      },
+      {
+        "text": "PaPu Kanafa",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Habibi Juice",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Bukit Bintang corner: upper wooden fascia with juice-cup logo 'HABIBI Juice', lower white band 'HABIBI JUICE … PaPu Kanafa' (first letter of HABIBI cut at the left edge). Distractors: 'LALUAN SEHALA' one-way sign, HSBC tower, 'KK SUPER MART 24 JAM', 'M+ Global' signs, Chinese travel billboard, Maybank."
+  },
+  "pc52397652a": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "OURNAMI'S",
+        "lang": "en"
+      },
+      {
+        "text": "JEWELS",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Pournami's Jewels",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Gold letters on black fascia, Brickfields; the leading 'P' is cut by the left frame edge (the shop window below reads 'POURNA…'), so the query restores it. Distractors: 'BBC Brickfields Business Community', 'RESTORAN CHAT MASALA', 'KLINIK PERGIGIAN BALA DENTAL SURGERY', 'NEDESH VIDEO CREATION SDN BHD', the Riveria City sign far right."
+  },
+  "k522009541": {
+    "accept": true,
+    "reason": "",
+    "kind": "hard",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "PICOMS",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "PICOMS",
+      "type": "poi"
+    },
+    "difficulty": "hard",
+    "notes": "Purple college logo-letters on a bus-shelter roof, Kuala Lumpur, seen past traffic; the O is a white emblem. 'fiztravel' coach livery and 'MERIEL' adverts are distractors."
+  },
+  "f26c44c5b-5bc2-4a91-ad49-74e6d7b1383e": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn",
+      "Taml"
+    ],
+    "lines": [
+      {
+        "text": "NEW MADRAS STORE SDN. BHD.",
+        "lang": "en"
+      },
+      {
+        "text": "நியூ மெட்ராஸ் ஸ்டோர் சென். பெர்ஹாட்",
+        "lang": "ta",
+        "latin": "Niyu Metras Stor Sen. Perhat (New Madras Store Sdn. Bhd.)"
+      }
+    ],
+    "expect": {
+      "query": "New Madras Store",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Red fascia over a sari shop, Kuala Lumpur (Masjid India area). Small 'OCEAN OF SAREES' lotus logo at left and 'DIMILIKI OLEH : NEW MADRAS STORE SDN BHD (1196942-X)' small print at right. Person standing in the doorway is incidental."
+  },
+  "fe119c2a7-1181-4347-b91f-a0a21704da61": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "KEDAI PAJAK GADAI",
+        "lang": "ms"
+      },
+      {
+        "text": "PAJAK GADAI THOONG HENG SDN. BHD.",
+        "lang": "ms"
+      },
+      {
+        "text": "PAWN SHOP",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Pajak Gadai Thoong Heng",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Brown pawnshop fascia, Kuala Lumpur; tiny registration number at right not transcribed. Neighbouring green 'KAPITAL EMAS JAYA SDN. BHD.' sign at left is a second business sign / distractor."
+  },
+  "f8a9fab92-a48d-4d54-8456-bf4b2ec4f4d0": {
+    "accept": true,
+    "reason": "",
+    "kind": "hard",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "WEI HIN WATCH DEALER",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Wei Hin Watch Dealer",
+      "type": "poi"
+    },
+    "difficulty": "hard",
+    "notes": "Night shot of a shophouse row in Kuching; red fascia at right. The Chinese line above the English (5 characters, ending 鐘錶行 'watch shop') is too soft to transcribe exactly. Other shutters ('Ark Enter…', 'Zuraiden…', 'ARIKA') are distractors."
+  },
+  "fe54b426d-58d0-435c-987a-cc0fb3bfdc24": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn",
+      "Hani"
+    ],
+    "lines": [
+      {
+        "text": "B PLATFORM",
+        "lang": "en"
+      },
+      {
+        "text": "Viewing Time : 观看时间",
+        "lang": "en"
+      },
+      {
+        "text": "11.30am & 4.30pm",
+        "lang": "und"
+      },
+      {
+        "text": "LABUK BAY PROBOSCIS MONKEY SANCTUARY",
+        "lang": "en"
+      },
+      {
+        "text": "1.1 KM",
+        "lang": "und"
+      }
+    ],
+    "expect": {
+      "query": "Labuk Bay Proboscis Monkey Sanctuary",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Arrow-shaped direction sign near Sandakan, Sabah; sanctuary name runs round the circular monkey logo. 观看时间 = viewing time. The 'Nipah Resort 尼巴休闲度假村 … 3.2 km' banner below is a second direction sign / distractor; palm fronds cross the sign."
+  },
+  "pee4e55fce2": {
+    "accept": true,
+    "reason": "",
+    "kind": "hard",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "louds Convenience Store",
+        "lang": "en"
+      },
+      {
+        "text": "202303010722 (MA0296048-U)",
+        "lang": "und"
+      },
+      {
+        "text": "27, Jalan Pudu Lama, Bukit Bintang,",
+        "lang": "ms"
+      }
+    ],
+    "expect": {
+      "query": "27 Jalan Pudu Lama",
+      "type": "addr"
+    },
+    "difficulty": "hard",
+    "notes": "Indoor paper sign on a glass cabinet in a Bukit Bintang hostel shop. The first letter of the shop name is cut by the cabinet frame (likely 'Clouds', not certain), so the address line is the search target. The postcode/city line below is hidden by reflections. Face blurred."
+  },
+  "k605082162": {
+    "accept": true,
+    "reason": "",
+    "kind": "hard",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "Hertz",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Hertz",
+      "type": "poi"
+    },
+    "difficulty": "hard",
+    "notes": "Small yellow car-rental sign on a post at the right edge, Johor Bahru, dim dashcam frame; a tiny arrow under the name. The blue building sign at top-right is cut off."
+  },
+  "pde290216e9": {
+    "accept": false,
+    "reason": "restaurant menu cover (Adyar Ananda Bhavan), a printed document"
+  },
+  "p3d522b289f": {
+    "accept": false,
+    "reason": "'Malaysia' relief slogan on a flyover; no place name (advert panels blurred)"
+  },
+  "p4e01fc2832": {
+    "accept": false,
+    "reason": "food-truck menu board"
+  },
+  "f041dde3e-659c-4bd1-8329-c606b1aafdf3": {
+    "accept": false,
+    "reason": "near-duplicate of f8a9fab92 (same Kuching shophouse row at night), darker"
+  },
+  "f215f9918-58f0-4c24-acc2-67ec0be3e224": {
+    "accept": false,
+    "reason": "advertising billboards (Jotun paint, condo) over a road junction"
+  },
+  "f30846e91-32a6-4e29-ae65-28ab079d6ee5": {
+    "accept": false,
+    "reason": "photo of a crab; no sign"
+  },
+  "f3f9f83b8-fee7-4671-acd1-e4f05c188a5e": {
+    "accept": false,
+    "reason": "trilingual warning notice; not a place sign"
+  },
+  "f54d2ccb0-78c0-4854-94d3-7b44c0aa8339": {
+    "accept": false,
+    "reason": "shop grille texture; no sign text"
+  },
+  "f59ef1965-39c2-4cd2-9ac8-167432a52d1d": {
+    "accept": false,
+    "reason": "busy street overview; hotel name vertical and cut off, 'BAS SEKOLAH' is vehicle text"
+  },
+  "f5a13b9ee-9a5c-4539-a400-1cfb89e42562": {
+    "accept": false,
+    "reason": "shop grille texture; no sign text"
+  },
+  "f61ec71b2-9942-499d-ab2d-cc199d6115d0": {
+    "accept": false,
+    "reason": "'WORK IN PROGRESS' notice only"
+  },
+  "f6a24f60f-cb46-4a55-ac57-d6fdb0b996cd": {
+    "accept": false,
+    "reason": "close-up of a woodcarver at work; no finished sign"
+  },
+  "f73f54a60-70e1-463a-a29b-0df84768ed3c": {
+    "accept": false,
+    "reason": "wrong country: Mamak restaurant in Haymarket, Sydney (tags newsouthwales/sydney)"
+  },
+  "f7b21e2cd-20a2-41e5-8017-91d68be12112": {
+    "accept": false,
+    "reason": "site map board, not a sign; same sanctuary as accepted fe54b426d"
+  },
+  "fa4c5b335-8c1b-4be0-bd63-37cb21fd2999": {
+    "accept": false,
+    "reason": "shop grille texture; no sign text"
+  },
+  "fac1a8920-81a1-4076-a353-593f9077b72b": {
+    "accept": false,
+    "reason": "shop grille texture; no sign text"
+  },
+  "fc8933bcf-3568-4fa1-94a0-616421c3731c": {
+    "accept": false,
+    "reason": "close-up of a woodcarver sanding; no sign"
+  },
+  "fca3b0b69-4d06-42d8-9543-389f0074fbb2": {
+    "accept": false,
+    "reason": "campus road scene with traffic pictograms only"
+  },
+  "fe42418ce-6d34-4c07-9bca-9a63daec761b": {
+    "accept": false,
+    "reason": "Chinese shop fascia mostly hidden by awning, lanterns and pipes; not legible"
+  },
+  "fee0d4283-d66d-4de2-8894-69a8d569f5d8": {
+    "accept": false,
+    "reason": "hazy duplicate of the Kota Kinabalu billboard junction; adverts only"
+  }
+}

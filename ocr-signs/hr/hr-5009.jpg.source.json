@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.osm-hr.org/#focus=pic&pic=eae5628f-5338-4bb4-a7f8-4ed56a8ab071",
+  "original_url": "https://panoramax.osm-hr.org/permanent/ea/e5/62/8f/5338-4bb4-a7f8-4ed56a8ab071.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "Janjko",
+  "credit_as_published": "Panoramax, instance osm-hr (https://panoramax.osm-hr.org)",
+  "title": "Panoramax picture eae5628f-5338-4bb4-a7f8-4ed56a8ab071 (Zagreb, 2026-07-12)",
+  "description": "Street-level picture on Panoramax, taken 2026-07-12 near Zagreb by Janjko, sequence a716c384-9f60-40c4-9119-939ba8787a0b, heading 0. OCR (PP-OCRv3) read: Lapidarjum | FOCACCINA | FENIKS | Bacerei | Lapidarium | Lapidarium | Lapidarium | AUTONSCINAKIT | hrvatski autorskinakit | personaliziraninakit | nakitrucne izrade",
+  "date": "2026-07-12",
+  "categories": [],
+  "camera_location": [
+    45.8140697,
+    15.9758513
+  ],
+  "found_by": "panoramax-ocr:Zagreb",
+  "bytes": 1876845,
+  "width": 3108,
+  "height": 2268,
+  "downloaded_url": "https://panoramax.osm-hr.org/permanent/ea/e5/62/8f/5338-4bb4-a7f8-4ed56a8ab071.jpg",
+  "derivative": "crop 0,0,3108,2268 of the 4032x2268 HD picture"
+}

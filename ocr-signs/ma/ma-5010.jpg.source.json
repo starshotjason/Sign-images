@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=b21d29a7-4c05-4043-9c5f-19a52c8f13aa",
+  "original_url": "https://panoramax.openstreetmap.fr/images/b2/1d/29/a7/4c05-4043-9c5f-19a52c8f13aa.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "p4n-pics",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture b21d29a7-4c05-4043-9c5f-19a52c8f13aa (Rabat, 2023-05-18)",
+  "description": "Street-level picture taken 2023-05-18 near Rabat by p4n-pics, sequence 3aece1fa-472e-4bf5-b097-26d54daf7169, heading None. OCR (PP-OCRv3) read: FORETNRDAINEIBNSINA",
+  "date": "2023-05-18",
+  "categories": [],
+  "camera_location": [
+    33.99121,
+    -6.838192
+  ],
+  "found_by": "panoramax-ocr:Rabat",
+  "bytes": 275103,
+  "width": 1049,
+  "height": 634,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/b2/1d/29/a7/4c05-4043-9c5f-19a52c8f13aa.jpg",
+  "derivative": "whole 1049x634 HD picture as served by the Panoramax instance (byte-identical; the instance blurs faces and number plates), not cropped"
+}

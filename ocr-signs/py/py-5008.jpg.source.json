@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/11613197/249/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyNS8xMC8yMi9wcm9jLzExNjEzMTk3XzgwOGQzYWRkZTBlMmEyNTY4OTg3ZmE5MmExZGI3OTQ3LmpwZw",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "jorge-riquelme-corvalan",
+  "credit_as_published": "KartaView user jorge-riquelme-corvalan (user id 332724); © KartaView contributors",
+  "title": "KartaView photo 2626487241, sequence 11613197 #249 (Asuncion, 2025-10-22)",
+  "description": "Street-level picture on KartaView, taken 2025-10-22 near Asuncion by jorge-riquelme-corvalan, sequence 11613197, heading 229.84. OCR (PP-OCRv3) read: TAXI | Palma",
+  "date": "2025-10-22",
+  "categories": [],
+  "camera_location": [
+    -25.281501,
+    -57.635564
+  ],
+  "found_by": "kartaview-ocr:Asuncion",
+  "bytes": 493774,
+  "width": 1815,
+  "height": 1361,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyNS8xMC8yMi9wcm9jLzExNjEzMTk3XzgwOGQzYWRkZTBlMmEyNTY4OTg3ZmE5MmExZGI3OTQ3LmpwZw",
+  "derivative": "crop 0,60,1815,1421 of the 3840x2160 full-size processed (blurred) picture"
+}

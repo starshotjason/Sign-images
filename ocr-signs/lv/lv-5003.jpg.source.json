@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.mapcomplete.org/#focus=pic&pic=349cb9a3-2f3a-420d-bf37-525eccd1e340",
+  "original_url": "https://panoramax.mapcomplete.org/permanent/34/9c/b9/a3/2f3a-420d-bf37-525eccd1e340.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "mapcomplete",
+  "credit_as_published": "Panoramax, instance mapcomplete (https://panoramax.mapcomplete.org)",
+  "title": "Panoramax picture 349cb9a3-2f3a-420d-bf37-525eccd1e340 (Riga, 2026-06-16)",
+  "description": "Street-level picture on Panoramax, taken 2026-06-16 near Riga by mapcomplete, sequence a7cf963f-8d1c-4bac-9717-e3149f5f9fff, heading 56. OCR (PP-OCRv3) read: Regs | Autore:levaRubeze | Latvija,2015 | Makslas darbs tapis mecenatu Borisa un Inaras Teterevu | istenotas programmas \"Maksla publiskaja telpa\"ietvaros, | sadarbiba arRigas pilsetu | The Ghost | Artist:levaRubeze | Latvia,2015 | This work of art was created within theframework | ofthe\"Art in the Public Space\"programme implemented | bythephilanthropists Boris and Inara Teterev",
+  "date": "2026-06-16",
+  "categories": [],
+  "camera_location": [
+    56.951325178,
+    24.10791472
+  ],
+  "found_by": "panoramax-ocr:Riga",
+  "bytes": 5728921,
+  "width": 3072,
+  "height": 4080,
+  "downloaded_url": "https://panoramax.mapcomplete.org/permanent/34/9c/b9/a3/2f3a-420d-bf37-525eccd1e340.jpg",
+  "derivative": "whole 3072x4080 HD picture as served by the Panoramax instance (byte-identical; the service blurs faces and number plates), not cropped"
+}

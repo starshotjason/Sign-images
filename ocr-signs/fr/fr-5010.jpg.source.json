@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=25df71a3-b6e5-4176-aec2-7ae79df16587",
+  "original_url": "https://panoramax.openstreetmap.fr/images/25/df/71/a3/b6e5-4176-aec2-7ae79df16587.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "JLZIMMERMANN",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture 25df71a3-b6e5-4176-aec2-7ae79df16587 (Paris, 2016-05-01)",
+  "description": "Street-level picture on Panoramax, taken 2016-05-01 near Paris by JLZIMMERMANN, sequence ecc15a46-07c8-48d8-8133-75e847cce710, heading None. OCR (PP-OCRv3) read: TRAIN | BLEU | Montreux Jazz Cafe | PANC | MONTRE | RELAY | ontreux",
+  "date": "2016-05-01",
+  "categories": [],
+  "camera_location": [
+    48.844794444,
+    2.373794444
+  ],
+  "found_by": "panoramax-ocr:Paris",
+  "bytes": 1190632,
+  "width": 3264,
+  "height": 2448,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/25/df/71/a3/b6e5-4176-aec2-7ae79df16587.jpg",
+  "derivative": "whole 3264x2448 HD picture as served by the Panoramax instance (byte-identical; the service blurs faces and number plates), not cropped"
+}

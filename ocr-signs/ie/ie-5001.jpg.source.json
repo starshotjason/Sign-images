@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.ign.fr/#focus=pic&pic=bc614836-6f8c-4071-8f07-952d76a72976",
+  "original_url": "https://panoramax.ign.fr/api/pictures/bc614836-6f8c-4071-8f07-952d76a72976/hd.jpg",
+  "license_as_published": "etalab-2.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "jg13",
+  "credit_as_published": "Panoramax, instance ign (https://panoramax.ign.fr)",
+  "title": "Panoramax picture bc614836-6f8c-4071-8f07-952d76a72976 (Dublin, 2025-10-10)",
+  "description": "Street-level picture on Panoramax, taken 2025-10-10 near Dublin by jg13, sequence 8d136f7e-d647-4248-a130-99be7c269261, heading 80. OCR (PP-OCRv3) read: BUCKHEY | Excellence | EUROGIANT | FONE CONNECT",
+  "date": "2025-10-10",
+  "categories": [],
+  "camera_location": [
+    53.349539,
+    -6.261859
+  ],
+  "found_by": "panoramax-ocr:Dublin",
+  "bytes": 2129075,
+  "width": 1816,
+  "height": 4032,
+  "downloaded_url": "https://panoramax.ign.fr/api/pictures/bc614836-6f8c-4071-8f07-952d76a72976/hd.jpg",
+  "derivative": "whole 1816x4032 HD picture as served by the Panoramax instance (byte-identical; the service blurs faces and number plates), not cropped"
+}

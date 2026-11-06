@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/1161615/246/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlNy5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE4LzQvNi9wcm9jLzExNjE2MTVfMTQ5NmFfNTUuanBn",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "ConsEbt",
+  "credit_as_published": "KartaView user ConsEbt (user id 2569); © KartaView contributors",
+  "title": "KartaView photo 223403581, sequence 1161615 #246 (Victoria, 2018-04-03)",
+  "description": "Street-level picture on KartaView, taken 2018-04-03 near Victoria by ConsEbt, sequence 1161615, heading 300.33. OCR (PP-OCRv3) read: tenet&Printing Cyber",
+  "date": "2018-04-03",
+  "categories": [],
+  "camera_location": [
+    -4.625448,
+    55.453418
+  ],
+  "found_by": "kartaview-ocr:Victoria",
+  "bytes": 148300,
+  "width": 1200,
+  "height": 900,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlNy5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE4LzQvNi9wcm9jLzExNjE2MTVfMTQ5NmFfNTUuanBn",
+  "derivative": "crop 0,0,1200,900 of the 3840x2160 full-size processed (blurred) picture"
+}

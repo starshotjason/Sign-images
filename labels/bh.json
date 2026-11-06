@@ -1,0 +1,275 @@
+{
+  "c151845080": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "مملكة البحرين",
+        "lang": "ar",
+        "latin": "Mamlakat al-Bahrayn (Kingdom of Bahrain)"
+      },
+      {
+        "text": "KINGDOM OF BAHRAIN",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Bahrain",
+      "type": "place"
+    },
+    "difficulty": "hard",
+    "notes": "Night shot, red illuminated letters on a rough stone pylon with the state coat of arms, at Bahrain International Airport (Awal private lounge entrance). The Arabic is calligraphic with tashkeel (vowel marks) that are not transcribed; base letters only."
+  },
+  "c17492917": {
+    "accept": false,
+    "reason": "handwritten protest placard held by demonstrators; protest content, faces are the subject"
+  },
+  "c26525386": {
+    "accept": false,
+    "reason": "portrait of a person signing a guestbook (Washington, D.C.); no sign, wrong country"
+  },
+  "c69781121": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "طريق اللؤلؤ",
+        "lang": "ar",
+        "latin": "Tariq al-Lu'lu' (Pearl Road)"
+      },
+      {
+        "text": "Pearling Pathway",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Pearling Path",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Arrow-shaped wayfinding plaque for the UNESCO Pearling Path, Muharraq. Slightly soft focus, close and frontal."
+  },
+  "c71326027": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "مركز",
+        "lang": "ar",
+        "latin": "Markaz (Centre)"
+      },
+      {
+        "text": "العلوي العقاري",
+        "lang": "ar",
+        "latin": "al-'Alawi al-'Aqari (Al Alawi Real Estate)"
+      },
+      {
+        "text": "AL ALAWI",
+        "lang": "en"
+      },
+      {
+        "text": "REAL ESTATE CENTRE",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Al Alawi Real Estate Centre",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Target is the small hanging white lightbox at top left-centre, Manama souq street. Tiny TEL/FAX/P.O. BOX line under it not transcribed. Distractors: large yellow 'الحجاب الأبيض / WHITE VEIL' fascia (cut off at the left edge), 'الخواجة للعباءات' and Mustafa Alkunaizi Jewellery signs, mosque behind."
+  },
+  "c71326029": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "سهيل للاكسسوارات",
+        "lang": "ar",
+        "latin": "Suhayl lil-iksiswarat (Sohail accessories)"
+      },
+      {
+        "text": "SOHAIL JEWELLERY",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Sohail Jewellery",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Large yellow shop fascia, Manama souq; slogan lines 'Arabic Style & Indian Style / Silver 925', 'Special Ringmaker' badges and phone numbers not transcribed. Distractors: 'مشير للعطورات' perfume sign at left, AWAIS jewellery, JAMEELA / جميلة, FRESH FRUIT JUICE. Same street as c71326027 but a different target."
+  },
+  "f2cac6421-1c9f-4257-8dda-2b3112a49802": {
+    "accept": false,
+    "reason": "souvenir shop interior with a person; no readable place sign"
+  },
+  "f3a3e6f96-4b4b-4b5a-9030-b52d26831498": {
+    "accept": false,
+    "reason": "group of people at an inauguration cake-cutting; logos on banners only, faces are the subject"
+  },
+  "f706d3585-c7c1-4732-ae8a-aef10ae5db8b": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "مسار اللؤلؤ",
+        "lang": "ar",
+        "latin": "Masar al-Lu'lu' (Pearl Path)"
+      },
+      {
+        "text": "Pearling Path",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Pearling Path",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Wayfinding bollard/delineator on the Pearling Path, Muharraq; text runs vertically (rotated 90 degrees), Arabic and English side by side with black dot ornaments. A second identical bollard in the background. Different sign design and wording (مسار, not طريق) from c69781121."
+  },
+  "f9387ceb2-fecf-4e1d-b635-988c65927fd6": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "SINAN TEXTILES",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Sinan Textiles",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Red illuminated fascia in Manama souq, seen at an angle mid-distance. A small Arabic line above the English and a tagline below are too small to read and are not transcribed. Distractors: SINAN Textiles & Tailoring hanging board, '...LORING / ...ch Coats' sign cut at top left, phone and e-mail text."
+  },
+  "f99893938-a711-4459-ae4e-9a20c70603d4": {
+    "accept": false,
+    "reason": "protest placard; same photo as c17492917"
+  },
+  "fa887c64e-3f29-47f5-9fb6-1eb66d961900": {
+    "accept": false,
+    "reason": "person sampling perfume in a shop; jewellery sign at right is partial and incidental"
+  },
+  "fa99ff797-d436-4230-9328-8294ea39a7dc": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "جنوب",
+        "lang": "ar",
+        "latin": "Janub (South)"
+      },
+      {
+        "text": "المنامة",
+        "lang": "ar",
+        "latin": "al-Manama (Manama)"
+      },
+      {
+        "text": "Manama",
+        "lang": "en"
+      },
+      {
+        "text": "South",
+        "lang": "en"
+      },
+      {
+        "text": "شمال",
+        "lang": "ar",
+        "latin": "Shamal (North)"
+      },
+      {
+        "text": "المنامة",
+        "lang": "ar",
+        "latin": "al-Manama (Manama)"
+      },
+      {
+        "text": "Manama",
+        "lang": "en"
+      },
+      {
+        "text": "North",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Manama",
+      "type": "place"
+    },
+    "difficulty": "easy",
+    "notes": "Green roundabout advance-direction sign beside a road; top block 'جنوب المنامة / Manama South', lower-right block 'شمال المنامة / Manama North', roundabout pictogram in the middle."
+  },
+  "fb52a0653-88f8-41ff-adb7-3890136f9a8f": {
+    "accept": false,
+    "reason": "'BUY 1 GET 1 FREE' sale banner; advertising copy, no place name"
+  },
+  "fbe1f6f6e-6f9a-4399-973e-80707ea28e03": {
+    "accept": true,
+    "reason": "",
+    "kind": "hard",
+    "scripts": [
+      "Arab"
+    ],
+    "lines": [
+      {
+        "text": "ميركيور",
+        "lang": "ar",
+        "latin": "Mirkyur (Mercure)"
+      }
+    ],
+    "expect": {
+      "query": "Mercure Grand Hotel Seef",
+      "type": "poi"
+    },
+    "difficulty": "hard",
+    "notes": "Red Arabic rooftop letters on the curved facade of the Mercure Grand Hotel Seef, Manama, shot from below at a steep angle with heavy colour saturation. Only the first word is transcribed; the second word (left, smaller and foreshortened) is probably جراند (Grand) but is not read with certainty. No Latin text visible."
+  },
+  "fcc448b23-50ad-4c51-9381-aa4f5a44417b": {
+    "accept": false,
+    "reason": "people at a jewellery counter are the subject; shop sign partial at the edge"
+  },
+  "fd7026d74-711f-487c-adeb-9d010f368983": {
+    "accept": false,
+    "reason": "two people talking at a counter are the subject; 'Natural Pearl Palace' sign is partly hidden behind them"
+  },
+  "f0247f8de-0e26-4f78-a2f6-e0ac5ab2606d": {
+    "accept": false,
+    "reason": "'no spitting' warning notice in Hindi and Bengali; the only place text is the small Manama Municipality credit"
+  }
+}

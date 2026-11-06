@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=a598f691-dd70-4dba-9a39-55ffa2c13a84",
+  "original_url": "https://panoramax.openstreetmap.fr/images/a5/98/f6/91/dd70-4dba-9a39-55ffa2c13a84.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "Robot8A",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture a598f691-dd70-4dba-9a39-55ffa2c13a84 (Athens, 2025-05-16)",
+  "description": "Street-level picture taken 2025-05-16 near Athens by Robot8A, sequence b9fa47ff-72dd-4f6d-841f-e0148e05afb0, heading 117. OCR (PP-OCRv3) read: [unread] ZTaeuos MovaoTnpakI | Monastiraki Station | MovaoTnpaki | Monastiraki",
+  "date": "2025-05-16",
+  "categories": [],
+  "camera_location": [
+    37.977191667,
+    23.725758333
+  ],
+  "found_by": "panoramax-ocr:Athens",
+  "bytes": 2384325,
+  "width": 3157,
+  "height": 2367,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/a5/98/f6/91/dd70-4dba-9a39-55ffa2c13a84.jpg",
+  "derivative": "crop 1393,235,4550,2602 of the 5712x4284 HD picture"
+}

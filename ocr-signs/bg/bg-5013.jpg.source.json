@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=fe0fda72-b87c-4ecd-b114-6cddd185baa5",
+  "original_url": "https://panoramax.openstreetmap.fr/images/fe/0f/da/72/b87c-4ecd-b114-6cddd185baa5.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "Julia Keil-Voss",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture fe0fda72-b87c-4ecd-b114-6cddd185baa5 (Sofia, 2026-08-17)",
+  "description": "Street-level picture taken 2026-08-17 near Sofia by Julia Keil-Voss, sequence 3de7d46e-f5a9-47d9-addc-1b3dec0eb261, heading 302. OCR (PP-OCRv3) read: [unread] CAN AMLTA | [unread] Daxt-Tyk | TLA3APV | Bb3PAKAAHEEAA | HCTOPHATA HA KEHCKHA A3AP | THE HISTORY OF ZHENSKI PAZAR (LADIES'BAZAAR) | The market next to the Banya BashirMosque in theend | andTrapezitsa Street | of the 19thcentury-the beginning of the 2Uth century | ponaBayHaobyBkw/Acobbler'sstand | NiponaBay Hanpaceta Ha KeHcKwa na3ap | Sofia citizenat Zhenski Pazar fLadies Bazaarl",
+  "date": "2026-08-17",
+  "categories": [],
+  "camera_location": [
+    42.7016642,
+    23.3193009
+  ],
+  "found_by": "panoramax-ocr:Sofia",
+  "bytes": 2840406,
+  "width": 1440,
+  "height": 1080,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/fe/0f/da/72/b87c-4ecd-b114-6cddd185baa5.jpg",
+  "derivative": "whole 1440x1080 HD picture as served by the Panoramax instance (byte-identical; the instance blurs faces and number plates), not cropped"
+}

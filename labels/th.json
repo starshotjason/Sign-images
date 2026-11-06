@@ -1,0 +1,373 @@
+{
+  "p20e6b0e343": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "RAINBOW",
+        "lang": "en"
+      },
+      {
+        "text": "EXCHANGE",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Rainbow Exchange",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Blue currency-exchange booth panel at right, slightly soft focus; small print below the name is illegible. Red LED '...ONE' sign and tuk-tuk in foreground are distractors."
+  },
+  "p92262820c1": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "SOLARIA HOTEL",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Solaria Hotel",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Hotel name in metal letters at the top of a high-rise (Sukhumvit, Bangkok), seen from far below against an overcast sky; the 'SO' is a stylised ligature."
+  },
+  "pa5372e6419": {
+    "accept": false,
+    "reason": "photo of a campus map board (Chulalongkorn University), not a sign naming one place"
+  },
+  "pc3b407c0e6": {
+    "accept": true,
+    "reason": "",
+    "kind": "hard",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "BIGGAIN",
+        "lang": "en"
+      },
+      {
+        "text": "TATTO",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Bigga Ink",
+      "type": "poi"
+    },
+    "difficulty": "hard",
+    "notes": "Target is the black BIGGAINK TATTOO lightbox at right edge; it is cut off by the frame, so only 'BIGGAIN' / 'TATTO' are visible (full name 'BIGGAINK' appears on a lower panel and 'BIGGA INK' on the window). Distractors: vertical 'TATTOO' box, 'PIERCING' sign, 'THE ONE at Khaosan' bar sign. Khao San Road, Bangkok."
+  },
+  "pbc6992c8e6": {
+    "accept": false,
+    "reason": "festival decoration with greeting slogans (Happy Chinese New Year 2024), no place name"
+  },
+  "k614725526": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "EL GAUCHO ARGENTINIAN STEAKHOUSE",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "El Gaucho Argentinian Steakhouse",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "White lettering along the dark awning at left, seen through a windscreen at an angle, Sukhumvit, Bangkok. The facade above repeats '...UCHO' / '...K HOUSE' (cut off by the frame). BTS viaduct in background."
+  },
+  "p7f5fb6e387": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "centralmarina",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Central Marina",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Large lowercase channel letters over the entrance of the Central Marina mall, Pattaya; written as one word. A tiny Thai line above-left of the 'c' is too small to transcribe. Distractors: Durian Cafe by Mae Wilai stall, MARINA Party House neon, adidas Outlet sign at right, Chinese New Year banners."
+  },
+  "k2041439593": {
+    "accept": true,
+    "reason": "",
+    "kind": "hard",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "ROYAL PALACE",
+        "lang": "en"
+      },
+      {
+        "text": "HOTEL",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Royal Palace Hotel",
+      "type": "poi"
+    },
+    "difficulty": "hard",
+    "notes": "Small dark hotel sign far down the street, right of centre, seen through a hazy windscreen, Pattaya. Small lines under 'HOTEL' are illegible. Large distractor at left: Chinese seafood restaurant billboard (BIRD'S NEST / SHARK'S FIN / SEAFOOD, Chinese and Thai text); 7-Eleven sign right of the target."
+  },
+  "k2041782825": {
+    "accept": false,
+    "reason": "'LAND FOR SALE' banner (advert), seen past a motorbike mirror"
+  },
+  "k672805570": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "DUCKY CUTZ",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Ducky Cutz",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Brown wooden barbershop sign with white letters above a striped awning and barber pole, Phuket Town, seen through a windscreen. A small tagline under 'CUTZ' is illegible. Distractors: red Thai sign at left, dtac TURBO shop fascia at far left, street signs ahead."
+  },
+  "k1323296973": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "Boots",
+        "lang": "en"
+      },
+      {
+        "text": "pharmacy",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Boots",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Navy hanging Boots pharmacy sign under the arcade at upper left, Sukhumvit, Bangkok ('Boots' in script inside an oval). Distractors: Century 21 Blue Ocean 02-665-2900 sign beside it, MASSAGE / Korean sign below, Sovereign real-estate billboard, and 'Bangkok Smile Dental Clinic' fascia at right (partly hidden by a traffic countdown showing 122)."
+  },
+  "k1323297289": {
+    "accept": true,
+    "reason": "",
+    "kind": "building tag",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "MULBERRY23",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Mulberry",
+      "type": "poi"
+    },
+    "difficulty": "hard",
+    "notes": "Copper serif letters on the fence at left, in deep shade, Sukhumvit area, Bangkok. The final '3' is partly hidden behind a red parking sign; read as 23 but checker should confirm. A blue sign behind reads 'Tel 02-664-1888 www.mulberryspa...'. Distractors: no-parking disc, Genki shabu buffet sign, C Ekkamai condo direction board (Thai)."
+  },
+  "k2041782985": {
+    "accept": false,
+    "reason": "row of advertising billboards and chain lightboxes (Taco Bell, Swensen's, Kinsen) on a mall facade; no single place sign as target"
+  },
+  "k614725610": {
+    "accept": true,
+    "reason": "",
+    "kind": "building tag",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "INTERCHANGE",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Interchange 21",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Grey fascia band with logo and serif 'INTERCHANGE' on the curved podium of the Interchange 21 tower, Sukhumvit/Asok, Bangkok, seen through a windscreen. Distractors: large blue citibank fascia below, Citi billboard, 'Plan B' screen logo, MOS Burger window letters, Sukhumvit Suites sign, BTS viaduct with Thai advert."
+  },
+  "k1901834009": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Thai",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "เฮือนเพ็ญ",
+        "lang": "th",
+        "latin": "Huean Phen"
+      },
+      {
+        "text": "Huen Phen",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Huen Phen",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Orange relief letters on a concrete wall at left (Huen Phen restaurant, Chiang Mai), Thai in a decorative northern-style font. Seen through a windscreen. Distractors: 'เขตโรงเรียน / School Zone' sign, no-parking sign with times, school name board at top right (cut off)."
+  },
+  "f21d2c9c3-79d7-4166-a619-e7c314d4db93": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "SAME GUEST",
+        "lang": "en"
+      },
+      {
+        "text": "SAME HOUSE",
+        "lang": "en"
+      },
+      {
+        "text": "& TRAVELLERS CAFE",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Same Same Guest House",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "White board on a pole, Ratchaphakhinai Rd, Chiang Mai old city. Layout: black 'SAME / SAME' stacked on the left with red 'GUEST / HOUSE' stacked on the right, so the name reads 'Same Same Guest House'; a lamp covers part of 'TRAVELLERS'. A small Thai line across the top (Thai rendering of the English name) is too small to transcribe reliably. Distractors: Pho Sirin boutique hotel banner in Thai at left, Krungthai ATM sign, other shop signs down the street."
+  },
+  "f288ea5b3-9ca6-4801-976d-3a32684dc088": {
+    "accept": false,
+    "reason": "wall of liquor-brand lightboxes (Cointreau, Absolut, Singha...), advertising only"
+  },
+  "f63e144c5-c337-4622-979d-a1cb0291d16a": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "POONA TRAVEL",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Poona Travel",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Two identical yellow fascia boards with blue letters, just off Khao San Road, Bangkok; either can be the target. A tiny Thai line at top-left of each board (Thai spelling of the name) is too small to transcribe reliably. Distractors: Sight-Seeing Tour list board, VISA SERVICE price board, T.A.T / ticket stack sign, spa sign at left."
+  },
+  "f81c05263-9cd3-4613-8354-117f8b4e7c31": {
+    "accept": false,
+    "reason": "traffic advisory gantry ('KEEP 2 DOTS APART'), no place name as target"
+  },
+  "fa8a22fe1-9265-4ca4-8f1b-d3f577f5313b": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn",
+      "Hani"
+    ],
+    "lines": [
+      {
+        "text": "Duty Free",
+        "lang": "en"
+      },
+      {
+        "text": "免税店",
+        "lang": "zh",
+        "latin": "mianshui dian (duty-free shop)"
+      }
+    ],
+    "expect": {
+      "query": "King Power Duty Free",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Blue-lit script 'Duty Free' plus Chinese at upper right of the shop canopy, Chiang Mai International Airport, night-lit with a rainbow LED band. A smaller dark 'King Power' logo sits left of it (partly washed out). Distractors: brand panels inside (kipling, GUCCI, BURBERRY, CHANEL, LANCOME, LONGINES, swatch, CLINIQUE)."
+  },
+  "fa9f033d9-cbbd-4f98-b13a-5666dbb5a694": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn",
+      "Thai"
+    ],
+    "lines": [
+      {
+        "text": "DENTAL CLINIC",
+        "lang": "en"
+      },
+      {
+        "text": "ทำฟัน-ใส่ฟัน",
+        "lang": "th",
+        "latin": "tham fan - sai fan (dental work - dentures)"
+      },
+      {
+        "text": "ตกแต่งฟัน-",
+        "lang": "th",
+        "latin": "tok taeng fan (cosmetic dentistry) -"
+      }
+    ],
+    "expect": {
+      "query": "Dental Clinic",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Weathered box sign with a cartoon tooth, Ratchathewi, Bangkok, seen from below at an angle. The red word after the dash on the last line starts with ทำ but is crossed by a cable and not transcribed. No clinic name, only the business type. Distractor: faded Thai shop sign in shadow at left."
+  }
+}

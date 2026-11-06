@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/2101134/104/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMC80LzUvcHJvYy8yMTAxMTM0X2Q5N2E0XzVlODliOWU3OGU1MGIuanBn",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "mishari",
+  "credit_as_published": "KartaView user mishari (user id 17953); © KartaView contributors",
+  "title": "KartaView photo 614725526, sequence 2101134 #104 (Bangkok Sukhumvit, 2020-04-05)",
+  "description": "Street-level picture on KartaView, taken 2020-04-05 near Bangkok Sukhumvit by mishari, sequence 2101134, heading 0. OCR (PP-OCRv3) read: CHO | HOUSE | ELGAUCHOARGENTINIAN STEAKHOUS",
+  "date": "2020-04-05",
+  "categories": [],
+  "camera_location": [
+    13.737987,
+    100.559872
+  ],
+  "found_by": "kartaview-ocr:Bangkok Sukhumvit",
+  "bytes": 1205676,
+  "width": 4000,
+  "height": 3000,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMC80LzUvcHJvYy8yMTAxMTM0X2Q5N2E0XzVlODliOWU3OGU1MGIuanBn",
+  "derivative": "whole 4000x3000 full-size processed (blurred) picture as served by the KartaView CDN (byte-identical; the service blurs faces and number plates), not cropped"
+}

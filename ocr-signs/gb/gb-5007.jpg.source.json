@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=5bde3ba8-069b-416c-932b-1f56c75f624c",
+  "original_url": "https://panoramax.openstreetmap.fr/images/5b/de/3b/a8/069b-416c-932b-1f56c75f624c.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "Robot8A",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture 5bde3ba8-069b-416c-932b-1f56c75f624c (London, 2024-11-17)",
+  "description": "Street-level picture on Panoramax, taken 2024-11-17 near London by Robot8A, sequence b66afd44-758f-4087-af93-f4f97011a0f3, heading 30. OCR (PP-OCRv3) read: The London Residence | of Phileas J. Fogg. Esq. | MR FOGG'S",
+  "date": "2024-11-17",
+  "categories": [],
+  "camera_location": [
+    51.509681729,
+    -0.144025083
+  ],
+  "found_by": "panoramax-ocr:London",
+  "bytes": 1024538,
+  "width": 2709,
+  "height": 2031,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/5b/de/3b/a8/069b-416c-932b-1f56c75f624c.jpg",
+  "derivative": "crop 0,0,2709,2031 of the 4032x3024 HD picture"
+}

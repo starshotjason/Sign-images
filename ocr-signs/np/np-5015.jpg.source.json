@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=6f75b1f2-14d2-45d6-945e-72aebb0e5e80",
+  "original_url": "https://panoramax.openstreetmap.fr/images/6f/75/b1/f2/14d2-45d6-945e-72aebb0e5e80.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "Niruta Neeupane",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture 6f75b1f2-14d2-45d6-945e-72aebb0e5e80 (Kathmandu, 2023-11-19)",
+  "description": "360-degree panorama taken 2023-11-19 near Kathmandu by Niruta Neeupane, sequence 6e3fc185-9ba4-49c7-9cdb-aeebd671e3eb, heading 291. OCR (PP-OCRv3) read: NDAN H SPITAL",
+  "date": "2023-11-19",
+  "categories": [],
+  "camera_location": [
+    27.678510333,
+    85.316396167
+  ],
+  "found_by": "panoramax-ocr:Kathmandu",
+  "bytes": 180543,
+  "width": 1000,
+  "height": 750,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/6f/75/b1/f2/14d2-45d6-945e-72aebb0e5e80.jpg",
+  "derivative": "rectilinear (gnomonic) view, yaw +9.6 deg from the panorama centre, pitch +37.4 deg, horizontal field of view 90 deg, 1000x750 px, reprojected from the 3072x1536 HD equirectangular panorama"
+}

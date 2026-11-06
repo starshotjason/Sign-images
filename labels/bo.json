@@ -1,0 +1,442 @@
+{
+ "p171c4c3769": {
+  "accept": false,
+  "reason": "street vendor's food cart with partly hidden 'SANDWI...' text; a pedestrian fills the frame; no place name"
+ },
+ "p180cda67b9": {
+  "accept": false,
+  "reason": "advertising billboard 'DISPONIBLE' with a phone number; no place name"
+ },
+ "p203a98ee28": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "HOSPITAL MODELO",
+    "lang": "es"
+   },
+   {
+    "text": "CAJA BANCARIA ESTATAL DE SA",
+    "lang": "es"
+   },
+   {
+    "text": "EMERGENCIAS",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Hospital Modelo",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Facade of the CBES Hospital Modelo, La Paz. The second line is cut off by the tree and the frame edge after 'DE SA' (full name Caja Bancaria Estatal de Salud; only the visible part is transcribed). 'EMERGENCIAS' over the entrance; CBES round logo is a distractor. Alternative query: 'Caja Bancaria Estatal de Salud'."
+ },
+ "p486acf3c77": {
+  "accept": true,
+  "reason": "",
+  "kind": "transit",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "INALMAMA",
+    "lang": "es"
+   },
+   {
+    "text": "Héroes de la Revolución",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Inalmama",
+   "type": "stop"
+  },
+  "difficulty": "medium",
+  "notes": "Mi Teleférico cable-car station name in raised metal letters, La Paz, photographed at an angle from below. Keep the accents in 'Héroes' and 'Revolución'. Green graffiti on the right pillar is a distractor. Alternative query: 'Héroes de la Revolución'."
+ },
+ "p572ee9f15f": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "CAJA BANCARIA ESTATAL DE SALUD",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Caja Bancaria Estatal de Salud",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Illuminated green fascia on a mirrored-glass CBES building in La Paz; a different building and sign from p203a98ee28. Small 'CBES' logo at the left of the line is not transcribed. Faces and plate are blurred."
+ },
+ "p691ee5cbcd": {
+  "accept": false,
+  "reason": "spray-painted graffiti on a corrugated fence; no sign naming a place"
+ },
+ "pd34075015a": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "UMSA ART-DIS",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "UMSA",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Metal letters on a glass office building (Universidad Mayor de San Andrés unit), shot upward at an angle. The 'Señor de Mayo' roof sign on the minibus in front is a distractor."
+ },
+ "pdd3976af03": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "FAST",
+    "lang": "en"
+   },
+   {
+    "text": "niki's",
+    "lang": "es"
+   },
+   {
+    "text": "FOOD",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Niki's",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Restaurant sign over an arched doorway: 'FAST' and 'FOOD' in wooden letters on either side of the round 'niki's' logo (apostrophe drawn as a stylised tick; transcribed as an ASCII apostrophe). The banner on the left ('niki's', 'TU NUEVA ADICCIÓN') is advertising and a distractor."
+ },
+ "k1654408361": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "FARMACIAS BOLIVIA",
+    "lang": "es"
+   },
+   {
+    "text": "Más cerca de ti...",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Farmacias Bolivia",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "La Paz corner pharmacy, long white fascia with orange-sphere logo; photo tilted. The first F is partly hidden by a lamp post. INTI 'CON SALUD TODO ES POSIBLE' logo at right, a smaller 'FARMACIAS BOLIVIA' band with 'Bagó' logos over the door, a 'NO GIRAR A LA DERECHA' sign and a Coca-Cola awning are distractors."
+ },
+ "k1737132105": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "MUSEO COSTUMBRISTA",
+    "lang": "es"
+   },
+   {
+    "text": "DE LA PAZ",
+    "lang": "es"
+   },
+   {
+    "text": "ALCALDE JUAN DE VARGAS",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Museo Costumbrista Juan de Vargas",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Black letters on a white colonial facade, La Paz (Calle Jaén area); 'ALCALDE' is in much smaller letters. Minibus with 'NISSAN' and destination board is a distractor; faces blurred."
+ },
+ "k1926813545": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "HOTEL MILAN",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Hotel Milan",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Santa Cruz de la Sierra: gold letters on a dark fascia with an M logo between the words; overhead cables cross the frame. Window poster at right repeats 'HOTEL MILAN' with a services list; car window frame intrudes top-left."
+ },
+ "k1926813705": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ACAI Bar",
+    "lang": "en"
+   },
+   {
+    "text": "SUPERFOOD",
+    "lang": "en"
+   },
+   {
+    "text": "#ACAIBARSUPERFOOD",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Acai Bar",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Santa Cruz de la Sierra: round black 'ACAI Bar SUPERFOOD' logo above an arcade, with the hashtag repeated three times on the black band (first one cut by a pillar). Black street plate 'CALLE RENE MORENO' on the white corner building at right is too blurred to transcribe reliably; Starbucks logo and 'Love Acai Bar' neon are distractors."
+ },
+ "k1926817545": {
+  "accept": true,
+  "reason": "",
+  "kind": "hard",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "EDIFICIO",
+    "lang": "es"
+   },
+   {
+    "text": "DR. RÓMULO H RRERA J",
+    "lang": "es"
+   },
+   {
+    "text": "U .G.R.M.",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Edificio Rómulo Herrera",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Santa Cruz de la Sierra, university (U.A.G.R.M.) building: metal letters on white wall, motion-blurred. Letters are missing/hidden: the E of HERRERA is absent, the rest of the second surname ('J…', ending '…IA C…' behind palm fronds) and the A of U.A.G.R.M. are not legible, so they are left out. House number 73 over the door; plaques beside the door are illegible."
+ },
+ "k1737135145": {
+  "accept": false,
+  "reason": "only a lawyer's sign cut off at the left edge; the street plate is not legible"
+ },
+ "k1737134665": {
+  "accept": false,
+  "reason": "motion-blurred row of several small shop signs; no single legible main sign"
+ },
+ "c9888266": {
+  "accept": true,
+  "reason": "",
+  "kind": "transit",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ELTEJAR",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "El Tejar",
+   "type": "stop"
+  },
+  "difficulty": "medium",
+  "notes": "Black-and-white railway station name board on two posts at El Tejar station near Sucre; painted with no clear space between EL and TEJAR. Bus-rail vehicle '202' and Coca-Cola kiosk in the background are distractors."
+ },
+ "c20040691": {
+  "accept": true,
+  "reason": "",
+  "kind": "transit",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "RI GRANDE",
+    "lang": "es"
+   },
+   {
+    "text": "CHIGU NA",
+    "lang": "es"
+   },
+   {
+    "text": "JULACA",
+    "lang": "es"
+   },
+   {
+    "text": "Km 94.667",
+    "lang": "es"
+   },
+   {
+    "text": "Elevacion 3 665 61 m",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Julaca",
+   "type": "stop"
+  },
+  "difficulty": "medium",
+  "notes": "FCAB-style black station board: big 'JULACA' with neighbouring stations (Rio Grande at left, Chiguana at right) above, km and elevation below. Two posts hide characters: the O of RIO, the A of CHIGUANA, possibly a digit before '94.667', and one digit in the elevation ('3 665?61 m'). Lines give only what is visible."
+ },
+ "c150964631": {
+  "accept": false,
+  "reason": "decorative 3D letters 'NANTAITYU' (Bésiro for 'spring') with a Bésiro slogan; the site (El Puquio Cristo Rey) is not named, so no reliable map query"
+ },
+ "c163814801": {
+  "accept": true,
+  "reason": "",
+  "kind": "transit",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Km",
+    "lang": "es"
+   },
+   {
+    "text": "UYUNI",
+    "lang": "es"
+   },
+   {
+    "text": "ELEV.",
+    "lang": "es"
+   },
+   {
+    "text": "559.260",
+    "lang": "und"
+   },
+   {
+    "text": "3669.26",
+    "lang": "und"
+   },
+   {
+    "text": "BOLIVIA",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Uyuni",
+   "type": "stop"
+  },
+  "difficulty": "easy",
+  "notes": "Black railway station name board at Uyuni station; km 559.260 at left, elevation 3669.26 at right, small stencil 'BOLIVIA' below. Preserved green FCA coach ('RESERVADO', 'R11') is a distractor."
+ },
+ "c11979199": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "AASANA",
+    "lang": "es"
+   },
+   {
+    "text": "BOLIVIA",
+    "lang": "es"
+   },
+   {
+    "text": "BIENVENIDOS",
+    "lang": "es"
+   },
+   {
+    "text": "A",
+    "lang": "es"
+   },
+   {
+    "text": "SAN BORJA",
+    "lang": "es"
+   },
+   {
+    "text": "ADMINISTRACION DE AEROPUERTOS Y SERVICIOS",
+    "lang": "es"
+   },
+   {
+    "text": "AUXILIARES A LA NAVEGACION AEREA",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "San Borja",
+   "type": "place"
+  },
+  "difficulty": "medium",
+  "notes": "Painted welcome wall at Capitán Germán Quiroga Guardia airport, San Borja. A yucca plant covers the S of SAN and the start of three smaller lines: '...ADERA DEL DEPARTAMENTO', '...ERTA DE ENTRADA A LA', '...ZONIA BOLIVIANA' (not in lines). AASANA arch emblem at right. Weathered, rainy."
+ },
+ "fc0c17f97-00de-4d71-beeb-11d8db8b4298": {
+  "accept": false,
+  "reason": "Coca-Cola advertising poster ('Su Tienda Amiga', 'Super mini a... Bs. 1.00') with a dog as the subject; no shop name"
+ },
+ "f38210c81-603e-4d4c-973c-77070523fbcf": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "MAX RONALD´S",
+    "lang": "es"
+   },
+   {
+    "text": "Hamburguesa Lomito en plato",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Max Ronald's",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Large fast-food restaurant fascia in Tarija, shot from below at a tilt, with a Ronald McDonald figure. The menu strip continues with a word run together that looks like 'M?lanezaMatambre' (left out of lines). 'CASCADA' soft-drink logo and cut-off 'ORGU...' at right are distractors."
+ }
+}

@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=63fd489c-9b68-40c3-8f18-455c46f528c0",
+  "original_url": "https://panoramax.openstreetmap.fr/images/63/fd/48/9c/9b68-40c3-8f18-455c46f528c0.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "Robot8A",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture 63fd489c-9b68-40c3-8f18-455c46f528c0 (Sarajevo, 2026-04-03)",
+  "description": "Street-level picture taken 2026-04-03 near Sarajevo by Robot8A, sequence d0c45ad6-f97c-460e-9ef5-ecc6d927e643, heading 23. OCR (PP-OCRv3) read: MUSEUM",
+  "date": "2026-04-03",
+  "categories": [],
+  "camera_location": [
+    43.857802778,
+    18.428858333
+  ],
+  "found_by": "panoramax-ocr:Sarajevo",
+  "bytes": 1991159,
+  "width": 3305,
+  "height": 2478,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/63/fd/48/9c/9b68-40c3-8f18-455c46f528c0.jpg",
+  "derivative": "crop 810,1836,4115,4314 of the 4284x5712 HD picture"
+}

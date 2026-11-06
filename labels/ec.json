@@ -1,0 +1,436 @@
+{
+ "p2c90be8e9e": {
+  "accept": false,
+  "reason": "rain-blurred street scene through the windscreen; no legible main sign (the hospital sign is tiny)"
+ },
+ "p2d77a758c4": {
+  "accept": false,
+  "reason": "near-duplicate of accepted p59411dc5aa (the same roundabout sign), heavily motion-blurred"
+ },
+ "p3aa3aa9b1f": {
+  "accept": false,
+  "reason": "strongly out of focus; only a generic 'PERFILERIA' trade word is readable, with no business name"
+ },
+ "p59411dc5aa": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Av. 12 de",
+    "lang": "es"
+   },
+   {
+    "text": "Octubre",
+    "lang": "es"
+   },
+   {
+    "text": "NOR ESTE",
+    "lang": "es"
+   },
+   {
+    "text": "Av.",
+    "lang": "es"
+   },
+   {
+    "text": "La Coruña",
+    "lang": "es"
+   },
+   {
+    "text": "SUR",
+    "lang": "es"
+   },
+   {
+    "text": "Av.",
+    "lang": "es"
+   },
+   {
+    "text": "La Coruña",
+    "lang": "es"
+   },
+   {
+    "text": "NORTE",
+    "lang": "es"
+   },
+   {
+    "text": "Av. 12 de",
+    "lang": "es"
+   },
+   {
+    "text": "Octubre",
+    "lang": "es"
+   },
+   {
+    "text": "SUR OESTE",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Avenida 12 de Octubre",
+   "type": "street"
+  },
+  "difficulty": "medium",
+  "notes": "Green roundabout diagram sign, Quito, in fog. There are four blocks of text around the pictogram, read top-left, top-right, bottom-left, bottom-right. Keep the ñ in 'Coruña'. Alternative query: 'Avenida La Coruña'."
+ },
+ "p7ccdb133a9": {
+  "accept": false,
+  "reason": "near-duplicate of the roundabout sign in p59411dc5aa, here cut off at the top; the main subject is a pickup's rear-window decal"
+ },
+ "p8cc4c60f97": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "EL AUTOMOVILISTA",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "El Automovilista",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Red italic letters on a garage canopy, Quito, under an overcast sky. Distractors: the Castrol 'Magnatec' advertising board, service pictogram panels ('LUBRICACION', 'ALINEACION Y BALANCEO', 'BATERIAS'), the 'CICLOVIA' sign, 'CAMBIOS' and the bus-stop sign."
+ },
+ "pc17db324de": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn",
+   "Hani"
+  ],
+  "lines": [
+   {
+    "text": "CHIFA",
+    "lang": "es"
+   },
+   {
+    "text": "福客来",
+    "lang": "zh",
+    "latin": "Fu Ke Lai (Chinese restaurant name)"
+   }
+  ],
+  "expect": {
+   "query": "Chifa",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Vertical sign on the right of the frame, Quito. 'CHIFA' (Peruvian-Ecuadorian word for a Chinese restaurant) runs top to bottom in red capitals, with three brush-script Chinese characters beside it. The characters are small and cursive. The restaurant name appears only in Chinese. The 'UNA VIA' arrow and the far 'farmacias' sign are distractors."
+ },
+ "pd39a5963ea": {
+  "accept": false,
+  "reason": "blurred 'Valet Parking' sign; generic service notice, not a place name"
+ },
+ "k145994443": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "CENTRO COMERCIAL SAN MARTIN",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Centro Comercial San Martín",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Metal letters along the upper facade of a shopping centre in Quito, seen at an angle through a car window; no accent on MARTIN on the sign. Small 'PATIO DE COMIDAS' and shop banners by the staircase are distractors."
+ },
+ "k164429133": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "TRIGO DORADO",
+    "lang": "es"
+   },
+   {
+    "text": "...dería y Pastelería",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Trigo Dorado",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Corner bakery fascia in Quito's historic centre, cut by the left frame edge ('[Pana]dería y Pastelería'). A green address plate 'N8-01' and a small street plate (street name illegible, likely Venezuela) are on the corner; traffic light and distant basilica are background."
+ },
+ "c47765245": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "MUNICIPIO DE ALAUSI",
+    "lang": "es"
+   },
+   {
+    "text": "CALLE",
+    "lang": "es"
+   },
+   {
+    "text": "ELOY ALFARO",
+    "lang": "es"
+   },
+   {
+    "text": "BANCO DE GUAYAQUIL",
+    "lang": "es"
+   },
+   {
+    "text": "MULTIBANCO",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Eloy Alfaro",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Two-tile white street plaque on an orange wall in Alausí, with municipal crest and sponsor logo. ALAUSI written without accent. The tile joint runs through 'MUNICIPIO DE' and the A of ALFARO."
+ },
+ "c49231139": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "1",
+    "lang": "und"
+   },
+   {
+    "text": "3",
+    "lang": "und"
+   },
+   {
+    "text": "3",
+    "lang": "und"
+   },
+   {
+    "text": "Oe7",
+    "lang": "und"
+   },
+   {
+    "text": "EL ROBO",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "El Robo",
+   "type": "street"
+  },
+  "difficulty": "medium",
+  "notes": "Quito street plate (black-and-white photo): stacked '1 3 3' digits, street code 'Oe7' and name 'EL ROBO'. Shot from below at an angle; a sticker sits above the R."
+ },
+ "c80814436": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "1",
+    "lang": "und"
+   },
+   {
+    "text": "3",
+    "lang": "und"
+   },
+   {
+    "text": "3",
+    "lang": "und"
+   },
+   {
+    "text": "N8",
+    "lang": "und"
+   },
+   {
+    "text": "MANABI",
+    "lang": "es"
+   },
+   {
+    "text": "CALLE DEL",
+    "lang": "es"
+   },
+   {
+    "text": "TEATRO",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Manabí",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Green Quito street plate '1 3 3 / N8 / MANABI' (no accent) with the historic-centre tile plaque 'CALLE DEL TEATRO' (old street name) below it. Round window at right."
+ },
+ "c37794093": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "MUSEO DE",
+    "lang": "es"
+   },
+   {
+    "text": "HISTORIA",
+    "lang": "es"
+   },
+   {
+    "text": "NATURAL",
+    "lang": "es"
+   },
+   {
+    "text": "“GUSTAVO ORCÉS V.”",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Museo de Historia Natural Gustavo Orcés",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Back-lit red museum sign over a doorway at the Escuela Politécnica Nacional, Quito, with animal-silhouette logo; dim corridor."
+ },
+ "c48454986": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "I. MUNICIPIO",
+    "lang": "es"
+   },
+   {
+    "text": "DE OTAVALO 2000",
+    "lang": "es"
+   },
+   {
+    "text": "CALLE",
+    "lang": "es"
+   },
+   {
+    "text": "EUGENIO ESPEJO",
+    "lang": "es"
+   },
+   {
+    "text": "GESTION",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Eugenio Espejo",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Faded light-blue municipal street plate in San Pablo del Lago (Otavalo canton). Bottom line reads approximately 'INSTITUTO \"ALFREDO PEREZ GUERRERO\"' but a rust streak and fading obscure part of it (left out of lines); end of 'GESTION' is also streaked."
+ },
+ "c48251935": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "1",
+    "lang": "und"
+   },
+   {
+    "text": "3",
+    "lang": "und"
+   },
+   {
+    "text": "3",
+    "lang": "und"
+   },
+   {
+    "text": "Oe 5",
+    "lang": "und"
+   },
+   {
+    "text": "GARCIA",
+    "lang": "es"
+   },
+   {
+    "text": "MORENO",
+    "lang": "es"
+   },
+   {
+    "text": "PLAZA GRANDE",
+    "lang": "es"
+   },
+   {
+    "text": "SIGLO XVI",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Plaza Grande",
+   "type": "place"
+  },
+  "difficulty": "easy",
+  "notes": "Green Quito street plate 'Oe 5 GARCIA MORENO' (no accent) above a tile plaque 'PLAZA GRANDE / SIGLO XVI' with the eight-point star emblem. Either name is a valid query (García Moreno street / Plaza Grande)."
+ },
+ "c48275158": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "PLAZOLETA",
+    "lang": "es"
+   },
+   {
+    "text": "BENALCAZAR",
+    "lang": "es"
+   },
+   {
+    "text": "SIGLO XVI",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Plazoleta Benalcázar",
+   "type": "place"
+  },
+  "difficulty": "easy",
+  "notes": "Historic-centre tile plaque on a red wall in Quito with the eight-point star emblem; BENALCAZAR without accent; a scratch mark between L and A of PLAZOLETA."
+ }
+}

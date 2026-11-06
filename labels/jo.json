@@ -1,0 +1,648 @@
+{
+  "c12267607": {
+    "accept": false,
+    "reason": "regulatory sign only (no stopping, 'subject to towing'); no place name"
+  },
+  "c12269671": {
+    "accept": false,
+    "reason": "traffic pictograms only (no horn, no stopping); no text"
+  },
+  "c56766928": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "البتراء الصغيرة",
+        "lang": "ar",
+        "latin": "al-Batra' as-Saghira (Little Petra)"
+      },
+      {
+        "text": "Little Petra",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Little Petra",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Blue directional sign with an up arrow on the road to Siq al-Barid (Little Petra), sign at right of frame. White graffiti scrawls over the English line and peeling paint. Curve-warning and no-overtaking signs are distractors."
+  },
+  "c57650790": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "وادي بن حماد",
+        "lang": "ar",
+        "latin": "Wadi Bin Hammad"
+      },
+      {
+        "text": "Wadi Bin Hammad",
+        "lang": "en"
+      },
+      {
+        "text": "Hotspring",
+        "lang": "en"
+      },
+      {
+        "text": "20 Km",
+        "lang": "en"
+      },
+      {
+        "text": "٢٠ كم",
+        "lang": "ar",
+        "latin": "20 km"
+      }
+    ],
+    "expect": {
+      "query": "Wadi Bin Hammad",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Brown tourist direction sign (right arrow). The first Arabic word is partly hidden by pine branches: only its ending '...مات' is visible (presumably حمامات, hot springs), so line 1 transcribes only the legible part. The blue sign at left (At Tafila / Al Karak / Rakin / Batir / Wadi 'Ibn Hammad) is a distractor."
+  },
+  "c61496388": {
+    "accept": false,
+    "reason": "wrong country: Jordan Commons development in Sandy, Utah, USA"
+  },
+  "f282b5c95-81ee-40f3-9c80-98c5dcbe5a15": {
+    "accept": false,
+    "reason": "calligraphy artwork on a sketchbook page (Amman Design Week), not a sign"
+  },
+  "f4dd4fff9-aa60-43f7-b387-7fb72a4ad663": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "Man World",
+        "lang": "en"
+      },
+      {
+        "text": "MEN'S WEAR",
+        "lang": "en"
+      },
+      {
+        "text": "Man World",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Man World",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Script lettering on a green awning over a menswear shop window (Wadi Musa per Flickr tags). The green 'Fashion' sign at left and the poster of a suited model at right are distractors."
+  },
+  "f71678c76-ceee-490a-9ef0-89ae5eb72abc": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn",
+      "Arab"
+    ],
+    "lines": [
+      {
+        "text": "MATALKA Co.",
+        "lang": "en"
+      },
+      {
+        "text": "شركة مطالقة",
+        "lang": "ar",
+        "latin": "Sharikat Matalqa (Matalka Company)"
+      },
+      {
+        "text": "مَصنع التنر الاردني",
+        "lang": "ar",
+        "latin": "Masna' at-Tinar al-Urduni (Jordan thinner factory)"
+      },
+      {
+        "text": "JORDAN THINNER FACTORY",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Matalka",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Old blue enamel shop board over a shuttered front in Amman. 'Co.' has a small raised o. Not transcribed: the two light-blue ovals listing products (paint supplies), the P.O. box '(٥٣٨) ص.ب', phone numbers 622556 / 891745 (also in Arabic-Indic), and the faded cream strip at the bottom (illegible). Blue sign at right edge is cut off (distractor)."
+  },
+  "f8f104c8d-207c-40e9-89f4-0037944a187a": {
+    "accept": false,
+    "reason": "calligraphy painted on paper/wall as artwork (Amman Design Week), not a sign naming a place"
+  },
+  "fb3ae3251-85c2-4032-b9f3-663d6cdcf04e": {
+    "accept": false,
+    "reason": "wrong country: historic photo of R.B. Butland music store, King St. W., Toronto (Jordan St. is a Toronto street)"
+  },
+  "fba0a3415-d74f-4cf4-81b8-8e2221682f66": {
+    "accept": false,
+    "reason": "wrong country: Jordan Marsh store, North Shore Mall, Peabody, Massachusetts, USA"
+  },
+  "fd9c34a53-f952-45eb-8795-7b09e2f965fe": {
+    "accept": false,
+    "reason": "wrong country (Pike Place Market, Seattle, USA) and the subject is a selfie of two faces"
+  },
+  "feabb03dc-a46b-44d5-a34b-7c51fd5cbb23": {
+    "accept": false,
+    "reason": "pen calligraphy sketch on paper (Amman Design Week), not a sign"
+  },
+  "ff301c3d1-fca9-4687-9203-d79c91760ca7": {
+    "accept": false,
+    "reason": "wrong country (Jordan Marsh fire, Peabody, Massachusetts, USA); building lettering illegible"
+  },
+  "f0efca9df-941d-435c-9224-6cdfea4ee9d8": {
+    "accept": false,
+    "reason": "landscape view, no sign"
+  },
+  "f4cea4f4d-d201-4cf6-975e-dae665adaa2d": {
+    "accept": false,
+    "reason": "portrait: a person's face is the subject, no sign"
+  },
+  "fe2b5eb4c-15a6-4f80-b721-121cbf518fb4": {
+    "accept": false,
+    "reason": "portrait: a person's face is the subject, no sign"
+  },
+  "fd1af9ca7-6364-4630-88ed-684265731e3a": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "فندق اليرموك",
+        "lang": "ar",
+        "latin": "Funduq al-Yarmuk (Yarmouk Hotel)"
+      },
+      {
+        "text": "YARMOUK HOTEL",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Yarmouk Hotel",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Yellow bilingual hotel plate on a stone wall in Amman, frontal and sharp. The 'K' roundels in the blue balcony railing above are decoration, not text to read."
+  },
+  "f7acae8e9-c815-4a5f-b85d-ef9dc92e2835": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Arab"
+    ],
+    "lines": [
+      {
+        "text": "مصنع ومعرض شنتات الشرق",
+        "lang": "ar",
+        "latin": "Masna' wa Ma'rad Shantat al-Sharq (Al-Sharq Bags Factory and Showroom)"
+      },
+      {
+        "text": "لصنع ومبيع جميع أنواع الحقائب الجلدية «جملة ومفرق»",
+        "lang": "ar",
+        "latin": "li-sun' wa mabi' jami' anwa' al-haqa'ib al-jildiya (jumla wa mufarraq) (making and selling all kinds of leather bags, wholesale and retail)"
+      },
+      {
+        "text": "للمدارس / للسفر / لرجال الأعمال .",
+        "lang": "ar",
+        "latin": "lil-madaris / lil-safar / li-rijal al-a'mal (for schools / travel / businessmen)"
+      },
+      {
+        "text": "تغليف الهويات على الكهرباء .",
+        "lang": "ar",
+        "latin": "taghlif al-hawiyat 'ala al-kahraba' (ID card lamination)"
+      },
+      {
+        "text": "تصليح جميع أنواع الحقائب .",
+        "lang": "ar",
+        "latin": "taslih jami' anwa' al-haqa'ib (repair of all kinds of bags)"
+      },
+      {
+        "text": "١٨٣٨٠١",
+        "lang": "und"
+      }
+    ],
+    "expect": {
+      "query": "شنتات الشرق",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Weathered red painted shop sign in Amman, partly in diagonal shadow; heading is in stylised calligraphy (the alif-lam of 'الشرق' is merged into the flourish). Bottom row: '١٨٣٨٠١' follows an envelope icon (P.O. Box); the telephone number after the phone icon is in shadow and too faded to read with certainty, so it is omitted. Not transcribed: a tiny painter's signature under 'مصنع', and the yellow roundel on the left ('لطفاً: دخلة خاصة ممنوع الوقوف', private entrance, no parking), which is a distractor."
+  },
+  "ff8d636fe-ff11-4162-a7b3-fc8e92f61b3a": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "ستوديو",
+        "lang": "ar",
+        "latin": "Studyu (Studio)"
+      },
+      {
+        "text": "الساحه",
+        "lang": "ar",
+        "latin": "al-Saha"
+      },
+      {
+        "text": "الهاشميه",
+        "lang": "ar",
+        "latin": "al-Hashimiya (Hashemite Plaza)"
+      },
+      {
+        "text": "Kodak",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "ستوديو الساحه الهاشميه",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Hand-painted photo studio sign in Amman: red 'ستوديو' on top, blue 'الساحه / الهاشميه' below, Kodak logo on the left. The sign spells both words with final ه, not ة (standard spelling 'الساحة الهاشمية', the plaza name). The painted film box (Kodak PRINT FILM, Kodacolor 36 EXP., Arabic 'فيلم كوداك') is a product drawing and the blue strip below is a different, mostly hidden sign; both are distractors."
+  },
+  "f29530ed9-306b-4835-aa4e-6a88167c1b9b": {
+    "accept": false,
+    "reason": "museum exhibit label (object caption, 'Ritual Bronze Weapons'), not a place sign"
+  },
+  "k1675210345": {
+    "accept": false,
+    "reason": "vehicle branding: tour bus livery (Al-Bassam / EXTRA) is the main text"
+  },
+  "k1675210553": {
+    "accept": false,
+    "reason": "dashcam street view; the main shop sign (Kokash Mobile) is cut off at the frame edge and other signs are tiny"
+  },
+  "k1682157113": {
+    "accept": false,
+    "reason": "dashcam street view with many small shop signs; no single main target"
+  },
+  "k1682851545": {
+    "accept": false,
+    "reason": "main sign is a Samsung brand panel; the shop name (Happy Mobile Shop) is obscured by a splash graphic"
+  },
+  "k1682851401": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Arab",
+      "Zyyy"
+    ],
+    "lines": [
+      {
+        "text": "أكرم الجعبري",
+        "lang": "ar",
+        "latin": "Akram al-Ja'bari"
+      },
+      {
+        "text": "لانظمة التكييف و التبريد",
+        "lang": "ar",
+        "latin": "li-Anzimat al-Takyif wa al-Tabrid (for air-conditioning and refrigeration systems)"
+      }
+    ],
+    "expect": {
+      "query": "أكرم الجعبري",
+      "type": "poi"
+    },
+    "difficulty": "hard",
+    "notes": "Amman dashcam frame looking up at an angled blue shop sign. A possible hamza on the lam-alef of لانظمة is not discernible, so none is written. The phone-number line (0777818185 - 07999...722, middle digits unclear) is not transcribed. SMARTCOOL logo, the building number 206 above and the partial sign below are distractors."
+  },
+  "k1682157753": {
+    "accept": false,
+    "reason": "hookah-shop sign is product advertising copy; other signs small and partly hidden"
+  },
+  "k1709673609": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "معرض أيمن الشريف",
+        "lang": "ar",
+        "latin": "Ma'rad Ayman al-Sharif (Ayman al-Sharif showroom)"
+      },
+      {
+        "text": "Ayman Al Sharief",
+        "lang": "en"
+      },
+      {
+        "text": "0790886784",
+        "lang": "und",
+        "latin": "0790886784"
+      },
+      {
+        "text": "للاحذية الرجالية",
+        "lang": "ar",
+        "latin": "lil-Ahdhiya al-Rijaliyya (for men's shoes)"
+      }
+    ],
+    "expect": {
+      "query": "Ayman Al Sharief",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Wood-effect shoe-shop fascia in Amman, slightly angled. A second copy of the name is on the lower fascia; the blue 'مركز سا... للتوريدات' sign at left (4624445) is a distractor. Passer-by face is blurred."
+  },
+  "k1675446121": {
+    "accept": false,
+    "reason": "vehicle branding: flower-shop van livery"
+  },
+  "k1682851225": {
+    "accept": false,
+    "reason": "dashcam street view; signs small and the main one (Farah Gallery) partly blocked by a traffic-light pole"
+  },
+  "k1682157593": {
+    "accept": false,
+    "reason": "only sign (Hannoush) is cut off at the frame edge"
+  },
+  "f1ee54445-8146-4560-acc0-208750ad652c": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Arab"
+    ],
+    "lines": [
+      {
+        "text": "كعك",
+        "lang": "ar",
+        "latin": "Ka'k"
+      },
+      {
+        "text": "بصراوي",
+        "lang": "ar",
+        "latin": "Basrawi"
+      },
+      {
+        "text": "مخابز الغرباء",
+        "lang": "ar",
+        "latin": "Makhabiz al-Ghuraba' (al-Ghuraba bakeries)"
+      },
+      {
+        "text": "خبز عربي - خبز فرنجي - حلويات - بصراوي",
+        "lang": "ar",
+        "latin": "Khubz 'Arabi - Khubz Faranji - Halawiyyat - Basrawi (Arab bread, French bread, sweets, Basrawi)"
+      }
+    ],
+    "expect": {
+      "query": "مخابز الغرباء",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Bakery sign in Amman, frontal. The small words كعك (top right) and بصراوي (top left) flank the name. The blue perfume/watch sign 'حدائق ال...' (cut off) is a distractor; the man in the lower right corner is incidental."
+  },
+  "f1403f4f0-6b7a-4361-bd2b-5868e038913a": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "ش. الرينبو",
+        "lang": "ar",
+        "latin": "Sh. al-Rinbu (Rainbow St.)"
+      },
+      {
+        "text": "AL-RAINBOW St.",
+        "lang": "en"
+      },
+      {
+        "text": "62 ← 1",
+        "lang": "und",
+        "latin": "62 <- 1"
+      }
+    ],
+    "expect": {
+      "query": "Rainbow Street",
+      "type": "street"
+    },
+    "difficulty": "easy",
+    "notes": "Green Amman street-name blade with house-number range plate below (numbers 1 to 62, arrow pointing left). The Arabic has a spaced dot after ش (abbreviation of شارع)."
+  },
+  "c17000750": {
+    "accept": false,
+    "reason": "warning sign only ('No climbing'); no place name"
+  },
+  "c38115336": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "المغطس",
+        "lang": "ar",
+        "latin": "al-Maghtas (Baptism Site)"
+      },
+      {
+        "text": "Baptism Site",
+        "lang": "en"
+      },
+      {
+        "text": "40",
+        "lang": "und",
+        "latin": "40"
+      },
+      {
+        "text": "65",
+        "lang": "und",
+        "latin": "65"
+      },
+      {
+        "text": "عمان",
+        "lang": "ar",
+        "latin": "'Amman"
+      },
+      {
+        "text": "Amman",
+        "lang": "en"
+      },
+      {
+        "text": "150",
+        "lang": "und",
+        "latin": "150"
+      },
+      {
+        "text": "١٥٠ م",
+        "lang": "ar",
+        "latin": "150 m"
+      }
+    ],
+    "expect": {
+      "query": "Baptism Site",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Blue advance-direction sign near the Dead Sea: brown tourist panel for the Baptism Site (al-Maghtas) on a U-turn arrow, Amman straight on with route shields 40 (white) and 65 (green); 150 m in both Latin and Arabic-Indic digits. Election posters stuck on the lower edge. Gucci billboard behind is a distractor."
+  },
+  "c38115338": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "حمامات ماعين",
+        "lang": "ar",
+        "latin": "Hammamat Ma'in (Ma'in hot springs)"
+      },
+      {
+        "text": "جبل نيبو",
+        "lang": "ar",
+        "latin": "Jabal Nibu (Mount Nebo)"
+      },
+      {
+        "text": "Ma'in Hot Spa",
+        "lang": "en"
+      },
+      {
+        "text": "Mount Nebo",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Mount Nebo",
+      "type": "place"
+    },
+    "difficulty": "medium",
+    "notes": "Arrow-shaped blue direction sign on a mountain road, photographed from a moving car. Handwritten graffiti over the start of 'Mount Nebo' (not transcribed). The small brown sign below ('مكاور / Mukawir', also graffitied) is a distractor."
+  },
+  "c52465899": {
+    "accept": false,
+    "reason": "wrong country: TRAX station sign in West Jordan, Utah, USA"
+  },
+  "c61758079": {
+    "accept": false,
+    "reason": "wrong country: TRAX station sign in West Jordan, Utah, USA"
+  },
+  "c62337859": {
+    "accept": false,
+    "reason": "wrong country: TRAX station sign in West Jordan, Utah, USA"
+  },
+  "c63859443": {
+    "accept": false,
+    "reason": "wrong country: TRAX station sign in South Jordan, Utah, USA"
+  },
+  "c67719777": {
+    "accept": false,
+    "reason": "pure beer advert (Amstel); no place name"
+  },
+  "c67719903": {
+    "accept": false,
+    "reason": "pure beer advert (Amstel), cropped duplicate of c67719777"
+  },
+  "c39732036": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "MANASEER",
+        "lang": "en"
+      },
+      {
+        "text": "Oil & Gas",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Manaseer",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Fuel-station pylon on the Desert Highway near Wadi Rum; target is the brand panel under the sun logo. The price rows (Unleaded 95 / Unleaded 90 / Diesel / Kerosene with LED prices), 'Service', 'Petromin Oils' and 'Car Wash' panels are not transcribed (prices are LED digits, first digit of the top one faint)."
+  },
+  "f59327579-5b22-44c9-8b48-1da4e1322f32": {
+    "accept": false,
+    "reason": "hand-painted joke slogans on a roadside cafe wall (graffiti-style); no map name"
+  },
+  "f68a98891-b2b0-46bb-86d8-10719de4e0aa": {
+    "accept": false,
+    "reason": "hand-painted joke slogans on a roadside cafe wall; near-duplicate of the same Kings Highway cafe series"
+  },
+  "f97508eec-e523-44cd-90fd-e9226c071fe2": {
+    "accept": false,
+    "reason": "hand-painted slogans ('My tea and coffee better than Starbucks'); near-duplicate of the same cafe series"
+  },
+  "f9b0d7d6c-c3ff-471e-97c9-d58f922eab62": {
+    "accept": false,
+    "reason": "hand-painted joke 'ALDI' slogans and menu on a cafe wall; near-duplicate of the same cafe series"
+  },
+  "f20652a77-1417-4f47-874f-46c430d6eed9": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "الطِيبْ",
+        "lang": "ar",
+        "latin": "al-Tib (the perfume)"
+      },
+      {
+        "text": "للعطور الزيتية",
+        "lang": "ar",
+        "latin": "lil-'Utur al-Zaytiyya (for oil perfumes)"
+      },
+      {
+        "text": "BULA FIJI",
+        "lang": "en"
+      },
+      {
+        "text": "BULA FIJI",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "الطيب للعطور",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Perfume-shop sign in Amman. The name carries a kasra under ط and a sukun over the final ب as printed (الطِيبْ). 'BULA FIJI' appears twice (lower left and lower right). The white standing sign below (الطّيب ... عرض خاص ... اشتري زجاجتين) is a promo distractor; perfume bottle images are not text."
+  }
+}

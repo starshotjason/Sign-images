@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/3082006/380/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMC85LzI4L3Byb2MvMzA4MjAwNl84YjZiZl81ZjcxNDc4MjVmYjE4LmpwZw",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "morflot",
+  "credit_as_published": "KartaView user morflot (user id 37374); © KartaView contributors",
+  "title": "KartaView photo 1108579998, sequence 3082006 #380 (Chisinau, 2020-05-03)",
+  "description": "Street-level picture on KartaView, taken 2020-05-03 near Chisinau by morflot, sequence 3082006, heading 315.76. OCR (PP-OCRv3) read: BODYBUILDINGMD | Kupper",
+  "date": "2020-05-03",
+  "categories": [],
+  "camera_location": [
+    47.022816,
+    28.826366
+  ],
+  "found_by": "kartaview-ocr:Chisinau",
+  "bytes": 499502,
+  "width": 1512,
+  "height": 1134,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMC85LzI4L3Byb2MvMzA4MjAwNl84YjZiZl81ZjcxNDc4MjVmYjE4LmpwZw",
+  "derivative": "crop 1080,194,2592,1328 of the 2592x1512 full-size processed (blurred) picture"
+}

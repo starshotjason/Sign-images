@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=6664c709-86df-4ce9-a080-5226597a5f52",
+  "original_url": "https://panoramax.openstreetmap.fr/images/66/64/c7/09/86df-4ce9-a080-5226597a5f52.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "PanierAvide",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture 6664c709-86df-4ce9-a080-5226597a5f52 (Amsterdam, 2017-10-28)",
+  "description": "Street-level picture on Panoramax, taken 2017-10-28 near Amsterdam by PanierAvide, sequence 9a374fc8-a868-4a0a-8ba2-2c010c647d95, heading 206. OCR (PP-OCRv3) read: Zuiderkerk | 235 | Agnietenkapel | Adreamerisonewho canonly findhiswayby | moonlight,and his punishment is that he | seesthedawnbeforetherestofthe worid. | De WalseKerk | VERBODEN | VERBODEN | PARKERER | Perdu | Compagnietheater",
+  "date": "2017-10-28",
+  "categories": [],
+  "camera_location": [
+    52.36924441,
+    4.89498562
+  ],
+  "found_by": "panoramax-ocr:Amsterdam",
+  "bytes": 2394757,
+  "width": 4096,
+  "height": 2160,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/66/64/c7/09/86df-4ce9-a080-5226597a5f52.jpg",
+  "derivative": "whole 4096x2160 HD picture as served by the Panoramax instance (byte-identical; the service blurs faces and number plates), not cropped"
+}

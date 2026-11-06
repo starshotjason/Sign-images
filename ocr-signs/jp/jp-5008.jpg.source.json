@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=29dd6853-9d08-4be1-882a-499f9d24dfb6",
+  "original_url": "https://panoramax.openstreetmap.fr/images/29/dd/68/53/9d08-4be1-882a-499f9d24dfb6.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "motocultrice",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture 29dd6853-9d08-4be1-882a-499f9d24dfb6 (Tokyo, 2022-06-11)",
+  "description": "Street-level picture taken 2022-06-11 near Tokyo by motocultrice, sequence 7239f060-7248-49d1-9183-c013dfcf2cd8, heading 203. OCR (PP-OCRv3) read: QUEENS意 | TEL3881-1144 | QUEENS | 日本烧肉堂",
+  "date": "2022-06-11",
+  "categories": [],
+  "camera_location": [
+    35.697227,
+    139.785867
+  ],
+  "found_by": "panoramax-ocr:Tokyo",
+  "bytes": 1664374,
+  "width": 4032,
+  "height": 3024,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/29/dd/68/53/9d08-4be1-882a-499f9d24dfb6.jpg",
+  "derivative": "whole 4032x3024 HD picture as served by the Panoramax instance (byte-identical; the instance blurs faces and number plates), not cropped"
+}

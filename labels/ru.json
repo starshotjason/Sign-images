@@ -1,0 +1,473 @@
+{
+ "p0a883bae63": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Cyrl"
+  ],
+  "lines": [
+   {
+    "text": "ПИРОГОВЫЙ ДВОРИК",
+    "lang": "ru",
+    "latin": "Pirogovy Dvorik (Pie Courtyard)"
+   },
+   {
+    "text": "КАФЕ-ПЕКАРНЯ",
+    "lang": "ru",
+    "latin": "Kafe-pekarnya (cafe-bakery)"
+   }
+  ],
+  "expect": {
+   "query": "Пироговый дворик",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Dashcam shot through the windscreen, Saint Petersburg. Secondary target: dark street/house plate on the corner pillar 'ЗАГОРОДНЫЙ / проспект / 39' (the 'проспект' and the smaller line under it are tiny). Distractors: 'БРЫНЗА' shop across the street, A-frame menu board. Vehicle plate is blurred."
+ },
+ "p121a760194": {
+  "accept": false,
+  "reason": "shopping-mall interior panorama; dominant text is LED advertising ('ОТП банк', 'ВСЁ БУДЕТ ТОП!', 'СКОРО ОТКРЫТИЕ МАГАЗИНА'); shop signs (CONSO etc.) are small and there is no single main sign"
+ },
+ "p23cfc2a410": {
+  "accept": false,
+  "reason": "only the generic word 'MUSEUM' on a container, no specific place name; building number plate at right ('2 ... цех') is motion-blurred"
+ },
+ "p31a060c701": {
+  "accept": false,
+  "reason": "near-duplicate of p0a883bae63 (same Пироговый дворик / Загородный пр. 39 corner from the same dashcam sequence)"
+ },
+ "pc08c4fe3ef": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "JAPMEN",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Japmen",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Moscow, restaurant lettering on a brick facade, horizontally motion-blurred. Subline in stylised small lowercase appears to read 'sushi space' but is too blurred to transcribe with confidence. Lamp post in front is a distractor."
+ },
+ "pc379d263be": {
+  "accept": false,
+  "reason": "near-duplicate of p0a883bae63 (same КАФЕ-ПЕКАРНЯ / Пироговый дворик corner from the same dashcam sequence)"
+ },
+ "pd3750960bc": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn",
+   "Cyrl"
+  ],
+  "lines": [
+   {
+    "text": "Rock Pub",
+    "lang": "en"
+   },
+   {
+    "text": "ПИВНОЙ БАР",
+    "lang": "ru",
+    "latin": "Pivnoy bar (beer bar)"
+   }
+  ],
+  "expect": {
+   "query": "Rock Pub",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Night, Saint Petersburg; lit script letters, small yellow Cyrillic subline. A Freddie Mercury figure (statue, not a person) sits in front. Small yellow utility plates on the wall at right are distractors."
+ },
+ "pe9c7a46913": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Poliform",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Poliform",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Moscow furniture showroom fascia, slight motion blur. Name repeated small on the door plaque and inside the window."
+ },
+ "k1326117053": {
+  "accept": false,
+  "reason": "street view dominated by a political party billboard (ЛДПР); other signs too small"
+ },
+ "k1326117173": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "FORUM CAFE.",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Forum Cafe",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Raised white letters on a grey fascia over the café entrance, Yekaterinburg, shot from a car with a parked car in the foreground; a full stop follows CAFE. Distractors: large blue building letters 'У Р Г' (cut off at right), a blue banner 'ПРИЁ...' cut off by the frame, a small 'FORUM CAFE' box sign and a 'TVIET' door sticker."
+ },
+ "k1341001297": {
+  "accept": false,
+  "reason": "slogan banner on scaffolding ('Екатеринбург город трудовой доблести'), not a place sign"
+ },
+ "k2630679798": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "KERAMA MARAZZI",
+    "lang": "it"
+   }
+  ],
+  "expect": {
+   "query": "Kerama Marazzi",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "White capitals on a blue canopy fascia of a ground-floor tile store in a Novosibirsk apartment block, at dusk and at an angle; logo square at right. The grey lettering on the lower building parts and the cut-off sign at far right ('СБО...') are illegible distractors."
+ },
+ "k29151364": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Cyrl",
+   "Zyyy"
+  ],
+  "lines": [
+   {
+    "text": "улица",
+    "lang": "ru",
+    "latin": "ulitsa (street)"
+   },
+   {
+    "text": "ЛОМОНОСОВА 0,3",
+    "lang": "ru",
+    "latin": "Lomonosova 0,3"
+   },
+   {
+    "text": "переулок 0,6",
+    "lang": "ru",
+    "latin": "pereulok 0,6 (lane)"
+   },
+   {
+    "text": "КРЫЛОВА",
+    "lang": "ru",
+    "latin": "Krylova"
+   },
+   {
+    "text": "БАНКОВСКИЙ",
+    "lang": "ru",
+    "latin": "Bankovsky"
+   },
+   {
+    "text": "переулок",
+    "lang": "ru",
+    "latin": "pereulok (lane)"
+   },
+   {
+    "text": "НС БАНК 0,1",
+    "lang": "ru",
+    "latin": "NS Bank 0,1"
+   }
+  ],
+  "expect": {
+   "query": "Банковский переулок",
+   "type": "street"
+  },
+  "difficulty": "medium",
+  "notes": "Pedestrian direction sign in Saint Petersburg: white panel with three destinations (arrows up, up, left) and distances in km with comma decimals, plus a yellow add-on panel for НС БАНК. Each street name is set as a small lowercase type word plus a large capital name. Slightly soft focus. Alternative queries: 'улица Ломоносова', 'переулок Крылова'. The 'РЕМОНТ' banner at bottom right is a distractor."
+ },
+ "k33048932": {
+  "accept": false,
+  "reason": "supermarket advertising billboard"
+ },
+ "p1cf3e7bc3e": {
+  "accept": false,
+  "reason": "bubble-tea menu, not a sign photo"
+ },
+ "c136323124": {
+  "accept": true,
+  "reason": "",
+  "kind": "address plate",
+  "scripts": [
+   "Cyrl",
+   "Zyyy"
+  ],
+  "lines": [
+   {
+    "text": "74",
+    "lang": "und"
+   },
+   {
+    "text": "ул. ЕЛИЗАРОВА",
+    "lang": "ru",
+    "latin": "ul. Elizarova (Elizarov Street)"
+   },
+   {
+    "text": "ул. 50 лет ОКТЯБРЯ",
+    "lang": "ru",
+    "latin": "ul. 50 let Oktyabrya (50 Years of October Street)"
+   }
+  ],
+  "expect": {
+   "query": "улица Елизарова 74",
+   "type": "addr"
+  },
+  "difficulty": "easy",
+  "notes": "Tyumen. Blue corner-house plate with the house number 74 in the arched top and two street names (corner of Elizarova and 50 let Oktyabrya). Painted-over graffiti below is a distractor."
+ },
+ "ff7f8d7b7-c026-4ea1-86b8-2f0e0845c74e": {
+  "accept": false,
+  "reason": "pharmacy cross with a heart symbol at night; no readable text"
+ },
+ "c130321270": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Cyrl"
+  ],
+  "lines": [
+   {
+    "text": "Местная православная религиозная организация",
+    "lang": "ru",
+    "latin": "Mestnaya pravoslavnaya religioznaya organizatsiya"
+   },
+   {
+    "text": "Приход во имя св. вмц. Параскевы Пятницы",
+    "lang": "ru",
+    "latin": "Prikhod vo imya sv. vmts. Paraskevy Pyatnitsy (Parish of St Paraskeva Pyatnitsa)"
+   },
+   {
+    "text": "д. Савино Пышминскго района Свердловской области",
+    "lang": "ru",
+    "latin": "d. Savino Pyshminskgo rayona Sverdlovskoy oblasti"
+   },
+   {
+    "text": "Каменской епархии Русской Православной Церкви",
+    "lang": "ru",
+    "latin": "Kamenskoy eparkhii Russkoy Pravoslavnoy Tserkvi"
+   },
+   {
+    "text": "ДУХОВНО-",
+    "lang": "ru",
+    "latin": "Dukhovno-"
+   },
+   {
+    "text": "ПРОСВЕТИТЕЛЬСКИЙ",
+    "lang": "ru",
+    "latin": "prosvetitelskiy"
+   },
+   {
+    "text": "ЦЕНТР",
+    "lang": "ru",
+    "latin": "tsentr (spiritual and educational centre)"
+   }
+  ],
+  "expect": {
+   "query": "Савино",
+   "type": "place"
+  },
+  "difficulty": "medium",
+  "notes": "Village Savino, Pyshma district, Sverdlovsk Oblast. Gilt-framed plaque in Old-Russian-style display letters. The plaque really spells 'Пышминскго' (missing о; correct form Пышминского); kept as written. Small 'ВИДЕО наблюдение' CCTV sticker at left is a distractor."
+ },
+ "c191203862": {
+  "accept": true,
+  "reason": "",
+  "kind": "address plate",
+  "scripts": [
+   "Cyrl",
+   "Zyyy"
+  ],
+  "lines": [
+   {
+    "text": "СОФИЙСКАЯ",
+    "lang": "ru",
+    "latin": "Sofiyskaya"
+   },
+   {
+    "text": "НАБЕРЕЖНАЯ",
+    "lang": "ru",
+    "latin": "naberezhnaya (embankment)"
+   },
+   {
+    "text": "16",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "Софийская набережная 16",
+   "type": "addr"
+  },
+  "difficulty": "easy",
+  "notes": "Moscow. Two brass plates on a wrought-iron gate pillar: street name in serif capitals and house number 16 below."
+ },
+ "c129590203": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Cyrl"
+  ],
+  "lines": [
+   {
+    "text": "КРЫЛЬЯ",
+    "lang": "ru",
+    "latin": "Krylya (Wings)"
+   },
+   {
+    "text": "СВОБОДНОЕ ОБУЧЕНИЕ",
+    "lang": "ru",
+    "latin": "svobodnoe obuchenie (free learning)"
+   }
+  ],
+  "expect": {
+   "query": "Крылья",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Rostov-on-Don, 26B Zoologicheskaya Street. School signboard on a brick wall with an origami-bird logo; a loose white cable crosses the 'Р'."
+ },
+ "c116657810": {
+  "accept": false,
+  "reason": "Soviet postal notice ('Сообщите своим адресатам: Вас обслуживает предприятие связи с почтовым индексом 392018'); informational notice, no place or business name"
+ },
+ "f03ba2144-5488-430a-80a9-09bfc360f6aa": {
+  "accept": true,
+  "reason": "",
+  "kind": "hard",
+  "scripts": [
+   "Cyrl"
+  ],
+  "lines": [
+   {
+    "text": "ЛЕНИНСКИЙ",
+    "lang": "ru",
+    "latin": "Leninskiy"
+   },
+   {
+    "text": "ПРОСПЕКТ",
+    "lang": "ru",
+    "latin": "prospekt (avenue)"
+   }
+  ],
+  "expect": {
+   "query": "Ленинский проспект",
+   "type": "street"
+  },
+  "difficulty": "hard",
+  "notes": "Saint Petersburg. Small 1980s lightbox street sign on a pillar, shot from below; letters are small and soft (1024 px source). Larger distractor fascia above: 'Петербургские АПТЕКИ' (pharmacy chain)."
+ },
+ "fb4406ca0-2135-4df9-8e66-bd497cfb4ff3": {
+  "accept": true,
+  "reason": "",
+  "kind": "hard",
+  "scripts": [
+   "Cyrl"
+  ],
+  "lines": [
+   {
+    "text": "Салонъ Буре",
+    "lang": "ru",
+    "latin": "Salon Bure"
+   },
+   {
+    "text": "НЕВСКИЙ",
+    "lang": "ru",
+    "latin": "Nevskiy"
+   },
+   {
+    "text": "23",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "Салон Буре",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Saint Petersburg, Nevsky Prospekt 23. Target is the narrow green vertical shop sign at the right edge, letters stacked; pre-reform spelling with hard sign 'Салонъ' and a decorative Б. The foreground is dominated by traffic signs ('СТОП' plate, no-stopping, priority road, pedestrian crossing) and a crowd; a 'КАФЕ' price board and Pepsi adverts are distractors."
+ },
+ "fbd432107-51a2-4dc1-ab3c-830376bc2c59": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Cyrl"
+  ],
+  "lines": [
+   {
+    "text": "ЗВЕЗДНЫЙ",
+    "lang": "ru",
+    "latin": "Zvezdnyy (Star City)"
+   }
+  ],
+  "expect": {
+   "query": "Звёздный городок",
+   "type": "place"
+  },
+  "difficulty": "medium",
+  "notes": "Entrance stele of Star City (Zvyozdny gorodok), Moscow Oblast: white monument with a star-and-spire relief and raised letters. Written with Е, not Ё. Seen at an angle from the roadside."
+ },
+ "fc3735c36-2b60-4456-af2e-61b276bc4f53": {
+  "accept": true,
+  "reason": "",
+  "kind": "address plate",
+  "scripts": [
+   "Cyrl",
+   "Zyyy"
+  ],
+  "lines": [
+   {
+    "text": "Уң як Болак ур.",
+    "lang": "tt",
+    "latin": "Uñ yak Bolak ur. (Right-bank Bulak Street)"
+   },
+   {
+    "text": "ул. Право-Булачная",
+    "lang": "ru",
+    "latin": "ul. Pravo-Bulachnaya"
+   },
+   {
+    "text": "7",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "Право-Булачная улица 7",
+   "type": "addr"
+  },
+  "difficulty": "easy",
+  "notes": "Kazan. Bilingual Tatar/Russian street plate with separate house-number plate 7. Tatar line uses Cyrillic ң. Slight upward angle."
+ }
+}

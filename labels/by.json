@@ -1,0 +1,562 @@
+{
+ "p49cf6f6ec5": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Cyrl"
+  ],
+  "lines": [
+   {
+    "text": "БЕЛТЕЛЕКОМ",
+    "lang": "ru",
+    "latin": "Beltelekom"
+   }
+  ],
+  "expect": {
+   "query": "Белтелеком",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Rooftop letters on the Beltelecom building (Minsk, near Independence Avenue), moderately far and a little soft. The cut-off '...ПТ' rooftop letters at left (presumably the main post office) are a distractor."
+ },
+ "k236628143": {
+  "accept": false,
+  "reason": "the only shop sign ('...ТРАЛЬНА-КАНЦЭРТНАЯ КАСА') is cut by a motion-blurred lamp post and info sign in the foreground"
+ },
+ "k259397251": {
+  "accept": false,
+  "reason": "only a generic, edge-cut fascia ('САЛОН-ЦЫРУЛЬН...'); no business name"
+ },
+ "k237498323": {
+  "accept": false,
+  "reason": "only the generic word 'АВИАКАССА' (air-ticket office), no business name; image soft"
+ },
+ "k227937001": {
+  "accept": false,
+  "reason": "near-duplicate of accepted p49cf6f6ec5 (same БЕЛТЕЛЕКОМ rooftop letters, similar view)"
+ },
+ "k259397211": {
+  "accept": false,
+  "reason": "the only sign (KÉRASTASE / студия ...) is cut by the image edge; frame is mostly bare facade"
+ },
+ "k236628083": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "HORIZONT",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Horizont",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Rooftop letters on the corner building at Independence Avenue / Engels Street, Minsk, shot through a windscreen at dusk. Distractors: 'БЕЛТЕЛЕКОМ' rooftop letters at right (cut off), tiny street plate 'вул. ЭНГЕЛЬСА' on the signal pole, life:) shop roundels."
+ },
+ "k247816575": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn",
+   "Cyrl"
+  ],
+  "lines": [
+   {
+    "text": "TeaShop.by",
+    "lang": "en"
+   },
+   {
+    "text": "МАГАЗИН ЧАЙНАЯ",
+    "lang": "ru",
+    "latin": "Magazin chaynaya (shop, tea room)"
+   }
+  ],
+  "expect": {
+   "query": "TeaShop.by",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Green-lettered fascia in the middle of a row of shops, Minsk; a leaf logo sits between МАГАЗИН and ЧАЙНАЯ. Distractors: 'ХОББИПАРК / РАДИОУПРАВЛЯЕМЫЕ МОДЕЛИ' (partly hidden by a tree), 'МОЛЬНАР' (cut off at right), ФОТОТЕХНИКА and small signs at left, direction signs and ДЕТИ warning sign in the distance."
+ },
+ "k247814923": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Cyrl"
+  ],
+  "lines": [
+   {
+    "text": "пр-т НЕЗАЛЕЖНАСЦІ",
+    "lang": "be",
+    "latin": "pr-t Nezalezhnastsi (Independence Avenue)"
+   },
+   {
+    "text": "ГАРАДСКІ ВАЛ",
+    "lang": "be",
+    "latin": "Haradski Val"
+   }
+  ],
+  "expect": {
+   "query": "Гарадскі Вал",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Two white Belarusian-language direction plates under a straight-ahead sign, Minsk; arrows on both ends of the upper plate and at the left of the lower one. The І is Cyrillic і (U+0406/U+0456). Traffic lights and the advert at left are distractors."
+ },
+ "k237498363": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "TGI",
+    "lang": "en"
+   },
+   {
+    "text": "FRIDAYS",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "TGI Fridays",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Restaurant fascia on a Stalinist corner building, Minsk, with slight motion blur; 'TGI' is small and rotated vertically before FRIDAYS. McDonald's poster and a small plaque at lower left are distractors."
+ },
+ "k247816235": {
+  "accept": false,
+  "reason": "vehicle number plate is the subject (van rear); only text otherwise is a dealer plate frame"
+ },
+ "f6eadf6a9-b080-469f-a968-fd19c21e991e": {
+  "accept": false,
+  "reason": "novelty pictogram sign 'МЕСТО ДЛЯ ПОЦЕЛУЕВ' (place for kisses); not a mappable place name"
+ },
+ "f139a7e22-906f-4013-be1d-5df1a45b4918": {
+  "accept": false,
+  "reason": "decorative forged letters, partly mirrored/ambiguous and cut at the right edge; the name cannot be read reliably"
+ },
+ "k227937061": {
+  "accept": false,
+  "reason": "dim dusk shot; only the generic word 'CASINO' is legible, the named neon sign at left is too small"
+ },
+ "f85a336fd-51b7-4b5d-b423-035b8d80fe51": {
+  "accept": false,
+  "reason": "station concourse overview with many small signs (HORIZONT, ВИТЯЗЬ, departure boards) and no single target"
+ },
+ "k227937041": {
+  "accept": false,
+  "reason": "only a STOP plate and traffic pictograms; no place text"
+ },
+ "k227937021": {
+  "accept": false,
+  "reason": "dark, blurred shopfront; only an event poster (ДВОРЕЦ РЕСПУБЛИКИ, 19 АПРЕЛЯ 2018) which is advertising"
+ },
+ "f0579d1be-64b1-4e5d-9ceb-e8316b7b064a": {
+  "accept": false,
+  "reason": "gazebo roof ironwork, no text"
+ },
+ "f80fe629b-481f-412f-bc0d-43ca1b891867": {
+  "accept": false,
+  "reason": "miniature bronze model of the Brest station with the word БРЭСТ; a model, not a real sign"
+ },
+ "fafc945e3-6cd9-4dcf-8738-e757198ad686": {
+  "accept": false,
+  "reason": "sculpture only, no text"
+ },
+ "fa60b5aa7-5945-4a40-aa4e-70aac31d63d8": {
+  "accept": false,
+  "reason": "likely wrong country: Polish-language trail sign 'ZAMEK GRODNO' (Grodno Castle is in Lower Silesia, Poland), forest setting, no Belarus evidence"
+ },
+ "f814ea667-4a92-4aaf-ba4b-0d9851f8bad2": {
+  "accept": false,
+  "reason": "sculpture and floodlight mast, no text"
+ },
+ "fe832d705-8c64-40dd-9896-e5608149f6ba": {
+  "accept": false,
+  "reason": "people's faces are the subject; no sign"
+ },
+ "f00300293-3c59-4083-a5c1-1ea0ae18e128": {
+  "accept": false,
+  "reason": "market hall overview with crowds; signs (VELCOM etc.) are small, no single target"
+ },
+ "f1a0c1299-ec55-4cb0-9f95-941db61c6014": {
+  "accept": false,
+  "reason": "market hall overview; signs are small product/department banners, no single place sign"
+ },
+ "f29c69e59-2946-45f1-ad42-97467d1b4efd": {
+  "accept": false,
+  "reason": "underground mall interior; shop signs are small and the people are the focus"
+ },
+ "f225ba0ec-d2ed-45ac-b349-29fad55047fd": {
+  "accept": false,
+  "reason": "shop-window display with mannequins, no text"
+ },
+ "f1fc46dc0-eb22-45ca-bfb1-2f2fd4a16394": {
+  "accept": false,
+  "reason": "market stall with lard and a price tag; no place sign, people's faces prominent"
+ },
+ "f32bcb02f-e257-48cd-9e37-359db4c972ef": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Cyrl"
+  ],
+  "lines": [
+   {
+    "text": "Победа",
+    "lang": "ru",
+    "latin": "Pobeda (Victory)"
+   },
+   {
+    "text": "КИНОТЕАТР",
+    "lang": "ru",
+    "latin": "kinoteatr (cinema)"
+   }
+  ],
+  "expect": {
+   "query": "Победа",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Night shot of the rooftop neon letters of the Pobeda cinema, Minsk, from below at a steep angle. 'Победа' is in a script (cursive) typeface with a swash; in КИНОТЕАТР the Е is drawn as a lowercase-style е."
+ },
+ "k262835229": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Cyrl",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "пр-т НЕЗАЛЕЖНАСЦІ",
+    "lang": "be",
+    "latin": "pr-t Nezalezhnastsi (Independence Avenue)"
+   },
+   {
+    "text": "вул. КАМСАМОЛЬСКАЯ",
+    "lang": "be",
+    "latin": "vul. Kamsamolskaya (Komsomolskaya Street)"
+   },
+   {
+    "text": "STOP",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Камсамольская",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Two white Belarusian direction plates above a STOP plate on a traffic-light pole, Minsk. Different junction from k247814923 (same sign style). Евроопт/связной shop fascias at the bottom are distractors."
+ },
+ "f9b90ccd4-1f27-4e9f-bf97-ed22b3c19419": {
+  "accept": true,
+  "reason": "",
+  "kind": "address plate",
+  "scripts": [
+   "Cyrl"
+  ],
+  "lines": [
+   {
+    "text": "улица",
+    "lang": "ru",
+    "latin": "ulitsa (street)"
+   },
+   {
+    "text": "Карла Маркса",
+    "lang": "ru",
+    "latin": "Karla Marksa (Karl Marx)"
+   },
+   {
+    "text": "24",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "улица Карла Маркса 24",
+   "type": "addr"
+  },
+  "difficulty": "easy",
+  "notes": "Decorative embossed grey street-and-house-number plate, Grodno, frontal and sharp. 'улица' is in small capitals-style lettering above the name."
+ },
+ "c109206103": {
+  "accept": false,
+  "reason": "no readable sign text; rural street view with only a speed-limit pictogram"
+ },
+ "c128062050": {
+  "accept": false,
+  "reason": "building view; no legible sign as target"
+ },
+ "c145078745": {
+  "accept": false,
+  "reason": "bus-stop name board too small and distant to be the target; vehicle plates visible"
+ },
+ "c172735431": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Cyrl",
+   "Zyyy"
+  ],
+  "lines": [
+   {
+    "text": "1005",
+    "lang": "und"
+   },
+   {
+    "text": "СЛУЦК",
+    "lang": "be",
+    "latin": "Sluck (Slutsk)"
+   }
+  ],
+  "expect": {
+   "query": "Слуцк",
+   "type": "place"
+  },
+  "difficulty": "medium",
+  "notes": "Town-entry stele with coat of arms, founding year 1005 and the name in red 3D letters (same spelling in Belarusian and Russian). The 'СЛУЦКИЙ САХАР' lettering on the sugar refinery behind is a distractor."
+ },
+ "c17298079": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Cyrl"
+  ],
+  "lines": [
+   {
+    "text": "завулак",
+    "lang": "be",
+    "latin": "zavulak (lane)"
+   },
+   {
+    "text": "І. Буйніцкага",
+    "lang": "be",
+    "latin": "I. Bujnickaha"
+   },
+   {
+    "text": "вуліца",
+    "lang": "be",
+    "latin": "vulica (street)"
+   },
+   {
+    "text": "І. Буйніцкага",
+    "lang": "be",
+    "latin": "I. Bujnickaha"
+   }
+  ],
+  "expect": {
+   "query": "Буйніцкага",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Lamp-post corner sign with two arrow panels (left: lane, right: street) in Belarusian with Belarusian і; a wall plate at left repeats 'вуліца І. БУЙНІЦКАГА' in capitals. Minsk."
+ },
+ "c174535023": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Cyrl",
+   "Zyyy"
+  ],
+  "lines": [
+   {
+    "text": "вуліца ЗЕЛЁНАЛУГСКАЯ",
+    "lang": "be",
+    "latin": "vulica Zielienaluhskaja (Zelenolugskaya Street)"
+   },
+   {
+    "text": "ДАМЬ 1-31",
+    "lang": "be",
+    "latin": "damy 1-31 (houses 1-31)"
+   }
+  ],
+  "expect": {
+   "query": "Зеленалугская",
+   "type": "street"
+  },
+  "difficulty": "medium",
+  "notes": "Painted Belarusian street sign in Tsna, Minsk, low evening sun. Bottom strip is peeling: the word reads 'ДАМЬ' as visible, presumably intended 'ДАМЫ' (houses) with the stroke of Ы lost. Ё has its dots. Painted '7/01' on the pole is a distractor."
+ },
+ "c175726500": {
+  "accept": false,
+  "reason": "sign mostly hidden by bushes; only '2-й пер...' and 'Кри...' visible"
+ },
+ "c176036447": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Cyrl",
+   "Zyyy"
+  ],
+  "lines": [
+   {
+    "text": "1439",
+    "lang": "und"
+   },
+   {
+    "text": "ЛЕПЕЛЬ",
+    "lang": "ru",
+    "latin": "Lepel"
+   }
+  ],
+  "expect": {
+   "query": "Лепель",
+   "type": "place"
+  },
+  "difficulty": "medium",
+  "notes": "Town-entry stele in a field with the year 1439 and the name in white script capitals on a blue panel (Russian spelling; Belarusian is Лепель too). Stylised calligraphic font."
+ },
+ "c182076825": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Cyrl"
+  ],
+  "lines": [
+   {
+    "text": "МОТАЛЬ",
+    "lang": "ru",
+    "latin": "Motal"
+   }
+  ],
+  "expect": {
+   "query": "Моталь",
+   "type": "place"
+  },
+  "difficulty": "medium",
+  "notes": "White settlement-entry road sign with skyline pictogram, Ivanava District, Brest Region; sign is mid-distance at the right of the road."
+ },
+ "c185791809": {
+  "accept": false,
+  "reason": "pure warning pictogram (children crossing), no place text"
+ },
+ "c23990144": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Cyrl",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "МАГІЛЁЎ Р93",
+    "lang": "be",
+    "latin": "Mahilioŭ R93"
+   },
+   {
+    "text": "Р43 КРЫЧАЎ",
+    "lang": "be",
+    "latin": "R43 Kryčaŭ"
+   },
+   {
+    "text": "Р62",
+    "lang": "und",
+    "latin": "R62"
+   },
+   {
+    "text": "ЧАШНІКІ",
+    "lang": "be",
+    "latin": "Čašniki"
+   },
+   {
+    "text": "E271 М5",
+    "lang": "und",
+    "latin": "E271 M5"
+   },
+   {
+    "text": "ГОМЕЛЬ",
+    "lang": "be",
+    "latin": "Homieĺ"
+   },
+   {
+    "text": "БАБРУЙСК",
+    "lang": "be",
+    "latin": "Babrujsk"
+   },
+   {
+    "text": "Р67",
+    "lang": "und",
+    "latin": "R67"
+   },
+   {
+    "text": "БАРЫСАЎ",
+    "lang": "be",
+    "latin": "Barysaŭ"
+   },
+   {
+    "text": "Р31",
+    "lang": "und",
+    "latin": "R31"
+   },
+   {
+    "text": "МАЗЫР",
+    "lang": "be",
+    "latin": "Mazyr"
+   },
+   {
+    "text": "МІНСК E271 М5",
+    "lang": "be",
+    "latin": "Minsk E271 M5"
+   },
+   {
+    "text": "Р55 ЛЮБАНЬ",
+    "lang": "be",
+    "latin": "R55 Liubań"
+   }
+  ],
+  "expect": {
+   "query": "Бабруйск",
+   "type": "place"
+  },
+  "difficulty": "easy",
+  "notes": "Large blue Belarusian-language advance direction sign for the Babrujsk ring road, with ў, ё and і. Road-number letters are homoglyphs: national routes written with Cyrillic Р/М, European route E271 with Latin E. A smaller lane sign at lower left (Р43 БАБРУЙСК, МІНСК, ГОМЕЛЬ, ГЛУСК, МАЗЫР, 300м) is a secondary sign."
+ },
+ "c38960967": {
+  "accept": true,
+  "reason": "",
+  "kind": "address plate",
+  "scripts": [
+   "Cyrl",
+   "Zyyy"
+  ],
+  "lines": [
+   {
+    "text": "ул. СОВЕТСКАЯ",
+    "lang": "ru",
+    "latin": "ul. Sovetskaya (Soviet Street)"
+   },
+   {
+    "text": "74",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "Советская",
+   "type": "addr"
+  },
+  "difficulty": "easy",
+  "notes": "Old enamel street plate with separate house-number plate 74 on a wooden house in Ašmiany (Oshmyany), Russian-language."
+ }
+}

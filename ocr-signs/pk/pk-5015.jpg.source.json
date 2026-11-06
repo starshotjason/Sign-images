@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/10036073/27/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyNC8xMC8xOC9wcm9jLzEwMDM2MDczX2Y1YWZjMmZmMjg3Y2Q3ZTRhYTY5YzkxNjFjZTg0N2FiLmpwZw",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "shan-ameen",
+  "credit_as_published": "KartaView user shan-ameen (user id 231689); © KartaView contributors",
+  "title": "KartaView photo 2466549593, sequence 10036073 #27 (Lahore, 2024-10-18)",
+  "description": "Street-level picture on KartaView, taken 2024-10-18 near Lahore by shan-ameen, sequence 10036073, heading 323.39. OCR (PP-OCRv3) read: ainbowTravels | Haj Package",
+  "date": "2024-10-18",
+  "categories": [],
+  "camera_location": [
+    31.563855,
+    74.33257
+  ],
+  "found_by": "kartaview-ocr:Lahore",
+  "bytes": 208769,
+  "width": 1200,
+  "height": 900,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyNC8xMC8xOC9wcm9jLzEwMDM2MDczX2Y1YWZjMmZmMjg3Y2Q3ZTRhYTY5YzkxNjFjZTg0N2FiLmpwZw",
+  "derivative": "crop 931,318,2131,1218 of the 4000x2250 full-size processed (blurred) picture"
+}

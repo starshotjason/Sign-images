@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=f89e2396-b822-4f39-8b62-d2aecd05a13d",
+  "original_url": "https://panoramax.openstreetmap.fr/images/f8/9e/23/96/b822-4f39-8b62-d2aecd05a13d.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "p20r4h08zu8",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture f89e2396-b822-4f39-8b62-d2aecd05a13d (Istanbul, 2026-05-06)",
+  "description": "360-degree panorama taken 2026-05-06 near Istanbul by p20r4h08zu8, sequence 0ab51545-e479-4785-a5ff-c67c0421aa94, heading 23. OCR (PP-OCRv3) read: MOUNTING | DIAMOND | FABART | FABART | KIRALIK | DUKKAN | MURACAAT | CAY OCAGI",
+  "date": "2026-05-06",
+  "categories": [],
+  "camera_location": [
+    41.0104545,
+    28.974238
+  ],
+  "found_by": "panoramax-ocr:Istanbul",
+  "bytes": 775338,
+  "width": 1920,
+  "height": 1440,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/f8/9e/23/96/b822-4f39-8b62-d2aecd05a13d.jpg",
+  "derivative": "rectilinear (gnomonic) view, yaw +137.3 deg from the panorama centre, pitch +6.4 deg, horizontal field of view 90 deg, 1920x1440 px, reprojected from the 7680x3840 HD equirectangular panorama"
+}

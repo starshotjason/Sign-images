@@ -1,0 +1,35 @@
+{
+  "source": "flickr",
+  "source_url": "https://www.flickr.com/photos/67734410@N00/54489039361",
+  "original_url": "https://live.staticflickr.com/65535/54489039361_bcd9eba331_o.jpg",
+  "license_as_published": "CC BY-SA 2.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/2.0/",
+  "author_as_published": "maltman23",
+  "credit_as_published": "\"Brno, Apr-2025\" by maltman23 is licensed under CC BY-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.0/.",
+  "title": "Brno, Apr-2025",
+  "description": "",
+  "date": "",
+  "categories": [
+    "brno",
+    "czechrepublic",
+    "shop",
+    "sign"
+  ],
+  "camera_location": null,
+  "found_by": "openverse:Czech Republic shop sign",
+  "bytes": 275350,
+  "width": 1024,
+  "height": 769,
+  "downloaded_url": "https://api.openverse.org/v1/images/aaff0315-3fcf-4d2d-8671-4699e22087e5/thumb/?full_size=true&compressed=false",
+  "derivative": "Flickr's published 1024 px 'large' rendition, served by the Openverse image API (Flickr originals were throttled for this client)",
+  "flickr": {
+    "flickr_url": "https://www.flickr.com/photos/67734410@N00/54489039361",
+    "flickr_license": "CC BY-SA 2.0",
+    "lat": null,
+    "lon": null,
+    "original_url": "https://live.staticflickr.com/65535/54489039361_bcd9eba331_o.jpg",
+    "flickr_license_code": 5,
+    "retrieved": "2026-11-06T05:25:41.241367+00:00"
+  },
+  "openverse_id": "aaff0315-3fcf-4d2d-8671-4699e22087e5"
+}

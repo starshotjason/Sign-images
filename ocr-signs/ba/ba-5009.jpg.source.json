@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=52b5f039-766d-4f45-a61f-3182887e9ab4",
+  "original_url": "https://panoramax.openstreetmap.fr/images/52/b5/f0/39/766d-4f45-a61f-3182887e9ab4.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "Robot8A",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture 52b5f039-766d-4f45-a61f-3182887e9ab4 (Sarajevo, 2026-04-03)",
+  "description": "Street-level picture taken 2026-04-03 near Sarajevo by Robot8A, sequence dd790cff-fba1-4972-af6e-123d35deb4a6, heading 35. OCR (PP-OCRv3) read: HOTEL | HOTEL HOLIDAY | WERKSTATT | TRAMVAJ | CEKAM",
+  "date": "2026-04-03",
+  "categories": [],
+  "camera_location": [
+    43.855463889,
+    18.402261111
+  ],
+  "found_by": "panoramax-ocr:Sarajevo",
+  "bytes": 3871911,
+  "width": 4284,
+  "height": 4945,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/52/b5/f0/39/766d-4f45-a61f-3182887e9ab4.jpg",
+  "derivative": "crop 0,766,4284,5711 of the 4284x5712 HD picture"
+}

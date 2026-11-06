@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/3850077/12/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMS85LzIxL3Byb2MvMzg1MDA3N183Y2ZkNV82MTRhMTk3NWMwNWRmLmpwZw",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "vincent-bombaerts",
+  "credit_as_published": "KartaView user vincent-bombaerts (user id 59597); © KartaView contributors",
+  "title": "KartaView photo 1378033257, sequence 3850077 #12 (Muscat, 2020-03-14)",
+  "description": "Street-level picture on KartaView, taken 2020-03-14 near Muscat by vincent-bombaerts, sequence 3850077, heading 100.07. OCR (PP-OCRv3) read: EZ Hyeer",
+  "date": "2020-03-14",
+  "categories": [],
+  "camera_location": [
+    23.587853,
+    58.412153
+  ],
+  "found_by": "kartaview-ocr:Muscat",
+  "bytes": 218618,
+  "width": 1200,
+  "height": 900,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMS85LzIxL3Byb2MvMzg1MDA3N183Y2ZkNV82MTRhMTk3NWMwNWRmLmpwZw",
+  "derivative": "crop 720,0,1920,900 of the 1920x1080 full-size processed (blurred) picture"
+}

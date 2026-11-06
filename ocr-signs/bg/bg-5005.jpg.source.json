@@ -1,0 +1,42 @@
+{
+  "source": "flickr",
+  "source_url": "https://www.flickr.com/photos/35492114@N07/7730443508",
+  "original_url": "https://live.staticflickr.com/7127/7730443508_87fd28f181_o.jpg",
+  "license_as_published": "CC BY-SA 2.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/2.0/",
+  "author_as_published": "Funky Tee",
+  "credit_as_published": "\"Translation Service Needed to Translate the Sign\" by Funky Tee is licensed under CC BY-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.0/.",
+  "title": "Translation Service Needed to Translate the Sign",
+  "description": "",
+  "date": "",
+  "categories": [
+    "bulgaria",
+    "d5000",
+    "eastern",
+    "europe",
+    "european",
+    "nikon",
+    "plovdiv",
+    "unionsigntranslationservice"
+  ],
+  "camera_location": [
+    42.140018,
+    24.747991
+  ],
+  "found_by": "openverse:Plovdiv sign",
+  "bytes": 280908,
+  "width": 680,
+  "height": 1024,
+  "downloaded_url": "https://api.openverse.org/v1/images/f41ad164-be03-42d5-8dd4-9d026e4fd0eb/thumb/?full_size=true&compressed=false",
+  "derivative": "Flickr's published 1024 px 'large' rendition, served by the Openverse image API (Flickr originals were throttled for this client)",
+  "flickr": {
+    "flickr_url": "https://www.flickr.com/photos/35492114@N07/7730443508",
+    "flickr_license": "CC BY-SA 2.0",
+    "lat": 42.140018,
+    "lon": 24.747991,
+    "original_url": "https://live.staticflickr.com/7127/7730443508_87fd28f181_o.jpg",
+    "flickr_license_code": 5,
+    "retrieved": "2026-11-06T05:51:27.523255+00:00"
+  },
+  "openverse_id": "f41ad164-be03-42d5-8dd4-9d026e4fd0eb"
+}

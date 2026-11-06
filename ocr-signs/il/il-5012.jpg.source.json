@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.mapcomplete.org/#focus=pic&pic=36189b60-3d13-4903-9081-701d930c6b51",
+  "original_url": "https://panoramax.mapcomplete.org/permanent/36/18/9b/60/3d13-4903-9081-701d930c6b51.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "mapcomplete",
+  "credit_as_published": "Panoramax, instance mapcomplete (https://panoramax.mapcomplete.org)",
+  "title": "Panoramax picture 36189b60-3d13-4903-9081-701d930c6b51 (Tel Aviv, 2025-12-01)",
+  "description": "Street-level picture on Panoramax, taken 2025-12-01 near Tel Aviv by mapcomplete, sequence 14ea2dff-2d5f-4134-9a9c-0b7ff34d87aa, heading 289. OCR (PP-OCRv3) read: [unread] Lu, Neal 2he Ci.iol. | Elhanan Leib Levinski st. | [unread] G.L",
+  "date": "2025-12-01",
+  "categories": [],
+  "camera_location": [
+    32.055903087,
+    34.781535761
+  ],
+  "found_by": "panoramax-ocr:Tel Aviv",
+  "bytes": 2368871,
+  "width": 3060,
+  "height": 3433,
+  "downloaded_url": "https://panoramax.mapcomplete.org/permanent/36/18/9b/60/3d13-4903-9081-701d930c6b51.jpg",
+  "derivative": "crop 0,0,3060,3433 of the 3060x4080 HD picture"
+}

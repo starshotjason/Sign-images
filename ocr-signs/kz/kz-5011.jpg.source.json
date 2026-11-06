@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/11676771/0/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyNi83LzMvcHJvYy8xMTY3Njc3MV9jZGM2N182YTQ3NjFiMDI0ODYxLmpwZw",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "seven",
+  "credit_as_published": "KartaView user seven (user id 10951); © KartaView contributors",
+  "title": "KartaView photo 2631246729, sequence 11676771 #0 (Astana, 2026-07-02)",
+  "description": "Street-level picture on KartaView, taken 2026-07-02 near Astana by seven, sequence 11676771, heading 158.68. OCR (PP-OCRv3) read: WEDRINK | [unread] GAnMY3AAKWAM&KOPE | WEDRiNK! | [unread] AMA | [unread] EPA3WNM | OREO | CAHA3 | 650元 | bIPFAFbIH | CE3IH | MAPAKYM | EDRI",
+  "date": "2026-07-02",
+  "categories": [],
+  "camera_location": [
+    51.163937,
+    71.427367
+  ],
+  "found_by": "kartaview-ocr:Astana",
+  "bytes": 1029005,
+  "width": 4096,
+  "height": 2304,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyNi83LzMvcHJvYy8xMTY3Njc3MV9jZGM2N182YTQ3NjFiMDI0ODYxLmpwZw",
+  "derivative": "whole 4096x2304 full-size processed (blurred) picture as served by the KartaView CDN (byte-identical; the service blurs faces and number plates), not cropped"
+}

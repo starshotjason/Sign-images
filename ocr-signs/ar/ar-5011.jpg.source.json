@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/937107/418/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlNi5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE3LzEwLzExL3Byb2MvOTM3MTA3XzhiYWY2XzU5ZGUwZWYxYWIwODYuanBn",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "felipegonz",
+  "credit_as_published": "KartaView user felipegonz (user id 11871); © KartaView contributors",
+  "title": "KartaView photo 141317407, sequence 937107 #418 (Buenos Aires, 2017-10-11)",
+  "description": "Street-level picture on KartaView, taken 2017-10-11 near Buenos Aires by felipegonz, sequence 937107, heading 75.12. OCR (PP-OCRv3) read: SECRET ARIO GEN",
+  "date": "2017-10-11",
+  "categories": [],
+  "camera_location": [
+    -34.603563,
+    -58.380122
+  ],
+  "found_by": "kartaview-ocr:Buenos Aires",
+  "bytes": 423183,
+  "width": 1755,
+  "height": 1316,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlNi5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE3LzEwLzExL3Byb2MvOTM3MTA3XzhiYWY2XzU5ZGUwZWYxYWIwODYuanBn",
+  "derivative": "crop 0,0,1755,1316 of the 2160x3840 full-size processed (blurred) picture"
+}

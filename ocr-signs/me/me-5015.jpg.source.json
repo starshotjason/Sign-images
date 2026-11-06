@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/1449538/249/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTEub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAxOS81LzE1L3Byb2MvMTQ0OTUzOF8wMjQwOF8yNDkuanBn",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "brackone",
+  "credit_as_published": "KartaView user brackone (user id 16159); © KartaView contributors",
+  "title": "KartaView photo 409986378, sequence 1449538 #249 (Podgorica, 2019-05-14)",
+  "description": "Street-level picture on KartaView, taken 2019-05-14 near Podgorica by brackone, sequence 1449538, heading 119. OCR (PP-OCRv3) read: SLOBODA | TRAZI LJUDE | POKRETZA | ROMJENE | zetagradnja | [unread] NEN | GRAWE | MARKET | do ljiepog tena. | DUSAN",
+  "date": "2019-05-14",
+  "categories": [],
+  "camera_location": [
+    42.443477,
+    19.263801
+  ],
+  "found_by": "kartaview-ocr:Podgorica",
+  "bytes": 557618,
+  "width": 3072,
+  "height": 1728,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTEub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAxOS81LzE1L3Byb2MvMTQ0OTUzOF8wMjQwOF8yNDkuanBn",
+  "derivative": "whole 3072x1728 full-size processed (blurred) picture as served by the KartaView CDN (byte-identical; the service blurs faces and number plates), not cropped"
+}

@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=1a4350db-b85a-4228-9b90-85d150e860ea",
+  "original_url": "https://panoramax.openstreetmap.fr/images/1a/43/50/db/b85a-4228-9b90-85d150e860ea.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "osm-operon",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture 1a4350db-b85a-4228-9b90-85d150e860ea (Abidjan, 2024-09-11)",
+  "description": "Street-level picture taken 2024-09-11 near Abidjan by osm-operon, sequence e197687d-4b13-475d-b482-2a5eec78dc08, heading 144. OCR (PP-OCRv3) read: YAMOUSSOUKRO | YOPOUGON",
+  "date": "2024-09-11",
+  "categories": [],
+  "camera_location": [
+    5.3411048,
+    -4.0170428
+  ],
+  "found_by": "panoramax-ocr:Abidjan",
+  "bytes": 229713,
+  "width": 1372,
+  "height": 1029,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/1a/43/50/db/b85a-4228-9b90-85d150e860ea.jpg",
+  "derivative": "crop 803,912,2175,1941 of the 4624x3468 HD picture"
+}

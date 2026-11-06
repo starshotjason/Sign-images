@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/960663/4573/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlNi5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE3LzEwLzMxL3Byb2MvOTYwNjYzXzgzNDExXzI0LmpwZw",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "telenavdrives",
+  "credit_as_published": "KartaView user telenavdrives (user id 53); © KartaView contributors",
+  "title": "KartaView photo 154870923, sequence 960663 #4573 (Warsaw, 2017-10-23)",
+  "description": "Street-level picture on KartaView, taken 2017-10-23 near Warsaw by telenavdrives, sequence 960663, heading 179.71. OCR (PP-OCRv3) read: Solec | Powisle | PlacKonstytucji | Muzeum | Narodowe | PParking",
+  "date": "2017-10-23",
+  "categories": [],
+  "camera_location": [
+    52.231291,
+    21.010757
+  ],
+  "found_by": "kartaview-ocr:Warsaw",
+  "bytes": 295644,
+  "width": 1323,
+  "height": 992,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlNi5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE3LzEwLzMxL3Byb2MvOTYwNjYzXzgzNDExXzI0LmpwZw",
+  "derivative": "crop 1269,413,2592,1405 of the 2592x1936 full-size processed (blurred) picture"
+}

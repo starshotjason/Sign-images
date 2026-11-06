@@ -1,0 +1,534 @@
+{
+ "p15f41a9d5b": {
+  "accept": false,
+  "reason": "only text is the DAELIM brand decal on a motorcycle fuel tank; not a place sign"
+ },
+ "p4b3883e95e": {
+  "accept": false,
+  "reason": "only text is 'TWO WHEELS / META 301' branding on a bicycle frame; not a place sign"
+ },
+ "p69e63a13ba": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "TEA LOUNGE CAFE",
+    "lang": "en"
+   },
+   {
+    "text": "GALLERY",
+    "lang": "en"
+   },
+   {
+    "text": "tea coop store",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "tea coop",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Floor directory on a building in Seoul (Insadong area): 4F TEA LOUNGE CAFE, 3F (small Hangul organisation name, roughly '(재)한국문화...관', too small to transcribe) GALLERY, 2F/1F tea coop store. Large 'tea coop' letters on the glass facade below. No road-name address plate visible."
+ },
+ "pa1cf090351": {
+  "accept": false,
+  "reason": "utility cabinet covered in stickers and graffiti (BAKSU, NEVER NEVER, KASON, ZACPOT, 서울의지배자들); no place sign"
+ },
+ "pc1911aab20": {
+  "accept": false,
+  "reason": "road-name address plate is cut off by the frame edge: only '...로 / ...un-ro / ...0' visible, so neither the road name nor the number can be read"
+ },
+ "pe50c9ea23c": {
+  "accept": false,
+  "reason": "only text is the 'KOREA 한국소형특수자동차' maker decal on a cargo tricycle; not a place sign"
+ },
+ "pf637330f30": {
+  "accept": false,
+  "reason": "menu-style food information board (부대찌개 budae jjigae) on a mural; no place name"
+ },
+ "pff29290458": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Hani"
+  ],
+  "lines": [
+   {
+    "text": "大覺寺",
+    "lang": "ko",
+    "latin": "Daegaksa (Daegak Temple)"
+   }
+  ],
+  "expect": {
+   "query": "대각사",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Gate name board of a Buddhist temple in Jongno, Seoul, written in Hanja and read right to left (left-to-right order on the board is 寺 覺 大). Hangul name for search: 대각사. Secondary target: a blue road-name address plate (Korean 도로명주소 format: road name over building number) on the wall at right; the number 87 is clear but the road name is too small and blurred to transcribe (appears to end in '...로10길'). Small vertical Hangul plaque on the left pillar is a distractor."
+ },
+ "g11004687": {
+  "accept": true,
+  "reason": "",
+  "kind": "address plate",
+  "scripts": [
+   "Hang",
+   "Latn",
+   "Zyyy"
+  ],
+  "lines": [
+   {
+    "text": "통일로20길",
+    "lang": "ko",
+    "latin": "Tongil-ro 20-gil"
+   },
+   {
+    "text": "Tongil-ro 20-gil",
+    "lang": "en"
+   },
+   {
+    "text": "47-4",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "통일로20길 47-4",
+   "type": "addr"
+  },
+  "difficulty": "easy",
+  "notes": "Standard blue house-shaped road-name address plate (도로명주소: road name over building number), near Inwangsan, Jongno-gu, Seoul. Distractors: handwritten '40-18' (probably the old lot number) and stickers with phone numbers on the white mailbox below."
+ },
+ "g11005324": {
+  "accept": true,
+  "reason": "",
+  "kind": "address plate",
+  "scripts": [
+   "Hang",
+   "Latn",
+   "Zyyy"
+  ],
+  "lines": [
+   {
+    "text": "세검정로4길",
+    "lang": "ko",
+    "latin": "Segeomjeong-ro 4-gil"
+   },
+   {
+    "text": "Segeomjeong-ro 4-gil",
+    "lang": "en"
+   },
+   {
+    "text": "130-19",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "세검정로4길 130-19",
+   "type": "addr"
+  },
+  "difficulty": "easy",
+  "notes": "Road-name address plate on an old house near Inwangsan, Jongno-gu, Seoul. Distractors: a weathered metal registration plate at top left (illegible), handwritten 'Post' and '우편물 ↑' on the door slot."
+ },
+ "g11006677": {
+  "accept": true,
+  "reason": "",
+  "kind": "address plate",
+  "scripts": [
+   "Hang",
+   "Latn",
+   "Zyyy"
+  ],
+  "lines": [
+   {
+    "text": "통일로12길",
+    "lang": "ko",
+    "latin": "Tongil-ro 12-gil"
+   },
+   {
+    "text": "Tongil-ro 12-gil",
+    "lang": "en"
+   },
+   {
+    "text": "108-2",
+    "lang": "und"
+   },
+   {
+    "text": "행촌동 210-254",
+    "lang": "ko",
+    "latin": "Haengchon-dong 210-254 (lot-number address)"
+   }
+  ],
+  "expect": {
+   "query": "통일로12길 108-2",
+   "type": "addr"
+  },
+  "difficulty": "easy",
+  "notes": "Road-name address plate with the old lot-number address in a small strip at bottom right, Jongno-gu, Seoul. A barcode sticker covers the left of the English line but leaves it readable. Faint marker writing under the number. Handwritten on the wall below: '법정동 행촌동 210-254 / 행정동 무악동 46-202' (distractor)."
+ },
+ "g11006748": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Hang"
+  ],
+  "lines": [
+   {
+    "text": "인왕산",
+    "lang": "ko",
+    "latin": "Inwangsan"
+   },
+   {
+    "text": "인왕사",
+    "lang": "ko",
+    "latin": "Inwangsa (Inwang Temple)"
+   },
+   {
+    "text": "선암정사",
+    "lang": "ko",
+    "latin": "Seonamjeongsa (Seonam hermitage)"
+   }
+  ],
+  "expect": {
+   "query": "선암정사",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Wooden name board over the gate of a hermitage in the Inwangsa temple complex, Inwangsan, Jongno-gu, Seoul. The two small lines at left are the prefix '인왕산 인왕사'. Secondary: road-name address plate on the left pillar reading '통일로18가길 / Tongil-ro 18ga-gil / 16-1' with small '무악동 산2-13' (alternative addr query '통일로18가길 16-1')."
+ },
+ "g11032263": {
+  "accept": true,
+  "reason": "",
+  "kind": "address plate",
+  "scripts": [
+   "Hang",
+   "Latn",
+   "Zyyy"
+  ],
+  "lines": [
+   {
+    "text": "동교로16길",
+    "lang": "ko",
+    "latin": "Donggyo-ro 16-gil"
+   },
+   {
+    "text": "Donggyo-ro 16-gil",
+    "lang": "en"
+   },
+   {
+    "text": "20",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "동교로16길 20",
+   "type": "addr"
+  },
+  "difficulty": "easy",
+  "notes": "Hongdae area, Mapo-gu, Seoul. Target is the house-shaped building-number plate on the striped corner post. The rectangular road-name sign on the left wall is a related secondary: '20-8 ← 20-1 / 동교로16길 / Donggyo-ro 16-gil / 东桥路16街 | トンギョロ16ギル' (simplified Chinese and Japanese katakana)."
+ },
+ "g11077093": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Hang",
+   "Latn",
+   "Hani",
+   "Kana",
+   "Zyyy"
+  ],
+  "lines": [
+   {
+    "text": "이태원로36길",
+    "lang": "ko",
+    "latin": "Itaewon-ro 36-gil"
+   },
+   {
+    "text": "18-1→18-12",
+    "lang": "und"
+   },
+   {
+    "text": "Itaewon-ro 36-gil",
+    "lang": "en"
+   },
+   {
+    "text": "黎泰院路36街",
+    "lang": "zh",
+    "latin": "Itaewon-ro 36-gil (Chinese)"
+   },
+   {
+    "text": "イテウォンロ36ギル",
+    "lang": "ja",
+    "latin": "Itewonro 36 giru (Japanese)"
+   }
+  ],
+  "expect": {
+   "query": "이태원로36길",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Arrow-shaped road-name sign giving the building-number range (18-1 → 18-12) on a yellow-black striped wall, Itaewon, Yongsan-gu, Seoul. The Chinese line on the sign uses 黎 (黎泰院), not the usual 梨泰院; transcribed as printed. Blurred banner behind is a distractor."
+ },
+ "g11077178": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Hang",
+   "Latn",
+   "Hani",
+   "Kana",
+   "Zyyy"
+  ],
+  "lines": [
+   {
+    "text": "우사단로10길",
+    "lang": "ko",
+    "latin": "Usadan-ro 10-gil"
+   },
+   {
+    "text": "30-1",
+    "lang": "und"
+   },
+   {
+    "text": "→ 30-43",
+    "lang": "und"
+   },
+   {
+    "text": "Usadan-ro 10-gil",
+    "lang": "en"
+   },
+   {
+    "text": "雩祀坛路10街",
+    "lang": "zh",
+    "latin": "Usadan-ro 10-gil (Chinese, simplified 坛)"
+   },
+   {
+    "text": "ウサダンロ10ギル",
+    "lang": "ja",
+    "latin": "Usadanro 10 giru (Japanese)"
+   }
+  ],
+  "expect": {
+   "query": "우사단로10길",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Arrow-shaped road-name sign (building-number range 30-1 → 30-43) on a painted leaf mural, Itaewon/Hannam area, Yongsan-gu, Seoul. Close, frontal."
+ },
+ "g11077860": {
+  "accept": false,
+  "reason": "road-name address plate is cut off by the right frame edge: '세검정로4[길] / Segeomjeong-ro 4-…' and the building number reads '129-4' with possibly more digits beyond the edge, so the address cannot be transcribed with certainty"
+ },
+ "g11084347": {
+  "accept": true,
+  "reason": "",
+  "kind": "hard",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "DANGRIM ART MUSEUM",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Dangrim Art Museum",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Dangrim Art Museum (당림미술관), Asan, Chungcheongnam-do. Small orange text along the bottom of the logo panel; the large orange 'D' doubles as the initial (reads 'D' + 'ANGRIM ART MUSEUM'). The Hangul museum name does not appear. Same panel: blue '체험학습관 / 사무실' (experience-learning hall / office). Hand-painted 'INFORMATION' below. Road-name address plate at top: '외암로118?번길 / 34-16'. The glyph after 118 is hidden by an ivy leaf, so the road name is not transcribed and the plate is not used as the query."
+ },
+ "g11090041": {
+  "accept": true,
+  "reason": "",
+  "kind": "address plate",
+  "scripts": [
+   "Hang",
+   "Latn",
+   "Zyyy"
+  ],
+  "lines": [
+   {
+    "text": "동일로48길",
+    "lang": "ko",
+    "latin": "Dongil-ro 48-gil"
+   },
+   {
+    "text": "Dongil-ro 48-gil",
+    "lang": "en"
+   },
+   {
+    "text": "8",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "동일로48길 8",
+   "type": "addr"
+  },
+  "difficulty": "medium",
+  "notes": "Glossy road-name address plate with sky reflections, near Children's Grand Park, Gwangjin-gu, Seoul. Handwritten '130-15' in marker under the number (old lot number, distractor). Mailbox below shows a partial '...공사' and sticker phone numbers."
+ },
+ "g11136830": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Hang"
+  ],
+  "lines": [
+   {
+    "text": "서진부식",
+    "lang": "ko",
+    "latin": "Seojin Busik (Seojin Etching)"
+   },
+   {
+    "text": "실크인쇄 부식명판",
+    "lang": "ko",
+    "latin": "silkeu inswae busik myeongpan (silk-screen printing, etched nameplates)"
+   }
+  ],
+  "expect": {
+   "query": "서진부식",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Shop sign in raised letters on a wooden board, Haenggung-dong, Suwon. Part of a small bilingual 'Plaque / ...' sign is cut off at the right edge (distractor)."
+ },
+ "g13211957": {
+  "accept": false,
+  "reason": "nostalgia-set prop, not a mappable business: weathered hand-painted '화개 이발관' (barbershop) board on a rusted tin-roof shack in a park-like setting, photographed on a '추억의 거리' (memory street) set per the source",
+  "notes": "From the image: deliberately aged hand-painted board with a barber pole, the slogan '친절봉사' and faded small lines (address/phone and red text at top right) that are illegible. Nothing (address plate, real street context) ties it to a working shop. The setting matches a retro theme-park or film-set street, so it is rejected rather than labelled as a POI."
+ },
+ "g13247438": {
+  "accept": true,
+  "reason": "",
+  "kind": "address plate",
+  "scripts": [
+   "Hang",
+   "Latn",
+   "Zyyy"
+  ],
+  "lines": [
+   {
+    "text": "논골1길",
+    "lang": "ko",
+    "latin": "Nongol 1-gil"
+   },
+   {
+    "text": "Nongol 1-gil",
+    "lang": "en"
+   },
+   {
+    "text": "10-1",
+    "lang": "und"
+   },
+   {
+    "text": "25717",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "논골1길 10-1",
+   "type": "addr"
+  },
+  "difficulty": "easy",
+  "notes": "Road-name address plate with the postal code 25717 sticker at bottom right, Nongoldam-gil, Mukho, Donghae, Gangwon-do. Tape residue on the plate."
+ },
+ "g13247589": {
+  "accept": true,
+  "reason": "",
+  "kind": "transit",
+  "scripts": [
+   "Hang",
+   "Latn",
+   "Hani"
+  ],
+  "lines": [
+   {
+    "text": "KORAIL",
+    "lang": "en"
+   },
+   {
+    "text": "추암역",
+    "lang": "ko",
+    "latin": "Chuam-yeok (Chuam Station)"
+   },
+   {
+    "text": "Ch'uam Station",
+    "lang": "en"
+   },
+   {
+    "text": "湫岩驛",
+    "lang": "ko",
+    "latin": "Chuam-yeok (Hanja)"
+   }
+  ],
+  "expect": {
+   "query": "추암역",
+   "type": "stop"
+  },
+  "difficulty": "easy",
+  "notes": "Tall KORAIL station totem (Hangul vertical) next to an underpass, Donghae, Gangwon-do. Uses McCune-Reischauer 'Ch'uam' with a typographic apostrophe. Distractors: angled street sign '촛대바위길 / Chotdaebawi-gil' at top right, tunnel banner '꼭 보고가세요!! 무릉계곡 명승지·천곡동굴', 동해시 logo, 2.3 m / 2.8 m height-limit signs, tsunami-evacuation sign."
+ },
+ "g13303279": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Hang",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "양구군립",
+    "lang": "ko",
+    "latin": "Yanggu-gunnip (Yanggu County-run)"
+   },
+   {
+    "text": "박수근미술관",
+    "lang": "ko",
+    "latin": "Bak Sugeun Misulgwan (Park Soo-keun Museum)"
+   },
+   {
+    "text": "Park Soo Keun Museum in Yanggu County",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "박수근미술관",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Engraved granite name stone with the house-shaped logo, Yanggu, Gangwon-do. Ivy at the top does not cover text. 양구군립 is a small prefix on the same line as the name."
+ },
+ "g13368046": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Hang"
+  ],
+  "lines": [
+   {
+    "text": "옥천여관",
+    "lang": "ko",
+    "latin": "Okcheon Yeogwan (Okcheon Inn)"
+   }
+  ],
+  "expect": {
+   "query": "옥천여관",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Old wheeled sidewalk A-board for an inn, written vertically (옥천 / 여 / 관) with a red arrow, Euljiro, Jung-gu, Seoul. Distractors: cardboard boxes above ('...ed kitchen', 'eco BPA FREE', grape box)."
+ }
+}

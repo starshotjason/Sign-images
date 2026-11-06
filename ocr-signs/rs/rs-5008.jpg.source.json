@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=442a2b8c-a567-4af1-8f0b-c83135907c1a",
+  "original_url": "https://panoramax.openstreetmap.fr/images/44/2a/2b/8c/a567-4af1-8f0b-c83135907c1a.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "Robot8A",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture 442a2b8c-a567-4af1-8f0b-c83135907c1a (Belgrade, 2024-08-22)",
+  "description": "Street-level picture taken 2024-08-22 near Belgrade by Robot8A, sequence 50942256-da72-400c-ad2a-0473ed29390a, heading 95. OCR (PP-OCRv3) read: WESTERNUNION",
+  "date": "2024-08-22",
+  "categories": [],
+  "camera_location": [
+    44.815756515,
+    20.461996669
+  ],
+  "found_by": "panoramax-ocr:Belgrade",
+  "bytes": 297865,
+  "width": 1200,
+  "height": 900,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/44/2a/2b/8c/a567-4af1-8f0b-c83135907c1a.jpg",
+  "derivative": "crop 302,1063,1502,1963 of the 4032x3024 HD picture"
+}

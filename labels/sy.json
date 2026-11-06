@@ -1,0 +1,634 @@
+{
+ "f015400f2-c59a-4e19-894f-a089ada821e2": {
+  "accept": false,
+  "reason": "hand-painted revolution banner strung over a street in Raqqa (activist group slogan 'التجمع الثائر لأجل الوطن'), not a sign naming a place"
+ },
+ "f1f5fc3fe-590e-4969-a437-25e5072e7646": {
+  "accept": false,
+  "reason": "close-up of a protest button ('No War in Iraq' overpainted 'Syria') on a shirt, apparently in the USA; not a sign and not in Syria"
+ },
+ "fa43e6f19-6b13-4ca6-889d-0d93c79f6ea6": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Arab",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "منزل الدكتور",
+    "lang": "ar",
+    "latin": "Manzil ad-Duktur (Residence of Doctor)"
+   },
+   {
+    "text": "بطرس خوري",
+    "lang": "ar",
+    "latin": "Butrus Khuri"
+   },
+   {
+    "text": "طبيب بيطري مجاز من فرنسا",
+    "lang": "ar",
+    "latin": "tabib baytari mujaz min Faransa (veterinarian licensed in France)"
+   },
+   {
+    "text": "Dr. BOUTROS KHOURI",
+    "lang": "en"
+   },
+   {
+    "text": "VETERINARIAN",
+    "lang": "en"
+   },
+   {
+    "text": "FROM PARIS",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Boutros Khouri",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Old enamel/painted name plate of a veterinarian's house in Damascus, frontal. 'Dr' is written with a small raised, underlined r; 'الدكتور' is faded compared with the bright red 'منزل'. Arabic third line says 'licensed from France' while the English says 'From Paris'."
+ },
+ "ff18e7f6b-f6a9-4b22-a4a6-2ee46ce1160a": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Arab",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "المدرسة السليمانية",
+    "lang": "ar",
+    "latin": "al-Madrasa as-Sulaymaniyya (the Sulaymaniyya school)"
+   },
+   {
+    "text": "بناها السلطان سليمان القانوني",
+    "lang": "ar",
+    "latin": "banaha as-Sultan Sulayman al-Qanuni (built by Sultan Suleiman the Magnificent)"
+   },
+   {
+    "text": "سنة ٩٧٤هـ = ١٥٦٦م",
+    "lang": "ar",
+    "latin": "sanat 974 AH = 1566 AD"
+   },
+   {
+    "text": "AL-MADRASAH AS-SULAYMANIYYAH",
+    "lang": "en"
+   },
+   {
+    "text": "OTTOMAN SCHOOL BUILT BY:",
+    "lang": "en"
+   },
+   {
+    "text": "SULTAN SULAYMAN I IN 1566 A.D.",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Sulaymaniyya",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Engraved marble heritage plaque (Takiyya Sulaymaniyya complex, Damascus), frontal and sharp. Arabic line 1 carries partial vowel marks (fatha/damma/sukun/shadda) that are omitted here; the hijri 'هـ' and 'م' after the years are small raised letters; years use Arabic-Indic digits. The final H of 'SULAYMANIYYAH' has a small mark under it (transliteration diacritic). 'I' in 'SULAYMAN I' is a serifed Roman numeral. A shadow covers the left edge but no text is lost."
+ },
+ "f178553b0-4026-48c6-8dd1-545ee4390201": {
+  "accept": false,
+  "reason": "close-up of a wooden latticed facade with shutters; no sign text"
+ },
+ "f7ed55ecc-a0c8-4a9c-afcf-162e4738bde3": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Arab",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "مقهى النوفرة",
+    "lang": "ar",
+    "latin": "Maqha an-Nawfara (an-Nawfara coffee house)"
+   },
+   {
+    "text": "AL-NAWFARA COFFEE SHOP",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Nawfara",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Arrow-shaped cream directional sign (pointing left) hanging among scarves and clothes in a souk stall, Old Damascus; red Arabic over black Latin. Final ى of 'مقهى' undotted. The sign is mid-frame and small relative to the cluttered scene; a partial green sign at the lower left edge is a distractor."
+ },
+ "fbb4a8285-1fed-40b1-8891-11d551ee6782": {
+  "accept": false,
+  "reason": "architecture view of latticed balconies on Al Khandaq Street; the only sign (shop board at lower left edge) is tiny and illegible"
+ },
+ "fe0dcd595-3655-49c0-933b-3cfcd6bd178b": {
+  "accept": false,
+  "reason": "wide street view of shophouses; the only sign ('خياط ... Hanin' tailor board) is tiny and not legible at this resolution"
+ },
+ "f20ab0ef7-8c1c-44f0-a201-d62c4fce3365": {
+  "accept": false,
+  "reason": "souk interior in Aleppo, no legible sign"
+ },
+ "f842dd693-dad7-4e19-b324-4f0ee775ff42": {
+  "accept": false,
+  "reason": "interior of the Umayyad Mosque, no sign"
+ },
+ "f8c0106e1-ed1f-4cc3-b1ce-5c3c8f48c057": {
+  "accept": true,
+  "reason": "",
+  "kind": "building tag",
+  "scripts": [
+   "Arab",
+   "Armn",
+   "Zyyy"
+  ],
+  "lines": [
+   {
+    "text": "إبتدائية كيليكيا",
+    "lang": "ar",
+    "latin": "Ibtida'iyyat Kilikiya (Cilicia Primary School)"
+   },
+   {
+    "text": "تأسست ١٩٢١",
+    "lang": "ar",
+    "latin": "Ta'assasat 1921 (Founded 1921)"
+   },
+   {
+    "text": "ԿԻԼԻԿԵԱՆ",
+    "lang": "hy",
+    "latin": "Kilikean (Cilician)"
+   },
+   {
+    "text": "ՆԱԽԱԿՐԹԱՐԱՆ",
+    "lang": "hy",
+    "latin": "Nakhakrt'aran (primary school)"
+   },
+   {
+    "text": "1921",
+    "lang": "und",
+    "latin": "1921"
+   }
+  ],
+  "expect": {
+   "query": "Cilicia",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Engraved marble plaque by a doorway of the Armenian Cilicia primary school in Aleppo, flash photo. Arabic year in Arabic-Indic digits (١٩٢١) to the left of تأسست on the same row; Armenian line year in Western digits. Western Armenian classical orthography (ԵԱ)."
+ },
+ "c53900624": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn",
+   "Zyyy"
+  ],
+  "lines": [
+   {
+    "text": "BAGDAD CAFE",
+    "lang": "en"
+   },
+   {
+    "text": "66",
+    "lang": "und",
+    "latin": "66"
+   }
+  ],
+  "expect": {
+   "query": "Bagdad Cafe",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Weathered wooden board with metal letters on a dead tree beside the Palmyra–Baghdad desert highway (Bagdad Cafe 66, near Palmyra). Round '66' plate hangs below; a small '66' sign further down the road is a distractor."
+ },
+ "f3379f435-bbf7-4f9e-88be-0e91f9394ff2": {
+  "accept": false,
+  "reason": "wrong country: Damascus United Methodist Church, Damascus, Virginia, USA"
+ },
+ "fb8a705cf-321f-488e-b04d-ab42f5b04aa3": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Arab",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "بيت غزالة",
+    "lang": "ar",
+    "latin": "Bayt Ghazala (Ghazaleh House)"
+   },
+   {
+    "text": "BAYT GHAZALEH",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Bayt Ghazaleh",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Small marble plaque beside the arched doorway of Beit Ghazaleh (Aleppo old city), small in frame. A small Arabic subtitle line (century of construction) and '17th C.A.D' below are too small to transcribe reliably and are left out. House number plate '12' at right is a distractor."
+ },
+ "c11108560": {
+  "accept": false,
+  "reason": "clock tower street view; the only text is advertising banners (Umrah tours, academy)"
+ },
+ "c53898288": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Arab"
+  ],
+  "lines": [
+   {
+    "text": "المحامية",
+    "lang": "ar",
+    "latin": "al-Muhamiya (the lawyer, f.)"
+   },
+   {
+    "text": "ماجدة إبراهيم",
+    "lang": "ar",
+    "latin": "Majida Ibrahim"
+   }
+  ],
+  "expect": {
+   "query": "ماجدة إبراهيم",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Cluster of four lawyers' arrow signs on a lamp post in Deir ez-Zor; the target is the right-middle black sign (left arrow). Distractors: 'المحامي خير الله عبد الجبار الدخيل' (white, top right), 'المحامي سليمان خليل عبود' (black, top left) and 'المحامي عادل غسان الحمود' (lower left), whose small address lines are not legible."
+ },
+ "c88671095": {
+  "accept": false,
+  "reason": "street scene dominated by political/advertising banners; shop signs small"
+ },
+ "c10355287": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Arab",
+   "Latn",
+   "Zyyy"
+  ],
+  "lines": [
+   {
+    "text": "حارة",
+    "lang": "ar",
+    "latin": "Hara (Lane)"
+   },
+   {
+    "text": "المدرسة الجقمقية",
+    "lang": "ar",
+    "latin": "al-Madrasa al-Jaqmaqiyya"
+   },
+   {
+    "text": "AL-MADRASA",
+    "lang": "en"
+   },
+   {
+    "text": "AL-JAQMAQIYA",
+    "lang": "en"
+   },
+   {
+    "text": "Cul-de-sac 012001",
+    "lang": "fr"
+   },
+   {
+    "text": "منطقة",
+    "lang": "ar",
+    "latin": "Mintaqa (District)"
+   },
+   {
+    "text": "دمشق القديمة",
+    "lang": "ar",
+    "latin": "Dimashq al-Qadima (Old Damascus)"
+   },
+   {
+    "text": "07",
+    "lang": "und",
+    "latin": "07"
+   },
+   {
+    "text": "حي",
+    "lang": "ar",
+    "latin": "Hayy (Quarter)"
+   },
+   {
+    "text": "الحميدية",
+    "lang": "ar",
+    "latin": "al-Hamidiyya"
+   },
+   {
+    "text": "3",
+    "lang": "und",
+    "latin": "3"
+   }
+  ],
+  "expect": {
+   "query": "المدرسة الجقمقية",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Blue enamel Damascus street plate near the Umayyad Mosque: main panel (lane name, Latin transliteration, French 'Cul-de-sac' and code) then the left panels (district 07 Old Damascus, quarter 3 al-Hamidiyya). Decorative kashida stretches in حارة, الجقمقية and الحميدية are omitted. Small chips/black marks on 'AL-JAQ' and between 'sac' and '012001' are damage, not text."
+ },
+ "fc55c162f-0984-4028-898c-e7e5ee7c6cd6": {
+  "accept": false,
+  "reason": "night neon lettering; the second word's letters cannot be read reliably"
+ },
+ "c10346732": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Arab",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "قصر العظم",
+    "lang": "ar",
+    "latin": "Qasr al-'Azm (Azem Palace)"
+   },
+   {
+    "text": "بناه والي دمشق أسعد باشا العظم",
+    "lang": "ar",
+    "latin": "Banahu wali Dimashq As'ad Basha al-'Azm (Built by the governor of Damascus As'ad Pasha al-Azm)"
+   },
+   {
+    "text": "سنة ١١٦٣ه = ١٧٤٩م",
+    "lang": "ar",
+    "latin": "Sanat 1163 H = 1749 M"
+   },
+   {
+    "text": "PALAIS AZEM",
+    "lang": "fr"
+   },
+   {
+    "text": "BATIE PAR LE GOUVERNEUR DE DAMAS",
+    "lang": "fr"
+   },
+   {
+    "text": "AS‘AD PACHA AL-‘AZEM",
+    "lang": "fr"
+   },
+   {
+    "text": "1749 ap. J.C.",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "Azem Palace",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Engraved marble plaque at the entrance of the Azem Palace, Damascus. Small sukun/vowel marks over قصر العظم and a fatha on سنة are not transcribed; Arabic-Indic digits for the dates. The ‘ in AS‘AD and AL-‘AZEM is an ayn mark (left single quote). The brown tourist tile at right repeats 'قصر العظم / A'zem Palace' (with EU/municipal logos) and is a matching secondary sign."
+ },
+ "c12046327": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Arab",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "حلب ٤٠ كم",
+    "lang": "ar",
+    "latin": "Halab 40 km (Aleppo 40 km)"
+   },
+   {
+    "text": "ALEPPO 40 Km",
+    "lang": "en"
+   },
+   {
+    "text": "6",
+    "lang": "und",
+    "latin": "6"
+   },
+   {
+    "text": "06",
+    "lang": "und",
+    "latin": "06"
+   }
+  ],
+  "expect": {
+   "query": "Aleppo",
+   "type": "place"
+  },
+  "difficulty": "easy",
+  "notes": "Blue distance sign near Tall Aqibrin in the Aleppo countryside; red route shields '6' (square) and '06' (diamond) at the bottom. The Arabic distance is in Arabic-Indic digits (٤٠). Orange chevron at right is a distractor."
+ },
+ "c196181840": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Arab",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "أم جامع ١كم",
+    "lang": "ar",
+    "latin": "Umm Jami' 1 km"
+   },
+   {
+    "text": "om Jamee",
+    "lang": "en"
+   },
+   {
+    "text": "المزينة ٨كم",
+    "lang": "ar",
+    "latin": "al-Mzayna 8 km"
+   },
+   {
+    "text": "ALMzaynah",
+    "lang": "en"
+   },
+   {
+    "text": "أم حارتين ٣كم",
+    "lang": "ar",
+    "latin": "Umm Hartayn 3 km"
+   },
+   {
+    "text": "omHarten",
+    "lang": "en"
+   },
+   {
+    "text": "المشيرفة ٥كم",
+    "lang": "ar",
+    "latin": "al-Mushayrifa 5 km"
+   },
+   {
+    "text": "Mshairfeh",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Mshairfeh",
+   "type": "place"
+  },
+  "difficulty": "medium",
+  "notes": "Blue four-destination direction sign on the Homs–Tartus highway, photographed through a car window (reflections, slight angle). Distances in small yellow Arabic-Indic digits (١, ٨, ٣, ٥) joined to كم. Latin spellings as on the sign ('om Jamee', 'ALMzaynah', 'omHarten')."
+ },
+ "f329826f4-cba3-44c5-9a2a-13a2edb526f8": {
+  "accept": false,
+  "reason": "spice shop interior; only product packaging and small price tags, no sign"
+ },
+ "fc48589c5-f56e-4216-abd0-2986bfa80afc": {
+  "accept": false,
+  "reason": "dark antique-shop interior; no sign"
+ },
+ "fe3020c1c-eb69-42a5-adf4-ac0bd5c7e63e": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Arab",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "بولص",
+    "lang": "ar",
+    "latin": "Bulus (Boulos)"
+   },
+   {
+    "text": "YEAR 1876",
+    "lang": "en"
+   },
+   {
+    "text": "BOULOS",
+    "lang": "en"
+   },
+   {
+    "text": "Boulos",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Boulos",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Boulos sweet shop / bakery in Aleppo, at night. Raised Arabic letters over the left arch; vertical lettering 'YEAR 1876' and 'BOULOS' on the brick pillar (read top to bottom, the final S partly faded); cursive 'Boulos' over the right arch. A second faint 'Boulos' at the far right edge is a distractor."
+ },
+ "fd2b30a30-3fb0-49f1-bd89-bc813b0bd7e9": {
+  "accept": false,
+  "reason": "dark panorama of bakery windows with people; no sign"
+ },
+ "fe686bb87-dcad-4481-b622-368f4e9853e7": {
+  "accept": false,
+  "reason": "covered souk corridor; the only shop sign is tiny and unreadable"
+ },
+ "f831ae68c-6ed5-4efe-982a-f606d7f82f87": {
+  "accept": false,
+  "reason": "shuttered shopfronts; the small hanging signs are unreadable"
+ },
+ "c36545289": {
+  "accept": false,
+  "reason": "commemorative/donor plaque text (GTZ / German embassy funding) at a treatment plant; no place name"
+ },
+ "f7bd14769-28ce-4464-bd16-7c2deff0d931": {
+  "accept": false,
+  "reason": "person in a bridal-shop interior is the subject; no sign"
+ },
+ "f8a0f1262-2f5d-4986-ac3d-94dbef494eaa": {
+  "accept": false,
+  "reason": "covered souk with car and people; no legible sign"
+ },
+ "f089dfa1e-61a1-4e8f-b55a-f6405ea28365": {
+  "accept": false,
+  "reason": "covered souk corridor; no legible sign"
+ },
+ "f1354792b-f835-48ea-b3ad-896f7c94c761": {
+  "accept": false,
+  "reason": "aerial view of a vegetable market; no sign"
+ },
+ "f18cf40ab-b6da-48bd-bec3-d817a47b9a39": {
+  "accept": false,
+  "reason": "street clothes market with people; no sign"
+ },
+ "f5dc151ea-f077-4467-a2fa-eebeac2369c8": {
+  "accept": false,
+  "reason": "pickle stall with vendor; no sign"
+ },
+ "f78a44d83-5957-4085-b00f-a903c274b3ac": {
+  "accept": false,
+  "reason": "shop window of lamps and products; no sign"
+ },
+ "fd578b681-216f-4bc0-8562-cc80286f58f9": {
+  "accept": false,
+  "reason": "wall of yarn skeins; only product labels"
+ },
+ "ff341eeb0-a6af-45be-85e7-a9048549e0ab": {
+  "accept": false,
+  "reason": "crowded covered souk corridor; no legible sign"
+ },
+ "ff462d860-0b4c-4566-a7f4-2d3a2051213b": {
+  "accept": false,
+  "reason": "yarn shop interior with children; no sign"
+ },
+ "c12245855": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Arab",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "500m",
+    "lang": "und"
+   },
+   {
+    "text": "تدمر",
+    "lang": "ar",
+    "latin": "Tadmur"
+   },
+   {
+    "text": "PALMYRA",
+    "lang": "en"
+   },
+   {
+    "text": "حمص",
+    "lang": "ar",
+    "latin": "Hims"
+   },
+   {
+    "text": "بغداد",
+    "lang": "ar",
+    "latin": "Baghdad"
+   },
+   {
+    "text": "HOMS",
+    "lang": "en"
+   },
+   {
+    "text": "BAGHDAD",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Palmyra",
+   "type": "place"
+  },
+  "difficulty": "easy",
+  "notes": "Green junction sign near Tadmur: Palmyra ahead (500 m), Homs to the left, Baghdad to the right. 'HOMS' is letter-spaced. Order: top line, then left/right pairs."
+ }
+}

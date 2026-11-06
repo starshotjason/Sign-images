@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/1314643/839/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlOS5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE4LzEyLzE1L3Byb2MvMTMxNDY0M18xM182M2EyYl84LmpwZw",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "thomas-steel",
+  "credit_as_published": "KartaView user thomas-steel (user id 16631); © KartaView contributors",
+  "title": "KartaView photo 337367263, sequence 1314643 #839 (Wellington, 2018-12-15)",
+  "description": "Street-level picture on KartaView, taken 2018-12-15 near Wellington by thomas-steel, sequence 1314643, heading 160.55. OCR (PP-OCRv3) read: OXYGEN | oxygen.co.nz | JasonKnott | Leting|PropertyManagementBodyCorporate | OXYGEN",
+  "date": "2018-12-15",
+  "categories": [],
+  "camera_location": [
+    -41.293312,
+    174.771522
+  ],
+  "found_by": "kartaview-ocr:Wellington",
+  "bytes": 734330,
+  "width": 2208,
+  "height": 1656,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlOS5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE4LzEyLzE1L3Byb2MvMTMxNDY0M18xM182M2EyYl84LmpwZw",
+  "derivative": "crop 2353,652,4561,2308 of the 4608x3456 full-size processed (blurred) picture"
+}

@@ -1,0 +1,155 @@
+{
+ "k1038384186": {
+  "accept": false,
+  "reason": "roadside billboard advert (upc / Horizon TV) seen through a windscreen; the corner shop behind is tiny (shown clearly in k25465335)"
+ },
+ "k1479192905": {
+  "accept": false,
+  "reason": "advertising livery on the back of a tour bus (GPO Witness History Visitor Centre)"
+ },
+ "k1479193225": {
+  "accept": false,
+  "reason": "advertising panels on a Dublin Bus (Centra, #ChancesDefineUs)"
+ },
+ "k25465335": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Carolan's Off Licence",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Carolan's",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Gold script lettering on a dark-green corner-shop fascia, north Dublin, slightly soft. The other side of the corner reads 'Car... Corner' / '...ence', partly hidden by a 30 km/h 'Crios Mall / SLOW ZONE' sign (distractor). Smaller panels under the fascia are unreadable."
+ },
+ "p3901e74c67": {
+  "accept": false,
+  "reason": "bus livery (TFI Transport for Ireland) and LÁNA TRAM road marking; no fixed sign as target"
+ },
+ "p6dee30b7c1": {
+  "accept": false,
+  "reason": "destination display and livery on a moving bus (Marino via O' Connell St 123), not a fixed stop sign"
+ },
+ "pb422df6066": {
+  "accept": true,
+  "reason": "",
+  "kind": "hard",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "AHON'S",
+    "lang": "en"
+   },
+   {
+    "text": "Nº1",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "J.R. Mahon's",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Gold letters on the black fascia of J.R. Mahon's pub, Dublin, seen from a bus top deck; the left of the name is cut by the frame (only 'AHON'S' and 'Nº1', where º is an underlined superscript o). The awning repeats '...HON'S' with a GUINNESS logo, and a door poster reads 'J.R. MAHON'S / LIVE MUSIC / IRISH DANCING'. Heineken and River Bar signs on the right are distractors."
+ },
+ "pbc6148366f": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "F.X.",
+    "lang": "en"
+   },
+   {
+    "text": "BUCKLEY",
+    "lang": "en"
+   },
+   {
+    "text": "MEAT",
+    "lang": "en"
+   },
+   {
+    "text": "Par Excellence",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "F.X. Buckley",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Moore Street market, Dublin: a hanging butcher's board (target) with a tall vertical F.X. BUCKLEY sign and 'MEAT Par Excellence' cap beside it, all small in a tall portrait street view. Distractors: green vertical 'Paddy Power', blue 'EURO GIANT', 'one express' fascia, 'ONE CONNECT' on the right."
+ },
+ "pf015dd867c": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn",
+   "Zyyy"
+  ],
+  "lines": [
+   {
+    "text": "JIM",
+    "lang": "en"
+   },
+   {
+    "text": "LARKIN",
+    "lang": "en"
+   },
+   {
+    "text": "1874-1947",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "Jim Larkin",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Incised letters on the granite plinth of the Jim Larkin statue, O'Connell Street, Dublin; frontal, against blue sky."
+ },
+ "pf38d4b2f62": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "THE",
+    "lang": "en"
+   },
+   {
+    "text": "TEMPLE BAR",
+    "lang": "en"
+   },
+   {
+    "text": "TRADING CO.",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Temple Bar Trading Company",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Red hanging flags/boards with white serif text in Temple Bar, Dublin (target: the large board left of centre); the name repeats on several flags, an upper board ('TRADING COMPANY') and a red neon on the fascia. 'GIFTS & SOUVENIRS' window text and 'CLOUD NINE' sign further down are distractors."
+ }
+}

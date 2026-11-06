@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=224f0ba3-1ab2-473b-82f0-667f06fea084",
+  "original_url": "https://panoramax.openstreetmap.fr/images/22/4f/0b/a3/1ab2-473b-82f0-667f06fea084.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "RaphaelPasloin_mobile",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture 224f0ba3-1ab2-473b-82f0-667f06fea084 (Brussels, 2025-06-06)",
+  "description": "Street-level picture on Panoramax, taken 2025-06-06 near Brussels by RaphaelPasloin_mobile, sequence 9d38916d-7574-4d83-81b4-eda592162da7, heading 153. OCR (PP-OCRv3) read: IBIS | ibiS HOTEL | rand Place | rote Markt | nterparking",
+  "date": "2025-06-06",
+  "categories": [],
+  "camera_location": [
+    50.84670316,
+    4.3550548
+  ],
+  "found_by": "panoramax-ocr:Brussels",
+  "bytes": 1305438,
+  "width": 1080,
+  "height": 1920,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/22/4f/0b/a3/1ab2-473b-82f0-667f06fea084.jpg",
+  "derivative": "whole 1080x1920 HD picture as served by the Panoramax instance (byte-identical; the service blurs faces and number plates), not cropped"
+}

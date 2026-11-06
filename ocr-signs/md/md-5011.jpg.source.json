@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/3082006/350/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMC85LzI4L3Byb2MvMzA4MjAwNl9lZjk3OF81ZjcxNDZkNTI4MGJmLmpwZw",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "morflot",
+  "credit_as_published": "KartaView user morflot (user id 37374); © KartaView contributors",
+  "title": "KartaView photo 1108576414, sequence 3082006 #350 (Chisinau, 2020-05-03)",
+  "description": "Street-level picture on KartaView, taken 2020-05-03 near Chisinau by morflot, sequence 3082006, heading 315.76. OCR (PP-OCRv3) read: IRIE | ORATORICA",
+  "date": "2020-05-03",
+  "categories": [],
+  "camera_location": [
+    47.022583,
+    28.8267
+  ],
+  "found_by": "kartaview-ocr:Chisinau",
+  "bytes": 284891,
+  "width": 1200,
+  "height": 900,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMC85LzI4L3Byb2MvMzA4MjAwNl9lZjk3OF81ZjcxNDZkNTI4MGJmLmpwZw",
+  "derivative": "crop 0,391,1200,1291 of the 2592x1512 full-size processed (blurred) picture"
+}

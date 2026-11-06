@@ -1,0 +1,127 @@
+{
+ "k117993355": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "SAPINDA",
+    "lang": "en"
+   },
+   {
+    "text": "INVEST",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Sapinda",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Blue company lettering with an orange swoosh logo high on a glass office facade, Luxembourg, against an overcast sky; the widely spaced 'INVEST' line below is small and faint. A tilted panel on the left (partly hidden) is unreadable."
+ },
+ "k307086447": {
+  "accept": false,
+  "reason": "mirrored 'DEPARTS' lettering on glass seen from behind, plus museum adverts; no place name readable"
+ },
+ "k328358001": {
+  "accept": false,
+  "reason": "coach branding (voyages emile weber)"
+ },
+ "p29a4837418": {
+  "accept": false,
+  "reason": "van branding (Intralux Locations)"
+ },
+ "p6130f942fc": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "AVENUE DE LA",
+    "lang": "fr"
+   },
+   {
+    "text": "GARE",
+    "lang": "fr"
+   },
+   {
+    "text": "Al Avenue",
+    "lang": "lb"
+   }
+  ],
+  "expect": {
+   "query": "Avenue de la Gare",
+   "type": "street"
+  },
+  "difficulty": "medium",
+  "notes": "Luxembourg City bilingual street plate at the top-left corner (official French name above, Luxembourgish traditional name 'Al Avenue' in italic below). A second, smaller copy of the plate is on the wall at right. Distractors: EPIC EVENTS, LuxairTours and emile weber shop signs, ZONE/no-entry traffic signs."
+ },
+ "p61f4a147dc": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn",
+   "Zyyy"
+  ],
+  "lines": [
+   {
+    "text": "Quartier Gare",
+    "lang": "fr"
+   },
+   {
+    "text": "1083",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "Quartier Gare",
+   "type": "place"
+  },
+  "difficulty": "easy",
+  "notes": "Parking-guidance sign (arrow, P symbol) with the district name on an orange field and an LED count of free spaces (1083), Luxembourg; the panel above is cut off. CFL logo on the station building at right is a distractor."
+ },
+ "p8771697f30": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Bicherschaf",
+    "lang": "lb"
+   },
+   {
+    "text": "book it!",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Bicherschaf",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Blue notice in the glass door of a public book-exchange cabinet, Luxembourg City, with a small 1-2-3 instruction line (Choisir / Take it, Lire / Read it, Retourner ou échanger / Bring it back or swap it) not transcribed. Book spines inside and 'BAR & BRASSERIE' in the background are distractors."
+ },
+ "p97a49c4508": {
+  "accept": false,
+  "reason": "casemates entrance plastered with adverts and 'Get your ticket' panels; the SOUVENIRS kiosk sign is generic"
+ },
+ "pba47d9456b": {
+  "accept": false,
+  "reason": "site-map board (drawing of Neumünster abbey with a legend); the title is cut off at both sides"
+ },
+ "pce9557f2c5": {
+  "accept": false,
+  "reason": "traffic sign plates (yield sign, 'excepté / frei' cyclist exception); no place name"
+ }
+}

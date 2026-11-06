@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.mapcomplete.org/#focus=pic&pic=017a5c26-1bc2-4c19-97d6-57542e067a85",
+  "original_url": "https://panoramax.mapcomplete.org/permanent/01/7a/5c/26/1bc2-4c19-97d6-57542e067a85.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "mapcomplete",
+  "credit_as_published": "Panoramax, instance mapcomplete (https://panoramax.mapcomplete.org)",
+  "title": "Panoramax picture 017a5c26-1bc2-4c19-97d6-57542e067a85 (New Delhi, 2025-12-05)",
+  "description": "Street-level picture on Panoramax, taken 2025-12-05 near New Delhi by mapcomplete, sequence a7cf963f-8d1c-4bac-9717-e3149f5f9fff, heading 58. OCR (PP-OCRv3) read: TACOS | ARDOR2.1 | Nestaurant&Lounge-+ | FESTIVE-MEALS | [unread] ro51%om | MINIWAFFLE | SOFTSERVE",
+  "date": "2025-12-05",
+  "categories": [],
+  "camera_location": [
+    28.63012902,
+    77.22021347
+  ],
+  "found_by": "panoramax-ocr:New Delhi",
+  "bytes": 3389040,
+  "width": 4000,
+  "height": 2250,
+  "downloaded_url": "https://panoramax.mapcomplete.org/permanent/01/7a/5c/26/1bc2-4c19-97d6-57542e067a85.jpg",
+  "derivative": "whole 4000x2250 HD picture as served by the Panoramax instance (byte-identical; the service blurs faces and number plates), not cropped"
+}

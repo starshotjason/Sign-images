@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/3033262/77/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMC85LzE2L3Byb2MvMzAzMzI2Ml9iODljNF81ZjYyODI4Zjk1NTJkLmpwZw",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "aal-ldyn-bn-saayd",
+  "credit_as_published": "KartaView user aal-ldyn-bn-saayd (user id 39502); © KartaView contributors",
+  "title": "KartaView photo 1094015302, sequence 3033262 #77 (Tripoli, 2020-09-16)",
+  "description": "Street-level picture on KartaView, taken 2020-09-16 near Tripoli by aal-ldyn-bn-saayd, sequence 3033262, heading 322.68. OCR (PP-OCRv3) read: [unread] ell",
+  "date": "2020-09-16",
+  "categories": [],
+  "camera_location": [
+    32.890291,
+    13.18429
+  ],
+  "found_by": "kartaview-ocr:Tripoli",
+  "bytes": 132526,
+  "width": 1200,
+  "height": 720,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMC85LzE2L3Byb2MvMzAzMzI2Ml9iODljNF81ZjYyODI4Zjk1NTJkLmpwZw",
+  "derivative": "crop 80,0,1280,720 of the 1280x720 full-size processed (blurred) picture"
+}

@@ -1,0 +1,386 @@
+{
+ "k141317385": {
+  "accept": false,
+  "reason": "street scene of billboards and adverts (Iguazú, Atacama, sura, ZTE); no single place sign"
+ },
+ "k141317479": {
+  "accept": false,
+  "reason": "theatre's vertical marquee letters cut off and edge-on; the main readable text is a concert poster"
+ },
+ "k141317407": {
+  "accept": true,
+  "reason": "",
+  "kind": "hard",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "BIENVENIDOS A",
+    "lang": "es"
+   },
+   {
+    "text": "AV CORRIENTES",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Avenida Corrientes",
+   "type": "street"
+  },
+  "difficulty": "hard",
+  "notes": "Yellow City of Buenos Aires lamp-post banner with an Obelisco graphic; 'AV CORRIENTES' runs vertically in red, small 'BIENVENIDOS A' across the top, 'BA' logo at the bottom. Strong lens flare. Distractors: the cut-off union banner ('...SECRETARIO GENERAL'), the 'Claro' shop fascia, a no-parking sign and the vertical 'ESTACIONE...' sign."
+ },
+ "k281631117": {
+  "accept": false,
+  "reason": "rooftop advertising (amaszonas.com and billboards) along Av. 9 de Julio; adverts"
+ },
+ "k281631075": {
+  "accept": true,
+  "reason": "",
+  "kind": "hard",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Terminal de combis Obelisco",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Terminal de combis Obelisco",
+   "type": "stop"
+  },
+  "difficulty": "hard",
+  "notes": "Yellow overhead sign over the minibus (combi) terminal by the Obelisco, Buenos Aires, through a smeared windscreen. The last word is soft but its letter shapes read 'Obelisco' (consistent with the GPS position at the Obelisco). The two small lines below (access/vehicle rules) are illegible and left out; 'BA' logo at the right. The orange LED billboard behind is a distractor."
+ },
+ "k280915831": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Provincia Seguros",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Provincia Seguros",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "White letters on a blue band across the top of an office tower on Av. 9 de Julio, Buenos Aires. The black street sign 'Av. 9 de Julio' with an arrow at the left and the Metrobús shelter ('Metro...') at the bottom right are secondary signs/distractors."
+ },
+ "k1274289053": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Happening",
+    "lang": "es"
+   },
+   {
+    "text": "ESTACIONAMIENTO",
+    "lang": "es"
+   },
+   {
+    "text": "VALET PARKING",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Happening",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Black A-frame boards at a car-park entrance in Puerto Madero, Buenos Aires: 'Happening' script logo with valet-parking hours (small, partly hidden by a cone, not transcribed), and a second board 'FABRIC [script] / E / ESTACIONAMIENTO'. Big LED 'E' parking sign and no-parking sign are distractors."
+ },
+ "p070dbb7dd9": {
+  "accept": false,
+  "reason": "fuel-tanker livery (Shell V-Power); vehicle branding"
+ },
+ "pa4c51539e9": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "PASEO DEL BAJO",
+    "lang": "es"
+   },
+   {
+    "text": "ATENCION A 1000 m.",
+    "lang": "es"
+   },
+   {
+    "text": "AUTOP",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Paseo del Bajo",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Green overhead lane sign seen from below, Buenos Aires; the right panel is cut by the frame ('AUTOP...', autopista). The '60 VELOCIDAD MAXIMA' speed sign is a distractor. Same road as p4fd5f827d7 but a different gantry panel."
+ },
+ "p4fd5f827d7": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "PASEO DEL BAJO",
+    "lang": "es"
+   },
+   {
+    "text": "PUERTO - Au ILLIA",
+    "lang": "es"
+   },
+   {
+    "text": "A 500 m. EMPALME",
+    "lang": "es"
+   },
+   {
+    "text": "AU LA PLATA - BS. AS.",
+    "lang": "es"
+   },
+   {
+    "text": "SALIDA a 500 m",
+    "lang": "es"
+   },
+   {
+    "text": "AV. ING. HUERGO",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Avenida Ingeniero Huergo",
+   "type": "street"
+  },
+  "difficulty": "medium",
+  "notes": "Overhead gantry of green direction signs on the Paseo del Bajo motorway, Buenos Aires, through a windscreen. Distractors: '60 VELOCIDAD MAXIMA', the 'PEAJE SIN BARRERA / TelePASE / OBLIGATORIO / EVITE MULTAS' toll sign, and the 'Leiva COMPRO ORO' billboard."
+ },
+ "c22170107": {
+  "accept": false,
+  "reason": "generic 'IGLESIA' marker post in the Km 75 ruins field; no searchable name on the sign"
+ },
+ "c21155241": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Bienvenidos",
+    "lang": "es"
+   },
+   {
+    "text": "a Villa El Chocón",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Villa El Chocón",
+   "type": "place"
+  },
+  "difficulty": "easy",
+  "notes": "Yellow town welcome board held in the jaws of a dinosaur cut-out on the road into Villa El Chocón, Neuquén. Sticker at right: 'neu | Neuquén tierranueva' and tiny 'GOBIERNO DE LA PROVINCIA DEL NEUQUÉN' (distractor)."
+ },
+ "c38396233": {
+  "accept": false,
+  "reason": "prohibition notice (no piggyback) at Iguazú; no place name"
+ },
+ "c191936252": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Parque Nacional Los Glaciares",
+    "lang": "es"
+   },
+   {
+    "text": "Glaciar Perito Moreno",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Glaciar Perito Moreno",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Carved wooden board with yellow letters in front of the Perito Moreno glacier. Round APN emblem at right with ring text 'ADMINISTRACION de PARQUES NACIONALES', 'APN', 'ARGENTINA'."
+ },
+ "c17841944": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Claro",
+    "lang": "es"
+   },
+   {
+    "text": "NOKIA",
+    "lang": "en"
+   },
+   {
+    "text": "Avenida",
+    "lang": "es"
+   },
+   {
+    "text": "Belgrano",
+    "lang": "es"
+   },
+   {
+    "text": "400",
+    "lang": "und"
+   },
+   {
+    "text": "365",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "Avenida Belgrano",
+   "type": "street"
+  },
+  "difficulty": "medium",
+  "notes": "Buenos Aires street-name sign with a red Claro/NOKIA sponsor strip; block number 400 at left, 365 at right. Seen through a wrought-iron gate whose bars cross the text. A second, damaged sign below (only '...De...n' and '400' readable, covered in stickers/graffiti) is a distractor."
+ },
+ "c28950210": {
+  "accept": false,
+  "reason": "wildlife-viewing pictogram sign ('ELEFANTE MARINO'); no place or street name"
+ },
+ "c82366823": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Av. General",
+    "lang": "es"
+   },
+   {
+    "text": "Güemes",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "General Güemes",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Hand-painted wooden street sign with two-way arrows hanging from a bracket in Cachi, Salta. Wood is pitted with holes that cut through the letters."
+ },
+ "c108336934": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "FUNES",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Funes",
+   "type": "place"
+  },
+  "difficulty": "easy",
+  "notes": "Large 3D concrete letters painted in Argentine flag colours (sun on the N) in Plaza Eva Perón, Funes, Santa Fe."
+ },
+ "c57139598": {
+  "accept": false,
+  "reason": "shopping-mall interior dominated by a BBVA Francés advertising banner; corner watermark; no single place sign target"
+ },
+ "c154850544": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "DISTRIBUIDORA MAYORISTA",
+    "lang": "es"
+   },
+   {
+    "text": "EL GARAGE",
+    "lang": "es"
+   },
+   {
+    "text": "JUGUETERÍA - LIBRERÍA - BAZAR - PERFUMERÍA",
+    "lang": "es"
+   },
+   {
+    "text": "BIJOUTERIE - FERRETERÍA - KIOSCO - COTILLÓN",
+    "lang": "es"
+   },
+   {
+    "text": "ENVIOS A TODO EL PAIS",
+    "lang": "es"
+   },
+   {
+    "text": "4488-1998",
+    "lang": "und"
+   },
+   {
+    "text": "11-3612-3072",
+    "lang": "und"
+   },
+   {
+    "text": "elgarageciudadela",
+    "lang": "und"
+   },
+   {
+    "text": "El Garage Ciudadela",
+    "lang": "es"
+   },
+   {
+    "text": "D'ONOFRIO 39 CIUDADELA",
+    "lang": "es"
+   },
+   {
+    "text": "www.elgaragedeciudadela.com.ar",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "El Garage",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Large wholesale-shop banner on Calle D'Onofrio, Ciudadela, seen at an angle with overhead wires crossing it; the address line and URL are small. Distractors: 'LA BICOCA' and 'LIBRERIA MAYORISTA EL TANO' signs further down the street, 'losangelitos25' panel at right, and 'ESTACIONAMIENTO' painted on the shutter."
+ }
+}

@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/7469017/30/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMy82LzI0L3Byb2MvNzQ2OTAxN19lM2U2Zl82NDk3MmE5Y2Q2ZjVmLmpwZw",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "noktoborus",
+  "credit_as_published": "KartaView user noktoborus (user id 141849); © KartaView contributors",
+  "title": "KartaView photo 1748178009, sequence 7469017 #30 (Yerevan, 2023-06-24)",
+  "description": "Street-level picture on KartaView, taken 2023-06-24 near Yerevan by noktoborus, sequence 7469017, heading 275.65. OCR (PP-OCRv3) read: MOSKOVYAN | evoca",
+  "date": "2023-06-24",
+  "categories": [],
+  "camera_location": [
+    40.188381,
+    44.515924
+  ],
+  "found_by": "kartaview-ocr:Yerevan",
+  "bytes": 449335,
+  "width": 1200,
+  "height": 900,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMy82LzI0L3Byb2MvNzQ2OTAxN19lM2U2Zl82NDk3MmE5Y2Q2ZjVmLmpwZw",
+  "derivative": "crop 2928,526,4128,1426 of the 4128x2322 full-size processed (blurred) picture"
+}

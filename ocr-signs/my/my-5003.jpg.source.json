@@ -1,0 +1,36 @@
+{
+  "source": "flickr",
+  "source_url": "https://www.flickr.com/photos/43296902@N00/46743821302",
+  "original_url": "https://live.staticflickr.com/4848/46743821302_5b4cae83f5_o.jpg",
+  "license_as_published": "CC0",
+  "license_url_as_published": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author_as_published": "Dennis S. Hurd",
+  "credit_as_published": "\"Choose the Image with Storefronts\" by Dennis S. Hurd is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+  "title": "Choose the Image with Storefronts",
+  "description": "",
+  "date": "",
+  "categories": [
+    "kualalumpur",
+    "malaysia"
+  ],
+  "camera_location": [
+    3.167263,
+    101.698166
+  ],
+  "found_by": "openverse:Malaysia storefront",
+  "bytes": 217090,
+  "width": 1024,
+  "height": 628,
+  "downloaded_url": "https://api.openverse.org/v1/images/e119c2a7-1181-4347-b91f-a0a21704da61/thumb/?full_size=true&compressed=false",
+  "derivative": "Flickr's published 1024 px 'large' rendition, served by the Openverse image API (Flickr originals were throttled for this client)",
+  "flickr": {
+    "flickr_url": "https://www.flickr.com/photos/43296902@N00/46743821302",
+    "flickr_license": "CC0 1.0",
+    "lat": 3.167263,
+    "lon": 101.698166,
+    "original_url": "https://live.staticflickr.com/4848/46743821302_5b4cae83f5_o.jpg",
+    "flickr_license_code": 9,
+    "retrieved": "2026-11-06T05:21:20.102739+00:00"
+  },
+  "openverse_id": "e119c2a7-1181-4347-b91f-a0a21704da61"
+}

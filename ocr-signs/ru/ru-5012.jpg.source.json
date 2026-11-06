@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=d3750960-bcd4-41f8-bccb-ec2e9cf799eb",
+  "original_url": "https://panoramax.openstreetmap.fr/images/d3/75/09/60/bcd4-41f8-bccb-ec2e9cf799eb.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "TrickyFoxy",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture d3750960-bcd4-41f8-bccb-ec2e9cf799eb (Saint Petersburg, 2025-10-19)",
+  "description": "Street-level picture taken 2025-10-19 near Saint Petersburg by TrickyFoxy, sequence aa6e40a2-42ce-4eff-ac4b-9ef91d2a6a9f, heading 0. OCR (PP-OCRv3) read: Roch Pub | [unread] 10a200 | 124",
+  "date": "2025-10-19",
+  "categories": [],
+  "camera_location": [
+    59.935017,
+    30.330738
+  ],
+  "found_by": "panoramax-ocr:Saint Petersburg",
+  "bytes": 8130306,
+  "width": 4624,
+  "height": 2604,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/d3/75/09/60/bcd4-41f8-bccb-ec2e9cf799eb.jpg",
+  "derivative": "whole 4624x2604 HD picture as served by the Panoramax instance (byte-identical; the instance blurs faces and number plates), not cropped"
+}

@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/1173811/66/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlNy5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE4LzQvMzAvcHJvYy8xMTczODExX2IyNzIzXzMuanBn",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "Latentor",
+  "credit_as_published": "KartaView user Latentor (user id 3035); © KartaView contributors",
+  "title": "KartaView photo 236628083, sequence 1173811 #66 (Minsk, 2018-04-30)",
+  "description": "Street-level picture on KartaView, taken 2018-04-30 near Minsk by Latentor, sequence 1173811, heading 41.77. OCR (PP-OCRv3) read: AIHORIZONT | [unread] GETTETE",
+  "date": "2018-04-30",
+  "categories": [],
+  "camera_location": [
+    53.901768,
+    27.561349
+  ],
+  "found_by": "kartaview-ocr:Minsk",
+  "bytes": 1085815,
+  "width": 4032,
+  "height": 3024,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlNy5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE4LzQvMzAvcHJvYy8xMTczODExX2IyNzIzXzMuanBn",
+  "derivative": "whole 4032x3024 full-size processed (blurred) picture as served by the KartaView CDN (byte-identical; the service blurs faces and number plates), not cropped"
+}

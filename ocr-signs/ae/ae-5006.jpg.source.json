@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/469191/137/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlNC5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE3LzYvMTYvcHJvYy80NjkxOTFfNDU0YzZfMTAuanBn",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "baraakamal",
+  "credit_as_published": "KartaView user baraakamal (user id 9986); © KartaView contributors",
+  "title": "KartaView photo 46507932, sequence 469191 #137 (Dubai, 2017-06-15)",
+  "description": "Street-level picture on KartaView, taken 2017-06-15 near Dubai by baraakamal, sequence 469191, heading 0. OCR (PP-OCRv3) read: AL TAREEQ AL SAREEA | CAR PARK RENTALL.L.C | ENTRY1HOURS15DHS",
+  "date": "2017-06-15",
+  "categories": [],
+  "camera_location": [
+    25.26627,
+    55.29455
+  ],
+  "found_by": "kartaview-ocr:Dubai",
+  "bytes": 923058,
+  "width": 2813,
+  "height": 2110,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlNC5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE3LzYvMTYvcHJvYy80NjkxOTFfNDU0YzZfMTAuanBn",
+  "derivative": "crop 0,211,2813,2321 of the 4128x2322 full-size processed (blurred) picture"
+}

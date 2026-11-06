@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.mapcomplete.org/#focus=pic&pic=b422df60-66e9-4be7-8c15-d0127a2f140e",
+  "original_url": "https://panoramax.mapcomplete.org/permanent/b4/22/df/60/66e9-4be7-8c15-d0127a2f140e.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "mapcomplete",
+  "credit_as_published": "Panoramax, instance mapcomplete (https://panoramax.mapcomplete.org)",
+  "title": "Panoramax picture b422df60-66e9-4be7-8c15-d0127a2f140e (Dublin, 2026-10-04)",
+  "description": "Street-level picture on Panoramax, taken 2026-10-04 near Dublin by mapcomplete, sequence 42ef5bd3-ac04-4013-997e-26afe99f1066, heading 118. OCR (PP-OCRv3) read: HON'S | VGUINNESS | Heineken | RIVER BAR | WATCH ALL THEACTIO | OTHE SPIRIT OF | FOOTBALL",
+  "date": "2026-10-04",
+  "categories": [],
+  "camera_location": [
+    53.3470244,
+    -6.258334
+  ],
+  "found_by": "panoramax-ocr:Dublin",
+  "bytes": 3818306,
+  "width": 3014,
+  "height": 3997,
+  "downloaded_url": "https://panoramax.mapcomplete.org/permanent/b4/22/df/60/66e9-4be7-8c15-d0127a2f140e.jpg",
+  "derivative": "whole 3014x3997 HD picture as served by the Panoramax instance (byte-identical; the service blurs faces and number plates), not cropped"
+}

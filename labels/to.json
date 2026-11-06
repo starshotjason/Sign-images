@@ -1,0 +1,146 @@
+{
+ "c1182488": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "FALELOTU SENITULI ʻOE SIASI ʻO TONGA TAUʻATAINA.",
+    "lang": "to"
+   },
+   {
+    "text": "1885 -:- 1985",
+    "lang": "und"
+   },
+   {
+    "text": "THE CENTENNIAL CHURCH OF THE FREE CHURCH OF TONGA.",
+    "lang": "en"
+   },
+   {
+    "text": "1885 -:- 1985",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "Centennial Church",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Bilingual Tongan/English granite foundation tablet at the Centennial Church (Free Church of Tonga), Nukuʻalofa. Only the two headings and their date lines are transcribed; the body paragraphs (founding by King Siaosi Tupou I, foundation stone by King Taufaʻahau Tupou IV, donors) are long commemorative text. The glottal stops are engraved as small slanted ticks, transcribed as U+02BB (ʻ). Date separator is a dash-colon-dash ornament."
+ },
+ "c48948699": {
+  "accept": true,
+  "reason": "",
+  "kind": "transit",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "FUAʻAMOTU INTERNATIONAL AIRPORT",
+    "lang": "to"
+   },
+   {
+    "text": "WELCOME TO THE",
+    "lang": "en"
+   },
+   {
+    "text": "Kingdom of Tonga",
+    "lang": "en"
+   },
+   {
+    "text": "\"Mālō e Lelei\"",
+    "lang": "to"
+   }
+  ],
+  "expect": {
+   "query": "Fuaʻamotu International Airport",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Red letters along the terminal roof; the glottal stop in FUAʻAMOTU is a raised turned-comma (okina) shape, transcribed as U+02BB. Welcome billboard below has 'Mālō e Lelei' with macrons over a and o, in curly quotes. People on the viewing deck are small and incidental; an 'Aviation Security Service' vehicle at right."
+ },
+ "c51974027": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ʻOFA KI ʻOTUMOHEMOHE SUPERMARKET",
+    "lang": "to"
+   }
+  ],
+  "expect": {
+   "query": "ʻOfa ki ʻOtumohemohe Supermarket",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Red raised letters on a green shop fascia in Neiafu, Vavaʻu, with string lights draped across. The glottal stops are small raised marks before O, transcribed as U+02BB. Yellow letters under the name spell a 'WHOLESALE'-type word with mixed-case letters that are not reliably legible, so not transcribed. Distractors: 'ANGELA' board at left with a word below hidden by banners, TopClean / Medicare / sauce product banners. A car number plate at bottom right is incidental."
+ },
+ "c68522656": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "IKUNA FARM ʻEUA",
+    "lang": "to"
+   },
+   {
+    "text": "ʻESAFE VUKI & SONS CO. LTD.",
+    "lang": "en"
+   },
+   {
+    "text": "FAAMA MONUMANU",
+    "lang": "to"
+   },
+   {
+    "text": "TAUTEFITO KI HE MOA, PUAKA ETC.",
+    "lang": "to"
+   }
+  ],
+  "expect": {
+   "query": "Ikuna Farm",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Hand-painted farm sign on ʻEua, 1991 slide scan (black slide border and '91 3 31' date imprint are not part of the sign). The ʻ before EUA is a turned-comma shape; before ESAFE it is a slanted tick; both transcribed as U+02BB. The '&' is a small script ampersand and 'CO. LTD.' is in small script; 'ETC.' is tiny. Tongan: 'animal farm, especially chickens, pigs etc.'"
+ },
+ "c84443949": {
+  "accept": false,
+  "reason": "climate-project information board (long Tongan/English paragraphs about coastal protection); no name sign for a mappable place"
+ },
+ "c89156237": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "MĀLŌ Ē LELEI",
+    "lang": "to"
+   },
+   {
+    "text": "ʻANA KUMĀ (rats cave)",
+    "lang": "to"
+   }
+  ],
+  "expect": {
+   "query": "ʻAna Kumā",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Weathered interpretive board at the cave on ʻEua. Only the greeting and the cave-name heading are transcribed; macrons over A, O, E as printed. The glottal mark before ANA is a slanted straight tick, transcribed as U+02BB. The English paragraph below (mentions the 'Eua National Park) and logos (Kingdom of TONGA, 'Funder By' NEW ZEALAND AID PROGRAMME) are not transcribed. Small '© Viktor Pinchuk' credit in the bottom-right corner (not a watermark across the image)."
+ }
+}

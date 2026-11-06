@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=02bae905-c538-4aec-b1dc-4185b03b4811",
+  "original_url": "https://panoramax.openstreetmap.fr/images/02/ba/e9/05/c538-4aec-b1dc-4185b03b4811.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "Julia Keil-Voss",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture 02bae905-c538-4aec-b1dc-4185b03b4811 (Sofia, 2026-08-17)",
+  "description": "Street-level picture taken 2026-08-17 near Sofia by Julia Keil-Voss, sequence 779d3afa-d263-41f7-8151-50f36f01fc5b, heading 100. OCR (PP-OCRv3) read: [unread] XPAM | CB.CB. | [unread] AHMETOAHH | 1897",
+  "date": "2026-08-17",
+  "categories": [],
+  "camera_location": [
+    42.7035584,
+    23.3213076
+  ],
+  "found_by": "panoramax-ocr:Sofia",
+  "bytes": 215112,
+  "width": 1200,
+  "height": 900,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/02/ba/e9/05/c538-4aec-b1dc-4185b03b4811.jpg",
+  "derivative": "crop 100,0,1300,900 of the 1440x1080 HD picture"
+}

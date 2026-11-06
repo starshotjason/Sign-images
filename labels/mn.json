@@ -1,0 +1,442 @@
+{
+ "k2629687792": {
+  "accept": false,
+  "reason": "service-list banner of a hair salon ('МЭРГЭЖЛИЙН ҮСЧИН', professional hairdresser) with phone numbers; generic, no business name, advert-style"
+ },
+ "k2629672088": {
+  "accept": false,
+  "reason": "advertising-agency fascia cut by the left image edge ('...Л ХАЯГ РЕКЛАМ') listing print services, plus a QR-code panel; no complete name"
+ },
+ "k2632667235": {
+  "accept": false,
+  "reason": "graffiti only ('HOW ART CAN MAKE YOU HAPPY'); no sign"
+ },
+ "k2629687806": {
+  "accept": false,
+  "reason": "a truck with its registration number painted on the side is the subject; no place sign"
+ },
+ "k2629672085": {
+  "accept": true,
+  "reason": "",
+  "kind": "hard",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Hi-Fi",
+    "lang": "en"
+   },
+   {
+    "text": "SINCE 1995",
+    "lang": "en"
+   },
+   {
+    "text": "REC RDS",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Hi-Fi Records",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Rooftop frame letters on a Stalin-era building, Ulaanbaatar, far away and against strong sun glare. The O of RECORDS is physically missing from the frame, so the sign reads 'REC  RDS'; 'Hi-Fi' is in a decorative font. Distractors: GGI Green Gate International billboard beside it, ground-floor fascias (tea house, ЛААЖХАЙ, maria, C&C x CuteBoba, GS25)."
+ },
+ "k2629596041": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "PEPPER LUNCH",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Pepper Lunch",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Restaurant fascia letters above a glass front, Ulaanbaatar, with the small square logo (script 'Pepper Lunch') at left. Parked cars in front; plates blurred; reflections in the glass are distractors."
+ },
+ "k2629596038": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "gmobile",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Gmobile",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Mobile-operator wall sign with knot logo, Ulaanbaatar. Secondary sign on the next building: red fascia 'БАТСОНДОР / ХҮНСНИЙ ДЭЛГҮҮР' (Batsondor grocery, Mongolian Ү) with a Coca-Cola roundel; small plaque at left by the window is illegible."
+ },
+ "k2629687837": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Cyrl"
+  ],
+  "lines": [
+   {
+    "text": "‘АНАР’ СУПЕР МАРКЕТ",
+    "lang": "mn",
+    "latin": "'Anar' super market"
+   }
+  ],
+  "expect": {
+   "query": "Анар",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Red rooftop letters in a decorative western-style font, Ulaanbaatar; the name АНАР is in typographic single quotes (left one a thin slanted stroke). One-way-road-end sign below is a distractor."
+ },
+ "k2629691908": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "basil",
+    "lang": "en"
+   },
+   {
+    "text": "Restaurant",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Basil",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Round projecting lightbox with leaf logo, Ulaanbaatar, slightly soft; the R of Restaurant has a decorative swash. The fascia behind repeats 'basil | Restaurant Wine & Dine'. A small Cyrillic sign at lower left is cut off and too blurry to read."
+ },
+ "k2629672081": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "BRIGHT",
+    "lang": "en"
+   },
+   {
+    "text": "KOREAN & MON",
+    "lang": "en"
+   },
+   {
+    "text": "RESTAURANT",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Bright",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Black fascia with decorative white letters, Ulaanbaatar. A tree trunk hides the end of the second line after 'KOREAN & MON' (presumably MONGOLIAN; not completed). The 'OPEN' neon in the window and a CCTV warning plate at left are distractors."
+ },
+ "c131376880": {
+  "accept": true,
+  "kind": "landmark",
+  "scripts": [
+   "Cyrl"
+  ],
+  "lines": [
+   {
+    "text": "Баянгол",
+    "lang": "mn",
+    "latin": "Bayangol"
+   }
+  ],
+  "expect": {
+   "query": "Баянгол",
+   "type": "place"
+  },
+  "difficulty": "easy",
+  "notes": "Large red cursive (script-style Cyrillic) free-standing letters naming the Bayangol district, Ulaanbaatar. Distractors behind: 'UB CENTER' rooftop signs, 'Vip Karaoke' facade letters, a small 'КВАРТАЛ КАРАОК' fascia.",
+  "reason": ""
+ },
+ "c146039791": {
+  "accept": true,
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ULAANBAATAR",
+    "lang": "mn"
+   },
+   {
+    "text": "ULAANBAATAR 360KM",
+    "lang": "mn"
+   }
+  ],
+  "expect": {
+   "query": "Ulaanbaatar",
+   "type": "place"
+  },
+  "difficulty": "medium",
+  "notes": "Distance fingerpost at Kharkhorin (Kharakhorum Museum). Target is the top arm: small province label 'ULAANBAATAR' above the main 'ULAANBAATAR 360KM'. All other arms are distractors, mixed Latin and Mongolian Cyrillic, e.g. 'BULGAN 269KM', 'DARKHAN 526KM', 'CHOIR 582KM', 'MANDALGOBI 615KM', 'CHINGGIS 692KM', 'SAINSHAND 806KM', 'CHOIBALSAN 1025KM', 'АРВАЙХЭЭР 133KM', 'АЛТАЙ 727KM', 'БАЯНХОНГОР 476KM', 'МӨРӨН 410KM', 'ХОВД 1167KM', 'ӨЛГИЙ 1402KM'.",
+  "reason": ""
+ },
+ "c5210395": {
+  "accept": true,
+  "kind": "landmark",
+  "scripts": [
+   "Cyrl"
+  ],
+  "lines": [
+   {
+    "text": "БАГАНУУР ХОТ",
+    "lang": "mn",
+    "latin": "Baganuur khot (Baganuur town)"
+   }
+  ],
+  "expect": {
+   "query": "Багануур",
+   "type": "place"
+  },
+  "difficulty": "medium",
+  "notes": "Concrete town-entry monument with large 3D letters, shot slightly from the side; blue khadag scarves tied to the base of the letters. Coat of arms on the pillar (its small ribbon text is not labelled).",
+  "reason": ""
+ },
+ "c72026550": {
+  "accept": true,
+  "kind": "business sign",
+  "scripts": [
+   "Cyrl",
+   "Zyyy"
+  ],
+  "lines": [
+   {
+    "text": "ТӨГС ЛОМБАРД",
+    "lang": "mn",
+    "latin": "Tögs lombard (Tugs pawnshop)"
+   },
+   {
+    "text": "3-6%",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "Төгс ломбард",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Orange pawnshop lightbox on Peace Avenue, Ulaanbaatar; the target is the right-hand face, seen at an angle ('ТӨГС ЛОМБАРД' with small '3-6%'). The separator in 3-6 is a raised dot/hyphen. Distractors: front face 'ЛОМБАРД 3-6%', vertical banner '\"ТӨГС ФИНАНС\" ХХК / ЛОМБАРД / УТАС:99006878 99250001', 'COFFEE HOUSE' letters, yellow 'НОМ ... ХЭРЭГСЛЭЛИЙН ДЭЛГҮҮР' board cut at left, 'MAGIC TOURS', 'САЯН', 'TRAVEL SHOP', 'Jung hair'. Pedestrians incidental.",
+  "reason": ""
+ },
+ "c7358935": {
+  "accept": true,
+  "kind": "business sign",
+  "scripts": [
+   "Cyrl",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "БУЯН НАЛАЙХ",
+    "lang": "mn",
+    "latin": "Buyan Nalaikh"
+   },
+   {
+    "text": "TRADE",
+    "lang": "en"
+   },
+   {
+    "text": "CENTER",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Буян Налайх",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Red rooftop letters with logo on a trade centre in Nalaikh; 'TRADE' and 'CENTER' are separate blue rooftop letters on the side wings ('CENTER' is cut slightly at the right edge). A no-entry road sign is in the foreground.",
+  "reason": ""
+ },
+ "c115240259": {
+  "accept": false,
+  "reason": "abstract close-up of the back of rusty sign letters; no readable text"
+ },
+ "f69dd0142-3e04-4c12-8764-c1f7c5a1ec8f": {
+  "accept": true,
+  "kind": "business sign",
+  "scripts": [
+   "Cyrl"
+  ],
+  "lines": [
+   {
+    "text": "ЗООГИЙН",
+    "lang": "mn",
+    "latin": "zoogiin (food)"
+   },
+   {
+    "text": "ГАЗАР",
+    "lang": "mn",
+    "latin": "gazar (place, i.e. restaurant)"
+   },
+   {
+    "text": "СЭЛЭНГЭ",
+    "lang": "mn",
+    "latin": "Selenge"
+   }
+  ],
+  "expect": {
+   "query": "Сэлэнгэ",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Restaurant lightbox 'Selenge', Ulaanbaatar; the front face is the target, the side face repeats 'СЭЛЭНГЭ / ЗООГИЙН ГАЗАР'. Distractors: hair-salon boards 'ҮСЧИН' (with 'Сондор-Ес' and 'ҮСЧИН МАНИКЮР'), green cafe sign '...ӨБҮҮР КАФЕ ...OLIAN NATIONAL FAST FOOD' cut at left, 'ЗОЛБОО' poster at lower right.",
+  "reason": ""
+ },
+ "f7608c3ac-fb05-4004-8c98-cda08dd03d77": {
+  "accept": false,
+  "reason": "advertising slogan on a fence ('reasonable price, quality service'); names no business"
+ },
+ "f8831512d-a78c-46fa-aeab-1b7e680ceeb9": {
+  "accept": false,
+  "reason": "people at a butcher's counter; no sign"
+ },
+ "f9b375cbd-1143-4871-a9ba-1a85190afe61": {
+  "accept": false,
+  "reason": "hammer-and-pick emblem, no text"
+ },
+ "f9d8e80ff-b266-4b26-81ea-242a954d0b6c": {
+  "accept": true,
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ESDA",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "ESDA",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Gold 3D letters with a hat logo on a green hosiery shop facade, Ulaanbaatar. Small window and door notices are not readable/labelled.",
+  "reason": ""
+ },
+ "fe1a4e856-51af-4341-9e90-6657a81e624f": {
+  "accept": true,
+  "kind": "transit",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ULAANBAATAR",
+    "lang": "mn"
+   }
+  ],
+  "expect": {
+   "query": "Ulaanbaatar railway station",
+   "type": "stop"
+  },
+  "difficulty": "easy",
+  "notes": "Red rooftop letters on the Ulaanbaatar railway station building. A bus roof is in the lower right corner.",
+  "reason": ""
+ },
+ "fd6c455d5-1d10-489c-abeb-53f4503de963": {
+  "accept": false,
+  "reason": "Coca-Cola advertisement on a tower; no place-name sign"
+ },
+ "fc1fdec95-ceb2-4714-a1e8-ed4d55c05d26": {
+  "accept": true,
+  "kind": "business sign",
+  "scripts": [
+   "Latn",
+   "Cyrl"
+  ],
+  "lines": [
+   {
+    "text": "Bolod's",
+    "lang": "en"
+   },
+   {
+    "text": "Guesthouse",
+    "lang": "en"
+   },
+   {
+    "text": "Гостевой дом",
+    "lang": "ru",
+    "latin": "Gostevoi dom (guest house)"
+   }
+  ],
+  "expect": {
+   "query": "Bolod's Guesthouse",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Blue A-frame street board with an arrow, Ulaanbaatar. Only the name lines are labelled; the list below (Tours to nomads, Horse riding, Tank driving, Firing RPG, Shooting ranges), 'www.bolodtours.com' and '99192407/ 98206816' are advertising copy. Pedestrians cropped at right (no faces).",
+  "reason": ""
+ },
+ "c152654117": {
+  "accept": false,
+  "reason": "wrong country: Inner Mongolia (China), not Mongolia"
+ },
+ "c152654121": {
+  "accept": false,
+  "reason": "wrong country: Inner Mongolia (China), not Mongolia"
+ },
+ "c152654123": {
+  "accept": false,
+  "reason": "wrong country: Inner Mongolia (China), not Mongolia"
+ },
+ "c171391925": {
+  "accept": false,
+  "reason": "wrong country: Inner Mongolia (China), not Mongolia"
+ },
+ "c21965340": {
+  "accept": false,
+  "reason": "wrong country: Inner Mongolia (China), not Mongolia"
+ },
+ "c51213794": {
+  "accept": false,
+  "reason": "wrong country: Inner Mongolia (China), not Mongolia"
+ },
+ "c56396365": {
+  "accept": false,
+  "reason": "wrong country: Inner Mongolia (China), not Mongolia"
+ },
+ "c56396367": {
+  "accept": false,
+  "reason": "wrong country: Inner Mongolia (China), not Mongolia"
+ },
+ "c67325325": {
+  "accept": false,
+  "reason": "wrong country: Inner Mongolia (China), not Mongolia"
+ },
+ "c79179884": {
+  "accept": false,
+  "reason": "wrong country: Inner Mongolia (China), not Mongolia"
+ }
+}

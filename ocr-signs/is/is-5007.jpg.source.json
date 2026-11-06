@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/1180231/73/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlOC5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE4LzUvMTIvcHJvYy8xMTgwMjMxXzVjMDkwXzI0LmpwZw",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "Serzh",
+  "credit_as_published": "KartaView user Serzh (user id 809); © KartaView contributors",
+  "title": "KartaView photo 243031831, sequence 1180231 #73 (Reykjavik, 2018-05-10)",
+  "description": "Street-level picture on KartaView, taken 2018-05-10 near Reykjavik by Serzh, sequence 1180231, heading 0. OCR (PP-OCRv3) read: Landsbankinn | American Style",
+  "date": "2018-05-10",
+  "categories": [],
+  "camera_location": [
+    64.148777,
+    -21.939742
+  ],
+  "found_by": "kartaview-ocr:Reykjavik",
+  "bytes": 187680,
+  "width": 1920,
+  "height": 1080,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlOC5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE4LzUvMTIvcHJvYy8xMTgwMjMxXzVjMDkwXzI0LmpwZw",
+  "derivative": "whole 1920x1080 full-size processed (blurred) picture as served by the KartaView CDN (byte-identical; the service blurs faces and number plates), not cropped"
+}

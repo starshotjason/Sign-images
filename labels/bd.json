@@ -1,0 +1,498 @@
+{
+  "pe06cca7496": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "KEBAB FLIX",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Kebab Flix",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Black board with flame logo propped against a food stall (Dhaka). Tiny 'EST ...' year text under the name is not legible. Bengali-script fuchka cart signs at left (ফুচকা, phone number) are distractors."
+  },
+  "f35253b17-5e7b-4563-bb79-b55a045f08e3": {
+    "accept": true,
+    "reason": "",
+    "kind": "negative",
+    "scripts": [
+      "Beng",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "SSC, HSC মডেল টেস্ট - ২০১৭",
+        "lang": "bn",
+        "latin": "SSC, HSC model test - 2017"
+      },
+      {
+        "text": "রেজিস্ট্রেশন চলছে.....",
+        "lang": "bn",
+        "latin": "Registration cholche (registration ongoing)"
+      },
+      {
+        "text": "সমীকরণ",
+        "lang": "bn",
+        "latin": "Samikaran (Equation)"
+      },
+      {
+        "text": "একাডেমিক",
+        "lang": "bn",
+        "latin": "Academic"
+      },
+      {
+        "text": "কোচিং",
+        "lang": "bn",
+        "latin": "Coaching"
+      },
+      {
+        "text": "১৫৩, আজিমপুর চায়না বিল্ডিং গলি,",
+        "lang": "bn",
+        "latin": "153, Azimpur China Building Goli (lane)"
+      },
+      {
+        "text": "01841201851, 01758715747",
+        "lang": "und"
+      }
+    ],
+    "expect": {
+      "query": "Azimpur",
+      "type": "addr"
+    },
+    "difficulty": "easy",
+    "notes": "Hand-painted wall sign of 'Samikaran Academic Coaching' (Dhaka), frontal and sharp. The business name and address are Bengali only; the only Latin text is the exam acronyms 'SSC, HSC' and the phone numbers, so it is labelled negative. Bengali digits in the year and house number (১৫৩), Western digits in the phone numbers. The row of dots after চলছে is five dots on the sign."
+  },
+  "c134058424": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Beng",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "মদুনাঘাট",
+        "lang": "bn",
+        "latin": "Modunaghat"
+      },
+      {
+        "text": "MODUNAGHAT",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Modunaghat",
+      "type": "place"
+    },
+    "difficulty": "easy",
+    "notes": "White place-name board on a pole beside the Chattogram-Chandraghona highway (R163), seen slightly from below. A large blue Bengali letter painted on the yellow wall at left is a distractor."
+  },
+  "c196021237": {
+    "accept": true,
+    "reason": "",
+    "kind": "negative",
+    "scripts": [
+      "Beng"
+    ],
+    "lines": [
+      {
+        "text": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার",
+        "lang": "bn",
+        "latin": "Gonoprojatontri Bangladesh Sorkar (Government of the People's Republic of Bangladesh)"
+      },
+      {
+        "text": "কেন্দ্রীয় নার্সারী",
+        "lang": "bn",
+        "latin": "Kendriyo Narsari (Central Nursery)"
+      },
+      {
+        "text": "বোটানিক্যাল গার্ডেন ও ইকো-পার্ক",
+        "lang": "bn",
+        "latin": "Botanical Garden o Eco-Park"
+      },
+      {
+        "text": "সীতাকুন্ড, চট্টগ্রাম",
+        "lang": "bn",
+        "latin": "Sitakunda, Chattogram"
+      }
+    ],
+    "expect": {
+      "query": "Botanical Garden and Eco-Park Sitakunda",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Green concrete board with raised white Bengali letters inside Sitakunda Botanical Garden and Eco-Park; first line is arched. In 'সীতাকুন্ড' the conjunct after কু is rendered as ন্ড in this brush style (the standard spelling is সীতাকুণ্ড with ণ্ড); checker should confirm which is painted."
+  },
+  "c67487776": {
+    "accept": true,
+    "reason": "",
+    "kind": "negative",
+    "scripts": [
+      "Beng"
+    ],
+    "lines": [
+      {
+        "text": "সামনে রাজবাড়ী বাজার",
+        "lang": "bn",
+        "latin": "Samne Rajbari Bazar (Rajbari Bazar ahead)"
+      }
+    ],
+    "expect": {
+      "query": "Rajbari Bazar",
+      "type": "place"
+    },
+    "difficulty": "easy",
+    "notes": "Supplementary plate under a red-bordered triangular warning sign (porter pictogram) in Puthia, Rajshahi; Pancha Ratna Shiva temple and pond behind. Only Bengali text."
+  },
+  "c39829013": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn",
+      "Beng"
+    ],
+    "lines": [
+      {
+        "text": "Butterfly Park",
+        "lang": "en"
+      },
+      {
+        "text": "BANGLADESH",
+        "lang": "en"
+      },
+      {
+        "text": "Nature & Beauty You Can Touch",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Butterfly Park Bangladesh",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Giant butterfly-shaped name sign of Butterfly Park Bangladesh, Patenga (Chattogram); 'Butterfly Park' is in a decorative script with oversized B and P. The red banner below ('প্রজা...পার্ক / BUTTERFLY PARK', i.e. প্রজাপতি পার্ক) is partly hidden by leaves; the small 'স্বাগতম / বন বিভাগ' plate and restaurant poster are distractors."
+  },
+  "c79559256": {
+    "accept": true,
+    "reason": "",
+    "kind": "negative",
+    "scripts": [
+      "Beng"
+    ],
+    "lines": [
+      {
+        "text": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার",
+        "lang": "bn",
+        "latin": "Gonoprojatontri Bangladesh Sorkar (Government of the People's Republic of Bangladesh)"
+      },
+      {
+        "text": "বাংলাদেশ ইনস্টিটিউট অব ট্রপিক্যাল এন্ড ইনফেকশাস ডিজিজেস (বিআইটিআইডি)",
+        "lang": "bn",
+        "latin": "Bangladesh Institute of Tropical and Infectious Diseases (BITID)"
+      },
+      {
+        "text": "ফৌজদারহাট, চট্টগ্রাম।",
+        "lang": "bn",
+        "latin": "Fouzdarhat, Chattogram"
+      }
+    ],
+    "expect": {
+      "query": "Bangladesh Institute of Tropical and Infectious Diseases",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Blue direction board with a red arrow pointing right, Fouzdarhat. English institute name is written in Bengali letters; the only Latin is the tiny 'BITID' under the logo at right. Distractors: 'GOLDEN ISPAT' billboard at left, Poppin drink billboard with 'বাইপাস, বাংলা বাজার, ফৌজদারহাট' at right."
+  },
+  "c122496644": {
+    "accept": true,
+    "reason": "",
+    "kind": "negative",
+    "scripts": [
+      "Beng"
+    ],
+    "lines": [
+      {
+        "text": "স্বাগতম",
+        "lang": "bn",
+        "latin": "Swagatam (Welcome)"
+      },
+      {
+        "text": "বোটানিক্যাল গার্ডেন ও",
+        "lang": "bn",
+        "latin": "Botanical Garden o (Botanical Garden and)"
+      },
+      {
+        "text": "ইকোপার্ক , সীতাকুণ্ড",
+        "lang": "bn",
+        "latin": "Ecopark, Sitakunda"
+      }
+    ],
+    "expect": {
+      "query": "Botanical Garden and Eco-Park Sitakunda",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Roadside welcome/direction board with a left arrow and four photos of the park. There is a space before the comma on the sign. The photo inset contains a tiny gate inscription (not part of the label)."
+  },
+  "c122496647": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "WELCOME",
+        "lang": "en"
+      },
+      {
+        "text": "BOTANICAL GARDEN AND ECO-PARK , SITAKUNDO",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Botanical Garden and Eco-Park Sitakunda",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "English-only direction board beside the railway near Sitakunda, frontal; left arrow, forest photo below. Spelled 'SITAKUNDO' on the sign, with a space before the comma. Same park as c122496644 but a different (English) sign."
+  },
+  "c122594646": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "CHANDPUR BELGAON TEA ESTATE",
+        "lang": "en"
+      },
+      {
+        "text": "citygroup",
+        "lang": "en"
+      },
+      {
+        "text": "COMPANY BUNGALOW",
+        "lang": "en"
+      },
+      {
+        "text": "MANAGER BUNGALOW",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Chandpur Belgaon Tea Estate",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Hand-painted octagonal concrete sign, Banshkhali (Chattogram). 'CHANDPUR BELGAON TEA ESTATE' is written in an arc around the 'citygroup' heart logo; right arrow below. Photographer's shadow at bottom right."
+  },
+  "c62815135": {
+    "accept": false,
+    "reason": "interpretive text panel (South Gate, Lalbagh Fort); same series as c62816604, which is kept instead"
+  },
+  "c62816604": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Beng",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "পরিবিবির সমাধি",
+        "lang": "bn",
+        "latin": "Paribibir Samadhi (Tomb of Pari Bibi)"
+      },
+      {
+        "text": "TOMB OF BIBI PARI",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Tomb of Pari Bibi",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Weathered blue interpretive board in Lalbagh Fort, Dhaka. Only the two titles are labelled; the Bengali and English paragraphs below them are not transcribed. Paint is faded and streaked."
+  },
+  "c95824708": {
+    "accept": false,
+    "reason": "dense site-directory board; title runs off the right edge (last word cut)"
+  },
+  "c96035324": {
+    "accept": false,
+    "reason": "religious quotation plaque, no place name"
+  },
+  "f60dfabb5-b07e-41b1-83a7-6482847bf417": {
+    "accept": false,
+    "reason": "slogan sign; shop name hidden behind a glass case; photographer's copyright watermark in frame"
+  },
+  "f87f2a081-ab5b-4f9c-9b89-ced5b465cec2": {
+    "accept": true,
+    "reason": "",
+    "kind": "negative",
+    "scripts": [
+      "Beng"
+    ],
+    "lines": [
+      {
+        "text": "ভাই ভাই ঝাল বিতান",
+        "lang": "bn",
+        "latin": "Bhai Bhai Jhal Bitan (Bhai Bhai spicy-food shop)"
+      },
+      {
+        "text": "সী-বীচ, পতেঙ্গা, চট্টগ্রাম।",
+        "lang": "bn",
+        "latin": "Sea-beach, Patenga, Chattogram"
+      }
+    ],
+    "expect": {
+      "query": "Patenga",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Shop fascia at Patenga sea beach, Chattogram, frontal and sharp; Bengali only. Distractors: Pran drinking-water adverts on both sides ('প্রাণ', 'পিওর ড্রিংকিং ওয়াটার'). A '© Faisal Akram Ether' photographer mark sits in the bottom-left corner, below the sign (not across it); a checker may prefer a 'part' crop of the fascia."
+  },
+  "f80b60297-33f2-4138-81c8-928b081c64d2": {
+    "accept": false,
+    "reason": "walking man is the subject; signs are small and partly illegible"
+  },
+  "f865e034a-6d6f-40cf-8007-c7684c4f9270": {
+    "accept": true,
+    "reason": "",
+    "kind": "negative",
+    "scripts": [
+      "Beng"
+    ],
+    "lines": [
+      {
+        "text": "মরিয়ম",
+        "lang": "bn",
+        "latin": "Mariyam"
+      },
+      {
+        "text": "প্লাজা",
+        "lang": "bn",
+        "latin": "Plaza"
+      }
+    ],
+    "expect": {
+      "query": "Mariam Plaza",
+      "type": "poi"
+    },
+    "difficulty": "hard",
+    "notes": "Vertical green building sign in a crowded Old Dhaka lane, one letter cluster per row (ম / রি / য় / ম / প্লা / জা), crossed by overhead wires; rickshaw passenger in the foreground. A mark above the first ম may be a chandrabindu or a wire; it is not transcribed. The two-line address under the name (ending 'ঢাকা-১২১১') is too small to read."
+  },
+  "c128402535": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Beng",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "পাহাড়তলী",
+        "lang": "bn",
+        "latin": "Pahartali"
+      },
+      {
+        "text": "PAHARTALI",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Pahartali",
+      "type": "place"
+    },
+    "difficulty": "medium",
+    "notes": "Overhead place-name board on the R163 (Raozan, Chattogram), hazy morning; CUET Bangabandhu Hall in the background."
+  },
+  "fc83ba3d4-41a8-4409-b56c-6191c8b8b50a": {
+    "accept": false,
+    "reason": "event banner (ICC World Twenty20 welcome) on a stadium; the stadium itself is not named"
+  },
+  "fb5f2488c-9db2-4e36-8f29-a576554f0d28": {
+    "accept": false,
+    "reason": "religious slogan painted on a wall, children are the subject; no place name"
+  },
+  "fd49e64ba-a8ee-473a-b50e-cd1154d0d97c": {
+    "accept": false,
+    "reason": "ethnography information board with portrait photo; no place name as target"
+  },
+  "c107006439": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "MARITIME MUSEUM",
+        "lang": "en"
+      },
+      {
+        "text": "CAFE & GIFT SHOP",
+        "lang": "en"
+      },
+      {
+        "text": "Naval Avenue Road, Chattogram",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Maritime Museum Cafe",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Back-lit letters at night, Chattogram. Distractors: 7up logo at left, small green Bengali panel at right ('মিউজিয়াম ক্যাফে & গিফট শপ' with a tiny word above, not transcribed), green LED-wrapped pole."
+  },
+  "c57926927": {
+    "accept": true,
+    "reason": "",
+    "kind": "negative",
+    "scripts": [
+      "Beng"
+    ],
+    "lines": [
+      {
+        "text": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার",
+        "lang": "bn",
+        "latin": "Gonoprojatontri Bangladesh Sorkar (Government of the People's Republic of Bangladesh)"
+      },
+      {
+        "text": "তেজগাঁও থানা",
+        "lang": "bn",
+        "latin": "Tejgaon Thana (Tejgaon police station)"
+      },
+      {
+        "text": "ঢাকা মেট্রোপলিটন পুলিশ, ঢাকা",
+        "lang": "bn",
+        "latin": "Dhaka Metropolitan Police, Dhaka"
+      }
+    ],
+    "expect": {
+      "query": "Tejgaon Thana",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Gate sign over the entrance of Tejgaon police station, Dhaka; the first letter (তে) is partly hidden behind a palm frond and a pole. Small motto words ('শৃঙ্খলা' top, 'প্রগতি' right) and the blue help-line box (হেল্প লাইন- 01713373180 / 01769690245 / 02 9119467) are not part of the label. Passers-by incidental."
+  }
+}

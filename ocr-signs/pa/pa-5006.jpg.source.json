@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/1199907/235/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlOC5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE4LzUvMjQvcHJvYy8xMTk5OTA3XzBhOWMzXzIzNi5qcGc",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "skobblertest1",
+  "credit_as_published": "KartaView user skobblertest1 (user id 41); © KartaView contributors",
+  "title": "KartaView photo 250853467, sequence 1199907 #235 (Panama City, 2015-11-20)",
+  "description": "Street-level picture on KartaView, taken 2015-11-20 near Panama City by skobblertest1, sequence 1199907, heading 0. OCR (PP-OCRv3) read: PLAZAPANAI | HOTEL",
+  "date": "2015-11-20",
+  "categories": [],
+  "camera_location": [
+    8.981606,
+    -79.521335
+  ],
+  "found_by": "kartaview-ocr:Panama City",
+  "bytes": 133429,
+  "width": 1920,
+  "height": 1080,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlOC5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE4LzUvMjQvcHJvYy8xMTk5OTA3XzBhOWMzXzIzNi5qcGc",
+  "derivative": "whole 1920x1080 full-size processed (blurred) picture as served by the KartaView CDN (byte-identical; the service blurs faces and number plates), not cropped"
+}

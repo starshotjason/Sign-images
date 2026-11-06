@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=94a068fe-00e6-451d-861f-eea9a0e46528",
+  "original_url": "https://panoramax.openstreetmap.fr/images/94/a0/68/fe/00e6-451d-861f-eea9a0e46528.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "Robot8A",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture 94a068fe-00e6-451d-861f-eea9a0e46528 (Athens, 2025-05-18)",
+  "description": "Street-level picture taken 2025-05-18 near Athens by Robot8A, sequence 63d6ce66-c2c0-402a-a56d-5cf1fa4d372f, heading 165. OCR (PP-OCRv3) read: ARTISAN | FRIED CHICKEA | NOODLES | BAOBUNS | ARTISANSOITES",
+  "date": "2025-05-18",
+  "categories": [],
+  "camera_location": [
+    37.97783762,
+    23.72528073
+  ],
+  "found_by": "panoramax-ocr:Athens",
+  "bytes": 1593258,
+  "width": 4032,
+  "height": 3024,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/94/a0/68/fe/00e6-451d-861f-eea9a0e46528.jpg",
+  "derivative": "whole 4032x3024 HD picture as served by the Panoramax instance (byte-identical; the instance blurs faces and number plates), not cropped"
+}

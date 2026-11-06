@@ -1,0 +1,110 @@
+{
+ "c18032893": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Digicel",
+    "lang": "en"
+   },
+   {
+    "text": "The Bigger. Better Network.",
+    "lang": "en"
+   },
+   {
+    "text": "WELCOME TO",
+    "lang": "en"
+   },
+   {
+    "text": "SAUTEURS",
+    "lang": "fr"
+   },
+   {
+    "text": "PLEASE DRIVE SAFELY",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Sauteurs",
+   "type": "place"
+  },
+  "difficulty": "easy",
+  "notes": "Town welcome board sponsored by Digicel (logo and slogan on the white top are sponsor branding). A dark blurred object (finger/thumb) covers the left edge of the frame."
+ },
+ "c49149922": {
+  "accept": false,
+  "reason": "wrong country: Grenada, Mississippi (USA) welcome sign"
+ },
+ "c5008701": {
+  "accept": false,
+  "reason": "scanned Russian presidential decree document, not a photo of a sign"
+ },
+ "c52878020": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "WELCOME",
+    "lang": "en"
+   },
+   {
+    "text": "Rose Mount",
+    "lang": "en"
+   },
+   {
+    "text": "PLANTATION HOUSE",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Rose Mount",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Hand-painted black board for Rose Mount Plantation House rest stop. Only the main name lines are transcribed. Not transcribed: vertical 'GRENADA' (left, the N looks like M) and 'RESTSTOP' (right) side texts, and the small hand-lettered opening-hours/menu lines below (e.g. 'OPENS SUN-THUR 9.00-5.00 ...', '...xotic Fresh Juices Local Dishes Ph AAA8069', first letter cut by the frame edge)."
+ },
+ "c61064519": {
+  "accept": false,
+  "reason": "wrong country: Riverdale, Grenada County, Mississippi (USA) place sign"
+ },
+ "c8955980": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "WELCOME TO",
+    "lang": "en"
+   },
+   {
+    "text": "MT. CRAVEN/",
+    "lang": "en"
+   },
+   {
+    "text": "MT. RODNEY",
+    "lang": "en"
+   },
+   {
+    "text": "ERECTED BY FOCUS",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Mt. Craven",
+   "type": "place"
+  },
+  "difficulty": "easy",
+  "notes": "Village welcome board in Saint Patrick parish. 'ERECTED BY FOCUS' is very small. A small black-and-white street plate on a post at left is too small to read and is a distractor."
+ }
+}

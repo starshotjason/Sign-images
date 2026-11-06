@@ -1,0 +1,190 @@
+{
+ "k145004739": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "SVEAVÄGEN",
+    "lang": "sv"
+   },
+   {
+    "text": "500 m",
+    "lang": "und"
+   },
+   {
+    "text": "NYBROPLAN",
+    "lang": "sv"
+   },
+   {
+    "text": "850 m",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "Sveavägen",
+   "type": "street"
+  },
+  "difficulty": "medium",
+  "notes": "Two white lane signs above a road-tunnel portal, each with a tunnel pictogram and a 3,0 m height-limit disc. The 'QUINYX' company letters on the facade above, a red 'max höjd 3m clearance' board and a roadworks sign are distractors."
+ },
+ "k145004799": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "valea",
+    "lang": "sv"
+   }
+  ],
+  "expect": {
+   "query": "Valea",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Lower-case white letters on the dark band of the building at right. Busy street scene through a windscreen with many distractors: STOCKHOLM HEART CENTER, REUTERS, EAST CAPITAL, HUFVUDSTADEN, WESSMAN SÖDERQVIST (partly hidden), STRÖMS, ELGIGANTEN, Cervera, a 'Läkarbesök när det passar dig' advert, and BUSS road marking."
+ },
+ "k1567192393": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Haglöfs",
+    "lang": "sv"
+   }
+  ],
+  "expect": {
+   "query": "Haglöfs",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Outdoor-clothing shop: white letters on the facade beside a square logo box (which repeats 'Haglöfs'), plus purple hanging banners and a second fascia at right. Distractors: 'SALE' window banner, 'Make some memories' window text, house number 10 and a small red address plate, an orange 'Stadium' banner further along."
+ },
+ "k1567192553": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "THE",
+    "lang": "en"
+   },
+   {
+    "text": "KING'S",
+    "lang": "en"
+   },
+   {
+    "text": "FOX",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "The King's Fox",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Orange hanging banner at right (serif letters, 'THE / KING'S / FOX'); the name also appears on the awning valance and on the main orange fascia at left, which is cut ('...G'S FOX'). Apostrophe may be typographic. The 'NOVIER / Ledig butikslokal / uthyrning@novier.se' vacant-shop panel is a distractor; passer-by face-blurred."
+ },
+ "k4633409": {
+  "accept": false,
+  "reason": "rotated, blurred car-park photo; main text is van branding and a vehicle plate is visible"
+ },
+ "p0948ff9d60": {
+  "accept": false,
+  "reason": "privacy blur covers part of the fascia letters ('ES??ESSO HOUSE'), so the name cannot be transcribed from what is visible"
+ },
+ "p12f9b17399": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "SKO & NYCKELSERVICE",
+    "lang": "sv"
+   }
+  ],
+  "expect": {
+   "query": "Sko & Nyckelservice",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Blue fascia with white letters, shoe and key pictograms, seen at a steep angle from the pavement. Window lettering 'KEMTVÄTT INLÄ...' / 'NYCKELKOPIERING • TILLHÅLLARE' / 'KASSASKÅPSNYCKLAR VID BE...' is cut by the frame; the blue R.M. Williams / Crockett & Jones blade sign and a temporary no-parking sign dated 2024-08-20 – 2024-08-30 are distractors."
+ },
+ "p401b1b7da2": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Nobel Museum",
+    "lang": "en"
+   },
+   {
+    "text": "ENTRÉ",
+    "lang": "sv"
+   },
+   {
+    "text": "STORTORGET",
+    "lang": "sv"
+   },
+   {
+    "text": "STORKYRKANS GÅRD",
+    "lang": "sv"
+   }
+  ],
+  "expect": {
+   "query": "Nobel Museum",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Frosted acrylic sign on a stone wall; the photo is rotated 90° (text runs vertically). 'Nobel Museum' logo in blue-grey with a gold medal, 'ENTRÉ' bold with an arrow to 'STORTORGET', and 'STORKYRKANS GÅRD' with pram/wheelchair/bicycle pictograms."
+ },
+ "pd70fdaa3f7": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "flying tiger",
+    "lang": "en"
+   },
+   {
+    "text": "copenhagen",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Flying Tiger",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Black outlined lower-case letters on a white fascia above an open shop door, frontal. Window stickers 'Allt för skol-starten' and 'Du är den bästa gåvan' are distractors."
+ },
+ "pea743b8d60": {
+  "accept": false,
+  "reason": "indoor defibrillator cabinet label; not a mappable place sign"
+ }
+}

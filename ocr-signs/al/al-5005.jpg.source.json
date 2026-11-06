@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=f3c569c4-81cd-456d-a2e2-8e0ce2666e8f",
+  "original_url": "https://panoramax.openstreetmap.fr/images/f3/c5/69/c4/81cd-456d-a2e2-8e0ce2666e8f.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "IrdiIs",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture f3c569c4-81cd-456d-a2e2-8e0ce2666e8f (Tirana, 2026-02-24)",
+  "description": "Street-level picture taken 2026-02-24 near Tirana by IrdiIs, sequence bf7ebc35-e95c-483e-89be-bffa5d8417f1, heading 101. OCR (PP-OCRv3) read: Fibank | vizionplus.tv | PLUS",
+  "date": "2026-02-24",
+  "categories": [],
+  "camera_location": [
+    41.32817769,
+    19.815596435
+  ],
+  "found_by": "panoramax-ocr:Tirana",
+  "bytes": 712204,
+  "width": 2008,
+  "height": 1506,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/f3/c5/69/c4/81cd-456d-a2e2-8e0ce2666e8f.jpg",
+  "derivative": "crop 2023,307,4031,1813 of the 4032x1814 HD picture"
+}

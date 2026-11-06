@@ -1,0 +1,230 @@
+{
+  "f409ebe7d-b499-49e5-ab11-41e5224a2912": {
+    "accept": false,
+    "reason": "painted healer advertisement ('TRADIT PRATICIEN', list of ailments); service advert with no name or place"
+  },
+  "f7e66ee15-9c21-4231-ae4e-700fceaab34a": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "Parc Urbain",
+        "lang": "fr"
+      },
+      {
+        "text": "BÃNGR WEOOGO",
+        "lang": "mos"
+      },
+      {
+        "text": "Massif Forestier- Education Environnementale - Loisirs.",
+        "lang": "fr"
+      }
+    ],
+    "expect": {
+      "query": "Bangr Weoogo",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Large park entrance board in Ouagadougou on a steel frame, with a painted park map below. The Mooré name has a tilde on the A (BÃNGR); the usual map spelling is Bangr-Weoogo. The small strapline is transcribed as seen ('Education' shows no accent; spacing around the first hyphen as on the board). Distractors: 'BURKINA FASO / Unité-Progrès-Justice' with the coat of arms at top right, 'COMMUNE DE OUAGADOUGOU', the round park logo and the tiny map labels."
+  },
+  "c140496332": {
+    "accept": false,
+    "reason": "workers installing an LED display panel indoors; no readable sign text"
+  },
+  "c140496334": {
+    "accept": false,
+    "reason": "subject is an LED panel installation on scaffolding; the 'Coris Bourse' logo board is a small indoor corner element, not the target"
+  },
+  "c36547525": {
+    "accept": false,
+    "reason": "mock toilet at an NGO workshop; only a generic 'TOILETTE' pictogram card, no place name"
+  },
+  "c89163054": {
+    "accept": false,
+    "reason": "subject is a cyclist and motorcyclists; the Shell canopy and clinic signs in the background are partial and not the target"
+  },
+  "fce1285d4-35e1-46ff-a442-c212d208bea3": {
+    "accept": false,
+    "reason": "product advertising billboard (Mona-G glucose biscuits) with a child's face; pure advert"
+  },
+  "c135535741": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "Dômes de",
+        "lang": "fr"
+      },
+      {
+        "text": "Fabédougou",
+        "lang": "fr"
+      }
+    ],
+    "expect": {
+      "query": "Dômes de Fabédougou",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Blue name strip under a large dark picture board at the entrance to the Fabédougou domes site near Banfora; moderately small in frame. A tourist pictogram sits at the strip's left; the red STOP sign at upper left and the picnic pictogram at right are distractors."
+  },
+  "c36543615": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "COMMUNE DE OUAGADOUGOU",
+        "lang": "fr"
+      },
+      {
+        "text": "DIRECTION DE LA PROPRETE",
+        "lang": "fr"
+      },
+      {
+        "text": "CENTRE DE VALORISATION",
+        "lang": "fr"
+      },
+      {
+        "text": "DES DECHETS PLASTIQUES",
+        "lang": "fr"
+      },
+      {
+        "text": "PARTENAIRE TECHNIQUE",
+        "lang": "fr"
+      },
+      {
+        "text": "PARTENAIRES FINANCIERS",
+        "lang": "fr"
+      },
+      {
+        "text": "VILLE DE TURIN",
+        "lang": "fr"
+      },
+      {
+        "text": "BANQUE MONDIALE",
+        "lang": "fr"
+      },
+      {
+        "text": "REGION PIEMONT",
+        "lang": "fr"
+      }
+    ],
+    "expect": {
+      "query": "Centre de Valorisation des Déchets Plastiques",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Hand-painted facility sign, Ouagadougou; initial letters in red, the rest black; no accents painted (PROPRETE, DECHETS, REGION). The I in 'VILLE DE TURIN' is faded. Small logos between the lines carry no extra legible text."
+  },
+  "c57110433": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "AMBF",
+        "lang": "fr"
+      },
+      {
+        "text": "HOTEL DU MAIRE",
+        "lang": "fr"
+      },
+      {
+        "text": "AMBF",
+        "lang": "fr"
+      }
+    ],
+    "expect": {
+      "query": "Hôtel du Maire",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Long white metal panel on a wall, Ouagadougou; green 'HOTEL DU MAIRE' (no accent) between two AMBF logos (A and M in red, BF in green) with a Burkina Faso outline."
+  },
+  "c8402475": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "ZONAGE DE LA RESERVE DE BIOSPHERE",
+        "lang": "fr"
+      },
+      {
+        "text": "DE LA MARE AUX HIPPOPOTAMES",
+        "lang": "fr"
+      }
+    ],
+    "expect": {
+      "query": "Mare aux Hippopotames",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Painted entrance board with a hand-drawn zoning map of the Mare aux Hippopotames biosphere reserve; target is the two-line title band (the small 'de la' and 'aux' are lower-case-height capitals). The map labels, legend ('Légende', ...) and the orange 'ZONAGE DE LA R.B.M.H' area table are distractors."
+  },
+  "f8411084a-5e72-419f-a651-2f0dad712d49": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "OUAGADOUGOU",
+        "lang": "fr"
+      }
+    ],
+    "expect": {
+      "query": "Ouagadougou",
+      "type": "place"
+    },
+    "difficulty": "easy",
+    "notes": "Red-bordered French-style town entry sign above a 50 speed-limit sign on the roadside. The 50 roundel and the truck's plate are distractors."
+  },
+  "fab528548-8859-44eb-9f15-b7d62f9c9187": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "SCIMAS",
+        "lang": "fr"
+      },
+      {
+        "text": "SUPERMARCHE",
+        "lang": "fr"
+      },
+      {
+        "text": "TEL: 30 62 80  FAX: 310002",
+        "lang": "und"
+      }
+    ],
+    "expect": {
+      "query": "Scimas",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Yellow-on-white supermarket sign on the right of the building, Ouagadougou. The phone line is small; spacing within the numbers is approximate. The Bridel/Catch product billboards on the facade and the faded 'SCIMAS SUPERMARCHE' lettering on the awning are distractors."
+  }
+}

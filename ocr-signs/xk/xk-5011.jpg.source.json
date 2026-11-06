@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/1273789/5/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlOS5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE4LzgvMy9wcm9jLzEyNzM3ODlfMF9hNDA4MV82LmpwZw",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "Stereo",
+  "credit_as_published": "KartaView user Stereo (user id 1952); © KartaView contributors",
+  "title": "KartaView photo 294559285, sequence 1273789 #5 (Pristina, 2018-08-03)",
+  "description": "Street-level picture on KartaView, taken 2018-08-03 near Pristina by Stereo, sequence 1273789, heading 112.22. OCR (PP-OCRv3) read: MAXI | mabetex | Project engineering",
+  "date": "2018-08-03",
+  "categories": [],
+  "camera_location": [
+    42.663055,
+    21.162491
+  ],
+  "found_by": "kartaview-ocr:Pristina",
+  "bytes": 324688,
+  "width": 1362,
+  "height": 1021,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlOS5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE4LzgvMy9wcm9jLzEyNzM3ODlfMF9hNDA4MV82LmpwZw",
+  "derivative": "crop 2375,1,3737,1022 of the 4032x3024 full-size processed (blurred) picture"
+}

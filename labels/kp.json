@@ -1,0 +1,168 @@
+{
+  "f02901d70-3022-4fc3-a316-0255639984c1": {
+    "accept": false,
+    "reason": "not in North Korea: Changgyeonggung palace in Seoul, South Korea (Gyeonggyeongjeon hall board '景慶殿' written right-to-left); filed under kp via the search term '조선'"
+  },
+  "f28202b71-4db9-494b-9e6f-2752234cd32e": {
+    "accept": false,
+    "reason": "not in North Korea: Changgyeonggung palace in Seoul, South Korea; also a near-duplicate of f02901d70 (same hall board, same costumed group)"
+  },
+  "f44469296-0ef9-46b4-8dda-bfe5df731b08": {
+    "accept": false,
+    "reason": "not in North Korea: Veterans Day ceremony in North Charleston, USA; a person's face is the subject and the handwritten placard ('Landed in Inchon, Korea in 1951') is not a place sign"
+  },
+  "f5f09c918-d32e-4a23-875c-a6b5236193f9": {
+    "accept": false,
+    "reason": "not in North Korea: Changgyeonggung palace grounds in Seoul, South Korea; costumed people are the subject and the only sign (left edge) is cut off and unreadable"
+  },
+  "f60010087-1ff9-4c2d-84c5-ed57eeecffce": {
+    "accept": false,
+    "reason": "pictogram-only indoor sign (baby-changing/massage symbol) at a hotel; no readable text"
+  },
+  "f76c0715b-efd1-4eee-ae1b-10057bc17274": {
+    "accept": false,
+    "reason": "not in North Korea: Tongmyeongjeon hall ('通明殿', read right-to-left) at Changgyeonggung palace in Seoul, South Korea"
+  },
+  "f8a208c50-c3aa-4bd2-b7ac-edd0d50f2e84": {
+    "accept": false,
+    "reason": "not in North Korea: Changgyeonggung palace in Seoul, South Korea (hall board '歡慶殿' read right-to-left); costumed actors are the subject; KOREA.net corner watermark"
+  },
+  "fad675903-b7e8-437b-a248-7c320c968a3f": {
+    "accept": false,
+    "reason": "satellite image of the Korean peninsula, not a street photograph; no sign"
+  },
+  "f9d149730-2b7a-4339-9334-84a2b991d5b8": {
+    "accept": false,
+    "reason": "North Korean flag hanging under a glass roof (apparently an airport/stadium hall, location unclear); no sign text"
+  },
+  "f0e9aed4b-259a-4eeb-a417-d1201feacb8a": {
+    "accept": false,
+    "reason": "wrong country: Gwanghwamun, Gyeongbokgung, Seoul (South Korea), not North Korea"
+  },
+  "f34e50552-9182-456f-b350-b7488a1b6297": {
+    "accept": false,
+    "reason": "wrong country: Gwanghwamun gate in Seoul (South Korea), not North Korea"
+  },
+  "fc5a97dd4-8a34-467a-9868-003fbb06d74a": {
+    "accept": false,
+    "reason": "wrong country: Gwanghwamun gate in Seoul (South Korea), not North Korea"
+  },
+  "fc80df916-d287-4049-992f-4b015fc161d0": {
+    "accept": false,
+    "reason": "wrong country: Gwanghwamun, Seoul (South Korea); also no sign text, only guard mannequins"
+  },
+  "c47897497": {
+    "accept": false,
+    "reason": "pictogram-only massage-room door sign at the Sijung Hotel; no text"
+  },
+  "c47776341": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Hang"
+    ],
+    "lines": [
+      {
+        "text": "대동강맥주",
+        "lang": "ko",
+        "latin": "Taedonggang maekju (Taedonggang Beer)"
+      }
+    ],
+    "expect": {
+      "query": "대동강맥주",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Pyongyang 2015 (Commons: Shops in Pyongyang / Signs in North Korea): vertical light-box with a beer-mug pictogram, hung on a green DPRK apartment block; Hangul written top to bottom, one syllable per row. Names the beer bar after the DPRK's Taedonggang brand. Small unreadable signs further along the facade are distractors."
+  },
+  "c75726730": {
+    "accept": false,
+    "reason": "museum exhibit caption for a captured M-24 tank (미제침략군 땅크 《M-24》); not a mappable place sign"
+  },
+  "f1365490a-e5b0-45ec-a56d-9f0e0c0cd8c1": {
+    "accept": false,
+    "reason": "portrait of a barista (a person's face is the subject); no sign"
+  },
+  "f356d8cd2-36ea-4dd4-a487-c5089a5cc5f8": {
+    "accept": false,
+    "reason": "department-store interior with shelves and freezers; no readable sign"
+  },
+  "f5b573bdd-0ddd-4bc3-afa9-12b16d2ec492": {
+    "accept": false,
+    "reason": "hotel shop interior with display cases; no readable sign"
+  },
+  "f7d161dfd-a45c-4f77-b916-9b80f46804ba": {
+    "accept": false,
+    "reason": "menu photos of coffee drinks on a table; menu, not a place sign"
+  },
+  "fe479ee07-6055-4584-b5be-f3ba31384b3a": {
+    "accept": false,
+    "reason": "framed painting of warships with a tiny caption label; not a place sign"
+  },
+  "fe9fd4a8c-2b89-44da-aa63-d219b12e6d72": {
+    "accept": false,
+    "reason": "menu photos (waffles, coffee); the bottle label 'Pyongyang Hotel Cafe' is product packaging"
+  },
+  "ffb4c2d11-975e-4ba7-a9d0-f0aa0256fd83": {
+    "accept": false,
+    "reason": "close-up of a coffee cup; no sign"
+  },
+  "c124840062": {
+    "accept": false,
+    "reason": "technical specification exhibition panel (기술적특성 / 응용분야); no place name"
+  },
+  "c124840130": {
+    "accept": false,
+    "reason": "political propaganda poster with a slogan; no place name"
+  },
+  "c141031259": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Hang"
+    ],
+    "lines": [
+      {
+        "text": "동대원 해양상점",
+        "lang": "ko",
+        "latin": "Tongdaewŏn Haeyang Sangjŏm (Tongdaewon Marine-products Shop)"
+      }
+    ],
+    "expect": {
+      "query": "동대원해양상점",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Night, North Korea (Tongdaewon is a Pyongyang district): gold 3-D letters on a brick facade framed by coloured LED strips, shot upward. Distractor: red LED opening-hours ticker '봉사시간: 오전8시부터 저녁21시까지' in DPRK wording (봉사시간 = service hours). No GPS in the source; country from the Commons title."
+  },
+  "c47897427": {
+    "accept": false,
+    "reason": "propaganda billboard in Kaesong (slogans '위대한장군님만 계시면 / 우리는 이긴다!'); no place name"
+  },
+  "c141031326": {
+    "accept": false,
+    "reason": "pictogram-only winding-road warning sign seen through a bus window; no text"
+  },
+  "f10ed140b-2897-4f9e-98e8-927cc733ad53": {
+    "accept": false,
+    "reason": "close-up of a coffee cup; no sign"
+  },
+  "f824e4dc0-388b-4bcc-98d3-a9f88dafd3c7": {
+    "accept": false,
+    "reason": "table-top drinks menu with prices (header 련광차집); menus are excluded"
+  },
+  "fda9d5966-1e61-4053-bff9-07b3ce1b8f68": {
+    "accept": false,
+    "reason": "cafe counter with menu/advert screens (Iced Cafe Cappuccino); no name sign legible; staff are the focus"
+  },
+  "ff967cd18-e540-4921-925b-c86d6d15c794": {
+    "accept": false,
+    "reason": "generic indoor label '상점 / SHOP' at the Koryo Hotel gift-shop door; no shop name to search for"
+  },
+  "f618d8603-68d9-436a-b129-729004aa5849": {
+    "accept": false,
+    "reason": "cafe interior; only a small backlit menu board, no legible name sign"
+  }
+}

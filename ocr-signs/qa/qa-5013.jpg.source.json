@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/8592441/1282/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyNC8zLzI2L3Byb2MvODU5MjQ0MV85NGJmYmZmNmFkOWVjMDQ4MjZlN2FjODc5OGE3OWRiOC5qcGc",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "karwacbq-poscbq",
+  "credit_as_published": "KartaView user karwacbq-poscbq (user id 201817); © KartaView contributors",
+  "title": "KartaView photo 1926792793, sequence 8592441 #1282 (Doha, 2024-03-26)",
+  "description": "Street-level picture on KartaView, taken 2024-03-26 near Doha by karwacbq-poscbq, sequence 8592441, heading 357.12. OCR (PP-OCRv3) read: [unread] Alilardan | GrandHamad Street | St.119",
+  "date": "2024-03-26",
+  "categories": [],
+  "camera_location": [
+    25.285101,
+    51.534923
+  ],
+  "found_by": "kartaview-ocr:Doha",
+  "bytes": 231621,
+  "width": 1200,
+  "height": 900,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyNC8zLzI2L3Byb2MvODU5MjQ0MV85NGJmYmZmNmFkOWVjMDQ4MjZlN2FjODc5OGE3OWRiOC5qcGc",
+  "derivative": "crop 532,284,1732,1184 of the 3264x1836 full-size processed (blurred) picture"
+}

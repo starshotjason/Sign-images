@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/2889950/223/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMC84LzkvcHJvYy8yODg5OTUwX2M2ZmMxXzVmMzAyYTlmMjE0ZDQuanBn",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "charlie-plett",
+  "credit_as_published": "KartaView user charlie-plett (user id 24854); © KartaView contributors",
+  "title": "KartaView photo 1041894882, sequence 2889950 #223 (Belize City, 2020-03-10)",
+  "description": "Street-level picture on KartaView, taken 2020-03-10 near Belize City by charlie-plett, sequence 2889950, heading 304.28. OCR (PP-OCRv3) read: CRYSTAL | BELIKIN | BELIKIN | XING WANG SHOP | 闵区区区区区区区区区区区区会 | UPTOWN BAR | Shop | WASH&DRY | 46A",
+  "date": "2020-03-10",
+  "categories": [],
+  "camera_location": [
+    17.496542,
+    -88.192194
+  ],
+  "found_by": "kartaview-ocr:Belize City",
+  "bytes": 1866270,
+  "width": 3242,
+  "height": 2250,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMC84LzkvcHJvYy8yODg5OTUwX2M2ZmMxXzVmMzAyYTlmMjE0ZDQuanBn",
+  "derivative": "crop 757,0,3999,2250 of the 4000x2250 full-size processed (blurred) picture"
+}

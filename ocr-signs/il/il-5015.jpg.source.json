@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.mapcomplete.org/#focus=pic&pic=8e7c0015-7fe9-47aa-9c4a-d8be63edc87d",
+  "original_url": "https://panoramax.mapcomplete.org/permanent/8e/7c/00/15/7fe9-47aa-9c4a-d8be63edc87d.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "mapcomplete",
+  "credit_as_published": "Panoramax, instance mapcomplete (https://panoramax.mapcomplete.org)",
+  "title": "Panoramax picture 8e7c0015-7fe9-47aa-9c4a-d8be63edc87d (Tel Aviv, 2026-09-27)",
+  "description": "Street-level picture on Panoramax, taken 2026-09-27 near Tel Aviv by mapcomplete, sequence 42ef5bd3-ac04-4013-997e-26afe99f1066, heading 301. OCR (PP-OCRv3) read: ONIGIR | [unread] TCA | 24/7 | PULL | Coin | PUSH | return | Coin | return",
+  "date": "2026-09-27",
+  "categories": [],
+  "camera_location": [
+    32.0701469,
+    34.7709641
+  ],
+  "found_by": "panoramax-ocr:Tel Aviv",
+  "bytes": 4742442,
+  "width": 5152,
+  "height": 2898,
+  "downloaded_url": "https://panoramax.mapcomplete.org/permanent/8e/7c/00/15/7fe9-47aa-9c4a-d8be63edc87d.jpg",
+  "derivative": "whole 5152x2898 HD picture as served by the Panoramax instance (byte-identical; the service blurs faces and number plates), not cropped"
+}

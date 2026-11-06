@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=ed7fce1f-490f-467c-9bde-06c1edfe8ba5",
+  "original_url": "https://panoramax.openstreetmap.fr/images/ed/7f/ce/1f/490f-467c-9bde-06c1edfe8ba5.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "mapeadora",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture ed7fce1f-490f-467c-9bde-06c1edfe8ba5 (Bogota, 2026-01-25)",
+  "description": "Street-level picture taken 2026-01-25 near Bogota by mapeadora, sequence d7f02d4f-fc41-4225-b2e1-7bd40dc1eefd, heading 187. OCR (PP-OCRv3) read: oToisson | NALIA | LIBRE | NAL | JDYE | SERVICIOTE | DERELO",
+  "date": "2026-01-25",
+  "categories": [],
+  "camera_location": [
+    4.5989533,
+    -74.0745083
+  ],
+  "found_by": "panoramax-ocr:Bogota",
+  "bytes": 1341692,
+  "width": 3856,
+  "height": 1844,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/ed/7f/ce/1f/490f-467c-9bde-06c1edfe8ba5.jpg",
+  "derivative": "crop 240,0,4096,1844 of the 4096x1844 HD picture"
+}

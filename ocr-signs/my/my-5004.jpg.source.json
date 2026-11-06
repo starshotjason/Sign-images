@@ -1,0 +1,34 @@
+{
+  "source": "flickr",
+  "source_url": "https://www.flickr.com/photos/7741046@N06/3256447315",
+  "original_url": "https://live.staticflickr.com/3375/3256447315_ee6392257f_o.jpg",
+  "license_as_published": "CC BY 2.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by/2.0/",
+  "author_as_published": "watchsmart",
+  "credit_as_published": "\"Lonely Storefront\" by watchsmart is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/.",
+  "title": "Lonely Storefront",
+  "description": "",
+  "date": "",
+  "categories": [
+    "kuching",
+    "malaysia",
+    "sarawak"
+  ],
+  "camera_location": null,
+  "found_by": "openverse:Malaysia storefront",
+  "bytes": 131745,
+  "width": 1024,
+  "height": 768,
+  "downloaded_url": "https://api.openverse.org/v1/images/8a9fab92-a48d-4d54-8456-bf4b2ec4f4d0/thumb/?full_size=true&compressed=false",
+  "derivative": "Flickr's published 1024 px 'large' rendition, served by the Openverse image API (Flickr originals were throttled for this client)",
+  "flickr": {
+    "flickr_url": "https://www.flickr.com/photos/7741046@N06/3256447315",
+    "flickr_license": "CC BY 2.0",
+    "lat": null,
+    "lon": null,
+    "original_url": "https://live.staticflickr.com/3375/3256447315_ee6392257f_o.jpg",
+    "flickr_license_code": 4,
+    "retrieved": "2026-11-06T05:21:42.812383+00:00"
+  },
+  "openverse_id": "8a9fab92-a48d-4d54-8456-bf4b2ec4f4d0"
+}

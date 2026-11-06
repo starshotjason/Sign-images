@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.multimodall.com/#focus=pic&pic=6bbdc0fa-87f9-4198-9e55-e0ae28945c89",
+  "original_url": "https://panoramax.multimodall.com/api/pictures/6bbdc0fa-87f9-4198-9e55-e0ae28945c89/hd.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "km2bp",
+  "credit_as_published": "Panoramax, instance multimodall (https://panoramax.multimodall.com)",
+  "title": "Panoramax picture 6bbdc0fa-87f9-4198-9e55-e0ae28945c89 (Oslo, 2020-05-17)",
+  "description": "Street-level picture on Panoramax, taken 2020-05-17 near Oslo by km2bp, sequence 3de6c3c9-3add-4c0d-8b95-f908d12a3c52, heading 80. OCR (PP-OCRv3) read: W.A.WEKELS | Prest yel | Vor FrelsersKirke",
+  "date": "2020-05-17",
+  "categories": [],
+  "camera_location": [
+    59.912145972,
+    10.746114972
+  ],
+  "found_by": "panoramax-ocr:Oslo",
+  "bytes": 3711713,
+  "width": 3416,
+  "height": 2562,
+  "downloaded_url": "https://panoramax.multimodall.com/api/pictures/6bbdc0fa-87f9-4198-9e55-e0ae28945c89/hd.jpg",
+  "derivative": "crop 264,1404,3680,3966 of the 4344x5792 HD picture"
+}

@@ -1,0 +1,35 @@
+{
+  "source": "flickr",
+  "source_url": "https://www.flickr.com/photos/26254688@N03/14526160172",
+  "original_url": "https://live.staticflickr.com/2904/14526160172_311e53dd88_o.jpg",
+  "license_as_published": "CC BY-SA 2.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/2.0/",
+  "author_as_published": "Lemsipmatt",
+  "credit_as_published": "\"Lithuanian Street Sign\" by Lemsipmatt is licensed under CC BY-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.0/.",
+  "title": "Lithuanian Street Sign",
+  "description": "",
+  "date": "",
+  "categories": [
+    "kaunas",
+    "lithuania",
+    "santakos",
+    "streetsign"
+  ],
+  "camera_location": null,
+  "found_by": "openverse:Lithuania street sign",
+  "bytes": 192535,
+  "width": 1023,
+  "height": 726,
+  "downloaded_url": "https://api.openverse.org/v1/images/2fec2e73-a778-4a94-b612-4e1371c09c7f/thumb/?full_size=true&compressed=false",
+  "derivative": "Flickr's published 1024 px 'large' rendition, served by the Openverse image API (Flickr originals were throttled for this client)",
+  "flickr": {
+    "flickr_url": "https://www.flickr.com/photos/26254688@N03/14526160172",
+    "flickr_license": "CC BY-SA 2.0",
+    "lat": null,
+    "lon": null,
+    "original_url": "https://live.staticflickr.com/2904/14526160172_311e53dd88_o.jpg",
+    "flickr_license_code": 5,
+    "retrieved": "2026-11-06T05:26:04.594363+00:00"
+  },
+  "openverse_id": "2fec2e73-a778-4a94-b612-4e1371c09c7f"
+}

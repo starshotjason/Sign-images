@@ -1,0 +1,26 @@
+{
+ "c145157321": {
+  "accept": true,
+  "reason": "",
+  "kind": "transit",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "AEROPORT INTERNATIONAL LEON MBA LIBREVILLE",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "Aéroport International Léon Mba",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Long white name board on the airport forecourt fence, one line, no accents on the sign. 'PAUL' bakery signs on the terminal behind are distractors."
+ },
+ "c5760675": {
+  "accept": false,
+  "reason": "directional finger signs too small to read reliably"
+ }
+}

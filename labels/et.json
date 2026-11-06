@@ -1,0 +1,631 @@
+{
+ "c156541867": {
+  "accept": false,
+  "reason": "wrong country (Buuhoodle is in Somalia, not Ethiopia); also a low-resolution video still"
+ },
+ "f08296563-45dd-4063-a490-fd64941177c9": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Ethi",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ኑሬ ተቆልቶ የተፈጨ",
+    "lang": "am",
+    "latin": "Nure teqolto yetefech'e (Nure roasted and ground)"
+   },
+   {
+    "text": "የሐረር ቡና",
+    "lang": "am",
+    "latin": "yeHarer buna (Harar coffee)"
+   },
+   {
+    "text": "ማከፋፈያ",
+    "lang": "am",
+    "latin": "makefafeya (distribution outlet)"
+   },
+   {
+    "text": "NURE ROASTED HARAR COFFEE",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Nure",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Hand-painted wall sign for the Nure coffee distributor (Harar). Target is the large red Amharic text plus the English line on the painted coffee bag. Not transcribed: the small Amharic line above the English (repeats lines 1-2) and the small slogan below it (first-grade quality). Peeling paint at right. Flickr title 'Prime Harar Coffee'."
+ },
+ "f0e4be7f6-918f-405e-8dfe-8985d345da38": {
+  "accept": false,
+  "reason": "restaurant name painted on airplane sculpture is only partly legible (blue name line unreadable, red/white Amharic letters fragmentary)"
+ },
+ "fa2b54d05-ca77-41d8-a21e-a68e1fbe2f7b": {
+  "accept": false,
+  "reason": "no readable place name: only the Tomoca K/lion logo and a framed Balzac quote"
+ },
+ "fa51c4481-8d51-46f7-ab71-51c960d39ca4": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Ethi",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ንጋቷ",
+    "lang": "am",
+    "latin": "Nigatwa"
+   },
+   {
+    "text": "ባር",
+    "lang": "am",
+    "latin": "bar"
+   },
+   {
+    "text": "Nigatwa-Bar",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Nigatwa Bar",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Painted facade lettering on a bar in Jinka: Amharic on the red panel, Latin on the yellow beam below (paint peeling around 'Ni'). The HAIG whisky bottle mural is a distractor."
+ },
+ "f33513a71-fb6a-44a7-b24c-877eae2cadc2": {
+  "accept": true,
+  "reason": "",
+  "kind": "negative",
+  "scripts": [
+   "Ethi"
+  ],
+  "lines": [
+   {
+    "text": "ይልማ አምሣ ሆቴል",
+    "lang": "am",
+    "latin": "Yilma Amsa Hotel"
+   },
+   {
+    "text": "ባሌ ጎባ",
+    "lang": "am",
+    "latin": "Bale Goba"
+   }
+  ],
+  "expect": {
+   "query": "ይልማ አምሣ ሆቴል",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Ethiopic-only hotel sign (no Latin), so 'negative'. Target is the row of yellow 3-D letters on a rooftop frame, seen from below against sky; second row gives the town (Bale Goba). The weathered painted panel above repeats 'ይልማ' / 'አምሣ' with a stylised cursive 'ሆቴል' (not transcribed as separate lines). Least certain glyph: the third letter of the second word, read as ሣ (three-pronged ሠ form with long right leg), not ሳ/ሻ; checker please confirm."
+ },
+ "f3ef5a017-a98c-4f73-9896-6e085eb02e04": {
+  "accept": false,
+  "reason": "people are the subject: two men posing by the pole, faces frontal and filling most of the frame (title 'Men by Sign for Tewodros Street'); the 'ቴዎድሮስ መ/ድ / TEWODROS St.' plate is legible but secondary"
+ },
+ "f6faac2fe-1e42-4994-becb-812e979c109b": {
+  "accept": false,
+  "reason": "traffic stop sign ('ቁም / STOP'), no place name"
+ },
+ "f87b296a5-7958-4ff7-ac21-e643dddd3c80": {
+  "accept": false,
+  "reason": "regulatory signs only (no stopping, no horn, plate 'ለታክሲ ብቻ' = taxis only); no place name; the advertising board at right is cut off"
+ },
+ "fbb68393d-4961-4297-a4b4-ae7173969a4d": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn",
+   "Ethi"
+  ],
+  "lines": [
+   {
+    "text": "MANA MUUZIQAA",
+    "lang": "om"
+   },
+   {
+    "text": "RAASTAA",
+    "lang": "om"
+   },
+   {
+    "text": "ራስታ ሙዚቃ ቤት",
+    "lang": "am",
+    "latin": "Rasta muziqa bet (Rasta music house)"
+   }
+  ],
+  "expect": {
+   "query": "Raastaa",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Hand-painted music-shop board, frontal and sharp: Afaan Oromo 'Mana Muuziqaa Raastaa' (Rasta music house) in red, Amharic equivalent in blue. Painted guitarist and drawings of a watch, phone and stereo are illustrations, not a real person. A tiny unreadable label under the stereo drawing is ignored."
+ },
+ "fccfe7c1f-bdab-4a32-ab30-6712a747945d": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Ethi",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ስያትል ሲኒማ",
+    "lang": "am",
+    "latin": "Siyatil Sinima (Seattle Cinema)"
+   },
+   {
+    "text": "Seattle Cinema",
+    "lang": "en"
+   },
+   {
+    "text": "ለስብሰባ",
+    "lang": "am",
+    "latin": "lesibseba (for meetings)"
+   },
+   {
+    "text": "ለግራጁውሽን (ምረቃ)",
+    "lang": "am",
+    "latin": "legrajuwshin (mireqa) (for graduations)"
+   },
+   {
+    "text": "ኢንተርኔት ካፌ",
+    "lang": "am",
+    "latin": "internet kafe (internet cafe)"
+   },
+   {
+    "text": "ለሰርግ",
+    "lang": "am",
+    "latin": "leserg (for weddings)"
+   },
+   {
+    "text": "Tel:-0348750034",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "Seattle Cinema",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Large printed banner in Axum with a Seattle skyline. First Ethiopic word is spelled with ስ (sɨ), not the usual ሲ, as painted. Not transcribed: a small yellow word under 'ለሰርግ' and the bottom language strip (Amharic/Tigrinya/English/Indian in both scripts, partly behind poles) and a 'Yoni Advert' tag at bottom right. People in the foreground are incidental."
+ },
+ "fd7a6b5b2-3156-4fd9-9475-cf491186587d": {
+  "accept": false,
+  "reason": "no legible target sign: street-stall scene under a blue tarp; the small green and orange shop signs are too small to read"
+ },
+ "c29765890": {
+  "accept": false,
+  "reason": "camera-fee price list, no place name"
+ },
+ "f259d347e-a2d6-489c-b658-fb453a556aa4": {
+  "accept": false,
+  "reason": "camera-fee price list, no place name; also duplicate of c29765890"
+ },
+ "c63513717": {
+  "accept": false,
+  "reason": "people are the subject: two girls posing frontally in front of the Kossoye school sign"
+ },
+ "f148090e4-a14e-463e-b085-ade063f80cd6": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn",
+   "Ethi"
+  ],
+  "lines": [
+   {
+    "text": "Kuku Massage",
+    "lang": "en"
+   },
+   {
+    "text": "ኩኩ ማሳጅ",
+    "lang": "am",
+    "latin": "Kuku masaj (Kuku Massage)"
+   },
+   {
+    "text": "0931 66 93 45",
+    "lang": "und"
+   },
+   {
+    "text": "0911 12 96 68",
+    "lang": "und"
+   },
+   {
+    "text": "Aroma",
+    "lang": "en"
+   },
+   {
+    "text": "Swedish",
+    "lang": "en"
+   },
+   {
+    "text": "24 Hours",
+    "lang": "en"
+   },
+   {
+    "text": "Open",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Kuku Massage",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Black-and-white street scene in Addis Ababa; the target is the angled board on the right pole (arrow pointing right) with a massage photo. Source image is only 1024 px wide, so the sign is small. A third small line under 'Swedish' (looks like '... Bath') is too blurred to transcribe and is omitted. Mechanics around the car are incidental."
+ },
+ "f27a3a84b-f3b1-4564-ace2-93ec34e3b608": {
+  "accept": false,
+  "reason": "building exterior (St George Cathedral) with no visible name sign"
+ },
+ "f87294037-8601-4194-b0d1-e1de74112e4c": {
+  "accept": false,
+  "reason": "quotation plaque (Balzac coffee quote), not a place name; near-duplicate of rejected fa2b54d05"
+ },
+ "c21920044": {
+  "accept": false,
+  "reason": "painted cobbler-shop wall with generic 'SHOE' text and Ethiopic slogans, no business name; Ethiopic not reliably legible"
+ },
+ "c21920665": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Ethi",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "አቢሲንያ ባንክ",
+    "lang": "am",
+    "latin": "Abisinya Bank (Bank of Abyssinia)"
+   },
+   {
+    "text": "BANK OF ABYSSINIA",
+    "lang": "en"
+   },
+   {
+    "text": "502 Km",
+    "lang": "und"
+   },
+   {
+    "text": "አዲስ አበባ",
+    "lang": "am",
+    "latin": "Addis Abeba"
+   },
+   {
+    "text": "ADDIS ABABA",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Addis Ababa",
+   "type": "place"
+  },
+  "difficulty": "medium",
+  "notes": "Rusty distance marker sponsored by Bank of Abyssinia (logo at top left); sign is mid-frame with foliage in front."
+ },
+ "c27815071": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "PAULOS PETROS",
+    "lang": "en"
+   },
+   {
+    "text": "MIKAEL MILHAIZENGHI",
+    "lang": "en"
+   },
+   {
+    "text": "1·5 km",
+    "lang": "und"
+   },
+   {
+    "text": "E-mail:< Tigrai.tourism@ethionet.et",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Paulos Petros",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Directional sign to two rock churches near Sinkata, Tigray. Decimal in '1·5' is a raised dot. A faded, illegible slogan line at the top of the light-blue border (Tigrai ... open air museum) is not transcribed."
+ },
+ "c29460973": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn",
+   "Ethi"
+  ],
+  "lines": [
+   {
+    "text": "WELCOME TO",
+    "lang": "en"
+   },
+   {
+    "text": "GUZARA PALACE",
+    "lang": "en"
+   },
+   {
+    "text": "1 Km",
+    "lang": "und"
+   },
+   {
+    "text": "ወደ ጉዛራ ቤተመንግስት",
+    "lang": "am",
+    "latin": "Wede Guzara Betemengist (To Guzara Palace)"
+   },
+   {
+    "text": "NORTH GONDAR ZONE CULTURE & TOURISM DEPT.",
+    "lang": "en"
+   },
+   {
+    "text": "Gondar zuriya woreda culture and tourism office",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Guzara",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Target is the white sign on the left. Its tiny phone/e-mail line at the bottom is not transcribed. The green hand-painted sign on the right ('Well COme TO Guzara Palace World Heritage site ...') is a distractor."
+ },
+ "c30430328": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Ethi",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ነጭ ሣር",
+    "lang": "am",
+    "latin": "Nech Sar"
+   },
+   {
+    "text": "ብሔራዊ ፓርክ",
+    "lang": "am",
+    "latin": "Biherawi Park (National Park)"
+   },
+   {
+    "text": "Nech Sar",
+    "lang": "en"
+   },
+   {
+    "text": "National Park",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Nech Sar National Park",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Directional sign (arrow left) in Arba Minch. Map spelling is often 'Nechisar'."
+ },
+ "c31050275": {
+  "accept": false,
+  "reason": "logo on a coffee cup, not a sign"
+ },
+ "c31161509": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Ethi",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "አላማጣ",
+    "lang": "am",
+    "latin": "Alamata"
+   },
+   {
+    "text": "ALAMATA 80",
+    "lang": "en"
+   },
+   {
+    "text": "መቀሌ",
+    "lang": "am",
+    "latin": "Mekele"
+   },
+   {
+    "text": "MEKELLE 265",
+    "lang": "en"
+   },
+   {
+    "text": "አዲግራት",
+    "lang": "am",
+    "latin": "Adigrat"
+   },
+   {
+    "text": "ADIGRAT 383",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Alamata",
+   "type": "place"
+  },
+  "difficulty": "medium",
+  "notes": "Green directional road sign in Weldiya; distances in km are on the right of each Latin line. Hotel sign behind and 'Habesha Trading' shop sign at right are distractors."
+ },
+ "c31732851": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Ethi",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ስፍራ ሓድጊ (ኣርኪኦሎጂ) ምፍሳስ ባሕሪ",
+    "lang": "ti",
+    "latin": "Sifra hadgi (arkiolojí) Mifsas Bahri (Mifsas Bahri heritage/archaeological site)"
+   },
+   {
+    "text": "ምፍሳስ ባሕሪ መካነ ቅርስ",
+    "lang": "am",
+    "latin": "Mifsas Bahri mekane qirs (Mifsas Bahri heritage site)"
+   },
+   {
+    "text": "MIFSAS BAHRI ARCHAEOLOGICAL SITE",
+    "lang": "en"
+   },
+   {
+    "text": "It is an offence to disturb or move anything",
+    "lang": "en"
+   },
+   {
+    "text": "from this site. Antiquities proclamation no.",
+    "lang": "en"
+   },
+   {
+    "text": "209/2000.",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Mifsas Bahri",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Trilingual protected-monument board (Tigrinya, Amharic, English). Only the two Ethiopic heading lines are transcribed; the Tigrinya paragraph (3 lines, ending '209/1992 ...') under the first heading and the Amharic paragraph (3 lines, ending '209/1992 ...') under the second heading are NOT transcribed."
+ },
+ "c52927939": {
+  "accept": false,
+  "reason": "warning notice (no flash photography); no place name"
+ },
+ "c63513690": {
+  "accept": true,
+  "reason": "",
+  "kind": "hard",
+  "scripts": [
+   "Latn",
+   "Hebr"
+  ],
+  "lines": [
+   {
+    "text": "FELLASHA",
+    "lang": "en"
+   },
+   {
+    "text": "שלום",
+    "lang": "he",
+    "latin": "Shalom"
+   },
+   {
+    "text": "VILLAGE",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Wolleka",
+   "type": "place"
+  },
+  "difficulty": "medium",
+  "notes": "Hand-painted directional sign (arrow left) to the Falasha/Beta Israel village of Wolleka near Gondar; the sign's own spelling is 'FELLASHA VILLAGE'. Hebrew word sits right of a large Star of David, which splits 'VILLAGE' visually."
+ },
+ "c63513742": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Ethi",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ስያትል ሲኒማ",
+    "lang": "am",
+    "latin": "Siyatil Sinima (Seattle Cinema)"
+   },
+   {
+    "text": "Seattle Cinema",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Seattle Cinema",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Large billboard in Axum. Only the two name lines are transcribed; the smaller Amharic list of services (meetings, graduation, internet cafe, weddings), the language strip (Amharic/Tigrigna/English/Indian) and 'Tel:-0348750034' are not. First glyph read as ስ (not ሲ)."
+ },
+ "c64168743": {
+  "accept": false,
+  "reason": "indoor museum exhibit panel ('Human Evolution Timeline in Ethiopia', 'Lucy'), not a map-searchable place sign"
+ },
+ "c64168797": {
+  "accept": false,
+  "reason": "pure beer advert (Harar Beer)"
+ },
+ "c85265789": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Ethi",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ትግራይ፡ መበቆል ጥንታዊ ስልጣነ",
+    "lang": "ti",
+    "latin": "Tigray: mebeqol tintawi siltane (Tigray: cradle of ancient civilization)"
+   },
+   {
+    "text": "TIGRAI: CRADLE OF CIVILIZATION",
+    "lang": "en"
+   },
+   {
+    "text": "በዓቲ",
+    "lang": "ti",
+    "latin": "Be'ati (cave)"
+   },
+   {
+    "text": "MELFA HEAD QUARTER",
+    "lang": "en"
+   },
+   {
+    "text": "CAVE OF A.P.L.F, O.P.L.F",
+    "lang": "en"
+   },
+   {
+    "text": "AND S.E.P.R.F LEADERS",
+    "lang": "en"
+   },
+   {
+    "text": "300m",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "Melfa",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Tigray tourism board. Two Tigrinya lines between 'በዓቲ' and 'MELFA HEAD QUARTER' (party-acronym lines ending in 'መልፋ') are not transcribed. Bottom strip with phone '+251 344401031' and 'WWW tigraitourism.' is partly covered by peeling paint and not transcribed."
+ }
+}

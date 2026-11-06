@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.osm-hr.org/#focus=pic&pic=85aa44c6-b87a-4013-8c60-c41a3cc8faca",
+  "original_url": "https://panoramax.osm-hr.org/permanent/85/aa/44/c6/b87a-4013-8c60-c41a3cc8faca.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "BrackoNe",
+  "credit_as_published": "Panoramax, instance osm-hr (https://panoramax.osm-hr.org)",
+  "title": "Panoramax picture 85aa44c6-b87a-4013-8c60-c41a3cc8faca (Podgorica, 2021-05-21)",
+  "description": "Street-level picture on Panoramax, taken 2021-05-21 near Podgorica by BrackoNe, sequence c48df091-9514-4ba2-b753-cd29ef494286, heading 110. OCR (PP-OCRv3) read: APOTEKA | HDR",
+  "date": "2021-05-21",
+  "categories": [],
+  "camera_location": [
+    42.443800889,
+    19.262471111
+  ],
+  "found_by": "panoramax-ocr:Podgorica",
+  "bytes": 248976,
+  "width": 1200,
+  "height": 900,
+  "downloaded_url": "https://panoramax.osm-hr.org/permanent/85/aa/44/c6/b87a-4013-8c60-c41a3cc8faca.jpg",
+  "derivative": "crop 2356,557,3556,1457 of the 3840x2160 HD picture"
+}

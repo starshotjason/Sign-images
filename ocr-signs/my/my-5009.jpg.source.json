@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/2091998/156/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMC8zLzIyL3Byb2MvMjA5MTk5OF8zXzA1NTBhXzcuanBn",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "loke-chee-wai",
+  "credit_as_published": "KartaView user loke-chee-wai (user id 30598); © KartaView contributors",
+  "title": "KartaView photo 605082282, sequence 2091998 #156 (Johor Bahru, 2020-03-22)",
+  "description": "Street-level picture on KartaView, taken 2020-03-22 near Johor Bahru by loke-chee-wai, sequence 2091998, heading 0. OCR (PP-OCRv3) read: Wis Te Persekutuan | Masjld Abu Bakar | Amari Johor Bahru | Zenith Lifestyle Centre | Suasana Suites | Menara Landmark | Double Tree by Hilton | Pusat Bandaraya | Woodiands | Jaiun Tun Rnzak",
+  "date": "2020-03-22",
+  "categories": [],
+  "camera_location": [
+    1.46385,
+    103.75953
+  ],
+  "found_by": "kartaview-ocr:Johor Bahru",
+  "bytes": 216062,
+  "width": 1200,
+  "height": 900,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMC8zLzIyL3Byb2MvMjA5MTk5OF8zXzA1NTBhXzcuanBn",
+  "derivative": "crop 0,0,1200,900 of the 1440x1080 full-size processed (blurred) picture"
+}

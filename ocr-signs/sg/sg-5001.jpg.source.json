@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/1383582/2500/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTEub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAxOS80LzIyL3Byb2MvMTM4MzU4Ml8zYmNkZl8yNTAwLmpwZw",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "grabsg",
+  "credit_as_published": "KartaView user grabsg (user id 15255); © KartaView contributors",
+  "title": "KartaView photo 392670526, sequence 1383582 #2500 (Singapore, 2019-03-19)",
+  "description": "Street-level picture on KartaView, taken 2019-03-19 near Singapore by grabsg, sequence 1383582, heading 208. OCR (PP-OCRv3) read: 港製造 | PEDESTRIANS | Use Drossing | PATCHUN | TAWAN | SIRGAPOPE | MALAYSIA",
+  "date": "2019-03-19",
+  "categories": [],
+  "camera_location": [
+    1.288376,
+    103.849001
+  ],
+  "found_by": "kartaview-ocr:Singapore",
+  "bytes": 644800,
+  "width": 3072,
+  "height": 1728,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTEub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAxOS80LzIyL3Byb2MvMTM4MzU4Ml8zYmNkZl8yNTAwLmpwZw",
+  "derivative": "whole 3072x1728 full-size processed (blurred) picture as served by the KartaView CDN (byte-identical; the service blurs faces and number plates), not cropped"
+}

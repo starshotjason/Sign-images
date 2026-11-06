@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/11613197/259/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyNS8xMC8yMi9wcm9jLzExNjEzMTk3XzQ2MjUzYTI0NWRkNTg1Mjk2OGYwY2QzZDlhZjRjZTgxLmpwZw",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "jorge-riquelme-corvalan",
+  "credit_as_published": "KartaView user jorge-riquelme-corvalan (user id 332724); © KartaView contributors",
+  "title": "KartaView photo 2626487251, sequence 11613197 #259 (Asuncion, 2025-10-22)",
+  "description": "Street-level picture on KartaView, taken 2025-10-22 near Asuncion by jorge-riquelme-corvalan, sequence 11613197, heading 220.45. OCR (PP-OCRv3) read: lecreael | Paraguay | que sonamos | RUMBOS | BOLSI | Estrelle | Alberdi | BOLSI | Basa | Heineken★",
+  "date": "2025-10-22",
+  "categories": [],
+  "camera_location": [
+    -25.282065,
+    -57.636112
+  ],
+  "found_by": "kartaview-ocr:Asuncion",
+  "bytes": 902932,
+  "width": 3840,
+  "height": 2160,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyNS8xMC8yMi9wcm9jLzExNjEzMTk3XzQ2MjUzYTI0NWRkNTg1Mjk2OGYwY2QzZDlhZjRjZTgxLmpwZw",
+  "derivative": "whole 3840x2160 full-size processed (blurred) picture as served by the KartaView CDN (byte-identical; the service blurs faces and number plates), not cropped"
+}

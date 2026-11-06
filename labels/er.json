@@ -1,0 +1,138 @@
+{
+ "c104732808": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Ethi",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ገሽናሽም",
+    "lang": "ti",
+    "latin": "Geshnashim"
+   },
+   {
+    "text": "GESHNASHIM",
+    "lang": "en"
+   },
+   {
+    "text": "From Asmara 29k.m",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Geshnashim",
+   "type": "place"
+  },
+  "difficulty": "easy",
+  "notes": "Blue village name / city-limit board on two posts, frontal and close. Distance line is written '29k.m' (dot between k and m). Commons description spells it 'Geshinashim'."
+ },
+ "c23334088": {
+  "accept": true,
+  "reason": "",
+  "kind": "hard",
+  "scripts": [
+   "Ethi",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ሙዚቃን ቪድዮን",
+    "lang": "ti",
+    "latin": "muziqan vidyon (music and video)"
+   },
+   {
+    "text": "ካንጋሮ",
+    "lang": "ti",
+    "latin": "Kangaro (Kangaroo)"
+   },
+   {
+    "text": "KANGAROO",
+    "lang": "en"
+   },
+   {
+    "text": "MUSIC & VIDEO",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Kangaroo",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Target is the small hanging shop sign at top right (Mendefera main street); it occupies a small part of the frame and bunting partly covers its lower line. Not transcribed: faded top Ethiopic line (first glyph ቤ, likely ቤት 'house/shop'), word spacing in the ሙዚቃን ቪድዮን line is not clearly visible, and the bottom line is partly hidden by a flag ('...OP 611216', presumably SHOP plus phone number). Vertical side panel reads VIDEO. The round traffic pictograms (no bicycles / no carts) are distractors with no text."
+ },
+ "c24199854": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Ethi",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ቤት መግቢ",
+    "lang": "ti",
+    "latin": "bet megbi (restaurant)"
+   },
+   {
+    "text": "ፍቕርን ሰላምን",
+    "lang": "ti",
+    "latin": "Fqrn Selamn (Love and Peace)"
+   },
+   {
+    "text": "RESTAURANT FICKRI & SELAM",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Fickri & Selam",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Red-on-white restaurant box sign in Keren (Giro Fiori), shot from slightly below. Tigrinya ቤት መግቢ = restaurant."
+ },
+ "c99655004": {
+  "accept": false,
+  "reason": "paper notice (COVID rule) with no place name; also photographed in Rotterdam, not Eritrea"
+ },
+ "fe4519033-deee-45c7-96b3-4a0dff5c864d": {
+  "accept": false,
+  "reason": "duplicate of already-accepted c24199854 (same photo of the Restaurant Fickri & Selam sign in Keren, Flickr copy of the Commons file)"
+ },
+ "f0fda930e-59a5-40a6-a8a3-7b2cf26045fc": {
+  "accept": false,
+  "reason": "shop interior with products; no sign"
+ },
+ "f6e83b13c-dc5c-40a9-84e0-69c7341538b9": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Sweet Asmara Caffe",
+    "lang": "it"
+   }
+  ],
+  "expect": {
+   "query": "Sweet Asmara Caffe",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Raised script-style letters on the facade above the awnings, slightly angled; 'Sweet' is small and in a different style. Asmara, Eritrea."
+ },
+ "faef53be8-a21f-4dec-9a6f-299ddeccecc7": {
+  "accept": false,
+  "reason": "target shop sign ('LION SWEATER ...') cropped at the frame edge; Ethiopic/Arabic lines cut off and unreadable"
+ },
+ "fe96a771a-b414-4fa9-afbe-e90c514ca8a8": {
+  "accept": false,
+  "reason": "market interior; no sign"
+ }
+}

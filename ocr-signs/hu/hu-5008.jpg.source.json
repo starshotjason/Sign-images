@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=378b5ded-caca-439b-89ec-3c452e70cf7f",
+  "original_url": "https://panoramax.openstreetmap.fr/images/37/8b/5d/ed/caca-439b-89ec-3c452e70cf7f.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "vasony",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture 378b5ded-caca-439b-89ec-3c452e70cf7f (Budapest, 2020-08-27)",
+  "description": "Street-level picture on Panoramax, taken 2020-08-27 near Budapest by vasony, sequence cba4e9d9-5c9f-4bd6-830b-c5855f54277b, heading 0. OCR (PP-OCRv3) read: Botalu udrar",
+  "date": "2020-08-27",
+  "categories": [],
+  "camera_location": [
+    47.474166667,
+    19.008611111
+  ],
+  "found_by": "panoramax-ocr:Budapest",
+  "bytes": 1249275,
+  "width": 2232,
+  "height": 1674,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/37/8b/5d/ed/caca-439b-89ec-3c452e70cf7f.jpg",
+  "derivative": "crop 0,334,2232,2008 of the 4608x2592 HD picture"
+}

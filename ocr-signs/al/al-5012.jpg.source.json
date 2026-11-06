@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=e2476a30-4bd0-46e2-b454-2d99451f0dd6",
+  "original_url": "https://panoramax.openstreetmap.fr/images/e2/47/6a/30/4bd0-46e2-b454-2d99451f0dd6.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "flowrivers",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture e2476a30-4bd0-46e2-b454-2d99451f0dd6 (Tirana, 2026-04-23)",
+  "description": "Street-level picture on Panoramax, taken 2026-04-23 near Tirana by flowrivers, sequence fe3cc293-777e-41e2-beef-3208962414af, heading 242. OCR (PP-OCRv3) read: DMD FASHIO | C200",
+  "date": "2026-04-23",
+  "categories": [],
+  "camera_location": [
+    41.3359572,
+    19.8066418
+  ],
+  "found_by": "panoramax-ocr:Tirana",
+  "bytes": 3371503,
+  "width": 3264,
+  "height": 1448,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/e2/47/6a/30/4bd0-46e2-b454-2d99451f0dd6.jpg",
+  "derivative": "whole 3264x1448 HD picture as served by the Panoramax instance (byte-identical; the service blurs faces and number plates), not cropped"
+}

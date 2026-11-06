@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/2890550/231/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMC84LzkvcHJvYy8yODkwNTUwX2IwZTZmXzVmMzA1NGMzMmIwMWEuanBn",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "charlie-plett",
+  "credit_as_published": "KartaView user charlie-plett (user id 24854); © KartaView contributors",
+  "title": "KartaView photo 1042170674, sequence 2890550 #231 (Belize City, 2020-03-11)",
+  "description": "Street-level picture on KartaView, taken 2020-03-11 near Belize City by charlie-plett, sequence 2890550, heading 331.94. OCR (PP-OCRv3) read: KEYSTONE",
+  "date": "2020-03-11",
+  "categories": [],
+  "camera_location": [
+    17.503232,
+    -88.187784
+  ],
+  "found_by": "kartaview-ocr:Belize City",
+  "bytes": 499631,
+  "width": 1781,
+  "height": 1335,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMC84LzkvcHJvYy8yODkwNTUwX2IwZTZmXzVmMzA1NGMzMmIwMWEuanBn",
+  "derivative": "crop 0,0,1781,1335 of the 4000x2250 full-size processed (blurred) picture"
+}

@@ -1,0 +1,228 @@
+{
+  "k1092447210": {
+    "accept": false,
+    "reason": "car advert billboard (Hyundai Azera)"
+  },
+  "k1094015302": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Arab"
+    ],
+    "lines": [
+      {
+        "text": "عيادة",
+        "lang": "ar",
+        "latin": "'Iyadat (clinic)"
+      },
+      {
+        "text": "النعمان",
+        "lang": "ar",
+        "latin": "al-Nu'man"
+      },
+      {
+        "text": "للعيون",
+        "lang": "ar",
+        "latin": "lil-'Uyun (for eyes)"
+      }
+    ],
+    "expect": {
+      "query": "عيادة النعمان",
+      "type": "poi"
+    },
+    "difficulty": "hard",
+    "notes": "Vertical eye-clinic sign on a building at right of a Tripoli street, small in a dashcam frame (about 80x150 px), with an eye logo above the text. Parked cars' plates are blurred."
+  },
+  "k1104001110": {
+    "accept": false,
+    "reason": "lamp-post advert (Lana french fries); no place sign"
+  },
+  "k1119279614": {
+    "accept": false,
+    "reason": "shampoo advert billboard (Bioblas)"
+  },
+  "k1121697846": {
+    "accept": false,
+    "reason": "shampoo advert billboard (Bioblas), cropped at frame edge"
+  },
+  "k1121988070": {
+    "accept": false,
+    "reason": "shampoo advert billboard (Bioblas)"
+  },
+  "k1143993606": {
+    "accept": false,
+    "reason": "only sign (kebab shop at left) is small and its name is not reliably legible"
+  },
+  "k1204735457": {
+    "accept": false,
+    "reason": "vehicle branding (Mitsubishi tailgate)"
+  },
+  "k1223145037": {
+    "accept": false,
+    "reason": "vehicle branding (Kia Motors truck)"
+  },
+  "k1266076401": {
+    "accept": false,
+    "reason": "detergent advert billboard (Bravo)"
+  },
+  "c128010101": {
+    "accept": false,
+    "reason": "site directory/rules board (plan map and numbered monument list, prohibition icons); no single name panel"
+  },
+  "c201486705": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "ALBERGO MODERNO",
+        "lang": "it"
+      }
+    ],
+    "expect": {
+      "query": "Albergo Moderno",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Historic ceramic-tile name panel with a decorative border above the facade of the old hotel in El Merj (Al Marj), seen from below over a block wall. Graffiti on the wall in the foreground is a distractor."
+  },
+  "c50006716": {
+    "accept": false,
+    "reason": "government project/propaganda board (hand-painted, partly defaced); not a place name sign"
+  },
+  "c58405424": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Arab",
+      "Zyyy"
+    ],
+    "lines": [
+      {
+        "text": "الهيئة العامة للأوقاف",
+        "lang": "ar",
+        "latin": "al-Hay'a al-'Amma lil-Awqaf (General Authority of Endowments)"
+      },
+      {
+        "text": "بلدية الجبل الأخضر",
+        "lang": "ar",
+        "latin": "Baladiyat al-Jabal al-Akhdar (Jabal al-Akhdar municipality)"
+      },
+      {
+        "text": "مشروع تطوير",
+        "lang": "ar",
+        "latin": "Mashru' Tatwir (development project)"
+      },
+      {
+        "text": "ضريح الصحابى الجليل رويفع الأنصارى",
+        "lang": "ar",
+        "latin": "Darih al-Sahabi al-Jalil Ruwayfi' al-Ansari (shrine of the venerable Companion Ruwayfi' al-Ansari)"
+      },
+      {
+        "text": "201786 المصرف التجارى الوطنى البيضاء",
+        "lang": "ar",
+        "latin": "201786 al-Masraf al-Tijari al-Watani, al-Bayda (National Commercial Bank, Bayda)"
+      }
+    ],
+    "expect": {
+      "query": "رويفع الأنصاري",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Hand-painted turquoise project board at the shrine of Ruwayfi' al-Ansari; it gives the town as Bayda (the Commons description says Misurata). The painter writes final yaa without dots (الصحابى، الأنصارى، التجارى، الوطنى), so they are transcribed as alif maqsura. The small 'بلدية الجبل الأخضر' line is thin script. Left out: the painted plan of the shrine with a tiny basmala, the artist's signature, and a small yellow slogan at bottom left that is not reliably legible. Alternative query: 'Ruwayfi al-Ansari'."
+  },
+  "c6224576": {
+    "accept": false,
+    "reason": "ancient carved relief, no text"
+  },
+  "c6966834": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Arab",
+      "Latn",
+      "Zyyy"
+    ],
+    "lines": [
+      {
+        "text": "الراحله",
+        "lang": "ar",
+        "latin": "al-Rahila"
+      },
+      {
+        "text": "ALRAHILA",
+        "lang": "en"
+      },
+      {
+        "text": "بنزين 95",
+        "lang": "ar",
+        "latin": "benzin 95 (petrol 95)"
+      },
+      {
+        "text": "نفط",
+        "lang": "ar",
+        "latin": "naft (paraffin)"
+      },
+      {
+        "text": "كيروسين",
+        "lang": "ar",
+        "latin": "kirosin (kerosene)"
+      },
+      {
+        "text": "زيت محركات",
+        "lang": "ar",
+        "latin": "zayt muharrikat (engine oil)"
+      },
+      {
+        "text": "غسيل وتشحيم",
+        "lang": "ar",
+        "latin": "ghasil wa-tashhim (washing and greasing)"
+      },
+      {
+        "text": "خدمات متكاملة",
+        "lang": "ar",
+        "latin": "khadamat mutakamila (full services)"
+      }
+    ],
+    "expect": {
+      "query": "الراحلة",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Green fuel-station totem in Tripoli: round logo with a camel rider, 'الراحله' (written with final haa, not taa marbuta) over 'ALRAHILA', and a white services panel with red bullet lines. The shop signs behind (e.g. 'قاربونكس') are distractors. Alternative query: 'Alrahila'."
+  },
+  "f1bd685ac-1b05-417c-9382-cd7262b8b473": {
+    "accept": false,
+    "reason": "anti-drug notice poster in airport lounge; no place name"
+  },
+  "f29418137-f1c8-4209-8331-de4e8101937a": {
+    "accept": false,
+    "reason": "car show stand at a trade fair; brand banners only"
+  },
+  "f45205ca0-d880-45d2-9bba-9500bb39c822": {
+    "accept": false,
+    "reason": "tiled doorway and awning, no sign text"
+  },
+  "f462481e1-0a1f-4d82-b5ad-514cabfda01c": {
+    "accept": false,
+    "reason": "old album print with handwritten caption; no sign"
+  },
+  "f5caba5de-0810-4dee-88f8-742ab8384759": {
+    "accept": false,
+    "reason": "shop door with product packaging and a Che Guevara sticker; no legible shop name"
+  },
+  "f6c1a51a3-8bf4-439b-9347-ea1ba521fe15": {
+    "accept": false,
+    "reason": "old album print with handwritten caption; no sign"
+  },
+  "f96d5f982-46c9-4b6f-a0e6-4a9892c08411": {
+    "accept": false,
+    "reason": "interior with paintings; no legible sign"
+  }
+}

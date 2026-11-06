@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/10190361/80/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyNC8xMS8xNi9wcm9jLzEwMTkwMzYxXzJkYTFkOTg5NjM0YjgzZTJlZWVhY2E1YmFhM2Q4YjdkLmpwZw",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "akhilesh-karna",
+  "credit_as_published": "KartaView user akhilesh-karna (user id 18918); © KartaView contributors",
+  "title": "KartaView photo 2501811481, sequence 10190361 #80 (Pokhara, 2024-11-15)",
+  "description": "Street-level picture on KartaView, taken 2024-11-15 near Pokhara by akhilesh-karna, sequence 10190361, heading 33.66. OCR (PP-OCRv3) read: SBR BATHROOMPLANET | ABATHROOMPLANILT | Himstar",
+  "date": "2024-11-15",
+  "categories": [],
+  "camera_location": [
+    28.212977,
+    83.975317
+  ],
+  "found_by": "kartaview-ocr:Pokhara",
+  "bytes": 225159,
+  "width": 1200,
+  "height": 900,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyNC8xMS8xNi9wcm9jLzEwMTkwMzYxXzJkYTFkOTg5NjM0YjgzZTJlZWVhY2E1YmFhM2Q4YjdkLmpwZw",
+  "derivative": "crop 720,150,1920,1050 of the 1920x1080 full-size processed (blurred) picture"
+}

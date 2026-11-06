@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=e797cd49-d6bd-4322-b5bc-f245cecc6794",
+  "original_url": "https://panoramax.openstreetmap.fr/images/e7/97/cd/49/d6bd-4322-b5bc-f245cecc6794.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "JLZIMMERMANN",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture e797cd49-d6bd-4322-b5bc-f245cecc6794 (Brussels, 2016-09-28)",
+  "description": "Street-level picture on Panoramax, taken 2016-09-28 near Brussels by JLZIMMERMANN, sequence 23cdf2e5-6e7d-4c84-8dc0-a10b68fd1f26, heading 270. OCR (PP-OCRv3) read: JOHN | COIFFURE | Tel:02/5028614 | IGHT SHOP | CAFELE TARMAC | OUVERTU | DU LUNDIAUIVE | SH30-19H | SANED | BH30-19H",
+  "date": "2016-09-28",
+  "categories": [],
+  "camera_location": [
+    50.836666667,
+    4.366236111
+  ],
+  "found_by": "panoramax-ocr:Brussels",
+  "bytes": 1180428,
+  "width": 2830,
+  "height": 2122,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/e7/97/cd/49/d6bd-4322-b5bc-f245cecc6794.jpg",
+  "derivative": "crop 0,0,2830,2122 of the 3264x2448 HD picture"
+}

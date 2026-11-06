@@ -1,0 +1,314 @@
+{
+ "c74016624": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "WELCOME TO",
+    "lang": "en"
+   },
+   {
+    "text": "CHOBE NATIONAL PARK",
+    "lang": "en"
+   },
+   {
+    "text": "SEDUDU ENTRANCE GATE",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Sedudu Gate",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Large green park-entrance board in Kasane with the Department of Wildlife & National Parks Botswana logo; below the name it lists opening times and park rules (distractor text)."
+ },
+ "c63368869": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Republic of Botswana",
+    "lang": "en"
+   },
+   {
+    "text": "MINISTRY FOR PRESIDENTIAL",
+    "lang": "en"
+   },
+   {
+    "text": "AFFAIRS, GOVERNANCE &",
+    "lang": "en"
+   },
+   {
+    "text": "PUBLIC ADMINISTRATION",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Ministry for Presidential Affairs, Governance and Public Administration",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Tall ministry signboard in Gaborone with coat of arms. Below: OFFICE OF THE PRESIDENT, PRIVATE BAG 001, GABORONE, phone/fax/email, and 'NO PARKING / VISITORS PARKING ON THE EASTERN SIDE' (distractors)."
+ },
+ "c89154257": {
+  "accept": false,
+  "reason": "backlit car park; the SPAR/Tops pylon sign is small and unreadable"
+ },
+ "c60492993": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Welcome to",
+    "lang": "en"
+   },
+   {
+    "text": "DOMBOSHABA",
+    "lang": "en"
+   },
+   {
+    "text": "National Monument",
+    "lang": "en"
+   },
+   {
+    "text": "Opening hours :",
+    "lang": "en"
+   },
+   {
+    "text": "Monday - Sunday 07:30 - 16:30",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Domboshaba",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Entrance board in an orange frame, seen through a chain-link fence; 'National Monument' is letter-spaced."
+ },
+ "c7739819": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Bank Gaborone",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Bank Gaborone",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Blue fascia sign on the bank building near Main Mall, Gaborone; the name repeats on a pylon (with VISA 24 Hours) and over the door. Small STOP and street-name plates in the middle are distractors."
+ },
+ "c121285913": {
+  "accept": false,
+  "reason": "people/photowalk event photo, no target sign"
+ },
+ "c88147342": {
+  "accept": false,
+  "reason": "fuel truck is the subject; only generic PARKING / Weighbridge Entrance signs"
+ },
+ "c75971912": {
+  "accept": false,
+  "reason": "pictogram fire-hydrant and arrow signs only"
+ },
+ "c127450675": {
+  "accept": false,
+  "reason": "main sign is 'Fire Assembly Point'; shop signs too small"
+ },
+ "c87090558": {
+  "accept": false,
+  "reason": "empty road, no readable sign"
+ },
+ "c63347536": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "SEBELE CENTRE",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Sebele Centre",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Shopping-centre fascia in mid-distance, Gaborone. Distractors: Orange and Shell pylon signs in the foreground, 'Café Pie Time' flags, Pick n Pay sign below, CrossGold shops at right."
+ },
+ "c87980800": {
+  "accept": false,
+  "reason": "sandwich-board advert (internet/printing), no place name"
+ },
+ "c73582992": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "A2",
+    "lang": "und"
+   },
+   {
+    "text": "Kanye 45",
+    "lang": "en"
+   },
+   {
+    "text": "Jwaneng 127",
+    "lang": "en"
+   },
+   {
+    "text": "Ghanzi 650",
+    "lang": "en"
+   },
+   {
+    "text": "Windhoek 1080",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Kanye",
+   "type": "place"
+  },
+  "difficulty": "easy",
+  "notes": "Green route-distance sign on the A2; route number in yellow. Distances in km are on the right of each line."
+ },
+ "c60800526": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "BETESANKWE",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Betesankwe",
+   "type": "place"
+  },
+  "difficulty": "easy",
+  "notes": "Green village-name sign, slightly tilted."
+ },
+ "c141568229": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "(A3) Francistown",
+    "lang": "en"
+   },
+   {
+    "text": "A33 Nata",
+    "lang": "en"
+   },
+   {
+    "text": "Pandamatenga",
+    "lang": "en"
+   },
+   {
+    "text": "(B334) Kachikau",
+    "lang": "en"
+   },
+   {
+    "text": "A33 Namibia Border",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Kachikau",
+   "type": "place"
+  },
+  "difficulty": "easy",
+  "notes": "Green directional sign near Kasane/Kazungula: Francistown/Nata/Pandamatenga to the left, Kachikau/Namibia Border to the right. Distractors: Water Utilities project board at left, cut-off 'Chobe National ... Entrance ... 4km' sign at right edge."
+ },
+ "c87501633": {
+  "accept": false,
+  "reason": "minibus is the subject, no sign"
+ },
+ "c88055391": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "(A11) Ramotswa",
+    "lang": "en"
+   },
+   {
+    "text": "(A1) Lobatse",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Ramotswa",
+   "type": "place"
+  },
+  "difficulty": "easy",
+  "notes": "Green directional sign at the Boatle interchange; route numbers in yellow brackets."
+ },
+ "f5a76e7a7-5f30-49fd-8a4a-14e2d627a908": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Princess Marina Hospital",
+    "lang": "en"
+   },
+   {
+    "text": "MAIN ENTRANCE",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Princess Marina Hospital",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Raised letters on a brick entrance wall in Gaborone; final 'l' of Hospital partly behind leaves. A small paper doll is stuck on the wall."
+ },
+ "fbad357ff-52cb-409d-8f90-7f396fdad64f": {
+  "accept": false,
+  "reason": "elephant-crossing pictogram, no text"
+ }
+}

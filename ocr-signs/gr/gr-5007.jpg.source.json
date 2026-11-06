@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.mapcomplete.org/#focus=pic&pic=bda8a12f-44d3-4513-9727-058efcea97ca",
+  "original_url": "https://panoramax.mapcomplete.org/permanent/bd/a8/a1/2f/44d3-4513-9727-058efcea97ca.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "mapcomplete",
+  "credit_as_published": "Panoramax, instance mapcomplete (https://panoramax.mapcomplete.org)",
+  "title": "Panoramax picture bda8a12f-44d3-4513-9727-058efcea97ca (Athens, 2025-05-17)",
+  "description": "Street-level picture on Panoramax, taken 2025-05-17 near Athens by mapcomplete, sequence 14ea2dff-2d5f-4134-9a9c-0b7ff34d87aa, heading 264. OCR (PP-OCRv3) read: CREMEROYALE | BAKE HOUSE CAFE | [unread] KAPIIOI | PPIAD | ·CREMEROYAIEFAMILIA EST.1999 | KAIPOIONTA | [unread] sremefesole | BAKEHOUSEEST1999 | OLWItHPURE | Frcm Local | MGREDIENG FRESH | Producers",
+  "date": "2025-05-17",
+  "categories": [],
+  "camera_location": [
+    37.978980556,
+    23.72675
+  ],
+  "found_by": "panoramax-ocr:Athens",
+  "bytes": 3032895,
+  "width": 4032,
+  "height": 3024,
+  "downloaded_url": "https://panoramax.mapcomplete.org/permanent/bd/a8/a1/2f/44d3-4513-9727-058efcea97ca.jpg",
+  "derivative": "whole 4032x3024 HD picture as served by the Panoramax instance (byte-identical; the service blurs faces and number plates), not cropped"
+}

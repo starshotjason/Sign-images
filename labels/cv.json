@@ -1,0 +1,426 @@
+{
+ "c23151007": {
+  "accept": false,
+  "reason": "room-function label ('COZINHA / CUISINE / KITCHEN') inside the Tarrafal camp museum; not a name a map would contain"
+ },
+ "c105219734": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Palmeira",
+    "lang": "pt"
+   },
+   {
+    "text": "Pedra do Lume",
+    "lang": "pt"
+   },
+   {
+    "text": "Espargos",
+    "lang": "pt"
+   },
+   {
+    "text": "aeroporto",
+    "lang": "pt"
+   }
+  ],
+  "expect": {
+   "query": "Pedra de Lume",
+   "type": "place"
+  },
+  "difficulty": "medium",
+  "notes": "Stack of four white arrow-shaped direction signs at a junction on Sal; the signs are small in a tall frame with lots of sky. 'do' in 'Pedra do Lume' is in small type; the last sign has an airplane pictogram. The map usually spells the village 'Pedra de Lume'."
+ },
+ "c120181229": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "PACHAMAMA",
+    "lang": "es"
+   },
+   {
+    "text": "ECO-CAFE & PARK",
+    "lang": "en"
+   },
+   {
+    "text": "BEM-VINDO",
+    "lang": "pt"
+   },
+   {
+    "text": "WELCOME",
+    "lang": "en"
+   },
+   {
+    "text": "BIENVENUE",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "Pachamama",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Carved wooden board on a green mesh gate at the eco-park in Sal. The opening-hours plaque and no-dogs pictogram below are left out. Bougainvillea leaves overlap the right edge without hiding text."
+ },
+ "c20041197": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "SIDÁDI VÉLHA",
+    "lang": "kea"
+   },
+   {
+    "text": "KANDIDÁTA A",
+    "lang": "kea"
+   },
+   {
+    "text": "PATRIMÓNIU DI UMANIDÁDI",
+    "lang": "kea"
+   }
+  ],
+  "expect": {
+   "query": "Cidade Velha",
+   "type": "place"
+  },
+  "difficulty": "medium",
+  "notes": "Sun-bleached UNESCO candidacy board in Cape Verdean Creole (ALUPEC spelling, ISO 639-3 'kea'). Faint repeated background text ('CIDADE VELHA', other heritage cities) and a torn lower-left corner; the slogan at the bottom ('...DI NÓS TUDU!') is partly missing and left out."
+ },
+ "c72806609": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "AVENIDA LIBERDADE",
+    "lang": "pt"
+   }
+  ],
+  "expect": {
+   "query": "Avenida Liberdade",
+   "type": "street"
+  },
+  "difficulty": "medium",
+  "notes": "Large white 3D letters on a road median in Assomada, slightly blurred and at an angle; the letters sit close together with no clear gap between words. 'CVTelecom' and 'Medicalia' signs on the building behind are distractors."
+ },
+ "c128926030": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "I",
+    "lang": "en"
+   },
+   {
+    "text": "SOMADA",
+    "lang": "kea"
+   }
+  ],
+  "expect": {
+   "query": "Assomada",
+   "type": "place"
+  },
+  "difficulty": "medium",
+  "notes": "'I [red heart] SOMADA' 3D letters on a roadside rock cut at the entry to Assomada (Creole 'Somada'); the heart is a symbol, not a letter. Hazy light; a tiny plate to the right of the letters is unreadable."
+ },
+ "c88123684": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Praia do",
+    "lang": "pt"
+   },
+   {
+    "text": "Armanzém",
+    "lang": "pt"
+   },
+   {
+    "text": "Porto",
+    "lang": "pt"
+   },
+   {
+    "text": "Polícia",
+    "lang": "pt"
+   },
+   {
+    "text": "Praia de Curreletes",
+    "lang": "pt"
+   },
+   {
+    "text": "Porto Novo",
+    "lang": "pt"
+   }
+  ],
+  "expect": {
+   "query": "Porto Novo",
+   "type": "place"
+  },
+  "difficulty": "medium",
+  "notes": "Tourist direction panel with brown/white/blue rows, pictograms and up arrows, Porto Novo (Santo Antão). Sun glare washes the top row. The small 'CABO VERDE Santo Antão' logo text at the bottom is left out; 'Porto Novo' is in small type at the bottom right."
+ },
+ "c15908490": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Sal Rei",
+    "lang": "pt"
+   },
+   {
+    "text": "aeroporto",
+    "lang": "pt"
+   },
+   {
+    "text": "praia de",
+    "lang": "pt"
+   },
+   {
+    "text": "Chaves",
+    "lang": "pt"
+   }
+  ],
+  "expect": {
+   "query": "Sal Rei",
+   "type": "place"
+  },
+  "difficulty": "medium",
+  "notes": "Three arrow-shaped direction signs at a cobbled junction in Rabil, Boa Vista, shot through a vehicle window (light streaks and reflections). 'de' in 'praia de Chaves' is small; the brown sign has a beach pictogram."
+ },
+ "c104754659": {
+  "accept": false,
+  "reason": "novelty signpost giving distances to distant countries and islands (Canarias, Dakar, Tailandia, Portugal); not local place signage"
+ },
+ "c18165871": {
+  "accept": false,
+  "reason": "event banner ('TARRAFAL Simpósio Internacional 28 Abril > 1 Maio') over the camp gate; event photo, with two people in the archway"
+ },
+ "c71804792": {
+  "accept": false,
+  "reason": "price painted on a car for sale; no place sign"
+ },
+ "c125073994": {
+  "accept": false,
+  "reason": "hand-painted 'CAMINHO ANTIGO' trail marking on wall stones; generic, not a named place"
+ },
+ "c33546927": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Deserto",
+    "lang": "pt"
+   },
+   {
+    "text": "de Viana",
+    "lang": "pt"
+   }
+  ],
+  "expect": {
+   "query": "Deserto de Viana",
+   "type": "place"
+  },
+  "difficulty": "medium",
+  "notes": "Small rectangular name sign half-buried in a sand dune on Boa Vista, tilted and partly crossed by dry branches; the lower right corner is chipped."
+ },
+ "c14825754": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Ervatão",
+    "lang": "pt"
+   }
+  ],
+  "expect": {
+   "query": "Ervatão",
+   "type": "place"
+  },
+  "difficulty": "easy",
+  "notes": "Rusty-edged beach name sign on two posts, Boa Vista. Scratched graffiti (names, dates) and two stickers around the name are distractors."
+ },
+ "c125073997": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "2,7 km Aranhas",
+    "lang": "pt"
+   },
+   {
+    "text": "6,6 km Cruzinha",
+    "lang": "pt"
+   },
+   {
+    "text": "PR 1 SARG",
+    "lang": "und"
+   },
+   {
+    "text": "Corvo 1,5 km",
+    "lang": "pt"
+   },
+   {
+    "text": "Fontainhas 3,65 km",
+    "lang": "pt"
+   },
+   {
+    "text": "Ponta do Sol 7 km",
+    "lang": "pt"
+   }
+  ],
+  "expect": {
+   "query": "Cruzinha",
+   "type": "place"
+  },
+  "difficulty": "medium",
+  "notes": "Wooden hiking fingerpost (trail PR 1, red 'PR 1 SARG' tags on both arms) on the Santo Antão coast path; text is small relative to the frame. Hiker pictograms and yellow/red trail marks are not transcribed."
+ },
+ "c125073996": {
+  "accept": false,
+  "reason": "only a yellow/red trail paint mark on a rock; no text"
+ },
+ "c18165851": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "CAMPO DE CONCENTRAÇÃO DE TARRAFAL",
+    "lang": "pt"
+   },
+   {
+    "text": "(COMPLEXO PRISIONAL)",
+    "lang": "pt"
+   }
+  ],
+  "expect": {
+   "query": "Campo de Concentração do Tarrafal",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Large Ministério da Cultura site board with a plan of the camp and a numbered legend (LEGENDA 1-25: ADMINISTRAÇÃO/DIRECTOR, TORRES DE VIGIA, ...); only the title lines are the target. The sign says 'DE TARRAFAL'; the site is usually mapped as 'Campo de Concentração do Tarrafal'."
+ },
+ "c14781560": {
+  "accept": true,
+  "reason": "",
+  "kind": "hard",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "raia da",
+    "lang": "pt"
+   },
+   {
+    "text": "Varandinha",
+    "lang": "pt"
+   },
+   {
+    "text": "( Bracona )",
+    "lang": "pt"
+   }
+  ],
+  "expect": {
+   "query": "Praia da Varandinha",
+   "type": "place"
+  },
+  "difficulty": "hard",
+  "notes": "Heavily rusted beach sign on Boa Vista. The initial 'P' of 'Praia' is rusted away and left out, rust blotches cross 'Varandinha' and 'Bracona', and the top-left corner is eaten through."
+ },
+ "c125073995": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "PR 2",
+    "lang": "und"
+   },
+   {
+    "text": "SARG",
+    "lang": "und"
+   },
+   {
+    "text": "Chã de Igreja 7,5 km",
+    "lang": "pt"
+   }
+  ],
+  "expect": {
+   "query": "Chã de Igreja",
+   "type": "place"
+  },
+  "difficulty": "medium",
+  "notes": "Single wooden hiking fingerpost (trail PR 2) on Santo Antão, shot from below; red 'PR 2 SARG' tag at the left end, small hiker pictogram and trail colours at the arrow tip."
+ },
+ "c15908520": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Volte Sempre a",
+    "lang": "pt"
+   },
+   {
+    "text": "Rabil",
+    "lang": "pt"
+   }
+  ],
+  "expect": {
+   "query": "Rabil",
+   "type": "place"
+  },
+  "difficulty": "easy",
+  "notes": "Town exit sign with a red diagonal bar crossing the text ('Come back soon to Rabil'), Boa Vista. Traffic signs and a cluster of direction signs in the background are distractors."
+ }
+}

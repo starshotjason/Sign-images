@@ -1,0 +1,31 @@
+{
+  "source": "gongu",
+  "source_url": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=11136830&menuNo=200018",
+  "original_url": "https://gongu.copyright.or.kr/gongu/wrt/cmmn/wrtFileDownload.do?wrtSn=11136830&fileSn=1",
+  "license_as_published": "CC BY",
+  "license_url_as_published": "https://creativecommons.org/licenses/by/4.0/",
+  "author_as_published": "전수현",
+  "credit_as_published": "전수현, 공유마당 (Gongu Madang, Korea Copyright Commission), CC BY 4.0",
+  "title": "행궁동_수원_00009",
+  "description": "",
+  "date": "2014-08-07",
+  "categories": [
+    "수원",
+    "화성",
+    "간판",
+    "조형물",
+    "행궁",
+    "행궁동",
+    "한글간판",
+    "서진부식",
+    "실크인쇄",
+    "부식명판"
+  ],
+  "camera_location": null,
+  "found_by": "gongu:listWrtImage searchWrd=명판 wrtTy=10006 (photo) licenseCd=21; visually reviewed",
+  "bytes": 19630696,
+  "width": 7360,
+  "height": 4912,
+  "downloaded_url": "https://gongu.copyright.or.kr/gongu/wrt/cmmn/wrtFileDownload.do?wrtSn=11136830&fileSn=1",
+  "derivative": ""
+}

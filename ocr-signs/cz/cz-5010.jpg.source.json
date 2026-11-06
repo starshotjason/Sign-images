@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.mapcomplete.org/#focus=pic&pic=cd9652ed-3548-4ab6-ab48-5528eeedd34f",
+  "original_url": "https://panoramax.mapcomplete.org/permanent/cd/96/52/ed/3548-4ab6-ab48-5528eeedd34f.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "mapcomplete",
+  "credit_as_published": "Panoramax, instance mapcomplete (https://panoramax.mapcomplete.org)",
+  "title": "Panoramax picture cd9652ed-3548-4ab6-ab48-5528eeedd34f (Prague, 2022-09-18)",
+  "description": "Street-level picture on Panoramax, taken 2022-09-18 near Prague by mapcomplete, sequence e9bcb8c0-8ade-4ac9-bc9f-cfa464221fd6, heading 340. OCR (PP-OCRv3) read: The Original | Pizzeria Napoletana | The Original | Pizzeria Napoletana | PIZZA | CLASSICA | SALTINBOCCA | NAPOLETANO | CAFFE | TRONCHETTO | METRO | 34x56",
+  "date": "2022-09-18",
+  "categories": [],
+  "camera_location": [
+    50.087023,
+    14.4350614
+  ],
+  "found_by": "panoramax-ocr:Prague",
+  "bytes": 898948,
+  "width": 2100,
+  "height": 2800,
+  "downloaded_url": "https://panoramax.mapcomplete.org/permanent/cd/96/52/ed/3548-4ab6-ab48-5528eeedd34f.jpg",
+  "derivative": "whole 2100x2800 HD picture as served by the Panoramax instance (byte-identical; the service blurs faces and number plates), not cropped"
+}

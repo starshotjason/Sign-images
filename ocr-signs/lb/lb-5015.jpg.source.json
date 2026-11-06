@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/3554753/33/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMS81LzUvcHJvYy8zNTU0NzUzXzVlOGRmXzYwOTI5ZWNlZGVlYmEuanBn",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "leoaye",
+  "credit_as_published": "KartaView user leoaye (user id 13127); © KartaView contributors",
+  "title": "KartaView photo 1288675421, sequence 3554753 #33 (Tripoli LB, 2018-07-19)",
+  "description": "Street-level picture on KartaView, taken 2018-07-19 near Tripoli LB by leoaye, sequence 3554753, heading 156.05. OCR (PP-OCRv3) read: [unread] Kejo Li590",
+  "date": "2018-07-19",
+  "categories": [],
+  "camera_location": [
+    34.434266,
+    35.846347
+  ],
+  "found_by": "kartaview-ocr:Tripoli LB",
+  "bytes": 418281,
+  "width": 1326,
+  "height": 994,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMS81LzUvcHJvYy8zNTU0NzUzXzVlOGRmXzYwOTI5ZWNlZGVlYmEuanBn",
+  "derivative": "crop 1318,647,2644,1641 of the 3264x2448 full-size processed (blurred) picture"
+}

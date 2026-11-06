@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/5341225/417/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMi82LzE0L3Byb2MvNTM0MTIyNV85YjFlMTdmN2I5OGYyMWVkNTYwYjVjZDg1YTBhMjQ3Yi5qcGc",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "seven",
+  "credit_as_published": "KartaView user seven (user id 10951); © KartaView contributors",
+  "title": "KartaView photo 1515745529, sequence 5341225 #417 (Dubai, 2022-06-13)",
+  "description": "Street-level picture on KartaView, taken 2022-06-13 near Dubai by seven, sequence 5341225, heading 266.42. OCR (PP-OCRv3) read: STRADINGL.L.C | isport | SENFE | WHITE MOUNITIN T",
+  "date": "2022-06-13",
+  "categories": [],
+  "camera_location": [
+    25.268147,
+    55.2999
+  ],
+  "found_by": "kartaview-ocr:Dubai",
+  "bytes": 840111,
+  "width": 2601,
+  "height": 1836,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMi82LzE0L3Byb2MvNTM0MTIyNV85YjFlMTdmN2I5OGYyMWVkNTYwYjVjZDg1YTBhMjQ3Yi5qcGc",
+  "derivative": "crop 0,0,2601,1836 of the 3264x1836 full-size processed (blurred) picture"
+}

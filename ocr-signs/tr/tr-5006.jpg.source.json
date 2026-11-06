@@ -1,0 +1,42 @@
+{
+  "source": "flickr",
+  "source_url": "https://www.flickr.com/photos/18259771@N00/3654589987",
+  "original_url": "https://live.staticflickr.com/3609/3654589987_c690dc3b5e_o.jpg",
+  "license_as_published": "CC BY 2.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by/2.0/",
+  "author_as_published": "Paul Keller",
+  "credit_as_published": "\"ELECTRO SOUND\" by Paul Keller is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/.",
+  "title": "ELECTRO SOUND",
+  "description": "",
+  "date": "",
+  "categories": [
+    "car",
+    "electro",
+    "grafitti",
+    "istanbul",
+    "lamp",
+    "sign",
+    "sound",
+    "turkey"
+  ],
+  "camera_location": [
+    41.025991,
+    28.974595
+  ],
+  "found_by": "openverse:Turkey shop sign",
+  "bytes": 100377,
+  "width": 1023,
+  "height": 685,
+  "downloaded_url": "https://api.openverse.org/v1/images/774c21e9-5a17-42b7-b743-7a4a4bc539a3/thumb/?full_size=true&compressed=false",
+  "derivative": "Flickr's published 1024 px 'large' rendition, served by the Openverse image API (Flickr originals were throttled for this client)",
+  "flickr": {
+    "flickr_url": "https://www.flickr.com/photos/18259771@N00/3654589987",
+    "flickr_license": "CC BY 2.0",
+    "lat": 41.025991,
+    "lon": 28.974595,
+    "original_url": "https://live.staticflickr.com/3609/3654589987_c690dc3b5e_o.jpg",
+    "flickr_license_code": 4,
+    "retrieved": "2026-11-06T05:20:09.174419+00:00"
+  },
+  "openverse_id": "774c21e9-5a17-42b7-b743-7a4a4bc539a3"
+}

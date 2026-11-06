@@ -1,0 +1,366 @@
+{
+ "k1039634874": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "TUNNEL DESCENTE",
+    "lang": "fr"
+   },
+   {
+    "text": "FONTVIEILLE",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "Fontvieille",
+   "type": "place"
+  },
+  "difficulty": "medium",
+  "notes": "Orange dot-matrix variable message sign on a pole over a canopy entrance. The large white 'MONACO' letters beside it are a distractor whose first word is hidden behind the pole; the small parking-count panels at left are distractors."
+ },
+ "k1039720210": {
+  "accept": false,
+  "reason": "construction-site hoarding advertising panel (developer ad); small address text is blurred"
+ },
+ "k1363174397": {
+  "accept": false,
+  "reason": "near-duplicate of k348964585 (same corner and signpost: A8 / Menton / Shopping Center des Moulins / Boulevard des Moulins); bank fascia lettering is cut at the right end"
+ },
+ "k341370855": {
+  "accept": false,
+  "reason": "contractor's name board on a construction site, not a mappable place; plate below is blurred"
+ },
+ "k341370907": {
+  "accept": false,
+  "reason": "motion-blurred; vertical 'ccrg' letters and the agency sign are not reliably legible"
+ },
+ "k341370963": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Hôtel de Ville",
+    "lang": "fr"
+   },
+   {
+    "text": "Office de Tourisme",
+    "lang": "fr"
+   },
+   {
+    "text": "Marché Gustave Eiffel",
+    "lang": "fr"
+   },
+   {
+    "text": "Commissariat de Police",
+    "lang": "fr"
+   },
+   {
+    "text": "Libération",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "Marché Gustave Eiffel",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Stack of white fingerpost direction signs with a yellow 'D53' cartouche on top, mid-distance on a street corner (Beausoleil/Monaco border area). Lines 5 and 6 have a P (parking) pictogram before the name. The bottom finger reads 'P Bell? Epoque' with one letter hidden by an object; left out of lines. Distractors: PHARMACIE ... Monégasque shop front at left, LCL bank signs, 'St Charles' parking sign and a blue hotel direction sign at right."
+ },
+ "k348964585": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "BOULEVARD",
+    "lang": "fr"
+   },
+   {
+    "text": "DES",
+    "lang": "fr"
+   },
+   {
+    "text": "MOULINS",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "Boulevard des Moulins",
+   "type": "street"
+  },
+  "difficulty": "medium",
+  "notes": "Brown street-name plate on the signpost below three direction fingers ('A8 (GÊNES)' blue motorway, 'MENTON' green, 'Shopping Center des Moulins' white), which are strong distractors; a small engraved plate on the wall repeats BOULEVARD DES MOULINS. UBP bank sign in the window. A face-blurred passer-by fills the left foreground but is not the subject."
+ },
+ "p8d6b80f3a2": {
+  "accept": true,
+  "reason": "",
+  "kind": "building tag",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Espace Lamartine",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "Espace Lamartine",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Fascia lettering above a glass entrance, seen at an angle through a windscreen. 'IGN Majec Aix-en-Provence' is a corner photo credit, not sign text; the bus rear advert (MONACO/Longines) is a distractor."
+ },
+ "pf0e4e95032": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "A8",
+    "lang": "und"
+   },
+   {
+    "text": "JARDIN EXOTIQUE",
+    "lang": "fr"
+   },
+   {
+    "text": "Gare Ferroviaire",
+    "lang": "fr"
+   },
+   {
+    "text": "BEAUSOLEIL",
+    "lang": "fr"
+   },
+   {
+    "text": "Direction",
+    "lang": "fr"
+   },
+   {
+    "text": "du Tourisme",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "Jardin Exotique",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Fingerpost direction signs on a tree-side pole: blue A8 motorway finger with motorway pictogram, then white fingers. 'Direction du Tourisme' has an i pictogram. Same drive as p8d6b80f3a2 but a different sign. Corner credit 'IGN Majec Aix-en-Provence' is not sign text; 'SERENITE LUXURY MONACO' fascia at right is a distractor."
+ },
+ "pfb1d228665": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "MINI",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "MINI",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Car-brand dealership/showroom fascia lettering on a building at a corner (a business sign, not lettering on a vehicle); a second smaller MINI sign repeats it. Small 'ROQUEVILLE' building sign at right is a distractor. Corner credit 'IGN Majec Aix-en-Provence' is not sign text."
+ },
+ "c100484874": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "RUE",
+    "lang": "fr"
+   },
+   {
+    "text": "NOTRE DAME DE LORETE",
+    "lang": "fr"
+   },
+   {
+    "text": "CARRUGIU",
+    "lang": "lij"
+   },
+   {
+    "text": "MADONA DE LURETA",
+    "lang": "lij"
+   }
+  ],
+  "expect": {
+   "query": "Rue Notre-Dame de Lorète",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Bilingual French / Monégasque marble street plate with red lettering, Monaco-Ville; a short rule separates the two languages. No accent on LORETE as carved."
+ },
+ "c100484875": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "RUELLE",
+    "lang": "fr"
+   },
+   {
+    "text": "SAINTE DEVOTE",
+    "lang": "fr"
+   },
+   {
+    "text": "CARRUGËTU",
+    "lang": "lij"
+   },
+   {
+    "text": "SANTA DEVOTA",
+    "lang": "lij"
+   }
+  ],
+  "expect": {
+   "query": "Ruelle Sainte-Dévote",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Bilingual French / Monégasque marble street plate, Monaco-Ville, slight upward angle; 'CARRUGËTU' has E with diaeresis (confirmed on zoom). No-entry sign with '10 M' plate at the lower left is a distractor."
+ },
+ "c200291563": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "AVENUE",
+    "lang": "fr"
+   },
+   {
+    "text": "SAINT MARTIN",
+    "lang": "fr"
+   },
+   {
+    "text": "PRUMENADA",
+    "lang": "lij"
+   },
+   {
+    "text": "SAN MARTIN",
+    "lang": "lij"
+   }
+  ],
+  "expect": {
+   "query": "Avenue Saint-Martin",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Bilingual French / Monégasque marble street plate, Monaco-Ville; frame-filling crop."
+ },
+ "c2260022": {
+  "accept": false,
+  "reason": "near-duplicate: uncropped original of accepted c200291563 (same Avenue Saint Martin plate)"
+ },
+ "c54858847": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "MONACO - POTERIES",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "Monaco Poteries",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Hand-lettered turquoise ceramic fascia over a souvenir/pottery shop in Monaco-Ville, partly overlapped by US/Italian/French flags. Yellow strips below 'ENGLISH SPOKEN - SE HABLA ESPAÑOL' and 'SE HABLA ESPAÑOL - SI PARLA ITALIANO' are distractors."
+ },
+ "c112448672": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "PASSAGE",
+    "lang": "fr"
+   },
+   {
+    "text": "DE LA MISERICORDE",
+    "lang": "fr"
+   },
+   {
+    "text": "CARRUGËTU",
+    "lang": "lij"
+   },
+   {
+    "text": "D'A MISERICORDIA",
+    "lang": "lij"
+   }
+  ],
+  "expect": {
+   "query": "Passage de la Miséricorde",
+   "type": "street"
+  },
+  "difficulty": "medium",
+  "notes": "Bilingual French / Monégasque marble plate with red letters under an archway, Monaco-Ville, shot from below at an angle. No accent carved on MISERICORDE; a small stray mark sits after 'DE'. 'CARRUGËTU' has E with diaeresis."
+ },
+ "c112421678": {
+  "accept": true,
+  "reason": "",
+  "kind": "hard",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ALLÉE SAINT JEAN-",
+    "lang": "fr"
+   },
+   {
+    "text": "CARRÙGIU SAN GIUÀN-PÀULU II",
+    "lang": "lij"
+   }
+  ],
+  "expect": {
+   "query": "Allée Saint-Jean-Paul-II",
+   "type": "street"
+  },
+  "difficulty": "hard",
+  "notes": "Small bilingual plate on a post under a tree beside the cathedral, Monaco-Ville; dappled shadow. The end of the French line is hidden by a branch: only 'ALLÉE SAINT JEAN-' is readable (full name Allée Saint-Jean-Paul-II per the file title). Monégasque line carries grave accents (Ù, À, À) as seen on zoom; a tiny trailing suffix after 'II' is illegible and omitted."
+ },
+ "c80926816": {
+  "accept": false,
+  "reason": "wrong country: avenue Albert-Ier-de-Monaco plate in Paris, France"
+ }
+}

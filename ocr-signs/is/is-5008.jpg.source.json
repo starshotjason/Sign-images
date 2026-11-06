@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.ign.fr/#focus=pic&pic=4129b779-6fde-4245-9e63-2a83ef13aa01",
+  "original_url": "https://panoramax.ign.fr/api/pictures/4129b779-6fde-4245-9e63-2a83ef13aa01/hd.jpg",
+  "license_as_published": "etalab-2.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "jg13",
+  "credit_as_published": "Panoramax, instance ign (https://panoramax.ign.fr)",
+  "title": "Panoramax picture 4129b779-6fde-4245-9e63-2a83ef13aa01 (Reykjavik, 2022-09-09)",
+  "description": "Street-level picture on Panoramax, taken 2022-09-09 near Reykjavik by jg13, sequence 1c93b747-2426-4b69-b1cd-f9bbbbd569e1, heading 0. OCR (PP-OCRv3) read: SKOLAVOFDUSTIGUR 7",
+  "date": "2022-09-09",
+  "categories": [],
+  "camera_location": [
+    64.1455968,
+    -21.9322324
+  ],
+  "found_by": "panoramax-ocr:Reykjavik",
+  "bytes": 1117773,
+  "width": 2496,
+  "height": 1872,
+  "downloaded_url": "https://panoramax.ign.fr/api/pictures/4129b779-6fde-4245-9e63-2a83ef13aa01/hd.jpg",
+  "derivative": "crop 503,717,2999,2589 of the 3000x4000 HD picture"
+}

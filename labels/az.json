@@ -1,0 +1,410 @@
+{
+ "pdf36df3410": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "SHAH",
+    "lang": "en"
+   },
+   {
+    "text": "PALACE",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Shah Palace",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Vertical blade sign of Shah Palace Hotel, Icherisheher (Old City), Baku; letters stacked vertically. The awning reads 'HOTEL SHAHPA...' (wraps out of view) and a small plaque 'Shah Palace' by the door; a restaurant plaque next to it is a distractor."
+ },
+ "p53e747337a": {
+  "accept": false,
+  "reason": "near-duplicate of pdf36df3410 (same Shah Palace blade sign); here 'SHAH' is cut off at the top"
+ },
+ "p2f27678b63": {
+  "accept": false,
+  "reason": "advertising poster (wine-tasting event ad); the bar's name appears only as a stylised logo"
+ },
+ "k1109575046": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ALİ USTA",
+    "lang": "az"
+   },
+   {
+    "text": "RESTAURANT",
+    "lang": "en"
+   },
+   {
+    "text": "STEAK HOUSE",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Ali Usta",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Baku: large orange 'ALİ USTA' + white 'RESTAURANT' on the first-floor band, repeated on the lower fascia as 'STEAK HOUSE  ALİ USTA  RESTAURANT' (dotted capital İ clearly visible on the lower white lettering). Vertical 'RESTORAN' on the column. Distractors: 'SPORT CITY', 'SEVA', 'HİCAB', 'SUSHI SAN', 'LOMBARD', 'MINISO', 'I ♥ Dönər', 'FRAGRANTICA BAKU', 'Lilly Lingerie', 'SIMPLE'."
+ },
+ "k1109568190": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Şirniyyat evi",
+    "lang": "az"
+   }
+  ],
+  "expect": {
+   "query": "Şirniyyat evi",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Baku confectionery ('sweets house'), white serif letters on a brown fascia with an orange flower logo, at the left of the Ali Usta block (different target from k1109575046). 'LADY 5XL / BÖYÜK ÖLÇÜDƏ …' above it is too soft to transcribe; 'MAGNOLIA'S SECRET', 'vakıf' bank logo, vertical 'RESTORAN' and 'ALİ USTA' signs are distractors."
+ },
+ "pc89f64dab1": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ART",
+    "lang": "en"
+   },
+   {
+    "text": "&",
+    "lang": "und"
+   },
+   {
+    "text": "HAND MADE",
+    "lang": "en"
+   },
+   {
+    "text": "CENTER",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Art & Hand Made Center",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Baku Old City (İçərişəhər): small white plaque beside an arched doorway with knitted toys and children's costumes; a tiny line under CENTER (likely Azerbaijani) is illegible. OCR candidate read 'Buta' for the small logo, not verifiable."
+ },
+ "k1109598254": {
+  "accept": true,
+  "reason": "",
+  "kind": "hard",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Penti",
+    "lang": "tr"
+   }
+  ],
+  "expect": {
+   "query": "Penti",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Baku: white script on a maroon fascia over a hosiery shop, shot through a dirty, reflective bus window. A cut-off red 'kulinariya' sign at left and a kiosk are distractors."
+ },
+ "k1109569438": {
+  "accept": false,
+  "reason": "near-duplicate of k1109575046 (same Ali Usta building, fisheye view)"
+ },
+ "pc4dc036a24": {
+  "accept": false,
+  "reason": "souvenir bag with 'BAKU AZERBAIJAN' print (product text); no sign"
+ },
+ "k1109599666": {
+  "accept": false,
+  "reason": "vehicle branding (removals truck '166')"
+ },
+ "fb5f15df3-166c-41d5-add9-27779dce5bcf": {
+  "accept": false,
+  "reason": "statues outside a shop; only cut-off price stickers"
+ },
+ "f60eb9f40-a19c-4fcc-9199-0c4f8ef7f206": {
+  "accept": false,
+  "reason": "petroglyph on rock, no sign"
+ },
+ "f130895d8-912e-413a-96c8-9ace1c9705e9": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "İçəri Şəhər",
+    "lang": "az"
+   },
+   {
+    "text": "Old City",
+    "lang": "en"
+   },
+   {
+    "text": "Meridian Hotel",
+    "lang": "en"
+   },
+   {
+    "text": "Atropat Hotel",
+    "lang": "en"
+   },
+   {
+    "text": "Sultan Inn",
+    "lang": "en"
+   },
+   {
+    "text": "Museum Inn",
+    "lang": "en"
+   },
+   {
+    "text": "Old City Inn",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "İçəri Şəhər",
+   "type": "place"
+  },
+  "difficulty": "easy",
+  "notes": "Three stacked direction plates with up arrows in front of the Old City wall, Baku; top plate is brown (tourist) with İçəri Şəhər / Old City, the others list hotels. Azerbaijani İ, Ç, Ş, ə kept."
+ },
+ "f85155d58-024a-42f3-b217-f3481f50c3fb": {
+  "accept": false,
+  "reason": "carved ornament/inscription on the city gate, not a sign"
+ },
+ "c79723777": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Salam",
+    "lang": "az"
+   },
+   {
+    "text": "Baku",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Baku",
+   "type": "place"
+  },
+  "difficulty": "medium",
+  "notes": "Large 3D letter sculpture (white 'Salam' on red 'Baku') on a plaza by the boulevard, seen at an angle; a camera tripod in the foreground and a child walking past partly cover the 'k' of Baku. Letters are stylised (the 'l' of Salam is a flat bar)."
+ },
+ "c69681637": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "QIRMIZI",
+    "lang": "az"
+   },
+   {
+    "text": "QƏSƏBƏ",
+    "lang": "az"
+   }
+  ],
+  "expect": {
+   "query": "Qırmızı Qəsəbə",
+   "type": "place"
+  },
+  "difficulty": "easy",
+  "notes": "Red free-standing letters on a grassy slope at the entrance to Qırmızı Qəsəbə (Red Settlement), Quba. Upper case dotless I and Ə as on the sign."
+ },
+ "c167487398": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ZABRAT",
+    "lang": "az"
+   }
+  ],
+  "expect": {
+   "query": "Zabrat",
+   "type": "place"
+  },
+  "difficulty": "easy",
+  "notes": "White settlement-limit sign photographed through a bus window (slight glare); bus mirror at right edge. Parked car plates behind are incidental and unreadable."
+ },
+ "c101076533": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Dəmirçilər",
+    "lang": "az"
+   }
+  ],
+  "expect": {
+   "query": "Dəmirçilər",
+   "type": "place"
+  },
+  "difficulty": "medium",
+  "notes": "Small blue village-name plate on a post in a field, Qubadlı District; photographed from a car (side mirror in the foreground). Sign is small in the frame."
+ },
+ "c101080294": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "QUBADLI",
+    "lang": "az"
+   }
+  ],
+  "expect": {
+   "query": "Qubadlı",
+   "type": "place"
+  },
+  "difficulty": "easy",
+  "notes": "Large white free-standing letters on blue posts on a flower mound at the town entrance, photographed through a car window (slight reflection at left). The final letter is a capital dotless I as usual in upper case."
+ },
+ "c11389148": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "BƏRBƏR",
+    "lang": "az"
+   }
+  ],
+  "expect": {
+   "query": "Bərbər",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Brass-framed plate on a shop pier in Şahbuz, Nakhchivan, slightly angled; generic shop-type name (barber), no proper name. Ə letters as written."
+ },
+ "c109459990": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "KƏLBƏCƏR",
+    "lang": "az"
+   }
+  ],
+  "expect": {
+   "query": "Kəlbəcər",
+   "type": "place"
+  },
+  "difficulty": "easy",
+  "notes": "White town-limit sign on two posts at dusk, mountains behind."
+ },
+ "c181900489": {
+  "accept": false,
+  "reason": "handwritten cardboard menu/price list and 'SIQARET' arrow; no place name"
+ },
+ "c11389097": {
+  "accept": false,
+  "reason": "generic 'MAĞAZA' (shop) plate, same plate series as accepted c11389148; no name"
+ },
+ "c181947289": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "DƏRZİ",
+    "lang": "az"
+   },
+   {
+    "text": "1523",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "Dərzi",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Yellow tailor sign leaning on boxes inside Baku International Bus Terminal, with an arrow pointing to shop unit 1523 (number appears twice). Dotted capital İ at the end."
+ },
+ "c93279872": {
+  "accept": false,
+  "reason": "COVID mask notice, no place name"
+ },
+ "fd2aacfc8-a52b-4069-9cc9-efe9bfeec5b4": {
+  "accept": false,
+  "reason": "European Games event branding ('Baku 2015') on a float, far away"
+ },
+ "ffc2502a6-8abc-4729-bfdb-2b3198b99a35": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "QOBUSTAN",
+    "lang": "az"
+   }
+  ],
+  "expect": {
+   "query": "Qobustan",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Raised letters carved on a boulder at the Gobustan rock-art reserve. Below is a weathered 1950 protection notice in Azerbaijani Cyrillic (Azərb. SSR Elmlər Akademiyası) that is only partly legible and is not transcribed."
+ }
+}

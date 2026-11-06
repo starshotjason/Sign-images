@@ -1,0 +1,590 @@
+{
+  "f07fd01e2-4c68-400a-8a1e-fc6ec2787a69": {
+    "accept": false,
+    "reason": "handwritten protest placard (slogan 'People should not be afraid of their governments...'), not a sign naming a place"
+  },
+  "f1c15a208-94b0-4d05-bbfc-4b5ae072c5d6": {
+    "accept": false,
+    "reason": "not in Egypt: neon 'Egyptian Ballroom' sign at the Fox Theatre in Atlanta, USA (sign itself says 'Atlanta's Finest'); indoor venue sign"
+  },
+  "f29a87509-b1b9-4089-b799-bf14411668d7": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "Luxor Temple",
+        "lang": "en"
+      },
+      {
+        "text": "علوى",
+        "lang": "ar",
+        "latin": "'ulwi (upper/overhead; fragment of the cropped top panel)"
+      },
+      {
+        "text": "مكتبة مبارك",
+        "lang": "ar",
+        "latin": "Maktabat Mubarak (Mubarak Library)"
+      },
+      {
+        "text": "Mubarak Libarry",
+        "lang": "en"
+      },
+      {
+        "text": "مطار الأقصر الدولى",
+        "lang": "ar",
+        "latin": "Matar al-Uqsur ad-Dawli (Luxor International Airport)"
+      },
+      {
+        "text": "Luxor Intrnational Airport",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Luxor International Airport",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Blue directional road sign in Luxor, slightly angled from below. English is misspelled on the sign ('Libarry', 'Intrnational') and is transcribed as written. Top edge is cropped: only 'Luxor Temple' and the Arabic fragment 'علوى' of the top band are visible (the Arabic name of the temple is not). Arabic uses Egyptian dotless final yaa ('الدولى'); the gap between 'مطار' and 'الأقصر' is very tight. No-horn and traffic-light pictograms below are distractors. Alternative query: 'Mubarak Library'."
+  },
+  "f45bd684a-189e-45fe-a4bd-3e12a0bda354": {
+    "accept": false,
+    "reason": "person is the subject (elderly man posing with V sign); only text is spray-painted slogan graffiti ('عاش الشعب و الجيش'), not a sign naming a place"
+  },
+  "f8907c4e3-2180-47fc-b945-c7f3b4a63730": {
+    "accept": false,
+    "reason": "handwritten protest placard (slogan 'Mubarak you go away, I go home. The End'), not a sign naming a place"
+  },
+  "f9b632358-f4a0-4ecf-a828-a90dee5acb1f": {
+    "accept": false,
+    "reason": "no sign: protesters camped outside the Cabinet office, people are the subject; only text is a newspaper"
+  },
+  "f9d44839b-a5d3-43dc-83b5-99fa66ca7034": {
+    "accept": false,
+    "reason": "stencil graffiti slogan on a wall, not a sign naming a place"
+  },
+  "fa1a999ad-acf8-4681-975f-fba8b19f6ca1": {
+    "accept": false,
+    "reason": "stencil graffiti slogan ('نساء مصر خط أحمر', Egyptian women are a red line), not a sign naming a place"
+  },
+  "faa204ca5-9e1d-48df-9bde-79be1d3fff5b": {
+    "accept": false,
+    "reason": "scan of an old photo-album print (WWII mounted police in Cairo); the 'H.B.M.'s and Imperial Forces Music for All' board is tiny and not the subject"
+  },
+  "fab65a4eb-a4ab-483f-badf-1f8388c2587e": {
+    "accept": false,
+    "reason": "stencil graffiti slogan ('the revolution will not be tweeted'), not a sign naming a place"
+  },
+  "faf93dc5b-8dc6-415b-9944-daabd98653c3": {
+    "accept": false,
+    "reason": "stencil street art (parody Pepsi logo signed 'keizer'), no sign naming a place"
+  },
+  "fde2848bc-5006-41e2-9b48-1b0b8a275993": {
+    "accept": false,
+    "reason": "stencil street art (Pinocchio on a TV), no text naming a place"
+  },
+  "f23cd824a-08de-4cfa-8902-b20b4e39a331": {
+    "accept": false,
+    "reason": "street scene at Midan Tahrir (Mogamma building, traffic, pedestrians); no main sign, only a tiny bus route board"
+  },
+  "f23cded9d-8518-4653-bd9f-9f3dac58d62e": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Arab"
+    ],
+    "lines": [
+      {
+        "text": "فسخانى السلام",
+        "lang": "ar",
+        "latin": "Fasakhani as-Salam (as-Salam salted-fish shop)"
+      }
+    ],
+    "expect": {
+      "query": "فسخانى السلام",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Raised white channel letters on a grey pediment over a fasikh (salted fish) shop window in Aswan, frontal. Final ى of 'فسخانى' is undotted (Egyptian spelling of ي). Distractors: 'قل أعوذ برب الناس' painted inside the shop and a 'ماشاءالله' plaque below the counter."
+  },
+  "f7c4a68d9-eb4b-41eb-8f3d-ef1f958dd3bf": {
+    "accept": false,
+    "reason": "interior of the el-Mursi Abul Abbas mosque (dome and chandelier); no sign text"
+  },
+  "fafcd84c9-85b7-452e-a3f8-bd6528cab8ea": {
+    "accept": false,
+    "reason": "scan of a 1930s real-photo postcard, not a photograph taken on site; 'PENSION ELITE' and shop boards are small and secondary"
+  },
+  "fd325d8a9-280f-4476-87f7-7f0b1121bff2": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Arab"
+    ],
+    "lines": [
+      {
+        "text": "المصطفى والنور",
+        "lang": "ar",
+        "latin": "al-Mustafa wa-n-Nur"
+      },
+      {
+        "text": "للأدوات الصحية",
+        "lang": "ar",
+        "latin": "lil-Adawat as-Sihhiya (for sanitary ware)"
+      }
+    ],
+    "expect": {
+      "query": "المصطفى والنور",
+      "type": "poi"
+    },
+    "difficulty": "hard",
+    "notes": "Printed orange/yellow banner sign at upper left of a busy Islamic Cairo street scene, angled and only ~200 px wide (source is 1024 px). Not transcribed: a yellow strip of Arabic-Indic phone numbers and a partly cut bottom line ending '...الحاج: مصطفى عبد المحسن'; a portrait and a green logo at the left end. Distractors: blue plate 'احمد محمد سلطان ادريس' at upper right, cloth banners and bunting overhead."
+  },
+  "f1ea3d838-31f9-4562-8f58-d3d1ba9e3586": {
+    "accept": false,
+    "reason": "not a photograph of a sign: abstract digital light art, no text"
+  },
+  "f7bc9b94c-f91c-47b6-942f-19d8c9aecb1a": {
+    "accept": false,
+    "reason": "handwritten protest-camp banner ('field hospital') at Tahrir demonstrations; temporary, not a mappable named place"
+  },
+  "f8db6eaa3-d3b4-4432-83be-6b0c36ed9b05": {
+    "accept": false,
+    "reason": "promotional welcome notice (advertising copy) rather than a name board; place name only appears inside running text"
+  },
+  "f8f90e56b-6a14-481f-92ea-c87f43ffa7b1": {
+    "accept": false,
+    "reason": "architectural detail of a building facade; carved inscription not legible, no sign"
+  },
+  "fb9d97db4-2ebc-4e2d-9f7a-22b2649849bc": {
+    "accept": false,
+    "reason": "landscape of pyramids, no sign text"
+  },
+  "fc45312e7-c0b3-4c5a-b611-ac491e2bb4bf": {
+    "accept": false,
+    "reason": "shop interior with product branding only (mares, 'Diver Below'); no shop name sign"
+  },
+  "fe8bbf694-4b0a-433b-bb9c-f51226606299": {
+    "accept": false,
+    "reason": "museum object (painted sarcophagus), no sign"
+  },
+  "c113472828": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "شارع الفراعنة",
+        "lang": "ar",
+        "latin": "Shari' al-Fara'ina (Pharaohs Street)"
+      },
+      {
+        "text": "RUE PHARAONS",
+        "lang": "fr"
+      }
+    ],
+    "expect": {
+      "query": "شارع الفراعنة",
+      "type": "street"
+    },
+    "difficulty": "easy",
+    "notes": "Green enamel street plate, Alexandria; chipped edges but all letters intact."
+  },
+  "c113472826": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "شارع محمود شنن بك",
+        "lang": "ar",
+        "latin": "Shari' Mahmud Shanan Bek (Mahmoud Chanan Bey Street)"
+      },
+      {
+        "text": "RUE MAHMCUD CHANAN BEY",
+        "lang": "fr"
+      }
+    ],
+    "expect": {
+      "query": "محمود شنن",
+      "type": "street"
+    },
+    "difficulty": "hard",
+    "notes": "Dark enamel plate at night, Alexandria; strong glare and a shadow band across the right half. The 'O' in MAHMOUD is damaged and reads as 'C' on the plate (transcribed as shown). Arabic is ligatured calligraphy; the dots of the first word are lost in the glare."
+  },
+  "c113472832": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "شارع الدمامينى",
+        "lang": "ar",
+        "latin": "Shari' ad-Damamini (Damamini Street)"
+      },
+      {
+        "text": "RUE AL DAMÂMINI",
+        "lang": "fr"
+      }
+    ],
+    "expect": {
+      "query": "الدماميني",
+      "type": "street"
+    },
+    "difficulty": "medium",
+    "notes": "Black enamel street plate at night with glare, Alexandria; final letter written as undotted ى. Distractors: pharmacy sign (صيدلية / د/ هند أبو مندور) beside it and a 'DMOdA Sports & More' banner whose address line reads '٣٥ ش الدماميني'."
+  },
+  "c113472827": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "شارع الدكتور حسين حساب",
+        "lang": "ar",
+        "latin": "Shari' ad-Duktur Husayn Hassab (Dr Hussein Hassab Street)"
+      },
+      {
+        "text": "شركة مصر سابقا",
+        "lang": "ar",
+        "latin": "Sharikat Misr sabiqan (formerly Misr Company)"
+      },
+      {
+        "text": "RUE Dr HUSSEIN HASSAB",
+        "lang": "fr"
+      }
+    ],
+    "expect": {
+      "query": "حسين حساب",
+      "type": "street"
+    },
+    "difficulty": "medium",
+    "notes": "Green enamel plate at night with leaf shadows, Alexandria. The enamel of the leading 'R' of RUE is partly flaked off; the second Arabic line is small."
+  },
+  "c22645654": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "القصير ١٣٨ كم",
+        "lang": "ar",
+        "latin": "al-Qusayr 138 km"
+      },
+      {
+        "text": "El Quseir 138 Km",
+        "lang": "en"
+      },
+      {
+        "text": "الشلاتين ٢٥٠ كم",
+        "lang": "ar",
+        "latin": "ash-Shalatin 250 km"
+      },
+      {
+        "text": "El Shalatin 250 Km",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "El Quseir",
+      "type": "place"
+    },
+    "difficulty": "medium",
+    "notes": "Faded overhead direction sign in Marsa Alam; Arabic lines use Arabic-Indic digits, English lines Western digits. Distractor: small blue street sign at bottom left (not legible)."
+  },
+  "c18104755": {
+    "accept": true,
+    "reason": "",
+    "kind": "address plate",
+    "scripts": [
+      "Arab"
+    ],
+    "lines": [
+      {
+        "text": "٦",
+        "lang": "und",
+        "latin": "6"
+      },
+      {
+        "text": "شارع الخليج الفارسى",
+        "lang": "ar",
+        "latin": "Shari' al-Khalij al-Farisi (Persian Gulf Street)"
+      }
+    ],
+    "expect": {
+      "query": "شارع الخليج الفارسي",
+      "type": "addr"
+    },
+    "difficulty": "medium",
+    "notes": "Target is the lower-left blue house-number plate (No. ٦, Arabic-Indic digit; final letter is undotted ى). Distractors: a separate '6' plate with Western digit at top left and a larger plate 'شارع الخليج العر...' (Arabian Gulf Street) partly hidden behind a drainpipe. Cairo; 1280 px image."
+  },
+  "c37022044": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "ط. الزراعى",
+        "lang": "ar",
+        "latin": "T. az-Zira'i (Agricultural Road)"
+      },
+      {
+        "text": "Agr. Road",
+        "lang": "en"
+      },
+      {
+        "text": "دمنهور / الأسكندرية",
+        "lang": "ar",
+        "latin": "Damanhur / al-Iskandariya"
+      },
+      {
+        "text": "Damanhour / Alexandria",
+        "lang": "en"
+      },
+      {
+        "text": "دسوق",
+        "lang": "ar",
+        "latin": "Disuq"
+      },
+      {
+        "text": "Disuq",
+        "lang": "en"
+      },
+      {
+        "text": "بسيون / طنطا",
+        "lang": "ar",
+        "latin": "Basyun / Tanta"
+      },
+      {
+        "text": "Basyun/Tanta",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Disuq",
+      "type": "place"
+    },
+    "difficulty": "easy",
+    "notes": "Blue overhead direction sign at Desouk; left panel (Agricultural Road to Damanhour/Alexandria) then right panel (Disuq; Basyun/Tanta)."
+  },
+  "c10458887": {
+    "accept": false,
+    "reason": "decorative boards with Egyptian proverbs at a Sharm el-Sheikh restaurant; no place or business name"
+  },
+  "c22645975": {
+    "accept": false,
+    "reason": "speed-limit sign (أقصى سرعة كم/س / Max.Speed.km\\hr with vehicle pictograms), no place name"
+  },
+  "f049c0ae0-7317-47ce-acbd-0d834bcdde50": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "متحف التمساح",
+        "lang": "ar",
+        "latin": "Mathaf at-Timsah (Crocodile Museum)"
+      },
+      {
+        "text": "THE CROCODILE MUSEUM",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Crocodile Museum",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Carved stone entrance board at night (Kom Ombo); 1024 px image, slight angle."
+  },
+  "f437a56d3-473f-4da0-b4ad-95be49d7bdee": {
+    "accept": false,
+    "reason": "wrong country: Luxor hotel-casino sign and pyramid on the Las Vegas Strip, USA"
+  },
+  "f3fd78a3e-5fb2-478a-8edd-11ade0885cf5": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn",
+      "Arab"
+    ],
+    "lines": [
+      {
+        "text": "SAKKARA",
+        "lang": "en"
+      },
+      {
+        "text": "CARPET SCHOOL",
+        "lang": "en"
+      },
+      {
+        "text": "مدرسة",
+        "lang": "ar",
+        "latin": "Madrasa (school)"
+      },
+      {
+        "text": "سقارة للسجاد اليدوى",
+        "lang": "ar",
+        "latin": "Saqqara lil-Sijjad al-Yadawi (Saqqara hand-made carpets)"
+      }
+    ],
+    "expect": {
+      "query": "Sakkara Carpet School",
+      "type": "poi"
+    },
+    "difficulty": "hard",
+    "notes": "Old hand-painted board leaning against a wall, strongly angled; 1024 px image. The Arabic letter skeletons are clear but several dots (on ق and ج) are faded; final letter of اليدوى is undotted ى."
+  },
+  "f3a461020-2081-41d6-aff2-2d2d60a68918": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn",
+      "Arab"
+    ],
+    "lines": [
+      {
+        "text": "LUXOR FLAFEL",
+        "lang": "en"
+      },
+      {
+        "text": "فلافل الأقصر",
+        "lang": "ar",
+        "latin": "Falafil al-Uqsur (Luxor Falafel)"
+      }
+    ],
+    "expect": {
+      "query": "Luxor Flafel",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Hand-painted on a striped awning, Luxor; spelling 'FLAFEL' as written. Distractor: neighbouring '... ALLAH JEWELRY' / 'مجوهرات ...' sign on the right, partly hidden by an awning. 1024 px image."
+  },
+  "c170767550": {
+    "accept": false,
+    "reason": "no-stopping traffic sign (ممنوع الوقوف ... / NO STOP), no place name; blurry"
+  },
+  "c37022043": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "مدينة السادات 65 كم",
+        "lang": "ar",
+        "latin": "Madinat as-Sadat 65 km"
+      },
+      {
+        "text": "Sadat City 65 Km",
+        "lang": "en"
+      },
+      {
+        "text": "الخطاطبة 50 كم",
+        "lang": "ar",
+        "latin": "al-Khatatba 50 km"
+      },
+      {
+        "text": "El Khatatba 50 Km",
+        "lang": "en"
+      },
+      {
+        "text": "كوم حمادة",
+        "lang": "ar",
+        "latin": "Kum Hamada"
+      },
+      {
+        "text": "4 كم",
+        "lang": "ar",
+        "latin": "4 km"
+      },
+      {
+        "text": "Kom Hamada",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Kom Hamada",
+      "type": "place"
+    },
+    "difficulty": "easy",
+    "notes": "Overhead gantry with three blue panels, listed left to right; Western digits in the Arabic lines too. The 'L' of 'El Khatatba' is partly missing on the sign (looks like 'Eι')."
+  },
+  "f354765e2-da63-480a-bf69-a11f91c68b31": {
+    "accept": false,
+    "reason": "rules/warning notice (no smoking, no rituals) at an archaeological site; no place name"
+  },
+  "fcce22946-b04d-4126-9a98-c0ac617fb737": {
+    "accept": false,
+    "reason": "downtown Cairo facade with a dozen small competing shop signs (LG, مركز الغانم, اليمامة / ELYMAMA, عجايب ٢٠٠٠, TRANSLATION ...); no single main sign is the target"
+  },
+  "c79361775": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "EAD",
+        "lang": "en"
+      },
+      {
+        "text": "المتحف المصرى",
+        "lang": "ar",
+        "latin": "al-Mathaf al-Masri (the Egyptian Museum)"
+      },
+      {
+        "text": "EGYPTIAN MUSEUM",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Egyptian Museum",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Small brass plaque (scarab and sun disc emblem) on the museum's granite facade, Tahrir, Cairo; name panel is about 170 px wide. 'E A D' are spaced letters around the scarab. Arabic is stylised Kufic-like lettering, final letter undotted ى."
+  }
+}

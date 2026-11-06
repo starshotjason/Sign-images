@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/3084846/102/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMC85LzI4L3Byb2MvMzA4NDg0Nl9hMTdjYl81ZjcyNTljNmFmNDRmLmpwZw",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "dmitriyya",
+  "credit_as_published": "KartaView user dmitriyya (user id 34226); © KartaView contributors",
+  "title": "KartaView photo 1109598254, sequence 3084846 #102 (Baku, 2019-06-07)",
+  "description": "Street-level picture on KartaView, taken 2019-06-07 near Baku by dmitriyya, sequence 3084846, heading 163.28. OCR (PP-OCRv3) read: Penti",
+  "date": "2019-06-07",
+  "categories": [],
+  "camera_location": [
+    40.376507,
+    49.831998
+  ],
+  "found_by": "kartaview-ocr:Baku",
+  "bytes": 194372,
+  "width": 1200,
+  "height": 900,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMC85LzI4L3Byb2MvMzA4NDg0Nl9hMTdjYl81ZjcyNTljNmFmNDRmLmpwZw",
+  "derivative": "crop 1117,1087,2317,1987 of the 4000x3000 full-size processed (blurred) picture"
+}

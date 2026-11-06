@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=f77ee4f9-bc72-4c10-a027-abc1260f0d62",
+  "original_url": "https://panoramax.openstreetmap.fr/images/f7/7e/e4/f9/bc72-4c10-a027-abc1260f0d62.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "JLZIMMERMANN",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture f77ee4f9-bc72-4c10-a027-abc1260f0d62 (Brussels, 2016-10-01)",
+  "description": "Street-level picture on Panoramax, taken 2016-10-01 near Brussels by JLZIMMERMANN, sequence dd971f82-cfe3-4234-adc3-4545913e8ad8, heading 36. OCR (PP-OCRv3) read: AANKO | GOU | ZILVE | WILLIAME | SAMAHUMA",
+  "date": "2016-10-01",
+  "categories": [],
+  "camera_location": [
+    50.847191667,
+    4.350675
+  ],
+  "found_by": "panoramax-ocr:Brussels",
+  "bytes": 900374,
+  "width": 2435,
+  "height": 1826,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/f7/7e/e4/f9/bc72-4c10-a027-abc1260f0d62.jpg",
+  "derivative": "crop 0,0,2435,1826 of the 3264x2448 HD picture"
+}

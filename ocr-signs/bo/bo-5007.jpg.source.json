@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/6352233/25/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMi8xMS8yNi9wcm9jLzYzNTIyMzNfY2Y1NzlfNjM4MjQ0MGMwNjg5Yi5qcGc",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "rodolfovar",
+  "credit_as_published": "KartaView user rodolfovar (user id 2339); © KartaView contributors",
+  "title": "KartaView photo 1654408361, sequence 6352233 #25 (La Paz, 2022-11-26)",
+  "description": "Street-level picture on KartaView, taken 2022-11-26 near La Paz by rodolfovar, sequence 6352233, heading 134.74. OCR (PP-OCRv3) read: RMACIAS | BOLIVIA | NO GIRAR | INTI | DERECHA | Mas cenca de ti | CON SALUD | FARMACIAS | BOLIVIA",
+  "date": "2022-11-26",
+  "categories": [],
+  "camera_location": [
+    -16.50483,
+    -68.134916
+  ],
+  "found_by": "kartaview-ocr:La Paz",
+  "bytes": 976685,
+  "width": 3840,
+  "height": 2160,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMi8xMS8yNi9wcm9jLzYzNTIyMzNfY2Y1NzlfNjM4MjQ0MGMwNjg5Yi5qcGc",
+  "derivative": "whole 3840x2160 full-size processed (blurred) picture as served by the KartaView CDN (byte-identical; the service blurs faces and number plates), not cropped"
+}

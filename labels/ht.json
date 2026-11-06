@@ -1,0 +1,398 @@
+{
+ "c103769770": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "PALAIS DE JUSTICE",
+    "lang": "fr"
+   },
+   {
+    "text": "DE JACMEL",
+    "lang": "fr"
+   },
+   {
+    "text": "PARQUET DE JACMEL",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "Palais de Justice de Jacmel",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Courthouse facade lettering in Jacmel; 'PARQUET DE JACMEL' is a second, smaller name on the right wing. Distractors: blue spray graffiti, a hanging cloth banner, 'SUB. C.G' painted on the low wall, overhead wires."
+ },
+ "c103829029": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Ministère",
+    "lang": "fr"
+   },
+   {
+    "text": "DE LA Culture",
+    "lang": "fr"
+   },
+   {
+    "text": "DIRECTION",
+    "lang": "fr"
+   },
+   {
+    "text": "DEPARTEMENTALE",
+    "lang": "fr"
+   },
+   {
+    "text": "DU SUD-EST",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "Direction Départementale du Sud-Est Ministère de la Culture",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Cut-out metal letters on a pink wall in Jacmel. The ministry logo uses a large 'M' and 'C' shared with 'inistère' and 'ulture'. The separator in SUD-EST is a small low mark (looks like a dot at this resolution); DEPARTEMENTALE is written without an accent."
+ },
+ "c104032122": {
+  "accept": true,
+  "reason": "",
+  "kind": "hard",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "JACMEL",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "Jacmel",
+   "type": "place"
+  },
+  "difficulty": "hard",
+  "notes": "Town entrance arch seen from a distance down the road; green 'JACMEL' letters between flower motifs. Many advert billboards (e.g. 'Bwè Lèt MEGA', a printing shop board) are distractors."
+ },
+ "c136040114": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "EFACAP",
+    "lang": "fr"
+   },
+   {
+    "text": "DE LA",
+    "lang": "fr"
+   },
+   {
+    "text": "GRANDE RIVIERE DU NORD",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "EFACAP de la Grande Rivière du Nord",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "School (EFACAP) gateway; raised white letters, Haitian and EU flags either side of 'DE LA'. RIVIERE is written without an accent."
+ },
+ "c136041751": {
+  "accept": false,
+  "reason": "only 'BIENVENUE' and a slogan on a school wall; no name visible"
+ },
+ "c1575409": {
+  "accept": false,
+  "reason": "long commemorative text plaque (Henri Christophe), not a name sign"
+ },
+ "c26376361": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "CO",
+    "lang": "es"
+   },
+   {
+    "text": "MO",
+    "lang": "es"
+   },
+   {
+    "text": "SIEMPRE",
+    "lang": "es"
+   },
+   {
+    "text": "Depot",
+    "lang": "fr"
+   },
+   {
+    "text": "Cola",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "Como Siempre",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Hand-painted fascia on corrugated sheet of a drinks depot in Limonade: green 'CO'/'MO' stacked (= COMO), red SIEMPRE, blue 'Depot Cola'. Leaves cover the left end; tiny text in the blue corner is illegible. Product boxes (TAMPICO) are distractors; shopkeeper seated in front."
+ },
+ "c37901739": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "SAINT MARC",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "Saint-Marc",
+   "type": "place"
+  },
+  "difficulty": "medium",
+  "notes": "Arched town-entrance gateway at Frecyneau; letters are evenly spaced along the arch with no clear word gap. Distractors: 'ALLIANCE ... Nou rive St-Marc' advert banner, partly hidden 'SOUS C...SARIAT DE FRE...' on the wall. Shot through a car window."
+ },
+ "c40236235": {
+  "accept": false,
+  "reason": "only a stencilled street code 'ENT.005A' on a pole; not a name a map would contain"
+ },
+ "c40236239": {
+  "accept": true,
+  "reason": "",
+  "kind": "hard",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "WONDERFUL",
+    "lang": "en"
+   },
+   {
+    "text": "INSTITUTE",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Wonderful Institute",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Small hanging board in a busy Port-au-Prince street; under the name are blurry lines 'Anglais. Espagnol', 'Informatique' and phone numbers, not transcribed. Distractors: flaking 'CHARM-IN COSMETIQUES' fascia, a banner seen from behind (mirrored text), tap-tap 'FOREVER TALK TO ME' branding."
+ },
+ "c60303535": {
+  "accept": false,
+  "reason": "painted wall adverts (KINANM' beer, Bon Auto Parts partly hidden by a pedestrian); no clear place sign"
+ },
+ "c60303647": {
+  "accept": false,
+  "reason": "family-planning billboard advert with faces"
+ },
+ "c60303864": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "LA CONFIANCE",
+    "lang": "ht"
+   },
+   {
+    "text": "SE YON ETAJ ANPLIS",
+    "lang": "ht"
+   }
+  ],
+  "expect": {
+   "query": "La Confiance",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Painted fascia in Haitian Creole, Cap-Haïtien; photo through a car windscreen with a reflection at the bottom. Distractors: 'POUTCHY NET Multi Services', 'TÈT DWAT AUTO PARTS', 'Bank' / 'LOTTO' / 'LA CONFIANCE BANK' lottery signs, 'YAH. GROS ET AU DETAIL.'."
+ },
+ "c60304797": {
+  "accept": true,
+  "reason": "",
+  "kind": "hard",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ACHAC",
+    "lang": "fr"
+   },
+   {
+    "text": "ACADEMIE HAITIENNE",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "Academie Haitienne",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Painted school name on a white wall (Académie Haïtienne des Arts Culinaires, Bois Verna); the rest of the name is hidden behind a white van. The large 'Rhum BAKARA JWI LAVI'W!' billboard and a printing-shop board are advert distractors."
+ },
+ "c71848648": {
+  "accept": false,
+  "reason": "stencilled no-trespassing warning (Creole/English); names no place"
+ },
+ "c10318468": {
+  "accept": false,
+  "reason": "flight-deck crewman is the subject; the only sign is a 'DANJE, DANJE!!' helicopter warning sheet with no place name"
+ },
+ "c1233919": {
+  "accept": true,
+  "reason": "",
+  "kind": "hard",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "MSPP DEPARTEMENT SANITAIRE DU NORD",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "Département Sanitaire du Nord",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Green painted lettering on the white canopy edge of the health-department building in Cap-Haïtien, small and to the left; the foreground is dominated by men hauling an overloaded hand cart. DEPARTEMENT written without an accent; MSPP = Ministère de la Santé Publique et de la Population."
+ },
+ "c151971350": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "PONT RIVIERE",
+    "lang": "fr"
+   },
+   {
+    "text": "GAUCHE",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "Pont Rivière Gauche",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Green bridge-name plate near Jacmel; RIVIERE without accent. Small hand-painted board on the pole reads 'FONDATION JACQUES KHAWLY'. Phone camera overlay at lower left ('2024/08/25 11:25', 'james stanley jean-simon', 'TECNO SPARK 20c') is a distractor; a motorcyclist (back to camera) is incidental."
+ },
+ "c172354210": {
+  "accept": false,
+  "reason": "person signing a guestbook; no sign"
+ },
+ "c37902384": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Bienvenue",
+    "lang": "fr"
+   },
+   {
+    "text": "dans le département de l'",
+    "lang": "fr"
+   },
+   {
+    "text": "Artibonite",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "Artibonite",
+   "type": "place"
+  },
+  "difficulty": "medium",
+  "notes": "IHSI departmental welcome board at Montrouis, seen from a car window looking up. The statistics rows below (Superficie, Total, Femmes, Hommes with figures) are faded/washed out and not transcribed; footer 'INSTITUT HAITIEN DE STATISTIQUE ET D'INFORMATIQUE (IHSI)' is tiny. The 'Digicel De loin, le Meilleur Réseau' pylon at top left is an advert distractor."
+ },
+ "c5037352": {
+  "accept": false,
+  "reason": "a woman posing at a toilet block is the subject; wall lettering is initials and a slogan, no place name"
+ },
+ "c60303745": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "WORLD",
+    "lang": "en"
+   },
+   {
+    "text": "BARBER SHOP",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "World Barber Shop",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Painted barber shop facade in Goyard, Cap-Haïtien, shot through a moving car window (slight blur). 'WORLD' is in a blue oval on the upper wall; 'BARBER SHOP' on a yellow band to the right. Painted portrait faces are artwork. Distractors: 'DJ BLACK' board with small illegible lines, 'K27' painted on a door at left."
+ },
+ "c60303804": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "DISTINCTION BARBER SHOP",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Distinction Barber Shop",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Orange barber shop in Goyard, Cap-Haïtien, shot through a car windscreen (Hyundai logo reflection at bottom). BARBER is in alternating red/blue letters. Below is a painted-over word that looks like 'Boutique' (not transcribed). Distractors: 'PARTS' on the pink building at left, a hanging board at right with illegible small text."
+ },
+ "f13a84df3-db72-4f90-8f38-7a2a335e9c4d": {
+  "accept": false,
+  "reason": "busy market street; the banner and shop signs (Western Union, Capital) are too small to read reliably"
+ }
+}

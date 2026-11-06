@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=55073f51-af85-4a31-94af-d72bc20e22fd",
+  "original_url": "https://panoramax.openstreetmap.fr/images/55/07/3f/51/af85-4a31-94af-d72bc20e22fd.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "ViewStreet",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture 55073f51-af85-4a31-94af-d72bc20e22fd (Athens, 2026-10-23)",
+  "description": "Street-level picture taken 2026-10-23 near Athens by ViewStreet, sequence 377f21be-569b-4fb2-9d82-c4fa0ed9fc12, heading 92. OCR (PP-OCRv3) read: ENAHNIKON ANTIKAPKINIKON INZTITOYTON",
+  "date": "2026-10-23",
+  "categories": [],
+  "camera_location": [
+    37.987526667,
+    23.755271667
+  ],
+  "found_by": "panoramax-ocr:Athens",
+  "bytes": 1053905,
+  "width": 1440,
+  "height": 1920,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/55/07/3f/51/af85-4a31-94af-d72bc20e22fd.jpg",
+  "derivative": "whole 1440x1920 HD picture as served by the Panoramax instance (byte-identical; the instance blurs faces and number plates), not cropped"
+}

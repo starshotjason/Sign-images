@@ -1,0 +1,365 @@
+{
+ "k1785969529": {
+  "accept": false,
+  "reason": "close-up of a construction-hoarding banner (STRABAG company logo), not a place sign"
+ },
+ "p181340d62d": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "FOCACCINA",
+    "lang": "it"
+   }
+  ],
+  "expect": {
+   "query": "Focaccina",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "White letters on a green fascia, Zagreb old town (a second 'FOCACCINA' panel is in the window and a round 'FOCACCINA ZAGREB' blade sign at left). Neighbouring 'ZLATAR' / 'ZLATAR JUVELIR' jeweller, 'MAIN SQUARE' souvenir shop and 'Panetterie' signs are distractors; 'YOU LOOK HUNGRY' is window slogan."
+ },
+ "k1340982149": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ULICA",
+    "lang": "hr"
+   },
+   {
+    "text": "Milana Amruša",
+    "lang": "hr"
+   }
+  ],
+  "expect": {
+   "query": "Milana Amruša",
+   "type": "street"
+  },
+  "difficulty": "hard",
+  "notes": "Small blue Zagreb street-name plate on a corner building, seen through a windscreen across a crossing; two lines of tiny explanatory text under the name are illegible. The large 'Koracell / SANITARIJE / VODOMATERIJAL' shop signs are distractors (could also be a business-sign target). House number 5 plate at the right."
+ },
+ "p070dd83726": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "...murluka",
+    "lang": "hr"
+   },
+   {
+    "text": "...Hangovers",
+    "lang": "en"
+   },
+   {
+    "text": "...vog Vala Zagreb",
+    "lang": "hr"
+   },
+   {
+    "text": "...ck 'n' Roll Museum",
+    "lang": "en"
+   },
+   {
+    "text": "...ana J. Jelačića",
+    "lang": "hr"
+   },
+   {
+    "text": "...ip Jelačić Square",
+    "lang": "en"
+   },
+   {
+    "text": "...esti videoigara",
+    "lang": "hr"
+   },
+   {
+    "text": "...story Museum",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Trg bana Josipa Jelačića",
+   "type": "place"
+  },
+  "difficulty": "hard",
+  "notes": "Brown bilingual tourist finger signs in Zagreb, all cut off on the left by the frame: Museum of Hangovers (Muzej mamurluka), Rock 'n' Roll Museum (Muzej Rock... Vala Zagreb), Ban Jelačić Square (Trg bana J. Jelačića), video-game history museum (Muzej povijesti videoigara). Only the visible parts are transcribed; '...' marks the cut. Dolac market stalls in the background."
+ },
+ "p667d292c9b": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "RADSKA ŠTEDIONICA",
+    "lang": "hr"
+   }
+  ],
+  "expect": {
+   "query": "Gradska štedionica",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Large bronze letters across the Gradska štedionica (City Savings Bank) building on Ban Jelačić Square, Zagreb. The leading 'G' is cut by the left frame edge and the Š is partly behind a lamp post (caron visible). Smaller 'GRADSKA KAVANA' and 'Zagrebačka banka' lettering, 'MARTIMEX', 'CHANEL' and 'VISITOR CENTER' signs are distractors."
+ },
+ "peae5628f53": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Lapidarium",
+    "lang": "hr"
+   },
+   {
+    "text": "AUTORSKI NAKIT",
+    "lang": "hr"
+   }
+  ],
+  "expect": {
+   "query": "Lapidarium",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Jewellery shop in Zagreb: a projecting box 'Lapidarium / AUTORSKI NAKIT' and two black fascia panels 'Lapidarium' in a stylised lowercase font. The centre board lists 'hrvatski autorski nakit / croatian author jewelry', 'personalizirani nakit / custom jewelry', 'nakit ručne izrade / exclusive handmade jewelry', 'www.lapidarium.eu'. Painted shutters are distractors."
+ },
+ "p2d3d98646d": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Müller",
+    "lang": "de"
+   }
+  ],
+  "expect": {
+   "query": "Müller",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Orange Müller drugstore logo with its M flower emblem on Ban Jelačić Square, Zagreb; house number 8 plate by the left door. DIOR and VALENTINO window posters and photo-print window graphics are distractors."
+ },
+ "pa22d7f33fe": {
+  "accept": false,
+  "reason": "window decal of a mineral-water brand (Römerquelle) seen through people; product branding, not a place sign"
+ },
+ "p20e9e05cbb": {
+  "accept": false,
+  "reason": "generic 'DROGERIJA / BILJNA DROGERIJA' trade signs in a courtyard; no business name, other plates too small"
+ },
+ "p13ec52b29f": {
+  "accept": false,
+  "reason": "generic 'DEŽURNA LJEKARNA' (all-night pharmacy) sign with no pharmacy name; the travel-agency blade sign beside it is cut off"
+ },
+ "c38025111": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Ulica",
+    "lang": "hr"
+   },
+   {
+    "text": "DECUMANUS",
+    "lang": "hr"
+   },
+   {
+    "text": "Strada Granda",
+    "lang": "it"
+   },
+   {
+    "text": "DECUMANA",
+    "lang": "it"
+   }
+  ],
+  "expect": {
+   "query": "Decumanus",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Bilingual Croatian/Italian (Istro-Venetian 'Granda') marble street plate with brown serif letters, Poreč; a crack runs through the plate and the town crest sits in the middle."
+ },
+ "c88841322": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ULICA",
+    "lang": "hr"
+   },
+   {
+    "text": "KRALJA TOMISLAVA",
+    "lang": "hr"
+   },
+   {
+    "text": "(910 - 928)",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "Ulica kralja Tomislava",
+   "type": "street"
+  },
+  "difficulty": "medium",
+  "notes": "Carved stone street plate with dark-filled letters at the top, Šibenik; the dates line is faint. Below it are bilingual brown tourist direction boards (Katedrala Sv. Jakova / The Cathedral of St. James; Srednjovjekovni vodoopskrbni sustav 4 Bunara; Muzej grada Šibenika / Šibenik's City Museum; Interpretacijski centar katedrale sv. Jakova ... CIVITAS SACRA), which are secondary landmark targets/distractors."
+ },
+ "c23620687": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn",
+   "Cyrl"
+  ],
+  "lines": [
+   {
+    "text": "ULICA",
+    "lang": "hr"
+   },
+   {
+    "text": "JOSIPA GLIBUŠIĆA",
+    "lang": "hr"
+   },
+   {
+    "text": "улица",
+    "lang": "sr",
+    "latin": "ulica"
+   },
+   {
+    "text": "ЈОСИПА ГЛИБУШИЋА",
+    "lang": "sr",
+    "latin": "Josipa Glibušića"
+   }
+  ],
+  "expect": {
+   "query": "Josipa Glibušića",
+   "type": "street"
+  },
+  "difficulty": "medium",
+  "notes": "Two green bilingual Croatian/Serbian Cyrillic street blades on one pole in Dalj (Erdut municipality); target is the lower, nearer blade. The upper blade 'ULICA ZAGREBAČKA / улица ЗАГРЕБАЧКА' is a second street name; the tiny crest text 'OPĆINA ERDUT' is a distractor."
+ },
+ "c101701814": {
+  "accept": false,
+  "reason": "faded, partly flaked-off historic painted plate (Kajkavian/German); most of the name cannot be read without guessing"
+ },
+ "c116401536": {
+  "accept": false,
+  "reason": "generic heritage-monument medallion (BAŠTINA / HERITAGE / MINISTARSTVO KULTURE RH); names no place"
+ },
+ "c135961006": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ULICA - VIA",
+    "lang": "hr"
+   },
+   {
+    "text": "PIETRO KANDLER",
+    "lang": "it"
+   },
+   {
+    "text": "1804. - 1872.",
+    "lang": "und"
+   },
+   {
+    "text": "POVJESNICAR - STORICO",
+    "lang": "hr"
+   }
+  ],
+  "expect": {
+   "query": "Pietro Kandler",
+   "type": "street"
+  },
+  "difficulty": "medium",
+  "notes": "Grey stencil-lettered bilingual plate on a stone wall, Motovun, seen at an angle with a plant growing over the top edge. 'POVJESNICAR' shows no caron on the C; a stray mark under the C of ULICA is damage, not a letter."
+ },
+ "c89349581": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "BABINA",
+    "lang": "hr"
+   },
+   {
+    "text": "ULICA",
+    "lang": "hr"
+   }
+  ],
+  "expect": {
+   "query": "Babina ulica",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Carved limestone plate with dark-filled serif letters, Split; lamp at left."
+ },
+ "c135960922": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "IMELA",
+    "lang": "hr"
+   },
+   {
+    "text": "HUMSKA BISKA,SUVENIRI",
+    "lang": "hr"
+   },
+   {
+    "text": "VINA,RAKIJE,TARTUFI,MED",
+    "lang": "hr"
+   },
+   {
+    "text": "MASLINOVA ULJA",
+    "lang": "hr"
+   }
+  ],
+  "expect": {
+   "query": "Imela",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Hand-painted wooden direction boards for gift shops in Hum (Istria), half in shadow. Target is the upper 'IMELA' board (no spaces after commas). The lower board 'SHOP COLMO / CRAFT BEER - WINE - BRANDY / ... / COFFEE' names a second shop and is a distractor."
+ }
+}

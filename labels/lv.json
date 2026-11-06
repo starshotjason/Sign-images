@@ -1,0 +1,293 @@
+{
+ "k1070690554": {
+  "accept": false,
+  "reason": "street view whose only legible text is a Samsung Galaxy S9+ advert on scaffolding wrap"
+ },
+ "k289288135": {
+  "accept": false,
+  "reason": "Samsung Galaxy S9+ advert on scaffolding wrap seen through a windscreen; near-duplicate of k1070690554"
+ },
+ "p1f736860ac": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn",
+   "Zyyy"
+  ],
+  "lines": [
+   {
+    "text": "Brāļu Limjēru kinematogrāfs",
+    "lang": "lv"
+   },
+   {
+    "text": "Cinématographe Lumière",
+    "lang": "fr"
+   },
+   {
+    "text": "Kino",
+    "lang": "lv"
+   },
+   {
+    "text": "28.12.1895 . Parize",
+    "lang": "lv"
+   },
+   {
+    "text": "28.05.1896 . Riga",
+    "lang": "lv"
+   },
+   {
+    "text": "- pirmais kinoseanss -",
+    "lang": "lv"
+   },
+   {
+    "text": "- the first film screening -",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Brāļu Limjēru kinematogrāfs",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Granite pavement plaque in Riga marking the first film screening, inlaid metal letters in a decorative Art Nouveau font (e/E and s shapes are unusual). The ļ in Brāļu is a stylised descending glyph; the comma below is merged into it. 'Parize' and 'Riga' show no macron on the i (Parīze/Rīga in standard spelling)."
+ },
+ "p32abd77ace": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn",
+   "Zyyy"
+  ],
+  "lines": [
+   {
+    "text": "ATJAUNOTO GULBJU NAMIŅU",
+    "lang": "lv"
+   },
+   {
+    "text": "RĪGAS PILSĒTAI",
+    "lang": "lv"
+   },
+   {
+    "text": "800 GADU JUBILEJĀ DĀVINĀJIS",
+    "lang": "lv"
+   },
+   {
+    "text": "ANDRIS ĀRGALIS,",
+    "lang": "lv"
+   },
+   {
+    "text": "RĪGAS MĒRS 2000.-2001.g.",
+    "lang": "lv"
+   }
+  ],
+  "expect": {
+   "query": "Gulbju namiņš",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Brass dedication plaque on the restored swan house in Riga ('the restored swan house was given to the city of Riga for its 800th anniversary by Andris Ārgalis, mayor of Riga 2000-2001'). Raised serif capitals with Latvian macrons and Ņ; frontal. The place name appears in the accusative (namiņu)."
+ },
+ "p349cb9a32f": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn",
+   "Cyrl"
+  ],
+  "lines": [
+   {
+    "text": "Rēgs",
+    "lang": "lv"
+   },
+   {
+    "text": "Autore: Ieva Rubeze",
+    "lang": "lv"
+   },
+   {
+    "text": "Latvija, 2015",
+    "lang": "lv"
+   },
+   {
+    "text": "The Ghost",
+    "lang": "en"
+   },
+   {
+    "text": "Artist: Ieva Rubeze",
+    "lang": "en"
+   },
+   {
+    "text": "Latvia, 2015",
+    "lang": "en"
+   },
+   {
+    "text": "Призрак",
+    "lang": "ru",
+    "latin": "Prizrak (The Ghost)"
+   },
+   {
+    "text": "Автор: Иева Рубезе",
+    "lang": "ru",
+    "latin": "Avtor: Ieva Rubeze"
+   },
+   {
+    "text": "Латвия, 2015",
+    "lang": "ru",
+    "latin": "Latviya, 2015"
+   },
+   {
+    "text": "www.artinpublicspace.lv",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "Rēgs",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Brushed-steel label plate of the public artwork 'Rēgs' (The Ghost), Riga old town, trilingual. Only headings, author lines and URL are transcribed; the three small explanatory paragraphs (lv/en/ru, about the 'Art in the Public Space' programme of Boris and Ināra Teterev) are omitted. Reflections on the steel."
+ },
+ "p551e3eeed0": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "VITA",
+    "lang": "lv"
+   },
+   {
+    "text": "LOMBARDS",
+    "lang": "lv"
+   }
+  ],
+  "expect": {
+   "query": "Vita Lombards",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Orange-and-white pawnshop fascia on a pink Art Nouveau building, Riga, plus a round projecting VITA LOMBARDS sign. Distractor: green 'Banknote / AIZDEVUMI / LOMBARDS' fascia and hanging sign on the left (a different pawnshop), 'UZPĒRKAM ZELTU!' window posters, no-entry sign."
+ },
+ "p5737628faa": {
+  "accept": false,
+  "reason": "memorial stone (Sergejs Kononenko) with strong glare; the date line is partly illegible and it names a person, not a place"
+ },
+ "p5f7298742a": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn",
+   "Cyrl"
+  ],
+  "lines": [
+   {
+    "text": "Piemineklis grafiķim un gleznotājam",
+    "lang": "lv"
+   },
+   {
+    "text": "KĀRLIM PADEGAM (1911–1940)",
+    "lang": "lv"
+   },
+   {
+    "text": "Monument to graphic artists and painter",
+    "lang": "en"
+   },
+   {
+    "text": "KĀRLIS PADEGS (1911–1940)",
+    "lang": "lv"
+   },
+   {
+    "text": "Памятник художнику - графику и живописцу",
+    "lang": "ru",
+    "latin": "Pamyatnik khudozhniku - grafiku i zhivopistsu"
+   },
+   {
+    "text": "КАРЛИСУ ПАДЕГУ (1911–1940)",
+    "lang": "ru",
+    "latin": "Karlisu Padegu"
+   },
+   {
+    "text": "Tēlnieks . Sculptor . Скульптор",
+    "lang": "lv",
+    "latin": "Tēlnieks . Sculptor . Skul'ptor"
+   },
+   {
+    "text": "Andris Vārpa",
+    "lang": "lv"
+   },
+   {
+    "text": "Arhitekts . Architect . Архитектор",
+    "lang": "lv",
+    "latin": "Arhitekts . Architect . Arkhitektor"
+   },
+   {
+    "text": "Arno Heinrihsons",
+    "lang": "lv"
+   },
+   {
+    "text": "1998",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "Kārlis Padegs",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Curved, scratched steel plaque at the Kārlis Padegs monument by a park fence, Riga, trilingual (lv/en/ru), with the Riga coat of arms below. Scratches cross some letters (e.g. the Л in КАРЛИСУ) but all text is readable. Note the plaque's own grammar 'graphic artists'."
+ },
+ "pd35d36ed3a": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "PULKVEDIM",
+    "lang": "lv"
+   },
+   {
+    "text": "OSKARAM KALPAKAM",
+    "lang": "lv"
+   }
+  ],
+  "expect": {
+   "query": "Oskara Kalpaka piemineklis",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Monument to Colonel Oskars Kalpaks, Esplanāde park, Riga: light incised capitals on a long black granite base. A third line reads LATVIJAS ARMIJAS PIRMAJAM KOMANDIERIM as far as can be seen, but any macron/cedilla marks are too faint to confirm, so it is not in lines. Quote on the right: 'KO VARU VĒL TEV, TĒVZEME, / PAR SIRDI VAIRĀK DOT... / A. EGLĪTIS' (distractor). Wide shot; text occupies a small part of the frame."
+ },
+ "pf85ab19627": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "BALTU",
+    "lang": "lv"
+   },
+   {
+    "text": "ROTAS",
+    "lang": "lv"
+   }
+  ],
+  "expect": {
+   "query": "Baltu Rotas",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "White raised letters and a round Baltic ornament on a black wooden board, Riga old town. A carved wooden animal sculpture in the foreground; small white round heritage plate (PK953 / 4410 / 114) and opening-hours board are distractors."
+ }
+}

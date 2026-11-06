@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=88e76e6b-8fb2-473c-942b-6a3d4b0e4b62",
+  "original_url": "https://panoramax.openstreetmap.fr/images/88/e7/6e/6b/8fb2-473c-942b-6a3d4b0e4b62.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "LennertS",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture 88e76e6b-8fb2-473c-942b-6a3d4b0e4b62 (Copenhagen, 2026-08-06)",
+  "description": "Street-level picture on Panoramax, taken 2026-08-06 near Copenhagen by LennertS, sequence 5878627b-231c-45ca-88b4-65a2195d7699, heading 326. OCR (PP-OCRv3) read: Home of Carlsberg",
+  "date": "2026-08-06",
+  "categories": [],
+  "camera_location": [
+    55.6640827,
+    12.5300347
+  ],
+  "found_by": "panoramax-ocr:Copenhagen",
+  "bytes": 956274,
+  "width": 2018,
+  "height": 1514,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/88/e7/6e/6b/8fb2-473c-942b-6a3d4b0e4b62.jpg",
+  "derivative": "crop 1934,274,3952,1788 of the 4080x3060 HD picture"
+}

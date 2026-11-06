@@ -1,0 +1,435 @@
+{
+  "p1d8e22cf56": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Hani",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "中国邮政储蓄银行",
+        "lang": "zh",
+        "latin": "Zhongguo Youzheng Chuxu Yinhang (Postal Savings Bank of China)"
+      },
+      {
+        "text": "POSTAL SAVINGS BANK OF CHINA",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "中国邮政储蓄银行",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Green fascia, angled view from below. The smaller '中国邮政 / CHINA POST' panel to the left and the dim lettering on the upper windows are distractors."
+  },
+  "p25faa6d990": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Hani",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "王府井天主教堂简介",
+        "lang": "zh",
+        "latin": "Wangfujing Tianzhu Jiaotang jianjie (Introduction to Wangfujing Catholic Church)"
+      },
+      {
+        "text": "Wangfujing Cathedral",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "王府井天主教堂",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Engraved stone interpretive plaque, slightly angled, with leaves on it. Target is the two headings only; the long bilingual history paragraphs below are not labelled. Body text names St. Joseph's / East Cathedral (东堂)."
+  },
+  "p285530a0b3": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Hani",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "中国银行",
+        "lang": "zh",
+        "latin": "Zhongguo Yinhang (Bank of China)"
+      },
+      {
+        "text": "BANK OF CHINA",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "中国银行",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Raised metal letters on a curved white fascia. The Chinese is the bank's cursive calligraphic logotype: the characters are certain, but whether 国/银 are drawn in simplified or traditional form (中國銀行) cannot be told at this resolution; simplified is recorded. A small partly cut BOC logo is at the far left edge."
+  },
+  "p8fbec9a28f": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "CharlotteTilbury",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Charlotte Tilbury",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Illuminated marquee fascia; the name is set as one word with no space. CT monograms flank it. The adidas logo above and the in-window ad text (CT微光粉气垫 ...) are distractors."
+  },
+  "pa42fb6820d": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Hani",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "中国建设银行",
+        "lang": "zh",
+        "latin": "Zhongguo Jianshe Yinhang (China Construction Bank)"
+      },
+      {
+        "text": "China Construction Bank",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "中国建设银行",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Large fascia, angled. Door-side notices (存款保险 DEPOSIT INSURANCE, 军人优先 Soldier first, branch hours board) and the decorated pailou gate at right are distractors."
+  },
+  "pa721eaed49": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Hani"
+    ],
+    "lines": [
+      {
+        "text": "老北京布鞋",
+        "lang": "zh",
+        "latin": "Lao Beijing Buxie (Old Beijing cloth shoes)"
+      }
+    ],
+    "expect": {
+      "query": "老北京布鞋",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Red raised characters above the shoe shop. Distractors: 北京烤鸭 (Beijing roast duck) over the neighbouring shop, a cut-off 中国照... sign at right edge, the vertical 老北京布 banner, and 此门已坏 notice."
+  },
+  "pb9d7e8d1b9": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Hani"
+    ],
+    "lines": [
+      {
+        "text": "同仁堂",
+        "lang": "zh",
+        "latin": "Tongrentang"
+      }
+    ],
+    "expect": {
+      "query": "同仁堂",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Main carved board is written right-to-left in traditional order (appears as 堂仁同 left to right); reading order recorded. Small brass plaque at right reads 北京同仁堂连锁金街药店 / Beijing Tong Ren Tang Chain Drugstore (Gold Street Store). Distractors: yellow 北京同仁堂 BEIJING TONGRENTANG banner above, 天福茗茶 TenFu's TEA sign, history plaques."
+  },
+  "pe2209f9c8c": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Hani"
+    ],
+    "lines": [
+      {
+        "text": "海底捞火锅",
+        "lang": "zh",
+        "latin": "Haidilao Huoguo (Haidilao Hot Pot)"
+      }
+    ],
+    "expect": {
+      "query": "海底捞火锅",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Black fascia with Hi logo, from below. Sub-line '3F 订餐电话：010-858959.. / 010-851109..' has the last phone digits cut off and is not labelled. 天福茗茶 shop sign below and green 天福 sign at right are distractors."
+  },
+  "p1f5197279f": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Hani",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "盛时表行",
+        "lang": "zh",
+        "latin": "Shèngshí biǎoháng (Prime Time watch store)"
+      },
+      {
+        "text": "PRIME TIME",
+        "lang": "en"
+      },
+      {
+        "text": "亨得利",
+        "lang": "zh",
+        "latin": "Hēngdélì"
+      },
+      {
+        "text": "HENGDELI",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "亨得利",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Beijing (Wangfujing) watch retailer, angled view from below. 亨得利 is in brush calligraphy (the 彳 of 得 is drawn like a water radical); HENGDELI in a stylised font with a lowercase-looking g. The small 盛时表行 / PRIME TIME logo is above. Distractors: Omega advert 'my little secret' with blurred faces, OMEGA door logo."
+  },
+  "p765bafb1bc": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn",
+      "Hani"
+    ],
+    "lines": [
+      {
+        "text": "ICBC",
+        "lang": "en"
+      },
+      {
+        "text": "中国工商银行",
+        "lang": "zh",
+        "latin": "Zhōngguó Gōngshāng Yínháng (Industrial and Commercial Bank of China)"
+      }
+    ],
+    "expect": {
+      "query": "中国工商银行",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Beijing, Wangfujing: ICBC branch fascia with the round 工 logo between ICBC and the Chinese name. Distractors: 'WF CENTRAL / 王府中環' mall blade sign at left (small), door stickers, a brass plaque at right (unreadable)."
+  },
+  "f01f4d38c-5b5e-4383-a886-40ad500f0c9b": {
+    "accept": false,
+    "reason": "Guangzhou Metro behaviour/fine poster; a warning, no place name"
+  },
+  "f16eb64cf-b3ba-4cc0-ac8b-7559ab362085": {
+    "accept": false,
+    "reason": "customer-rules notice board at an arcade (顾客须知, no under-18s); house rules, not a place sign apart from a small 'TAITO STATION' header"
+  },
+  "f66dc5d66-0c3f-4742-94bd-388efe9da83c": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Hani"
+    ],
+    "lines": [
+      {
+        "text": "鑫港旅馆",
+        "lang": "zh",
+        "latin": "Xīngǎng Lǚguǎn (Xingang Hotel)"
+      }
+    ],
+    "expect": {
+      "query": "鑫港旅馆",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Beijing hutong street (Dashilan area), tilted frame: red LED dot-matrix sign over the guesthouse door. Distractors: mirrored red window letters ('...馆 宮...'), green '京...特产超市 / 果脯 烤鸭' sign, '烟酒超市', '北京...' souvenir sign, and a small red house-number plate '12' whose street name is too small to read. A woman in the foreground is incidental."
+  },
+  "f6523e8c9-e976-4fc8-9e89-162fe3178524": {
+    "accept": false,
+    "reason": "baskets and a birdcage on a shelf; no sign"
+  },
+  "f76feb76a-df21-43aa-9f73-c70941031937": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Hani"
+    ],
+    "lines": [
+      {
+        "text": "飛飛餐廳",
+        "lang": "zh",
+        "latin": "Fēifēi Cāntīng (Feifei Restaurant)"
+      },
+      {
+        "text": "美食小吃 特色快餐 石紅雞",
+        "lang": "zh",
+        "latin": "měishí xiǎochī, tèsè kuàicān, shí hóng jī (snacks, speciality fast food, ... chicken)"
+      }
+    ],
+    "expect": {
+      "query": "飛飛餐廳",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Shanghai street of small shops; the restaurant's red light-box uses traditional characters (飛, 廳, 紅, 雞) in a brush face for the name; keep them as written. The last sub-line phrase is small and reads as 石紅雞 at this resolution. Distractors: '...纺织品公司 / ...呢绒零料专卖店' (simplified) at left, '美食 小吃' window panels, '火锅' and '特色快餐' window signs, a red vertical board at top right."
+  },
+  "f117c2d55-5f14-442c-a494-04e9b4bcad5e": {
+    "accept": false,
+    "reason": "airport airline check-in directory board (航空公司办理乘机手续区分布); a list of airlines and counters, not a place-name sign"
+  },
+  "f14e9bc95-3a13-4b57-b1ff-b6cb9ec7825e": {
+    "accept": false,
+    "reason": "wide airport check-in hall; all signs are small and unreadable"
+  },
+  "f162dbfab-9d0e-4c9f-8530-ccd44715595c": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Hani",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "故宫商店",
+        "lang": "zh",
+        "latin": "Gùgōng Shāngdiàn (Forbidden City shop)"
+      },
+      {
+        "text": "SHOP OF THE FORBIDDEN CITY",
+        "lang": "en"
+      },
+      {
+        "text": "录音导游机",
+        "lang": "zh",
+        "latin": "lùyīn dǎoyóujī (audio guide)"
+      },
+      {
+        "text": "归还处",
+        "lang": "zh",
+        "latin": "guīhuán chù (return point)"
+      },
+      {
+        "text": "Audio Tour Return station",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "故宫商店",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Beijing, inside the Forbidden City: free-standing dark board in front of a red-pillared hall. A headphone icon precedes 归还处. Distractors: red fire-extinguisher boxes '灭火器箱 / 火警电话119 FIRE ALARM', a small yellow notice on the wall, a tiny line at the board's foot (unreadable)."
+  },
+  "f4e6feea7-deee-4482-a3f5-e7f587f1cb37": {
+    "accept": false,
+    "reason": "brand-only luxury fascia (LOUIS VUITTON) with no local text; skipped in favour of signs with Chinese text"
+  },
+  "f5bc22e91-444c-4158-9d95-441b18e9bae8": {
+    "accept": false,
+    "reason": "no-smoking warning sign (禁止吸烟 NO SMOKING); the committee named is the issuer, not a place"
+  },
+  "f6ccbe713-cd67-410e-aeab-8a13272fbfbe": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn",
+      "Cyrl",
+      "Arab"
+    ],
+    "lines": [
+      {
+        "text": "Cell Phone Monopoly Supermarket",
+        "lang": "en"
+      },
+      {
+        "text": "СУПЕРМАРКЕТ СОТОВЫХ ТЕЛЕФОНОВ",
+        "lang": "ru",
+        "latin": "Supermarket sotovykh telefonov (mobile-phone supermarket)"
+      },
+      {
+        "text": "الخليوي احتكار السوق المركزي",
+        "lang": "ar",
+        "latin": "al-khalawi ihtikar as-suq al-markazi (cellular monopoly central market)"
+      }
+    ],
+    "expect": {
+      "query": "Cell Phone Monopoly Supermarket",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Guangzhou phone mall, multicoloured letters. The C of 'Cell' is drawn like a curled 6. The Cyrillic runs vertically down the right pillar and the Arabic vertically down the left pillar, both small; in the Cyrillic the О of ТЕЛЕФОНОВ is drawn as a phone pictogram, and the first letters of the Arabic are partly cut by the pillar edge. Distractors: Chinese promo banners on the counters (全場…元, 每天7…). Passers-by are incidental."
+  },
+  "f8d44a434-fd2d-4cdb-9d34-434630bb173f": {
+    "accept": false,
+    "reason": "Apple Store shown only by its logo; the 'UNION BAR-GRILLE' fascia at right is small and distant"
+  },
+  "f8e0ea23a-e03b-4582-8dba-643b6fc6d0c2": {
+    "accept": false,
+    "reason": "sale advertising posters (SALE ME, 低至5折) next to a woman whose face is the subject"
+  },
+  "faad1d964-d571-4950-b2a9-f54d99d430d3": {
+    "accept": false,
+    "reason": "metro passage notice 'Please don't stay here' (请勿在此滞留); an instruction, not a place name"
+  },
+  "fcfae47ff-3394-4a62-bd00-a9ecf66b038d": {
+    "accept": true,
+    "reason": "",
+    "kind": "address plate",
+    "scripts": [
+      "Hani",
+      "Zyyy"
+    ],
+    "lines": [
+      {
+        "text": "苗栗路",
+        "lang": "zh",
+        "latin": "Miáolì Lù (Miaoli Road)"
+      },
+      {
+        "text": "89",
+        "lang": "und"
+      }
+    ],
+    "expect": {
+      "query": "苗栗路89号",
+      "type": "addr"
+    },
+    "difficulty": "hard",
+    "notes": "Wuhan household-goods shop; target is the small dark-purple address plate on the pillar left of the doorway (road name over the house number, no 号). The plate is small in the frame. Distractors: the red fascia across the top is cut off by the frame (only the lower parts of '…欢迎光临' remain), merchandise labels."
+  }
+}

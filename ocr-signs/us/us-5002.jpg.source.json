@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=57aba253-ef08-4308-bae9-56524c0586c1",
+  "original_url": "https://panoramax.openstreetmap.fr/images/57/ab/a2/53/ef08-4308-bae9-56524c0586c1.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "EricFrench2015",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture 57aba253-ef08-4308-bae9-56524c0586c1 (Washington, 2025-11-12)",
+  "description": "Street-level picture on Panoramax, taken 2025-11-12 near Washington by EricFrench2015, sequence f821fd59-48ab-45a0-b066-15a90a86714c, heading 83. OCR (PP-OCRv3) read: SPEED | LIMIT | MIC OFF/HDR",
+  "date": "2025-11-12",
+  "categories": [],
+  "camera_location": [
+    38.9287458,
+    -77.0272018
+  ],
+  "found_by": "panoramax-ocr:Washington",
+  "bytes": 272592,
+  "width": 1515,
+  "height": 1136,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/57/ab/a2/53/ef08-4308-bae9-56524c0586c1.jpg",
+  "derivative": "crop 1914,1023,3429,2159 of the 3840x2160 HD picture"
+}

@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.libre.net.ar/#focus=pic&pic=a4c51539-e913-4205-8adb-4981a2cb2bd0",
+  "original_url": "https://panoramax.libre.net.ar/permanent/a4/c5/15/39/e913-4205-8adb-4981a2cb2bd0.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "Bastian Greshake Tzovaras",
+  "credit_as_published": "Panoramax, instance panoramax-ar (https://panoramax.libre.net.ar)",
+  "title": "Panoramax picture a4c51539-e913-4205-8adb-4981a2cb2bd0 (Buenos Aires, 2024-11-28)",
+  "description": "360-degree panorama on Panoramax, taken 2024-11-28 near Buenos Aires by Bastian Greshake Tzovaras, sequence 393f4088-081b-490f-96cc-7c5c1f10a286, heading 90. OCR (PP-OCRv3) read: PASEO DEL BAJO | VELDCIOAD | MAXIMA",
+  "date": "2024-11-28",
+  "categories": [],
+  "camera_location": [
+    -34.6230273,
+    -58.3818691
+  ],
+  "found_by": "panoramax-ocr:Buenos Aires",
+  "bytes": 111295,
+  "width": 1000,
+  "height": 750,
+  "downloaded_url": "https://panoramax.libre.net.ar/permanent/a4/c5/15/39/e913-4205-8adb-4981a2cb2bd0.jpg",
+  "derivative": "rectilinear (gnomonic) view, yaw -40.0 deg from the panorama centre, pitch +29.1 deg, horizontal field of view 41 deg, 1000x750 px, reprojected from the 5760x2880 HD equirectangular panorama"
+}

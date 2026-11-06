@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/3354205/39/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMS8xLzcvcHJvYy8zMzU0MjA1XzVmNzNkXzVmZjc1Yjk2ZTQ2N2YuanBn",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "elopio",
+  "credit_as_published": "KartaView user elopio (user id 44825); © KartaView contributors",
+  "title": "KartaView photo 1216326005, sequence 3354205 #39 (San Jose CR, 2015-05-08)",
+  "description": "Street-level picture on KartaView, taken 2015-05-08 near San Jose CR by elopio, sequence 3354205, heading 111.3. OCR (PP-OCRv3) read: PRECIO | EDIRICIO | LA UNION | COOCIQUE | COOCIQUE | IQUE | La empresa financiera con sentido social | onsentidosocial- | FARMACIA",
+  "date": "2015-05-08",
+  "categories": [],
+  "camera_location": [
+    9.934066,
+    -84.078489
+  ],
+  "found_by": "kartaview-ocr:San Jose CR",
+  "bytes": 1265213,
+  "width": 3264,
+  "height": 2448,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMS8xLzcvcHJvYy8zMzU0MjA1XzVmNzNkXzVmZjc1Yjk2ZTQ2N2YuanBn",
+  "derivative": "whole 3264x2448 full-size processed (blurred) picture as served by the KartaView CDN (byte-identical; the service blurs faces and number plates), not cropped"
+}

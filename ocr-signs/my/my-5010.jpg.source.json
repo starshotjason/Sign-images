@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/2033425/602/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTIub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMTk3MC8xLzEvcHJvYy8yMDMzNDI1XzEyXzA0NzcyXzMuanBn",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "lee-jen-zheng",
+  "credit_as_published": "KartaView user lee-jen-zheng (user id 24013); © KartaView contributors",
+  "title": "KartaView photo 522009541, sequence 2033425 #602 (Kuala Lumpur, 2019-10-07)",
+  "description": "Street-level picture on KartaView, taken 2019-10-07 near Kuala Lumpur by lee-jen-zheng, sequence 2033425, heading 0. OCR (PP-OCRv3) read: PICOMS | fuztravel | PELCEOT",
+  "date": "2019-10-07",
+  "categories": [],
+  "camera_location": [
+    3.142275,
+    101.692949
+  ],
+  "found_by": "kartaview-ocr:Kuala Lumpur",
+  "bytes": 347705,
+  "width": 1200,
+  "height": 900,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTIub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMTk3MC8xLzEvcHJvYy8yMDMzNDI1XzEyXzA0NzcyXzMuanBn",
+  "derivative": "crop 466,23,1666,923 of the 1920x1080 full-size processed (blurred) picture"
+}

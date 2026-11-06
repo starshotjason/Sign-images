@@ -1,0 +1,198 @@
+{
+ "k1437848169": {
+  "accept": false,
+  "reason": "distant government building fascia with many letters missing or hidden by a pole and trees ('DIRECTIO.. GE..RALE DU ..ESO.. DE LA C..AB..'); cannot be transcribed without guessing; the pillar sign is illegible"
+ },
+ "c132531748": {
+  "accept": false,
+  "reason": "wrong country: Umuahia Tower, Abia State, Nigeria (matched on 'Niger Delta' category)"
+ },
+ "c162732338": {
+  "accept": false,
+  "reason": "wrong country (Fruit Garden Market, Port Harcourt, Nigeria); vegetable stall, no target sign"
+ },
+ "c162736831": {
+  "accept": false,
+  "reason": "wrong country: Creek Road / Opobo Street, Port Harcourt, Nigeria (matched on 'Niger Delta' category)"
+ },
+ "c164104750": {
+  "accept": false,
+  "reason": "wrong country (Nigeria, Niger Delta); subject is a cow by the road"
+ },
+ "c187642139": {
+  "accept": false,
+  "reason": "wrong country (Nigeria, Niger Delta); festival portrait, person as subject"
+ },
+ "c188522140": {
+  "accept": false,
+  "reason": "wrong country (Nigeria); wedding register signing, people as subject, no sign"
+ },
+ "c188522141": {
+  "accept": false,
+  "reason": "wrong country (Nigeria); wedding register signing, people as subject, no sign"
+ },
+ "c188522146": {
+  "accept": false,
+  "reason": "wrong country (Nigeria); wedding register signing, people as subject, no sign"
+ },
+ "c189741347": {
+  "accept": false,
+  "reason": "wrong country (Eleme, Rivers State, Nigeria); also an LED event screen for a festival"
+ },
+ "c190030862": {
+  "accept": false,
+  "reason": "wrong country (Nigeria); wedding ceremony, people as subject, no sign"
+ },
+ "c137897203": {
+  "accept": false,
+  "reason": "near-duplicate of accepted c141932686: the same Tahoua camel arch, with smaller lettering"
+ },
+ "c35534815": {
+  "accept": false,
+  "reason": "internal hospital department fingerposts (MATERNITE, PEDIATRIE, RADIOLOGIE...); no mappable name"
+ },
+ "c97162701": {
+  "accept": false,
+  "reason": "derelict bank advertising billboard and telecom-branded kiosk; pure adverts"
+ },
+ "c118046204": {
+  "accept": true,
+  "reason": "",
+  "kind": "building tag",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "BOUTIQUE ARTISANALE",
+    "lang": "fr"
+   },
+   {
+    "text": "FINANCÉMENT :",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "Boutique Artisanale",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "White plaque above the door of the craft shop at the Musée National Boubou-Hama, Niamey; the name is in olive green. The three small header lines are partly faded and only partly legible ('COOPERATIVE ARTISANALE DU MUSEE NATIONAL DE NIAMEY', 'PROJET NIR 935/APPUI AUX ARTISANS', 'DE LA COOPERATIVE DU MUSEE NATIONAL') and are left out; the funder names after 'FINANCÉMENT' are faded. The phone number at the lower right is not certain. The relief lettering over the door ('BOUTIQUE ... ANALE') and the 'COOPERATIVE DU MUSEE NATIONAL' card are distractors. Alternative query: 'Musée National Boubou Hama'."
+ },
+ "c141932686": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "BIENVENUE",
+    "lang": "fr"
+   },
+   {
+    "text": "A",
+    "lang": "fr"
+   },
+   {
+    "text": "TAHOUA",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "Tahoua",
+   "type": "place"
+  },
+  "difficulty": "medium",
+  "notes": "Mounted letters on the crossed-camel-neck arch over the RN29 at the entrance to Tahoua; the words follow the curves of the arch (BIENVENUE rising left, A at the crossing, TAHOUA descending right). Paint is flaking."
+ },
+ "c16332330": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "BIENVENUE AU PETIT MARCHÉ",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "Petit Marché",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "White italic lettering across the red band of a Maggi-sponsored gate at the entrance of the Petit Marché, Niamey. The large MAGGI logos, 'Avec MAGGI®, chaque Femme est une Etoile.' and the small Maggi posters are advertising distractors."
+ },
+ "c79700999": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Pont de l'Amitié",
+    "lang": "fr"
+   },
+   {
+    "text": "Chine-Niger",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "Pont de l'Amitié Chine-Niger",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Beige roadside board in a serif typeface with a T-shaped arrow, Kirkissoye, Niamey; small in frame and soft. The airtel pole banner is a distractor."
+ },
+ "c79762570": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "CENTRE CULTUREL OUMAROU GANDA",
+    "lang": "fr"
+   },
+   {
+    "text": "C.C.O.G",
+    "lang": "fr"
+   },
+   {
+    "text": "BP 2320 TEL 20 74·09·03 NIAMEY-NIGER",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "Centre Culturel Oumarou Ganda",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Painted name board on top of a compound wall, Route Filingué, Niamey; blue letters on white. Separators in the phone number are raised dots. Small mask motifs at both ends."
+ },
+ "c188522160": {
+  "accept": false,
+  "reason": "wedding register signing (Niger Delta, Nigeria), wrong country and no sign"
+ },
+ "c188522154": {
+  "accept": false,
+  "reason": "wedding register signing (Niger Delta, Nigeria), wrong country and no sign"
+ },
+ "c188522149": {
+  "accept": false,
+  "reason": "wedding portrait (Niger Delta, Nigeria), wrong country, faces are subject, no sign"
+ },
+ "c188522151": {
+  "accept": false,
+  "reason": "wedding register signing (Niger Delta, Nigeria), wrong country and no sign"
+ }
+}

@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/11666244/187/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyNi82LzcvcHJvYy8xMTY2NjI0NF9kODM5MWVhZmZmYTVmYjhjMjg4N2JjODE4NGE1ZTc0OC5qcGc",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "seven",
+  "credit_as_published": "KartaView user seven (user id 10951); © KartaView contributors",
+  "title": "KartaView photo 2630363659, sequence 11666244 #187 (Astana, 2026-06-06)",
+  "description": "Street-level picture on KartaView, taken 2026-06-06 near Astana by seven, sequence 11666244, heading 254.83. OCR (PP-OCRv3) read: kari | SUNQAR | SAYDA",
+  "date": "2026-06-06",
+  "categories": [],
+  "camera_location": [
+    51.165847,
+    71.4278
+  ],
+  "found_by": "kartaview-ocr:Astana",
+  "bytes": 1394189,
+  "width": 4096,
+  "height": 2304,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyNi82LzcvcHJvYy8xMTY2NjI0NF9kODM5MWVhZmZmYTVmYjhjMjg4N2JjODE4NGE1ZTc0OC5qcGc",
+  "derivative": "whole 4096x2304 full-size processed (blurred) picture as served by the KartaView CDN (byte-identical; the service blurs faces and number plates), not cropped"
+}

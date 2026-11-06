@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=0a5e8624-7d38-46ee-80b2-523e6f4e0f7b",
+  "original_url": "https://panoramax.openstreetmap.fr/images/0a/5e/86/24/7d38-46ee-80b2-523e6f4e0f7b.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "MatthiasMatthias",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture 0a5e8624-7d38-46ee-80b2-523e6f4e0f7b (San Jose CR, 2026-04-02)",
+  "description": "Street-level picture on Panoramax, taken 2026-04-02 near San Jose CR by MatthiasMatthias, sequence b9114a80-c64b-4b9a-bdfe-3c6c3fbc4b1c, heading 94. OCR (PP-OCRv3) read: .COSMETICO | Jireh | Jireh",
+  "date": "2026-04-02",
+  "categories": [],
+  "camera_location": [
+    9.9342538,
+    -84.0816609
+  ],
+  "found_by": "panoramax-ocr:San Jose CR",
+  "bytes": 5308172,
+  "width": 4080,
+  "height": 2295,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/0a/5e/86/24/7d38-46ee-80b2-523e6f4e0f7b.jpg",
+  "derivative": "whole 4080x2295 HD picture as served by the Panoramax instance (byte-identical; the service blurs faces and number plates), not cropped"
+}

@@ -1,0 +1,538 @@
+{
+ "c61921730": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ZAMBIA",
+    "lang": "en"
+   },
+   {
+    "text": "MESSIANIC",
+    "lang": "en"
+   },
+   {
+    "text": "FELLOWSHIP",
+    "lang": "en"
+   },
+   {
+    "text": "SUITE 27 3rd FLOOR",
+    "lang": "en"
+   },
+   {
+    "text": "TEL: 234 791",
+    "lang": "en"
+   },
+   {
+    "text": "For Those Who Love Israel",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Zambia Messianic Fellowship",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Hanging painted board on chains under an arcade in central Lusaka, with a blue Star of David at the left; 'rd' is superscript and the last line is in script. Other hanging boards are distractors and alternative targets: 'NET WAVE INTERNET CAFE & BUSINESS CENTRE / Wireless Technologies / BARBER SHOP' and 'ABYSSINIA COMPUTER CENTRE / Dealers In Computers & Accessories'; brand stickers (SAMSUNG, LG, D-Link, hp) on the shutters."
+ },
+ "c88929400": {
+  "accept": false,
+  "reason": "bus/minibus stop pictogram with only the letter 'R'; no stop name (shop fascias in the background are small)"
+ },
+ "c136470584": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "SOUTH LUANGWA",
+    "lang": "en"
+   },
+   {
+    "text": "NATIONAL PARK",
+    "lang": "en"
+   },
+   {
+    "text": "Size- 9050 km²",
+    "lang": "en"
+   },
+   {
+    "text": "Altitude: 600- 1000m ASL",
+    "lang": "en"
+   },
+   {
+    "text": "Speed Limit- 40km/h",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "South Luangwa National Park",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Hand-painted yellow-on-green panel set in a stone pillar at the Mfuwe park gate. The '²' in 'km²' is a small superscript; spacing after the hyphens follows the sign."
+ },
+ "c88929409": {
+  "accept": false,
+  "reason": "T-junction warning pictogram only; no place text"
+ },
+ "c61921893": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "LUMUMBA ROAD",
+    "lang": "en"
+   },
+   {
+    "text": "KALAMBO ROAD",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Lumumba Road",
+   "type": "street"
+  },
+  "difficulty": "medium",
+  "notes": "Large blue-framed street-name panel with an advertiser's phone strip above ('Tel: 211 287 652', top cut off) and small 'ZID015/2' and 'PRIMEDIA' tags; a smaller 'KALAMBO ROAD' plate below is angled away. Traffic light in the foreground; a yellow 'Pet...' shop sign at the right edge is a distractor."
+ },
+ "c36531602": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "PestalozziWorld",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Pestalozzi World",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Painted maroon-framed entrance sign of the Pestalozzi World school/children's village outside Lusaka, with a 'children around the globe' logo. The name is written as one word in a rounded humanist font with capital P and W."
+ },
+ "c134628986": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "meru",
+    "lang": "en"
+   },
+   {
+    "text": "PETROL",
+    "lang": "en"
+   },
+   {
+    "text": "DIESEL",
+    "lang": "en"
+   },
+   {
+    "text": "24 services",
+    "lang": "en"
+   },
+   {
+    "text": "MERU CARD",
+    "lang": "en"
+   },
+   {
+    "text": "MART",
+    "lang": "en"
+   },
+   {
+    "text": "WASH",
+    "lang": "en"
+   },
+   {
+    "text": "CARE",
+    "lang": "en"
+   },
+   {
+    "text": "LUB",
+    "lang": "en"
+   },
+   {
+    "text": "ATM",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Meru",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Tall red fuel-station totem in Mumbwa. The LED price displays are unlit/unreadable and left out; the tiny 'PETROL-2 : DIESEL-2 :' line at the bottom is not transcribed. Pedestrians on the road at left are incidental."
+ },
+ "c105403884": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Republic of Zambia",
+    "lang": "en"
+   },
+   {
+    "text": "Ministry of General Education",
+    "lang": "en"
+   },
+   {
+    "text": "MPOTA PRIMARY",
+    "lang": "en"
+   },
+   {
+    "text": "SCHOOL",
+    "lang": "en"
+   },
+   {
+    "text": "P.O.Box 730192, KAWAMBWA.",
+    "lang": "en"
+   },
+   {
+    "text": "MOTTO: Imiti Ikula Empanga.",
+    "lang": "bem"
+   }
+  ],
+  "expect": {
+   "query": "Mpota Primary School",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Painted school board on two posts by a dirt road, Kawambwa, in warm low sun. The font draws lowercase 'l' like a small capital L ('RepubLic', 'GeneraL', 'IkuLa'); transcribed as ordinary lowercase. The motto is Bemba (ISO 639-3 'bem'). A small Zambian flag at top right."
+ },
+ "c7925392": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "MUMBULUMA FALLS",
+    "lang": "en"
+   },
+   {
+    "text": "NATIONAL MONUMENT",
+    "lang": "en"
+   },
+   {
+    "text": "ENTRY FEES",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Mumbuluma Falls",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Hand-painted green National Heritage Conservation Commission board near Mansa. Only the name and header lines are transcribed; the fee table (Zambian Residents / Non Residents / Children below 5 Years FREE), 'VISITING HOURS: 08HRS-18HRS' and the script slogan 'A Zambia that Values its heritage for National Development' are secondary."
+ },
+ "c36531485": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "MINISTRY OF HEALTH",
+    "lang": "en"
+   },
+   {
+    "text": "LUDHMT",
+    "lang": "en"
+   },
+   {
+    "text": "KANYAMA",
+    "lang": "en"
+   },
+   {
+    "text": "P.O. BOX 37136, LUSAKA.",
+    "lang": "en"
+   },
+   {
+    "text": "FAX: 236429",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Kanyama",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Weathered white board on two posts in a flooded street in Kanyama, Lusaka (presumably the Kanyama clinic; LUDHMT = Lusaka Urban District Health Management Team). A line under KANYAMA is blacked out and partly peeled; posters stuck on the right half are unreadable. 'zain Top Up Here' A-frame is a distractor."
+ },
+ "c135647429": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "MARULA LODGE",
+    "lang": "en"
+   },
+   {
+    "text": "ZAMBIA",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Marula Lodge",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Slate-grey painted board with cream thin-line capitals and a leaf logo, mounted on a reed fence at Mfuwe."
+ },
+ "c135647431": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "REPUBLIC OF ZAMBIA",
+    "lang": "en"
+   },
+   {
+    "text": "MINISTRY OF EDUCATION",
+    "lang": "en"
+   },
+   {
+    "text": "MFUWE",
+    "lang": "en"
+   },
+   {
+    "text": "PRIMARY SCHOOL",
+    "lang": "en"
+   },
+   {
+    "text": "BOX 4",
+    "lang": "en"
+   },
+   {
+    "text": "MFUWE",
+    "lang": "en"
+   },
+   {
+    "text": "ZONAL CENTRE",
+    "lang": "en"
+   },
+   {
+    "text": "NSEFU ZONE B",
+    "lang": "en"
+   },
+   {
+    "text": "MOTTO",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Mfuwe Primary School",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Painted shield-shaped school sign held by two painted pupil figures (artwork), Mfuwe. The motto ribbon at the bottom ('EDUCATION FOR DISCIPLINE INTEGRITY AND KNOWLEDGE') curves and is partly worn, so it is left out. Pupils in the background are incidental."
+ },
+ "c99390094": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "REPUBLIC OF ZAMBIA",
+    "lang": "en"
+   },
+   {
+    "text": "MINISTRY OF HEALTH",
+    "lang": "en"
+   },
+   {
+    "text": "KALONDA",
+    "lang": "en"
+   },
+   {
+    "text": "R.H.C.",
+    "lang": "en"
+   },
+   {
+    "text": "P.O.BOX 620085 KALOMO",
+    "lang": "en"
+   },
+   {
+    "text": "FORWARD WITH HEALTH",
+    "lang": "en"
+   },
+   {
+    "text": "REFORMS!",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Kalonda Rural Health Centre",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Hand-painted sign on a whitewashed concrete stand at a dirt-road junction, Kalomo District; red 'KALONDA R.H.C.' (Rural Health Centre) and a red right arrow. 'OF' in 'MINISTRY OF HEALTH' is small and raised."
+ },
+ "c32256380": {
+  "accept": false,
+  "reason": "indoor darts-club scoreboard ('TAZARA EXPRESS DARTS CLUB'); not a place a map would contain"
+ },
+ "c89042162": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Kobil",
+    "lang": "en"
+   },
+   {
+    "text": "UNLEADED PETROL",
+    "lang": "en"
+   },
+   {
+    "text": "17.62",
+    "lang": "und"
+   },
+   {
+    "text": "DIESEL",
+    "lang": "en"
+   },
+   {
+    "text": "15.59",
+    "lang": "und"
+   },
+   {
+    "text": "KEROSENE",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Kobil",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Filling-station price totem in Chipata seen from behind a fence. The kerosene price digits are mostly blank (only a final '8' shows) and left out; 'UNLEADED PETROL' is two small stacked lines. A yellow advert board and a fuel tanker in the background are distractors."
+ },
+ "fc15c8a06-4707-4142-8d4e-97478e26f306": {
+  "accept": true,
+  "reason": "",
+  "kind": "hard",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "CLESSY ENTERPRISE",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Clessy Enterprise",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Faded red hand-painted lettering on a cream shop parapet in Lusaka, shot from a moving vehicle (slight blur). A faint mark before the C may be a worn letter or stain; 'ENTERPRISE' is very faded. Coca-Cola and Ajax panels on the parapet, a Zain kiosk at left, and people sitting on the veranda are incidental."
+ },
+ "fadb3f590-3776-490a-a64c-62f3e9bb44dd": {
+  "accept": false,
+  "reason": "shop name cut off at the left edge ('...tores'); the rest is Zain operator branding, dark underexposed shot"
+ },
+ "c177352074": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Nkwashi",
+    "lang": "en"
+   },
+   {
+    "text": "DISCLAIMER OF LIABILITY",
+    "lang": "en"
+   },
+   {
+    "text": "WELCOME TO NKWASHI",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Nkwashi",
+   "type": "place"
+  },
+  "difficulty": "medium",
+  "notes": "Teal board leaning at about 20 degrees by the dam at the Nkwashi development east of Lusaka, with a winged logo above the name. The small serif disclaimer paragraph (Thebe Investment Management Limited ...) is left out. Hazy back-light."
+ },
+ "c149700413": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "M10 Sesheke",
+    "lang": "en"
+   },
+   {
+    "text": "M19 Kazungula",
+    "lang": "en"
+   },
+   {
+    "text": "Botswana",
+    "lang": "en"
+   },
+   {
+    "text": "Zimbabwe",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Kazungula",
+   "type": "place"
+  },
+  "difficulty": "easy",
+  "notes": "Green direction sign at the M10/M19 junction, Kazungula, with yellow route numbers, arrows and a border-post pictogram. Distractors: MoMo (MTN) billboard, 'BORDERGATE Guest Lodge', a 'TREFFPUNKT KAZUNGULA' board and a 'MAGAMBA' lodge sign."
+ }
+}

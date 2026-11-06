@@ -1,0 +1,210 @@
+{
+ "k25464768": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Budapest, Wien",
+    "lang": "und"
+   },
+   {
+    "text": "Brno, Žilina",
+    "lang": "sk"
+   },
+   {
+    "text": "Petržalka",
+    "lang": "sk"
+   },
+   {
+    "text": "Devín",
+    "lang": "sk"
+   },
+   {
+    "text": "Karlova Ves",
+    "lang": "sk"
+   }
+  ],
+  "expect": {
+   "query": "Petržalka",
+   "type": "place"
+  },
+  "difficulty": "easy",
+  "notes": "Blue advance direction sign: green motorway panel (Budapest, Wien / Brno, Žilina) straight ahead, white panel Petržalka, right-turn panel Devín / Karlova Ves. The vertical Chinese characters 城堡 on a restaurant sign above are a distractor; small parking guidance signs at lower left are distractors."
+ },
+ "k31134986": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "niké",
+    "lang": "sk"
+   },
+   {
+    "text": "stávková kancelária",
+    "lang": "sk"
+   }
+  ],
+  "expect": {
+   "query": "Niké",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Orange fascia of a betting shop with the 'niké' logo box at left and grey italic 'stávková kancelária'; repeated on a small orange box on the ground floor. Distractors: 'PRÍSTAV / PASSENGER PORT' direction sign at right, Fio banka, MARTINI and LEKÁREŇ signs at left, a JCDecaux poster. Taken through a windscreen; mirror intrudes at top right."
+ },
+ "p269c250db2": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "1. Československé opevnenie z rokov 1935 - 1938",
+    "lang": "sk"
+   },
+   {
+    "text": "Czechoslovak fortifications from the years 1935 - 1938",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Československé opevnenie",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Outdoor interpretive board on the bunker trail in Petržalka; only the title bar is the target. The body text, map labels (NEMECKO, POLSKO, RAKÚSKO, MAĎARSKO, RUMUNSKO) and the graffiti on the left post are distractors."
+ },
+ "p38eb131c9d": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "HORCHATERIA",
+    "lang": "es"
+   },
+   {
+    "text": "www.tigernutplanet.com",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "Horchateria",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Green window-top banner of a tiger-nut drink café with a tree logo. The side panel ('Gluten free / Lactose free / High fibre / Unsweetened / Vegan') and the vertical background words are distractors."
+ },
+ "p3d4d6fc771": {
+  "accept": false,
+  "reason": "both fascia names are cut off (left by the frame, right by tree leaves); no complete name"
+ },
+ "p45ca1680dd": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Cafe",
+    "lang": "en"
+   },
+   {
+    "text": "Mayer",
+    "lang": "de"
+   }
+  ],
+  "expect": {
+   "query": "Café Mayer",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Black board with the gold script logo 'Cafe Mayer' inside a circle; the lower lines ('Cafe / Cake shop / Own production / Cakes on order') are partly hidden by the top hat of the silver Schöne Náci statue in front, and the small script lines beside the logo are not legible. The statue is a sculpture, not a person."
+ },
+ "p7d5fbb5051": {
+  "accept": false,
+  "reason": "worn bronze memorial plaque about a person; several raised letters unreadable, no mappable place as target"
+ },
+ "pa4e323eb0a": {
+  "accept": false,
+  "reason": "night chalkboard menu (Avocado toast, Latte, Prosecco), menu only"
+ },
+ "pb40228e9aa": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "V TOMTO DOME KONCERTOVAL",
+    "lang": "sk"
+   },
+   {
+    "text": "ROKU 1762",
+    "lang": "sk"
+   },
+   {
+    "text": "AKO ŠESŤROČNÝ",
+    "lang": "sk"
+   },
+   {
+    "text": "WOLFGANG AMADEUS",
+    "lang": "de"
+   },
+   {
+    "text": "MOZART",
+    "lang": "de"
+   },
+   {
+    "text": "1756 - 1791",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "Mozart",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Marble memorial plaque with gilt carved letters on a building (Pálffy palace, Old Town); frontal and sharp. Top lines are smaller and the gilt is worn but legible."
+ },
+ "pebacafa805": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "BERNOLÁK",
+    "lang": "sk"
+   },
+   {
+    "text": "1762 - 1813",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "Bernolák",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Bronze letters on the plinth of the Anton Bernolák bust; the subject's face is a sculpture. A small 'Chránený strom' tag on the tree at left is a distractor."
+ }
+}

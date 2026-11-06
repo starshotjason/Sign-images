@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=741c0836-5663-4848-944c-04f8bbd31e79",
+  "original_url": "https://panoramax.openstreetmap.fr/images/74/1c/08/36/5663-4848-944c-04f8bbd31e79.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "contrapunctus",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture 741c0836-5663-4848-944c-04f8bbd31e79 (Bengaluru, 2025-09-22)",
+  "description": "Street-level picture taken 2025-09-22 near Bengaluru by contrapunctus, sequence b2c40344-a53d-4203-a463-40ef73ce7b77, heading 28. OCR (PP-OCRv3) read: POLICE TRAFFIC PARK | ED&MAINTAINEDBY | FOR CHILDREN | DEVELO | ANI GROUP | POLICETRAFFICPARS | VASWANI | VASWANI",
+  "date": "2025-09-22",
+  "categories": [],
+  "camera_location": [
+    12.973067972,
+    77.601007972
+  ],
+  "found_by": "panoramax-ocr:Bengaluru",
+  "bytes": 4117066,
+  "width": 4096,
+  "height": 3072,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/74/1c/08/36/5663-4848-944c-04f8bbd31e79.jpg",
+  "derivative": "whole 4096x3072 HD picture as served by the Panoramax instance (byte-identical; the instance blurs faces and number plates), not cropped"
+}

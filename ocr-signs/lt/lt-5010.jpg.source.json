@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.mapcomplete.org/#focus=pic&pic=18a3d648-49bb-4bd1-ae8e-672d41bca7b6",
+  "original_url": "https://panoramax.mapcomplete.org/permanent/18/a3/d6/48/49bb-4bd1-ae8e-672d41bca7b6.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "mapcomplete",
+  "credit_as_published": "Panoramax, instance mapcomplete (https://panoramax.mapcomplete.org)",
+  "title": "Panoramax picture 18a3d648-49bb-4bd1-ae8e-672d41bca7b6 (Vilnius, 2026-06-19)",
+  "description": "Street-level picture on Panoramax, taken 2026-06-19 near Vilnius by mapcomplete, sequence a7cf963f-8d1c-4bac-9717-e3149f5f9fff, heading 58. OCR (PP-OCRv3) read: GEDIMUINAS | LIETUVOS DIDYSIS KUNIGAIKSTIS",
+  "date": "2026-06-19",
+  "categories": [],
+  "camera_location": [
+    54.686683644,
+    25.299079964
+  ],
+  "found_by": "panoramax-ocr:Vilnius",
+  "bytes": 4228777,
+  "width": 3072,
+  "height": 3438,
+  "downloaded_url": "https://panoramax.mapcomplete.org/permanent/18/a3/d6/48/49bb-4bd1-ae8e-672d41bca7b6.jpg",
+  "derivative": "crop 0,615,3072,4053 of the 3072x4080 HD picture"
+}

@@ -1,0 +1,350 @@
+{
+ "p450cd667a1": {
+  "accept": true,
+  "reason": "",
+  "kind": "building tag",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "LINDAU NOBE",
+    "lang": "de"
+   },
+   {
+    "text": "www.lindau-no",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "Lindau Nobel",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Fascia over the entrance of the Lindau Nobel Laureate Meetings office/'Nobel Heroes' exhibition, Berlin; cut by the right frame edge so only 'LINDAU NOBE[L ...]' and 'www.lindau-no[bel.org]' are visible. The vertical 'NOBEL HEROES' door graphic and the portrait are distractors."
+ },
+ "p835f6d651d": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "FUNK YOU",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Funk You",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Green square blade sign with a pink palm-tree roundel, Berlin-Mitte; the name also appears as dark letters on the facade above ('FUNK YOU / NATURAL FOOD / AND COFFEE'). The 'AÇAÍ BOWL' flag banner, 'COLOMBIAN COFFEE' window text, graffiti and doorbell plates are distractors."
+ },
+ "p74abc656e4": {
+  "accept": true,
+  "reason": "",
+  "kind": "transit",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Jelbi",
+    "lang": "de"
+   },
+   {
+    "text": "EINE FÜR ALLE.",
+    "lang": "de"
+   },
+   {
+    "text": "Torstraße/",
+    "lang": "de"
+   },
+   {
+    "text": "U Rosenthaler Platz",
+    "lang": "de"
+   }
+  ],
+  "expect": {
+   "query": "Rosenthaler Platz",
+   "type": "stop"
+  },
+  "difficulty": "easy",
+  "notes": "Yellow BVG Jelbi mobility-station sign naming the location, Berlin; the small body text (app instructions, terms of use) is not transcribed. 'HAGIUS' window lettering and the brass tenant plates (ZUCKER. markengold, KOBALT, ...) are distractors."
+ },
+ "k141970041": {
+  "accept": false,
+  "reason": "bus side advertising ('EINER GEHT NOCH...') through a windscreen; no place sign"
+ },
+ "peced3fed0f": {
+  "accept": true,
+  "reason": "",
+  "kind": "transit",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "M1 Rosenthal Nord",
+    "lang": "de"
+   },
+   {
+    "text": "M1 Niederschönhausen Schillerstraße",
+    "lang": "de"
+   },
+   {
+    "text": "M5 S+U-Bhf Hauptbahnhof",
+    "lang": "de"
+   },
+   {
+    "text": "S-Bahnhof Hackescher Markt",
+    "lang": "de"
+   },
+   {
+    "text": "Tarifbereich A",
+    "lang": "de"
+   }
+  ],
+  "expect": {
+   "query": "Hackescher Markt",
+   "type": "stop"
+  },
+  "difficulty": "hard",
+  "notes": "Yellow BVG tram-stop pillar (green H roundel) at S Hackescher Markt, Berlin, under a dark storm sky; the line/destination text is small. Stop name is 'S-Bahnhof Hackescher Markt'. 'BVG' plate, BSR litter bin ('Service Center 030 7592-4900, www.BSR.de') and 'GASA...' shop sign are distractors."
+ },
+ "pfa781ace50": {
+  "accept": false,
+  "reason": "boat-trip price board cut at the bottom, with Berlin Cathedral behind; tour advert, no named place on the sign"
+ },
+ "pa669d9fb4c": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "park inn",
+    "lang": "en"
+   },
+   {
+    "text": "Radisson",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Park Inn",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Rooftop logo of the Park Inn by Radisson tower at Alexanderplatz, Berlin, seen through a rain/snow-streaked window; the small 'Radisson' script under it is hard to read. Station roof in the foreground."
+ },
+ "p3788544c70": {
+  "accept": false,
+  "reason": "construction-hoist company banner on a building-site fence; advertising"
+ },
+ "k3418257": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "NOVOTEL",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Novotel",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "White rooftop letters on a hotel, Berlin, seen from the road with trees in front; a smaller 'Novotel' logo runs vertically on the side facade."
+ },
+ "p6f1a79edb1": {
+  "accept": false,
+  "reason": "recruitment adverts in shop windows (recrew); advertising copy"
+ },
+ "c179091635": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Friedrich-Bayer-Str.",
+    "lang": "de"
+   }
+  ],
+  "expect": {
+   "query": "Friedrich-Bayer-Straße",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Weathered white street blade with black DIN letters on a pole, Leverkusen; a blue scribble under 'Friedrich' is graffiti. The upper, angled blade 'Carl-Duisberg-Str.' is a second street name."
+ },
+ "c107812552": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "H. KRIMPHOVE",
+    "lang": "de"
+   }
+  ],
+  "expect": {
+   "query": "Krimphove",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Wrought-iron cantilever guild sign of the Krimphove bakery, Michaelisplatz, Münster: baker figure holding a gilded pretzel above a black name panel with gold serif letters. Lambertikirche tower blurred behind."
+ },
+ "c107812544": {
+  "accept": false,
+  "reason": "near-duplicate of c107812552 (same Krimphove bakery cantilever sign, same angle)"
+ },
+ "c19313081": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Mörfelden-Walldorf",
+    "lang": "de"
+   },
+   {
+    "text": "Stadtteil Walldorf",
+    "lang": "de"
+   },
+   {
+    "text": "Kreis Groß-Gerau",
+    "lang": "de"
+   }
+  ],
+  "expect": {
+   "query": "Walldorf",
+   "type": "place"
+  },
+  "difficulty": "easy",
+  "notes": "Yellow German town-entry sign (Zeichen 310) in a tubular frame, frontal; has ö and ß."
+ },
+ "c141757053": {
+  "accept": false,
+  "reason": "faded GDR-era ghost lettering ('HO Diät HO') of a long-closed state shop, Dresden; not a current mappable business"
+ },
+ "c117016360": {
+  "accept": false,
+  "reason": "church exterior view with no name sign; only tiny street blades and graffiti on a utility box"
+ },
+ "c179091637": {
+  "accept": false,
+  "reason": "near-duplicate of c179091635 (same Friedrich-Bayer-Str. street blade, Leverkusen, closer view)"
+ },
+ "c179091638": {
+  "accept": false,
+  "reason": "near-duplicate of c179091635 (same Friedrich-Bayer-Str. street blade, wider view)"
+ },
+ "c27863572": {
+  "accept": false,
+  "reason": "pictorial inn sign (golden cup in vine wreath) with no text"
+ },
+ "c84136711": {
+  "accept": false,
+  "reason": "dog-park rules sign ('Hundeauslauffläche ... Stadt Karlsruhe Gartenbauamt'); generic facility notice, names no specific place"
+ },
+ "c161111346": {
+  "accept": false,
+  "reason": "lane-guidance sign ('Einordnen', crossed out) with route-number signs U69/U4; no place name"
+ },
+ "c135982825": {
+  "accept": true,
+  "reason": "",
+  "kind": "transit",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Abfahrt Departure",
+    "lang": "de"
+   },
+   {
+    "text": "Linie Ziel Gleis A B C in Min",
+    "lang": "de"
+   },
+   {
+    "text": "S3 Mammendorf 1 4",
+    "lang": "de"
+   },
+   {
+    "text": "S3 Holzkirchen 1 15",
+    "lang": "de"
+   },
+   {
+    "text": "S3 Mammendorf 1 23",
+    "lang": "de"
+   },
+   {
+    "text": "in den Nächten 4./5 - 10./11. und 21",
+    "lang": "de"
+   }
+  ],
+  "expect": {
+   "query": "Mammendorf",
+   "type": "place"
+  },
+  "difficulty": "medium",
+  "notes": "Platform departure display at Malching S-Bahn halt (S3, Munich); the station name itself is not shown, only destinations. 'Abfahrt' is partly faded (only 'Ab' bright). LED dot-matrix rows; the scrolling notice is cut off ('... und 21'). Platform sign 'A 1' below is a distractor."
+ },
+ "c78720613": {
+  "accept": false,
+  "reason": "waterway no-anchoring sign with '1200m' panel on the Elbe; pictogram and distance only, no place name"
+ },
+ "c135982824": {
+  "accept": false,
+  "reason": "DB 'Rauchfreier Bahnhof / Non-Smoking Station' rules notice; no station or place name"
+ },
+ "c114616582": {
+  "accept": false,
+  "reason": "pedestrian-path pictogram with 'Radfahren und Skaten verboten' supplementary plate; regulation only, no place name"
+ },
+ "c124789892": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Seegers & Sohn",
+    "lang": "de"
+   },
+   {
+    "text": "Wir weben. Seit 1765.",
+    "lang": "de"
+   }
+  ],
+  "expect": {
+   "query": "Seegers & Sohn",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Blue company-name board with a woven-square logo on the wall of the linen weaving mill in Steinhude (Wunstorf, Lower Saxony); tight frontal crop."
+ }
+}

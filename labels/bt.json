@@ -1,0 +1,649 @@
+{
+  "c182398075": {
+    "accept": false,
+    "reason": "banner crop (1600x228 strip) of c23132312: sign text cut off"
+  },
+  "c23132312": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Tibt",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "WEL COME TO ROYAL MANAS NATIONAL PARK",
+        "lang": "en"
+      },
+      {
+        "text": "ROYAL GOVERNMENT OF BHUTAN",
+        "lang": "en"
+      },
+      {
+        "text": "MINISTRY OF AGRICULTURE",
+        "lang": "en"
+      },
+      {
+        "text": "DEPARTMENT OF FOREST",
+        "lang": "en"
+      },
+      {
+        "text": "MANAS RANGE",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Royal Manas National Park",
+      "type": "place"
+    },
+    "difficulty": "hard",
+    "notes": "Painted wooden entrance board of Royal Manas National Park, mid-distance. Paint is weathered: in the first line 'O ROYAL' and 'NA' of NATIONAL are mostly faded and the final K of PARK is lost at the edge. Four small Dzongkha lines above the English are too small and faded at 1600 px to transcribe and are NOT included. WWF logo bottom right; a person and a van in the background."
+  },
+  "c35883476": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Tibt",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "༄ འོམ་ནང་མི་སྡེ་སློབ་གྲྭ་ཆུང་བ།",
+        "lang": "dz",
+        "latin": "Womnang mide lobdra chungwa (Womanang community primary school)"
+      },
+      {
+        "text": "བཀྲིས་གཡང་རྩེ།",
+        "lang": "dz",
+        "latin": "Trashi Yangtse"
+      },
+      {
+        "text": "Womanang Com. Pry. School",
+        "lang": "en"
+      },
+      {
+        "text": "Trashiyangtse",
+        "lang": "en"
+      },
+      {
+        "text": "Estd 16~4~2000.",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Womanang",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Hand-painted red school board. Dzongkha line 1 starts with a head mark (yig mgo, transcribed as ༄); its first letter is read as a-chung (འོམ, pronounced 'wom'); the last letter before the shad is read as བ. Line 2 uses the contracted spelling བཀྲིས (for བཀྲ་ཤིས). Date separators are tildes."
+  },
+  "c61928696": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Tibt",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "དཔལ་ལྡན་འབྲུག་གཞུང་།",
+        "lang": "dz",
+        "latin": "Pelden Druk Zhung (Royal Government of Bhutan)"
+      },
+      {
+        "text": "སོ་ནམ་དང་ནགས་ཚལ་ལྷན་ཁག།",
+        "lang": "dz",
+        "latin": "Sonam dang Nagtshel Lhenkhag (Ministry of Agriculture and Forests)"
+      },
+      {
+        "text": "སྒོ་ནོར་ལས་ཁུངས།",
+        "lang": "dz",
+        "latin": "Gonor Lekhung (Department of Livestock)"
+      },
+      {
+        "text": "རྫོང་ཁག་སྒོ་ནོར་སྨན་ཁང་།",
+        "lang": "dz",
+        "latin": "Dzongkhag Gonor Menkhang (District veterinary hospital)"
+      },
+      {
+        "text": "ཉ་མེད་ཟམ་པ སྤ་རོ",
+        "lang": "dz",
+        "latin": "Nyamey Zampa, Paro"
+      },
+      {
+        "text": "ROYAL GOVERNMENT OF BHUTAN",
+        "lang": "en"
+      },
+      {
+        "text": "MINISTRY OF AGRICULTURE & FOREST",
+        "lang": "en"
+      },
+      {
+        "text": "DEPARTMENT OF LIVESTOCK",
+        "lang": "en"
+      },
+      {
+        "text": "DZONGKHAG VETERINARY HOSPITAL",
+        "lang": "en"
+      },
+      {
+        "text": "NEMIZAMPA, PARO",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Dzongkhag Veterinary Hospital",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Red printed board, frontal and sharp, Paro. Logos left (seedling) and right (blue cross). In the last Dzongkha line there is a space (no visible tsek) between ཟམ་པ and སྤ་རོ."
+  },
+  "c65034428": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn",
+      "Tibt"
+    ],
+    "lines": [
+      {
+        "text": "BHUTAN POST",
+        "lang": "en"
+      },
+      {
+        "text": "SARPANG",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Sarpang post office",
+      "type": "poi"
+    },
+    "difficulty": "hard",
+    "notes": "Name board at the top of Sarpang post office (1280 px photo, board small in frame). A short Dzongkha line at the board's top right and a cut-off 'POST' logo top left are too small to transcribe. Distractors: 'POST OFFICE / Education for every girl and boy' poster at left, red post box at right. Two staff and children stand in the doorway (incidental, not the subject)."
+  },
+  "c79413453": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Tibt",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "བྱོན་པ་ལེགས་སོ།",
+        "lang": "dz",
+        "latin": "Jönpa legso (Welcome)"
+      },
+      {
+        "text": "WELCOME TO",
+        "lang": "en"
+      },
+      {
+        "text": "T/YANGTSE",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Trashiyangtse",
+      "type": "place"
+    },
+    "difficulty": "medium",
+    "notes": "Welcome message painted on a green boulder at the entrance of Trashiyangtse town; 'T/YANGTSE' abbreviates Trashi Yangtse, and its G is painted without a bar (looks like C). 'WELCOMETO' is painted with almost no space. The first Dzongkha syllable is crudely painted (read as བྱོན, the standard welcome phrase); the other syllables are clear. Distractors: 'DZONG' arrow board, blue police surveillance notice, 'LET'S KEEP YANGTSE CLEAN' stones."
+  },
+  "c83995052": {
+    "accept": false,
+    "reason": "prohibition notice ('Please do not spit on the wall'), no place name"
+  },
+  "c71432597": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Tibt",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "རྒྱལ་དབང་ལམ། ༢-༡༢",
+        "lang": "dz",
+        "latin": "Gyelwang Lam 2-12"
+      },
+      {
+        "text": "GYELWANG LAM 2-12",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Gyelwang Lam",
+      "type": "street"
+    },
+    "difficulty": "easy",
+    "notes": "Red/yellow arrow street sign in Thimphu. Dzongkha uses Tibetan digits ༢-༡༢. Faded remains of older lettering (a Dzongkha cluster at left, 'LAM' at right) show through the paint."
+  },
+  "c35553436": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Tibt",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "༄ ཁམས་གསུམ་གཡུལ་ལས་",
+        "lang": "dz",
+        "latin": "Khamsum Yulley (victorious over the three realms)"
+      },
+      {
+        "text": "རྣམ་རྒྱལ་མཆོད་རྟེན་ཀྱི་ཕྱིན་ལམ།",
+        "lang": "dz",
+        "latin": "Namgyal Choeten kyi chinlam (path to Namgyal Chorten)"
+      },
+      {
+        "text": "TO KHAMSUM YULLEY",
+        "lang": "en"
+      },
+      {
+        "text": "NAMGYAL CHOETEN.",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Khamsum Yulley Namgyal Chorten",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Painted direction panel set in a wall (Punakha valley), arrow pointing left. Line 1 starts with a head mark (transcribed ༄). The second-to-last syllable of Dzongkha line 2 is read as ཕྱིན (ph vs b not fully certain in the brush lettering); the rest is clear."
+  },
+  "c36513003": {
+    "accept": false,
+    "reason": "health-awareness notice (STD/HIV), no place name as target"
+  },
+  "c36977569": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Tibt",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "འབྲུག་རྒྱལ་ཡོངས་དཔེ་མཛོད་དང་ཡིག་རིགས་གཏན་འཇོག་ཁང་།",
+        "lang": "dz",
+        "latin": "Druk Gyelyong Pemdzö dang Yigrig Tenjog Khang (National Library and Archives of Bhutan)"
+      },
+      {
+        "text": "སྲོལ་འཛིན་ལས་ཁུངས།",
+        "lang": "dz",
+        "latin": "Söldzin Lekhung (Department of Culture)"
+      },
+      {
+        "text": "ནང་སྲིད་དང་སྲོལ་འཛིན་ལྷན་ཁག།",
+        "lang": "dz",
+        "latin": "Nangsi dang Söldzin Lhenkhag (Ministry of Home and Cultural Affairs)"
+      },
+      {
+        "text": "NATIONAL LIBRARY & ARCHIVES OF BHUTAN",
+        "lang": "en"
+      },
+      {
+        "text": "DEPARTMENT OF CULTURE",
+        "lang": "en"
+      },
+      {
+        "text": "MoHCA",
+        "lang": "en"
+      },
+      {
+        "text": "THIMPHU : BHUTAN",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "National Library of Bhutan",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Large maroon name board, frontal, Thimphu. Only the name block is labelled; the Dzongkha visiting-hours line and the small English visiting hours / phone / email / bookshop lines below are not transcribed."
+  },
+  "c36978639": {
+    "accept": false,
+    "reason": "'SCHOOL AHEAD' warning sign: no place name"
+  },
+  "c39168185": {
+    "accept": false,
+    "reason": "carved auspicious-symbol roundels, no text"
+  },
+  "c39168187": {
+    "accept": false,
+    "reason": "carved auspicious-symbol roundels, no text"
+  },
+  "c71645079": {
+    "accept": false,
+    "reason": "visitor notice paragraph; the dzong is not named in large text and the Dzongkha is too small to read"
+  },
+  "c99194465": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Tibt",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "༄ འབྲུག་ཤེས་རབ་འཕྲུལ་རིག་གླིང་།",
+        "lang": "dz",
+        "latin": "Druk Sherab Thrulrig Ling (Bhutan education and technology park)"
+      },
+      {
+        "text": "THE BHUTAN EDUCATION AND TECHNOLOGY ACADEMY PARK PRIVATE LIMITED",
+        "lang": "en"
+      },
+      {
+        "text": "The Future Begins Here!",
+        "lang": "en"
+      },
+      {
+        "text": "Estd. 2nd November 2020",
+        "lang": "en"
+      },
+      {
+        "text": "PO Box No. 1711, Chamjeykha, Kabisa, Kawang, Thimphu - 11001",
+        "lang": "en"
+      },
+      {
+        "text": "EPABX: + 975 2 360183 / 360184 / 360185 \\\\ www.betapark.bt \\\\ hello@betapark.bt",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Bhutan Education and Technology Academy Park",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Red entrance board of BETA Park, Kabisa (Thimphu). Dzongkha line starts with a head mark (transcribed ༄). 'nd' of 2nd is superscript. Separators in the contact line are double backslashes. A partly hidden 'NO TRESPASSING ... SITE VISIT' board at right is a distractor."
+  },
+  "c106121380": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Tibt",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "སྤ་རོ་ཁྲོམ།",
+        "lang": "dz",
+        "latin": "Paro throm (Paro town)"
+      },
+      {
+        "text": "PARO TOWN",
+        "lang": "en"
+      },
+      {
+        "text": "06",
+        "lang": "und"
+      },
+      {
+        "text": "སྤ་རོ་གནམ་ཐང་།",
+        "lang": "dz",
+        "latin": "Paro namthang (Paro airport)"
+      },
+      {
+        "text": "PARO AIRPORT",
+        "lang": "en"
+      },
+      {
+        "text": "འབྲུག་རྒྱལ་རྫོང་།",
+        "lang": "dz",
+        "latin": "Drukgyel Dzong"
+      },
+      {
+        "text": "DRUGYEL DZONG",
+        "lang": "en"
+      },
+      {
+        "text": "22",
+        "lang": "und"
+      }
+    ],
+    "expect": {
+      "query": "Paro Airport",
+      "type": "poi"
+    },
+    "difficulty": "hard",
+    "notes": "Three green overhead direction panels at a junction near Paro, small in frame (mid-distance). Panels read left to right; distances 06 and 22 km with turn arrows. Drukgyel Dzong is spelled 'DRUGYEL' on the sign."
+  },
+  "c133239131": {
+    "accept": false,
+    "reason": "community-forest board is small and far; most of its text is illegible; people are prominent"
+  },
+  "c61925463": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Tibt",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "TSIMASHAM",
+        "lang": "en"
+      },
+      {
+        "text": "91",
+        "lang": "und"
+      },
+      {
+        "text": "དཔག་བསམ་ཁ།",
+        "lang": "dz",
+        "latin": "Pagsam kha (Pasakha)"
+      },
+      {
+        "text": "PASAKHA",
+        "lang": "en"
+      },
+      {
+        "text": "10",
+        "lang": "und"
+      },
+      {
+        "text": "རིན་ཆེན་ལྡིང་།",
+        "lang": "dz",
+        "latin": "Rinchen ding (Rinchending)"
+      },
+      {
+        "text": "RINCHENDING",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Rinchending",
+      "type": "place"
+    },
+    "difficulty": "medium",
+    "notes": "Three green highway direction panels on a gantry near Phuentsholing, shot from below. The Dzongkha line on the Tsimasham panel (four syllables) is not transcribed: its letters are too uncertain at this size. The T of TSIMASHAM carries a small dot/accent below it."
+  },
+  "c84176220": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "BRIDGE NAME : BJEE ZAM",
+        "lang": "en"
+      },
+      {
+        "text": "CAPACITY : 40 tons",
+        "lang": "en"
+      },
+      {
+        "text": "BRIDGE LENGTH : 43.00 M",
+        "lang": "en"
+      },
+      {
+        "text": "CARRIAGE WAY : 5.50 M",
+        "lang": "en"
+      },
+      {
+        "text": "BRIDGE TYPE : PONY TRUSS",
+        "lang": "en"
+      },
+      {
+        "text": "COMPLETED : MARCH 2004",
+        "lang": "en"
+      },
+      {
+        "text": "DEPARTMENT OF ROADS",
+        "lang": "en"
+      },
+      {
+        "text": "MINISTRY OF COMMUNICATIONS",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Bjee Zam",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Steel bridge plaque (Trongsa district); the target is the right-hand data panel. The left panel (Bhutan and Japan flags, 'THE JAPANESE OFFICIAL DEVELOPMENT ASSISTANCE PROJECT ...', small Dzongkha and Japanese dedication, 2004. 3) is a distractor and not transcribed."
+  },
+  "c71400223": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Tibt",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "༄ རྒྱལ་འཛིན་འབྲོང་གྱིམ་ཙེ་རྒྱུན་སྐྱོང་ས་ཁོངས།",
+        "lang": "dz",
+        "latin": "Gyeldzin dronggyimtse gyünkyong sakhong (Royal takin preserve)"
+      },
+      {
+        "text": "མུ་ཏིག་ཐང་།",
+        "lang": "dz",
+        "latin": "Mutigthang (Motithang)"
+      },
+      {
+        "text": "ROYAL TAKIN PRESERVE",
+        "lang": "en"
+      },
+      {
+        "text": "MOTITHANG",
+        "lang": "en"
+      },
+      {
+        "text": "THIMPHU : BHUTAN",
+        "lang": "en"
+      },
+      {
+        "text": "DEPARTMENT OF FOREST AND PARK SERVICES",
+        "lang": "en"
+      },
+      {
+        "text": "MINISTRY OF AGRICULTURE AND FORESTS",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Royal Takin Preserve",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Red entrance board set in a tiled wall, Motithang (Thimphu); emblems left and right. Dzongkha line 1 starts with a head mark (transcribed ༄). In the takin word the syllable read as ཙེ could be ཚེ (the aspirated form); checker should confirm. Emblem micro-text not transcribed."
+  },
+  "c52928399": {
+    "accept": false,
+    "reason": "advertising banner (handicrafts, phone numbers) with no shop name"
+  },
+  "fbe14688f-7f93-4807-8269-b88829eaf6b6": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Tibt",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "བསོད་ནམས་བཀྲ་ཤི་སྣ་ཚོགས་ཚོང་ཁང་",
+        "lang": "dz",
+        "latin": "Sönam Tashi natshog tshongkhang (Sonam Tashi general store)"
+      },
+      {
+        "text": "སྤ་རོ་ཚོང་འདུས་ཁྲོམ་།",
+        "lang": "dz",
+        "latin": "Paro tshongdü throm (Paro bazaar town)"
+      },
+      {
+        "text": "SONAM TASHI GENERAL STORE",
+        "lang": "en"
+      },
+      {
+        "text": "SHOP No-10 PARO BAZAR",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Sonam Tashi General Store",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Blue cloth banner over a shop in Paro bazaar, slightly wrinkled. 'བཀྲ་ཤི' is written without the final ས on the sign. The two small lines below ('...als in all kinds of: UTAINSIL, STATIONERIES, SPORTS GOODS, GIFT ITEMS, / ...SMETICS ITEMS, GROCERY ITEMS &etc. Ph.No:271356.') are cut at the left edge and not part of the label."
+  },
+  "f917b8fac-10a4-4ad4-9b86-d24518d9dca6": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Tibt",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "༄ ནོར་བཟང་ལག་བཟོ་ཚོང་ཁང་།",
+        "lang": "dz",
+        "latin": "Norzang lagzo tshongkhang (Norzang handicraft shop)"
+      },
+      {
+        "text": "NORZANG HANDICRAFT",
+        "lang": "en"
+      },
+      {
+        "text": "Paro Town: Bhutan",
+        "lang": "en"
+      },
+      {
+        "text": "Phone No.: +975-8-271608 / 17612007",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Norzang Handicraft",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Blue lit shop board over the door of a painted building in Paro town, wide-angle dusk shot. Dzongkha line starts with a head mark (transcribed ༄). The round 'SONAM TROPHEL RESTAURANT' hanging sign at right is a distractor; shoppers in the doorway and passers-by at right are incidental."
+  },
+  "fee7a3863-8d71-4bc7-8268-700883d9518d": {
+    "accept": false,
+    "reason": "people trying on clothes are the subject; no sign"
+  }
+}

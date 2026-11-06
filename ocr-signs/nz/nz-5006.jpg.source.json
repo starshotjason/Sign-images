@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=aab834c4-c4a3-450b-a76d-3522e044ba0f",
+  "original_url": "https://panoramax.openstreetmap.fr/images/aa/b8/34/c4/c4a3-450b-a76d-3522e044ba0f.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "Alixun",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture aab834c4-c4a3-450b-a76d-3522e044ba0f (Wellington, 2025-04-09)",
+  "description": "Street-level picture on Panoramax, taken 2025-04-09 near Wellington by Alixun, sequence a2b5f07b-d3f1-49f8-8852-aae35fdef694, heading 328. OCR (PP-OCRv3) read: HOTELCRAD | www.outletcity.co.nz | GOMedia",
+  "date": "2025-04-09",
+  "categories": [],
+  "camera_location": [
+    -41.2846477,
+    174.7755352
+  ],
+  "found_by": "panoramax-ocr:Wellington",
+  "bytes": 1476177,
+  "width": 3793,
+  "height": 1836,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/aa/b8/34/c4/c4a3-450b-a76d-3522e044ba0f.jpg",
+  "derivative": "crop 0,0,3793,1836 of the 4080x1836 HD picture"
+}

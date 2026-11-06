@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.osm-hr.org/#focus=pic&pic=c5f24a11-8899-4e7d-9f3d-9d2edf5889e8",
+  "original_url": "https://panoramax.osm-hr.org/permanent/c5/f2/4a/11/8899-4e7d-9f3d-9d2edf5889e8.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "Julia Keil-Voss",
+  "credit_as_published": "Panoramax, instance osm-hr (https://panoramax.osm-hr.org)",
+  "title": "Panoramax picture c5f24a11-8899-4e7d-9f3d-9d2edf5889e8 (Belgrade, 2026-08-03)",
+  "description": "Street-level picture on Panoramax, taken 2026-08-03 near Belgrade by Julia Keil-Voss, sequence 3ef238b8-080b-4934-b939-8a93c1c97a39, heading 314. OCR (PP-OCRv3) read: ciciban | [unread] cicibanc | [unread] XERGNEMNR | [unread] SHOPPINGOS | MILLENNUI | NOOSNOW",
+  "date": "2026-08-03",
+  "categories": [],
+  "camera_location": [
+    44.816388,
+    20.459382972
+  ],
+  "found_by": "panoramax-ocr:Belgrade",
+  "bytes": 634119,
+  "width": 2016,
+  "height": 1512,
+  "downloaded_url": "https://panoramax.osm-hr.org/permanent/c5/f2/4a/11/8899-4e7d-9f3d-9d2edf5889e8.jpg",
+  "derivative": "crop 2063,1001,4079,2513 of the 4080x3060 HD picture"
+}

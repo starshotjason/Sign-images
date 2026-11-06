@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/1284063/173/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlOS5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE4LzgvMzAvcHJvYy8xMjg0MDYzXzJfN2Y2OTlfNDYuanBn",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "konstantinos-egkarchos",
+  "credit_as_published": "KartaView user konstantinos-egkarchos (user id 15257); © KartaView contributors",
+  "title": "KartaView photo 306594939, sequence 1284063 #173 (Athens, 2018-08-30)",
+  "description": "Street-level picture on KartaView, taken 2018-08-30 near Athens by konstantinos-egkarchos, sequence 1284063, heading 50.32. OCR (PP-OCRv3) read: APMAKEION | APNAOYTAKH",
+  "date": "2018-08-30",
+  "categories": [],
+  "camera_location": [
+    37.982095,
+    23.735222
+  ],
+  "found_by": "kartaview-ocr:Athens",
+  "bytes": 743481,
+  "width": 3840,
+  "height": 2160,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlOS5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE4LzgvMzAvcHJvYy8xMjg0MDYzXzJfN2Y2OTlfNDYuanBn",
+  "derivative": "whole 3840x2160 full-size processed (blurred) picture as served by the KartaView CDN (byte-identical; the service blurs faces and number plates), not cropped"
+}

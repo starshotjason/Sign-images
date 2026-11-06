@@ -1,0 +1,122 @@
+{
+ "k276142563": {
+  "accept": false,
+  "reason": "only text is ambulance/fire-brigade vehicle branding; street signs too small"
+ },
+ "k276142729": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "LARGO",
+    "lang": "pt"
+   },
+   {
+    "text": "BARÃO",
+    "lang": "pt"
+   },
+   {
+    "text": "QUINTELA",
+    "lang": "pt"
+   }
+  ],
+  "expect": {
+   "query": "Largo do Barão de Quintela",
+   "type": "street"
+  },
+  "difficulty": "hard",
+  "notes": "White enamel/stone street plate high on a building corner, small in frame. Tiny connector words between the lines (probably 'DO' and 'DE') and a small bottom line are not legible, so they are left out. Direction signs 'P Pq. Camões' and 'C. Sodré' below are distractors (letters partly masked by blur spots); ambulance and fire-brigade vehicle lettering at left are distractors."
+ },
+ "k294001127": {
+  "accept": false,
+  "reason": "direction sign cut off by the frame edge ('...q. Pombal'); no complete sign"
+ },
+ "k306264635": {
+  "accept": false,
+  "reason": "street-furniture advertising poster (Danone yogurt), pure advert"
+ },
+ "p3738195b0d": {
+  "accept": true,
+  "reason": "",
+  "kind": "transit",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "BILHETES E PASSES",
+    "lang": "pt"
+   },
+   {
+    "text": "Tickets and Passes",
+    "lang": "en"
+   },
+   {
+    "text": "COMBOIOS DE PORTUGAL",
+    "lang": "pt"
+   }
+  ],
+  "expect": {
+   "query": "Comboios de Portugal",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Row of three CP ticket machines in a Lisbon railway station hall (train visible at left). Header panels repeat 'BILHETES E PASSES / Tickets and Passes'; the yellow-green panels read 'PAGAMENTO COM DINHEIRO E CARTÃO BANCÁRIO / Cash and Bank card payment' (small, distractor). The sign names the operator, not the station."
+ },
+ "p3c13fae1ca": {
+  "accept": false,
+  "reason": "near-duplicate of p3738195b0d (same CP ticket machines, same station, same text)"
+ },
+ "p5e3021b03d": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ZARA",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "Zara",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Black projecting box sign with silver serif letters, seen from below. 'SALSA JEANS' box sign below is a second business; a small white street plate 'RUA DA VITÓRIA' (accent faint) on the wall at left is a distractor."
+ },
+ "p879517d4f4": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "CASA BRASILEIRA",
+    "lang": "pt"
+   }
+  ],
+  "expect": {
+   "query": "Casa Brasileira",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Blue capital letters on the fascia of a pastry shop/café, at an oblique angle along a pedestrian street. 'Casa Brasileira / Fabrico Próprio' repeats small on the awning; an A-board at left also carries the name (partly cut). A face-blurred person with a cardboard sign walks in the foreground (incidental)."
+ },
+ "pa33543dd7b": {
+  "accept": false,
+  "reason": "awning text is folded/blurred at the cedilla (Doçaria) and the fascia panel is cut by the frame; characters not verifiable"
+ },
+ "pc52129cc46": {
+  "accept": false,
+  "reason": "restaurant menu sheet (Jamie Oliver's Pizzeria), not a sign"
+ }
+}

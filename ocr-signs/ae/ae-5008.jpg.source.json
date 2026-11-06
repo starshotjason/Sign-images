@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/4574937/328/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMi8yLzI0L3Byb2MvNDU3NDkzN182OTgyOGIwOWUwZGQzMDFhMzc3YmFmMDY5NDkzZDdkZC5qcGc",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "seven",
+  "credit_as_published": "KartaView user seven (user id 10951); © KartaView contributors",
+  "title": "KartaView photo 1439255945, sequence 4574937 #328 (Abu Dhabi, 2022-02-24)",
+  "description": "Street-level picture on KartaView, taken 2022-02-24 near Abu Dhabi by seven, sequence 4574937, heading 47.88. OCR (PP-OCRv3) read: AGREAT | AL WAHDI | LANDING | PAGE | CALL | [unread] VIOLA | (02)",
+  "date": "2022-02-24",
+  "categories": [],
+  "camera_location": [
+    24.470364,
+    54.371103
+  ],
+  "found_by": "kartaview-ocr:Abu Dhabi",
+  "bytes": 697134,
+  "width": 2071,
+  "height": 1553,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMi8yLzI0L3Byb2MvNDU3NDkzN182OTgyOGIwOWUwZGQzMDFhMzc3YmFmMDY5NDkzZDdkZC5qcGc",
+  "derivative": "crop 1192,0,3263,1553 of the 3264x1836 full-size processed (blurred) picture"
+}

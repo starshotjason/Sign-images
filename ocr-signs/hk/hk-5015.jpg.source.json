@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=f5eb7439-8a7a-4cff-a633-45af18bb0579",
+  "original_url": "https://panoramax.openstreetmap.fr/images/f5/eb/74/39/8a7a-4cff-a633-45af18bb0579.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "Tehdastehdas",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture f5eb7439-8a7a-4cff-a633-45af18bb0579 (Hong Kong, 2018-04-16)",
+  "description": "Street-level picture taken 2018-04-16 near Hong Kong by Tehdastehdas, sequence d84c7410-4620-454d-9a9b-8139b02d4504, heading None. OCR (PP-OCRv3) read: CUT | OWENXING | HERE | KEY CUTTING | MACHINES | SCHLAGE | YAL | HUNG YEE LO. | OCKSMITH &KEYCUTR | TE:-244691 | HUNG KEE | KEY",
+  "date": "2018-04-16",
+  "categories": [],
+  "camera_location": [
+    22.281778333,
+    114.157349472
+  ],
+  "found_by": "panoramax-ocr:Hong Kong",
+  "bytes": 3799282,
+  "width": 2340,
+  "height": 4160,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/f5/eb/74/39/8a7a-4cff-a633-45af18bb0579.jpg",
+  "derivative": "whole 2340x4160 HD picture as served by the Panoramax instance (byte-identical; the instance blurs faces and number plates), not cropped"
+}

@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=49cf6f6e-c59e-4731-a69f-25f2f5e71b74",
+  "original_url": "https://panoramax.openstreetmap.fr/images/49/cf/6f/6e/c59e-4731-a69f-25f2f5e71b74.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "solenoid jam",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture 49cf6f6e-c59e-4731-a69f-25f2f5e71b74 (Minsk, 2022-07-20)",
+  "description": "Street-level picture taken 2022-07-20 near Minsk by solenoid jam, sequence e93fbef7-c90e-49e4-a7bc-87d19c852eea, heading None. OCR (PP-OCRv3) read: GEMTENEKOM",
+  "date": "2022-07-20",
+  "categories": [],
+  "camera_location": [
+    53.901947222,
+    27.562263889
+  ],
+  "found_by": "panoramax-ocr:Minsk",
+  "bytes": 162086,
+  "width": 1435,
+  "height": 1076,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/49/cf/6f/6e/c59e-4731-a69f-25f2f5e71b74.jpg",
+  "derivative": "crop 2844,758,4279,1834 of the 12048x3584 HD picture"
+}

@@ -1,0 +1,203 @@
+{
+  "c113138915": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn",
+      "Zyyy"
+    ],
+    "lines": [
+      {
+        "text": "DEDZA",
+        "lang": "en"
+      },
+      {
+        "text": "ALTITUDE",
+        "lang": "en"
+      },
+      {
+        "text": "5300 FT",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Dedza",
+      "type": "place"
+    },
+    "difficulty": "easy",
+    "notes": "Weathered concrete town/altitude marker beside the M1 at Dedza. Black raised letters on a whitewashed shield."
+  },
+  "c191677920": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "KUTCHIRE",
+        "lang": "en"
+      },
+      {
+        "text": "LODGE",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Kutchire Lodge",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "White hand-painted letters on a thatched stone gate pillar, seen from mid-distance; the first word is set on an arc. Two people walking away in the foreground are incidental."
+  },
+  "c194533523": {
+    "accept": false,
+    "reason": "NGO event group photo; banners are not a place sign"
+  },
+  "c194533524": {
+    "accept": false,
+    "reason": "MOU signing event photo; people are the subject"
+  },
+  "c199601953": {
+    "accept": false,
+    "reason": "NGO donation plaque at an event; not a map place"
+  },
+  "c28378866": {
+    "accept": false,
+    "reason": "generic 'TOILETS LADIES GENTS' sign at night; no mappable name"
+  },
+  "c36487935": {
+    "accept": false,
+    "reason": "group portrait, no sign text"
+  },
+  "c92718807": {
+    "accept": false,
+    "reason": "wrong country (Malawi embassy building directory in Tokyo, Japan)"
+  },
+  "c92718809": {
+    "accept": false,
+    "reason": "wrong country (Malawi embassy building in Tokyo, Japan)"
+  },
+  "f10a7d3b8-b261-442b-8a00-c91307959183": {
+    "accept": false,
+    "reason": "vehicle branding (delivery trucks 'YOU SHOP WE DROP')"
+  },
+  "f3d9ac5d6-6406-4ba2-852e-8692650ed03c": {
+    "accept": false,
+    "reason": "generic 'BAKERY always fresh' wall art and price menu boards; no business name"
+  },
+  "f4e3f5b3b-51ee-493a-86df-31bbd2459e68": {
+    "accept": false,
+    "reason": "pure advert (TNM Mpamba billboard)"
+  },
+  "f88841e7f-d0eb-4891-ae6e-2ee5bb76865d": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "MINISTRY OF HOPE",
+        "lang": "en"
+      },
+      {
+        "text": "CRISIS NURSERY",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Ministry of Hope Crisis Nursery",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Rusty roadside direction board with a red arrow pointing right, Area 47, Lilongwe (an orphanage)."
+  },
+  "f8d5212bc-a0e6-4997-b4f0-923a79faaac6": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "AFRICAN UNITY DRIVE",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "African Unity Drive",
+      "type": "street"
+    },
+    "difficulty": "medium",
+    "notes": "Small blue street-name plate on two posts at lower left, Lilongwe; it is small in the frame. The 'NOTA SIGNS / CEL: 09279721' advert board nailed to the tree in the middle is a distractor."
+  },
+  "fe0b66089-5e08-48b0-98c4-c9fabfefd320": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "ALPHA PRINTERS",
+        "lang": "en"
+      },
+      {
+        "text": "Commercial Printers & Lithographers",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Alpha Printers",
+      "type": "poi"
+    },
+    "difficulty": "hard",
+    "notes": "Roadside cluster of business direction panels, Lilongwe. Target is the white 'ALPHA PRINTERS' panel (the clearest). Other panels are distractors: 'Security & Insurance' (Blantyre phone numbers), 'KoMa Express Printing', 'Planet CAR HIRE', 'Bull & Bush BAR & GRILL', 'VITA ELECTRICAL & DIESEL SERVICES', 'MIREC COMPUTER COLLEGE' with a red arrow; their small print is not fully legible."
+  },
+  "f6fbffc89-22ed-40a1-84d5-abe6e3e99fec": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "TAYAMBA COFFIN WORK SHOP",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Tayamba Coffin Work Shop",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Blue painted letters along the whole fascia of a roadside workshop near Lilongwe; the wide gap in 'WORK SHOP' is as painted. The small 'TAMA OFFICE' on the neighbouring building at left is a distractor. People and a cyclist at the door are incidental."
+  },
+  "fa8fa35ed-a437-4991-91d5-3af4ab09f846": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "KONDWANI HARDWARE & BARBER SHOP",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Kondwani Hardware",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Hand-painted fascia with tool pictograms on a small brick shop, Central Region, Malawi; '&' is painted in red, the rest in blue."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=dd3976af-0341-4f49-b553-5b8def2d39e5",
+  "original_url": "https://panoramax.openstreetmap.fr/images/dd/39/76/af/0341-4f49-b553-5b8def2d39e5.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "rodolfovargas",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture dd3976af-0341-4f49-b553-5b8def2d39e5 (La Paz, 2025-02-09)",
+  "description": "Street-level picture taken 2025-02-09 near La Paz by rodolfovargas, sequence 21cb478a-fc54-439e-9360-52c68e074f08, heading 315. OCR (PP-OCRv3) read: FAST | nikis FOOD | niki's | \"TUNUEVA | ADICCION",
+  "date": "2025-02-09",
+  "categories": [],
+  "camera_location": [
+    -16.491268972,
+    -68.144202
+  ],
+  "found_by": "panoramax-ocr:La Paz",
+  "bytes": 659889,
+  "width": 1757,
+  "height": 1318,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/dd/39/76/af/0341-4f49-b553-5b8def2d39e5.jpg",
+  "derivative": "crop 555,327,2312,1645 of the 3000x4000 HD picture"
+}

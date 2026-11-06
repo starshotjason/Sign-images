@@ -1,0 +1,90 @@
+{
+ "k19517573": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Äule",
+    "lang": "de"
+   },
+   {
+    "text": "P",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "Äule",
+   "type": "street"
+  },
+  "difficulty": "medium",
+  "notes": "White arrow-shaped direction sign 'Äule' with a blue P (parking) box on a post at a building corner, Vaduz, shot from a car. Distractors: blue company lettering on the facade (partly obscured), directory board by the door, orange truck."
+ },
+ "k19517586": {
+  "accept": false,
+  "reason": "event banner (Vaduzer Fasnacht carnival) on a lamppost, not a place sign"
+ },
+ "k19517596": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "HOTELS",
+    "lang": "de"
+   },
+   {
+    "text": "Residence",
+    "lang": "de"
+   },
+   {
+    "text": "Park-Hotel Sonnenhof",
+    "lang": "de"
+   },
+   {
+    "text": "Löwen",
+    "lang": "de"
+   }
+  ],
+  "expect": {
+   "query": "Park-Hotel Sonnenhof",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Brown-and-yellow hotel fingerpost on a lamppost, Vaduz (Residence to the right; Sonnenhof and Löwen to the left). Distractors: 'ARTOS' hairdresser window, small 'Städtle' street sign, partial 'VADUZER...' lettering on the curved building, watch adverts in the windows."
+ },
+ "p07bbdf9d44": {
+  "accept": false,
+  "reason": "wrong country: Swiss A13 motorway exit sign near Sevelen (CH), west of the Rhine; and generic 'AUSFAHRT'"
+ },
+ "p2a0a1eda8d": {
+  "accept": false,
+  "reason": "wrong country: Swiss A13 motorway direction sign (Sevelen / Vaduz FL) in Switzerland"
+ },
+ "p2c46270151": {
+  "accept": false,
+  "reason": "wrong country: Swiss A13 motorway gantry (Vaduz FL / Sevelen) in Switzerland"
+ },
+ "pab585f968e": {
+  "accept": false,
+  "reason": "camper-van branding (benimar); no sign"
+ },
+ "pd185ce42fd": {
+  "accept": false,
+  "reason": "LED destination display on a moving bus (Balzers / LIEmobil), not a fixed sign"
+ },
+ "peae409abf7": {
+  "accept": false,
+  "reason": "plate of fish and chips; no sign"
+ },
+ "pec990f711c": {
+  "accept": false,
+  "reason": "wrong country: Swiss A13 motorway sign (St.Gallen / St.Margrethen / München / Feldkirch) in Switzerland"
+ }
+}

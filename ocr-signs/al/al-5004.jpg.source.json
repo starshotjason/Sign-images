@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/3558805/165/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMS81LzYvcHJvYy8zNTU4ODA1XzhhMGY4XzYwOTQxZjljMjE1ZDkuanBn",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "DenisJu",
+  "credit_as_published": "KartaView user DenisJu (user id 2997); © KartaView contributors",
+  "title": "KartaView photo 1289948373, sequence 3558805 #165 (Tirana, 2020-06-05)",
+  "description": "Street-level picture on KartaView, taken 2020-06-05 near Tirana by DenisJu, sequence 3558805, heading 226.56. OCR (PP-OCRv3) read: neduhur | Beniz | Kancelari | new | KANCELAR | PCSTORE | KANCELARI",
+  "date": "2020-06-05",
+  "categories": [],
+  "camera_location": [
+    41.331782,
+    19.821499
+  ],
+  "found_by": "kartaview-ocr:Tirana",
+  "bytes": 588528,
+  "width": 3264,
+  "height": 1836,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMS81LzYvcHJvYy8zNTU4ODA1XzhhMGY4XzYwOTQxZjljMjE1ZDkuanBn",
+  "derivative": "whole 3264x1836 full-size processed (blurred) picture as served by the KartaView CDN (byte-identical; the service blurs faces and number plates), not cropped"
+}

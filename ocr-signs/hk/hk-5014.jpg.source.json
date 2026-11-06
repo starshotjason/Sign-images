@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=ce75ea68-fba3-4c08-8664-f8c091313e3f",
+  "original_url": "https://panoramax.openstreetmap.fr/images/ce/75/ea/68/fba3-4c08-8664-f8c091313e3f.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "Tehdastehdas",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture ce75ea68-fba3-4c08-8664-f8c091313e3f (Kowloon, 2018-04-14)",
+  "description": "Street-level picture taken 2018-04-14 near Kowloon by Tehdastehdas, sequence a2e47759-eff9-44f9-95eb-f3b8edeb4d4c, heading None. OCR (PP-OCRv3) read: School of Creativity | DAIKIN | 何文田分校 | Supreme Art Courses | Ho Man Tin Cenire | 富打老道79菱B地下1B铺 | 楼宇管理 交通治安 | 居民程益法律韵 | 意见反映 文娱康染 | 星期一至五 | 上午9:30-下午6:30 | 星期六",
+  "date": "2018-04-14",
+  "categories": [],
+  "camera_location": [
+    22.320071806,
+    114.176740056
+  ],
+  "found_by": "panoramax-ocr:Kowloon",
+  "bytes": 3589277,
+  "width": 4160,
+  "height": 2340,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/ce/75/ea/68/fba3-4c08-8664-f8c091313e3f.jpg",
+  "derivative": "whole 4160x2340 HD picture as served by the Panoramax instance (byte-identical; the instance blurs faces and number plates), not cropped"
+}

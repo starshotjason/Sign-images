@@ -1,0 +1,326 @@
+{
+ "c152767265": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Arab",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "لبوه راي توتوڠ تليساي",
+    "lang": "ms",
+    "latin": "Lebuh raya Tutong Telisai (Jawi)"
+   },
+   {
+    "text": "Lebuhraya Tutong Telisai",
+    "lang": "ms"
+   }
+  ],
+  "expect": {
+   "query": "Tutong Telisai",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Green highway name board, Jawi above Rumi. The Jawi is written as two words (ه in final form, not joined to ر) though the Latin is one word 'Lebuhraya'. Angled view with glare at right."
+ },
+ "c157060582": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Arab",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "كامڤوڠ كيولڤ",
+    "lang": "ms",
+    "latin": "Kampong Kiulap (Jawi)"
+   },
+   {
+    "text": "KAMPONG KIULAP",
+    "lang": "ms"
+   }
+  ],
+  "expect": {
+   "query": "Kiulap",
+   "type": "place"
+  },
+  "difficulty": "easy",
+  "notes": "Village name sign (Bandar Seri Begawan). Peeling paint; a scratch above the second A of KIULAP can look like an accent but is damage."
+ },
+ "c179973749": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Arab",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "جالن لوروڠ ساتو بارت",
+    "lang": "ms",
+    "latin": "Jalan Lorong Satu Barat (Jawi)"
+   },
+   {
+    "text": "Jalan Lorong Satu Barat",
+    "lang": "ms"
+   }
+  ],
+  "expect": {
+   "query": "Jalan Lorong Satu Barat",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Seria. Frontal green street-name sign, Jawi above Rumi."
+ },
+ "c180536798": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Arab",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "جالن لوكو",
+    "lang": "ms",
+    "latin": "Jalan Lugu (Jawi)"
+   },
+   {
+    "text": "Jalan Lugu",
+    "lang": "ms"
+   }
+  ],
+  "expect": {
+   "query": "Jalan Lugu",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Kampong Lugu. Small green street-name sign. The Jawi 'g' is drawn as a plain kaf (no dot visible, so transcribed ك rather than the standard Jawi ڬ)."
+ },
+ "c182288743": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Arab",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "جالن ڤريتي",
+    "lang": "ms",
+    "latin": "Jalan Pretty (Jawi)"
+   },
+   {
+    "text": "Jalan Pretty",
+    "lang": "ms"
+   },
+   {
+    "text": "KA 1131",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "Jalan Pretty",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Kuala Belait. Frontal green street-name sign; 'KA 1131' is a red reference tag on the sign itself (not a vehicle plate). Distractors: 'POLIS' box below, partial 'GEMAKING' banner behind."
+ },
+ "c180896330": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Arab",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "جالن سلطان",
+    "lang": "ms",
+    "latin": "Jalan Sultan (Jawi)"
+   },
+   {
+    "text": "Jalan Sultan",
+    "lang": "ms"
+   },
+   {
+    "text": "KA 1131",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "Jalan Sultan",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Kuala Belait. Green street-name sign, slightly angled. The red 'KA 1131' tag is the same code as on the Jalan Pretty sign (c182288743), so it is a sign-maintenance tag, not part of the name."
+ },
+ "c158083873": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn",
+   "Arab"
+  ],
+  "lines": [
+   {
+    "text": "Pepper Lunch",
+    "lang": "en"
+   },
+   {
+    "text": "ڤيڤر لنچ",
+    "lang": "ms",
+    "latin": "Pepper Lunch (Jawi)"
+   }
+  ],
+  "expect": {
+   "query": "Pepper Lunch",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Kampong Kiarong. Shot through a car windscreen. Target is the central 'Pepper Lunch' fascia with logo; the Jawi name is on the separate fascia at left in calligraphic style, and a third 'Pepper Lunch' sign is on the lower canopy. Distractors at right: 'poppy petals SKIN & BEAUTY' with Jawi, 'crystalens / SYARIKAT CRYSTALENS / CRYSTALENS COMPANY' with Jawi 'شريكة كريستلين س'. Parked cars incidental."
+ },
+ "c158516313": {
+  "accept": false,
+  "reason": "brand advertising panels over an electronics store (Skyworth, Airbot, dyson, HONOR, Canon, with Jawi); the shop's own name is cut off at the top"
+ },
+ "c164206557": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Kuala Belait 20 km",
+    "lang": "ms"
+   },
+   {
+    "text": "Seria 28 km",
+    "lang": "ms"
+   },
+   {
+    "text": "Tutong 76 km",
+    "lang": "ms"
+   },
+   {
+    "text": "Jerudong 106 km",
+    "lang": "ms"
+   },
+   {
+    "text": "Bandar Seri Begawan 126 km",
+    "lang": "ms"
+   },
+   {
+    "text": "Kuala Lurah 133 km",
+    "lang": "ms"
+   },
+   {
+    "text": "Muara 136 km",
+    "lang": "ms"
+   }
+  ],
+  "expect": {
+   "query": "Kuala Belait",
+   "type": "place"
+  },
+  "difficulty": "easy",
+  "notes": "Sungai Tujoh, near the Malaysian border. Large green distance board, Latin only, shot from a car at a slight angle."
+ },
+ "c154067290": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Arab",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "مقيم كيلانس",
+    "lang": "ms",
+    "latin": "Mukim Kilanas (Jawi)"
+   },
+   {
+    "text": "MUKIM KILANAS",
+    "lang": "ms"
+   },
+   {
+    "text": "كامڤوڠ تنجوڠ بونوت",
+    "lang": "ms",
+    "latin": "Kampung Tanjong Bunut (Jawi)"
+   },
+   {
+    "text": "KAMPUNG TANJONG BUNUT",
+    "lang": "ms"
+   }
+  ],
+  "expect": {
+   "query": "Tanjong Bunut",
+   "type": "place"
+  },
+  "difficulty": "easy",
+  "notes": "White mukim/village name board, frontal; the left edge of the panel is bent. Jawi above Rumi for each name."
+ },
+ "c16167272": {
+  "accept": false,
+  "reason": "wrong country: tourist sign in Nanjing, China (Brunei Heritage Village / Tomb of the King of Brunei)"
+ },
+ "c16167242": {
+  "accept": false,
+  "reason": "wrong country: tourist direction signs in Nanjing, China"
+ },
+ "c16178541": {
+  "accept": false,
+  "reason": "wrong country: path signs at the Tomb of the King of Boni, Nanjing, China"
+ },
+ "c163116281": {
+  "accept": false,
+  "reason": "no-smoking/vaping penalty notice (Ministry of Health); warning, no place name"
+ },
+ "c120306806": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Arab",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "مقيم كوالا بلائيت",
+    "lang": "ms",
+    "latin": "Mukim Kuala Belait"
+   },
+   {
+    "text": "MUKIM KUALA BELAIT",
+    "lang": "ms"
+   },
+   {
+    "text": "كامڤوڠ موموڠ ‘بي’",
+    "lang": "ms",
+    "latin": "Kampung Mumong 'B'"
+   },
+   {
+    "text": "KAMPUNG MUMONG ‘B’",
+    "lang": "ms"
+   }
+  ],
+  "expect": {
+   "query": "Kampung Mumong",
+   "type": "place"
+  },
+  "difficulty": "easy",
+  "notes": "White Jawi/Malay village-boundary board on black-and-white striped posts, Jalan Singa Menteri, Mumong. Upper half names the mukim, lower half the kampung; 'B' is in curly single quotes in both scripts."
+ }
+}

@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/11676771/20/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyNi83LzMvcHJvYy8xMTY3Njc3MV9jYTUzOF82YTQ3NjFiODhiN2JlLmpwZw",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "seven",
+  "credit_as_published": "KartaView user seven (user id 10951); © KartaView contributors",
+  "title": "KartaView photo 2631246765, sequence 11676771 #20 (Astana, 2026-07-02)",
+  "description": "Street-level picture on KartaView, taken 2026-07-02 near Astana by seven, sequence 11676771, heading 161.42. OCR (PP-OCRv3) read: TANWCIIAH | [unread] MAP | JIK WEGEPXA | DCKAA",
+  "date": "2026-07-02",
+  "categories": [],
+  "camera_location": [
+    51.16077,
+    71.428173
+  ],
+  "found_by": "kartaview-ocr:Astana",
+  "bytes": 931700,
+  "width": 4096,
+  "height": 2304,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyNi83LzMvcHJvYy8xMTY3Njc3MV9jYTUzOF82YTQ3NjFiODhiN2JlLmpwZw",
+  "derivative": "whole 4096x2304 full-size processed (blurred) picture as served by the KartaView CDN (byte-identical; the service blurs faces and number plates), not cropped"
+}

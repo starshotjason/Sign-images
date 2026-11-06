@@ -1,0 +1,342 @@
+{
+ "fc16db0d7-3ed8-4344-ac45-84c2f4755c1f": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ICI",
+    "lang": "fr"
+   },
+   {
+    "text": "ECOLE DE CONDUITE",
+    "lang": "fr"
+   },
+   {
+    "text": "LE STYLE",
+    "lang": "fr"
+   },
+   {
+    "text": "SPECIALISTE EN CATEGORIE",
+    "lang": "fr"
+   },
+   {
+    "text": "A, B, C, D, E, F, T",
+    "lang": "fr"
+   },
+   {
+    "text": "OUVERT DU",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "Ecole de Conduite Le Style",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Stencil-painted yellow board for a driving school in Douala, written without accents (ECOLE, SPECIALISTE, CATEGORIE). The board continues below the frame; only the top of 'OUVERT DU' is visible and the opening hours are cut off. A second dark sign at right ('ECOLE ... ST...') is cut off and is a distractor."
+ },
+ "c104707198": {
+  "accept": false,
+  "reason": "market scene with people as the subject; no legible place sign"
+ },
+ "c164095588": {
+  "accept": false,
+  "reason": "traffic scene at Mile 17, Buea; the legible text is an Orange advertising billboard and vehicle plates, no place sign"
+ },
+ "c164095589": {
+  "accept": false,
+  "reason": "traffic scene; only distant hospital and Orange advertising billboards, no legible place sign"
+ },
+ "c39063747": {
+  "accept": false,
+  "reason": "HIV-awareness slogan board; names a student association, not a place a map would contain"
+ },
+ "c64484246": {
+  "accept": false,
+  "reason": "chalk-drawn shoe diagram on a workshop board; handwritten labels, no business or place name"
+ },
+ "c77344033": {
+  "accept": false,
+  "reason": "subject is roller skaters (faces); the bank signs in the background are small and not the target"
+ },
+ "c103581095": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "VOTRE",
+    "lang": "fr"
+   },
+   {
+    "text": "PHARMACIE",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "Votre Pharmacie",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Bright green raised letters on a dark hanging panel, Douala; close and frontal."
+ },
+ "c117085469": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "PAS A PAS",
+    "lang": "fr"
+   },
+   {
+    "text": "M ENUISERIE SPECIALE DE L'ERE MODERNE",
+    "lang": "fr"
+   },
+   {
+    "text": "MEUBLE MODENE DUTEMPS MODERNE",
+    "lang": "fr"
+   },
+   {
+    "text": "TOURS A BOIS INCRUTATION DES FILETS",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "Pas à Pas",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Hand-painted joinery workshop banner between two wooden posts, Tsinga, Yaoundé, 1974 slide (faded colour). Spellings as painted ('MODENE', 'DUTEMPS', 'INCRUTATION'; a gap after the first M of 'MENUISERIE'). The decorative letters make line 3 hard. Two smaller lines below are left out as unreliable: they read approximately 'BRASURE DES SCIES A RUBAN INSIGNES D' HABITS' and '450 M AU FOND DERNIER POTEAU ELECTRIQUE' / 'STYLE EXIGE'. A red arrow points right."
+ },
+ "c133330834": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "EMI money",
+    "lang": "fr"
+   },
+   {
+    "text": "Transfert d’Argent",
+    "lang": "fr"
+   },
+   {
+    "text": "e de ZACHMAN-NDOGBONG",
+    "lang": "fr"
+   },
+   {
+    "text": "Ouvert de Lundi à Samedi 07h30 - 17h30, même les jours fé",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "Ndogbong",
+   "type": "place"
+  },
+  "difficulty": "hard",
+  "notes": "Red money-transfer shop fascia, Ndogbong, Douala, shot in dim light through a vehicle window. Line 3 starts behind a black banner (the hidden word probably 'Agence'); the last line is cut at the right edge ('fé[riés]'); a tiny registration number line at left is illegible. Alternative query: 'Emi Money'. The ADVANS board, the Emi money kiosk and the Ria sticker are distractors."
+ },
+ "c159234679": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "VILLE DE NKOTENG",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "Nkoteng",
+   "type": "place"
+  },
+  "difficulty": "easy",
+  "notes": "Red-bordered French-style town entry sign on two posts; slightly washed out."
+ },
+ "c163891458": {
+  "accept": true,
+  "reason": "",
+  "kind": "hard",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "TOLE TEA",
+    "lang": "en"
+   },
+   {
+    "text": "FACTORY",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Tole Tea",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Small dark direction board in front of a tea field near Buea, far from the camera; a CDC logo sits between the lines and a power line crosses the board. Arrow points right."
+ },
+ "c48633702": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "THE HISTORIC",
+    "lang": "en"
+   },
+   {
+    "text": "SLAVE TRADE",
+    "lang": "en"
+   },
+   {
+    "text": "MARKET IN",
+    "lang": "en"
+   },
+   {
+    "text": "DIKOLO CHIEFDOM",
+    "lang": "en"
+   },
+   {
+    "text": "BIMBIA",
+    "lang": "en"
+   },
+   {
+    "text": "LIMBE III SUB-DIVISION",
+    "lang": "en"
+   },
+   {
+    "text": "ABOUT 1½ Km",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Bimbia",
+   "type": "place"
+  },
+  "difficulty": "easy",
+  "notes": "Stencilled roadside direction sign; 'III' is a small red Roman numeral; the distance is in a red arrow pointing right."
+ },
+ "c77344298": {
+  "accept": false,
+  "reason": "subject is roller skaters (faces); only a no-entry pictogram behind them"
+ },
+ "c77345029": {
+  "accept": false,
+  "reason": "roller skater in a street; no legible place sign"
+ },
+ "c88269800": {
+  "accept": false,
+  "reason": "the legible signs are a warning ('ACCÈS INTERDIT AUX GRUMIERS...'), a deviation sign and fuel brand/price pylon; no place name"
+ },
+ "c88360610": {
+  "accept": false,
+  "reason": "distant city view of ministry buildings; the building lettering ('...ES POSTES ET TELECOMMU...') is tiny and partial"
+ },
+ "c89163697": {
+  "accept": false,
+  "reason": "subject is an overloaded car and its number plate; no legible sign"
+ },
+ "c89168454": {
+  "accept": false,
+  "reason": "activist parade on motorbikes (people as subject); the hotel lettering at the top is cut off"
+ },
+ "c89170247": {
+  "accept": false,
+  "reason": "parking pictogram; the sub-plate text is worn and illegible"
+ },
+ "f47b961c7-1247-4154-80de-9b4e001a8ec4": {
+  "accept": false,
+  "reason": "airport baggage carousel interior; no sign text"
+ },
+ "c89168603": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "\"33\" KM",
+    "lang": "fr"
+   },
+   {
+    "text": "de DSCHANG",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "Dschang",
+   "type": "place"
+  },
+  "difficulty": "medium",
+  "notes": "Distance band at the foot of a '33' Export beer billboard on the road to Dschang, shot from a moving vehicle. The '33' in quotes sits in a red roundel with a football over 'KM'. The beer advert above ('LES MEILLEURS MOMENTS SE CÉLÈBRENT AVEC', bottle labels) is a distractor."
+ },
+ "c76512691": {
+  "accept": false,
+  "reason": "generic State Land Reserve notice; names no specific mappable place"
+ },
+ "c89170331": {
+  "accept": false,
+  "reason": "street scene with motorbikes, no legible target sign"
+ },
+ "c116975551": {
+  "accept": false,
+  "reason": "adverts and branded umbrellas only (GAB/Orange/Tecno), no place sign"
+ },
+ "c38938583": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "WELCOME",
+    "lang": "en"
+   },
+   {
+    "text": "TO",
+    "lang": "en"
+   },
+   {
+    "text": "NDAWARA TEA ESTATE",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Ndawara Tea Estate",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Weathered white billboard with brown raised letters in mid-distance; 'NDAWARA TEA ESTATE' is arched around an N tea-leaf logo. Village houses and tea hills behind."
+ },
+ "c104570964": {
+  "accept": false,
+  "reason": "ambulance vehicle branding is the subject"
+ }
+}

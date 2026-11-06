@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.mapcomplete.org/#focus=pic&pic=b6c2e717-2dcb-4f2c-b7f3-c7e56906791f",
+  "original_url": "https://panoramax.mapcomplete.org/permanent/b6/c2/e7/17/2dcb-4f2c-b7f3-c7e56906791f.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "mapcomplete",
+  "credit_as_published": "Panoramax, instance mapcomplete (https://panoramax.mapcomplete.org)",
+  "title": "Panoramax picture b6c2e717-2dcb-4f2c-b7f3-c7e56906791f (Siem Reap, 2026-02-04)",
+  "description": "Street-level picture on Panoramax, taken 2026-02-04 near Siem Reap by mapcomplete, sequence a7cf963f-8d1c-4bac-9717-e3149f5f9fff, heading 275. OCR (PP-OCRv3) read: WAFFLES & COFFEE | SWEET | SALTY | ABA | VISA | Closed on Tuesday",
+  "date": "2026-02-04",
+  "categories": [],
+  "camera_location": [
+    13.3572057,
+    103.8567744
+  ],
+  "found_by": "panoramax-ocr:Siem Reap",
+  "bytes": 2980012,
+  "width": 4000,
+  "height": 2250,
+  "downloaded_url": "https://panoramax.mapcomplete.org/permanent/b6/c2/e7/17/2dcb-4f2c-b7f3-c7e56906791f.jpg",
+  "derivative": "whole 4000x2250 HD picture as served by the Panoramax instance (byte-identical; the service blurs faces and number plates), not cropped"
+}

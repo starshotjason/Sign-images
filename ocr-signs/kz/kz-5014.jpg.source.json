@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/528823/84/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlNS5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE3LzgvMTYvcHJvYy81Mjg4MjNfMzUxMGJfNTk5NDkyZTRiODc0YS5qcGc",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "seven",
+  "credit_as_published": "KartaView user seven (user id 10951); © KartaView contributors",
+  "title": "KartaView photo 98404737, sequence 528823 #84 (Almaty, 2017-08-01)",
+  "description": "Street-level picture on KartaView, taken 2017-08-01 near Almaty by seven, sequence 528823, heading 185.71. OCR (PP-OCRv3) read: WEBYEHKOKO.",
+  "date": "2017-08-01",
+  "categories": [],
+  "camera_location": [
+    43.244701,
+    76.915738
+  ],
+  "found_by": "kartaview-ocr:Almaty",
+  "bytes": 1057397,
+  "width": 2205,
+  "height": 1653,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlNS5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE3LzgvMTYvcHJvYy81Mjg4MjNfMzUxMGJfNTk5NDkyZTRiODc0YS5qcGc",
+  "derivative": "crop 1184,0,3389,1653 of the 4608x2592 full-size processed (blurred) picture"
+}

@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/7044473/3/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMy8zLzMwL3Byb2MvNzA0NDQ3M18zMGQyMDY1NDc4NDdmYzQ1MWVlMWVlMGMyNGE2ZTdkZC5qcGc",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "AlexIlisei",
+  "credit_as_published": "KartaView user AlexIlisei (user id 2); © KartaView contributors",
+  "title": "KartaView photo 1709673609, sequence 7044473 #3 (Amman, 2023-03-25)",
+  "description": "Street-level picture on KartaView, taken 2023-03-25 near Amman by AlexIlisei, sequence 7044473, heading 299.3. OCR (PP-OCRv3) read: Ayman AlSharief",
+  "date": "2023-03-25",
+  "categories": [],
+  "camera_location": [
+    31.950582,
+    35.933606
+  ],
+  "found_by": "kartaview-ocr:Amman",
+  "bytes": 351167,
+  "width": 1200,
+  "height": 900,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMy8zLzMwL3Byb2MvNzA0NDQ3M18zMGQyMDY1NDc4NDdmYzQ1MWVlMWVlMGMyNGE2ZTdkZC5qcGc",
+  "derivative": "crop 278,226,1478,1126 of the 2592x1936 full-size processed (blurred) picture"
+}

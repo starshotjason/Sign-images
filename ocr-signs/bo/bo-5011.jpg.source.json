@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=486acf3c-77d0-4ff2-a440-25797afb7ada",
+  "original_url": "https://panoramax.openstreetmap.fr/images/48/6a/cf/3c/77d0-4ff2-a440-25797afb7ada.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "rodolfovargas",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture 486acf3c-77d0-4ff2-a440-25797afb7ada (La Paz, 2025-02-01)",
+  "description": "Street-level picture taken 2025-02-01 near La Paz by rodolfovargas, sequence 9d60d15d-3cdb-476b-a05a-062018b2edde, heading 228. OCR (PP-OCRv3) read: INALMAMA | Heroes de la Revolucion",
+  "date": "2025-02-01",
+  "categories": [],
+  "camera_location": [
+    -16.484776,
+    -68.121371972
+  ],
+  "found_by": "panoramax-ocr:La Paz",
+  "bytes": 939996,
+  "width": 1968,
+  "height": 1476,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/48/6a/cf/3c/77d0-4ff2-a440-25797afb7ada.jpg",
+  "derivative": "crop 1031,0,2999,1476 of the 3000x4000 HD picture"
+}

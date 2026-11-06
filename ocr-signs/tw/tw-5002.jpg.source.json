@@ -1,0 +1,27 @@
+{
+  "source": "tcmb",
+  "source_url": "https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=509153",
+  "original_url": "https://dcm.s3.hicloud.net.tw/new/excel/object/2020-07-09/dada2bf7-d5b0-4b91-9b4c-976047fb9802/collection/04a38419-d775-4dc1-ad3d-8fda2793c2cd/70a8c42f-6160-42ef-8b49-cc0055f631a6.jpg",
+  "license_as_published": "OGDL",
+  "license_url_as_published": "https://data.gov.tw/license",
+  "author_as_published": "花蓮縣文化局 / 吳緯俊",
+  "credit_as_published": "花蓮縣文化局 / 吳緯俊（花蓮縣文化局）, 國家文化記憶庫 Taiwan Cultural Memory Bank, OGDL",
+  "title": "老店郭乾香",
+  "description": "此張照片為拍攝於民國48年（1959）舊花蓮車站前的老店郭乾香。其店舖創立之年代大約為日治時期的昭和5年（1930）。其所在位置為黑金通上之金龍大旅社一樓，與常盤館、湯橋醫院等建築同為當時經過花蓮車站、黑金通之遊客等必定會前往拍攝甚至是參觀之地點。現郭乾香的招牌與建築依然在此址上，但隨著歲月的變換，周遭已發生明顯的改變，如舊火車站的遷移、拆除。但郭乾香前方的噴水池「石來運轉」至今仍是一大地標。照片由陳阿菜提供。",
+  "date": "1959",
+  "categories": [
+    "產業與經濟",
+    "火車站",
+    "花蓮",
+    "常盤館",
+    "郭乾香",
+    "黑金通"
+  ],
+  "camera_location": null,
+  "found_by": "tcmb-opendata:dataSet/culture title/keyword match '車站'; rapidocr pre-screen read ['GOLDEN DRAGON HOTEL', '旅大泰国', '社旅大龍金', '郎乾香']; visually reviewed",
+  "bytes": 1886500,
+  "width": 2039,
+  "height": 1500,
+  "downloaded_url": "https://tcmb.culture.tw/imagor/filters:raw()/https%3A%2F%2Fdcm.s3.hicloud.net.tw%2Fnew%2Fexcel%2Fobject%2F2020-07-09%2Fdada2bf7-d5b0-4b91-9b4c-976047fb9802%2Fcollection%2F04a38419-d775-4dc1-ad3d-8fda2793c2cd%2F70a8c42f-6160-42ef-8b49-cc0055f631a6.jpg",
+  "derivative": ""
+}

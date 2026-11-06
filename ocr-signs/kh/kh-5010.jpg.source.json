@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=ac863c6b-08c7-4f5d-8b5a-d50468e8bf0c",
+  "original_url": "https://panoramax.openstreetmap.fr/images/ac/86/3c/6b/08c7-4f5d-8b5a-d50468e8bf0c.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "GeoMechain",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture ac863c6b-08c7-4f5d-8b5a-d50468e8bf0c (Phnom Penh, 2022-06-19)",
+  "description": "Street-level picture taken 2022-06-19 near Phnom Penh by GeoMechain, sequence 7725a1b9-a166-4ece-8fb1-f4b20159bbba, heading 326. OCR (PP-OCRv3) read: PTICS | N.13A | Crizal",
+  "date": "2022-06-19",
+  "categories": [],
+  "camera_location": [
+    11.555201,
+    104.923495
+  ],
+  "found_by": "panoramax-ocr:Phnom Penh",
+  "bytes": 1373153,
+  "width": 3134,
+  "height": 2350,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/ac/86/3c/6b/08c7-4f5d-8b5a-d50468e8bf0c.jpg",
+  "derivative": "crop 0,600,3134,2950 of the 4080x3060 HD picture"
+}

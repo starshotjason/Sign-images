@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=7ced92b4-0afb-4c12-8f0e-7a66b74451e6",
+  "original_url": "https://panoramax.openstreetmap.fr/images/7c/ed/92/b4/0afb-4c12-8f0e-7a66b74451e6.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "Amul",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture 7ced92b4-0afb-4c12-8f0e-7a66b74451e6 (Kyoto, 2023-11-29)",
+  "description": "Street-level picture taken 2023-11-29 near Kyoto by Amul, sequence d4c3d656-662a-4b5f-99e2-15986000ebfb, heading 3. OCR (PP-OCRv3) read: TERAMACHI | KYOYA | 0-10",
+  "date": "2023-11-29",
+  "categories": [],
+  "camera_location": [
+    35.008683333,
+    135.767211111
+  ],
+  "found_by": "panoramax-ocr:Kyoto",
+  "bytes": 5466513,
+  "width": 4284,
+  "height": 5712,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/7c/ed/92/b4/0afb-4c12-8f0e-7a66b74451e6.jpg",
+  "derivative": "whole 4284x5712 HD picture as served by the Panoramax instance (byte-identical; the instance blurs faces and number plates), not cropped"
+}

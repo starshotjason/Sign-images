@@ -1,0 +1,342 @@
+{
+ "pc0df306a46": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "VIVASON",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "VivaSon",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Hearing-aid shop fascia, Paris (rue de Rivoli area), 'VIVA' in pink italic and 'SON' in grey; house number 5 on a blue plate above. Side panel 'L'AUDITION POUR TOUS', phone banner '01 40 09 58 58' and posters ('Entendre la vie en rose') are distractors; the OSM watermark text at lower right is a camera overlay, not part of the scene."
+ },
+ "p25df71a3b6": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Montreux Jazz Café",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "Montreux Jazz Café",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Black canopy sign inside Gare de Lyon, Paris; the vertical 'Montreux Jazz Café' on the menu totem repeats it. 'LE TRAIN BLEU' oval plaque above the arch, 'RELAY' shop and departure boards are distractors; travellers' faces blurred."
+ },
+ "pc8185d0fc1": {
+  "accept": false,
+  "reason": "street view dominated by an optician advert and a defaced no-entry sign; shop signs down the street too small"
+ },
+ "p01ed826c0d": {
+  "accept": true,
+  "reason": "",
+  "kind": "hard",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "deNeuville",
+    "lang": "fr"
+   },
+   {
+    "text": "Chocolat français",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "de Neuville",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Motion-blurred shot of the chocolatier fascia in the Gare de Lyon hall, Paris; the small 'Chocolat français' line is soft but readable. The 'ICE CURRENCY EXCHANGE' fascia beside it (with tiny 'INTERNATIONAL' above) is a generic service sign/distractor, as are the painted mural and ATM headers."
+ },
+ "k1194748133": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "LA PERLERIE 22",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "La Perlerie",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Maroon letters on a white fascia across a Paris street (rue de la Verrerie / Le Marais area), wide-angle shot. Distractors: the 'SAUF / SAUF RIVERAINS' cycle sign in front, 'HUYGENS', 'LEON & HARPER', 'HOTEL D'Aviv...' vertical banner, 'Perle & Moi' and 'CINEMA' signs."
+ },
+ "p4d189aa34f": {
+  "accept": false,
+  "reason": "exhibition poster (Gus Van Sant at La Cinémathèque française); advertising, not a place sign"
+ },
+ "p2b4078ece1": {
+  "accept": false,
+  "reason": "vending machines and photo booth in a station hall; product branding only"
+ },
+ "k3930871": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "CasaNova",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "CasaNova",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Gold serif letters on the dark awning valance of a restaurant/florist corner, Paris, shot at a tilt through trees. Partial lettering further along the awning and a green sign at the far corner are unreadable."
+ },
+ "p481ceaaa04": {
+  "accept": false,
+  "reason": "near-duplicate of pc0df306a46 (same VivaSon shopfront), motion-blurred"
+ },
+ "k1194748805": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "SEPHORA",
+    "lang": "fr"
+   },
+   {
+    "text": "Flash",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Sephora",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Dark letters on a light fascia at the right, Paris (rue de Rivoli); the small 'Flash' sub-brand under the A is blurred. 'THE BODY SH...' sign (cut by a no-stopping pole) and green pedestrian finger signs at left are distractors."
+ },
+ "c39306795": {
+  "accept": false,
+  "reason": "main subject is a roadworks information panel and developer hoardings (Cogedim) plus a JCDecaux advert; the 'Place du Général de Gaulle' street plate is small at the edge"
+ },
+ "c64260959": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Casino",
+    "lang": "fr"
+   },
+   {
+    "text": "shop",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Casino Shop",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Fascia of a Casino Shop grocery on Rue Carnot, Beaune: large white script 'Casino' (the í-like dot is part of the logo, not an accent) and red 'shop'."
+ },
+ "c171260445": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "RUE",
+    "lang": "fr"
+   },
+   {
+    "text": "FAUCHIER",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "Rue Fauchier",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Blue cast-metal street plate with raised white letters on a stone wall, Aix-en-Provence, slightly from below."
+ },
+ "c47792652": {
+  "accept": false,
+  "reason": "1846 carved corner stone with compagnonnage square-and-compasses and names (ARQUÉ - ORIOL), a builders' inscription rather than a street or place name"
+ },
+ "c88907469": {
+  "accept": true,
+  "reason": "",
+  "kind": "hard",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "2e Arr",
+    "lang": "fr"
+   },
+   {
+    "text": "RUE",
+    "lang": "fr"
+   },
+   {
+    "text": "GRETRY",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "Rue Grétry",
+   "type": "street"
+  },
+  "difficulty": "hard",
+  "notes": "Small Paris enamel street plate at the right end of an old green wooden shopfront, Paris 2e. The name is written without an accent on the plate (map name is Rue Grétry). Header shows '2e Arr' (superscript e, 'Arr' partly unclear); two tiny lines below ('COMPOSITEUR' and dates) are illegible at this size and not transcribed. A red-white ribbon hangs on the plate; traffic cones are distractors."
+ },
+ "c196556296": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "19e Arr",
+    "lang": "fr"
+   },
+   {
+    "text": "AVENUE",
+    "lang": "fr"
+   },
+   {
+    "text": "DE",
+    "lang": "fr"
+   },
+   {
+    "text": "FLANDRE",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "Avenue de Flandre",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Classic Paris dark-blue enamel plate with green frame on a tiled corner, 19th arrondissement; in the header the 'e' and the end of 'Arr' are small superscripts."
+ },
+ "c182192260": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Saint-Briac-sur-Mer",
+    "lang": "fr"
+   },
+   {
+    "text": "Place",
+    "lang": "fr"
+   },
+   {
+    "text": "Louis Delâge",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "Place Louis Delâge",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Blue street plate on a stone pillar, Saint-Briac-sur-Mer (Ille-et-Vilaine); serif town name over a rule, sans-serif square name with â. Frontal and sharp."
+ },
+ "c42676202": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "MAISON FONDÉE EN",
+    "lang": "fr"
+   },
+   {
+    "text": "1854",
+    "lang": "und"
+   },
+   {
+    "text": "THÉ",
+    "lang": "fr"
+   },
+   {
+    "text": "QUALITÉ SUPÉRIEURE",
+    "lang": "fr"
+   },
+   {
+    "text": "MARIAGE",
+    "lang": "fr"
+   },
+   {
+    "text": "FRÈRES",
+    "lang": "fr"
+   },
+   {
+    "text": "LES MEILLEURS CRUS",
+    "lang": "fr"
+   },
+   {
+    "text": "LA GRANDE TRADITION",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "Mariage Frères",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Round cream hanging sign with an engraved tea-trade illustration, 30 Rue du Bourg-Tibourg, Paris; small banner words around the illustration (tea origins, 'M.F.') are too small to transcribe reliably. The black blade sign 'Delphine-Charlotte Parmentier / Paris' below, the shop fascia '...FRERES' and an 'À VENDRE' balcony sign are distractors."
+ },
+ "c26885268": {
+  "accept": false,
+  "reason": "generic trade sign ('Photographies anciennes / Achat. Vente. Expertise') in Passage Verdeau; names no business"
+ }
+}

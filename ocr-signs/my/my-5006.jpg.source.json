@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.mapcomplete.org/#focus=pic&pic=ee4e55fc-e2b2-4e91-868a-32b9bb1d8e80",
+  "original_url": "https://panoramax.mapcomplete.org/permanent/ee/4e/55/fc/e2b2-4e91-868a-32b9bb1d8e80.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "mapcomplete",
+  "credit_as_published": "Panoramax, instance mapcomplete (https://panoramax.mapcomplete.org)",
+  "title": "Panoramax picture ee4e55fc-e2b2-4e91-868a-32b9bb1d8e80 (Kuala Lumpur, 2024-12-08)",
+  "description": "Street-level picture on Panoramax, taken 2024-12-08 near Kuala Lumpur by mapcomplete, sequence a7cf963f-8d1c-4bac-9717-e3149f5f9fff, heading None. OCR (PP-OCRv3) read: ouds Convenience Store | 202303010722（MA0296048-U） | rHe manoR sy minoze",
+  "date": "2024-12-08",
+  "categories": [],
+  "camera_location": [
+    3.1464893,
+    101.7011491
+  ],
+  "found_by": "panoramax-ocr:Kuala Lumpur",
+  "bytes": 1134071,
+  "width": 3269,
+  "height": 2452,
+  "downloaded_url": "https://panoramax.mapcomplete.org/permanent/ee/4e/55/fc/e2b2-4e91-868a-32b9bb1d8e80.jpg",
+  "derivative": "crop 1636,0,4905,2452 of the 6000x4000 HD picture"
+}

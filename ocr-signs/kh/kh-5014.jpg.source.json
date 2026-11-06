@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=d9d368f7-1b2d-438c-a832-0efdfdfcff43",
+  "original_url": "https://panoramax.openstreetmap.fr/images/d9/d3/68/f7/1b2d-438c-a832-0efdfdfcff43.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "GeoMechain",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture d9d368f7-1b2d-438c-a832-0efdfdfcff43 (Phnom Penh, 2025-11-04)",
+  "description": "Street-level picture taken 2025-11-04 near Phnom Penh by GeoMechain, sequence 2c400737-b22d-4e77-913c-d0d56323f39c, heading 4. OCR (PP-OCRv3) read: Wing | KABAS | MADEIN CAMBODIA | Concept Store | Confrel Showroom",
+  "date": "2025-11-04",
+  "categories": [],
+  "camera_location": [
+    11.565792278,
+    104.927776783
+  ],
+  "found_by": "panoramax-ocr:Phnom Penh",
+  "bytes": 3065082,
+  "width": 4080,
+  "height": 3060,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/d9/d3/68/f7/1b2d-438c-a832-0efdfdfcff43.jpg",
+  "derivative": "whole 4080x3060 HD picture as served by the Panoramax instance (byte-identical; the instance blurs faces and number plates), not cropped"
+}

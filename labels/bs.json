@@ -1,0 +1,106 @@
+{
+ "p30bedce975": {
+  "accept": false,
+  "reason": "table menu card (Just Choices), menu only"
+ },
+ "pb770e52cb2": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "TASTY",
+    "lang": "en"
+   },
+   {
+    "text": "PATTIES",
+    "lang": "en"
+   },
+   {
+    "text": "AUTHENTIC JAMAICAN PATTIES",
+    "lang": "en"
+   },
+   {
+    "text": "Social Room",
+    "lang": "en"
+   },
+   {
+    "text": "In-house dining",
+    "lang": "en"
+   },
+   {
+    "text": "wholesale / retail",
+    "lang": "en"
+   },
+   {
+    "text": "Catering",
+    "lang": "en"
+   },
+   {
+    "text": "Mon. - Sat. 7am - 8pm closed Sunday",
+    "lang": "en"
+   },
+   {
+    "text": "tastypattiesbahamas@gmail.com",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "Tasty Patties",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "White board on a wall beside a ramp at dusk: palm-tree logo with 'TASTY PATTIES' and a tiny 'AUTHENTIC JAMAICAN PATTIES' tagline, services box at right, hours and e-mail below. A vertical repeat of the logo is on the building wall behind."
+ },
+ "pc220128e59": {
+  "accept": false,
+  "reason": "indoor decorative neon slogan ('This Must Be the Place') and wine-list board; no place name"
+ },
+ "pd733ec2a47": {
+  "accept": false,
+  "reason": "indoor digital menu board (Tasty Patties), menu only; same business as pb770e52cb2"
+ },
+ "pda53acda42": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Gogos Deli",
+    "lang": "en"
+   },
+   {
+    "text": "Shop Hours:",
+    "lang": "en"
+   },
+   {
+    "text": "MONDAY- FRIDAY",
+    "lang": "en"
+   },
+   {
+    "text": "8:00am - 4:30pm",
+    "lang": "en"
+   },
+   {
+    "text": "Sandwiches • Snacks • Wraps",
+    "lang": "en"
+   },
+   {
+    "text": "Salads • Wings • Pastas",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Gogos Deli",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Printed window panel on a turquoise wall, frontal; the name is in a purple script font (first letter is a G, though OCR may read C). House number '6' beside the red door; card-payment stickers on the door."
+ }
+}

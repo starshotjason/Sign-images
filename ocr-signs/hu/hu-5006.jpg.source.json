@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=d95547e6-aa44-4c55-8383-ae5a63dfcc78",
+  "original_url": "https://panoramax.openstreetmap.fr/images/d9/55/47/e6/aa44-4c55-8383-ae5a63dfcc78.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "gymate",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture d95547e6-aa44-4c55-8383-ae5a63dfcc78 (Budapest, 2025-05-07)",
+  "description": "Street-level picture on Panoramax, taken 2025-05-07 near Budapest by gymate, sequence 99e67655-e822-4a9e-bf68-5b5f96338fc6, heading 243. OCR (PP-OCRv3) read: Csaladi Csemege | Csaladi Csemege | Nsiatartas | Vasarnap zarva | frispikirufelvagottaktejtermckakdeseg | szindicck-Aszitelcksuteminyekychips",
+  "date": "2025-05-07",
+  "categories": [],
+  "camera_location": [
+    47.473613889,
+    19.042383333
+  ],
+  "found_by": "panoramax-ocr:Budapest",
+  "bytes": 12604302,
+  "width": 8064,
+  "height": 6048,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/d9/55/47/e6/aa44-4c55-8383-ae5a63dfcc78.jpg",
+  "derivative": "whole 8064x6048 HD picture as served by the Panoramax instance (byte-identical; the service blurs faces and number plates), not cropped"
+}

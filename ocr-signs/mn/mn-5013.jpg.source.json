@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/11647121/0/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyNi81LzE1L3dyYXBwZWRfcHJvYy8xMTY0NzEyMV8wODQwZV82YTA2ZDczNjdiMjZjLmpwZw",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "OpenStreetView",
+  "credit_as_published": "KartaView user OpenStreetView (user id 44); © KartaView contributors",
+  "title": "KartaView photo 2629596041, sequence 11647121 #0 (Ulaanbaatar, 2025-11-11)",
+  "description": "360-degree panorama on KartaView, taken 2025-11-11 near Ulaanbaatar by OpenStreetView, sequence 11647121, heading 174.18. OCR (PP-OCRv3) read: WRANcenter | SEIKO | TISSOT | PEPPERLUNCH",
+  "date": "2025-11-11",
+  "categories": [],
+  "camera_location": [
+    47.916578,
+    106.90568
+  ],
+  "found_by": "kartaview-ocr:Ulaanbaatar",
+  "bytes": 872101,
+  "width": 2000,
+  "height": 1500,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyNi81LzE1L3dyYXBwZWRfcHJvYy8xMTY0NzEyMV8wODQwZV82YTA2ZDczNjdiMjZjLmpwZw",
+  "derivative": "rectilinear (gnomonic) view, yaw -99.1 deg from the panorama centre, pitch +9.1 deg, horizontal field of view 74 deg, 2000x1500 px, reprojected from the 13000x6500 full-size processed (blurred) equirectangular panorama"
+}

@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.mapcomplete.org/#focus=pic&pic=f85ab196-27b6-4090-9dce-2c46e8eac3eb",
+  "original_url": "https://panoramax.mapcomplete.org/permanent/f8/5a/b1/96/27b6-4090-9dce-2c46e8eac3eb.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "mapcomplete",
+  "credit_as_published": "Panoramax, instance mapcomplete (https://panoramax.mapcomplete.org)",
+  "title": "Panoramax picture f85ab196-27b6-4090-9dce-2c46e8eac3eb (Riga, 2026-06-16)",
+  "description": "Street-level picture on Panoramax, taken 2026-06-16 near Riga by mapcomplete, sequence a7cf963f-8d1c-4bac-9717-e3149f5f9fff, heading 342. OCR (PP-OCRv3) read: BALTU | ROTAS",
+  "date": "2026-06-16",
+  "categories": [],
+  "camera_location": [
+    56.947216302,
+    24.108492985
+  ],
+  "found_by": "panoramax-ocr:Riga",
+  "bytes": 684053,
+  "width": 1800,
+  "height": 1350,
+  "downloaded_url": "https://panoramax.mapcomplete.org/permanent/f8/5a/b1/96/27b6-4090-9dce-2c46e8eac3eb.jpg",
+  "derivative": "crop 2279,163,4079,1513 of the 4080x3072 HD picture"
+}

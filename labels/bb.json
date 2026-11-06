@@ -1,0 +1,58 @@
+{
+ "k83806493": {
+  "accept": false,
+  "reason": "shop signs in deep shadow and too small to read (only 'Top Up Here' advert disc is legible)"
+ },
+ "k83839069": {
+  "accept": true,
+  "reason": "",
+  "kind": "hard",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "BEAUTY ESSENTIALS",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Beauty Essentials",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Small hanging sign under a shop canopy in Bridgetown, in shadow and seen from below at an angle; serif capitals, low contrast (first word faint but readable). A distant red-and-white building sign further down the street is too small."
+ },
+ "k83839089": {
+  "accept": false,
+  "reason": "only text is a generic 'OPEN' window sign and no-entry signs; passers-by in the foreground"
+ },
+ "k83839197": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "PYRAMID",
+    "lang": "en"
+   },
+   {
+    "text": "MALL",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Pyramid Mall",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Tall projecting panel at top left with letters stacked vertically over a pastel triangle pattern; overhead wires cross it and a tiny line at the bottom is illegible. Pedestrian shopping street (Swan Street area) in Bridgetown. Distractors: 'ST. ADAM & SON' and 'GENESIS' blade signs, Chinese restaurant fascia at right."
+ },
+ "k83839395": {
+  "accept": false,
+  "reason": "store light-box name is cut by an umbrella and partly hidden ('...ORKS'); other signs too small; a face-blurred man fills the foreground"
+ }
+}

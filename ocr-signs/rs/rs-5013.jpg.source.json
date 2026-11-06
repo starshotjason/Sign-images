@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=9dd22a80-3960-4724-8119-01efc8703e93",
+  "original_url": "https://panoramax.openstreetmap.fr/images/9d/d2/2a/80/3960-4724-8119-01efc8703e93.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "Robot8A",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture 9dd22a80-3960-4724-8119-01efc8703e93 (Belgrade, 2024-08-23)",
+  "description": "Street-level picture taken 2024-08-23 near Belgrade by Robot8A, sequence 3cb73295-8828-4d11-9d32-811d0fa751f9, heading 49. OCR (PP-OCRv3) read: OBOTA",
+  "date": "2024-08-23",
+  "categories": [],
+  "camera_location": [
+    44.816636828,
+    20.457006133
+  ],
+  "found_by": "panoramax-ocr:Belgrade",
+  "bytes": 308197,
+  "width": 1200,
+  "height": 900,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/9d/d2/2a/80/3960-4724-8119-01efc8703e93.jpg",
+  "derivative": "crop 218,646,1418,1546 of the 4032x3024 HD picture"
+}

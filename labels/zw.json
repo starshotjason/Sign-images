@@ -1,0 +1,262 @@
+{
+ "c32248083": {
+  "accept": true,
+  "reason": "",
+  "kind": "transit",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "CAPE TOWN 2651 km",
+    "lang": "en"
+   },
+   {
+    "text": "BEIRA 1434 km",
+    "lang": "en"
+   },
+   {
+    "text": "BULAWAYO 451 km",
+    "lang": "en"
+   },
+   {
+    "text": "VICTORIA FALLS",
+    "lang": "en"
+   },
+   {
+    "text": "ALTITUDE 911 m",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Victoria Falls",
+   "type": "stop"
+  },
+  "difficulty": "medium",
+  "notes": "Classic white railway station name board on two posts at Victoria Falls station; the distance lines (left) and altitude (right) are in small print. A leaf partly covers the final S of 'FALLS'. Baboons in the foreground are incidental."
+ },
+ "c86397236": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "VUTI HIGH School",
+    "lang": "en"
+   },
+   {
+    "text": "\"WELCOMES YOU\"",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Vuti High School",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Printed banner on a whitewashed entrance wall, Vuti; each letter of 'VUTI HIGH School' sits in its own white box. The 'IMPORTANT NOTICE' rules panel below (7 numbered rules, with 'VUTI' vertically on both sides) is regulatory text and left out."
+ },
+ "c147916193": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "WELCOME TO",
+    "lang": "en"
+   },
+   {
+    "text": "MOSI-OA-TUNYA",
+    "lang": "en"
+   },
+   {
+    "text": "VICTORIA FALLS",
+    "lang": "en"
+   },
+   {
+    "text": "ZIMBABWE",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Victoria Falls",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Granite slab cut in the outline of Zimbabwe at the Victoria Falls rainforest entrance, with engraved UNESCO / World Heritage / Zimbabwe Parks logos below (small text not transcribed). Pepsi fridges, a 'NATIONAL PARK ... REST' sign behind and staff in the background are distractors."
+ },
+ "c17623870": {
+  "accept": false,
+  "reason": "near-duplicate of accepted c147916193 (same Mosi-oa-Tunya welcome stone, close-up)"
+ },
+ "c133383772": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "POMONGWE",
+    "lang": "en"
+   },
+   {
+    "text": "CAVE",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Pomongwe Cave",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "White site board on two posts in Matobo National Park; red serif title. The litter request below ('THIS IS A WORLD HERITAGE SITE, SO PLEASE HELP US TO KEEP IT CLEAN AND TIDY. ...') and the logo strip are secondary. Slightly soft focus; visitors in the background are incidental."
+ },
+ "c141469187": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "KAVANGO",
+    "lang": "en"
+   },
+   {
+    "text": "ZAMBEZI",
+    "lang": "en"
+   },
+   {
+    "text": "TRANSFRONTIER",
+    "lang": "en"
+   },
+   {
+    "text": "CONSERVATION",
+    "lang": "en"
+   },
+   {
+    "text": "AREA",
+    "lang": "en"
+   },
+   {
+    "text": "Welcome to",
+    "lang": "en"
+   },
+   {
+    "text": "Victoria Falls",
+    "lang": "en"
+   },
+   {
+    "text": "National Park",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Victoria Falls National Park",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "White board on a green palisade fence under razor wire, with the Zimbabwe Parks and Wildlife crest and a KAZA logo; the KAZA panel at the left has a pink elephant image. A different sign from the Mosi-oa-Tunya stone (c147916193)."
+ },
+ "c26117595": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "the Works",
+    "lang": "en"
+   },
+   {
+    "text": "FAIR TRADE SHOP",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "The Works",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Hand-painted white board with a navy oval and a left arrow on a metal frame in Harare; 'the Works' in a decorative font. The 'THE LITTLE CHEF' fascia with a Coca-Cola panel on the building behind is a second business (alternative target, query 'The Little Chef'); people at the picnic tables are incidental."
+ },
+ "f09c3c015-5020-430a-bc58-4e36db9dafa5": {
+  "accept": true,
+  "reason": "",
+  "kind": "hard",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "R2",
+    "lang": "und"
+   },
+   {
+    "text": "Harare",
+    "lang": "en"
+   },
+   {
+    "text": "Masvingo",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Masvingo",
+   "type": "place"
+  },
+  "difficulty": "hard",
+  "notes": "Night shot of a headlight-lit green roundabout direction sign with a yellow route number; horizontal panel seams cross the face. The rest of the frame is black; a car's yellow number plate at the lower left is incidental."
+ },
+ "c73936341": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "12 LIVINGSTONE ISLAND",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Livingstone Island",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Yellow letters carved into a tilted wooden plank on a forked post (viewpoint no. 12 in the Victoria Falls rainforest). Letters are crowded with no spaces ('12LIVINGSTONEISLAND' on the sign), and both G's look like lowercase 'g'/'9'; spray mist across the upper left."
+ },
+ "fe48d42d4-7699-41a3-ac51-710202705885": {
+  "accept": false,
+  "reason": "near-duplicate of accepted c26117595 (same 'the Works' board and Little Chef shop)"
+ },
+ "fbd00bad0-d0b0-4b0a-a0e2-f96a12615be5": {
+  "accept": false,
+  "reason": "market stall of crafts with a person in front; no sign"
+ },
+ "f3f4d8537-2fc2-44c6-b980-28317654cb38": {
+  "accept": false,
+  "reason": "interior of Eastgate mall atrium; no legible sign"
+ },
+ "c76157316": {
+  "accept": false,
+  "reason": "mainly a caution notice (slippery rocks, no barriers); the stencilled distance lines are secondary and the letter forms ('DANGER'/'DANCER POINT') are ambiguous"
+ },
+ "c141469336": {
+  "accept": false,
+  "reason": "near-duplicate of accepted c147916193 (same Mosi-oa-Tunya welcome stone, wider view with flags)"
+ }
+}

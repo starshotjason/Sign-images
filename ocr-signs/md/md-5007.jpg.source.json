@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/1381522/86/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTEub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAxOS80LzIxL3Byb2MvMTM4MTUyMl9jN2I5Zl81Y2QxNDlmYjNhNTg1LmpwZw",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "anatolie-golovco-lightcyphers",
+  "credit_as_published": "KartaView user anatolie-golovco-lightcyphers (user id 13865); © KartaView contributors",
+  "title": "KartaView photo 404443082, sequence 1381522 #86 (Chisinau, 2019-03-11)",
+  "description": "Street-level picture on KartaView, taken 2019-03-11 near Chisinau by anatolie-golovco-lightcyphers, sequence 1381522, heading 38. OCR (PP-OCRv3) read: MEXX JACKJONES",
+  "date": "2019-03-11",
+  "categories": [],
+  "camera_location": [
+    47.022263,
+    28.831912
+  ],
+  "found_by": "kartaview-ocr:Chisinau",
+  "bytes": 314871,
+  "width": 1390,
+  "height": 1042,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTEub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAxOS80LzIxL3Byb2MvMTM4MTUyMl9jN2I5Zl81Y2QxNDlmYjNhNTg1LmpwZw",
+  "derivative": "crop 2609,1023,3999,2065 of the 4000x3000 full-size processed (blurred) picture"
+}

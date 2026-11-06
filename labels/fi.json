@@ -1,0 +1,364 @@
+{
+ "pddea5d37aa": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "KAIVOPIHA",
+    "lang": "fi"
+   },
+   {
+    "text": "UNICAFE",
+    "lang": "fi"
+   },
+   {
+    "text": "BASE CAMP",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Kaivopiha",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Image is stored rotated 90 degrees (sky to the left). Target is the illuminated white 'KAIVOPIHA / UNICAFE / BASE CAMP' fascia on the Kaivopiha building, Helsinki. Distractors: the red/white 'RESTAURANT ZETOR / FINNISH FLAVOURS / LEGENDARY ATMOSPHERE / OPEN DAILY' sign above, window graphics, and the engraved Student Union 13.5.2018 sculpture base in the foreground."
+ },
+ "k1053649430": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "SAVOY",
+    "lang": "fi"
+   },
+   {
+    "text": "RAVINTOLA Savoy RESTAURANT",
+    "lang": "fi"
+   },
+   {
+    "text": "14",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "Savoy",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Restaurant Savoy, Eteläesplanadi 14, Helsinki: vertical 'SAVOY' blade sign plus the white canopy 'RAVINTOLA [Savoy script logo] RESTAURANT 14'. 'Finlayson' shop lettering and 'AHLSTRÖM CA...' on the upper facade are distractors; Esplanadi park and city bikes on the left."
+ },
+ "k1053644518": {
+  "accept": true,
+  "reason": "",
+  "kind": "building tag",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ALEXANDRIA",
+    "lang": "fi"
+   }
+  ],
+  "expect": {
+   "query": "Alexandria",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Metal building-name letters on an office block by Esplanadi, Helsinki; the second A is drawn as a stylised ring with a swoosh. The green 'OMA HAMMASLÄÄKÄRI' dentist sign above and 'masu' restaurant signs below are distractors."
+ },
+ "p54f80281bc": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "PIZZA & GRILL",
+    "lang": "en"
+   },
+   {
+    "text": "PAULI'S",
+    "lang": "en"
+   },
+   {
+    "text": "PIZZA & GRILL",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Pauli's",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Gold-on-black canopy 'PIZZA & GRILL' and a projecting blade sign 'PAULI'S / PIZZA & GRILL', Helsinki; house number 8 lightbox beside the door. The lunch A-board ('PAULI'S LOUNAS') and window reflections are distractors."
+ },
+ "k451420841": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "omenahotels.com",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Omena Hotel",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Red lowercase fascia lettering of Omena Hotel, Helsinki, across a pedestrian street. 'nudge' shop sign at left and 'vogliа'-style awning at right are distractors; the passer-by's face is blurred and incidental."
+ },
+ "k144998671": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "LÄHITAPIOLA",
+    "lang": "fi"
+   }
+  ],
+  "expect": {
+   "query": "LähiTapiola",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Roof-edge sign with logo on a copper roof, Helsinki, photographed through a rain-spotted windscreen. The OP logo/temperature display and 'VAPAATA TOIMITILAA 200 - 2000 m²' banner are distractors."
+ },
+ "k1053611526": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "SOKOS HOTEL VAAKUNA",
+    "lang": "fi"
+   }
+  ],
+  "expect": {
+   "query": "Sokos Hotel Vaakuna",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Rooftop-level lettering with the Sokos 'S' logo between SOKOS and HOTEL, tilted shot, Helsinki. The lower 'SOKOS' panel and 'S MARKET 24h' are distractors; the right end of 'VAAKUNA' touches the top edge of the frame."
+ },
+ "k145000313": {
+  "accept": false,
+  "reason": "office block with many small tenant logos seen through a rainy windscreen; no single main sign"
+ },
+ "k1053240298": {
+  "accept": false,
+  "reason": "near-duplicate: same Sokos department-store building as k1053611526 (SOKOS lettering); other signs too small"
+ },
+ "k451421213": {
+  "accept": false,
+  "reason": "window lettering cut off at both edges ('PALVEL...', 'HOUSUKA...'); no complete name"
+ },
+ "f60025af6-f2e2-4186-b35d-3b566ab15ec7": {
+  "accept": false,
+  "reason": "tractor badge (vehicle branding), not a place sign"
+ },
+ "c76846911": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "OIKOKATU",
+    "lang": "fi"
+   },
+   {
+    "text": "GENGATAN",
+    "lang": "sv"
+   }
+  ],
+  "expect": {
+   "query": "Oikokatu",
+   "type": "street"
+  },
+  "difficulty": "medium",
+  "notes": "Old-style Helsinki bilingual enamel plates (Finnish over Swedish) on a corner of Kruununhaka, seen from below at an angle. The blue house-name plaque below with a tiger ('TIIKERI / TIGERN', tiny) is a distractor."
+ },
+ "c76845209": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "KÖYDENPUNOJANKATU",
+    "lang": "fi"
+   },
+   {
+    "text": "REPSLAGAREGATAN",
+    "lang": "sv"
+   }
+  ],
+  "expect": {
+   "query": "Köydenpunojankatu",
+   "type": "street"
+  },
+  "difficulty": "medium",
+  "notes": "Bilingual enamel street plates on a building corner, Helsinki (Punavuori). The no-parking sign with the yellow parking-zone panel ('9 - 21 (9 - 18)', 'Vyöhyke Zon 1', 'Ei koske P-tunnuksella / Gäller ej med P-tecknet', 'A') is a distractor."
+ },
+ "c76844712": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "TELAKKAKATU",
+    "lang": "fi"
+   },
+   {
+    "text": "DOCKSGATAN",
+    "lang": "sv"
+   }
+  ],
+  "expect": {
+   "query": "Telakkakatu",
+   "type": "street"
+  },
+  "difficulty": "hard",
+  "notes": "Corner of a brick building in Punavuori, Helsinki, steep angle. Two street signs: the old enamel plates 'TELAKKAKATU / DOCKSGATAN' at left (target, per the file categories) and a modern white plate 'MUNKKISAARENKATU / MUNKHOLMSGATAN' higher up, which is equally valid. A tiny worn third plate '...HOLMSG...' and a fire-hydrant 'T' marker are distractors."
+ },
+ "c100459655": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "LAPIN",
+    "lang": "fi"
+   },
+   {
+    "text": "KESKUSSAIRAALA",
+    "lang": "fi"
+   },
+   {
+    "text": "SAMI GUOVDDASBUOHCCEVIESSU",
+    "lang": "se"
+   }
+  ],
+  "expect": {
+   "query": "Lapin keskussairaala",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Blue free-standing name board of the Central Hospital of Lapland, Rovaniemi, with the Northern Sami name on the third line. At 1600 px no diacritics are visible on the Sami line (expected Northern Sami spelling would use á/š), so it is transcribed as seen. Small parking signs behind are distractors."
+ },
+ "c3835241": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Porosaivontie",
+    "lang": "fi"
+   },
+   {
+    "text": "Boažosáivvoluodda",
+    "lang": "se"
+   }
+  ],
+  "expect": {
+   "query": "Porosaivontie",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Bilingual Finnish/Northern Sami street sign, Enontekiö; the Sami line has ž and á. A partial blue arrow sign at the right edge is a distractor."
+ },
+ "c16078201": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Cyrl",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "СОФІЙСКАЯ УЛИЦА",
+    "lang": "ru",
+    "latin": "Sofiyskaya ulitsa (Sofia Street)"
+   },
+   {
+    "text": "SOFIANKATU",
+    "lang": "fi"
+   },
+   {
+    "text": "SOFIEGATAN",
+    "lang": "sv"
+   }
+  ],
+  "expect": {
+   "query": "Sofiankatu",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Historic-style trilingual Russian/Finnish/Swedish plate on Sofiankatu museum street, Helsinki; the Russian line uses pre-reform orthography with dotted І ('СОФІЙСКАЯ'). Frontal and sharp."
+ },
+ "c54274328": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Coca-Cola Coke",
+    "lang": "en"
+   },
+   {
+    "text": "ANNEN",
+    "lang": "fi"
+   },
+   {
+    "text": "SHOP",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Annen Shop",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Souvenir-shop fascia on a corner near Temppeliaukio church, Helsinki (2003). The street plate 'FREDRIKINKATU / FREDRIKSGATAN' at upper right is a good secondary target. A burned-in photographer caption runs along the bottom (Chinese + 'Rock (Temppeliankia) Church, Helsinki 2003-10-18') and is a distractor, as are 'Souvenirs / XOtic Finland / AMINNE Design Wear' over the door and the mascot figure."
+ }
+}

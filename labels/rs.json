@@ -1,0 +1,536 @@
+{
+ "p17f42479a9": {
+  "accept": true,
+  "reason": "",
+  "kind": "hard",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "CAFFE-POSLASTIČARNICA",
+    "lang": "sr"
+   },
+   {
+    "text": "ELEN",
+    "lang": "sr"
+   }
+  ],
+  "expect": {
+   "query": "poslastičarnica",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Novi Sad. Awning text runs on one line: 'CAFFE-POSLASTIČARNICA ELEN...'; the end of the shop name is distorted by the awning fold (looks like 'I NS' / 'INS' but not reliably readable), so only 'ELEN' is transcribed. Other faded sign at top left is illegible. Scooter plate blurred."
+ },
+ "p1898a42598": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "yu.net",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "yu.net",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Projecting lightbox of the yu.net (internet/TV provider) shop in central Belgrade, with large Y logo."
+ },
+ "p359dc1dc24": {
+  "accept": false,
+  "reason": "only traffic signs (STOP, lane-direction pictograms) and a 'CFB' sticker; no place text"
+ },
+ "p442a2b8ca5": {
+  "accept": true,
+  "reason": "",
+  "kind": "hard",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "WESTERN UNION",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Western Union",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Motion-blurred shot through foliage, Belgrade. Target is the lit yellow WESTERN UNION sign. Distractors: red fascia above mostly hidden by leaves (only '...PAY'-like letters visible), blue banner 'UPLATA SVIH VRSTA RAČUNA OVDE!'."
+ },
+ "p5e08ddeae2": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "boutique SANDRA",
+    "lang": "sr"
+   }
+  ],
+  "expect": {
+   "query": "Sandra",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Belgrade street view; vertical black panel 'boutique SANDRA' (S drawn as a lightning bolt), repeated small on the awning edge. Neighbouring '...ulus' sign is cut/obscured."
+ },
+ "p61e6d4c95a": {
+  "accept": false,
+  "reason": "near-duplicate: same yu.net shop as p1898a42598 (wide view, sign small; large window text is advertising 'TI BIRAŠ INTERNET I TV BEZ OBAVEZA')"
+ },
+ "p9dd22a8039": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ŠOBOTA",
+    "lang": "sr"
+   }
+  ],
+  "expect": {
+   "query": "Šobota",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Lit letters on a black awning, Belgrade. First letter carries a small diacritic above the S (Š); the source OCR read it as SOBOTA."
+ },
+ "pab14e326f3": {
+  "accept": false,
+  "reason": "main text is graffiti ('UPPS') on a shutter; street plate at top left is cut off and blurred; passer-by face blurred"
+ },
+ "pe1d7592a2d": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Pasteli",
+    "lang": "sr"
+   },
+   {
+    "text": "CAKE SHOP",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Pasteli",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Belgrade: round illuminated sign, 'Pasteli' in script lettering with a cake icon above and 'CAKE SHOP' along the lower rim; balloon arches for an opening. Small office plates on the wall at left (one ending '...Мијатовић') are cut off and unreadable."
+ },
+ "k127283575": {
+  "accept": false,
+  "reason": "only a concert banner (SCORPIONS ... Arena) and distant, unreadable shop signs in a street view"
+ },
+ "k77606743": {
+  "accept": true,
+  "reason": "",
+  "kind": "hard",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "MENJACNICA",
+    "lang": "sr"
+   },
+   {
+    "text": "AS",
+    "lang": "sr"
+   },
+   {
+    "text": "NAJBOLJI OTKUP I",
+    "lang": "sr"
+   },
+   {
+    "text": "PRODAJA SVIH VALUTA",
+    "lang": "sr"
+   }
+  ],
+  "expect": {
+   "query": "Menjačnica AS",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Belgrade, very dark and hazy frame shot through glass; target is the yellow exchange-office sign (written without the háček: MENJACNICA). The 'P' of PRODAJA is partly hidden. Distractors: '...HOTEL SRBIJA' fascia below (first word unclear), a second 'MENJACNICA' sign behind glass, a 'Tehno...' facade logo and a 'City Light' sign at the top edge."
+ },
+ "k77622905": {
+  "accept": false,
+  "reason": "only a no-horn sign with the note 'Deca se rađaju, molimo za tišinu' (a request, not a place name) and kiosk advertising"
+ },
+ "pc5f24a1188": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ciciban",
+    "lang": "sl"
+   }
+  ],
+  "expect": {
+   "query": "Ciciban",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Belgrade pedestrian street (Knez Mihailova area): two red illuminated 'ciciban' children's-shoe-shop signs in arched shopfronts (the right one cut by the frame). Distractor: LED exchange-office sign 'MENJAČNICA' / '€ MENJACNICA $', an 'R' sign. Passers-by faces are blurred."
+ },
+ "pfa414c6154": {
+  "accept": false,
+  "reason": "dashcam frame of grass and the windscreen; no sign"
+ },
+ "k118834231": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Cyrl"
+  ],
+  "lines": [
+   {
+    "text": "ХОТЕЛ",
+    "lang": "sr",
+    "latin": "Hotel"
+   },
+   {
+    "text": "МОСКВА",
+    "lang": "sr",
+    "latin": "Moskva"
+   }
+  ],
+  "expect": {
+   "query": "Хотел Москва",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Belgrade, Terazije: rooftop letter sign above the Hotel Moskva building, overcast and slightly soft. Only the Cyrillic form is shown on this sign."
+ },
+ "f19534ee6-568a-4233-8d1a-48f4bb100fdb": {
+  "accept": false,
+  "reason": "the two photographers' faces are reflected large across the mirror-steel 'NIKOLA TESLA MUSEUM' plaque and are effectively the subject"
+ },
+ "f4cd2698b-6e55-4f9d-a378-da08c140fa86": {
+  "accept": false,
+  "reason": "warning sign only ('КРЕТАЊЕ ОВИМ ПРОСТОРОМ МОЖЕ УГРОЗИТИ ВАШ ЖИВОТ / WALKING IN THIS AREA YOU RISK YOUR LIFE'); no place name"
+ },
+ "f7b761764-dc5e-4531-bca1-97568006162f": {
+  "accept": false,
+  "reason": "locomotive number plates (441-706, BoBo-19) on a vehicle; not a place sign"
+ },
+ "f7ef9a99c-ce65-4086-a2fa-96db89f38942": {
+  "accept": false,
+  "reason": "wrong country: Baščaršija, Sarajevo (Bosnia and Herzegovina), not Serbia"
+ },
+ "f9e617b60-d1c0-4c5b-bf39-bce6077ab805": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "CASSA DELL ORO",
+    "lang": "it"
+   },
+   {
+    "text": "BJEGOVIĆ",
+    "lang": "sr"
+   }
+  ],
+  "expect": {
+   "query": "Bjegović",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Belgrade jewellery shop, black-and-white photo. 'CASSA DELL ORO' (sic, no apostrophe; arched raised letters) above an awning reading 'BJEGOVIĆ' behind a Christmas garland, with a diamond logo. House number '54' on a small plate at right. People in front are incidental."
+ },
+ "ffb31c33b-a143-4109-abc2-afa0e806b815": {
+  "accept": false,
+  "reason": "facade of the Serbian Patriarchate building; no readable sign text"
+ },
+ "f40b772f9-7660-45eb-9e2a-31142b0cd425": {
+  "accept": true,
+  "reason": "",
+  "kind": "building tag",
+  "scripts": [
+   "Cyrl"
+  ],
+  "lines": [
+   {
+    "text": "ИЗВОЗНА БАНКА",
+    "lang": "sr",
+    "latin": "Izvozna banka (Export Bank)"
+   }
+  ],
+  "expect": {
+   "query": "Извозна банка",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Belgrade: name carved in relief on the arched pediment at the top of the old Export Bank building; low contrast, white on white, small in the full frame. Only the Cyrillic form appears."
+ },
+ "f0951af83-f33b-4821-a211-c50835bb7f6f": {
+  "accept": false,
+  "reason": "target is a school-zone warning sign ('ПАЗИ ШКОЛА'); the shop fascia behind is cut off ('...UTOCOM') and the rest is advertising (TOHATSU outboards, Detroit Diesel)"
+ },
+ "f25abf243-bb8c-43da-9742-8dbef08f4442": {
+  "accept": false,
+  "reason": "museum painting (Tintoretto); no sign"
+ },
+ "f52ec8bda-a5ce-4518-a050-20efdbfa5ef1": {
+  "accept": false,
+  "reason": "near-duplicate: same 'ХОТЕЛ МОСКВА' rooftop sign as accepted k118834231 (here small in a full-facade view)"
+ },
+ "f80c0ce90-ee1c-4727-ac44-648f5a91a545": {
+  "accept": false,
+  "reason": "wrong country: 'Little Nis' Forest Giants sculpture sign at Bernheim Forest, Kentucky, USA (Nis is the sculpture's name, not the Serbian city)"
+ },
+ "f91ba7ea5-15aa-4117-a51c-58f20392bd84": {
+  "accept": false,
+  "reason": "artillery exhibit at the Military Museum; only a tiny unreadable label, no name board"
+ },
+ "fd6153198-f286-4e4a-86fb-9acc24b02dd1": {
+  "accept": false,
+  "reason": "faded painted advertisement ('ТОМБОЛА' with the Ф.К. ВОЈВОДИНА club crest); not a place sign"
+ },
+ "ff3e03e10-4846-4f76-bdc7-cc3869f89c10": {
+  "accept": false,
+  "reason": "exhibition poster in a window ('COMRADE à la mode'); advertising, not a place sign"
+ },
+ "ff49f24f4-0a17-486c-8b7e-4c53ac7153cd": {
+  "accept": false,
+  "reason": "museum exhibit caption (Homo heidelbergensis skull model); not a place sign"
+ },
+ "f10fcbc0a-8f99-444f-8f76-c5c8359e1b0b": {
+  "accept": false,
+  "reason": "close-up of sweets in a display case; no sign"
+ },
+ "f1ffae7f6-5e14-4d38-9d1d-904f6256a9a5": {
+  "accept": false,
+  "reason": "dark clothing-store interior; no readable sign"
+ },
+ "f7dcf1522-711b-457c-b15c-9a5f0637903b": {
+  "accept": false,
+  "reason": "market-stall scene with people as the subject; awning text is faint and unreadable"
+ },
+ "f7eb37b09-0bdf-4781-9272-68c3285d60ec": {
+  "accept": false,
+  "reason": "subject is a street lamp; the 'АПОЛО' rooftop sign and a McDonald's fascia are small and partly hidden by the lamp"
+ },
+ "f95e596f9-d0df-428a-aa5a-4afa57e49071": {
+  "accept": false,
+  "reason": "high aerial street view; all signs (e.g. 'pter') are tiny or cut off"
+ },
+ "f96b2cfa1-0791-4579-a250-f963c804f5f4": {
+  "accept": false,
+  "reason": "hazy cafe street scene with no readable sign"
+ },
+ "fbb5fcdf3-c6b5-4cb0-8ec4-e439e2f479d4": {
+  "accept": false,
+  "reason": "church and square at dusk; only an advertising board (McDonald's 'mix 2') and a cut-off menu board"
+ },
+ "f7b6b9a8e-81dc-4003-91be-656a6fbc48dc": {
+  "accept": false,
+  "reason": "only an uneven-road warning sign with a '300 m' distance plate; no place text"
+ },
+ "fa6b6aee3-3c31-4f02-b0da-3be92ddf536e": {
+  "accept": false,
+  "reason": "a politician speaking at a press event is the subject; the backdrop is a sponsor logo (THE WORLD BANK)"
+ },
+ "fbdb82b67-886d-4ebd-a0ea-984e46a641cf": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "PRANJANI 1944",
+    "lang": "en"
+   },
+   {
+    "text": "AIRFIELD OF FREEDOM AND WAR",
+    "lang": "en"
+   },
+   {
+    "text": "ALLIANCE BETWEEN THE UNITED",
+    "lang": "en"
+   },
+   {
+    "text": "STATES AND THE FORCES OF",
+    "lang": "en"
+   },
+   {
+    "text": "GENERAL DRAŽA MIHAJLOVIĆ",
+    "lang": "en"
+   },
+   {
+    "text": "PRANJANI 2004",
+    "lang": "en"
+   },
+   {
+    "text": "AMERICAN AIRMEN,",
+    "lang": "en"
+   },
+   {
+    "text": "AMONG THE SERBS AGAIN",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Pranjani",
+   "type": "place"
+  },
+  "difficulty": "medium",
+  "notes": "Bronze memorial plaque on a granite board at the WWII Halyard-mission airfield in Pranjani (central Serbia), shot at an angle. All-caps raised letters; names keep their diacritics (DRAŽA MIHAJLOVIĆ). The place name to search is Pranjani."
+ },
+ "c113201197": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Cyrl"
+  ],
+  "lines": [
+   {
+    "text": "ДОРЋОЛСКИ ШУРДА",
+    "lang": "sr",
+    "latin": "Dorćolski Šurda (Šurda of Dorćol)"
+   }
+  ],
+  "expect": {
+   "query": "Дорћолски Шурда",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Barber shop fascia on Drinčićeva street, Belgrade, stylised display font with Serbian Ћ; same name repeated on the window banner below. Window cursive 'фризер', door notices and a vertical 'ANTIQUES' sign at right are distractors. The window figure is an illustration, not a photo."
+ },
+ "c1496212": {
+  "accept": false,
+  "reason": "protest/political graffiti (OTPOR stencil), not a map-searchable sign"
+ },
+ "c15182802": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Cyrl"
+  ],
+  "lines": [
+   {
+    "text": "МЕДИЦИНСКИ ФАКУЛТЕТ",
+    "lang": "sr",
+    "latin": "Medicinski fakultet (Faculty of Medicine)"
+   },
+   {
+    "text": "УНИВЕРЗИТЕТА У БЕОГРАДУ",
+    "lang": "sr",
+    "latin": "Univerziteta u Beogradu (of the University of Belgrade)"
+   },
+   {
+    "text": "СТОМАТОЛОШКИ ФАКУЛТЕТ",
+    "lang": "sr",
+    "latin": "Stomatološki fakultet (Faculty of Dental Medicine)"
+   },
+   {
+    "text": "УНИВЕРЗИТЕТА У БЕОГРАДУ",
+    "lang": "sr",
+    "latin": "Univerziteta u Beogradu"
+   }
+  ],
+  "expect": {
+   "query": "Стоматолошки факултет",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Two bronze name boards on posts in front of the faculty building, Belgrade; dappled tree shadow over the letters and a stylised serif font."
+ },
+ "c22943939": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Cyrl",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Скадарлија - боемска четврт",
+    "lang": "sr",
+    "latin": "Skadarlija - boemska četvrt (bohemian quarter)"
+   },
+   {
+    "text": "Skadarlija - bohemian quarter",
+    "lang": "en"
+   },
+   {
+    "text": "Трг Републике",
+    "lang": "sr",
+    "latin": "Trg Republike (Republic Square)"
+   },
+   {
+    "text": "Republic Square",
+    "lang": "en"
+   },
+   {
+    "text": "Народни музеј",
+    "lang": "sr",
+    "latin": "Narodni muzej (National Museum)"
+   },
+   {
+    "text": "National Museum",
+    "lang": "en"
+   },
+   {
+    "text": "Калемегдан",
+    "lang": "sr",
+    "latin": "Kalemegdan"
+   },
+   {
+    "text": "Kalemegdan",
+    "lang": "en"
+   },
+   {
+    "text": "Кнез-Михаилова - пешачка зона",
+    "lang": "sr",
+    "latin": "Knez-Mihailova - pešačka zona (pedestrian zone)"
+   },
+   {
+    "text": "Knez Mihailova - pedestrian zone",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Трг Републике",
+   "type": "place"
+  },
+  "difficulty": "easy",
+  "notes": "Belgrade centre tourist direction sign, five brown/white panels with arrows and pictograms. Cyrillic is in Serbian italic letterforms: т is drawn like ш with an overbar (четврт, Трг) and п like и with an overbar (Републике, пешачка); transcribed as standard т/п. Graffiti 'PDF CREW 2012' on the gantry beam below is a distractor."
+ }
+}

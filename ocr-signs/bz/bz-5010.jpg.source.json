@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/2892026/59/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMC84LzEwL3Byb2MvMjg5MjAyNl82ZGY4Zl81ZjMwYjRkYmI4MDIxLmpwZw",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "charlie-plett",
+  "credit_as_published": "KartaView user charlie-plett (user id 24854); © KartaView contributors",
+  "title": "KartaView photo 1042867634, sequence 2892026 #59 (Belize City, 2020-03-18)",
+  "description": "Street-level picture on KartaView, taken 2020-03-18 near Belize City by charlie-plett, sequence 2892026, heading 134.06. OCR (PP-OCRv3) read: GOLDENSKYSTORE | \"We Care for your baby's comfort\" | GLLDEN SKY SHOD | KEEP | RESIDENTS | RIGHT",
+  "date": "2020-03-18",
+  "categories": [],
+  "camera_location": [
+    17.495141,
+    -88.191142
+  ],
+  "found_by": "kartaview-ocr:Belize City",
+  "bytes": 1428269,
+  "width": 4000,
+  "height": 2250,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMC84LzEwL3Byb2MvMjg5MjAyNl82ZGY4Zl81ZjMwYjRkYmI4MDIxLmpwZw",
+  "derivative": "whole 4000x2250 full-size processed (blurred) picture as served by the KartaView CDN (byte-identical; the service blurs faces and number plates), not cropped"
+}

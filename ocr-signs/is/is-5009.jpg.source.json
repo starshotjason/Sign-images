@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/1180255/397/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlOC5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE4LzUvMTIvcHJvYy8xMTgwMjU1X2VkOGY1XzQ4LmpwZw",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "Serzh",
+  "credit_as_published": "KartaView user Serzh (user id 809); © KartaView contributors",
+  "title": "KartaView photo 243043145, sequence 1180255 #397 (Reykjavik, 2018-05-10)",
+  "description": "Street-level picture on KartaView, taken 2018-05-10 near Reykjavik by Serzh, sequence 1180255, heading 0. OCR (PP-OCRv3) read: Sian 1998",
+  "date": "2018-05-10",
+  "categories": [],
+  "camera_location": [
+    64.148362,
+    -21.937691
+  ],
+  "found_by": "kartaview-ocr:Reykjavik",
+  "bytes": 157561,
+  "width": 1200,
+  "height": 900,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlOC5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE4LzUvMTIvcHJvYy8xMTgwMjU1X2VkOGY1XzQ4LmpwZw",
+  "derivative": "crop 720,180,1920,1080 of the 1920x1080 full-size processed (blurred) picture"
+}

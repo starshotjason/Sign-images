@@ -1,0 +1,523 @@
+{
+  "k1975072313": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "شارع عبدالله بن جاسم",
+        "lang": "ar",
+        "latin": "Shari' Abdullah bin Jasim (Abdullah Bin Jasim Street)"
+      },
+      {
+        "text": "Abdullah Bin Jasim Street",
+        "lang": "en"
+      },
+      {
+        "text": "St. 810 ش",
+        "lang": "und"
+      },
+      {
+        "text": "Zone 1",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Abdullah Bin Jasim Street",
+      "type": "street"
+    },
+    "difficulty": "medium",
+    "notes": "Doha white bilingual street-name sign with ornamental corners; bottom band gives street number 810 (ش = shari') and Zone 1. Backlit against the sun; slight angle. Brown tourist sign and speed sign in the distance are distractors."
+  },
+  "k1975069705": {
+    "accept": true,
+    "reason": "",
+    "kind": "hard",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "شارع جاسم بن م",
+        "lang": "ar",
+        "latin": "Shari' Jasim bin M[...] (Jasim bin M... Street)"
+      },
+      {
+        "text": "n Mohammed Street",
+        "lang": "en"
+      },
+      {
+        "text": "Z. 1",
+        "lang": "en"
+      },
+      {
+        "text": "ش. ١٢٩",
+        "lang": "ar",
+        "latin": "Sh. 129 (street no. 129)"
+      }
+    ],
+    "expect": {
+      "query": "Jasim Bin Mohammed Street",
+      "type": "street"
+    },
+    "difficulty": "hard",
+    "notes": "Doha street sign cut off by the left frame edge: Arabic reads 'شارع جاسم بن م…' and English '…n Mohammed Street'; street number in Arabic-Indic digits ١٢٩, Zone 1. Query reconstructs the cut name (Jasim bin Mohammed) from the visible Arabic; the transcription keeps only what is visible. Speed sign ٦٠/60 is a distractor."
+  },
+  "k1942268729": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn",
+      "Arab"
+    ],
+    "lines": [
+      {
+        "text": "DOHA BANK",
+        "lang": "en"
+      },
+      {
+        "text": "بنك الدوحة",
+        "lang": "ar",
+        "latin": "Bank ad-Dawha (Doha Bank)"
+      }
+    ],
+    "expect": {
+      "query": "Doha Bank",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Long white fascia band across a lattice facade, angled; logo between the English and Arabic. Blue bank fascia and logo on the building at left are distractors (illegible)."
+  },
+  "k1958687161": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Latn",
+      "Arab"
+    ],
+    "lines": [
+      {
+        "text": "Al Souq",
+        "lang": "en"
+      },
+      {
+        "text": "السوق",
+        "lang": "ar",
+        "latin": "as-Suq (the market)"
+      },
+      {
+        "text": "Zone 7",
+        "lang": "en"
+      },
+      {
+        "text": "منطقة ٧",
+        "lang": "ar",
+        "latin": "Mintaqa 7 (Zone 7)"
+      }
+    ],
+    "expect": {
+      "query": "Al Souq",
+      "type": "place"
+    },
+    "difficulty": "easy",
+    "notes": "Blue Doha district (zone) name sign, Zone 7 Al Souq, near Souq Waqif; Arabic-Indic ٧ in the Arabic zone box."
+  },
+  "k1926792793": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "شارع حمد الكبير",
+        "lang": "ar",
+        "latin": "Shari' Hamad al-Kabir (Grand Hamad Street)"
+      },
+      {
+        "text": "Grand Hamad Street",
+        "lang": "en"
+      },
+      {
+        "text": "St. 119 ش",
+        "lang": "und"
+      },
+      {
+        "text": "Zone 6",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Grand Hamad Street",
+      "type": "street"
+    },
+    "difficulty": "easy",
+    "notes": "Doha white bilingual street sign, street no. 119, Zone 6. Pedestrian (face blurred) and Toyota SUV incidental."
+  },
+  "k1637471481": {
+    "accept": true,
+    "reason": "",
+    "kind": "hard",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "مشيرب",
+        "lang": "ar",
+        "latin": "Mushayrib (Mushaireb)"
+      },
+      {
+        "text": "Mushaireb",
+        "lang": "en"
+      },
+      {
+        "text": "4",
+        "lang": "und"
+      },
+      {
+        "text": "٤",
+        "lang": "und"
+      }
+    ],
+    "expect": {
+      "query": "Mushaireb",
+      "type": "place"
+    },
+    "difficulty": "hard",
+    "notes": "Small blue district sign in the middle distance (Zone 4 Mushaireb); tiny 'Zone'/'منطقة' captions above the digits are not legible. Large 'NISSAN' tailgates, STOP/قف sign, 'Bus & Permitted Vehicles Lane' sign, 'The Town Hotel' and Woqod station are distractors."
+  },
+  "k2001464105": {
+    "accept": false,
+    "reason": "vehicle branding (TOYOTA tailgate) is the subject"
+  },
+  "k1637471161": {
+    "accept": false,
+    "reason": "FIFA World Cup banner (slogan/advert); road signs at the edge are cut off"
+  },
+  "k1926793273": {
+    "accept": false,
+    "reason": "only STOP/قف signs; no place text"
+  },
+  "k1942321801": {
+    "accept": false,
+    "reason": "vehicle branding (NISSAN) only"
+  },
+  "k1942321641": {
+    "accept": false,
+    "reason": "vehicle livery and an illegible distant brown sign"
+  },
+  "k1957695641": {
+    "accept": false,
+    "reason": "public-information advert on a display tower; no place name"
+  },
+  "c103883203": {
+    "accept": false,
+    "reason": "Al Ruwais Port welcome/directory board is too far and small to read at 1600 px (only the header is barely discernible)"
+  },
+  "c147777556": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "مستشفى سوق واقف للصقور",
+        "lang": "ar",
+        "latin": "Mustashfa Suq Waqif lis-Suqur (Souq Waqif Falcon Hospital)"
+      },
+      {
+        "text": "SOUQ WAQIF FALCON HOSPITAL",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Souq Waqif Falcon Hospital",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Hanging gold panel in a carved wooden frame, Souq Waqif, Doha, at night from below with a lamp flare at right. Falcon-and-crescent emblem above. The Arabic is calligraphic: the final ى of مستشفى is undotted and there is a fatha on سوق, omitted here."
+  },
+  "c75388797": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "مركز لعبيب الصحي",
+        "lang": "ar",
+        "latin": "Markaz Li'bib as-Sihhi (Leabaib Health Centre)"
+      },
+      {
+        "text": "Leabaib Health Center",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Leabaib Health Center",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Brown arrow-shaped direction sign on two posts at a junction, Al Daayen; fairly small in the frame (right side). Traffic signs and a car with a blurred spare-wheel cover are distractors."
+  },
+  "c76438504": {
+    "accept": false,
+    "reason": "Ministry of Environment prohibition board on Al Aaliya Island; warning text, too small to read, no place name legible"
+  },
+  "c81961496": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "الحويلة",
+        "lang": "ar",
+        "latin": "al-Huwayla (Al Huwaila)"
+      },
+      {
+        "text": "AL HUWAILA",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Al Huwaila",
+      "type": "place"
+    },
+    "difficulty": "easy",
+    "notes": "Orange direction sign with a left arrow on two posts in the desert, Al Shamal, northern Qatar; points to the ruined settlement. Arabic letters are stretched with kashida."
+  },
+  "c84231154": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "برادات العبيدلي الحديثة",
+        "lang": "ar",
+        "latin": "Baradat al-'Ubaydli al-Haditha (Al-Obaidly Modern Cold Stores)"
+      },
+      {
+        "text": "لمواد غذائية فلبينية",
+        "lang": "ar",
+        "latin": "li-Mawadd Ghidha'iya Filibiniya (for Filipino foodstuffs)"
+      },
+      {
+        "text": "AL -OBAIDLY MODERN COLD STORES W.L.L",
+        "lang": "en"
+      },
+      {
+        "text": "PILIPINO FOOD STUFF",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Al-Obaidly Modern Cold Stores",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Blue lightbox fascia at night, Doha. Small 'ذ.م.م' at the left of the top Arabic line and the TEL / P.O.Box / C.R No line are not transcribed. Spacing 'AL -OBAIDLY' as printed. Distractors: Rainbow milk / 'كافتيريا ابوناصر فرع / ABU NASSAR CAFETERIA' at left, red 'AL-NA... BATCHE...' butchery sign cut off at right, and a Karwa taxi with Al Jarah Holding branding in the foreground."
+  },
+  "c84516441": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "الفضل للعطورات وأدوات التجميل",
+        "lang": "ar",
+        "latin": "al-Fadl lil-'Uturat wa-Adawat at-Tajmil (Al Fadl Perfumes and Cosmetics)"
+      },
+      {
+        "text": "AL FAZAL PERFUMS & COSMETICS",
+        "lang": "en"
+      },
+      {
+        "text": "W.L.L.",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Al Fazal Perfumes",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Painted wooden fascia over two closed shop doors, Souq Waqif, Doha. Spelling PERFUMS is as written; the final L of FAZAL has a chipped foot. Small 'فرع' (branch) and 'ذ.م.م' marks and the bottom line of registration/phone numbers in Arabic-Indic digits (س.ت / ١٦٣٨٤ ص.ب / ٢٩٨٩ ...) are not transcribed. A small shop-number plate '380' on the right door is a secondary address cue."
+  },
+  "c84516588": {
+    "accept": false,
+    "reason": "carved door with a 'مغلق / CLOSED' card; no place name"
+  },
+  "c95613382": {
+    "accept": true,
+    "reason": "",
+    "kind": "hard",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "وادي الخرايج",
+        "lang": "ar",
+        "latin": "Wadi al-Khara'ij (Wadi Al Kharaej)"
+      },
+      {
+        "text": "السيح",
+        "lang": "ar",
+        "latin": "as-Sayh (Al Seih)"
+      },
+      {
+        "text": "Wadi Al Kharaej P",
+        "lang": "en"
+      },
+      {
+        "text": "Al Seih District",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Al Seih",
+      "type": "place"
+    },
+    "difficulty": "hard",
+    "notes": "Blue direction sign on Al Tarfa Street, Lusail, cut off by the right edge of the frame and small. Only the visible parts are transcribed: the first Arabic word of line 1 (ends in ق, probably منتزه/حديقة-type word for 'Park') and the first word of line 2 (ends in ـة, probably منطقة 'District') are cut off; the English 'Wadi Al Kharaej P...' is cut after the P (Park per the description). Taken through a windscreen."
+  },
+  "c95616991": {
+    "accept": false,
+    "reason": "'Welcome to Mesaieed' sign is far away and too small/blurred to read reliably at 1600 px; road-safety billboard in foreground is advertising"
+  },
+  "c95904093": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Arab",
+      "Latn",
+      "Zyyy"
+    ],
+    "lines": [
+      {
+        "text": "معيذر",
+        "lang": "ar",
+        "latin": "Mu'aydhir (Muaither)"
+      },
+      {
+        "text": "Muaither",
+        "lang": "en"
+      },
+      {
+        "text": "Zone 55",
+        "lang": "en"
+      },
+      {
+        "text": "منطقة ٥٥",
+        "lang": "ar",
+        "latin": "Mintaqa 55 (Zone 55)"
+      }
+    ],
+    "expect": {
+      "query": "Muaither",
+      "type": "place"
+    },
+    "difficulty": "hard",
+    "notes": "Blue Qatari district/zone sign on Al Furousiya Street, Al Rayyan, small in the frame from a moving car. Zone number shown twice in white boxes: 'Zone 55' with Western digits and 'منطقة ٥٥' with Arabic-Indic digits; the tiny 'Zone'/'منطقة' captions are barely legible. A dot (dhal) over the Arabic name is visible. Speed-limit roundel cut at right edge."
+  },
+  "f15a1f7c1-a58d-4870-9ea0-3c40621d4083": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "طريق ١٩",
+        "lang": "ar",
+        "latin": "Tariq 19 (Road 19)"
+      },
+      {
+        "text": "Road 19",
+        "lang": "en"
+      },
+      {
+        "text": "شارع آسياد ٢٠٠٦",
+        "lang": "ar",
+        "latin": "Shari' Asyad 2006 (Asian Games 2006 Street)"
+      },
+      {
+        "text": "Asian 2006 Road",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Asian 2006 Road",
+      "type": "street"
+    },
+    "difficulty": "medium",
+    "notes": "Two maroon street-name blades on a pylon near the Aspire zone, Doha (2006 Asian Games). Arabic lines use Arabic-Indic digits (١٩, ٢٠٠٦); English uses Western digits. The lower half of 'Road 19' is hidden behind the lower blade. Aspire logo roundel on the pylon above is a distractor."
+  },
+  "f21d3eb4d-3d30-4beb-94ce-b5cbe8447932": {
+    "accept": false,
+    "reason": "'قف / STOP' traffic sign; no place name"
+  },
+  "f524f4a3f-c074-4e33-a825-1176e554b6d5": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn",
+      "Arab"
+    ],
+    "lines": [
+      {
+        "text": "ASPIRE",
+        "lang": "en"
+      },
+      {
+        "text": "Academ for Sports Excellence",
+        "lang": "en"
+      },
+      {
+        "text": "أكاديمية التفوق الرياضي",
+        "lang": "ar",
+        "latin": "Akadimiyat at-Tafawwuq ar-Riyadi (Academy for Sports Excellence)"
+      }
+    ],
+    "expect": {
+      "query": "Aspire Academy",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Curved white monolith sign, Aspire Zone, Doha. The letter 'y' of 'Academy' is missing from the sign (gap after 'Academ'); transcribed as it appears. The small motto ribbon under the winged-A crest ('ASPIRE TODAY INSPIRE TOMORROW') is not transcribed."
+  }
+}

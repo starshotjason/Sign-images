@@ -1,0 +1,503 @@
+{
+ "k1067376930": {
+  "accept": false,
+  "reason": "rooftop company sign whose name line is faded outline lettering (H/M-ACUESTO, C or G uncertain); the name cannot be read without guessing"
+ },
+ "k1067379718": {
+  "accept": false,
+  "reason": "telecom advertising billboard"
+ },
+ "k1067382422": {
+  "accept": false,
+  "reason": "handwritten room-rental price notice on a pole"
+ },
+ "k1067385914": {
+  "accept": true,
+  "reason": "",
+  "kind": "hard",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Banqu Inte nationale du Bénin S.A.",
+    "lang": "fr"
+   },
+   {
+    "text": "DANTOKPA",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "Banque Internationale du Bénin",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Rooftop bank fascia at Dantokpa, Cotonou, far away and at an angle, seen from a motorbike lane. On the target (right) sign the letters 'e' of 'Banque' and 'r' of 'Internationale' are physically missing, so the text is transcribed as it stands. The faded word before DANTOKPA (apparently 'AGENCE') is too unclear to transcribe. A second fascia on the left repeats '...nationale du Bénin S.A. / ...CE DANTOKPA' and is cut by the frame. The orange cosmetics billboard ahead is a distractor."
+ },
+ "k1067431522": {
+  "accept": false,
+  "reason": "only a building sign cut off by the frame ('...NCIEL'); nothing else legible"
+ },
+ "k1067440606": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn",
+   "Zyyy"
+  ],
+  "lines": [
+   {
+    "text": "ATTENTION !",
+    "lang": "fr"
+   },
+   {
+    "text": "RALENTIR ET DU",
+    "lang": "fr"
+   },
+   {
+    "text": "CALME",
+    "lang": "fr"
+   },
+   {
+    "text": "HOPITAL CNHU-",
+    "lang": "fr"
+   },
+   {
+    "text": "HKM à 1000m",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "CNHU-HKM",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Hand-lettered white panel with a red arrow pointing left, Cotonou, warning drivers to slow down for the CNHU-HKM hospital 1000 m ahead. HOPITAL has no circumflex; 'à' has a grave accent; 'CNHU-' is hyphenated across the line break. The curved white ministry signboard above the gate (Direction générale ... des médias) is too small and angled to read and is a distractor. Alternative query: 'Hôpital CNHU'."
+ },
+ "c87957759": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "LA MAISON",
+    "lang": "fr"
+   },
+   {
+    "text": "DE LA",
+    "lang": "fr"
+   },
+   {
+    "text": "FRANCOPHONIE",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "Maison de la Francophonie",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Large white panel on a compound wall in Cotonou. The smaller 'Bureau du SHERPA' board above it (partly hidden by a branch) is a distractor and not transcribed."
+ },
+ "c167027229": {
+  "accept": false,
+  "reason": "interpretive panel with paragraph text about Fa divination signs; no place name"
+ },
+ "c114995517": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "RUE",
+    "lang": "fr"
+   },
+   {
+    "text": "DELCASSE",
+    "lang": "fr"
+   },
+   {
+    "text": "RUE 2",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "Rue Delcasse",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Yellow enamel plate with blue border, Porto-Novo; small 'Ville de PORTO-NOVO' crest at top left. 'DELCASSE' is printed without an accent; a scratch crosses the lower half of the word."
+ },
+ "c113489573": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "RESIDENCE OCEANE",
+    "lang": "fr"
+   },
+   {
+    "text": "L'Océane",
+    "lang": "fr"
+   },
+   {
+    "text": "Residence Hôtelière",
+    "lang": "fr"
+   },
+   {
+    "text": "CHAMBRES LUXUEUSES CLIMATISEES",
+    "lang": "fr"
+   },
+   {
+    "text": "BAR RESTAURANT",
+    "lang": "fr"
+   },
+   {
+    "text": "TEL:30 48 37 FAX:30 48 37",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "Résidence Océane",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Hotel roadside board in Cotonou, shot slightly from below. 'L'Océane' and 'Residence Hôtelière' are script logo text under a dolphin. The small slogan in the blue band at the bottom is left out; an arrow is cut off at the bottom edge."
+ },
+ "c57136020": {
+  "accept": false,
+  "reason": "NGO project board (EU-funded literacy project) rather than a place or business sign"
+ },
+ "c57179614": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "PENDJARI",
+    "lang": "fr"
+   },
+   {
+    "text": "PARC NATIONAL • BENIN",
+    "lang": "fr"
+   },
+   {
+    "text": "MARE FOGOU 7 Km",
+    "lang": "fr"
+   },
+   {
+    "text": "CIRCUIT DIWOUNI 0,3Km",
+    "lang": "fr"
+   },
+   {
+    "text": "POSTE ARLI 6 Km",
+    "lang": "fr"
+   },
+   {
+    "text": "MARE SACREE 18 Km",
+    "lang": "fr"
+   },
+   {
+    "text": "MARE YANGOUALI 36Km",
+    "lang": "fr"
+   },
+   {
+    "text": "PORGA 135 Km",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "Porga",
+   "type": "place"
+  },
+  "difficulty": "easy",
+  "notes": "Green directional boards with yellow capitals in Pendjari National Park, park logo on top. Faint painted-over old figures ('17') show behind '7 Km' on the first line; arrows between names and distances not transcribed."
+ },
+ "c57325995": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Le Palais du Roi",
+    "lang": "fr"
+   },
+   {
+    "text": "HOUEGBADJA",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "Palais du Roi Houegbadja",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Rusty stencilled board in front of the palace wall in Abomey. Only the two title lines are transcribed; the small historical paragraph below is too faded to read reliably."
+ },
+ "c57246738": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "REPUBLIQUE DU BENIN",
+    "lang": "fr"
+   },
+   {
+    "text": "MINISTERE DE L'ENSEIGNEMENT",
+    "lang": "fr"
+   },
+   {
+    "text": "PRIMAIRE DE L'ALPHABETISATION",
+    "lang": "fr"
+   },
+   {
+    "text": "ET DES LANGUES NATIONALES",
+    "lang": "fr"
+   },
+   {
+    "text": "DIRECTION DEPARTEMENTALE DES",
+    "lang": "fr"
+   },
+   {
+    "text": "ENSEIGNEMENTS PRIMAIRE ET",
+    "lang": "fr"
+   },
+   {
+    "text": "SECONDAIRE DE L'ATACORA-DONGA",
+    "lang": "fr"
+   },
+   {
+    "text": "CIRCONSCRIPTION SCOLAIRE DE",
+    "lang": "fr"
+   },
+   {
+    "text": "TANGUIETA",
+    "lang": "fr"
+   },
+   {
+    "text": "ECOLE PRIMAIRE PUBLIQUE DE",
+    "lang": "fr"
+   },
+   {
+    "text": "BONGOU",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "École Primaire Publique de Bongou",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Painted school sign on two poles in open ground, Atakora. Text is small relative to the frame; the key line is 'BONGOU' beside a left arrow. Accents are omitted on the sign."
+ },
+ "c22139258": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "SEDJOLO",
+    "lang": "fr"
+   },
+   {
+    "text": "Coiffure",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "Sedjolo",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Small hand-painted hairdresser sign on a metal stand with painted hairstyle portraits, Abomey street. A third line '& T...sse' (probably 'Tresse') is partly hidden by a metal finial and is left out. 'COUTURE' awning and 'POISSONNERIE Billfish' board are distractors."
+ },
+ "f89513b51-3124-4c37-a53f-5393bc3f1fa6": {
+  "accept": false,
+  "reason": "paper adverts (medical treatment flyers) pasted on a traffic sign; no place name"
+ },
+ "c108741235": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "TOXI-LABO",
+    "lang": "fr"
+   },
+   {
+    "text": "LABORATOIRE D'ANALYSES MÉDICALES",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "Toxi-Labo",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Round green-and-white lab sign on a tall green pylon, Cotonou. The hours, phone numbers and '01 BP: 4659 Cotonou Bénin' on the pylon below are secondary and not transcribed."
+ },
+ "c108741234": {
+  "accept": false,
+  "reason": "near-duplicate of accepted c108741235 (same Toxi-Labo pylon from almost the same angle)"
+ },
+ "c113489910": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "BENIN",
+    "lang": "fr"
+   },
+   {
+    "text": "UNESCO",
+    "lang": "fr"
+   },
+   {
+    "text": "LAPORTE DU NON-RETOUR",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "Porte du Non-Retour",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Raised gold letters on an orange wall by the beach at Ouidah. 'LA' and 'PORTE' are set with almost no gap, so it reads 'LAPORTE'; the 'DU' is in smaller letters."
+ },
+ "c107460735": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "GOGOTINKPON",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "Gogotinkpon",
+   "type": "place"
+  },
+  "difficulty": "easy",
+  "notes": "White arrow-shaped village direction sign on two posts, Mono department."
+ },
+ "f6a543e04-c46f-4096-943a-06636e3968f5": {
+  "accept": false,
+  "reason": "stilt shop in Ganvié whose fascia text is small and unclear; the most legible text is a boat's painted name (vehicle branding)"
+ },
+ "c107680993": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "KPOMASSÈ",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "Kpomassè",
+   "type": "place"
+  },
+  "difficulty": "easy",
+  "notes": "White arrow-shaped direction sign by the road, with a grave accent on the final E; small chip at the lower-left corner."
+ },
+ "c118078602": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ADJAHA",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "Adjaha",
+   "type": "place"
+  },
+  "difficulty": "medium",
+  "notes": "Small white arrow-shaped village direction sign beside the highway near Grand-Popo, seen from a distance in a tall frame."
+ },
+ "c89123641": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "POSSOTOME",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "Possotomè",
+   "type": "place"
+  },
+  "difficulty": "easy",
+  "notes": "French-style red-bordered town entry sign; printed without the grave accent (the town is spelled 'Possotomè')."
+ },
+ "c111070538": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "AKPRO MISSÉRÉTÉ",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "Akpro-Missérété",
+   "type": "place"
+  },
+  "difficulty": "easy",
+  "notes": "White directional board with a right arrow, on two posts over a pavement near Porto-Novo; no hyphen on the sign. A STOP sign and a 'COOPEC...' board in the background are distractors."
+ }
+}

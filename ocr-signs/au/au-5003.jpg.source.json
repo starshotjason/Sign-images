@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.mapcomplete.org/#focus=pic&pic=a6febfc6-ef41-4404-a095-5e6421b58857",
+  "original_url": "https://panoramax.mapcomplete.org/permanent/a6/fe/bf/c6/ef41-4404-a095-5e6421b58857.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "mapcomplete",
+  "credit_as_published": "Panoramax, instance mapcomplete (https://panoramax.mapcomplete.org)",
+  "title": "Panoramax picture a6febfc6-ef41-4404-a095-5e6421b58857 (Sydney, 2025-04-14)",
+  "description": "Street-level picture on Panoramax, taken 2025-04-14 near Sydney by mapcomplete, sequence 14ea2dff-2d5f-4134-9a9c-0b7ff34d87aa, heading 164. OCR (PP-OCRv3) read: SOUDAN CONTINGENT | THE NEW SOUTH WALES | CONTINGENT FOR THE SOUDAN WAR | (CONSISTING OFSOME75OMEN&225HORSES | EMBARKED ON THE TROOPSHIPS | AUSTRALASIANIBERIA | AT THEWHARVES ON THE | NORTH EAST SIDE OF THE CIRCULAR | CQUAY | ON MARCH 31885 | THE CONTINGENT RETURNED TO SYDNEY | IN THETROOPSHIPARAB",
+  "date": "2025-04-14",
+  "categories": [],
+  "camera_location": [
+    -33.858294444,
+    151.214583333
+  ],
+  "found_by": "panoramax-ocr:Sydney",
+  "bytes": 2423503,
+  "width": 2946,
+  "height": 3471,
+  "downloaded_url": "https://panoramax.mapcomplete.org/permanent/a6/fe/bf/c6/ef41-4404-a095-5e6421b58857.jpg",
+  "derivative": "whole 2946x3471 HD picture as served by the Panoramax instance (byte-identical; the service blurs faces and number plates), not cropped"
+}

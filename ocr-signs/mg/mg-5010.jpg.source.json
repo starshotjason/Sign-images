@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=d3b192a7-0c95-4a1c-be22-f9b2f9e5c9e7",
+  "original_url": "https://panoramax.openstreetmap.fr/images/d3/b1/92/a7/0c95-4a1c-be22-f9b2f9e5c9e7.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "Eric S",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture d3b192a7-0c95-4a1c-be22-f9b2f9e5c9e7 (Antananarivo, 2009-08-31)",
+  "description": "Street-level picture on Panoramax, taken 2009-08-31 near Antananarivo by Eric S, sequence 1a6883f2-ac98-42e2-95f8-296285f7a88f, heading 43. OCR (PP-OCRv3) read: TANA HOTEL",
+  "date": "2009-08-31",
+  "categories": [],
+  "camera_location": [
+    -18.91047086,
+    47.52406857
+  ],
+  "found_by": "panoramax-ocr:Antananarivo",
+  "bytes": 186653,
+  "width": 1280,
+  "height": 960,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/d3/b1/92/a7/0c95-4a1c-be22-f9b2f9e5c9e7.jpg",
+  "derivative": "whole 1280x960 HD picture as served by the Panoramax instance (byte-identical; the service blurs faces and number plates), not cropped"
+}

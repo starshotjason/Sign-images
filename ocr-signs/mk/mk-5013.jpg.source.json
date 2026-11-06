@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=4039a5cd-c9b1-4d4d-b4d7-4a233383f0d8",
+  "original_url": "https://panoramax.openstreetmap.fr/images/40/39/a5/cd/c9b1-4d4d-b4d7-4a233383f0d8.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "Robot8A",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture 4039a5cd-c9b1-4d4d-b4d7-4a233383f0d8 (Skopje, 2020-02-23)",
+  "description": "Street-level picture taken 2020-02-23 near Skopje by Robot8A, sequence 5dc86608-ff2a-4438-8096-c7eeaed97839, heading 177. OCR (PP-OCRv3) read: STUDIO | DDUBLE DUTY THE BEAUTY",
+  "date": "2020-02-23",
+  "categories": [],
+  "camera_location": [
+    41.989917769,
+    21.436976928
+  ],
+  "found_by": "panoramax-ocr:Skopje",
+  "bytes": 530305,
+  "width": 1669,
+  "height": 1252,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/40/39/a5/cd/c9b1-4d4d-b4d7-4a233383f0d8.jpg",
+  "derivative": "crop 360,342,2029,1594 of the 4032x3024 HD picture"
+}

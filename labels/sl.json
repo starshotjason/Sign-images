@@ -1,0 +1,94 @@
+{
+  "c29751213": {
+    "accept": false,
+    "reason": "photo of stone tools; no sign"
+  },
+  "c29751219": {
+    "accept": false,
+    "reason": "beer advertising billboard (Star lager) with a person posing; pure advert"
+  },
+  "c29751347": {
+    "accept": false,
+    "reason": "1942 street photo with people as the subject; the generic 'BOOKING OFFICE' sign is small and the 'FREETOWN' caption is written on the print"
+  },
+  "c36016468": {
+    "accept": false,
+    "reason": "news/NGO photo (CDC Ebola response) with two people posing in front of the Joint Medical Unit Headquarters sign; people are the subject"
+  },
+  "c37423468": {
+    "accept": false,
+    "reason": "NGO photo of a woman in Ebola quarantine (person is the subject); the hand-painted cookery-bar board behind is partial"
+  },
+  "c48412092": {
+    "accept": false,
+    "reason": "commemorative inauguration plaque of a TV transmitter station; names a president, not the place"
+  },
+  "c5165385": {
+    "accept": false,
+    "reason": "village family portrait; no sign"
+  },
+  "c90161832": {
+    "accept": false,
+    "reason": "plaque-unveiling event photo with the man's face as the subject; the plaque text is partly covered by his arm"
+  },
+  "c22707205": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "WELCOME",
+        "lang": "en"
+      },
+      {
+        "text": "TO",
+        "lang": "en"
+      },
+      {
+        "text": "MATEHUN",
+        "lang": "en"
+      },
+      {
+        "text": "HOME OF HOSPITALITY",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Matehun",
+      "type": "place"
+    },
+    "difficulty": "hard",
+    "notes": "Small painted welcome board on the roadside en route to Outamba-Kilimi National Park; blue text, red 'MATEHUN'. A blurred mark after WELCOME may be an exclamation mark; two tiny sponsor lines at the bottom right are illegible. The board is small in the frame."
+  },
+  "c22770195": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "OUTAMBA-KILIMI",
+        "lang": "en"
+      },
+      {
+        "text": "NATIONAL PARK",
+        "lang": "en"
+      },
+      {
+        "text": "MAIN ENTRANCE",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Outamba-Kilimi National Park",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Green wooden plank sign with white raised letters and a chimpanzee emblem; 'MAIN ENTRANCE' is on an arrow pointing left. The small arrow sign at right ('WELCOME TO OKNP-CAMP KEEP RIGHT') is a distractor."
+  }
+}

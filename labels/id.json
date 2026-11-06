@@ -1,0 +1,196 @@
+{
+ "pe9255538d6": {
+  "accept": false,
+  "reason": "toilet with product brand labels (TOTO, ecoflush); not a sign"
+ },
+ "fca8b53f3-5908-4b9e-a2b3-c7a75e03fe56": {
+  "accept": false,
+  "reason": "plate of food, no sign"
+ },
+ "f912ae673-cb25-4655-b478-c8a551a3e452": {
+  "accept": false,
+  "reason": "portrait of a vendor, face is the subject"
+ },
+ "f0a4128be-4b1b-4f8a-b1a6-06eb74144b83": {
+  "accept": false,
+  "reason": "portrait of a waitress, face is the subject"
+ },
+ "fa9362343-1559-4452-8c9f-b428d7ca97fc": {
+  "accept": false,
+  "reason": "child playing, no sign"
+ },
+ "f42e15291-b3ec-4001-9ae5-537391c870fb": {
+  "accept": false,
+  "reason": "temple dress-code notice, no place name"
+ },
+ "f4f5d3722-7348-43bb-a85e-4c0015de6b75": {
+  "accept": false,
+  "reason": "shrine label inside a temple (Palinggih Satia), not a mappable place; Balinese line not transcribable"
+ },
+ "f727df80f-b4a0-451e-bf1f-355b82f1b2a7": {
+  "accept": false,
+  "reason": "warning sign (monkey crossing), no place name"
+ },
+ "fce8d6045-41e7-4307-9804-a464932b63c3": {
+  "accept": false,
+  "reason": "'No Entrance' warning only"
+ },
+ "f715b097d-1c94-408e-ad33-8b8fcad1c909": {
+  "accept": false,
+  "reason": "hotel bathroom environmental notice"
+ },
+ "f4224ee5b-4dcd-40ca-935d-9f6caafbd59e": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn",
+   "Java"
+  ],
+  "lines": [
+   {
+    "text": "PASAR BERINGHARJO",
+    "lang": "id"
+   },
+   {
+    "text": "JL. JEND. A. YANI 16    YOGYAKARTA",
+    "lang": "id"
+   }
+  ],
+  "expect": {
+   "query": "Pasar Beringharjo",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Market name board over the entrance, Yogyakarta. A red-and-white flag covers the 'RJ' of BERINGHARJO (letters inferred from the visible 'BERINGHA..JO' and the address). A Javanese-script (Aksara Jawa) line under the name is not transcribed. Small address line: Jl. Jend. A. Yani 16. Crowd below is incidental."
+ },
+ "f1176caec-00b9-49ad-b368-ceb32ace2a73": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Wank INTERNET",
+    "lang": "en"
+   },
+   {
+    "text": "& GAME on line",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Wank Internet",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Painted orange board on poles, Kuta, Bali; side list (HIGH SPEED CONNECTION, LCD 17\", HEAD SET, WEB CAM) and window poster (High Speed 384 kbps, print/scan/CD) are distractors. 'Wank' is in script lettering."
+ },
+ "f3c0a5938-054c-4c71-8166-47ecfe0d10d2": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn",
+   "Bali"
+  ],
+  "lines": [
+   {
+    "text": "DEPARTEMEN KEBUDAYAAN DAN PARIWISATA",
+    "lang": "id"
+   },
+   {
+    "text": "BENDA CAGAR BUDAYA / SITUS",
+    "lang": "id"
+   },
+   {
+    "text": "CANDI TEBING TEGALLINGGAH",
+    "lang": "id"
+   },
+   {
+    "text": "BANJAR TEGALLINGGAH, DESA BEDULU,",
+    "lang": "id"
+   },
+   {
+    "text": "KECAMATAN BLAHBATUH, KABUPATEN GIANYAR",
+    "lang": "id"
+   }
+  ],
+  "expect": {
+   "query": "Candi Tebing Tegallinggah",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Brown heritage-site board with leaf shadows across it, Bedulu, Gianyar, Bali. A Balinese-script line under the site name is not transcribed. Small footer (DILINDUNGI: UNDANG-UNDANG NO.5 TAHUN 1992; BALAI PELESTARIAN PENINGGALAN PURBAKALA BALI ...) omitted."
+ },
+ "f7adc0994-55f8-4379-a874-d792f33c1826": {
+  "accept": false,
+  "reason": "blurry B&W alley scene, no sign"
+ },
+ "f541d589e-f6e3-4b05-b48a-af666f70ab88": {
+  "accept": false,
+  "reason": "decorative coffee advert board ('Minum Kopi Bali di ARMA'), not a name sign"
+ },
+ "ffefb77f6-2654-4425-b9e8-1c0e319995fe": {
+  "accept": false,
+  "reason": "charity-booth event poster, not a place sign"
+ },
+ "f8f99fca7-c07c-4748-ae34-fd2aa18a04b2": {
+  "accept": false,
+  "reason": "'Don't step up' warning only"
+ },
+ "f73ccdec0-327a-47f9-9556-bed126fc03e0": {
+  "accept": false,
+  "reason": "food-stall menu sheet with prices"
+ },
+ "f8d4054ca-406d-4f52-9351-d25067ceaa48": {
+  "accept": false,
+  "reason": "portrait of children, no sign"
+ },
+ "ffde5e1d6-d6ca-4d61-b14a-17996c622efc": {
+  "accept": false,
+  "reason": "street with many chain pylon signs, no single target sign"
+ },
+ "f33b031c1-0b21-4c5d-8359-2ccb96ba36f7": {
+  "accept": false,
+  "reason": "event portrait with watermark, no sign"
+ },
+ "facc36113-c713-47fa-a1e7-9aa393ba3987": {
+  "accept": false,
+  "reason": "'do not step on the stone' warning only"
+ },
+ "f1944e49d-a824-4bcb-8947-81b9e5b694f9": {
+  "accept": false,
+  "reason": "pictogram wayfinding sign, no text"
+ },
+ "f43541e31-e9e8-4327-accc-ad6d0c4650a1": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Kodak",
+    "lang": "en"
+   },
+   {
+    "text": "EXPRESS",
+    "lang": "en"
+   },
+   {
+    "text": "DEVELOP & PRINT",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Kodak Express",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Faded yellow photo-shop fascia on a corrugated wall, Seminyak, Bali; power lines cross the signs. Tiny 'QUALITY MONITORING SERVICE' under EXPRESS is not transcribed."
+ }
+}

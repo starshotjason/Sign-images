@@ -1,0 +1,32 @@
+{
+  "source": "tcmb",
+  "source_url": "https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Place&id=225931",
+  "original_url": "https://dcm.s3.hicloud.net.tw/new/f_upload/excel/place/2019-09-09/5499dacd-1025-4339-94c0-dc13a08743a3/d47b03cb-ff0c-49cf-910f-476c236ecca5.jpg",
+  "license_as_published": "CC BY",
+  "license_url_as_published": "https://creativecommons.org/licenses/by/3.0/tw/",
+  "author_as_published": "全國教師會",
+  "credit_as_published": "全國教師會, 國家文化記憶庫 Taiwan Cultural Memory Bank, CC BY",
+  "title": "埔里藝文休閒-仁愛公園活動",
+  "description": "埔里鎮仁愛公園位在中正路與中山路的交界處，交通便利設有公車站牌，是埔里的重要地標。旁邊緊鄰新圓環，有美食街區的五頓街，有許多小吃和店家林立，提供民眾一日用餐的多種選擇。 仁愛公園內設有休閒涼亭、兒童遊戲區，經常有銀髮族聚集下棋、聊天、運動，這裡也適合老中青三代一起互動交流的地方。鄰近的老人會館是西門里集會所，同時也是樂齡學習中心，常舉辦健康韻律操等課程活動。 埔里鎮公所自2010年以來，每個月一次在仁愛公園舉辦「鎮長咖啡時間」，廣邀埔里鎮民來公園品嘗現場沖煮的在地美味咖啡，除了能支持埔里咖啡產業之外，也同時能欣賞社團的藝文展演活動，提升藝文素養。歷年來已舉辦各式舞蹈、音樂及節慶表演活動，仁愛公園也是埔里藝文活動推行的重要場所。",
+  "date": null,
+  "categories": [
+    "空間、地域與遷徙",
+    "五頓街",
+    "老人會館",
+    "西門里集會所",
+    "埔里",
+    "埔里仁愛公園",
+    "埔里鎮長咖啡時間",
+    "樂齡學習中心"
+  ],
+  "camera_location": [
+    23.968228,
+    120.96448
+  ],
+  "found_by": "tcmb-opendata:dataSet/culture title/keyword match '街'; rapidocr pre-screen read ['公爱仁', '燃烧自己']; visually reviewed",
+  "bytes": 8343419,
+  "width": 3508,
+  "height": 2634,
+  "downloaded_url": "https://tcmb.culture.tw/imagor/filters:raw()/https%3A%2F%2Fdcm.s3.hicloud.net.tw%2Fnew%2Ff_upload%2Fexcel%2Fplace%2F2019-09-09%2F5499dacd-1025-4339-94c0-dc13a08743a3%2Fd47b03cb-ff0c-49cf-910f-476c236ecca5.jpg",
+  "derivative": ""
+}

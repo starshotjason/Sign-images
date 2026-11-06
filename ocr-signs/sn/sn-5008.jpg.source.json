@@ -1,0 +1,36 @@
+{
+  "source": "flickr",
+  "source_url": "https://www.flickr.com/photos/72787861@N00/2357922152",
+  "original_url": "https://live.staticflickr.com/3178/2357922152_647212a54a_o.jpg",
+  "license_as_published": "CC BY-SA 2.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/2.0/",
+  "author_as_published": "paulscott56",
+  "credit_as_published": "\"local shop\" by paulscott56 is licensed under CC BY-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.0/.",
+  "title": "local shop",
+  "description": "",
+  "date": "",
+  "categories": [
+    "dakar",
+    "senegal"
+  ],
+  "camera_location": [
+    14.731306,
+    -17.485427
+  ],
+  "found_by": "openverse:Dakar shop",
+  "bytes": 585154,
+  "width": 1280,
+  "height": 960,
+  "downloaded_url": "https://live.staticflickr.com/3178/2357922152_647212a54a_o.jpg",
+  "derivative": "",
+  "flickr": {
+    "flickr_url": "https://www.flickr.com/photos/72787861@N00/2357922152",
+    "flickr_license": "CC BY-SA 2.0",
+    "lat": 14.731306,
+    "lon": -17.485427,
+    "original_url": "https://live.staticflickr.com/3178/2357922152_647212a54a_o.jpg",
+    "flickr_license_code": 5,
+    "retrieved": "2026-11-06T14:30:02.608763+00:00"
+  },
+  "openverse_id": "5f2a481d-57b7-4386-86b7-13da24858d55"
+}

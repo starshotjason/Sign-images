@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/11358953/392/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyNS82LzcvcHJvYy8xMTM1ODk1M182NmVkNjg0MzFkYTIzYmYxNzc1YzE4MTVhMzcxYzE5ZC5qcGc",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "seven",
+  "credit_as_published": "KartaView user seven (user id 10951); © KartaView contributors",
+  "title": "KartaView photo 2574189689, sequence 11358953 #392 (Astana, 2025-06-07)",
+  "description": "Street-level picture on KartaView, taken 2025-06-07 near Astana by seven, sequence 11358953, heading 258.39. OCR (PP-OCRv3) read: KURAL DENT | Skural_dent",
+  "date": "2025-06-07",
+  "categories": [],
+  "camera_location": [
+    51.171778,
+    71.428904
+  ],
+  "found_by": "kartaview-ocr:Astana",
+  "bytes": 250469,
+  "width": 1200,
+  "height": 900,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyNS82LzcvcHJvYy8xMTM1ODk1M182NmVkNjg0MzFkYTIzYmYxNzc1YzE4MTVhMzcxYzE5ZC5qcGc",
+  "derivative": "crop 0,367,1200,1267 of the 3840x2160 full-size processed (blurred) picture"
+}

@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/11648168/0/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyNi81LzIwL3dyYXBwZWRfcHJvYy8xMTY0ODE2OF9mYTcwNl82YTBkYWU1MTdmYmRkLmpwZw",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "OpenStreetView",
+  "credit_as_published": "KartaView user OpenStreetView (user id 44); © KartaView contributors",
+  "title": "KartaView photo 2629687837, sequence 11648168 #0 (Ulaanbaatar, 2025-11-04)",
+  "description": "360-degree panorama on KartaView, taken 2025-11-04 near Ulaanbaatar by OpenStreetView, sequence 11648168, heading 9.06. OCR (PP-OCRv3) read: AHAPCYDEPMAPKET",
+  "date": "2025-11-04",
+  "categories": [],
+  "camera_location": [
+    47.926773,
+    106.920413
+  ],
+  "found_by": "kartaview-ocr:Ulaanbaatar",
+  "bytes": 517760,
+  "width": 2000,
+  "height": 1500,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyNi81LzIwL3dyYXBwZWRfcHJvYy8xMTY0ODE2OF9mYTcwNl82YTBkYWU1MTdmYmRkLmpwZw",
+  "derivative": "rectilinear (gnomonic) view, yaw +62.8 deg from the panorama centre, pitch +14.3 deg, horizontal field of view 73 deg, 2000x1500 px, reprojected from the 13000x6500 full-size processed (blurred) equirectangular panorama"
+}

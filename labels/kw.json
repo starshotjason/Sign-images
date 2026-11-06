@@ -1,0 +1,485 @@
+{
+  "k179776205": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "Gulfnet",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Gulfnet",
+      "type": "poi"
+    },
+    "difficulty": "hard",
+    "notes": "Kuwait City dashcam shot; 'Gulfnet' logo box on the green rooftop fascia of a white brise-soleil office block. Arabic line under it and the blue fascia on the right (Arabic + a Latin 'Gulf...' word) are too blurred to transcribe. Blurred billboard and plate are distractors."
+  },
+  "k179776871": {
+    "accept": false,
+    "reason": "only a blurred construction hoarding ('Restaurant / Showroom' advert); no legible place name"
+  },
+  "k86196993": {
+    "accept": false,
+    "reason": "only a painted 'THANKS' mural/banner; no place sign"
+  },
+  "k179776171": {
+    "accept": false,
+    "reason": "near-duplicate of k179776205 (same Gulfnet building, same sequence), smaller"
+  },
+  "k179776829": {
+    "accept": false,
+    "reason": "pure advert ('SALE' billboard)"
+  },
+  "c11661638": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "أهلاً و سهلاً",
+        "lang": "ar",
+        "latin": "Ahlan wa sahlan (Welcome)"
+      },
+      {
+        "text": "قاعدة علي السالم الجوية",
+        "lang": "ar",
+        "latin": "Qa'idat 'Ali as-Salim al-Jawwiya (Ali Al Salem Air Base)"
+      },
+      {
+        "text": "Welcome to",
+        "lang": "en"
+      },
+      {
+        "text": "Ali Al Salem Air Base",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Ali Al Salem Air Base",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Brown welcome panel on a concrete T-wall at the base entrance; frontal, sharp. The Arabic greeting carries tanwin marks (ـاً) as written. Distractors: USAF wings logo and the '386TH AIR EXPEDITIONARY WING' crest."
+  },
+  "c145275073": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "bloomingdale's",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Bloomingdale's",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Back-lit white lowercase channel letters on a dark wall, 360 Mall, Kuwait. Stylised geometric font: the 'oo' rings overlap and the apostrophe is fused into the 'e' and 's'. A car roof in the foreground reflects the letters (distractor); no plate visible."
+  },
+  "c145275074": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Arab"
+    ],
+    "lines": [
+      {
+        "text": "بلومينغديلز",
+        "lang": "ar",
+        "latin": "Blumingdeylz (Bloomingdale's)"
+      },
+      {
+        "text": "شركة نول لأسواق المركزية- ش.ش.و",
+        "lang": "ar",
+        "latin": "Sharikat Nul li-Aswaq al-Markaziya - Sh.Sh.W (Nool Central Markets Co. W.L.L.)"
+      }
+    ],
+    "expect": {
+      "query": "Bloomingdale's",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Arabic-script Bloomingdale's sign at 360 Mall: large stylised back-lit letters with overlapping rings for و/م, plus a small operator line underneath, transcribed as printed (لأسواق, not للأسواق). A mirrored reflection of the sign on the polished floor is a distractor. Same store as c145275073 but a different sign and script."
+  },
+  "c16413730": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "العديلية",
+        "lang": "ar",
+        "latin": "al-'Udayliya (Adailiya)"
+      },
+      {
+        "text": "Adailiya",
+        "lang": "en"
+      },
+      {
+        "text": "شارع عبد الله محمد الهاجري",
+        "lang": "ar",
+        "latin": "Shari' 'Abd Allah Muhammad al-Hajiri (Abdullah Mohammed Al Hajeri Street)"
+      },
+      {
+        "text": "Abdullah Mohammed AL Hajeri St.",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Adailiya",
+      "type": "place"
+    },
+    "difficulty": "hard",
+    "notes": "Blue Kuwaiti direction sign taken from a moving car: noticeable motion blur, especially on the lower English line. Upper panel: district Adailiya with right arrow; lower panel: the street name. 'AL' is capitalised on the sign. Mosque minaret behind trees."
+  },
+  "c16413894": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Arab",
+      "Latn",
+      "Zyyy"
+    ],
+    "lines": [
+      {
+        "text": "طريق",
+        "lang": "ar",
+        "latin": "Tariq (Road)"
+      },
+      {
+        "text": "50",
+        "lang": "und"
+      },
+      {
+        "text": "مدينة الكويت",
+        "lang": "ar",
+        "latin": "Madinat al-Kuwayt (Kuwait City)"
+      },
+      {
+        "text": "Kuwait City",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Kuwait City",
+      "type": "place"
+    },
+    "difficulty": "easy",
+    "notes": "Green overhead gantry lane sign with route shield 'طريق 50' (Road 50) at right and two down arrows. Slightly underexposed but sharp."
+  },
+  "c27700473": {
+    "accept": false,
+    "reason": "give-way traffic sign 'افسح الطريق / Give way'; no place name"
+  },
+  "c34440106": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "United States Army",
+        "lang": "en"
+      },
+      {
+        "text": "Camp Arifjan, Kuwait",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Camp Arifjan",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Entrance sign between brick pillars. Two small name panels below ('COMMANDER / LTC ...' and 'COMMAND SERGEANT MAJOR / MSG ...') name individual officers and are not transcribed; Department of the Army seal at left."
+  },
+  "c39738414": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Arab",
+      "Zyyy"
+    ],
+    "lines": [
+      {
+        "text": "جمعية",
+        "lang": "ar",
+        "latin": "Jam'iyat (Society)"
+      },
+      {
+        "text": "مشرف",
+        "lang": "ar",
+        "latin": "Mishrif (Mishref)"
+      },
+      {
+        "text": "التعاونية",
+        "lang": "ar",
+        "latin": "at-Ta'awuniya (Co-operative)"
+      },
+      {
+        "text": "3",
+        "lang": "und"
+      },
+      {
+        "text": "مسجد الحميدة",
+        "lang": "ar",
+        "latin": "Masjid al-Hamida (Al-Hamida Mosque)"
+      }
+    ],
+    "expect": {
+      "query": "مسجد الحميدة",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Purple-blue wayfinding stack on a roundabout in Mishref: Mishref Co-operative Society panel (trolley icon, arrow with 3, food pictograms), a '3' tag, and a large left arrow 'مسجد الحميدة' with mosque icon. Colours are heavily processed. Distractor: Kuwaiti block/street plate at top right reading 'ق3-ش 1' (qit'a 3 - shari' 1 = Block 3, Street 1)."
+  },
+  "c39738423": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Arab"
+    ],
+    "lines": [
+      {
+        "text": "الهيئة العامة",
+        "lang": "ar",
+        "latin": "al-Hay'a al-'Amma (The Public Authority)"
+      },
+      {
+        "text": "لشؤون الزراعة و الثروة السمكية",
+        "lang": "ar",
+        "latin": "li-Shu'un az-Zira'a wa ath-Tharwa as-Samakiya (for Agriculture Affairs and Fish Resources)"
+      },
+      {
+        "text": "حديقة الفحيحيل العامة",
+        "lang": "ar",
+        "latin": "Hadiqat al-Fuhayhil al-'Amma (Fahaheel Public Park)"
+      }
+    ],
+    "expect": {
+      "query": "حديقة الفحيحيل",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Green park name board seen from below at an angle, so each line slants upward to the right; the authority line runs from لشؤون down to السمكية on one slanted line. PAAF fish logo at top right. Arabic only."
+  },
+  "c39738434": {
+    "accept": true,
+    "reason": "",
+    "kind": "address plate",
+    "scripts": [
+      "Arab",
+      "Zyyy"
+    ],
+    "lines": [
+      {
+        "text": "ق5-ش 1",
+        "lang": "ar",
+        "latin": "Q 5 - Sh 1 (Block 5 - Street 1)"
+      }
+    ],
+    "expect": {
+      "query": "Street 1",
+      "type": "street"
+    },
+    "difficulty": "hard",
+    "notes": "Kuwaiti block/street plate, blue with an up arrow: ق = قطعة (block) 5, ش = شارع (street) 1, Western digits. Blurry and colour-processed; the joiner between 5 and ش reads as a short dash, spacing approximate. A second white plate on the same pole (angled, washed out, probably ق5-ش + another number) is unreadable and not transcribed. Fire hydrant tag at right is a distractor."
+  },
+  "c39739072": {
+    "accept": true,
+    "reason": "",
+    "kind": "hard",
+    "scripts": [
+      "Arab",
+      "Latn",
+      "Zyyy"
+    ],
+    "lines": [
+      {
+        "text": "شعاركو",
+        "lang": "ar",
+        "latin": "Sha'arku (Shaarco)"
+      },
+      {
+        "text": "707",
+        "lang": "und"
+      },
+      {
+        "text": "SHAARCO",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Shaarco",
+      "type": "poi"
+    },
+    "difficulty": "hard",
+    "notes": "1961 colour slide of a Kuwait City street; target is the white fascia at upper right of the tall building (airliner icon, red '707', Arabic شعاركو in blue, red SHAARCO), small at 1600 px. Distractors: fascia below 'MAROUF & IBRAHIM SHAAR / TRAVEL & SHIPPING CO.' with Arabic 'شركة سفريات معروف وابراهيم شعار', a Coca-Cola roundel, the same company's sign on the corner building and a vertical SHAARCO sign. Pedestrians in the foreground are incidental. Historic photo: the business may no longer exist on current maps."
+  },
+  "c39739219": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "دولة الكويت ترحب بكم",
+        "lang": "ar",
+        "latin": "Dawlat al-Kuwayt turahhib bikum (The State of Kuwait welcomes you)"
+      },
+      {
+        "text": "Welcome To State Of Kuwait",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Kuwait",
+      "type": "place"
+    },
+    "difficulty": "medium",
+    "notes": "Green border welcome sign on the desert highway from Saudi Arabia, shot through a windscreen (dust spot in the sky). Distractor at left: white roadside advert 'طبخ كويتي / مطبخ النويصيب / مدخل ٢٩٨' with Arabic-Indic digits and a phone number, and a faded sign behind it."
+  },
+  "c39739633": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Arab"
+    ],
+    "lines": [
+      {
+        "text": "سوق",
+        "lang": "ar",
+        "latin": "Suq (Market)"
+      },
+      {
+        "text": "دبي مول",
+        "lang": "ar",
+        "latin": "Dubay Mul (Dubai Mall)"
+      },
+      {
+        "text": "المركزي",
+        "lang": "ar",
+        "latin": "al-Markazi (Central)"
+      }
+    ],
+    "expect": {
+      "query": "دبي مول",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Target is the large rooftop sign at top centre: big red outlined letters دبي مول with small blue سوق above and المركزي below. A second, smaller 'دبي مول' fascia at street level repeats the name. Many distractors along the shopfront row: zain / Xcell Phone, 'مركز المثقف للاتصالات 3710075', jadu kadai, KUWAIT PHONE MOBILE, a cut-off sign at top right. Colour-processed image; a pickup in the foreground shows its plate incidentally."
+  },
+  "c4953982": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "UNITED STATES ARMY",
+        "lang": "en"
+      },
+      {
+        "text": "CAMP BUEHRING",
+        "lang": "en"
+      },
+      {
+        "text": "UDAIRI, KUWAIT",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Camp Buehring",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Curved arch sign with raised bronze letters between two brick pillars carrying Third Army and unit insignia. The small memorial plaque below (dedication to LTC Charles H. 'Chad' Buehring) is not transcribed."
+  },
+  "c6463996": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Arab",
+      "Latn",
+      "Zyyy"
+    ],
+    "lines": [
+      {
+        "text": "ميناء الشويخ",
+        "lang": "ar",
+        "latin": "Mina' ash-Shuwaykh (Shuwaikh Port)"
+      },
+      {
+        "text": "85",
+        "lang": "und"
+      },
+      {
+        "text": "Shuwaikh Port",
+        "lang": "en"
+      },
+      {
+        "text": "بنيد القار",
+        "lang": "ar",
+        "latin": "Bunayd al-Qar (Bneid Al Gar)"
+      },
+      {
+        "text": "2",
+        "lang": "und"
+      },
+      {
+        "text": "Bneid Al Gar",
+        "lang": "en"
+      },
+      {
+        "text": "شارع الخليج العربي",
+        "lang": "ar",
+        "latin": "Shari' al-Khalij al-'Arabi (Arabian Gulf Street)"
+      },
+      {
+        "text": "25",
+        "lang": "und"
+      },
+      {
+        "text": "Arabian Gulf Street",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Arabian Gulf Street",
+      "type": "street"
+    },
+    "difficulty": "easy",
+    "notes": "Blue three-panel advance direction sign, Kuwait City: Shuwaikh Port (Road 85, ahead), Bneid Al Gar (Road 2, left), Arabian Gulf Street (Road 25, right). Each route shield has a tiny 'طريق' above the number, not transcribed. Speed-limit 80 roundel and traffic lights are distractors."
+  }
+}

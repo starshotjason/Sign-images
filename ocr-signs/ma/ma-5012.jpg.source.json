@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/1224665/186/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlOC5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE4LzYvNi9wcm9jLzEyMjQ2NjVfNTgwMWRfMTg2LmpwZw",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "kaartcam",
+  "credit_as_published": "KartaView user kaartcam (user id 13565); © KartaView contributors",
+  "title": "KartaView photo 260180739, sequence 1224665 #186 (Rabat, 2018-05-22)",
+  "description": "Street-level picture on KartaView, taken 2018-05-22 near Rabat by kaartcam, sequence 1224665, heading 322. OCR (PP-OCRv3) read: TELEGRA | POSTE | TELEPHONE | [unread] E3TERCERE",
+  "date": "2018-05-22",
+  "categories": [],
+  "camera_location": [
+    34.019304,
+    -6.836549
+  ],
+  "found_by": "kartaview-ocr:Rabat",
+  "bytes": 289337,
+  "width": 1362,
+  "height": 1021,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlOC5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE4LzYvNi9wcm9jLzEyMjQ2NjVfNTgwMWRfMTg2LmpwZw",
+  "derivative": "crop 315,12,1677,1033 of the 3072x1728 full-size processed (blurred) picture"
+}

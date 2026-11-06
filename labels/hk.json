@@ -1,0 +1,527 @@
+{
+ "p17110e8810": {
+  "accept": false,
+  "reason": "MTR advertising poster (illustration, 'If you feel unwell on train...'); advertising copy, not a place sign"
+ },
+ "p37c4cabb35": {
+  "accept": false,
+  "reason": "wide street view; the only large text is a church slogan banner ('基督是主 平安是福'), the church name and the street sign are tiny and illegible"
+ },
+ "p3d16e8c9b9": {
+  "accept": false,
+  "reason": "dog-fouling penalty banner (Food and Environmental Hygiene Department) and a works notice; warnings, not place signs"
+ },
+ "p5c1732061d": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Hani",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "香港中西大藥坊",
+    "lang": "zh",
+    "latin": "Heung Gong Jung Sai Daai Yeuk Fong (Hong Kong Chinese-Western great pharmacy)"
+   },
+   {
+    "text": "HONG KONG MEDICINE COMPANY",
+    "lang": "en"
+   },
+   {
+    "text": "O/B EARN MORE INC LIMITED",
+    "lang": "en"
+   },
+   {
+    "text": "藥",
+    "lang": "zh",
+    "latin": "yeuk (medicine)"
+   }
+  ],
+  "expect": {
+   "query": "香港中西大藥坊",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "LED-dotted blue fascia over a pharmacy (Traditional characters), slightly angled, evening. The left edge is partly hidden: only the right part of 香 and of the H of HONG are visible. Distractors: red promotional banner below ('熱烈歡迎全國同胞全場燕窩五折起'), the Paradise Dynasty 樂天皇朝 drum sign, green 保美氏 sign at far left, mural graffiti."
+ },
+ "pc43dfdef31": {
+  "accept": false,
+  "reason": "no-graffiti / CCTV warning plate at a school wall; warning, not a sign naming a place"
+ },
+ "pce75ea68fb": {
+  "accept": true,
+  "reason": "",
+  "kind": "address plate",
+  "scripts": [
+   "Hani",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "窩打老道",
+    "lang": "zh",
+    "latin": "Wo Da Lou Dou (Waterloo Road)"
+   },
+   {
+    "text": "79C",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "窩打老道 79C",
+   "type": "addr"
+  },
+  "difficulty": "medium",
+  "notes": "Silver raised characters on a granite pillar beside a building entrance (Ho Man Tin, Kowloon), small in frame at mid-right. '79 C' digits plus Latin C. Large distractors: 'School of Creativity / 創意學堂' fascia with 'Supreme Art Courses' and '何文田分校 Ho Man Tin Centre', a councillor office sign at left, and the shop's own small address strip above its door."
+ },
+ "pdd542b9d25": {
+  "accept": false,
+  "reason": "corridor notice ('Please do not put trolleys and obstacles at the common corridors'); not a place sign"
+ },
+ "pf5eb74398a": {
+  "accept": true,
+  "reason": "",
+  "kind": "hard",
+  "scripts": [
+   "Latn",
+   "Hani"
+  ],
+  "lines": [
+   {
+    "text": "HUNG KEE",
+    "lang": "en"
+   },
+   {
+    "text": "洪記",
+    "lang": "zh",
+    "latin": "Hung Kei"
+   },
+   {
+    "text": "配匙",
+    "lang": "zh",
+    "latin": "pui si (key cutting)"
+   },
+   {
+    "text": "KEY",
+    "lang": "en"
+   },
+   {
+    "text": "CUTTING",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "洪記",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Handwritten marker card hanging below a locksmith stall; 匙 is written loosely (its 匕 part merges into the final stroke). Larger distractors: worn yellow enamel board '洪記開鎖配匙 / HUNG KEE CO. / LOCKSMITH & KEYCUTTER / TEL' with several letters flaked off, giant 'WENXING KEY CUTTING MACHINES' and 'SCHLAGE' key cut-outs, and a partial 'KEE' board."
+ },
+ "pdac467687d": {
+  "accept": true,
+  "reason": "",
+  "kind": "hard",
+  "scripts": [
+   "Hani",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "維多利",
+    "lang": "zh",
+    "latin": "Wai Do Lei (Victoria)"
+   },
+   {
+    "text": "Victoria Pa",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Victoria Park",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Blue name sign over a counter at a Victoria Park sports facility (tennis-ball icon), Causeway Bay; cut by the right frame edge, so only '維多利' (4th character 亞 cut off) and 'Victoria Pa[rk]' are visible. The red queue tapes repeat '維多利亞公園 Victoria Park' in small print; AED cabinet, notice board and posters are distractors."
+ },
+ "p41666aa1c0": {
+  "accept": false,
+  "reason": "AED defibrillator cabinet sign; no place name"
+ },
+ "c16040565": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Hani"
+  ],
+  "lines": [
+   {
+    "text": "合興潮州魚蛋粉",
+    "lang": "zh",
+    "latin": "Hap Hing Chiu Chow yu daan fan (Hap Hing Chiu Chow fish-ball noodles)"
+   },
+   {
+    "text": "金牌牛什",
+    "lang": "zh",
+    "latin": "gam paai ngau sap (gold-medal beef offal)"
+   },
+   {
+    "text": "五香鮮牛腩",
+    "lang": "zh",
+    "latin": "ng heung sin ngau naam (five-spice beef brisket)"
+   },
+   {
+    "text": "手打牛丸",
+    "lang": "zh",
+    "latin": "sau da ngau yuen (hand-beaten beef balls)"
+   },
+   {
+    "text": "特製墨魚丸",
+    "lang": "zh",
+    "latin": "dak zai mak yu yuen (special cuttlefish balls)"
+   },
+   {
+    "text": "潮州魚餃",
+    "lang": "zh",
+    "latin": "Chiu Chow yu gaau (fish dumplings)"
+   },
+   {
+    "text": "鮮蝦雲吞",
+    "lang": "zh",
+    "latin": "sin ha wan tan (shrimp wonton)"
+   },
+   {
+    "text": "酥炸魚皮",
+    "lang": "zh",
+    "latin": "sou za yu pei (fried fish skin)"
+   },
+   {
+    "text": "自設工場",
+    "lang": "zh",
+    "latin": "zi chit gung cheung (own factory)"
+   }
+  ],
+  "expect": {
+   "query": "合興潮州魚蛋粉",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Queen's Road East, Wan Chai, at night. Traditional Chinese. Target is the lit fascia; big red name 合興潮州魚蛋粉 with dish names in black, read in columns/rows. Same name and dish list repeated on the side lightbox at left (adds 自製魚蛋, 靚金錢肚, 特製豬肉丸, 鳳城水餃). Below: 咖啡奶茶 歡迎光臨 and phone 28657523. Coca-Cola branding is a distractor."
+ },
+ "c129733316": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Hani",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "散貨王",
+    "lang": "zh",
+    "latin": "Saan Fo Wong (bazaar king)"
+   },
+   {
+    "text": "BAZAAR SAEL",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "散貨王",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Sham Shui Po, at night. Target is the hanging LED-framed sign at right; the English really is misspelt 'SAEL' (keep it). The large fascia at left is cut off: '[散]貨王 / [BAZAA]R SALE'. Address plate by the door reads '長沙灣道 / 154-156號 / A4舖' (Cheung Sha Wan Road 154-156, shop A4), useful for the expected location. Traditional Chinese."
+ },
+ "c291969": {
+  "accept": false,
+  "reason": "multilingual welcome message only ('Bienvenue à KCR', 'ようこそKCRへ。' ...); greeting copy, no station or place name"
+ },
+ "c16735443": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn",
+   "Hani"
+  ],
+  "lines": [
+   {
+    "text": "Kwan Yick Street",
+    "lang": "en"
+   },
+   {
+    "text": "均益街",
+    "lang": "zh",
+    "latin": "Kwan Yick Gaai"
+   },
+   {
+    "text": "10",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "Kwan Yick Street",
+   "type": "street"
+  },
+  "difficulty": "hard",
+  "notes": "Kennedy Town. Standard HK black-bordered arrow street sign, small at the bottom right of an upward-looking photo. Larger distractors: '鴨脷洲文化村 / 長者用品・展銷中心' vertical banners, '文化村 護理安老院' signboard with phone '2780 3882', green 'THREE' panel, '快利專造' awning."
+ },
+ "c22774124": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "The Repulse Bay",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "The Repulse Bay",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "109 Repulse Bay Road. Oval name board in script lettering over the car-park entrance; photo shot from a moving vehicle, slight motion blur. Below: 'CAR PARK 停車場' and 'NO ENTRY 不准進入' strips, and banner flags with shop logos (Ferrari, Maserati, 'indigo', 'seed'). Blurred passer-by at left is incidental."
+ },
+ "c27780752": {
+  "accept": true,
+  "reason": "",
+  "kind": "transit",
+  "scripts": [
+   "Latn",
+   "Hani"
+  ],
+  "lines": [
+   {
+    "text": "KMB",
+    "lang": "en"
+   },
+   {
+    "text": "203 234P 234X",
+    "lang": "und"
+   },
+   {
+    "text": "271 271P",
+    "lang": "und"
+   },
+   {
+    "text": "281A 296D N271",
+    "lang": "und"
+   },
+   {
+    "text": "NA06-S-4350-0",
+    "lang": "und"
+   },
+   {
+    "text": "Middle Road Tsim Sha Tsui 尖沙咀中間道",
+    "lang": "en",
+    "latin": "Tsim Sha Tsui Chung Gaan Dou"
+   }
+  ],
+  "expect": {
+   "query": "Middle Road",
+   "type": "stop"
+  },
+  "difficulty": "easy",
+  "notes": "KMB bus-stop flag, Nathan Road side of iSQUARE. Route grid has one blanked-out cell (taped-over paper). Stop-name strip mixes English and traditional Chinese on one line. The green '浸信會醫院' panel below is a hospital advert, a distractor."
+ },
+ "c30756501": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn",
+   "Hani"
+  ],
+  "lines": [
+   {
+    "text": "Temple Street",
+    "lang": "en"
+   },
+   {
+    "text": "2-58",
+    "lang": "und"
+   },
+   {
+    "text": "廟街",
+    "lang": "zh",
+    "latin": "Miu Gaai"
+   },
+   {
+    "text": "108-134",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "Temple Street",
+   "type": "street"
+  },
+  "difficulty": "medium",
+  "notes": "Yau Ma Tei, corner of Kansu Street. Two-way street sign; the house-number ranges use a small arrowhead/diamond in place of the hyphen (2◂58, 108◂134). Big distractor: the old neon arch of a mahjong parlour '勝利麻雀耍樂' with a small '和興' above, a lamp-post tag 'AB 2225' and a one-way arrow sign."
+ },
+ "c95602708": {
+  "accept": false,
+  "reason": "neon art installation with no text (K11 MUSEA car park); no readable sign"
+ },
+ "c146958373": {
+  "accept": false,
+  "reason": "wooden shop board in stylised seal-script calligraphy (two characters, reading direction ambiguous); not a fair OCR target and the text cannot be confirmed without guessing"
+ },
+ "c181792960": {
+  "accept": false,
+  "reason": "mall shop directory board (a document-like listing); the 'ISLAND PLACE 港...' header is cut off at the right edge and the photo carries a camera date watermark"
+ },
+ "c23655310": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Hani",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "意大利餐廳",
+    "lang": "zh",
+    "latin": "Yi daai lei chaan teng (Italian restaurant)"
+   },
+   {
+    "text": "Saizeriya",
+    "lang": "en"
+   },
+   {
+    "text": "RISTORANTE E CAFFÈ",
+    "lang": "it"
+   },
+   {
+    "text": "薩莉亞",
+    "lang": "zh",
+    "latin": "Saat Lei A (Saizeriya)"
+   },
+   {
+    "text": "Saizeriya",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Saizeriya",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Kam Ping Street, North Point (Metropole Building). Large green projecting sign over the street, traditional Chinese. Distractors: '幸福辦館' shop fascias, 'ALAN K.K. CHEUNG M.B.B.S. (H.K.)' clinic sign, a '24 hrs 全日' no-stopping plate, '光明玻璃鏡廠' far down the street, taxi roof sign."
+ },
+ "f93a1441b-d497-4224-9887-98fb3fbd3f6a": {
+  "accept": false,
+  "reason": "museum display (Correctional Services Museum): a cut-off direction sign ('Wan Chai (N', '灣仔(北)', 'Harcourt R', '夏愨道', 'Kowloon 九龍') next to a printed photo; not an in-situ sign and the names are truncated"
+ },
+ "ffb217614-9c00-4c5c-954e-00fb8c117bcf": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Hani",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "翠華餐廳",
+    "lang": "zh",
+    "latin": "Ceoi Waa Caan Teng (Tsui Wah Restaurant)"
+   },
+   {
+    "text": "TSUI WAH RESTAURANT",
+    "lang": "en"
+   },
+   {
+    "text": "TW",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Tsui Wah Restaurant",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Central, Hong Kong. Tall vertical neon column; Chinese name stacked vertically in the centre, English letters stacked vertically on the right. Also on the column: '魚蛋稱霸' and '咖喱稱皇' slogans at the top, phone '28153000' and '速遞・到家' at the left, '優質嘅茶餐廳' at the bottom. Low-resolution source (768 px wide). Distractors: 'SmarTone' sign and a '領達財務' banner at street level."
+ },
+ "f0259444a-2b0a-4d4d-b923-57f879842234": {
+  "accept": true,
+  "reason": "",
+  "kind": "transit",
+  "scripts": [
+   "Hani"
+  ],
+  "lines": [
+   {
+    "text": "紅磡 1分鐘",
+    "lang": "zh",
+    "latin": "Hung Hom 1 fan zung (Hung Hom, 1 minute)"
+   },
+   {
+    "text": "紅磡 7分鐘",
+    "lang": "zh",
+    "latin": "Hung Hom 7 fan zung (Hung Hom, 7 minutes)"
+   }
+  ],
+  "expect": {
+   "query": "紅磡",
+   "type": "stop"
+  },
+  "difficulty": "medium",
+  "notes": "MTR (former KCR West Rail/Kowloon Southern Link) platform next-train LED display, orange dot-matrix characters, destination 紅磡 (Hung Hom) shown twice. Traditional Chinese. The photographed station itself is not named; the clock and platform-door strip map are distractors."
+ },
+ "f1b211284-b901-4498-bea0-6936cfd43491": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Hani"
+  ],
+  "lines": [
+   {
+    "text": "美都餐室",
+    "lang": "zh",
+    "latin": "Mei Dou Caan Sat (Mido Cafe)"
+   }
+  ],
+  "expect": {
+   "query": "美都餐室",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Yau Ma Tei, corner of Temple Street. Black-and-white night photo, tilted about 30°; vertical neon lightbox reading top to bottom, traditional Chinese. A small street sign 'Temple Street 廟街' is visible at the right edge (distractor)."
+ },
+ "fd355163d-9a4f-4cf0-b549-66d23c367628": {
+  "accept": true,
+  "reason": "",
+  "kind": "transit",
+  "scripts": [
+   "Hani",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "香港",
+    "lang": "zh",
+    "latin": "Heung Gong (Hong Kong)"
+   },
+   {
+    "text": "HongKong",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Hong Kong Station",
+   "type": "stop"
+  },
+  "difficulty": "easy",
+  "notes": "MTR Hong Kong station name in black letters on a speckled stone wall (black-and-white photo). The English is written as one word 'HongKong'; a panel joint runs between the two characters."
+ }
+}

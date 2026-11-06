@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/9233/42/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMS5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE2LzcvMTAvcHJvYy85MjMzXzUwNmI0XzU3ODJhZGY4ZTYxMTguanBn",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "telenavdrives",
+  "credit_as_published": "KartaView user telenavdrives (user id 53); © KartaView contributors",
+  "title": "KartaView photo 3930871, sequence 9233 #42 (Paris, 2016-07-09)",
+  "description": "Street-level picture on KartaView, taken 2016-07-09 near Paris by telenavdrives, sequence 9233, heading 226.66. OCR (PP-OCRv3) read: CasaNova",
+  "date": "2016-07-09",
+  "categories": [],
+  "camera_location": [
+    48.857991,
+    2.344558
+  ],
+  "found_by": "kartaview-ocr:Paris",
+  "bytes": 276748,
+  "width": 1200,
+  "height": 900,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMS5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE2LzcvMTAvcHJvYy85MjMzXzUwNmI0XzU3ODJhZGY4ZTYxMTguanBn",
+  "derivative": "crop 0,617,1200,1517 of the 3264x2448 full-size processed (blurred) picture"
+}

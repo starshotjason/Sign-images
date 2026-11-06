@@ -1,0 +1,310 @@
+{
+ "k1025548126": {
+  "accept": true,
+  "reason": "",
+  "kind": "building tag",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "APARCAMENT VINYES",
+    "lang": "ca"
+   }
+  ],
+  "expect": {
+   "query": "Aparcament Vinyes",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Blue band along the top of a car-park building, Andorra la Vella; the 'P' of APARCAMENT is a boxed parking logo. The large 'Bricolage' billboard below (with 'Carrer Prat de la Creu, 46 Andorra la Vella', partly hidden by a tree) is advertising and a distractor; also the 'CA' logo building on the left. Through a windscreen."
+ },
+ "k1025605514": {
+  "accept": false,
+  "reason": "wall-size advertising billboard (likids spa); no place sign"
+ },
+ "k1025740670": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Pneumàtics Unió",
+    "lang": "ca"
+   }
+  ],
+  "expect": {
+   "query": "Pneumàtics Unió",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Yellow fascia of a tyre shop at dusk, Andorra la Vella, at an angle at the right edge. MICHELIN logo boxes and the 'VIA LIDER' badge are distractors; the 'likids' billboard and lane-control gantry are background."
+ },
+ "k1025603202": {
+  "accept": true,
+  "reason": "",
+  "kind": "hard",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "arthotel",
+    "lang": "ca"
+   }
+  ],
+  "expect": {
+   "query": "Art Hotel",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Dark, underexposed direction sign with a left arrow for the four-star Art Hotel, Andorra la Vella; the address line under the stars is unreadable here. The fnac billboard above ('VAS BÉ', 'TOT PASSA A LA FNAC') is advertising and a distractor."
+ },
+ "k1025549418": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "sage Eurowin",
+    "lang": "en"
+   },
+   {
+    "text": "DIGICOM SL",
+    "lang": "ca"
+   },
+   {
+    "text": "Digicom",
+    "lang": "ca"
+   },
+   {
+    "text": "Informàtica i comunicacions per a l'empresa",
+    "lang": "ca"
+   }
+  ],
+  "expect": {
+   "query": "Digicom",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Angled, slightly blurred shopfront of an IT company in Andorra la Vella. Small taglines on the upper box ('Solucions de gestió integrada i serveis per a les pimes', 'Delegació Oficial Principat d'Andorra') are too small to transcribe reliably and are left out. Partner logos (3CX, ahora, Qlik, Reskyt, sage) and the 'Escala-B' sign are distractors."
+ },
+ "k1025717190": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "FRANÇA",
+    "lang": "ca"
+   },
+   {
+    "text": "En trànsit",
+    "lang": "ca"
+   },
+   {
+    "text": "ESCALDES-ENGOR",
+    "lang": "ca"
+   },
+   {
+    "text": "ORDINO",
+    "lang": "ca"
+   },
+   {
+    "text": "LA MASSANA",
+    "lang": "ca"
+   },
+   {
+    "text": "Centre Vila",
+    "lang": "ca"
+   },
+   {
+    "text": "Zona Comercial",
+    "lang": "ca"
+   }
+  ],
+  "expect": {
+   "query": "Ordino",
+   "type": "place"
+  },
+  "difficulty": "medium",
+  "notes": "Roundabout direction sign at the right edge, Andorra la Vella; 'ESCALDES-ENGOR...' is cut by the frame (Escaldes-Engordany). Secondary white finger signs lower centre read 'Prada Ramon', 'Centre Històric', 'Av. Meritxell' (with parking symbols); the arthotel sign and fnac / 'PYRÉNÉES ANDORRA' billboard are distractors."
+ },
+ "k1016857466": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Artiflor",
+    "lang": "ca"
+   },
+   {
+    "text": "FLORS I PLANTES NATURALS I ARTIFICIALS",
+    "lang": "ca"
+   }
+  ],
+  "expect": {
+   "query": "Artiflor",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Flower shop fascia in brush-script gold letters, Andorra la Vella; the word cut at the left edge ('...coracions', Decoracions) and the small phone/e-mail lines are left out. The red 'TAGORE' camera shop sign, 'TABACS' and the dapa truck are distractors; pedestrians' faces blurred."
+ },
+ "k1016855086": {
+  "accept": false,
+  "reason": "vertical 'FARMACI...' sign partly hidden behind a truck; generic word, no full name"
+ },
+ "k1016847222": {
+  "accept": false,
+  "reason": "hazy shot of a bus-lane sign and advertising; the arthotel sign is tiny (near-duplicate content of k1025603202)"
+ },
+ "k1016828238": {
+  "accept": true,
+  "reason": "",
+  "kind": "hard",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "SP SPORT",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "SP Sport",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Dim, low-light fascia of a sports shop, Andorra la Vella; a red mark separates 'SP' and 'SPORT'. The phone number at the left ('...814 073') and a small tagline under the logo are too dark to read reliably. Motorcyclist's face is blurred."
+ },
+ "c14668837": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "CARRER",
+    "lang": "ca"
+   },
+   {
+    "text": "DE L'ALFALS",
+    "lang": "ca"
+   }
+  ],
+  "expect": {
+   "query": "Carrer de l'Alfals",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Ornate dark-green cast plate with serif letters on a stone wall, Anyós, La Massana. The tiny 'LA MASSANA' on the parish crest above is a distractor."
+ },
+ "c127859984": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ANDORRA LA VELLA",
+    "lang": "ca"
+   }
+  ],
+  "expect": {
+   "query": "Andorra la Vella",
+   "type": "place"
+  },
+  "difficulty": "medium",
+  "notes": "Free-standing silver 3D letters on the Pont de París over the Gran Valira, seen from a distance; bridge cables cross the letters (especially 'VELLA'). Distractors: 'HOTEL PEDRERA' vertical sign, 'ESPAI PUBLICITARI DISPONIBLE', 'Plan B', 'LOCUS, S.A.' and the overhead direction signs at right."
+ },
+ "c36272174": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "MUSEU DEL TABAC",
+    "lang": "ca"
+   }
+  ],
+  "expect": {
+   "query": "Museu del Tabac",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Large lime-green 3D letters on the canopy over the museum entrance, Sant Julià de Lòria; seen at a slight angle. Posters on the doors are distractors."
+ },
+ "c29169966": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Comú d´Ordino",
+    "lang": "ca"
+   },
+   {
+    "text": "CARRER MAJOR",
+    "lang": "ca"
+   }
+  ],
+  "expect": {
+   "query": "Carrer Major",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Rusted Corten-steel plate with cut-out serif letters, Ordino; the apostrophe in 'd´Ordino' is cut as a slanted acute-like mark. Small caps style: large C and M."
+ },
+ "c139803407": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Carrer",
+    "lang": "ca"
+   },
+   {
+    "text": "ROC DELS",
+    "lang": "ca"
+   },
+   {
+    "text": "ESCOLLS",
+    "lang": "ca"
+   }
+  ],
+  "expect": {
+   "query": "Carrer Roc dels Escolls",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Cream plate with raised brown letters and a parish coat of arms at top left, slightly angled from below."
+ }
+}

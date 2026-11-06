@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=926e8890-6835-49f9-813e-9e5c178e8aad",
+  "original_url": "https://panoramax.openstreetmap.fr/images/92/6e/88/90/6835-49f9-813e-9e5c178e8aad.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "JLZIMMERMANN",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture 926e8890-6835-49f9-813e-9e5c178e8aad (Brussels, 2016-09-30)",
+  "description": "Street-level picture on Panoramax, taken 2016-09-30 near Brussels by JLZIMMERMANN, sequence fbb22e2b-98b6-443d-b082-5df469f55c44, heading 321. OCR (PP-OCRv3) read: PRIMUS | SINT-JAN | Tongerlo | Maison | uCMedical | ORTHOPEDIE·BANDAGISTE·CHAUSSEUR",
+  "date": "2016-09-30",
+  "categories": [],
+  "camera_location": [
+    50.844630556,
+    4.3533
+  ],
+  "found_by": "panoramax-ocr:Brussels",
+  "bytes": 1173285,
+  "width": 3264,
+  "height": 2448,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/92/6e/88/90/6835-49f9-813e-9e5c178e8aad.jpg",
+  "derivative": "whole 3264x2448 HD picture as served by the Panoramax instance (byte-identical; the service blurs faces and number plates), not cropped"
+}

@@ -1,0 +1,554 @@
+{
+  "p22f5fee2ca": {
+    "accept": true,
+    "reason": "",
+    "kind": "negative",
+    "scripts": [
+      "Hebr"
+    ],
+    "lines": [
+      {
+        "text": "ספרייה עירונית רוטשילד",
+        "lang": "he",
+        "latin": "Sifriya Ironit Rothschild (Rothschild city library)"
+      }
+    ],
+    "expect": {
+      "query": "ספרייה עירונית רוטשילד",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Hebrew-only stencil lettering on the plinth of a street book-exchange cabinet (Rothschild Boulevard, Tel Aviv), slightly angled. Stencil font: the samekh of 'ספרייה' and the tet of 'רוטשילד' look alike. Stickers and book spines are distractors."
+  },
+  "p52d4a5caf9": {
+    "accept": false,
+    "reason": "construction-site warning sign ('סכנה כאן בונים / DANGER! CONSTRUCTION!'), not a sign naming a place"
+  },
+  "p5d7b26cf60": {
+    "accept": false,
+    "reason": "corporate tenant logos ('רוגובין', 'אקרו נדל\"ן', dynamic yield, mobileye, WSC SPORTS) high on a tower, seen from far below; no single main sign naming the place"
+  },
+  "p61a6a55757": {
+    "accept": false,
+    "reason": "poem board by street artist Tamburzuki on a graffiti wall; slogan/art, not a place sign"
+  },
+  "p74b1537aca": {
+    "accept": false,
+    "reason": "municipal warning sign (Ramat Gan: 'lighting bonfires here is strictly forbidden') and an animal-feeding notice; warnings, not place signs"
+  },
+  "p960fe45ee2": {
+    "accept": false,
+    "reason": "poem board by street artist Tamburzuki over graffiti; slogan/art, not a place sign"
+  },
+  "pb5b47b62e8": {
+    "accept": false,
+    "reason": "street-art mural (Dede Bandaid & Nitzan Mintz) with Hebrew poem lettering and graffiti; not a place sign"
+  },
+  "pcc53e3177e": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Hebr",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "מרכז צפרות ראש ציפור",
+        "lang": "he",
+        "latin": "Merkaz Tsaparut Rosh Tsipor (Rosh Tzippor birdwatching centre)"
+      },
+      {
+        "text": "THE ROSH TZIPPOR BIRDWATCHING CENTRE",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Rosh Tzippor",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Name panel on a concrete entrance wall in Yarkon Park, Tel Aviv, frontal at mid distance. Row of six sponsor logos (KKL-JNF, SPNI, municipality) above the name is small and not transcribed. Gate notice board at left is a distractor."
+  },
+  "p8e7c00157f": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "24/7",
+        "lang": "und"
+      },
+      {
+        "text": "ONIGIRI",
+        "lang": "en"
+      },
+      {
+        "text": "GO",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Onigiri Go",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Hand-painted name on the pink wall panel of a 24/7 onigiri vending kiosk, Tel Aviv; the '19 ש\"ח' price roundel, vending-machine 'PULL/PUSH/Coin return' labels, small Hebrew stickers and the cut-off '...OCHI' panel at left are distractors."
+  },
+  "p36189b603d": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Hebr",
+      "Arab",
+      "Latn",
+      "Zyyy"
+    ],
+    "lines": [
+      {
+        "text": "רח' אלחנן ליב לוינסקי",
+        "lang": "he",
+        "latin": "Rehov Elhanan Leib Levinski (Elhanan Leib Levinski Street)"
+      },
+      {
+        "text": "1910-1857, סופר ופעיל ציוני",
+        "lang": "he",
+        "latin": "1857-1910, sofer u-fa'il tsiyoni (writer and Zionist activist)"
+      },
+      {
+        "text": "شارع إلحنان لييب لِڤينسكى",
+        "lang": "ar",
+        "latin": "Shari' Ilhanan Liyib Lifinski (Elhanan Leib Levinski Street)"
+      },
+      {
+        "text": "Elḥanan Leib Levinski St.",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Levinski",
+      "type": "street"
+    },
+    "difficulty": "easy",
+    "notes": "Blue Tel Aviv trilingual street plate. The Hebrew name line carries niqqud (vowel points) on the plate, which are omitted from this transcription; the English uses ḥ (h with dot below). The black spice-shop sign underneath (Hebrew advertising copy) and loofahs are distractors."
+  },
+  "k296081867": {
+    "accept": false,
+    "reason": "busy Jerusalem junction; hotel and street signs cut off or too small, no single legible main sign"
+  },
+  "p0dbd18ff13": {
+    "accept": false,
+    "reason": "street book-exchange cabinet labelled generically 'ספריה קהילתית' (community library); no name, books are the subject"
+  },
+  "pa9300e0b95": {
+    "accept": true,
+    "reason": "",
+    "kind": "negative",
+    "scripts": [
+      "Hebr"
+    ],
+    "lines": [
+      {
+        "text": "עיריית רמת-גן",
+        "lang": "he",
+        "latin": "Iriyat Ramat-Gan (Ramat Gan Municipality)"
+      },
+      {
+        "text": "גן צלינה",
+        "lang": "he",
+        "latin": "Gan Tselina (Tselina Garden)"
+      }
+    ],
+    "expect": {
+      "query": "גן צלינה",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Wooden park name board in Ramat Gan, Hebrew only; the municipality name curves around the crest at the top. The yellow park-rules text below ('כללי התנהגות בגן' and rules list) and stickers are distractors. Angled view."
+  },
+  "k180146601": {
+    "accept": false,
+    "reason": "café name mostly hidden behind a closed umbrella (only '...Bean' visible)"
+  },
+  "k445966185": {
+    "accept": false,
+    "reason": "perfume advertising lightbox (Azzaro Wanted) with faces"
+  },
+  "c107960084": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Hebr",
+      "Latn",
+      "Zyyy"
+    ],
+    "lines": [
+      {
+        "text": "רחבת מוסטפה כמאל אטאטורק",
+        "lang": "he",
+        "latin": "Rahavat Mustafa Kemal Ataturk (Mustafa Kemal Atatürk Plaza)"
+      },
+      {
+        "text": "(1881 - 1938)",
+        "lang": "und"
+      },
+      {
+        "text": "מייסד הרפובליקה של תורכיה",
+        "lang": "he",
+        "latin": "Meyased ha-Republika shel Turkiya (founder of the Republic of Turkey)"
+      },
+      {
+        "text": "MUSTAFA KEMAL ATATURK plaza",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Ataturk",
+      "type": "street"
+    },
+    "difficulty": "medium",
+    "notes": "Green Beersheba plaza sign on blue posts, photographed at night from below with flash glare. A small vowel mark under the alef of כמאל (Kemal) is not transcribed. The year range is stored in logical (birth-first) order; it appears visually as (1938 - 1881) in the RTL layout. English has no diacritics: ATATURK."
+  },
+  "c115488236": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "NAGISA",
+        "lang": "en"
+      },
+      {
+        "text": "SUSHI EXPRESS",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Nagisa",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Illuminated fascia repeated twice (two identical panels) over a sushi restaurant at 1 Hanassi Street, Lod, at night from across the road. A tiny Hebrew kashrut line 'כשר למהדרין' above each logo is not part of the name. Distractor: small trilingual street sign 'הנשיא / HANASSI / هناسي' on a green post at left; parked cars' plates are incidental."
+  },
+  "c117956720": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Hebr",
+      "Latn",
+      "Arab",
+      "Zyyy"
+    ],
+    "lines": [
+      {
+        "text": "רח' בורוכוב",
+        "lang": "he",
+        "latin": "Rehov Borokhov (Borochov Street)"
+      },
+      {
+        "text": "בורוכוב דב בר - (1881 - 1917) סופר והוגה דעות יהודי,",
+        "lang": "he",
+        "latin": "Borokhov Dov Ber (1881-1917), sofer ve-hoge de'ot yehudi (Jewish writer and thinker)"
+      },
+      {
+        "text": "מאבות הציונות הסוציאליסטית, ממייסדי מפלגת פועלי ציון",
+        "lang": "he",
+        "latin": "me-avot ha-Tsiyonut ha-Sotsialistit, mi-meyasdei mifleget Po'alei Tsiyon (a father of Socialist Zionism, co-founder of the Poale Zion party)"
+      },
+      {
+        "text": "BOROCHOV St.",
+        "lang": "en"
+      },
+      {
+        "text": "شارع بوروخوب",
+        "lang": "ar",
+        "latin": "Shari' Burukhub (Borochov Street)"
+      }
+    ],
+    "expect": {
+      "query": "Borochov",
+      "type": "street"
+    },
+    "difficulty": "easy",
+    "notes": "White trilingual Lod street plate with green lettering and a two-line Hebrew biography. Year range stored in logical (birth-first) order. In the Arabic the word شارع is small and to the left of the large بوروخوب."
+  },
+  "c139419770": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Hebr",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "מבוא הדודאים",
+        "lang": "he",
+        "latin": "Mevo ha-Duda'im (Duda'im alley)"
+      },
+      {
+        "text": "HADUDA’IM alley",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "מבוא הדודאים",
+      "type": "street"
+    },
+    "difficulty": "easy",
+    "notes": "Blue Ashdod street plate (Rova Het) seen slightly from below. A chip in the paint under the second D of HADUDA’IM is damage, not a diacritic. The apostrophe is a typographic ’."
+  },
+  "c145451032": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Hebr",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "מוזיאון אשדוד",
+        "lang": "he",
+        "latin": "Muze'on Ashdod (Ashdod Museum)"
+      },
+      {
+        "text": "לאמנות",
+        "lang": "he",
+        "latin": "le-Omanut (of Art)"
+      },
+      {
+        "text": "Ashdod Museum Of Art",
+        "lang": "en"
+      },
+      {
+        "text": "מוזיאון אשדוד",
+        "lang": "he",
+        "latin": "Muze'on Ashdod (Ashdod Museum)"
+      },
+      {
+        "text": "ע\"ש קורין ממו",
+        "lang": "he",
+        "latin": "al shem Korin Mamo (named after Corinne Maman)"
+      },
+      {
+        "text": "THE CORINE MAMAN ASHDOD MUSEUM",
+        "lang": "en"
+      },
+      {
+        "text": "מרכז מונארט",
+        "lang": "he",
+        "latin": "Merkaz Monart (Monart Centre)"
+      },
+      {
+        "text": "לאמנויות",
+        "lang": "he",
+        "latin": "le-Omanuyot (for the Arts)"
+      },
+      {
+        "text": "Centre d’Arts Monart",
+        "lang": "fr"
+      }
+    ],
+    "expect": {
+      "query": "Ashdod Museum of Art",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Three coloured arrow fingerposts on one pole, B'nai B'rith Boulevard, Ashdod: pink (top right) Ashdod Museum of Art, yellow (left) Corinne Maman Ashdod Museum (Philistine culture), green (right) Monart Centre. Lines are given arrow by arrow, top-right, left, lower-right. Note the English spelling CORINE vs Hebrew קורין."
+  },
+  "c153992827": {
+    "accept": false,
+    "reason": "door warning sign 'חדר גנרטור / הכניסה לזרים אסורה' (generator room, no entry for strangers); not a place name"
+  },
+  "c16107194": {
+    "accept": false,
+    "reason": "'סכנה זכוכית! אין כניסה / NO ENTRY' warning sign; no place name"
+  },
+  "c162842462": {
+    "accept": true,
+    "reason": "",
+    "kind": "hard",
+    "scripts": [
+      "Hebr",
+      "Latn",
+      "Arab"
+    ],
+    "lines": [
+      {
+        "text": "רח' החרוב של רשב\"י",
+        "lang": "he",
+        "latin": "Rehov ha-Haruv shel Rashbi (Rashbi's Carob Street)"
+      },
+      {
+        "text": "HA'HARUV SHEL RASHBI",
+        "lang": "en"
+      },
+      {
+        "text": "شارع خروب الراشبي",
+        "lang": "ar",
+        "latin": "Shari' Kharrub ar-Rashbi (Rashbi's Carob Street)"
+      }
+    ],
+    "expect": {
+      "query": "החרוב",
+      "type": "street"
+    },
+    "difficulty": "hard",
+    "notes": "Trilingual Lod street plate at night, lit by flash so the retroreflective film shows a dot pattern and the text is washed out; seen from below. The small Hebrew explanation lines under the name are unreadable and not transcribed. The second H of HA'HARUV may carry an under-dot (Ḥ) that cannot be confirmed; a trailing 'St.' after RASHBI is too faint to transcribe. شارع is small, left of the Arabic name. Per the description the official street name is just החרוב (Carob)."
+  },
+  "c16330010": {
+    "accept": false,
+    "reason": "street scene by Jaffa Gate / Tower of David with speed-limit signs and police; no name sign, vehicle plates visible"
+  },
+  "c176566830": {
+    "accept": false,
+    "reason": "car-park wayfinding 'אזור מחסה' (shelter area) and lift/payment directions; internal signage, not a mappable place name"
+  },
+  "c18591500": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Hebr",
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "רחוב המלאך",
+        "lang": "he",
+        "latin": "Rehov ha-Mal'akh (Angel Street)"
+      },
+      {
+        "text": "طريق الملاك",
+        "lang": "ar",
+        "latin": "Tariq al-Malak (Angel Road)"
+      },
+      {
+        "text": "HA-MAL'AKH ST.",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Ha-Malakh",
+      "type": "street"
+    },
+    "difficulty": "easy",
+    "notes": "Painted ceramic-tile street plate set into a stone wall, Armenian Quarter, Jerusalem Old City; frontal and sharp. The Hebrew line carries niqqud (vowel points) that are omitted here. In the English there is a spaced hyphen ('HA - MAL'AKH') and a small apostrophe between L and A."
+  },
+  "c193262612": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Hebr",
+      "Latn",
+      "Arab",
+      "Zyyy"
+    ],
+    "lines": [
+      {
+        "text": "הנרי הרץ",
+        "lang": "he",
+        "latin": "Henri Herts (Henri Herz)"
+      },
+      {
+        "text": "HENRI HERTZ",
+        "lang": "en"
+      },
+      {
+        "text": "هنري هرتس",
+        "lang": "ar",
+        "latin": "Hinri Hirtz (Henri Herz)"
+      },
+      {
+        "text": "מלחין ופסנתרן יהודי-אוסטרי, אהוב ומוכשר ביותר",
+        "lang": "he",
+        "latin": "malhin u-psantran yehudi-ostri, ahuv u-mukhshar be-yoter (Austrian-Jewish composer and pianist, most beloved and gifted)"
+      },
+      {
+        "text": "בתקופתו (1802-1888)",
+        "lang": "he",
+        "latin": "bi-tkufato (in his time) (1802-1888)"
+      }
+    ],
+    "expect": {
+      "query": "Henri Hertz",
+      "type": "street"
+    },
+    "difficulty": "easy",
+    "notes": "White trilingual Lod street plate with green text, frontal from slightly below. No 'street' word on the plate. The year range is printed visually as (1802-1888)."
+  },
+  "c31261718": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Hebr",
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "רח' טהון",
+        "lang": "he",
+        "latin": "Rehov Thon (Thon Street)"
+      },
+      {
+        "text": "شارع طهون",
+        "lang": "ar",
+        "latin": "Shari' Thun (Thon Street)"
+      },
+      {
+        "text": "THON ST.",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Thon",
+      "type": "street"
+    },
+    "difficulty": "easy",
+    "notes": "Old-style grey Jerusalem trilingual street lightbox, close and frontal against sky; serif Latin lettering."
+  },
+  "c35364912": {
+    "accept": false,
+    "reason": "no-entry traffic sign with a 'RETURN NOW / תשובה עכשיו' sticker; slogan, no place name"
+  },
+  "c38435273": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Hebr",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "הספרים הבפטיסטי",
+        "lang": "he",
+        "latin": "ha-Sfarim ha-Baptisti (the Baptist books ...)"
+      },
+      {
+        "text": "BAPTIST BOOK SHOP",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Baptist Book Shop",
+      "type": "poi"
+    },
+    "difficulty": "hard",
+    "notes": "Semicircular sign of riveted brass strip letters over a green door, Old City of Acre, seen from below. The Hebrew runs along the arc; the first word at the lower right (probably בית, giving 'בית הספרים הבפטיסטי') is not clearly legible and is left out. The Arabic line in the middle (decorative, beginning المكتبة, probably 'المكتبة المعمدانية' Baptist Library) is not transcribed because the letter strips are ambiguous. Photographer's 'PZ' mark at bottom left."
+  }
+}

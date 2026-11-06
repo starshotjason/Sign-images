@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/2891762/0/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMC84LzEwL3Byb2MvMjg5MTc2Ml80MmYyOF81ZjMwYTA1MjVlYzM2LmpwZw",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "charlie-plett",
+  "credit_as_published": "KartaView user charlie-plett (user id 24854); © KartaView contributors",
+  "title": "KartaView photo 1042753114, sequence 2891762 #0 (Belize City, 2020-03-18)",
+  "description": "Street-level picture on KartaView, taken 2020-03-18 near Belize City by charlie-plett, sequence 2891762, heading 133.63. OCR (PP-OCRv3) read: PEOPLES | BELIKIN | TheBfBeli",
+  "date": "2020-03-18",
+  "categories": [],
+  "camera_location": [
+    17.498222,
+    -88.189466
+  ],
+  "found_by": "kartaview-ocr:Belize City",
+  "bytes": 1001596,
+  "width": 2375,
+  "height": 1781,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMC84LzEwL3Byb2MvMjg5MTc2Ml80MmYyOF81ZjMwYTA1MjVlYzM2LmpwZw",
+  "derivative": "crop 1536,265,3911,2046 of the 4000x2250 full-size processed (blurred) picture"
+}

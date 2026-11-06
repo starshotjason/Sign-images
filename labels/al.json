@@ -1,0 +1,324 @@
+{
+ "p635a66da3b": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "FAST FOOD",
+    "lang": "en"
+   },
+   {
+    "text": "Albania",
+    "lang": "sq"
+   }
+  ],
+  "expect": {
+   "query": "Fast Food Albania",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Fascia of a Fast Food Albania outlet, Tirana; a traffic-light pole crosses between FAST and FOOD. Distractors: 'UFO Klinike Dentare' fascia above, 'UFO ROOMS' panel to the right (partly hidden), HYBRID badge on the car."
+ },
+ "p0c036d1ec7": {
+  "accept": false,
+  "reason": "near-duplicate of p635a66da3b (same Fast Food Albania / UFO frontage from the same sequence); here the fascia is cut ('ST FOOD')"
+ },
+ "pdc0c8618c0": {
+  "accept": false,
+  "reason": "near-duplicate of p635a66da3b (same Fast Food Albania / UFO frontage from the same sequence)"
+ },
+ "pbe56dc43a7": {
+  "accept": true,
+  "reason": "",
+  "kind": "hard",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "LAGUNA",
+    "lang": "und"
+   },
+   {
+    "text": "Lagun",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "Laguna",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Dim dusk shot of a 'Laguna' shop/café fascia, Tirana. Small round logo reads LAGUNA; the large wordmark is clipped by the right frame edge after 'Lagun' (last letter only half visible, looks like 'a'). Distractor: municipal Ramadan banner on the left pole ('Bashkia Tiranë')."
+ },
+ "pe1e1274f3f": {
+  "accept": false,
+  "reason": "near-duplicate of pbe56dc43a7 (same Laguna fascia); here the wordmark is cut by a traffic-light pole ('Lagu')"
+ },
+ "pf3c569c481": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Fibank",
+    "lang": "und"
+   },
+   {
+    "text": "Fibank",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "Fibank",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Rooftop sign of the Fibank tower, Tirana, far and small at top left (the name appears twice either side of the logo). Distractors: 'vizionplus.tv' / 'PLUS' on the car in the foreground, 'NEPTUN' board, festive 'azan' light decoration."
+ },
+ "k1289937305": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Laguna",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "Laguna",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Black kiosk fascia with white 'Laguna' wordmark and round LAGUNA logo, Tirana; a traffic-light pole hides the text after the wordmark (only '...am' visible). Same chain as pbe56dc43a7 but a different kiosk ~500 m away and a different photo. Pedestrian countdown '23' is a distractor."
+ },
+ "k1289946473": {
+  "accept": false,
+  "reason": "construction-hoarding advertising (#EYES OF TIRANA, Ideal Construction), not a place sign"
+ },
+ "k1289946737": {
+  "accept": false,
+  "reason": "construction-hoarding advertising (#EYES OF TIRANA), same hoarding as k1289946473"
+ },
+ "k1289947669": {
+  "accept": false,
+  "reason": "main text is on waste bins (MBETURINA ...); the ALBSIG rooftop sign is tiny and far"
+ },
+ "k1289948373": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Kancelari",
+    "lang": "sq"
+   },
+   {
+    "text": "PC STORE",
+    "lang": "en"
+   },
+   {
+    "text": "KANCELARI",
+    "lang": "sq"
+   }
+  ],
+  "expect": {
+   "query": "PC Store",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Stationery/PC shop front, Tirana, seen at an angle along the pavement: red fascia 'Kancelari', vertical white panel with PC STORE logo (small tagline below it unreadable) and vertically stacked KANCELARI; a red neon KANCELARI also in the window. 'new' poster and ALGIDA car livery are distractors."
+ },
+ "k1289949105": {
+  "accept": true,
+  "reason": "",
+  "kind": "hard",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "MULL",
+    "lang": "sq"
+   },
+   {
+    "text": "ETER",
+    "lang": "sq"
+   }
+  ],
+  "expect": {
+   "query": "Mulli i Vjetër",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Red letters on the fascia of the Mulli i Vjetër café/restaurant, Tirana, behind a traffic light; a lamppost wrapped in paper notices hides the middle of the name (the end of MULLI, 'I' and most of 'VJ'). Only 'MULL' and 'ETER' (preceded by a partial V) are clearly visible; whether the sign has Ë cannot be seen. Paper notices on the pole (phone numbers 0692…) are distractors."
+ },
+ "k1289949129": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ROSSMANN",
+    "lang": "de"
+   }
+  ],
+  "expect": {
+   "query": "Rossmann",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Red ROSSMANN lettering (first O is the round logo) on a white canopy, Tirana, partly framed by trees; large round logo to the right. A small street plate on the pillar is too small to read. 'GAZETA' kiosk is a distractor."
+ },
+ "k1290286933": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "LONDON TRAVEL",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "London Travel",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Orange travel-agency fascia, Tirana, shot through a car window (slight blur; leaves cover the left of 'LONDON'). A small white tagline below the name is unreadable. 'Rezervo' window sticker and no-stopping sign are distractors."
+ },
+ "pe2476a304b": {
+  "accept": true,
+  "reason": "",
+  "kind": "hard",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "DMD FASHIO",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "DMD Fashion",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Black letters on a white fascia at the right edge of a street view, Tirana; the last letter(s) of FASHION are cut by the frame. 'C200' badge on the Mercedes is a distractor."
+ },
+ "c163983305": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "RRUGA",
+    "lang": "sq"
+   },
+   {
+    "text": "JERONIM DE RADA",
+    "lang": "sq"
+   }
+  ],
+  "expect": {
+   "query": "Jeronim De Rada",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "White plate with black border on a pillar, Shkodër. Distractors: black '15' box at top left, 'visit Shkodër' QR sticker, shop-window lettering '...OPJE'."
+ },
+ "c65543156": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn",
+   "Cyrl"
+  ],
+  "lines": [
+   {
+    "text": "Shkolla 9-Vjecare",
+    "lang": "sq"
+   },
+   {
+    "text": "„Rezistenca e Goricareve“",
+    "lang": "sq"
+   },
+   {
+    "text": "Gorice e Vogel",
+    "lang": "sq"
+   },
+   {
+    "text": "Деветолетка",
+    "lang": "mk",
+    "latin": "Devetoletka (nine-year school)"
+   },
+   {
+    "text": "„Отпорот на Горичани“",
+    "lang": "mk",
+    "latin": "„Otporot na Goričani“ (Resistance of the Goričani)"
+   },
+   {
+    "text": "Долна Горица",
+    "lang": "mk",
+    "latin": "Dolna Gorica"
+   }
+  ],
+  "expect": {
+   "query": "Gorice e Vogel",
+   "type": "place"
+  },
+  "difficulty": "easy",
+  "notes": "Albanian/Macedonian school name plate in Goricë e Vogël (Pustec municipality). Albanian lines are written without ç/ë ('Vjecare', 'Gorice'). Small round municipal emblem at top ('ОПШТИНА ПУСТЕЦ / KOMUNA LIQENAS (PUSTEC)') is a distractor."
+ },
+ "c7086504": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn",
+   "Grek"
+  ],
+  "lines": [
+   {
+    "text": "GORANXI 0,5",
+    "lang": "sq"
+   },
+   {
+    "text": "ΚΑΛΟΓΟΡΑΝΤΖΗ 0,5",
+    "lang": "el",
+    "latin": "Kalogorantzi 0,5"
+   }
+  ],
+  "expect": {
+   "query": "Goranxi",
+   "type": "place"
+  },
+  "difficulty": "medium",
+  "notes": "Two blue arrow-shaped direction panels on the SH4 near Gjirokastër, seen from the road at mid distance. 'elda' fuel-station price sign on the right is a distractor."
+ }
+}

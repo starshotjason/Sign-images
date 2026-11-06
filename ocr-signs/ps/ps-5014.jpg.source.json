@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=d0dce849-63d0-477f-ae66-4fc9de765e0e",
+  "original_url": "https://panoramax.openstreetmap.fr/images/d0/dc/e8/49/63d0-477f-ae66-4fc9de765e0e.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "urimsch",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture d0dce849-63d0-477f-ae66-4fc9de765e0e (Bethlehem, 2025-12-08)",
+  "description": "Street-level picture taken 2025-12-08 near Bethlehem by urimsch, sequence 0a104651-6c99-4e8d-83cf-cb8c89138019, heading 100. OCR (PP-OCRv3) read: Synagogue\"Hasdei Shmouel\" | ALa Menoirt De Samy Souled Zal n Hadaa | Sos L'egide Du Rav EyalAmrami Shlita",
+  "date": "2025-12-08",
+  "categories": [],
+  "camera_location": [
+    31.721732444,
+    35.224457653
+  ],
+  "found_by": "panoramax-ocr:Bethlehem",
+  "bytes": 1466997,
+  "width": 2665,
+  "height": 1999,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/d0/dc/e8/49/63d0-477f-ae66-4fc9de765e0e.jpg",
+  "derivative": "crop 0,0,2665,1999 of the 3060x4080 HD picture"
+}

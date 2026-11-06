@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=8dddb70f-e914-43e4-b5bd-6c1b81442c8a",
+  "original_url": "https://panoramax.openstreetmap.fr/images/8d/dd/b7/0f/e914-43e4-b5bd-6c1b81442c8a.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "Danil",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture 8dddb70f-e914-43e4-b5bd-6c1b81442c8a (Mecca, 2026-05-30)",
+  "description": "Street-level picture taken 2026-05-30 near Mecca by Danil, sequence e8143b27-ec36-40db-a874-00d105106e53, heading 326. OCR (PP-OCRv3) read: Jasmine Royal",
+  "date": "2026-05-30",
+  "categories": [],
+  "camera_location": [
+    21.431044534,
+    39.85705382
+  ],
+  "found_by": "panoramax-ocr:Mecca",
+  "bytes": 460859,
+  "width": 1728,
+  "height": 2366,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/8d/dd/b7/0f/e914-43e4-b5bd-6c1b81442c8a.jpg",
+  "derivative": "crop 0,705,1728,3071 of the 1728x3072 HD picture"
+}

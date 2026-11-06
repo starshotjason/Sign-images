@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=879517d4-f4ab-41bf-8a7e-f5046cda6a20",
+  "original_url": "https://panoramax.openstreetmap.fr/images/87/95/17/d4/f4ab-41bf-8a7e-f5046cda6a20.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "jerome92370",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture 879517d4-f4ab-41bf-8a7e-f5046cda6a20 (Lisbon, 2023-10-30)",
+  "description": "Street-level picture on Panoramax, taken 2023-10-30 near Lisbon by jerome92370, sequence 5d37cd99-c53f-41fb-9780-a9a380354f43, heading 152. OCR (PP-OCRv3) read: CASA BRASILEIRA",
+  "date": "2023-10-30",
+  "categories": [],
+  "camera_location": [
+    38.712700166,
+    -9.1385234
+  ],
+  "found_by": "panoramax-ocr:Lisbon",
+  "bytes": 2510910,
+  "width": 3606,
+  "height": 2705,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/87/95/17/d4/f4ab-41bf-8a7e-f5046cda6a20.jpg",
+  "derivative": "crop 425,0,4031,2705 of the 4032x3024 HD picture"
+}

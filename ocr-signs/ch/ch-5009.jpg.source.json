@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/8732/94/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlNC5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE2LzcvNC9wcm9jLzg3MzJfYjMyYzhfNTc3YTJmNGU0OWM2ZS5qcGc",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "OpenStreetView",
+  "credit_as_published": "KartaView user OpenStreetView (user id 44); © KartaView contributors",
+  "title": "KartaView photo 3374301, sequence 8732 #94 (Bern, 2016-06-20)",
+  "description": "Street-level picture on KartaView, taken 2016-06-20 near Bern by OpenStreetView, sequence 8732, heading 188.69. OCR (PP-OCRv3) read: VON G | StOTRAVEL | MIGROS",
+  "date": "2016-06-20",
+  "categories": [],
+  "camera_location": [
+    46.94894,
+    7.445523
+  ],
+  "found_by": "kartaview-ocr:Bern",
+  "bytes": 404426,
+  "width": 1518,
+  "height": 1139,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlNC5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE2LzcvNC9wcm9jLzg3MzJfYjMyYzhfNTc3YTJmNGU0OWM2ZS5qcGc",
+  "derivative": "crop 1073,412,2591,1551 of the 2592x1936 full-size processed (blurred) picture"
+}

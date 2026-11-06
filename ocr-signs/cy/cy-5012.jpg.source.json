@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=eee88f8c-1822-42e0-9a3b-6579114014e0",
+  "original_url": "https://panoramax.openstreetmap.fr/images/ee/e8/8f/8c/1822-42e0-9a3b-6579114014e0.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "nave88",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture eee88f8c-1822-42e0-9a3b-6579114014e0 (Limassol, 2026-05-31)",
+  "description": "Street-level picture taken 2026-05-31 near Limassol by nave88, sequence dea82416-fb3a-44bc-881b-ba4a0633e9a1, heading 116. OCR (PP-OCRv3) read: ODOSTENEONIOYMITEANA | GENETHLIOU MITELLA Str.",
+  "date": "2026-05-31",
+  "categories": [],
+  "camera_location": [
+    34.673464,
+    33.043782972
+  ],
+  "found_by": "panoramax-ocr:Limassol",
+  "bytes": 361533,
+  "width": 1450,
+  "height": 1087,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/ee/e8/8f/8c/1822-42e0-9a3b-6579114014e0.jpg",
+  "derivative": "crop 770,487,2220,1574 of the 4080x3060 HD picture"
+}

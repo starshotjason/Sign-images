@@ -1,0 +1,644 @@
+{
+  "f51f70fec-f9ae-4542-b6b4-46da31cd57db": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "WELCOME TO LAHORE ZOO",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Lahore Zoo",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Long printed banner of animal photos over a green canopy at the zoo entrance, seen from below at a strong angle; letters are large and clear."
+  },
+  "f208f4dcb-515a-4f96-bd55-dda31c37cf2d": {
+    "accept": false,
+    "reason": "rooftop view of a Karachi settlement; no sign"
+  },
+  "fb831c322-6098-4ff4-b133-59b8f6fbd491": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "HUSSAIN",
+        "lang": "en"
+      },
+      {
+        "text": "SONS",
+        "lang": "en"
+      },
+      {
+        "text": "SCHOOL UNIFORMS",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Hussain Sons",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Weathered painted board on a school-side shop, Karachi; red 'SCHOOL UNIFORMS' is faded. Small 'TIME MON TO SAT 8AM TO 6PM' panel and the Pakola logo at top right are not labelled. The neighbouring 'INSIDE SCHOOL' board with a small Urdu line (apparently 'اسکول کے اندر', not verified letter by letter) is a distractor. The person lying on the pavement is incidental, face not visible."
+  },
+  "fd0de4d67-a16c-41cc-9580-fb929e9d6328": {
+    "accept": false,
+    "reason": "sepia street scene of Empress Market, Karachi; no legible name board, only vehicles and crowd"
+  },
+  "k1658652489": {
+    "accept": false,
+    "reason": "event and sale adverts on a lamp post (Winter Festival, discount sale)"
+  },
+  "k1658652649": {
+    "accept": false,
+    "reason": "blurred public-service adverts on a pole; no place sign"
+  },
+  "k1686049529": {
+    "accept": false,
+    "reason": "no-parking pictogram with 'M.C.L' tag only; no place name"
+  },
+  "k1686067193": {
+    "accept": false,
+    "reason": "vehicle branding on the back of a bus (Speedo)"
+  },
+  "k2466549593": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "Rainbow Travels",
+        "lang": "en"
+      },
+      {
+        "text": "(Pvt) Ltd.",
+        "lang": "en"
+      },
+      {
+        "text": "(Short)",
+        "lang": "en"
+      },
+      {
+        "text": "Hajj Package",
+        "lang": "en"
+      },
+      {
+        "text": "Maktab",
+        "lang": "en"
+      },
+      {
+        "text": "2",
+        "lang": "und"
+      },
+      {
+        "text": "Direct Flight",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Rainbow Travels",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Rooftop board of a travel agency in Lahore, crossed by power lines. Not transcribed: the tiny tagline above the name, the licence numbers under it, the partly hidden word left of the plane, the route line (Lahore - Jeddah - Madina - Lahore), and phone numbers that are partly hidden by cables. The vertical 'RAINBOW TRAVELS' blade sign below repeats the name."
+  },
+  "k2466549753": {
+    "accept": false,
+    "reason": "shop sign ('NAB... 13 SHAHEEN ... MOTORS') largely hidden behind a blurred rider"
+  },
+  "k2466549913": {
+    "accept": false,
+    "reason": "generic ATM sign; bank name above it is too dark to read"
+  },
+  "k2466551817": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "RAJPOOT MOTORS",
+        "lang": "en"
+      },
+      {
+        "text": "GHANDHARA NISSAN LTD.",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Rajpoot Motors",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Rooftop board in Lahore, shot upward, with a pole and wires crossing the right end. The small line between the two transcribed lines ('Authorised Dealer 3S' or '35') is not transcribed because its last character is ambiguous; a logo sits at its left. 'SHAFIQUE AUTOS WORKSHOP' board on the pole and Urdu van lettering are distractors."
+  },
+  "c119844452": {
+    "accept": false,
+    "reason": "product advert ('اونٹنی کا دودھ دستیاب ہے', camel milk available); no business or place name"
+  },
+  "c53252357": {
+    "accept": true,
+    "reason": "",
+    "kind": "transit",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "گولڑہ شریف جنکشن",
+        "lang": "ur",
+        "latin": "Golra Sharif Junction"
+      },
+      {
+        "text": "GOLRA SHARIF JN",
+        "lang": "en"
+      },
+      {
+        "text": "MEAN SEA LEVEL 1994.80 FT",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Golra Sharif",
+      "type": "stop"
+    },
+    "difficulty": "easy",
+    "notes": "Hand-painted station name board, frontal. Urdu has ڑ (clear small ط above) and ends in a round isolated heh, transcribed as Urdu ہ. 'JN' is small and underlined with two dots under it (abbreviation mark). The prime after 1994 is painted as a small tick above the 4."
+  },
+  "c61338137": {
+    "accept": true,
+    "reason": "",
+    "kind": "transit",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "چھانگا مانگا",
+        "lang": "ur",
+        "latin": "Chhanga Manga"
+      },
+      {
+        "text": "CHANGA MANGA",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Changa Manga",
+      "type": "stop"
+    },
+    "difficulty": "easy",
+    "notes": "Painted platform name board of Changa Manga railway station. Urdu first word is چ + do-chashmi ھ (aspirated chh)."
+  },
+  "f79158569-3909-4073-8768-6f41605c39e5": {
+    "accept": false,
+    "reason": "aerial view of a roundabout (Hasan Square, Karachi); no legible target sign"
+  },
+  "fda90b847-1c5b-4317-b9fe-a09957f43094": {
+    "accept": false,
+    "reason": "zoo plaque naming a crocodile; not a map place"
+  },
+  "ff8228675-c174-4588-9961-811bce5c98f4": {
+    "accept": false,
+    "reason": "political rally gate ('NAYA PAKISTAN / AZADI TOWN', 2014 Azadi march sit-in): protest content; also a 'Khan Khattak' watermark"
+  },
+  "c20022482": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn",
+      "Cyrl",
+      "Hani"
+    ],
+    "lines": [
+      {
+        "text": "Swat",
+        "lang": "en"
+      },
+      {
+        "text": "80 km",
+        "lang": "und"
+      },
+      {
+        "text": "СУАТ",
+        "lang": "ru",
+        "latin": "Suat (Swat)"
+      },
+      {
+        "text": "Gilgit",
+        "lang": "en"
+      },
+      {
+        "text": "323 km",
+        "lang": "und"
+      },
+      {
+        "text": "ГИЛГИТ",
+        "lang": "ru",
+        "latin": "Gilgit"
+      },
+      {
+        "text": "Khunjerab",
+        "lang": "en"
+      },
+      {
+        "text": "N-35",
+        "lang": "und"
+      },
+      {
+        "text": "589 km",
+        "lang": "und"
+      },
+      {
+        "text": "ХУНЗРЕАб",
+        "lang": "ru",
+        "latin": "Khunzreab (Khunjerab, misspelt)"
+      }
+    ],
+    "expect": {
+      "query": "Gilgit",
+      "type": "place"
+    },
+    "difficulty": "medium",
+    "notes": "Overhead blue Karakoram Highway (N-35) gantry with three panels, Latin + Chinese + Cyrillic (for foreign travellers). Cyrillic is as painted: 'СУАТ' with odd letter heights and 'ХУНЗРЕАб' with a lowercase б. The Chinese lines (2-4 characters each, some apparently malformed) are NOT transcribed. A tour bus with its number plate and tourists stand below the sign (incidental, seen mostly from behind)."
+  },
+  "c19005078": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "N-5",
+        "lang": "und"
+      },
+      {
+        "text": "لاہور ائیرپورٹ",
+        "lang": "ur",
+        "latin": "Lahore, Airport"
+      },
+      {
+        "text": "Lahore , Airport",
+        "lang": "en"
+      },
+      {
+        "text": "راولپنڈی",
+        "lang": "ur",
+        "latin": "Rawalpindi"
+      },
+      {
+        "text": "Rawalpindi",
+        "lang": "en"
+      },
+      {
+        "text": "مری",
+        "lang": "ur",
+        "latin": "Mari (Murree)"
+      },
+      {
+        "text": "Murree",
+        "lang": "en"
+      },
+      {
+        "text": "500m",
+        "lang": "und"
+      },
+      {
+        "text": "Faizabad Interchange",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Faizabad Interchange",
+      "type": "place"
+    },
+    "difficulty": "easy",
+    "notes": "Advance direction sign for Faizabad Interchange, Islamabad. Urdu uses ہ (لاہور), ٹ (ائیرپورٹ) and ڈ (راولپنڈی). Urdu top line reads right to left 'ائیرپورٹ ... لاہور' with a wide gap; the airport word is written ا-ئ-ی-ر (hamza on the second tooth). Space before the comma in 'Lahore , Airport' is on the sign. Airplane pictogram and N-5 hexagon."
+  },
+  "c21348862": {
+    "accept": false,
+    "reason": "near-duplicate of c53351793 (same sign stack; c53351793 is the sharper crop)"
+  },
+  "c53351793": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "پیرسوہاوہ",
+        "lang": "ur",
+        "latin": "Pir Sohawa"
+      },
+      {
+        "text": "Pir Sohawa",
+        "lang": "en"
+      },
+      {
+        "text": "دامن کوہ",
+        "lang": "ur",
+        "latin": "Daman-e-Koh"
+      },
+      {
+        "text": "Daman-e-koh",
+        "lang": "en"
+      },
+      {
+        "text": "Sectors",
+        "lang": "en"
+      },
+      {
+        "text": "F-6, F-7",
+        "lang": "en"
+      },
+      {
+        "text": "ایونیو",
+        "lang": "ur",
+        "latin": "Avenue"
+      },
+      {
+        "text": "7th Avenue",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Daman-e-Koh",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Stack of four direction signs in Islamabad, all pointing left. Urdu uses ہ in سوہاوہ and کوہ; no visible gap between پیر and سوہاوہ (ر does not join). On the 7th Avenue panel the Urdu has one more glyph right of ایونیو, an angled stroke with a long base that is probably the Urdu digit ۷ in a Nastaliq style (or ے); it is left out of the label because it cannot be read with certainty."
+  },
+  "c35300032": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Arab"
+    ],
+    "lines": [
+      {
+        "text": "مزار سیّد احمد شہید",
+        "lang": "ur",
+        "latin": "Mazar Sayyid Ahmad Shahid (Shrine of Syed Ahmad Shaheed)"
+      }
+    ],
+    "expect": {
+      "query": "سید احمد شہید",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Hand-painted calligraphic name board of the Syed Ahmad Shaheed shrine (Balakot/Mansehra). The mark over سید is read as a shadda. شہید is transcribed with Urdu ہ (the calligraphic medial heh could also be read as ھ). The small yellow honorific at top left (رحمۃ اللہ علیہ) and the two small blue lines below (dated 6 مئی 1831) are not transcribed. Worker with wheelbarrow incidental."
+  },
+  "c35654112": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "بادل پور",
+        "lang": "ur",
+        "latin": "Badalpur"
+      },
+      {
+        "text": "BADALPUR",
+        "lang": "en"
+      },
+      {
+        "text": "جنوں والی ڈھیری",
+        "lang": "ur",
+        "latin": "Jinnan Wali Dheri"
+      },
+      {
+        "text": "JINAH WALI DHERI",
+        "lang": "en"
+      },
+      {
+        "text": "DIRECTORATE OF ARCHAEOLOGY & MUSEUMS",
+        "lang": "en"
+      },
+      {
+        "text": "GOVERNMENT OF KHYBER PAKHTUNKHWA",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Jinnan Wali Dheri",
+      "type": "poi"
+    },
+    "difficulty": "hard",
+    "notes": "Faded blue archaeology direction sign (left arrow) at a roadside, mid-distance; paint chipped. Urdu ڈھ (ڈ + do-chashmi ھ) and noon ghunna ں in جنوں (no dot visible); the worn Urdu should be checked. English spelled 'JINAH' on the sign. Distractor: Sarhad Rural Support Programme board with 'KH 15' graffiti at left."
+  },
+  "c51830528": {
+    "accept": false,
+    "reason": "carved Chaukhandi-style tomb, no signboard or text visible"
+  },
+  "c51830530": {
+    "accept": false,
+    "reason": "tomb field, no signboard or text visible"
+  },
+  "c51830531": {
+    "accept": false,
+    "reason": "carved tomb, no signboard or text visible"
+  },
+  "c51830532": {
+    "accept": false,
+    "reason": "carved tombs, no signboard or text visible"
+  },
+  "c8050616": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "Nando's",
+        "lang": "en"
+      },
+      {
+        "text": "Flame-grilled Chicken Restaurants",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Nando's",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Free-standing yellow/green board with the rooster logo outside Nando's, M.M. Alam Road, Gulberg, Lahore; slightly angled. The apostrophe in Nando's is a curly typographic quote on the sign."
+  },
+  "c69061147": {
+    "accept": true,
+    "reason": "",
+    "kind": "hard",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "پاچادربار",
+        "lang": "ur",
+        "latin": "Pacha Darbar"
+      },
+      {
+        "text": "PACHA DARBAR",
+        "lang": "en"
+      },
+      {
+        "text": "Restaurant",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Pacha Darbar",
+      "type": "poi"
+    },
+    "difficulty": "hard",
+    "notes": "Roadside restaurant (Khyber Pakhtunkhwa) seen far across a wheat field, signs small in frame. Labelled: the billboard name (پاچادربار, written without a space) and the painted wall text 'PACHA DARBAR / Restaurant'. Not transcribed: the billboard's second word (probably ریسٹورنٹ) and phone numbers, too small to read with certainty; the large yellow wall lettering repeats پاچادربا... and is cut off by hay bales. Pepsi logos and a decorated truck are distractors."
+  },
+  "c20022513": {
+    "accept": false,
+    "reason": "wrong country: Uyghur-language dentist sign (Xinjiang, China side of the Karakoram Highway); also an advert"
+  },
+  "f2f3e49d5-664a-4815-83c4-cda1c9253b5a": {
+    "accept": false,
+    "reason": "shrine devotional board covered by tinsel streamers; saint's name largely hidden"
+  },
+  "f1489d832-4f80-44ef-9547-8638f565ba68": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "ائیرپورٹ",
+        "lang": "ur",
+        "latin": "Airport"
+      },
+      {
+        "text": "Airport",
+        "lang": "en"
+      },
+      {
+        "text": "زیروپوائنٹ",
+        "lang": "ur",
+        "latin": "Zero Point"
+      },
+      {
+        "text": "Zero Point",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Zero Point",
+      "type": "place"
+    },
+    "difficulty": "medium",
+    "notes": "Two right-pointing direction signs in Islamabad, close-up and tilted about 15 degrees; airplane pictogram on the blue panel. Urdu ٹ in both words; زیروپوائنٹ written without a space. The cut-off green 'Mot...' (Motorway) panel at the top and a decorated truck at bottom right are distractors."
+  },
+  "f0d7c77d4-7a0c-4b0a-a34e-23be74496545": {
+    "accept": false,
+    "reason": "night harbour view; only food-cart branding ('The Balcony'); photographer watermark"
+  },
+  "f14a89f30-9fae-47f3-9e9f-9b5e5689074f": {
+    "accept": false,
+    "reason": "street stalls with religious banners; no shop name sign"
+  },
+  "f201f0da5-be2b-4b7e-aa63-db471661def4": {
+    "accept": false,
+    "reason": "wrong country: Greek antique shop (Athens), sign in Greek/English"
+  },
+  "f4ac2b4e5-b409-4d1a-aa39-d813c84031c9": {
+    "accept": false,
+    "reason": "rolled fabrics, no sign; photographer watermark"
+  },
+  "f6ee6fdcf-6b2d-433e-93e8-9cf69c4dc1b6": {
+    "accept": false,
+    "reason": "scrap-market lane; signs too small to read"
+  },
+  "f8c9c5021-8c8f-4299-81df-0dc499906daa": {
+    "accept": false,
+    "reason": "fruit seller portrait; no sign"
+  },
+  "fad6751c0-9c06-4ad2-ac87-bdc446f66ab6": {
+    "accept": false,
+    "reason": "sweets display, no sign"
+  },
+  "fb5e073ff-5456-4b17-9121-8aacff8ccce6": {
+    "accept": false,
+    "reason": "street scene with election posters and wall writing; no target sign"
+  },
+  "fc4c65468-bdbc-49cc-a9ec-049631e2e717": {
+    "accept": false,
+    "reason": "Faisal Mosque at dusk, no sign"
+  },
+  "ffcb53b39-736e-433d-b85e-22b18fe03326": {
+    "accept": false,
+    "reason": "Minar-e-Pakistan in haze, no sign"
+  },
+  "fcb2e13a8-5eef-4fe4-97ad-aa32ac2a09fe": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "کوثر",
+        "lang": "ur",
+        "latin": "Kausar"
+      },
+      {
+        "text": "سائیکل سٹور",
+        "lang": "ur",
+        "latin": "Cycle Store"
+      },
+      {
+        "text": "امپورٹڈ سائیکل کی تمام ورائٹی ہول سیل",
+        "lang": "ur",
+        "latin": "Imported cycle ki tamam variety, wholesale (all varieties of imported bicycles, wholesale)"
+      }
+    ],
+    "expect": {
+      "query": "کوثر سائیکل سٹور",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "White shop board of Kausar Cycle Store at Chowk Neela Gumbad, Lahore, below the blue-tiled dome; power lines cross the board. Urdu ٹ in سٹور and ورائٹی, ڈ in امپورٹڈ. A fourth tiny line (about rates and discounts) is not transcribed. Distractors: PHOENIX / AHMAD TRADERS and STAR CYCLE WORKS boards (Latin, with Lahore addresses) below and beside it. Small 'INAM Photography' photographer mark at bottom right (not across the image)."
+  }
+}

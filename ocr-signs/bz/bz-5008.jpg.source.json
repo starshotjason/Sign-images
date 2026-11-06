@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/2891626/579/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMC84LzEwL3Byb2MvMjg5MTYyNl9kZDdjOF81ZjMwYTZiYWE0YjdmLmpwZw",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "charlie-plett",
+  "credit_as_published": "KartaView user charlie-plett (user id 24854); © KartaView contributors",
+  "title": "KartaView photo 1042791690, sequence 2891626 #579 (Belize City, 2020-03-18)",
+  "description": "Street-level picture on KartaView, taken 2020-03-18 near Belize City by charlie-plett, sequence 2891626, heading 125.35. OCR (PP-OCRv3) read: FOR SAL | SEA SURE | REAL ESTATE",
+  "date": "2020-03-18",
+  "categories": [],
+  "camera_location": [
+    17.499195,
+    -88.190826
+  ],
+  "found_by": "kartaview-ocr:Belize City",
+  "bytes": 315338,
+  "width": 1200,
+  "height": 900,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMC84LzEwL3Byb2MvMjg5MTYyNl9kZDdjOF81ZjMwYTZiYWE0YjdmLmpwZw",
+  "derivative": "crop 1881,404,3081,1304 of the 4000x2250 full-size processed (blurred) picture"
+}

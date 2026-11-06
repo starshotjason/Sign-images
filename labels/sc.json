@@ -1,0 +1,120 @@
+{
+ "k223403727": {
+  "accept": true,
+  "reason": "",
+  "kind": "hard",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "CAPITAL C",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Capital City",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Large metal letters curving around the rounded corner of the Capital City building on Independence Avenue, Victoria; the name continues out of view, so only 'CAPITAL C...' is visible and the last letters are steeply foreshortened. Dashcam view; parked 4x4 in front."
+ },
+ "k223403601": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn",
+   "Arab"
+  ],
+  "lines": [
+   {
+    "text": "24/7 ATM",
+    "lang": "en"
+   },
+   {
+    "text": "مصرف",
+    "lang": "ar",
+    "latin": "Masraf (Bank)"
+   },
+   {
+    "text": "AL SALAM BANK",
+    "lang": "en"
+   },
+   {
+    "text": "Seychelles",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Al Salam Bank",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Blue panel on the glass front of Al Salam Bank Seychelles, Victoria. Between 'مصرف' and 'AL SALAM BANK' is a droplet-shaped calligraphic logo of the bank name (السلام) that is too stylised to transcribe as text. The slogan 'Dynamic. Diversified. Differentiated.' is advertising copy; the truck of 'Paradise' juice boxes is a distractor."
+ },
+ "k223403581": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Y@WNET!",
+    "lang": "en"
+   },
+   {
+    "text": "Internet & Printing Cyber",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Yownet",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Brown balcony banners of an internet café, Victoria, shot upward through a windscreen with a yellow glare blob over the left banner. The 'O' of the name is an @ swirl. A white 'Welcome to Y@WNET! INTERNET CYBER / WE ARE OPEN NOW' banner at the right has small unreadable lines."
+ },
+ "c39521668": {
+  "accept": false,
+  "reason": "crocodile sculpture and opening-hours notice; no museum name visible"
+ },
+ "c132423731": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Morne Blanc",
+    "lang": "en"
+   },
+   {
+    "text": "Nature trail Trail",
+    "lang": "en"
+   },
+   {
+    "text": "Seychelles National Parks Authority",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Morne Blanc",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Trail direction sign with hiker silhouette and green arrow, Morne Seychellois National Park, Mahé. The sign really says 'Nature trail Trail' (doubled word). Footer has helpline/emergency numbers too small to read."
+ },
+ "c71901810": {
+  "accept": false,
+  "reason": "wrong country: plant label at Iao Tropical Gardens, Maui, Hawaii"
+ },
+ "c113012471": {
+  "accept": false,
+  "reason": "news photo of an agreement-signing ceremony, no sign"
+ }
+}

@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=61941c9c-d6cf-4522-b9fc-7f21f0d45b86",
+  "original_url": "https://panoramax.openstreetmap.fr/images/61/94/1c/9c/d6cf-4522-b9fc-7f21f0d45b86.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "vasony",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture 61941c9c-d6cf-4522-b9fc-7f21f0d45b86 (Budapest, 2021-02-05)",
+  "description": "Street-level picture on Panoramax, taken 2021-02-05 near Budapest by vasony, sequence 17e634aa-4400-4d62-85af-9cb0294c9bec, heading 90. OCR (PP-OCRv3) read: I.ker.Gellerthegy | Antal lepcso",
+  "date": "2021-02-05",
+  "categories": [],
+  "camera_location": [
+    47.488333333,
+    19.041666667
+  ],
+  "found_by": "panoramax-ocr:Budapest",
+  "bytes": 4611682,
+  "width": 4624,
+  "height": 2604,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/61/94/1c/9c/d6cf-4522-b9fc-7f21f0d45b86.jpg",
+  "derivative": "whole 4624x2604 HD picture as served by the Panoramax instance (byte-identical; the service blurs faces and number plates), not cropped"
+}

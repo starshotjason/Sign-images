@@ -1,0 +1,374 @@
+{
+ "p225e88f904": {
+  "accept": true,
+  "reason": "",
+  "kind": "hard",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Centro Comercial",
+    "lang": "es"
+   },
+   {
+    "text": "CALLE REAL",
+    "lang": "es"
+   },
+   {
+    "text": "DE LA CANDELARIA",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Calle Real de la Candelaria",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Shopping centre facade, Bogotá, with motion blur and a tree trunk in front. 'Centro Comercial' is in raised serif letters over the arch; the name logo on both sides of it uses decorative ligatures and oversized initials (big C and R, small-cap remainder, 'DE' and 'CANDELARIA' with joined letters), transcribed here as plain capitals. The small address plate over the gate (apparently 'CLL 12 6-45') is too blurred to transcribe. The 'Imple Joyeros' sign at right is a distractor."
+ },
+ "p39b1437984": {
+  "accept": false,
+  "reason": "busy pedestrian-street scene; the only signs are a small KFC logo at the edge and food-cart advertising, with no single target"
+ },
+ "p63bff90a90": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "CLINICA",
+    "lang": "es"
+   },
+   {
+    "text": "ODONTOLOGICA",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Clinica Odontologica",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Blue-and-white panel over a stairway entrance at dusk, Bogotá, with some motion blur. No accents on the sign. The leading 'O' of 'ODONTOLOGICA' is half cut off by the left edge of the panel. The partial 'ZA...' store sign at right and the '36' logo above are distractors."
+ },
+ "pd0c7166c5d": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "D'CARLOS",
+    "lang": "es"
+   },
+   {
+    "text": "JOYERIA Y RELOJERIA",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "D'Carlos",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Black fascia of a jewellery shop on Calle 12, Bogotá; slight motion blur. The apostrophe is a slanted tick (transcribed as ASCII). The tiny address under the name is unreadable. Distractors: 'J&A JOYERIA / Diamantes Y Esmeraldas' at left, 'COMPRO ORO / CALLE 12 Nº 6 65' at right, graffiti on the shutter."
+ },
+ "ped7fce1f49": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "NALIA",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Nalia",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Gold letters 'NALIA' with a lotus logo on a white fascia, right half of the frame, Bogotá. A blurred motorcyclist and pillion fill the left half. A smaller 'NALIA / JOYE...' panel and a 'SERVICIO TÉ... DE RELOJ...' panel (both cut at the edge), the '...oisson' sign at left and 'LIBRE' graffiti are distractors."
+ },
+ "pf986069b59": {
+  "accept": false,
+  "reason": "street-vendor cart menu (obleas, toppings) and pedestrians; no sign naming a place"
+ },
+ "p5b93c415d4": {
+  "accept": false,
+  "reason": "street food-stall price boards (menus/adverts) and pedestrians; no place sign"
+ },
+ "c93980265": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "BIENVENIDOS A",
+    "lang": "es"
+   },
+   {
+    "text": "UBATÉ",
+    "lang": "es"
+   },
+   {
+    "text": "Capital Lechera de Colombia",
+    "lang": "es"
+   },
+   {
+    "text": "Población: 38.000 habitantes",
+    "lang": "es"
+   },
+   {
+    "text": "Temperatura: 19 °C / Altitud: 2.556 msnm",
+    "lang": "es"
+   },
+   {
+    "text": "INFORMES",
+    "lang": "es"
+   },
+   {
+    "text": "321 2052608",
+    "lang": "und"
+   },
+   {
+    "text": "CUUB 02",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "Ubaté",
+   "type": "place"
+  },
+  "difficulty": "easy",
+  "notes": "Blue town welcome billboard at the entrance to Ubaté (Cundinamarca). Distractors: Cerveza Andina beer bottle ad on the left, water ad on the right, hand-painted 'VIVERO' banner and a yield sign below, partly hidden 'Alcaldía Munic...' sign behind."
+ },
+ "c99399934": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Calle 52",
+    "lang": "es"
+   },
+   {
+    "text": "Calle 52",
+    "lang": "es"
+   },
+   {
+    "text": "Carrera 52",
+    "lang": "es"
+   },
+   {
+    "text": "Carrera 52",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Calle 52",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Four green street-name blades on one pole at Calle 52 / Carrera 52 in central Medellín (two are angled). Rooftop letters 'NUTIBARA' of the Hotel Nutibara behind are a distractor."
+ },
+ "c93303045": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "CALLE",
+    "lang": "es"
+   },
+   {
+    "text": "DEL",
+    "lang": "es"
+   },
+   {
+    "text": "COLISEO",
+    "lang": "es"
+   },
+   {
+    "text": "LA MENORA",
+    "lang": "es"
+   },
+   {
+    "text": "TALAVERA-ESPAÑA",
+    "lang": "es"
+   },
+   {
+    "text": "OFRECIDO POR EL INSTITVTO",
+    "lang": "es"
+   },
+   {
+    "text": "DE CVLTVRA HISPANICA",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Calle del Coliseo",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Blue-and-white Talavera tile street plaque in La Candelaria, Bogotá. Small maker/donor text uses V for U ('INSTITVTO', 'CVLTVRA')."
+ },
+ "c93303130": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "CALLE DE",
+    "lang": "es"
+   },
+   {
+    "text": "LA AGONÍA",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Calle de la Agonía",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Broken-tile mosaic street plaque on a brick wall in La Candelaria, Bogotá; letters are made of black-and-white tesserae."
+ },
+ "c13258882": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Hard Rock",
+    "lang": "en"
+   },
+   {
+    "text": "CAFE",
+    "lang": "en"
+   },
+   {
+    "text": "BOGOTA",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Hard Rock Cafe",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Neon guitar-shaped Hard Rock Cafe sign at night at the Atlantis Plaza mall entrance, Bogotá; the left edge of the logo is cropped. Mall lettering above is cut off ('...ntis Plaza')."
+ },
+ "c47289155": {
+  "accept": false,
+  "reason": "Braille-only plate on a MIO bus-stop pole; no printed text"
+ },
+ "c102313210": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "STARBUCKS COFFEE",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Starbucks",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Illuminated green fascia with siren logo at night, Zona T, Bogotá; seen at an angle. Reflections of 'Cartier' signs in the glass and 'STARBUCKS' on the terrace screens are distractors."
+ },
+ "c149105752": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Tienda de ropa usada",
+    "lang": "es"
+   },
+   {
+    "text": "EL BAULITO",
+    "lang": "es"
+   },
+   {
+    "text": "DE MR. BEEN",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "El Baulito de Mr. Been",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Second-hand clothes shop banner on Avenida Caracas, Bogotá (the O of BAULITO is drawn as a padlock). Small green address plate under it reads 'AV. CARACAS / 65A-66 / LOCAL 1y2' (the last token is tiny). Distractors: 'SOLO POR HOY EN ROPA DE MUJER' poster, neighbouring 'JyJ / CENTELSA' sign with 'v. caracas # 65A - 70', and a 'COMPRAMOS...' banner at right."
+ },
+ "c149105754": {
+  "accept": false,
+  "reason": "near-duplicate of c149105752 (same El Baulito de Mr. Been shop, side wall)"
+ },
+ "c39027238": {
+  "accept": false,
+  "reason": "one-way arrow and a police neighbourhood-security plaque ('CORREDOR DE SEGURIDAD No. 1 / CUADRANTE No. 16'); not a mappable place name"
+ },
+ "c63453181": {
+  "accept": true,
+  "reason": "",
+  "kind": "building tag",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "CLAUSTRO",
+    "lang": "es"
+   },
+   {
+    "text": "DE SANTA",
+    "lang": "es"
+   },
+   {
+    "text": "TERESA",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Claustro de Santa Teresa",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Glazed-tile name plaque with a coat of arms on an orange wall in the walled city of Cartagena."
+ }
+}

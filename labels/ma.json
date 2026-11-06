@@ -1,0 +1,471 @@
+{
+  "pb21d29a74c": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "الغابة الحضرية ابن سينا",
+        "lang": "ar",
+        "latin": "al-Ghaba al-Hadariya Ibn Sina (Ibn Sina Urban Forest)"
+      },
+      {
+        "text": "FORÊT URBAINE IBN SINA",
+        "lang": "fr"
+      }
+    ],
+    "expect": {
+      "query": "Ibn Sina",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Cut-out letters on a rust-brown plate on the wooden entrance gate of the park (Rabat); dappled shade across the letters. Green map/info panels and the no-cycling sign are distractors."
+  },
+  "f05a0dc38-5e68-4765-ba15-1bbb21209332": {
+    "accept": false,
+    "reason": "wrong country: Spice Road Table restaurant, Morocco Pavilion at Epcot, Walt Disney World, Florida, USA"
+  },
+  "f32ce8f54-78c6-4299-aa15-fe4d9701ad69": {
+    "accept": false,
+    "reason": "advertising copy only ('Le meilleur traditionnel et moderne des vêtements marocains / The best traditionnel and modern Moroccan clothes' with an arrow); no shop or place name"
+  },
+  "f70578ab7-3133-4ae9-86a1-4c226a809c5c": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Arab"
+    ],
+    "lines": [
+      {
+        "text": "القسارية",
+        "lang": "ar",
+        "latin": "al-Qissariya (covered market)"
+      },
+      {
+        "text": "الجديدة",
+        "lang": "ar",
+        "latin": "al-Jadida (the new)"
+      }
+    ],
+    "expect": {
+      "query": "القسارية الجديدة",
+      "type": "place"
+    },
+    "difficulty": "medium",
+    "notes": "Small blue medina name plate with raised letters on an ochre wall (Marrakech): 'the New Qissariya' (a covered market area). Spelled القسارية as on the plate (no ي after ق; not the standard spelling القيسارية). Arabic only, no French line. Paint worn and rust-streaked; source image is 1024 px."
+  },
+  "f73613e0d-a4a6-4d96-a877-bf1ba1f5d4ea": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn",
+      "Arab"
+    ],
+    "lines": [
+      {
+        "text": "McDonald's",
+        "lang": "en"
+      },
+      {
+        "text": "ماكدونالدز",
+        "lang": "ar",
+        "latin": "Makdunaldz (McDonald's)"
+      }
+    ],
+    "expect": {
+      "query": "McDonald's",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Restaurant facade in Marrakech: white 'McDonald's' letters with golden-arches M at upper left, golden arches in the centre, large Arabic 'ماكدونالدز' at upper right. A smaller Arabic repeat sits under the terrace railing. Distractor: blue Happy Meal promotional banner (French). People at the terrace and passers-by in the foreground are incidental."
+  },
+  "f885bf476-cc2a-4e3e-810a-940bdc96570a": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "صانع الأسنان",
+        "lang": "ar",
+        "latin": "Sani' al-Asnan (dental technician)"
+      },
+      {
+        "text": "Dentiste",
+        "lang": "fr"
+      }
+    ],
+    "expect": {
+      "query": "Dentiste",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Rusty hanging board with painted smiling lips, in a narrow medina lane (Essaouira). Not transcribed: the small bottom line with a phone number (GSM 06 10 74 ...) and the proprietor's name in Arabic, which are too small and rusty to read reliably. The sign gives a trade, not a proper name."
+  },
+  "f8c55d3bd-b2bd-4692-8cac-151fd633d75d": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "CLUB AL MADINA",
+        "lang": "fr"
+      }
+    ],
+    "expect": {
+      "query": "Club Al Madina",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Hand-painted gym boards on a whitewashed wall (Tangier medina). Target is the name across the top of the right-hand board. The painted bodybuilders are illustrations, not real people; the supplement-tub labels (PROTEN, MASS+ 2000, weider 2000, MAS, PLUS, COMPLE...) are distractors."
+  },
+  "f9091faf2-d014-43a4-b4c0-5173ae49a77a": {
+    "accept": false,
+    "reason": "main legible sign is a Lavazza 'Espresso Point' brand panel; the café's own name (Royal / رويال, Pizzeria) is small, angled and cut off at the left edge, and the first Arabic word of the fascia is hidden behind the Lavazza panel"
+  },
+  "f920ba0e1-7ad3-40f9-911a-fcb52ecde62b": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "كهرباء السيارات",
+        "lang": "ar",
+        "latin": "Kahraba' as-Sayyarat (car electrics)"
+      },
+      {
+        "text": "ELECTRICITEAUTO",
+        "lang": "fr"
+      },
+      {
+        "text": "ام الربيع",
+        "lang": "ar",
+        "latin": "Umm ar-Rabi' (Oum Er-Rbia)"
+      },
+      {
+        "text": "ام الربيع",
+        "lang": "ar",
+        "latin": "Umm ar-Rabi' (Oum Er-Rbia)"
+      },
+      {
+        "text": "A20",
+        "lang": "und"
+      }
+    ],
+    "expect": {
+      "query": "ام الربيع",
+      "type": "street"
+    },
+    "difficulty": "medium",
+    "notes": "Hand-painted yellow roadside board for an auto-electrician (Ouarzazate), with drawings of starter motors and arrows. 'ELECTRICITEAUTO' is painted without a space, as written. The two small handwritten 'ام الربيع' labels and 'A20' are the location the arrows point to (presumably a street or quarter named Oum Er-Rbia, unit A20); the business itself has no proper name. Sign is slightly angled."
+  },
+  "f97833d93-b509-4dda-9244-eef45643122f": {
+    "accept": false,
+    "reason": "no sign: upward view of medina balconies (Tangier)"
+  },
+  "f978720b1-8538-4752-8584-36453a3cd8ec": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "تيزى نتيشكة",
+        "lang": "ar",
+        "latin": "Tizi n'Tishka (Tichka pass)"
+      },
+      {
+        "text": "COL DU TICHKA",
+        "lang": "fr"
+      },
+      {
+        "text": "ALT 2260",
+        "lang": "fr"
+      }
+    ],
+    "expect": {
+      "query": "Tichka",
+      "type": "place"
+    },
+    "difficulty": "medium",
+    "notes": "Two white enamel plates on a crenellated gate monument at the Tizi n'Tichka pass (High Atlas). The plates are small in the 1024 px source: the Arabic line's letter shapes are clear but individual dots are soft; the final letter of the first word looks dotless (ى), checker please confirm. Distractors: red 'CAFE RESTAURANT TICHKA' board at left, 'N° 9' on the building behind."
+  },
+  "f9f735569-86ec-4090-ae56-e3759088162f": {
+    "accept": false,
+    "reason": "wrong country: 1910 Lewis Hine photo of a vaudeville theatre in Delaware, USA (Library of Congress); also a child is the subject"
+  },
+  "fa784992a-217a-4866-ba85-c0cb3d5a7976": {
+    "accept": false,
+    "reason": "traffic stop sign ('قف'), no place name"
+  },
+  "fab168936-bb2b-4c65-8613-742898d5d6cf": {
+    "accept": false,
+    "reason": "warning sign only ('خطر! / DANGER! Pour votre sécurité, espace interdit aux non skieurs'); no place name"
+  },
+  "fc268b63d-9acd-49bf-8b99-33066babf647": {
+    "accept": false,
+    "reason": "no target sign: leather jackets and trousers hanging outside a shop; only a small cheese advert is visible"
+  },
+  "fd5938219-f7f7-4806-aa3b-a1ca8693bfc2": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "مراكش",
+        "lang": "ar",
+        "latin": "Marrakush (Marrakech)"
+      },
+      {
+        "text": "MARRAKECH 111",
+        "lang": "fr"
+      }
+    ],
+    "expect": {
+      "query": "Marrakech",
+      "type": "place"
+    },
+    "difficulty": "hard",
+    "notes": "Roadside distance sign, two white panels. The Arabic panel is heavily sprayed with black and red graffiti: 'مراكش' is legible but the distance after it is partly overpainted ('11' visible, third digit hidden), so only the name is transcribed. Red graffiti 'S.K' under the Latin line is a distractor."
+  },
+  "fe23c2127-eabe-4e61-a1d1-7663e3833472": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "مكناس",
+        "lang": "ar",
+        "latin": "Miknas (Meknes)"
+      },
+      {
+        "text": "MEKNES",
+        "lang": "fr"
+      },
+      {
+        "text": "ساحة مولاي الحسن",
+        "lang": "ar",
+        "latin": "Sahat Mulay al-Hasan (Moulay El Hassan Square)"
+      },
+      {
+        "text": "PLACE MOULAY EL HASSAN",
+        "lang": "fr"
+      }
+    ],
+    "expect": {
+      "query": "Place Moulay El Hassan",
+      "type": "place"
+    },
+    "difficulty": "easy",
+    "notes": "Two left-arrow direction signs on one pole: a white one to Meknes and a dark-brown one to Place Moulay El Hassan. Flickr title says 'Meknes sign', but a sign pointing to Meknes suggests it stands in another city (Place Moulay Hassan suggests Fes); location unverified. Traffic light and green sign behind are distractors."
+  },
+  "c114324174": {
+    "accept": false,
+    "reason": "protest banner (February 20 Movement, Casablanca), not a place sign"
+  },
+  "f37239a38-5715-42f5-be40-e3785e238c3a": {
+    "accept": false,
+    "reason": "wrong country: naturalization ceremony at Grand Canyon, USA; no sign"
+  },
+  "f948a4f2d-18ff-4142-99e0-df56fd89c1b8": {
+    "accept": false,
+    "reason": "wrong country: naturalization ceremony at Grand Canyon, USA; people are the subject, no sign"
+  },
+  "faa232d28-4391-47ef-a5e5-cf3bf9b4384f": {
+    "accept": false,
+    "reason": "architectural detail of Bou Inania madrasa; only decorative calligraphy, no name sign"
+  },
+  "k236517647": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "Galerie",
+        "lang": "fr"
+      },
+      {
+        "text": "NAPOLEON",
+        "lang": "fr"
+      }
+    ],
+    "expect": {
+      "query": "Galerie Napoleon",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "KartaView dashcam street view, Casablanca (faces/plates blurred by the service). Target is the dark 'Galerie NAPOLEON' fascia on the left, in shade. Distractors: vertical 'MOBILIER' and 'LABORATOIRE' blade signs, 'DG Design' and 'Galerie BONAPARTE' fascias next door, an Arabic newspaper banner above, 'Jeep' badge on the parked car."
+  },
+  "k236826521": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "Restaurant",
+        "lang": "fr"
+      },
+      {
+        "text": "EL BARCO",
+        "lang": "es"
+      }
+    ],
+    "expect": {
+      "query": "El Barco",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "KartaView dashcam street view, Casablanca; restaurant fascia at upper right, angled, 'Restaurant' in small script on the gable above. Distractors: 'JAAF ART' shop sign and small Maroc Telecom blade sign."
+  },
+  "k236826581": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "VEA VENETO",
+        "lang": "it"
+      },
+      {
+        "text": "Café Vea Veneto",
+        "lang": "fr"
+      },
+      {
+        "text": "Café Vea Veneto",
+        "lang": "fr"
+      }
+    ],
+    "expect": {
+      "query": "Vea Veneto",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "KartaView street view, Casablanca. Red letters on the fascia plus the name repeated in script on two awnings; spelled 'VEA' (not 'Via') on the sign. Distractors: '... Boutique / Pour Femmes' sign at left, house number 95, stop and no-entry signs."
+  },
+  "k229704477": {
+    "accept": false,
+    "reason": "main sign is a BMW X2 billboard (pure advert); hotel names (La Menara, Hotel Imilchil) and the Petrom price board are tiny"
+  },
+  "k260180739": {
+    "accept": true,
+    "reason": "",
+    "kind": "hard",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "التلغراف البريد",
+        "lang": "ar",
+        "latin": "at-Tilighraf al-Barid (Telegraph, Post)"
+      },
+      {
+        "text": "POSTE",
+        "lang": "fr"
+      },
+      {
+        "text": "TELEPHONE",
+        "lang": "fr"
+      }
+    ],
+    "expect": {
+      "query": "Poste",
+      "type": "poi"
+    },
+    "difficulty": "hard",
+    "notes": "Facade lettering of the central post office, Rabat (KartaView). A green lamp post in front hides part of the lettering: the Latin line reads 'TELEGRA[..]E' (the 'PH' is hidden) and the third Arabic word is visible only as 'ال' ... 'فون' (التلفون). Only the fully visible parts are transcribed. Clock face below is a distractor."
+  },
+  "k229704437": {
+    "accept": false,
+    "reason": "main sign is a billboard advert (Electroplanet / Jeep Compass); horse carriage in front"
+  },
+  "k260179421": {
+    "accept": false,
+    "reason": "billboard advert ('Relookez-vous', car) and a city-wall tower; no place sign"
+  },
+  "k234793069": {
+    "accept": false,
+    "reason": "wide view of a Marrakech shopping parade with a dozen small competing shop signs (SAT, MATU, COIFFURE ABDELLAH, CABINET DENTAIRE ...) and a branded truck; no single main sign"
+  },
+  "k236499173": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "BMCI",
+        "lang": "fr"
+      }
+    ],
+    "expect": {
+      "query": "BMCI",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Bank branch, Casablanca (KartaView). Target is the green BMCI blade sign with the stars-and-birds logo; the fascia repeats 'BMCI' at an angle with an Arabic line that is too faded to read. Distractors: no-parking signs, a 'Réservé aux convoyeurs de fonds' plate, parking signs, a cut-off '...oons / ...NDIAL' sign at left."
+  },
+  "c185237431": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "Wafacash",
+        "lang": "fr"
+      },
+      {
+        "text": "Change",
+        "lang": "fr"
+      }
+    ],
+    "expect": {
+      "query": "Wafacash",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Money-transfer / exchange office, Casablanca; yellow fascia and logo cube with a 'Change' panel below (the mirrored 'Change' seen through the cube is a reflection, not a line). An Arabic word on the fascia is cut off at the right edge; partial Arabic shop signs at left and a red banner at bottom right are distractors; '50' painted on the wall."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=aa7f8741-de5e-4311-be96-2b8e19658a15",
+  "original_url": "https://panoramax.openstreetmap.fr/images/aa/7f/87/41/de5e-4311-be96-2b8e19658a15.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "MatthiasMatthias",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture aa7f8741-de5e-4311-be96-2b8e19658a15 (San Jose CR, 2026-04-02)",
+  "description": "Street-level picture on Panoramax, taken 2026-04-02 near San Jose CR by MatthiasMatthias, sequence b9114a80-c64b-4b9a-bdfe-3c6c3fbc4b1c, heading 82. OCR (PP-OCRv3) read: MERCADO CENTRAL | ONA",
+  "date": "2026-04-02",
+  "categories": [],
+  "camera_location": [
+    9.9343722,
+    -84.0825162
+  ],
+  "found_by": "panoramax-ocr:San Jose CR",
+  "bytes": 519362,
+  "width": 2191,
+  "height": 1643,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/aa/7f/87/41/de5e-4311-be96-2b8e19658a15.jpg",
+  "derivative": "crop 62,0,2253,1643 of the 4080x2295 HD picture"
+}

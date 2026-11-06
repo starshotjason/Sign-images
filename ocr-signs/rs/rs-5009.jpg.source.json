@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/583753/694/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlNS5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE3LzkvOS9wcm9jLzU4Mzc1M182NTMxYV81NS5qcGc",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "smajser",
+  "credit_as_published": "KartaView user smajser (user id 10901); © KartaView contributors",
+  "title": "KartaView photo 118834231, sequence 583753 #694 (Belgrade, 2017-09-09)",
+  "description": "Street-level picture on KartaView, taken 2017-09-09 near Belgrade by smajser, sequence 583753, heading 0. OCR (PP-OCRv3) read: XOTEA | MOCKBA",
+  "date": "2017-09-09",
+  "categories": [],
+  "camera_location": [
+    44.81364,
+    20.46071
+  ],
+  "found_by": "kartaview-ocr:Belgrade",
+  "bytes": 104655,
+  "width": 1200,
+  "height": 900,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlNS5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE3LzkvOS9wcm9jLzU4Mzc1M182NTMxYV81NS5qcGc",
+  "derivative": "crop 1680,0,2880,900 of the 2880x1728 full-size processed (blurred) picture"
+}

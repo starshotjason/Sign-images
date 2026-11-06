@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/1318991/252/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlOC5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE4LzEyLzI1L3Byb2MvMTMxODk5MV9lYjgxYl8yNTIuanBn",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "mds08011",
+  "credit_as_published": "KartaView user mds08011 (user id 14273); © KartaView contributors",
+  "title": "KartaView photo 341370963, sequence 1318991 #252 (Monaco, 2018-12-25)",
+  "description": "Street-level picture on KartaView, taken 2018-12-25 near Monaco by mds08011, sequence 1318991, heading 28. OCR (PP-OCRv3) read: RMACIE | lesmoins Chers. | layant | St Charles | Hotel de Ville | Office de Tourisme | Marche Gustave Eiffel | Commissariatde Polica | PLiberation | PBellfEpoque",
+  "date": "2018-12-25",
+  "categories": [],
+  "camera_location": [
+    43.742087,
+    7.425923
+  ],
+  "found_by": "kartaview-ocr:Monaco",
+  "bytes": 814162,
+  "width": 3072,
+  "height": 1728,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlOC5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE4LzEyLzI1L3Byb2MvMTMxODk5MV9lYjgxYl8yNTIuanBn",
+  "derivative": "whole 3072x1728 full-size processed (blurred) picture as served by the KartaView CDN (byte-identical; the service blurs faces and number plates), not cropped"
+}

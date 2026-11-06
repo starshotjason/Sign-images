@@ -1,0 +1,31 @@
+{
+  "source": "tcmb",
+  "source_url": "https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=292686",
+  "original_url": "https://dcm.s3.hicloud.net.tw/new/g_upload/collection/2019-11-25/d13f47e2-bd50-4185-88a3-0547fee5e15c/f27c7688-b7d4-4304-ae5f-1ffd6dd4cc24.jpg",
+  "license_as_published": "CC BY-SA",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/3.0/tw/",
+  "author_as_published": "姜玫如/透南風文化創意有限公司",
+  "credit_as_published": "姜玫如/透南風文化創意有限公司（臺南市政府文化局）, 國家文化記憶庫 Taiwan Cultural Memory Bank, CC BY-SA",
+  "title": "六甲區林鳳社區4-1 從林鳳將軍到林鳳營火車站/社區文史脈絡",
+  "description": "林鳳社區發展協會，是涵括六甲區龜港、中社、菁埔三里所共同組成的社區組織，之所以取「林鳳」為社區之名，是源於該地為鄭成功部將左虎衛左協將林鳳將軍所屯墾，根據林鳳社區於2018年臺南市社區營造計畫之社區踏查及考據結果，林鳳將軍率其士兵，至中社、龜仔港、大菁埔一帶，篳路藍縷七年共開墾十營二十八甲建立聚落，後人便以林鳳將軍的名字作為地名，稱「林鳳營庄」。 隨著各朝代行政區域及名稱之更迭，「林鳳營」不見於現今之行政區域之中，但獲保留於臺鐵「林鳳營車站」之名稱上，據說林鳳營車站所在地便是林鳳將軍屯墾區域的中心。另外有趣的是，林鳳營也因「林鳳營鮮奶」而在現今廣為人知，林鳳營牧場就位在林鳳社區。",
+  "date": "2019/11/25",
+  "categories": [
+    "空間、地域與遷徙",
+    "中社里",
+    "六甲區",
+    "林鳳社區",
+    "林鳳將軍",
+    "林鳳營火車站",
+    "林鳳營故事館",
+    "菁埔里",
+    "鄭成功屯墾",
+    "龜港里"
+  ],
+  "camera_location": null,
+  "found_by": "tcmb-opendata:dataSet/culture title/keyword match '車站'; rapidocr pre-screen read ['林鳳管车站', 'Linfengying Station']; visually reviewed",
+  "bytes": 2730235,
+  "width": 5472,
+  "height": 3648,
+  "downloaded_url": "https://tcmb.culture.tw/imagor/filters:raw()/https%3A%2F%2Fdcm.s3.hicloud.net.tw%2Fnew%2Fg_upload%2Fcollection%2F2019-11-25%2Fd13f47e2-bd50-4185-88a3-0547fee5e15c%2Ff27c7688-b7d4-4304-ae5f-1ffd6dd4cc24.jpg",
+  "derivative": ""
+}

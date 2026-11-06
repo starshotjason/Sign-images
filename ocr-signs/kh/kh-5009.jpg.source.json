@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=f88366d9-bb95-4537-b96d-cbfbb20d016a",
+  "original_url": "https://panoramax.openstreetmap.fr/images/f8/83/66/d9/bb95-4537-b96d-cbfbb20d016a.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "GeoMechain",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture f88366d9-bb95-4537-b96d-cbfbb20d016a (Phnom Penh, 2025-11-04)",
+  "description": "Street-level picture taken 2025-11-04 near Phnom Penh by GeoMechain, sequence 2c400737-b22d-4e77-913c-d0d56323f39c, heading 310. OCR (PP-OCRv3) read: SATHAPANA | FORSALEI出",
+  "date": "2025-11-04",
+  "categories": [],
+  "camera_location": [
+    11.565698847,
+    104.927481756
+  ],
+  "found_by": "panoramax-ocr:Phnom Penh",
+  "bytes": 725044,
+  "width": 1984,
+  "height": 1488,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/f8/83/66/d9/bb95-4537-b96d-cbfbb20d016a.jpg",
+  "derivative": "crop 0,62,1984,1550 of the 4080x3060 HD picture"
+}

@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=b5d95ccc-66f9-44ab-8c22-784935dce9d1",
+  "original_url": "https://panoramax.openstreetmap.fr/images/b5/d9/5c/cc/66f9-44ab-8c22-784935dce9d1.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "Julia Keil-Voss",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture b5d95ccc-66f9-44ab-8c22-784935dce9d1 (Sofia, 2026-08-15)",
+  "description": "Street-level picture taken 2026-08-15 near Sofia by Julia Keil-Voss, sequence 9a27b382-eec2-4e9b-b3bd-657238098b46, heading 12. OCR (PP-OCRv3) read: Monument of Culture | naMemHuk Ha kyAmypama | Hagia Nedelja Church | UbpkBa CBema Hegena | It is supposed that the church was bult in the 1oth century and, | Just llke other Sofia churches at that time, It had a stonebaseand | [unread] mosswucooucuxpaMoeSunkaMeHHuDoBuazo | a wooden structureabove.In the second halfof the 14th century.these | wooden churches were made of stone.It is unknown why it was anly Hagla | [unread] XpaMoBeSusu uaapakgaHu omkamoikHeusecmiHOsauocaMo | .Ce HegewocmakaagopBehauBmou cu BugxpaMom | form until the middle of the t9th century.",
+  "date": "2026-08-15",
+  "categories": [],
+  "camera_location": [
+    42.6965057,
+    23.3213516
+  ],
+  "found_by": "panoramax-ocr:Sofia",
+  "bytes": 2851141,
+  "width": 1440,
+  "height": 1080,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/b5/d9/5c/cc/66f9-44ab-8c22-784935dce9d1.jpg",
+  "derivative": "whole 1440x1080 HD picture as served by the Panoramax instance (byte-identical; the instance blurs faces and number plates), not cropped"
+}

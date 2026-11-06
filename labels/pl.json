@@ -1,0 +1,417 @@
+{
+ "k154861627": {
+  "accept": false,
+  "reason": "night shot dominated by billboards (Domino's Pizza -50% advert); no legible place sign"
+ },
+ "k154870923": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Solec",
+    "lang": "pl"
+   },
+   {
+    "text": "Powiśle",
+    "lang": "pl"
+   },
+   {
+    "text": "Plac Konstytucji",
+    "lang": "pl"
+   },
+   {
+    "text": "Muzeum",
+    "lang": "pl"
+   },
+   {
+    "text": "Narodowe",
+    "lang": "pl"
+   },
+   {
+    "text": "P Parking",
+    "lang": "pl"
+   }
+  ],
+  "expect": {
+   "query": "Plac Konstytucji",
+   "type": "place"
+  },
+  "difficulty": "medium",
+  "notes": "Warsaw MSI direction sign on a lamppost (red panel for districts Solec / Powiśle, blue panels for Plac Konstytucji, Muzeum Narodowe, Parking with arrows), shot through a windscreen on a grey day; slightly soft. TAXI sign below and billboards (agata, JESSIE WARE) are distractors."
+ },
+ "k366917071": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "MIĘDZY BUŁKAMI",
+    "lang": "pl"
+   },
+   {
+    "text": "HOMEMADE TASTE",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Między Bułkami",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Burger restaurant fascia (white letters on black) at the right edge of a busy Warsaw street view, with a second smaller copy of the sign in the window below. Distractors: APTEKA green sign, '1 minute' sign, LUNCH sign, concert billboard (PGE Narodowy, 26 czerwca 2019), parking 'Koniec' plate."
+ },
+ "k404680966": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "NOVOTEL",
+    "lang": "fr"
+   },
+   {
+    "text": "ACCOR hotels",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Novotel",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Rooftop sign of the Novotel Warszawa Centrum tower against blue sky; NOVOTEL repeated vertically down the corner. Distractors: 'WYOBRAŹ SOBIE' / 'widoktowers.com' construction banners, 'KTO MOŻE ZMIENIĆ ŚWIAT NA BARDZIEJ OTWARTY?' and BNP banner at right, SERCA billboard."
+ },
+ "p38f42a1f43": {
+  "accept": false,
+  "reason": "interior back-bar with a vodka-brand (Finlandia) panel; not a place sign"
+ },
+ "p5ee564cd24": {
+  "accept": false,
+  "reason": "biographical plaque about a person (Stanisława Paleolog), not a place name; contains a portrait photo"
+ },
+ "p6fac484b56": {
+  "accept": false,
+  "reason": "construction-company banner on site fencing (balzola)"
+ },
+ "p744b1a72a6": {
+  "accept": false,
+  "reason": "bar interior with cocktail menu board and neon brand logos (Blue Moon, Ploom)"
+ },
+ "pb90bae2f20": {
+  "accept": false,
+  "reason": "dedication on a monument plinth ('W HOŁDZIE POLSKIM ARTYSTOM BALETU'), not a place name"
+ },
+ "pddbd9331d9": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Ujazdów",
+    "lang": "pl"
+   },
+   {
+    "text": "Sielce",
+    "lang": "pl"
+   },
+   {
+    "text": "Siekierki",
+    "lang": "pl"
+   },
+   {
+    "text": "MPWiK",
+    "lang": "pl"
+   },
+   {
+    "text": "Łazienki",
+    "lang": "pl"
+   },
+   {
+    "text": "Królewskie",
+    "lang": "pl"
+   }
+  ],
+  "expect": {
+   "query": "Łazienki Królewskie",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Warsaw MSI direction sign at the right edge, seen from a car and slightly from below (red panels for districts with arrows, blue panels for MPWiK and Łazienki Królewskie); the right edge of the sign is cut. Same sign family as k154870923 but a different location."
+ },
+ "c125861994": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn",
+   "Zyyy"
+  ],
+  "lines": [
+   {
+    "text": "ulica",
+    "lang": "pl"
+   },
+   {
+    "text": "1–5 →",
+    "lang": "und"
+   },
+   {
+    "text": "Powstańców",
+    "lang": "pl"
+   },
+   {
+    "text": "Katowice",
+    "lang": "pl"
+   },
+   {
+    "text": "Śródmieście",
+    "lang": "pl"
+   }
+  ],
+  "expect": {
+   "query": "Powstańców",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Katowice black-and-yellow street-name sign on a post (house numbers 1–5 with arrow, city and district on the yellow strip). Second sign above, at an angle: 'ulica Tadeusza / Kościuszki / Katowice / Śródmieście' (with '← 46–40') is a valid secondary street. Street-scene road signs are distractors."
+ },
+ "c125861995": {
+  "accept": false,
+  "reason": "near-duplicate of accepted c125861994 (same Powstańców sign post, opposite face)"
+ },
+ "c200926212": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Pawła Śmiłowskiego",
+    "lang": "pl"
+   }
+  ],
+  "expect": {
+   "query": "Śmiłowskiego",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Blue enamel street plate on a brick wall, Siemianowice Śląskie; 'Ś' (acute) and 'ł' confirmed on zoom. Below it an unpainted rectangle marks a removed patron plaque."
+ },
+ "c47526872": {
+  "accept": false,
+  "reason": "painted synagogue ceiling (museum reconstruction) with Hebrew inscriptions; no place sign"
+ },
+ "c125686023": {
+  "accept": false,
+  "reason": "cathedral facade inscription unreadable at this distance; the legible text is a ballet poster (advert)"
+ },
+ "c149731517": {
+  "accept": false,
+  "reason": "directional arrow boards: generic 'OZDOBY CUKIERNICZE' (cake decorations) and a stylised 'baret' logo whose first letter is ambiguous"
+ },
+ "c149731522": {
+  "accept": false,
+  "reason": "window lettering of the same glazier as accepted c149731523 (same phone number); generic, graffiti-covered, and the phone line is mirrored"
+ },
+ "c149731523": {
+  "accept": true,
+  "reason": "",
+  "kind": "hard",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Zakład",
+    "lang": "pl"
+   },
+   {
+    "text": "A. Drabik",
+    "lang": "pl"
+   },
+   {
+    "text": "ZKLARSKI",
+    "lang": "pl"
+   }
+  ],
+  "expect": {
+   "query": "Zakład Szklarski A. Drabik",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Glazier's workshop board in Kraków plastered with stickers. The initial 'S' of SZKLARSKI is covered by stickers, so only 'ZKLARSKI' is transcribed (full word Szklarski). Phone '012 4?1 70 47' is partly covered (the window sign c149731522 gives 012 421 70 47). Service list (lustra / szkło 2-8 mm / szkło bezpieczne / szkło ornamentowe / szkło antywłamaniowe, the last partly hidden) and the stickers (BOOK TOURS, SELEKTA, HAKUNA TUNES, HELLO...) are distractors."
+ },
+ "c149780018": {
+  "accept": false,
+  "reason": "parking sign stack (P Płatny, disabled parking); names no place"
+ },
+ "c149988438": {
+  "accept": false,
+  "reason": "generic product list on an abandoned kiosk window (HYDRAULIKA SIŁOWA / POMPY ...), partly peeled and covered by graffiti; no name"
+ },
+ "c178356929": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Szkoła",
+    "lang": "pl"
+   },
+   {
+    "text": "ze Zwierzętami",
+    "lang": "pl"
+   },
+   {
+    "text": "im. Simony Kossak",
+    "lang": "pl"
+   }
+  ],
+  "expect": {
+   "query": "Szkoła ze Zwierzętami im. Simony Kossak",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Tan school name board with line drawings of a cat, dog and horse and an owl icon, Kijowska Street, Warsaw. 'ę' in Zwierzętami."
+ },
+ "c178668232": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "SREBRO",
+    "lang": "pl"
+   },
+   {
+    "text": "BURSZTYN",
+    "lang": "pl"
+   }
+  ],
+  "expect": {
+   "query": "Srebro Bursztyn",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Raised metal letters in an arched, weathered wooden frame on a brick wall, Lawendowa Street, Gdańsk ('Silver / Amber' jewellery shop). The text is generic (shop type rather than a brand), so a map match depends on the shop being tagged with this name."
+ },
+ "c153956983": {
+  "accept": false,
+  "reason": "faded painted wall advert (ghost sign 'MR MASŁO ... JEDZ MASŁO'), advertising copy, largely peeled"
+ },
+ "c118430083": {
+  "accept": true,
+  "reason": "",
+  "kind": "address plate",
+  "scripts": [
+   "Latn",
+   "Zyyy"
+  ],
+  "lines": [
+   {
+    "text": "53M",
+    "lang": "und"
+   },
+   {
+    "text": "WROCŁAWSKA",
+    "lang": "pl"
+   },
+   {
+    "text": "KLATKA III",
+    "lang": "pl"
+   },
+   {
+    "text": "MIESZKANIA 69 - 109",
+    "lang": "pl"
+   }
+  ],
+  "expect": {
+   "query": "Wrocławska 53M",
+   "type": "addr"
+  },
+  "difficulty": "easy",
+  "notes": "Brushed-steel entrance plate of an apartment building, Kraków: house number 53M, street name, staircase III, flats 69-109. A small speck above the A after Ł is a blemish, not an accent. Address format: street + number with letter suffix."
+ },
+ "c132558185": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn",
+   "Zyyy"
+  ],
+  "lines": [
+   {
+    "text": "6-23/7",
+    "lang": "und"
+   },
+   {
+    "text": "żabka",
+    "lang": "pl"
+   },
+   {
+    "text": "żabka café",
+    "lang": "pl"
+   }
+  ],
+  "expect": {
+   "query": "Żabka",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Green fascia of a Żabka convenience store in Bliżyn: opening hours '6-23/7', the lower-case 'żabka' logo with dot over z, and a 'żabka café' panel (small 'żabka' over 'café'). Projecting sign 'żabka / PARKING' at the left. Distractors: Polish Red Cross clothes bin ('POLSKI CZERWONY KRZYŻ'), 'Nie zastawiać drogi manewrowej' plate, window promos."
+ },
+ "c88865900": {
+  "accept": false,
+  "reason": "no-pedestrians sign and barriers at a closed park; no place name"
+ },
+ "c145980051": {
+  "accept": false,
+  "reason": "only a small generic 'POLICJA' logo on a distant building facade; no name text"
+ },
+ "c151955019": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "SPOKO",
+    "lang": "pl"
+   },
+   {
+    "text": "SERWIS",
+    "lang": "pl"
+   }
+  ],
+  "expect": {
+   "query": "Spoko Serwis",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Projecting lightbox of a phone-repair shop at the left edge of a busy street view in Poznań (Ogrodowa/Półwiejska); the second O of SPOKO is a thumbs-up icon. Tiny subtitle 'AUTORYZOWANY PUNKT GSM' and the fascia repeating 'SPOKO SERWIS' with phone-brand logos. Distractors: 'DOMOWY ZAKĄTEK / OBIADY DOMOWE' banner, 'DSW', vertical 'STOMATOLOGIA Dent', SenseiShop, one-way and paid-parking signs ('Nie dotyczy', 'Płatny')."
+ }
+}

@@ -1,0 +1,126 @@
+{
+ "k1369439705": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "august",
+    "lang": "ro"
+   },
+   {
+    "text": "coffee",
+    "lang": "en"
+   },
+   {
+    "text": "drinks",
+    "lang": "en"
+   },
+   {
+    "text": "food",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "August",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Corner café fascia: large lower-case 'august' (a steam-curl logo mark sits over the second u; it is decoration, not an accent), with small 'coffee / drinks / food' stacked at right in grey/red/green. Two round blade signs repeat the logo and the three words around a circle. Slight motion blur; chalkboard menus at the door are distractors."
+ },
+ "k1391631705": {
+  "accept": false,
+  "reason": "commemorative marble plaque (Colțea hospital founding); several worn diacritics (e.g. SPATARUL/SPĂTARUL, AȘEZĂMÎNT) cannot be verified, so not usable as exact ground truth"
+ },
+ "k1459048057": {
+  "accept": false,
+  "reason": "only decorative names on the facade and 'SCOALA' school-zone barriers; the school's name banners are too small to read"
+ },
+ "k1744073321": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "OPTICĂ",
+    "lang": "ro"
+   },
+   {
+    "text": "PLAFAR",
+    "lang": "ro"
+   }
+  ],
+  "expect": {
+   "query": "Plafar",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "White panel above a shop door at left: 'OPTICĂ' on top, a small '&' and an illegible small line, then 'PLAFAR' (herbal shop chain); a green vertical panel repeats PLAFAR. Distractors: window graphic 'OCHELARI PENTRU ÎNTREAGA FAMILIE ... OPTICĂ MEDICALĂ ȘI OPTOMETRIE' in the middle and another 'OPTICĂ / LENTILE PROGRESIVE' shop at right; graffiti on the wall. Pedestrians on the crossing are face-blurred and incidental."
+ },
+ "k480698129": {
+  "accept": false,
+  "reason": "rooftop advertising billboard (Jerry's Pizza slogan), pure advert"
+ },
+ "k480698209": {
+  "accept": false,
+  "reason": "building-wrap advertising (beer and film posters), pure adverts"
+ },
+ "k480698605": {
+  "accept": false,
+  "reason": "advertising billboard is the main text; metro 'M' sign has no station name"
+ },
+ "k943784": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ALTEX",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "Altex",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Yellow ALTEX store sign high on a shopping-centre facade, far away and small. Distractors: red 'H&M' beside it, a partly hidden 'PULL&BEAR SINCE 19..' panel at left, a large 'BIGOTTI www.bigotti.ro' billboard at right and a Hornbach poster in the middle. Taken through a windscreen."
+ },
+ "k943877": {
+  "accept": false,
+  "reason": "advertising billboard (Hornbach slogan); people in foreground"
+ },
+ "p25a3c52798": {
+  "accept": true,
+  "reason": "",
+  "kind": "transit",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "A",
+    "lang": "und"
+   },
+   {
+    "text": "PIATA UNIRII 1",
+    "lang": "ro"
+   }
+  ],
+  "expect": {
+   "query": "Piața Unirii",
+   "type": "stop"
+  },
+  "difficulty": "hard",
+  "notes": "Small metro entrance name sign on the railing at lower right (white panel with a coloured stripe on top, letter 'A' for the exit at left, 'PIATA UNIRII 1'); the comma under the T of Piața is not visible at this resolution, so it is transcribed as seen. The blue 'M' metro sign in the middle has no name. 'POMPIERI SALVATORI' on the fire van at left is vehicle lettering and a distractor."
+ }
+}

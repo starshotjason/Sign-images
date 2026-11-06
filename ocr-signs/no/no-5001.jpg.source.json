@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=38e5e98a-c2eb-44d1-b973-3f81a16b4bdb",
+  "original_url": "https://panoramax.openstreetmap.fr/images/38/e5/e9/8a/c2eb-44d1-b973-3f81a16b4bdb.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "LandskapsLars",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture 38e5e98a-c2eb-44d1-b973-3f81a16b4bdb (Oslo, 2026-04-17)",
+  "description": "Street-level picture on Panoramax, taken 2026-04-17 near Oslo by LandskapsLars, sequence 48b27a6d-49e1-4031-8845-4bc427a8d392, heading 286. OCR (PP-OCRv3) read: DAVID-IANDIERSEN | TOMM | xclusive | 1965",
+  "date": "2026-04-17",
+  "categories": [],
+  "camera_location": [
+    59.913038889,
+    10.741713889
+  ],
+  "found_by": "panoramax-ocr:Oslo",
+  "bytes": 2110058,
+  "width": 2793,
+  "height": 2094,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/38/e5/e9/8a/c2eb-44d1-b973-3f81a16b4bdb.jpg",
+  "derivative": "crop 0,559,2793,2653 of the 4032x3024 HD picture"
+}

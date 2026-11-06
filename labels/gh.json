@@ -1,0 +1,406 @@
+{
+ "c143923021": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "AKO ADJEI ST.",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Ako Adjei Street",
+   "type": "street"
+  },
+  "difficulty": "medium",
+  "notes": "Blue street blade with white outlined (stencil-style) capitals on a pole, New Legon, Accra; shot from below against a blue tarp awning, which lowers contrast."
+ },
+ "c143923841": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "MAJOR ANNAN AVE.",
+    "lang": "en"
+   },
+   {
+    "text": "ANYETEI AVE.",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Major Annan Avenue",
+   "type": "street"
+  },
+  "difficulty": "medium",
+  "notes": "Two blue street blades at a corner in New Legon, Accra, on one post; 'MAJOR ANNAN AVE.' is angled away and smaller. Slight motion blur. A faded poster on the yellow kiosk is a distractor."
+ },
+ "c143923710": {
+  "accept": false,
+  "reason": "near-duplicate of accepted c143923841 (same Major Annan Ave / Anyetei Ave corner, softer focus)"
+ },
+ "c193997855": {
+  "accept": false,
+  "reason": "street plate ('NUMESE MAGBEIM') is tiny in a wide street scene and its second line is unreadable"
+ },
+ "c194613261": {
+  "accept": false,
+  "reason": "street scene where the 'Kenka St' plate is a tiny speck in the distance; not legible as a target"
+ },
+ "c193997883": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "GUGGISBERG AVE.",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Guggisberg Avenue",
+   "type": "street"
+  },
+  "difficulty": "medium",
+  "notes": "Grey weathered street blade with raised letters on a post in front of kiosks, Accra (Korle Bu area). Shop boards ('CHEF NYAMEKYE', 'CLAP FOR ADOM NYAME', a rooms-for-rent board) are distractors."
+ },
+ "c194654367": {
+  "accept": true,
+  "reason": "",
+  "kind": "hard",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "NANA DADZIE ST.",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Nana Dadzie Street",
+   "type": "street"
+  },
+  "difficulty": "hard",
+  "notes": "Sun-faded blue street blade with small double arrows, shot from below against an overcast sky in Takoradi; the white lettering is very faint. A short line of tiny text above the name is unreadable and left out."
+ },
+ "c194776352": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Bekwai",
+    "lang": "en"
+   },
+   {
+    "text": "School",
+    "lang": "en"
+   },
+   {
+    "text": "Kokofu",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Kokofu",
+   "type": "place"
+  },
+  "difficulty": "easy",
+  "notes": "Blue junction direction sign (crossroads diagram) by the road in Ashanti; 'Bekwai' straight ahead, 'School' left, 'Kokofu' right. A crossroads warning triangle at the right edge is a distractor."
+ },
+ "c194534483": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ARPEGGIO ST.",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Arpeggio Street",
+   "type": "street"
+  },
+  "difficulty": "medium",
+  "notes": "Large blue street blade with faded black capitals on a concrete pole, Accra, shot from below. A second blade below, turned nearly edge-on, reads 'EARTH STREE...' (cut off); a handwritten 'M08 17/01' on the pole box is a distractor."
+ },
+ "c193747796": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "SINGLE SPINE STREET",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Single Spine Street",
+   "type": "street"
+  },
+  "difficulty": "medium",
+  "notes": "Blue street blade with a right-pointing arrow end on a thin pole, Pantang-Abokobi area, Accra; small in the frame. The 'TORGDJAN ENTERPRIS(E)' wholesale billboard below and a kiosk painted with the Ghana flag are distractors."
+ },
+ "c143923931": {
+  "accept": true,
+  "reason": "",
+  "kind": "address plate",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "185",
+    "lang": "und"
+   },
+   {
+    "text": "ANYETEI",
+    "lang": "en"
+   },
+   {
+    "text": "AVE",
+    "lang": "en"
+   },
+   {
+    "text": "GD-122-0304",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "185 Anyetei Avenue",
+   "type": "addr"
+  },
+  "difficulty": "easy",
+  "notes": "Municipal house-number plate with embossed black letters, New Legon, Accra. 'GD-122-0304' is the GhanaPostGPS digital address. Two QR codes and a utility sticker (code 'ECGBD0076263') are not part of the address."
+ },
+ "c193086568": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "REGINA MUNDI",
+    "lang": "en"
+   },
+   {
+    "text": "INTERNATIONAL SCHOOL",
+    "lang": "en"
+   },
+   {
+    "text": "CRECHE NURSERY",
+    "lang": "en"
+   },
+   {
+    "text": "KINDERGARTEN PRIMARY",
+    "lang": "en"
+   },
+   {
+    "text": "MONTESSORI INCORPORATED",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Regina Mundi International School",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Tall school pylon sign at Ashongman Estates, Accra; the crest repeats the name with the motto 'Deus Lus Mea Est'. The lower part (SPACIOUS PLAY GROUND, SCHOOL BUS AVAILABLE, three phone numbers, social media and 'Behind Food Yard') is advertising copy and left out."
+ },
+ "c89133128": {
+  "accept": false,
+  "reason": "street scene with people and motorcycle number plates as the subject; the only sign is a 'NO PARKING' board"
+ },
+ "c194906024": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ILONA",
+    "lang": "en"
+   },
+   {
+    "text": "RESTAURANT",
+    "lang": "en"
+   },
+   {
+    "text": "&",
+    "lang": "und"
+   },
+   {
+    "text": "LOUNGE",
+    "lang": "en"
+   },
+   {
+    "text": "053 102 0627",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "Ilona Restaurant & Lounge",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Grey pylon with black glossy 3D letters, shot at an angle in dusk light, Accra; 'ILONA' is in a stylised display font. An MTN MoMo agent banner and a food poster in the background are distractors."
+ },
+ "c131418906": {
+  "accept": false,
+  "reason": "street view dominated by billboards and promo posters; the shop fascia name is small and its stylised first letters are unclear"
+ },
+ "c193757562": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "MUSEUM OF NATURAL & CULTURAL HERITAGE AT SHAI HILLS",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Shai Hills",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Long green-banded banner over the museum entrance at Shai Hills Resource Reserve; slightly soft, low-contrast image, the M touches the left edge and the last S the right edge. The phone/email/sponsor strip below (FRANCE GHANA, AFC) is cut off and left out."
+ },
+ "c133234335": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "DEPARTMENT OF",
+    "lang": "en"
+   },
+   {
+    "text": "PLANNING",
+    "lang": "en"
+   },
+   {
+    "text": "Delivering Excellent Planning Education",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Department of Planning",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Department signboard with the KNUST crest and raised red 'PLANNING', Kumasi; tiny 'Donated by GASP 2019/2020' at the bottom right is left out. The smaller 'DEPARTMENT OF ARCHITECTURE KNUST' plate over the door and a graduation banner at top left are distractors."
+ },
+ "c193086573": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "PHARMACY",
+    "lang": "en"
+   },
+   {
+    "text": "CYPSER",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Cypser Pharmacy",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Pylon sign at Ashongman, Accra: green 3D 'PHARMACY' reads bottom-to-top along the left side next to a green cross, and the 'CYPSER' logo panel (the 'S' is styled like a reversed '3'/'E') sits top right. The working hours, services list and contacts below are left out."
+ },
+ "c194689812": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ICGC",
+    "lang": "en"
+   },
+   {
+    "text": "PARADISE TEMPLE",
+    "lang": "en"
+   },
+   {
+    "text": "DOME, PILLAR 2",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "ICGC Paradise Temple",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Dark grey church board on a single pole in Dome, Accra; the circular International Central Gospel Church logo text above is too small to transcribe."
+ },
+ "c131418221": {
+  "accept": false,
+  "reason": "the foreground target is an event-services advert; the venue name board ('GILLY'S HAVEN EVENT GARDENS') is small and far behind a fence"
+ },
+ "c131418910": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "INDIAN SALT N' PEPPER RESTAURANT",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Indian Salt N' Pepper Restaurant",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Long white fascia with raised red serif letters on a two-storey commercial block on Spintex Road, Accra, seen from across a car park. Many distractors: 'MICASSO TILES PLAZ(A)', 'Rajni's SUPERMARKET', 'Do it Best', 'AutoCraft WORLD', DRYLOK/Sanitana/COLORTEK brand boards, and car number plates (incidental)."
+ },
+ "f71df6767-a1ff-4cc6-84e9-eef2c1881a93": {
+  "accept": false,
+  "reason": "crowded market street scene with people as the subject; no legible sign"
+ }
+}

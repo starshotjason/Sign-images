@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/116249/280/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMy5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE3LzQvNy9wcm9jLzExNjI0OV9jZjcwY181OGU2ZTFmYTQ5ZDNlLmpwZw",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "DanRun",
+  "credit_as_published": "KartaView user DanRun (user id 38); © KartaView contributors",
+  "title": "KartaView photo 25252566, sequence 116249 #280 (Sofia, 2017-04-02)",
+  "description": "Street-level picture on KartaView, taken 2017-04-02 near Sofia by DanRun, sequence 116249, heading 178.49. OCR (PP-OCRv3) read: CORSO | RESTAURANT | BAR&DINNER | FINE FOOO | WINE SHOP | cafe,fine food &wine | CO.498",
+  "date": "2017-04-02",
+  "categories": [],
+  "camera_location": [
+    42.695285,
+    23.328771
+  ],
+  "found_by": "kartaview-ocr:Sofia",
+  "bytes": 540896,
+  "width": 2592,
+  "height": 1936,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMy5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE3LzQvNy9wcm9jLzExNjI0OV9jZjcwY181OGU2ZTFmYTQ5ZDNlLmpwZw",
+  "derivative": "whole 2592x1936 full-size processed (blurred) picture as served by the KartaView CDN (byte-identical; the service blurs faces and number plates), not cropped"
+}

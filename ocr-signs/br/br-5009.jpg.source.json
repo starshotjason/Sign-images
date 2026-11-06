@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=564ba3c1-5d75-4168-8752-cc17baabb24b",
+  "original_url": "https://panoramax.openstreetmap.fr/images/56/4b/a3/c1/5d75-4168-8752-cc17baabb24b.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "Túllio",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture 564ba3c1-5d75-4168-8752-cc17baabb24b (Brasilia, 2024-12-05)",
+  "description": "Street-level picture on Panoramax, taken 2024-12-05 near Brasilia by Túllio, sequence 2fb3883e-5389-43da-94fa-3bcd01536a6c, heading 23. OCR (PP-OCRv3) read: O AMORVENCERA OCDIOT | Estidio Naclonal z | 个Snlda Norte | 个TorreTVDigital | Ministerios-→ | Digita TVTower",
+  "date": "2024-12-05",
+  "categories": [],
+  "camera_location": [
+    -15.7966295,
+    -47.8835604
+  ],
+  "found_by": "panoramax-ocr:Brasilia",
+  "bytes": 446757,
+  "width": 2187,
+  "height": 1640,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/56/4b/a3/c1/5d75-4168-8752-cc17baabb24b.jpg",
+  "derivative": "crop 0,675,2187,2315 of the 4000x3000 HD picture"
+}

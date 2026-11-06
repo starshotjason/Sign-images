@@ -1,0 +1,296 @@
+{
+  "f31255411-fb73-4ca4-98f6-ba5435c6dac4": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "http:cyber",
+        "lang": "und"
+      }
+    ],
+    "expect": {
+      "query": "http:cyber",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Internet-café fascia board (Mauritania, per the Flickr news-photo caption), seen from below at a slight angle: salmon outlined letters on a weathered blue board. Spelled 'http:cyber' with a single colon and no slashes, as painted. No Arabic or French text on the board."
+  },
+  "f3b73f8a8-9f2d-4126-ae85-4c585979d09c": {
+    "accept": false,
+    "reason": "not in Mauritania and not a sign: museum photo of the ship's bell of RMS Mauretania (object/product)"
+  },
+  "f3efdfd5d-9b4b-4ac3-ae93-607ce0b8ba3c": {
+    "accept": false,
+    "reason": "roadside name board is tiny and distant (about 50 px wide); only '...MOUNA' is readable and the leading letter(s) are illegible"
+  },
+  "feef7a65c-490c-4d99-a839-a4cb2fbf6ef4": {
+    "accept": false,
+    "reason": "no sign: desert landscape with mountains"
+  },
+  "c24202784": {
+    "accept": false,
+    "reason": "protest banner and placards (PNP slogan), not a place sign"
+  },
+  "f41cf0420-301a-43e8-b83b-65716e57f581": {
+    "accept": false,
+    "reason": "press conference, people's faces are the subject; no sign"
+  },
+  "fdc8e51c0-42e4-4f57-89c7-e7d0d507e3e4": {
+    "accept": false,
+    "reason": "indoor conference event banner (talk title), not a place sign; people are the subject"
+  },
+  "ff7867107-d62c-40e3-9e2f-6fa062830e87": {
+    "accept": false,
+    "reason": "newspapers laid on the ground with readers; no sign"
+  },
+  "c164067913": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn",
+      "Arab"
+    ],
+    "lines": [
+      {
+        "text": "MUSEE NATIONAL",
+        "lang": "fr"
+      },
+      {
+        "text": "المتحف الوطني",
+        "lang": "ar",
+        "latin": "al-Mathaf al-Watani (the National Museum)"
+      }
+    ],
+    "expect": {
+      "query": "Musée National",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Name board over the entrance of the National Museum, Nouakchott, with the state emblem between the French and Arabic. Distractor: exhibition poster on the right ('Viktor PINCHUK', 'Exposition Photo Digitale / معرض الصور الرقمية', 'Lieu : Musée National')."
+  },
+  "c11977400": {
+    "accept": false,
+    "reason": "indoor department direction sign in Kaédi hospital (الجراحة / مصالح أخرى / CHIRURGIE / AUTRES SERVICES); names no mappable place"
+  },
+  "c6726363": {
+    "accept": false,
+    "reason": "landmine warning sign ('MINES / MINEEN') at the Western Sahara border; no place name, and the scene is mostly the inside of a vehicle"
+  },
+  "c16265357": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "الوفاء للتأمينات",
+        "lang": "ar",
+        "latin": "al-Wafa' lit-Ta'minat (Al Wafa Insurance)"
+      },
+      {
+        "text": "EL WAVA ASSURANCES",
+        "lang": "fr"
+      },
+      {
+        "text": "A NOUADHIBOU",
+        "lang": "fr"
+      },
+      {
+        "text": "في انواذيبو",
+        "lang": "ar",
+        "latin": "fi Nwadhibu (in Nouadhibou)"
+      },
+      {
+        "text": "ترحب بكم",
+        "lang": "ar",
+        "latin": "turahhib bikum (welcomes you)"
+      },
+      {
+        "text": "BIENVENUE",
+        "lang": "fr"
+      }
+    ],
+    "expect": {
+      "query": "Nouadhibou",
+      "type": "place"
+    },
+    "difficulty": "medium",
+    "notes": "Sponsored town welcome board at the entrance to Nouadhibou (El Wava Assurances logo 'WA'). Arabic spelling of the town is 'انواذيبو' with a stretched kashida. A second, smaller welcome board ('... VOUS SOUHAITE LA BIENVENUE') down the road is a distractor."
+  },
+  "c135579802": {
+    "accept": false,
+    "reason": "pick-up truck with a legible number plate is the main subject; the hand-painted desert direction board beside it is small and partly hand-lettered"
+  },
+  "c97167768": {
+    "accept": true,
+    "reason": "",
+    "kind": "transit",
+    "scripts": [
+      "Arab"
+    ],
+    "lines": [
+      {
+        "text": "مطار نواكشوط الدولي- أم التونسي",
+        "lang": "ar",
+        "latin": "Matar Nwakshut ad-Duwali - Umm at-Tunsi (Nouakchott-Oumtounsy International Airport)"
+      }
+    ],
+    "expect": {
+      "query": "مطار نواكشوط الدولي أم التونسي",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Green neon roof lettering on the terminal at night; stylised calligraphy with a dash between الدولي and أم; a lamp post crosses the word الدولي. Distractors: illuminated 'DEPARTURES' / 'مغادرة' signs below. The image has an added green frame and a faint semi-transparent logo near 'DEPARTURES' (not across the image)."
+  },
+  "c1626137": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "صيدلية لبيرات البيطرية",
+        "lang": "ar",
+        "latin": "Saydaliyyat Lbeirat al-Baytariyya (Lebeiratt veterinary pharmacy)"
+      },
+      {
+        "text": "PHARMACIE VETERINAIRE LEBEIRATT",
+        "lang": "fr"
+      },
+      {
+        "text": "SECTION DE ROSSO",
+        "lang": "fr"
+      }
+    ],
+    "expect": {
+      "query": "Pharmacie Vétérinaire Lebeiratt",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Target is the free-standing white board at bottom left, Rosso; slightly angled, and the bottom line continues past 'SECTION DE ROSSO' but is cut off at the frame edge. Distractors: the same name hand-painted on the blue shopfront ('PHARMACIE LEBEIRATT / AGENCE DE ROSSO', 'صيدلية لبيرات / فرع روصو', Tel: 556 91 25, 'GR280'), a wholesale sign above and a spare-parts shop sign at right."
+  },
+  "c12570715": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Arab"
+    ],
+    "lines": [
+      {
+        "text": "بنك",
+        "lang": "ar",
+        "latin": "Bank"
+      },
+      {
+        "text": "الوفاء",
+        "lang": "ar",
+        "latin": "al-Wafa'"
+      },
+      {
+        "text": "باميس",
+        "lang": "ar",
+        "latin": "Bamis (BAMIS bank)"
+      }
+    ],
+    "expect": {
+      "query": "باميس",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Target is the green lettering across the panels of the bank building in the foreground, Nouakchott, read right to left (بنك / الوفاء / باميس); the bank logo at the far left is cut off. Distractor: the tall 'AL KHAIMA CITY CENTER' hotel banner with advertising copy on the tower behind (the photo's titled subject, but its name is small)."
+  },
+  "c146786385": {
+    "accept": false,
+    "reason": "no sign: people making tea around a campfire in the desert at night"
+  },
+  "c70914131": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn",
+      "Arab"
+    ],
+    "lines": [
+      {
+        "text": "FFRIM",
+        "lang": "fr"
+      },
+      {
+        "text": "الإتحادية الموريتانية لكرة القدم",
+        "lang": "ar",
+        "latin": "al-Ittihadiyya al-Muritaniyya li-Kurat al-Qadam (Mauritanian Football Federation)"
+      }
+    ],
+    "expect": {
+      "query": "FFRIM",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Headquarters of the Mauritanian football federation, Nouakchott: big green 'FFRIM' letters on the facade and a long Arabic name on the green canopy (small, about 330 px wide). Police pick-ups ('POLICE') and parked cars in front; their number plates are small and incidental."
+  },
+  "c92612266": {
+    "accept": false,
+    "reason": "wrong country: plaque of the Embassy of Mauritania in Meguro, Tokyo, Japan"
+  },
+  "f3a5a92f9-2370-46b2-8813-93f250402ef8": {
+    "accept": false,
+    "reason": "only text is Coca-Cola branding painted on shop shutters (advert) plus tiny meter tags ('COP Z 114', 'A3371...'); no shop or place name"
+  },
+  "c86366102": {
+    "accept": false,
+    "reason": "interior section labels inside the Institut Français library (CULTURETHEQUE, PRESSE, ESPACE JEUX VIDEO, ...); nothing a map would contain"
+  },
+  "c86366095": {
+    "accept": false,
+    "reason": "opening-hours notice and closure notice (running text) inside the Institut Français médiathèque; not a name sign"
+  },
+  "c86366092": {
+    "accept": true,
+    "reason": "",
+    "kind": "building tag",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "ACCUEIL",
+        "lang": "fr"
+      },
+      {
+        "text": "MEDIATHEQUE",
+        "lang": "fr"
+      }
+    ],
+    "expect": {
+      "query": "Médiathèque",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Name panel over the glass entrance doors of the médiathèque (library) of the Institut Français de Mauritanie, Nouakchott; written without accents. Distractors: posters on the doors ('ÉTUDIER EN FRANCE', 'NOUVEAUX HORAIRES MÉDIATHÈQUE'), Campus France Eiffel-tower decal, and reflections of the interior signs (CULTURETHEQUE, PRESSE)."
+  },
+  "c12251796": {
+    "accept": false,
+    "reason": "rest-area street scene with people as the main subject; the two small hand-painted Arabic shop boards are too small to transcribe reliably"
+  },
+  "c135288659": {
+    "accept": false,
+    "reason": "no sign: desert landscape with mountains"
+  },
+  "c135288660": {
+    "accept": false,
+    "reason": "roadside name board is small and distant; only '...MOUNA' is readable and the leading letter(s) are illegible (same board as the already-rejected f3efdfd5d)"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=1d2018ac-8e36-412c-90dc-240e487550aa",
+  "original_url": "https://panoramax.openstreetmap.fr/images/1d/20/18/ac/8e36-412c-90dc-240e487550aa.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "Alixun",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture 1d2018ac-8e36-412c-90dc-240e487550aa (Wellington, 2025-02-19)",
+  "description": "Street-level picture on Panoramax, taken 2025-02-19 near Wellington by Alixun, sequence 4ca8e172-c23e-4184-8ac2-f3c2002039b1, heading 165. OCR (PP-OCRv3) read: CIRCA | THEATRE | Other | PRIME",
+  "date": "2025-02-19",
+  "categories": [],
+  "camera_location": [
+    -41.2897682,
+    174.7806229
+  ],
+  "found_by": "panoramax-ocr:Wellington",
+  "bytes": 484124,
+  "width": 1816,
+  "height": 1362,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/1d/20/18/ac/8e36-412c-90dc-240e487550aa.jpg",
+  "derivative": "crop 1111,0,2927,1362 of the 4080x1836 HD picture"
+}

@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/1952005/234/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTIub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAxOS84LzI3L3Byb2MvMTk1MjAwNV80XzU5NGZhXzM1LmpwZw",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "akhilesh-karna",
+  "credit_as_published": "KartaView user akhilesh-karna (user id 18918); © KartaView contributors",
+  "title": "KartaView photo 495517721, sequence 1952005 #234 (Pokhara, 2019-08-23)",
+  "description": "Street-level picture on KartaView, taken 2019-08-23 near Pokhara by akhilesh-karna, sequence 1952005, heading 0. OCR (PP-OCRv3) read: Lenovo | STATION | [unread] TELO | HUAW | [unread] HUAWEI | ZUBOT | [unread] Oppo | SANISUNG! | Deurali Mobile | Xiaom",
+  "date": "2019-08-23",
+  "categories": [],
+  "camera_location": [
+    28.209579,
+    83.9855
+  ],
+  "found_by": "kartaview-ocr:Pokhara",
+  "bytes": 383454,
+  "width": 1717,
+  "height": 1080,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTIub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAxOS84LzI3L3Byb2MvMTk1MjAwNV80XzU5NGZhXzM1LmpwZw",
+  "derivative": "crop 0,0,1717,1080 of the 1920x1080 full-size processed (blurred) picture"
+}

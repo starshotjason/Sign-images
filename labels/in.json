@@ -1,0 +1,482 @@
+{
+  "p1600d94b0d": {
+    "accept": false,
+    "reason": "bus shelter carries only advertising (FAST RELIEF, #UNSTOPPABLE, zepto); no stop name or place text"
+  },
+  "p20a486a6c2": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Knda",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "ಫಾಸ್ಟರ್ ಫಾರ್ಮ",
+        "lang": "kn",
+        "latin": "Phaastar Phaarma (Forster Pharma)"
+      },
+      {
+        "text": "FORSTER PHARMA",
+        "lang": "en"
+      },
+      {
+        "text": "CHEMISTS & DRUGGISTS",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Forster Pharma",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Maroon pharmacy fascia with green cross. Small address line reads '#24 St. Marks Road, Bangalore - 560 001. Tel: 080-22213568/22222028' (not labelled as lines); GSTIN 29AFIPP9605G1ZQ at top left. Distractors: WHITE HOUSE building name above, CHIVAS / Dewars Wine Store (ದಿವಾರ್ಸ್ ವೈನ್ ಸ್ಟೋರ್, #25 St Marks Road) signs at right, Juice Junction sign at left edge."
+  },
+  "p52198845a0": {
+    "accept": false,
+    "reason": "motion-blurred; only legible text is a PORTER advert on an autorickshaw with its number plate; the building sign is unreadable"
+  },
+  "p545170bea4": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Knda",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "ಕಬಾಬ್ ಕಾರ್ನರ್",
+        "lang": "kn",
+        "latin": "Kabaab Kaarnar (Kabab Korner)"
+      },
+      {
+        "text": "kabab korner",
+        "lang": "en"
+      },
+      {
+        "text": "A Multi Cuisine Restaurant",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Kabab Korner",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Large red board seen from below. GSTIN - 29AAACL2959A1ZN at lower left not labelled. The 'truffles' sign below and the repeated 'kabab kor...' window lettering are distractors."
+  },
+  "p741c083656": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "POLICE TRAFFIC PARK",
+        "lang": "en"
+      },
+      {
+        "text": "FOR CHILDREN",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Police Traffic Park",
+      "type": "poi"
+    },
+    "difficulty": "hard",
+    "notes": "Small white board in mid-distance behind trees, tilted frame. Distractors: 'DEVELOPED & MAINTAINED BY VASWANI GROUP' board with Kannada ವಾಸ್ವಾನಿ, VASWANI hoardings, and the small 'POLICE TRAFFIC PARK' strip on the gate."
+  },
+  "p77f25dcdb1": {
+    "accept": true,
+    "reason": "",
+    "kind": "transit",
+    "scripts": [
+      "Deva",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "शताब्दी एक्सप्रेस",
+        "lang": "hi",
+        "latin": "Shatabdi Ekspres (Shatabdi Express)"
+      },
+      {
+        "text": "SHATABDI EXPRESS",
+        "lang": "en"
+      },
+      {
+        "text": "नई दिल्ली",
+        "lang": "hi",
+        "latin": "Nai Dilli (New Delhi)"
+      },
+      {
+        "text": "NEW DELHI",
+        "lang": "en"
+      },
+      {
+        "text": "अमृतसर",
+        "lang": "hi",
+        "latin": "Amritsar"
+      },
+      {
+        "text": "AMRITSAR",
+        "lang": "en"
+      },
+      {
+        "text": "C12",
+        "lang": "und"
+      }
+    ],
+    "expect": {
+      "query": "New Delhi",
+      "type": "stop"
+    },
+    "difficulty": "easy",
+    "notes": "Yellow train-name and route boards on a Shatabdi Express coach (route New Delhi - Amritsar, coach C12) at a platform. Station names are the map targets; train name and coach number are not places. Platform number '3' board, door 'निकास EXIT' and seat-number markings are distractors."
+  },
+  "pafe67f0915": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn",
+      "Knda"
+    ],
+    "lines": [
+      {
+        "text": "Juice Junction",
+        "lang": "en"
+      },
+      {
+        "text": "Obey Your Thirst",
+        "lang": "en"
+      },
+      {
+        "text": "ಜ್ಯೂಸ್ ಜಂಕ್ಷನ್",
+        "lang": "kn",
+        "latin": "Jyoos Jankshan (Juice Junction)"
+      }
+    ],
+    "expect": {
+      "query": "Juice Junction",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Orange fascia with JJ logo. 'Estd: 1979' and 'GST:29ABZPB5827C1ZE' at top right not labelled. Same shop appears cut off at the left edge of p20a486a6c2, but the target there is a different shop. Customer at counter is incidental."
+  },
+  "pfe6479ba98": {
+    "accept": false,
+    "reason": "bus shelter with MTR advertising only; the small AUTO STAND pictogram sign is not a place name"
+  },
+  "p9606aeafe2": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "KRISHNA FASHIONS",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Krishna Fashions",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "White channel letters on dark wooden fascia of a sari shop, Kolkata. A small plate at the right end carries the name in Bengali, 'KOLKATA-700016', a GSTIN and 'KRISHNA FASHIONS', but it is too small to transcribe reliably and is not labelled. Timestamp '09/11/2025 16:59' burned into the lower right is a distractor."
+  },
+  "pc679664d9e": {
+    "accept": false,
+    "reason": "restaurant menu card cover (Mocambo 'Menu Card'), not a sign"
+  },
+  "p017a5c261b": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "ARDOR 2.1",
+        "lang": "en"
+      },
+      {
+        "text": "Restaurant & Lounge",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Ardor 2.1",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Gold lettering on black fascia to the right of a McDonald's entrance (New Delhi, Connaught Place area). The McDonald's golden-arches logo has no text and is a distractor, as are the FESTIVE-MEALS / MINI WAFFLE posters and the partial 'TACOS' blade sign at the right edge. Pedestrian at the door is incidental."
+  },
+  "p13663bbf6a": {
+    "accept": false,
+    "reason": "restaurant menu page (JAIN DISHES AVAILABLE), not a sign"
+  },
+  "pcdf2207aa3": {
+    "accept": false,
+    "reason": "printed restaurant menu (MUKHARUCHI Pujo Menu 2025) taped to glass, not a sign"
+  },
+  "p351dee553a": {
+    "accept": false,
+    "reason": "Starbucks tray liner and sugar sachets on a table; no sign"
+  },
+  "p70c55938e8": {
+    "accept": false,
+    "reason": "MTR restaurant menu page, not a sign"
+  },
+  "c64802043": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Deva"
+    ],
+    "lines": [
+      {
+        "text": "बृहन्मुंबई महानगर पालिका",
+        "lang": "mr",
+        "latin": "Bruhanmumbai Mahanagar Palika (Municipal Corporation of Greater Mumbai)"
+      },
+      {
+        "text": "गायनाचार्य",
+        "lang": "mr",
+        "latin": "Gayanacharya"
+      },
+      {
+        "text": "पंडित वामनराव सडोलीकर",
+        "lang": "mr",
+        "latin": "Pandit Vamanrav Sadolikar"
+      },
+      {
+        "text": "मार्ग",
+        "lang": "mr",
+        "latin": "Marg (road)"
+      }
+    ],
+    "expect": {
+      "query": "Pandit Vamanrav Sadolikar Marg",
+      "type": "street"
+    },
+    "difficulty": "medium",
+    "notes": "Blue BMC street plate hanging from a post, shot from below at an angle, Hindu Colony, Dadar, Mumbai. Ghost outlines of an older painted-over English name ('...ROAD', 'MUMBAI 400019') show faintly through the paint and are not labelled. The 'NO PARKING' board at lower left is a distractor."
+  },
+  "c99221321": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Taml",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "நெடுஞ்சாலைத்துறை",
+        "lang": "ta",
+        "latin": "Nedunchalaitthurai (Highways Department)"
+      },
+      {
+        "text": "சிறுதாவூர்",
+        "lang": "ta",
+        "latin": "Siruthavur"
+      },
+      {
+        "text": "SIRUDHAVOOR",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Sirudhavoor",
+      "type": "place"
+    },
+    "difficulty": "easy",
+    "notes": "Green Tamil Nadu Highways Department village name board, frontal and close. The two circled department logos (Tamil abbreviation at left, 'HD' with an arrow at right) are not labelled. OSM may spell the village Siruthavur."
+  },
+  "c109312928": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Beng",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "মোহনবাৰী",
+        "lang": "as",
+        "latin": "Mohanbari"
+      },
+      {
+        "text": "MOHANBARI",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Mohanbari",
+      "type": "place"
+    },
+    "difficulty": "easy",
+    "notes": "Green roadside place-name board near Dibrugarh Airport, Assam. Assamese spelling uses the Assamese letter ৰ (ra). A small green direction sign far down the road is a distractor."
+  },
+  "c143600940": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "THE HONG KONG AND SHANGHAI BANKING CORPORATION (HSBC)",
+        "lang": "en"
+      },
+      {
+        "text": "HEADQUARTERS, 1950",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "HSBC",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Stainless-steel UNESCO World Heritage (Victorian Gothic and Art Deco Ensembles of Mumbai) heritage plaque on the HSBC building, Fort, Mumbai, near Flora Fountain. Only the bold building-name heading is labelled; the top strapline, UNESCO block, 'ARCHITECTURAL STYLE : Art Deco', 'ARCHITECT : John A Ritchie, L Palfi', the history paragraph and the sponsor logos (UDRI, BMC seal, RPG Foundation, FORT) are not. Strong reflection darkens the right half."
+  },
+  "c153733156": {
+    "accept": true,
+    "reason": "",
+    "kind": "transit",
+    "scripts": [
+      "Deva",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "शिवाजी नगर",
+        "lang": "mr",
+        "latin": "Shivaji Nagar"
+      },
+      {
+        "text": "शिवाजी नगर",
+        "lang": "hi",
+        "latin": "Shivaji Nagar"
+      },
+      {
+        "text": "Shivaji Nagar",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Shivaji Nagar",
+      "type": "stop"
+    },
+    "difficulty": "easy",
+    "notes": "Blue Pune Metro station name board in front of escalators; Marathi and Hindi lines are spelled identically. The logo roundel 'महा मेट्रो' / 'PUNE METRO' at left is a distractor, not the station name."
+  },
+  "c150687941": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Telu",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "శ్రీ కనకదుర్గా పూజాస్టోర్స్",
+        "lang": "te",
+        "latin": "Sri Kanakadurga Pujastors (Sri Kanaka Durga Puja Stores)"
+      },
+      {
+        "text": "All Pooja Items Available Here",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "కనకదుర్గా పూజా స్టోర్స్",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Hand-painted red-on-cream fascia over a closed shutter, Ameerpet, Hyderabad (shop attached to Sri Kanaka Durga Temple). A small framed picture hangs over the gap between దుర్గా and పూజా; word spacing on the painted board is irregular. Vertical side panels repeat the name: Telugu 'పూజా స్టోర్స్' at left and English 'PUJA STOR...' at right (cut off by the frame edge); these are not labelled as lines."
+  },
+  "c184682542": {
+    "accept": true,
+    "reason": "",
+    "kind": "transit",
+    "scripts": [
+      "Gujr",
+      "Deva",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "સાબરમતી",
+        "lang": "gu",
+        "latin": "Sabarmati"
+      },
+      {
+        "text": "साबरमती",
+        "lang": "hi",
+        "latin": "Sabarmati"
+      },
+      {
+        "text": "SABARMATI.",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Sabarmati",
+      "type": "stop"
+    },
+    "difficulty": "easy",
+    "notes": "Yellow hand-painted Indian Railways station name board (Sabarmati Junction, Ahmedabad) at dusk; Hindi and English share the second line. Faint height line below ('ABOVE M.S.L. 54.86 m', partly worn) is not labelled. The arched 'WESTERN RAILWAY EMPLOYEES' UNION' board below right is a distractor."
+  },
+  "c93345093": {
+    "accept": false,
+    "reason": "instructional notice (Registration / kindly fill up the form) inside a hospital; names no mappable place"
+  },
+  "c93346198": {
+    "accept": false,
+    "reason": "generic 'Reservation Office / WAY TO' direction sign inside a station, not a named place; Odia and Hindi lines cut off at the right edge"
+  },
+  "c36609612": {
+    "accept": true,
+    "reason": "",
+    "kind": "address plate",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "BHOLA NATH",
+        "lang": "en"
+      },
+      {
+        "text": "2/2, HAZI JAKARIA LANE",
+        "lang": "en"
+      },
+      {
+        "text": "KOLKATA-6",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Hazi Jakaria Lane",
+      "type": "addr"
+    },
+    "difficulty": "easy",
+    "notes": "White marble house-name plate in a terracotta frame under a painted Shiva tile, Kolkata. 'BHOLA NATH' is the house name; address is house 2/2 on Hazi Jakaria Lane, Kolkata 700006 ('KOLKATA-6' short PIN form). Commons title spells the lane 'Hazi Jakara'."
+  }
+}

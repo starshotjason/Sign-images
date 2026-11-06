@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/528823/114/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlNS5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE3LzgvMTYvcHJvYy81Mjg4MjNfYzAwN2ZfNTk5NDljNTU0OTE3Yy5qcGc",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "seven",
+  "credit_as_published": "KartaView user seven (user id 10951); © KartaView contributors",
+  "title": "KartaView photo 98405675, sequence 528823 #114 (Almaty, 2017-08-01)",
+  "description": "Street-level picture on KartaView, taken 2017-08-01 near Almaty by seven, sequence 528823, heading 203.4. OCR (PP-OCRv3) read: NDERGROUND | CLUB&BAR | 574AR05",
+  "date": "2017-08-01",
+  "categories": [],
+  "camera_location": [
+    43.239052,
+    76.914637
+  ],
+  "found_by": "kartaview-ocr:Almaty",
+  "bytes": 741098,
+  "width": 2691,
+  "height": 2018,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlNS5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE3LzgvMTYvcHJvYy81Mjg4MjNfYzAwN2ZfNTk5NDljNTU0OTE3Yy5qcGc",
+  "derivative": "crop 0,255,2691,2273 of the 4608x2592 full-size processed (blurred) picture"
+}

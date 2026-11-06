@@ -1,0 +1,33 @@
+{
+  "source": "flickr",
+  "source_url": "https://www.flickr.com/photos/77442936@N00/14548594715",
+  "original_url": "https://live.staticflickr.com/3876/14548594715_5221128c6a_o.jpg",
+  "license_as_published": "CC BY-SA 2.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/2.0/",
+  "author_as_published": "lightwrite",
+  "credit_as_published": "\"Market storefronts on the streets of Hanoi\" by lightwrite is licensed under CC BY-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.0/.",
+  "title": "Market storefronts on the streets of Hanoi",
+  "description": "",
+  "date": "",
+  "categories": [
+    "hanoi",
+    "vietnam"
+  ],
+  "camera_location": null,
+  "found_by": "openverse:Vietnam storefront",
+  "bytes": 261569,
+  "width": 1024,
+  "height": 768,
+  "downloaded_url": "https://api.openverse.org/v1/images/ace11a53-6f59-4e5c-9635-5e76937d5db9/thumb/?full_size=true&compressed=false",
+  "derivative": "Flickr's published 1024 px 'large' rendition, served by the Openverse image API (Flickr originals were throttled for this client)",
+  "flickr": {
+    "flickr_url": "https://www.flickr.com/photos/77442936@N00/14548594715",
+    "flickr_license": "CC BY-SA 2.0",
+    "lat": null,
+    "lon": null,
+    "original_url": "https://live.staticflickr.com/3876/14548594715_5221128c6a_o.jpg",
+    "flickr_license_code": 5,
+    "retrieved": "2026-11-06T05:18:00.758317+00:00"
+  },
+  "openverse_id": "ace11a53-6f59-4e5c-9635-5e76937d5db9"
+}

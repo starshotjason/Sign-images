@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/1264371/362/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlOC5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE4LzcvMTEvcHJvYy8xMjY0MzcxXzM3M2U2XzM2Mi5qcGc",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "matiasj",
+  "credit_as_published": "KartaView user matiasj (user id 14453); © KartaView contributors",
+  "title": "KartaView photo 281631075, sequence 1264371 #362 (Buenos Aires, 2018-07-11)",
+  "description": "Street-level picture on KartaView, taken 2018-07-11 near Buenos Aires by matiasj, sequence 1264371, heading 22. OCR (PP-OCRv3) read: Terminal de combis Cbrisoo",
+  "date": "2018-07-11",
+  "categories": [],
+  "camera_location": [
+    -34.605446,
+    -58.381271
+  ],
+  "found_by": "kartaview-ocr:Buenos Aires",
+  "bytes": 254482,
+  "width": 1338,
+  "height": 1003,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlOC5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE4LzcvMTEvcHJvYy8xMjY0MzcxXzM3M2U2XzM2Mi5qcGc",
+  "derivative": "crop 1497,129,2835,1132 of the 3072x1728 full-size processed (blurred) picture"
+}

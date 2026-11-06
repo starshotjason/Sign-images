@@ -1,0 +1,146 @@
+{
+ "c57612744": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "MATJANA COMMUNITY",
+    "lang": "en"
+   },
+   {
+    "text": "SCHOOL",
+    "lang": "en"
+   },
+   {
+    "text": "PO BOX 4060 MANZINI",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Matjana Community School",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Blue painted school direction board with a right arrow, Shiselweni. The crest on the right repeats the name and has the motto 'SIYA EMBILI' and 'EDUCATION IS THE KEY TO SUCCESS' (not transcribed)."
+ },
+ "c45822528": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Royal Swaziland Police",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Royal Swaziland Police",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Blue fascia panel with the police crest over a glass entrance; reflections of trees and a vehicle in the windows. No camera location, so the specific station is unknown; the force is now the Royal Eswatini Police Service."
+ },
+ "c12785795": {
+  "accept": false,
+  "reason": "only a route-number sign ('D89') in a rural road scene; the shop signs in the distance are illegible"
+ },
+ "c28911651": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "MANTENGA SHOP",
+    "lang": "en"
+   },
+   {
+    "text": "WORKSHOPS",
+    "lang": "en"
+   },
+   {
+    "text": "WHEELCHAIR ACCESS",
+    "lang": "en"
+   },
+   {
+    "text": "Tea Garden",
+    "lang": "en"
+   },
+   {
+    "text": "Swazi Trails",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Mantenga Craft",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Arrow-shaped signpost with hanging name boards at Mantenga Craft Centre near Ezulwini. Small caps lettering on the first three boards (large initial letters). 'Rosecraft WEAVING' shop sign at the right and a partly hidden banner behind are distractors."
+ },
+ "c46718362": {
+  "accept": false,
+  "reason": "uneven-road warning pictogram is the subject; the tourism arrow sign behind it ('BUHLENI FARM CHALETS') is out of focus"
+ },
+ "c121781848": {
+  "accept": false,
+  "reason": "old 'SWAZILAND' board seen through two layers of fencing; the last letters are hidden and it names only the country"
+ },
+ "c73554510": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Ezulwini Valley",
+    "lang": "en"
+   },
+   {
+    "text": "Hotels & Casinos",
+    "lang": "en"
+   },
+   {
+    "text": "Mlilwane",
+    "lang": "ss"
+   },
+   {
+    "text": "8 km",
+    "lang": "und"
+   },
+   {
+    "text": "MR3 Mbabane",
+    "lang": "en"
+   },
+   {
+    "text": "D38 Lozitha",
+    "lang": "en"
+   },
+   {
+    "text": "D38 Lobamba",
+    "lang": "en"
+   },
+   {
+    "text": "2.5 km",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "Lobamba",
+   "type": "place"
+  },
+  "difficulty": "easy",
+  "notes": "Junction near Lobamba with brown tourist signs (bed and kudu pictograms) and a green route sign with orange route numbers. Small red ribbon stickers on the green sign. The lower brown sign has only police and museum pictograms with '2.5 km'. A 'LODGE' board on the hill at the far left is cut off."
+ }
+}

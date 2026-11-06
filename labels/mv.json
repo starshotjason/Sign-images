@@ -1,0 +1,188 @@
+{
+  "fad21210a-b221-4991-81da-4a885c46036c": {
+    "accept": false,
+    "reason": "posed portrait: a man's clearly visible face is a co-subject (title 'Man Stands by Maldivian Sign') and a motorcycle number plate is legible; the 'Maldivian by ISLAND AVIATION SERVICES LIMITED' sign itself would otherwise be usable"
+  },
+  "fe5faa290-8428-4f29-9399-b31702669d52": {
+    "accept": false,
+    "reason": "black-and-white shot of a motorbike shadow on paving; no sign text"
+  },
+  "c106900932": {
+    "accept": false,
+    "reason": "contract signing ceremony (event photo); backdrop banner only"
+  },
+  "c109981590": {
+    "accept": false,
+    "reason": "drawing of sign-language hand shapes, not a photograph of a sign"
+  },
+  "c127660552": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn",
+      "Thaa"
+    ],
+    "lines": [
+      {
+        "text": "WHITE STONE",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "White Stone",
+      "type": "poi"
+    },
+    "difficulty": "hard",
+    "notes": "Small bilingual name plate above the shop window of a souvenir shop, Dhangethi; the plate is only about 120 px wide. A small Thaana line above 'WHITE STONE' (presumably the same name) is too small to transcribe reliably and is left out. A tiny unit tag 'G-09' is beside the door. T-shirts printed 'MALDIVES' are distractors."
+  },
+  "c131572666": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "K DHIFFUSHI",
+        "lang": "dv"
+      }
+    ],
+    "expect": {
+      "query": "Dhiffushi",
+      "type": "place"
+    },
+    "difficulty": "easy",
+    "notes": "Large free-standing white 3D letters of the island name sign on Dhiffushi, Kaafu Atoll ('K' is the atoll code). A tourist poses behind the letters between 'I' and 'F' (face small, sunglasses) and does not hide any letter."
+  },
+  "c131574307": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "MAAFUSHI",
+        "lang": "dv"
+      }
+    ],
+    "expect": {
+      "query": "Maafushi",
+      "type": "place"
+    },
+    "difficulty": "easy",
+    "notes": "Large white 3D letters of the island name sign on Maafushi beach (Kaafu Atoll), shot wide-angle with whale-shark and ray sculptures on top. Parked scooters behind are incidental."
+  },
+  "c155069012": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Thaa",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "އަމީނިއްޔާ ސްކޫލް",
+        "lang": "dv",
+        "latin": "Ameeniyyaa Skool (Aminiya School)"
+      },
+      {
+        "text": "Aminiya School",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Aminiya School",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Raised white letters on a green boundary wall, Malé, slightly from below with leaf shadows. The English name is in a blackletter font. The motto 'Serve One Another' below is partly hidden by shrubs and is left out of lines."
+  },
+  "c53156418": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "KURUMBA",
+        "lang": "en"
+      },
+      {
+        "text": "maldives",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Kurumba",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Frosted-glass resort name plate with a leaf logo mounted on a stone boulder (Kurumba resort, North Malé Atoll). The yellow '19 2 2011' at bottom right is a camera date stamp, not part of the sign."
+  },
+  "c67013009": {
+    "accept": false,
+    "reason": "'NO SHOES, SLIPPERS!' prohibition sign (Dhivehi and English); no place name"
+  },
+  "c67013014": {
+    "accept": false,
+    "reason": "sponsor/league advertising banners (Ooredoo Dhivehi Premier League) over the stadium gate; no stadium name"
+  },
+  "c74167593": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Thaa",
+      "Latn",
+      "Zyyy"
+    ],
+    "lines": [
+      {
+        "text": "ބަލަކްޝާން",
+        "lang": "dv",
+        "latin": "Balakshaan"
+      },
+      {
+        "text": "BALAKSHAANCAFE",
+        "lang": "en"
+      },
+      {
+        "text": "TEL 327901",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Balakshaan Cafe",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Faded red letters on a white board over an old café, Maafannu, Malé. 'BALAKSHAAN' and 'CAFE' are run together with no space (CAFE is smaller). The Thaana line has a second word to the left (probably 'café') whose vowel marks are not clear enough to transcribe, so only the first word is given. Election posters and 'FOUNDATION IN BUSINESS' flyers on the boarded door are distractors; scooter number plates are incidental."
+  },
+  "f45e0b0c3-fcea-4e96-9f54-4efd8dab5098": {
+    "accept": false,
+    "reason": "'CAUTION ROTATING PROPELLER' warning sign"
+  },
+  "f61b940fd-a011-460d-b4a5-01d837f1f3d8": {
+    "accept": false,
+    "reason": "airport arrivals hall; only small 'ZONE B' wayfinding signs, a man is the main subject"
+  },
+  "f75e0f751-eeea-41db-ba30-b2363771c10b": {
+    "accept": false,
+    "reason": "marching-band portrait; only a 'SHARP' brand sign in the background"
+  },
+  "fbe00ef92-24e8-4036-bb1f-7c07eade3c19": {
+    "accept": false,
+    "reason": "pure advert board on a kiosk cart (wedding photography) with a model portrait"
+  },
+  "febd52f68-aabb-4ade-b144-f21fe0895403": {
+    "accept": false,
+    "reason": "market produce, only stall number tags"
+  }
+}

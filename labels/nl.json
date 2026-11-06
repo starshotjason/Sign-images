@@ -1,0 +1,142 @@
+{
+ "k1348492953": {
+  "accept": false,
+  "reason": "pedestrian-zone traffic sign is the main text; the 'Restaurant Café' fascia is generic and the named fascia below it is unreadable"
+ },
+ "k1348492993": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "GASSAN",
+    "lang": "nl"
+   }
+  ],
+  "expect": {
+   "query": "Gassan",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Dark serif letters carved/applied on the stone facade of the Gassan jewellery store at Dam square, Amsterdam, above beige awnings; shot from a moving car (slight blur). The name appears twice; the left copy is cut ('ASSAN')."
+ },
+ "k1348493117": {
+  "accept": true,
+  "reason": "",
+  "kind": "hard",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "BEURS VAN BERLAGE",
+    "lang": "nl"
+   }
+  ],
+  "expect": {
+   "query": "Beurs van Berlage",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Tall vertical blue banner on the facade of the Beurs van Berlage, Damrak, Amsterdam, read top-to-bottom, far and small, through a windscreen. Distractors: gold 'BIKE RE...' lettering at right edge, shop fascias on the left side of Damrak, Centraal Station in the distance."
+ },
+ "k1348495281": {
+  "accept": false,
+  "reason": "warning sign with a 'lijnbus' (bus route) sub-plate; names no place"
+ },
+ "k1605309225": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "DE BIJENKORF",
+    "lang": "nl"
+   }
+  ],
+  "expect": {
+   "query": "De Bijenkorf",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Large white rooftop letters of the De Bijenkorf department store at Dam square, Amsterdam, tilted wide-angle shot; a lamppost passes over the 'E' of DE. Distractor: 'DE ROODE LEEUW' hotel sign far left (small)."
+ },
+ "p1a451649b0": {
+  "accept": false,
+  "reason": "end-of-alcohol-ban zone sign with fine notice ('Voorkom een boete van 97euro...'); names no place"
+ },
+ "p2661ecda79": {
+  "accept": false,
+  "reason": "advertising livery on a tram (bunq, 'Bitcoin in je bank-app.')"
+ },
+ "p6664c70986": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Zuiderkerk",
+    "lang": "nl"
+   },
+   {
+    "text": "Agnietenkapel",
+    "lang": "nl"
+   },
+   {
+    "text": "De Waalse Kerk",
+    "lang": "nl"
+   },
+   {
+    "text": "Perdu",
+    "lang": "nl"
+   },
+   {
+    "text": "Compagnietheater",
+    "lang": "nl"
+   },
+   {
+    "text": "Kapitein Zeppo",
+    "lang": "nl"
+   }
+  ],
+  "expect": {
+   "query": "Zuiderkerk",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Red arrow fingerpost on a lamppost, Oudezijds Achterburgwal, Amsterdam; the bottom arm is curled so only 'Kapitein Zepp' is fully visible (name of the café Kapitein Zeppos). A middle panel carries an Oscar Wilde quote (not transcribed). Distractors: house number 235, 'AMSTERDAMSE ACADEMISCHE CLUB' plaque, 'VERBODEN TE PARKEREN' stickers, no-parking sign '20:00-07:00 uur'."
+ },
+ "paa49d43895": {
+  "accept": false,
+  "reason": "public bookcase; only book spines, no sign"
+ },
+ "pd44bea3a55": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "BITTERZOET",
+    "lang": "nl"
+   }
+  ],
+  "expect": {
+   "query": "Bitterzoet",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Black letters on a canopy over the Bitterzoet music venue, Amsterdam, in a tilted reprojected panorama crop. Distractors: van livery ('...luchttechniek', large logo) in the foreground, 'days 1970' / 'dogs' sign on the neighbouring bar, a person's hair in the corner."
+ }
+}

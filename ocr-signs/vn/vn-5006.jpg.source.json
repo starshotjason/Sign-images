@@ -1,0 +1,42 @@
+{
+  "source": "flickr",
+  "source_url": "https://www.flickr.com/photos/69706441@N03/33282998611",
+  "original_url": "https://live.staticflickr.com/593/33282998611_d3a4ae264a_o.jpg",
+  "license_as_published": "CC BY 2.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by/2.0/",
+  "author_as_published": "PiktourUK",
+  "credit_as_published": "\"Into the city!\" by PiktourUK is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/.",
+  "title": "Into the city!",
+  "description": "",
+  "date": "",
+  "categories": [
+    "cityscapes",
+    "holidays",
+    "mangojouneys",
+    "saigon",
+    "signs",
+    "streetscapes",
+    "topazlabs",
+    "vietnam"
+  ],
+  "camera_location": [
+    10.8231,
+    106.629663
+  ],
+  "found_by": "openverse:Vietnam sign",
+  "bytes": 148426,
+  "width": 1023,
+  "height": 382,
+  "downloaded_url": "https://api.openverse.org/v1/images/4d635a9a-350c-4373-b34e-8b24b6de68b2/thumb/?full_size=true&compressed=false",
+  "derivative": "Flickr's published 1024 px 'large' rendition, served by the Openverse image API (Flickr originals were throttled for this client)",
+  "flickr": {
+    "flickr_url": "https://www.flickr.com/photos/69706441@N03/33282998611",
+    "flickr_license": "CC BY 2.0",
+    "lat": 10.8231,
+    "lon": 106.629663,
+    "original_url": "https://live.staticflickr.com/593/33282998611_d3a4ae264a_o.jpg",
+    "flickr_license_code": 4,
+    "retrieved": "2026-11-06T05:18:14.375983+00:00"
+  },
+  "openverse_id": "4d635a9a-350c-4373-b34e-8b24b6de68b2"
+}

@@ -1,0 +1,402 @@
+{
+ "p098646c268": {
+  "accept": false,
+  "reason": "protest mural and slogans ('EXIGIMOS A LA EMPRESA MEXICANA ...', 'Palestina libre'); not a place sign"
+ },
+ "p5a8d04f69d": {
+  "accept": false,
+  "reason": "protest mural and graffiti ('ALV EL MUNDIAL', 'VIVA LA RESISTENCIA'); slogans only"
+ },
+ "pd3cc5aedaa": {
+  "accept": false,
+  "reason": "protest slogans on hoardings ('BOICOT BDS', 'A LA CHINGADA EL MUNDIAL ...'); slogans only"
+ },
+ "pfe68403628": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "PULQUERIA",
+    "lang": "es"
+   },
+   {
+    "text": "LA ANTIGUA ROMA",
+    "lang": "es"
+   },
+   {
+    "text": "LIC. 11054",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "La Antigua Roma",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Mexico City Centro Histórico, night; hand-painted green sign over a pulquería doorway (PULQUERIA written without accent on the sign). The blue street plate 'República de Perú' at left (tiny 'CENTRO HISTÓRICO · CIUDAD DE MÉXICO' strip) is a secondary target; overhead cables cross the sign."
+ },
+ "k52569436": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Junco",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Junco",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Mexico City Centro: large white lightbox with red 'Junco' wordmark (stylised J) on a home-textiles store; the small tagline beneath ('Telas · Decoración · Manualidades') is too faint to verify and is not transcribed. No-parking sign and a truck are distractors."
+ },
+ "f1d37cdd4-83f0-452d-a50a-892ed0c527e5": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "CALLE",
+    "lang": "es"
+   },
+   {
+    "text": "MADRID",
+    "lang": "es"
+   },
+   {
+    "text": "CP. 21430",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "Calle Madrid",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Hand-painted street sign in a scrolled iron frame, Tecate, Baja California (postcode 21430). Blue graffiti tag on the sign and a second cut-off sign above ('…ICIA') are distractors."
+ },
+ "f45b87529-cbcf-4311-a781-4f1cf47cc7d3": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "PALETERIA",
+    "lang": "es"
+   },
+   {
+    "text": "La TROPICAL",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Paletería La Tropical",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Painted on a pink wall above a doorway, Baja California Sur (San José del Cabo area); 'La' in small script; no accent painted on PALETERIA. Painted ice-cream pictures around it."
+ },
+ "f9434ce03-4792-4471-98d4-e0b49cde3267": {
+  "accept": false,
+  "reason": "wrong country: Ruidoso, New Mexico, USA"
+ },
+ "f8c7d26c7-d1ad-4d47-a55a-b4818f537fb4": {
+  "accept": true,
+  "reason": "",
+  "kind": "hard",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "FERRE ELECTRICO",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Ferre Electrico",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Monterrey, night film photo: long fascia over lit shop windows; the final O is partly blown out by a lamp. Small signs at left (perfumes / peluches / moños, phone 8340-27-01, '…EO MENUDEO') and a small sign over the door are distractors."
+ },
+ "p6a53366224": {
+  "accept": false,
+  "reason": "protest content (anti-femicide monument and banners)"
+ },
+ "pab08b04a74": {
+  "accept": false,
+  "reason": "protest content (pro-Palestine installation and slogans)"
+ },
+ "p178b64fc76": {
+  "accept": false,
+  "reason": "memorial to murdered journalists (protest/commemorative content); restaurant sign behind is cut off"
+ },
+ "pd580ca8d2c": {
+  "accept": false,
+  "reason": "night photo of workers at a tree with a URL watermark; no sign"
+ },
+ "paa98a616f8": {
+  "accept": false,
+  "reason": "mural with an 'OFERTA' price sign; no place name"
+ },
+ "f07e34ac3-e452-47be-a00e-bbef45e8eaca": {
+  "accept": false,
+  "reason": "wrong country: 'Welcome to New Mexico' (USA) state-line sign"
+ },
+ "f18f64f15-8bf1-4041-829d-e57cb0acaa17": {
+  "accept": false,
+  "reason": "blank red fascia and lottery adverts in the window; no name"
+ },
+ "f29aae563-83a4-4135-80af-57d128e4e375": {
+  "accept": false,
+  "reason": "shop interior with mannequins; only an evacuation-route sign"
+ },
+ "f65a5015e-a369-40b9-a146-285f29ee8ba6": {
+  "accept": false,
+  "reason": "shopfront hidden by hanging plants; no legible sign"
+ },
+ "f6ba20b28-3cff-4800-9a09-76d1809cb843": {
+  "accept": false,
+  "reason": "large decorative letters seen from behind (mirrored); not a readable sign"
+ },
+ "f96360aaa-1986-4734-a284-adeeeab950f0": {
+  "accept": false,
+  "reason": "souvenir T-shirts (product text)"
+ },
+ "fb61f6648-9a8c-4521-8f9c-e091ad42f433": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "IXTLAN DEL RIO",
+    "lang": "es"
+   },
+   {
+    "text": "69 KM",
+    "lang": "und"
+   },
+   {
+    "text": "GUADALAJARA",
+    "lang": "es"
+   },
+   {
+    "text": "210 KM",
+    "lang": "und"
+   },
+   {
+    "text": "CD. DE MEXICO",
+    "lang": "es"
+   },
+   {
+    "text": "782 KM",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "Ixtlán del Río",
+   "type": "place"
+  },
+  "difficulty": "easy",
+  "notes": "Distance board on a pole beside the toll highway (Carretera Cuota 15, Nayarit), with tricolour bird logo; written without accents (IXTLAN, MEXICO). Read as three rows: place, then distance."
+ },
+ "fed6bd8e6-6313-4834-9230-0d26b6252ed8": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "SalsitaS",
+    "lang": "es"
+   },
+   {
+    "text": "cocina y cantina",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Salsitas",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "San José del Cabo, painted on the white lintel over the door, first and last S in pink. Heart-shaped board at left repeats 'SalsitaS / BREAKFAST / LUNCH / DINNER / Open Daily …' (hours illegible); house number 1732 at right."
+ },
+ "fed164df5-2b6a-4006-8118-6c0da8d083fb": {
+  "accept": true,
+  "reason": "",
+  "kind": "hard",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "La Piñata",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "La Piñata",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "San José del Cabo craft shop: hand-painted hanging sign shaped like a piñata at the right corner, soft-focus and small; the tilde on ñ is faint but present. The ribbon under it ('… Mexican Handcraft Boutique') and the painted wall text at left ('Unique Mexican Crafts Boutique', a second piñata sign, a 'CENTRO HISTÓRICO SAN JOSÉ DEL CABO' plaque, 'Bienvenidos' door lettering) are too small or soft to transcribe exactly."
+ },
+ "fe87aac74-27e8-4adb-a431-0e7a6fdd005e": {
+  "accept": true,
+  "reason": "",
+  "kind": "hard",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ERIALES YAM",
+    "lang": "es"
+   },
+   {
+    "text": "ARA SU CONSTRUCCION",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Materiales Yam",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Playa del Carmen building-supplies shop, hand-painted orange fascia cut at the left edge ('[MAT]ERIALES YAM / [P]ARA SU CONSTRUCCION'); a piece of wood covers part of 'ERIALES'. Upper repeat of the name is cut off. Distractors: product list (POLVO, GRAVA, CEMENTO GRIS …), hand-written sheet 'MATERIALES \"MARISOL\"' with a price/product list and phone numbers, and a MAYA cement logo."
+ },
+ "f7f6784d0-5d40-4098-b94b-13920eca4363": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "LA GRULLA",
+    "lang": "es"
+   },
+   {
+    "text": "GUN CLUB",
+    "lang": "en"
+   },
+   {
+    "text": "PUNTA BANDA",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Punta Banda",
+   "type": "place"
+  },
+  "difficulty": "easy",
+  "notes": "1948 black-and-white photo, Baja California (near Ensenada): two hand-lettered arrow boards on a picket fence. The C of CLUB has a small mark under it (painting flaw, not a cedilla). Old car incidental."
+ },
+ "f9839a5a3-87b0-4c04-a4c6-746aae21c51f": {
+  "accept": false,
+  "reason": "mirrored/kaleidoscope composite of street and umbrellas; no sign text"
+ },
+ "f9fdb670c-ce6f-4645-954a-8851bc777444": {
+  "accept": false,
+  "reason": "shop window with crafts; no sign"
+ },
+ "fbf54b0f0-1ca1-42bd-8d80-acfc1b7f631e": {
+  "accept": false,
+  "reason": "busy street scene; only small partial signs ('SINGER' vertical, tricycle-taxi text)"
+ },
+ "fcdafe481-f6ef-473c-b0b4-6437aedea8ba": {
+  "accept": false,
+  "reason": "mural (portrait painted on a shutter)"
+ },
+ "fd99aa5b6-739b-4c12-ad18-928a57f32655": {
+  "accept": false,
+  "reason": "rental advert board ('Scooters & Cars for rent'); no specific place name"
+ },
+ "f271a5cdc-0594-4469-b03b-a71fd76615cb": {
+  "accept": false,
+  "reason": "'MEXICO' country lettering at the border crossing; no specific mappable place name"
+ },
+ "f1551c7b3-8fe1-4b46-9426-dd09395aa801": {
+  "accept": false,
+  "reason": "wrong country: WIPP site in Loving, New Mexico, USA"
+ },
+ "f9ec2b368-9bbf-44ce-94bc-1f15a395275d": {
+  "accept": false,
+  "reason": "wrong country: 'Welcome to New Mexico' (USA) highway sign"
+ },
+ "c99396553": {
+  "accept": false,
+  "reason": "wide street scene on Eje Central; the green direction signs and Salto del Agua metro sign are too small to read"
+ },
+ "f483f2a15-2fce-4013-8894-e634e2ac1ece": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "5 DE MAYO",
+    "lang": "es"
+   },
+   {
+    "text": "C.P. 20000",
+    "lang": "es"
+   },
+   {
+    "text": "MOCTEZUMA",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "5 de Mayo",
+   "type": "street"
+  },
+  "difficulty": "medium",
+  "notes": "Two yellow corner plates in front of Aguascalientes Cathedral. Upper plate's small sub-line is cut off behind the lower plate ('ZONA CENT...' visible, presumably Zona Centro); lower plate's small sub-line is illegible. C.P. 20000 is the postcode."
+ },
+ "fbb4ad35d-bc97-4e5b-b5ad-6d320d64ba15": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Plaza Mexico",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Plaza Mexico",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Shopping-centre pylon sign in Guadalajara in a decorative script font; the yellow promotional banner below ('Participa y GANA ... Caliber 2008') is an advert distractor. Overhead wires cross the sign."
+ }
+}

@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=611c089a-9949-400c-995f-37a100289661",
+  "original_url": "https://panoramax.openstreetmap.fr/images/61/1c/08/9a/9949-400c-995f-37a100289661.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "Eric S",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture 611c089a-9949-400c-995f-37a100289661 (Antananarivo, 2009-08-30)",
+  "description": "Street-level picture taken 2009-08-30 near Antananarivo by Eric S, sequence 9e94f350-2aa5-4331-9204-a3b0f0a1be8d, heading 0. OCR (PP-OCRv3) read: TANA SHOP | 37Bis Avenue cle 2G Juin Analakely | orange",
+  "date": "2009-08-30",
+  "categories": [],
+  "camera_location": [
+    -18.908121,
+    47.5246872
+  ],
+  "found_by": "panoramax-ocr:Antananarivo",
+  "bytes": 209936,
+  "width": 1280,
+  "height": 960,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/61/1c/08/9a/9949-400c-995f-37a100289661.jpg",
+  "derivative": "whole 1280x960 HD picture as served by the Panoramax instance (byte-identical; the instance blurs faces and number plates), not cropped"
+}

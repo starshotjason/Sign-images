@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=a78552b9-1198-4984-a67f-08b756490fec",
+  "original_url": "https://panoramax.openstreetmap.fr/images/a7/85/52/b9/1198-4984-a67f-08b756490fec.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "p4n-pics",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture a78552b9-1198-4984-a67f-08b756490fec (Tunis, 2019-04-09)",
+  "description": "Street-level picture taken 2019-04-09 near Tunis by p4n-pics, sequence ad533d11-2d60-471a-bbd7-bf413c6119b3, heading None. OCR (PP-OCRv3) read: iPolaris",
+  "date": "2019-04-09",
+  "categories": [],
+  "camera_location": [
+    36.80114,
+    10.183009
+  ],
+  "found_by": "panoramax-ocr:Tunis",
+  "bytes": 92429,
+  "width": 1051,
+  "height": 634,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/a7/85/52/b9/1198-4984-a67f-08b756490fec.jpg",
+  "derivative": "whole 1051x634 HD picture as served by the Panoramax instance (byte-identical; the instance blurs faces and number plates), not cropped"
+}

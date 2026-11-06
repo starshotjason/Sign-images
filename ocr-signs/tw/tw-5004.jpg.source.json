@@ -1,0 +1,28 @@
+{
+  "source": "tcmb",
+  "source_url": "https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Place&id=200262",
+  "original_url": "https://dcm.s3.hicloud.net.tw/new/excel/place/2020-01-13/76be861d-a826-41df-ba1a-e9ced7b614d4/collectionOpen/3a8ef799-132a-4794-ab6d-c70ba2d75df2/3217b2d5-4088-48ae-8941-3dffa71fdfcc.jpg",
+  "license_as_published": "CC BY",
+  "license_url_as_published": "https://creativecommons.org/licenses/by/3.0/tw/",
+  "author_as_published": "苗栗縣政府文化觀光局",
+  "credit_as_published": "苗栗縣政府文化觀光局, 國家文化記憶庫 Taiwan Cultural Memory Bank, CC BY",
+  "title": "竹南車站",
+  "description": "竹南車站為縱貫線山線海線主要的旅客轉乘站，始於明治35（1902）年設站。日治時期因鐵路客貨運量快速成長，造成滯貨事件，遂於大正8（1919）年興建海線，大正9（1920）年10月1日由原本的中港驛改名為竹南驛。鐵路開通初期運送木材、米、薪炭為主，砂糖及石炭在大正3（1914）至大正7（1918）年間開始大量增加，其他經濟作物如米、茶及樟腦也是本站重要的發貨物資。此站為重要的貨物轉運站，交通運輸發達，如輕便軌道一條由竹南向西通至中港，另一條則是向東通至頭份、南庄，其中南庄線為便於內陸石炭的運送，由中港製糖所擁有的產業鐵道，則是運送竹南經大埔到新竹北門往來的蔗糖運送。 海線路線選定考量軍事需求而偏向丘陵，其後抗日事件減緩，中港又位居河口，是中港溪流域重要的貨物集散地，因此海線路線改走中港經地勢坡度較緩的造橋再往南。車站建築歷經昭和10（1935）年關刀山地震修建，及民國84（1995）年山線雙軌化改建站體，民國98（2009）年再改建為跨站式站房，鐵路局列此站為一等站。",
+  "date": null,
+  "categories": [
+    "空間、地域與遷徙",
+    "中港驛",
+    "台中線起點",
+    "竹南車站",
+    "苗栗",
+    "海線",
+    "縱貫線"
+  ],
+  "camera_location": null,
+  "found_by": "tcmb-opendata:dataSet/culture title/keyword match '車站'; rapidocr pre-screen read ['南車站']; visually reviewed",
+  "bytes": 5453823,
+  "width": 3728,
+  "height": 2480,
+  "downloaded_url": "https://tcmb.culture.tw/imagor/filters:raw()/https%3A%2F%2Fdcm.s3.hicloud.net.tw%2Fnew%2Fexcel%2Fplace%2F2020-01-13%2F76be861d-a826-41df-ba1a-e9ced7b614d4%2FcollectionOpen%2F3a8ef799-132a-4794-ab6d-c70ba2d75df2%2F3217b2d5-4088-48ae-8941-3dffa71fdfcc.jpg",
+  "derivative": ""
+}

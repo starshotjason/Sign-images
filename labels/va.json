@@ -1,0 +1,42 @@
+{
+ "k1441652489": {
+  "accept": false,
+  "reason": "close-up of a cap and backpack on cobbles; no sign (text is clothing branding)"
+ },
+ "k695220510": {
+  "accept": false,
+  "reason": "wrong country: residential street in Rome south of the Vatican walls (camera 41.8970, 12.4499); only a distant shop fascia"
+ },
+ "k696664510": {
+  "accept": false,
+  "reason": "wrong country: Opel garage sign in a Rome residential street outside the Vatican walls (camera 41.8998, 12.4497)"
+ },
+ "p3cd3ca63c8": {
+  "accept": false,
+  "reason": "wrong country: 'BAR BAFFO | CAFFE' VERGNANO' is in Rome near Piazza di Porta Portese / Trastevere (camera 41.873, 12.466), not Vatican City"
+ },
+ "p430283ffa7": {
+  "accept": false,
+  "reason": "wrong country: Nespresso shop in central Rome (camera 41.904, 12.482); name also cut at the left edge"
+ },
+ "p4ae3d67097": {
+  "accept": false,
+  "reason": "wrong country: Via Frattina shopping street in central Rome (camera 41.904, 12.482)"
+ },
+ "p58cf8c1284": {
+  "accept": false,
+  "reason": "wrong country and advertising: university advert banner in Rome (camera 41.9024, 12.4609, east of the Vatican)"
+ },
+ "p9cd3baf886": {
+  "accept": false,
+  "reason": "wrong country: Campo de' Fiori market kiosk in Rome (camera 41.896, 12.472); only 'ATM' / 'FRESH WATER COLD DRINKS'"
+ },
+ "pb61d1c4bab": {
+  "accept": false,
+  "reason": "wrong country (Trastevere, Rome) and no sign: stone wall with stickers"
+ },
+ "pc4a2e0b80d": {
+  "accept": false,
+  "reason": "wrong country: 'PIAZZA DI S. CALISTO' plate (Rione XIII Trastevere) is a Rome street; Palazzo San Callisto is Holy See property but the square is in Italy (camera 41.889, 12.471)"
+ }
+}

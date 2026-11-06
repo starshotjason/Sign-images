@@ -1,0 +1,306 @@
+{
+ "pe404e5ce50": {
+  "accept": false,
+  "reason": "prohibition/CCTV warning sign (No Skateboarding, No Bicycle Riding...), names no place"
+ },
+ "c187137652": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "TRIQ SAN PIETRU",
+    "lang": "mt"
+   },
+   {
+    "text": "ST. PETER STREET",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Triq San Pietru",
+   "type": "street"
+  },
+  "difficulty": "medium",
+  "notes": "Two bilingual Maltese/English ceramic plates with scrolled borders on a street corner in Mdina, seen at an angle. Target is the right plate (a thin rule separates the two lines). The left plate reads 'TRIQ L-IMĦAŻEN / MAGAZINES' STR.' (Ħ with double crossbar and Ż with dot, confirmed on zoom) and is a valid second street."
+ },
+ "c188950081": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "L-Università ta' Malta",
+    "lang": "mt"
+   }
+  ],
+  "expect": {
+   "query": "Università ta' Malta",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Gold lettering on the black door lintel of the University of Malta Valletta Campus. The apostrophe after 'ta' is drawn as a slanted grave-like stroke at the upper right of the 'a' (so it may OCR as 'tà' or 'ta`'); 'Università' has a true à."
+ },
+ "c188975552": {
+  "accept": true,
+  "reason": "",
+  "kind": "building tag",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "DAR L-EMIGRANT",
+    "lang": "mt"
+   }
+  ],
+  "expect": {
+   "query": "Dar l-Emigrant",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Raised serif letters on the stone frieze of a government building (Emigrants' Commission) in Valletta, shot from below against a blue sky."
+ },
+ "c189221640": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "TRIQ",
+    "lang": "mt"
+   },
+   {
+    "text": "SANT ANNA",
+    "lang": "mt"
+   }
+  ],
+  "expect": {
+   "query": "Triq Sant'Anna",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Valletta white enamel street plate with the city crest and tiny 'VALLETTA Città Umilissima' text at the left (not transcribed). No apostrophe is printed between SANT and ANNA (official name Triq Sant'Anna). Balconies are background."
+ },
+ "c187514117": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Merħba",
+    "lang": "mt"
+   },
+   {
+    "text": "Welcome",
+    "lang": "en"
+   },
+   {
+    "text": "MUŻA",
+    "lang": "mt"
+   },
+   {
+    "text": "The National Community",
+    "lang": "en"
+   },
+   {
+    "text": "Art Museum",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "MUŻA",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Teal welcome banner at the MUŻA art museum, Valletta. 'Merħba' has ħ, 'MUŻA' has Ż."
+ },
+ "c118301738": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "TREJQET",
+    "lang": "mt"
+   },
+   {
+    "text": "SAN PIETRU",
+    "lang": "mt"
+   }
+  ],
+  "expect": {
+   "query": "Trejqet San Pietru",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Ħamrun ceramic street plate with the red local-council shield (its tiny 'ĦAMRUN' label is partly hidden and not transcribed); slight upward angle."
+ },
+ "c118301739": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "TREJQET",
+    "lang": "mt"
+   },
+   {
+    "text": "SANT'ANNA",
+    "lang": "mt"
+   }
+  ],
+  "expect": {
+   "query": "Trejqet Sant'Anna",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Ħamrun ceramic street plate with the red council shield (tiny shield label 'HAMRUN' not counted); a white cable crosses the left edge. Same plate style as c118301738 but a different street."
+ },
+ "c118301750": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "TRIQ",
+    "lang": "mt"
+   },
+   {
+    "text": "IN-NAZZARENU",
+    "lang": "mt"
+   }
+  ],
+  "expect": {
+   "query": "Triq in-Nazzarenu",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Modern Ħamrun ceramic plate. Below it an old painted sign is a faded distractor: 'NAZARENE S[T]' (English) over 'TRIQ IN-NAZ...' with letters flaking off."
+ },
+ "c118301752": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "TRIQ",
+    "lang": "mt"
+   },
+   {
+    "text": "SANT'ANTNIN",
+    "lang": "mt"
+   }
+  ],
+  "expect": {
+   "query": "Triq Sant'Antnin",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Frontal Ħamrun ceramic street plate with the red council shield (tiny 'HAMRUN' label on the shield not counted). Same series as c118301738/39/50 but a different street."
+ },
+ "c145040830": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "PUNIC TOMB",
+    "lang": "en"
+   },
+   {
+    "text": "QABAR PUNIKU",
+    "lang": "mt"
+   }
+  ],
+  "expect": {
+   "query": "Punic Tomb",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Heritage-trail interpretation panel for the Xemxija Punic Tomb. Only the two titles are labelled: 'PUNIC TOMB' is sun-faded pale blue (hard to read), 'QABAR PUNIKU' white on grey. Top-right council block 'KUNSILL LOKALI / SAN PAWL IL-BAHAR' (the H shows no bar at this resolution). The English and Maltese body paragraphs and the EU funding footer are not transcribed."
+ },
+ "c145042284": {
+  "accept": false,
+  "reason": "commemorative restoration plaque (Proġett ta' Restawr ... inaugurated by the mayor, 1999); not a place name"
+ },
+ "c145157981": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "IĊ-ĊIRKU TAL-ĠEBEL",
+    "lang": "mt"
+   },
+   {
+    "text": "TAĊ-ĊITTADELLA",
+    "lang": "mt"
+   },
+   {
+    "text": "CITADEL STONE CIRCLE",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Citadel Stone Circle",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Bilingual heritage panel in the Cittadella, Victoria (Gozo). Labelled lines are the Maltese title (Ċ and Ġ with dots, confirmed on zoom) and the English title. Body paragraphs, 'Cultural Heritage Directorate' and 'GOVERNMENT OF MALTA / MINISTRY FOR GOZO' logos and EU footer are not transcribed."
+ },
+ "c25914279": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "PJAZZETTA",
+    "lang": "mt"
+   },
+   {
+    "text": "BEATA MARIA ADEODATA PISANI",
+    "lang": "mt"
+   }
+  ],
+  "expect": {
+   "query": "Pjazzetta Beata Maria Adeodata Pisani",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Ceramic square-name plate with a scrolled blue border on a limestone corner in Mdina; blurred balcony in the background."
+ }
+}

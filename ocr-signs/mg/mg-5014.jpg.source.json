@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=7819e9e2-e20b-44f2-8f8c-1d1a73539c6a",
+  "original_url": "https://panoramax.openstreetmap.fr/images/78/19/e9/e2/e20b-44f2-8f8c-1d1a73539c6a.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "Eric S",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture 7819e9e2-e20b-44f2-8f8c-1d1a73539c6a (Antananarivo, 2009-08-13)",
+  "description": "Street-level picture taken 2009-08-13 near Antananarivo by Eric S, sequence 3069750e-f1ba-4953-97fd-3185ed00e949, heading 93. OCR (PP-OCRv3) read: CHAMBRE DE COMMERCE | D'INDUSTRIE ET DAGRICULTURE | ASSOCIATION FANIRY LANDY | .Vente-ExpositionProduits artisanaux | Mode en Soie | .Defile de mode | 13-14-15Aout2009 | Ateliers | DLETTELALANSHANA | UNAVENEMELLEUR",
+  "date": "2009-08-13",
+  "categories": [],
+  "camera_location": [
+    -18.90999067,
+    47.52599733
+  ],
+  "found_by": "panoramax-ocr:Antananarivo",
+  "bytes": 210880,
+  "width": 1280,
+  "height": 960,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/78/19/e9/e2/e20b-44f2-8f8c-1d1a73539c6a.jpg",
+  "derivative": "whole 1280x960 HD picture as served by the Panoramax instance (byte-identical; the instance blurs faces and number plates), not cropped"
+}

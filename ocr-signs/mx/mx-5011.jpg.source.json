@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/475437/208/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlNC5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE3LzYvMjkvcHJvYy80NzU0MzdfM2M3MDJfMTcuanBn",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "Noe_Sevilla",
+  "credit_as_published": "KartaView user Noe_Sevilla (user id 380); © KartaView contributors",
+  "title": "KartaView photo 52569436, sequence 475437 #208 (Mexico City, 2017-06-28)",
+  "description": "Street-level picture on KartaView, taken 2017-06-28 near Mexico City by Noe_Sevilla, sequence 475437, heading 230.63. OCR (PP-OCRv3) read: Junco",
+  "date": "2017-06-28",
+  "categories": [],
+  "camera_location": [
+    19.430952,
+    -99.133331
+  ],
+  "found_by": "kartaview-ocr:Mexico City",
+  "bytes": 319107,
+  "width": 2160,
+  "height": 1620,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlNC5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE3LzYvMjkvcHJvYy80NzU0MzdfM2M3MDJfMTcuanBn",
+  "derivative": "crop 1680,0,3840,1620 of the 3840x2160 full-size processed (blurred) picture"
+}

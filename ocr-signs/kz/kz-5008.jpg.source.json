@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/6330713/97/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMi8xMS8xNC9wcm9jLzYzMzA3MTNfYzMyNmJfNjM3MjU4NTg1M2E2MS5qcGc",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "seven",
+  "credit_as_published": "KartaView user seven (user id 10951); © KartaView contributors",
+  "title": "KartaView photo 1650089625, sequence 6330713 #97 (Almaty, 2022-11-12)",
+  "description": "Street-level picture on KartaView, taken 2022-11-12 near Almaty by seven, sequence 6330713, heading 270. OCR (PP-OCRv3) read: MAHAC | ynMAHACA | [unread] CAWHKBU | [unread] XnCAWHA | ALA.CARS",
+  "date": "2022-11-12",
+  "categories": [],
+  "camera_location": [
+    43.240457,
+    76.916154
+  ],
+  "found_by": "kartaview-ocr:Almaty",
+  "bytes": 186658,
+  "width": 1200,
+  "height": 900,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMi8xMS8xNC9wcm9jLzYzMzA3MTNfYzMyNmJfNjM3MjU4NTg1M2E2MS5qcGc",
+  "derivative": "crop 1990,75,3190,975 of the 3264x1836 full-size processed (blurred) picture"
+}

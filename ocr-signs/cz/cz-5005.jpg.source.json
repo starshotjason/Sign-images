@@ -1,0 +1,39 @@
+{
+  "source": "flickr",
+  "source_url": "https://www.flickr.com/photos/37996580417@N01/45646579322",
+  "original_url": "https://live.staticflickr.com/1959/45646579322_00d54fa95b_o.jpg",
+  "license_as_published": "CC BY-SA 2.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/2.0/",
+  "author_as_published": "gruntzooki",
+  "credit_as_published": "\"TV and Internet shop, Prague, Czech Republic\" by gruntzooki is licensed under CC BY-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.0/.",
+  "title": "TV and Internet shop, Prague, Czech Republic",
+  "description": "",
+  "date": "",
+  "categories": [
+    "cezchrepublic",
+    "crapgadgets",
+    "czech",
+    "czechia",
+    "prague",
+    "praha",
+    "sign",
+    "signs"
+  ],
+  "camera_location": null,
+  "found_by": "openverse:Czech Republic shop sign",
+  "bytes": 208194,
+  "width": 1024,
+  "height": 768,
+  "downloaded_url": "https://api.openverse.org/v1/images/e7e44d08-d12f-4af3-bcfe-954eb012e403/thumb/?full_size=true&compressed=false",
+  "derivative": "Flickr's published 1024 px 'large' rendition, served by the Openverse image API (Flickr originals were throttled for this client)",
+  "flickr": {
+    "flickr_url": "https://www.flickr.com/photos/37996580417@N01/45646579322",
+    "flickr_license": "CC BY-SA 2.0",
+    "lat": null,
+    "lon": null,
+    "original_url": "https://live.staticflickr.com/1959/45646579322_00d54fa95b_o.jpg",
+    "flickr_license_code": 5,
+    "retrieved": "2026-11-06T05:25:29.890512+00:00"
+  },
+  "openverse_id": "e7e44d08-d12f-4af3-bcfe-954eb012e403"
+}

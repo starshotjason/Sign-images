@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=63bff90a-909d-4a95-a8e6-3ec5b9148e74",
+  "original_url": "https://panoramax.openstreetmap.fr/images/63/bf/f9/0a/909d-4a95-a8e6-3ec5b9148e74.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "mapeadora",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture 63bff90a-909d-4a95-a8e6-3ec5b9148e74 (Bogota, 2026-01-24)",
+  "description": "Street-level picture taken 2026-01-24 near Bogota by mapeadora, sequence e44a551d-72d2-4680-80dd-f7e7f69ac690, heading 265. OCR (PP-OCRv3) read: CLINICA | DONTOLOGC",
+  "date": "2026-01-24",
+  "categories": [],
+  "camera_location": [
+    4.6003155,
+    -74.0738796
+  ],
+  "found_by": "panoramax-ocr:Bogota",
+  "bytes": 386558,
+  "width": 1632,
+  "height": 1224,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/63/bf/f9/0a/909d-4a95-a8e6-3ec5b9148e74.jpg",
+  "derivative": "crop 1808,0,3440,1224 of the 4096x1844 HD picture"
+}

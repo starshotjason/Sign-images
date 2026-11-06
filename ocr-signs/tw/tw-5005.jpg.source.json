@@ -1,0 +1,27 @@
+{
+  "source": "tcmb",
+  "source_url": "https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Place&id=332075",
+  "original_url": "https://dcm.s3.hicloud.net.tw/new/collectionOpen/2020-03-09/2d0da937-e4cc-4170-97eb-e2e8c8b11a4c/810e6f53-877b-4adc-a265-38b4818c929c.jpg",
+  "license_as_published": "CC BY",
+  "license_url_as_published": "https://creativecommons.org/licenses/by/3.0/tw/",
+  "author_as_published": "苗栗縣政府文化觀光局",
+  "credit_as_published": "苗栗縣政府文化觀光局, 國家文化記憶庫 Taiwan Cultural Memory Bank, CC BY",
+  "title": "造橋車站建築",
+  "description": "位於臺灣鐵路山線的造橋車站，現在的站房建築已是第二代。車站站房在明治36（1903）年初設時僅是一個木造小站，大小與形式類似於現在保存的談文火車站，當時此區周圍並沒有任何民宅建築。然而隨著木造站房在昭和10（1935）年的關刀山大地震中毀損，造橋車站在原站址重新建設，為全臺灣地區第一座混凝土平頂建築。 造橋車站建築設計與同時因震受損的銅鑼、清水，以及同期改建的橋頭、二水等車站一般，屬昭和11（1936）年鐵路建築標準型。長方形格局僅以迴廊、廊柱簡單修飾，大廳挑高設有採光玻璃窗，線條簡單優美。車站隨著降為無人售票的招呼站褪去繁華，然而承載八十餘載歲月的建築，已是地方獨特的文化資產。",
+  "date": null,
+  "categories": [
+    "空間、地域與遷徙",
+    "山線",
+    "混凝土平頂建築",
+    "造橋車站",
+    "關刀山大地震",
+    "鐵路建築標準型"
+  ],
+  "camera_location": null,
+  "found_by": "tcmb-opendata:dataSet/culture title/keyword match '車站'; rapidocr pre-screen read ['舍造橋车站', 'Zaoqiao Station']; visually reviewed",
+  "bytes": 4471244,
+  "width": 3508,
+  "height": 2339,
+  "downloaded_url": "https://tcmb.culture.tw/imagor/filters:raw()/https%3A%2F%2Fdcm.s3.hicloud.net.tw%2Fnew%2FcollectionOpen%2F2020-03-09%2F2d0da937-e4cc-4170-97eb-e2e8c8b11a4c%2F810e6f53-877b-4adc-a265-38b4818c929c.jpg",
+  "derivative": ""
+}

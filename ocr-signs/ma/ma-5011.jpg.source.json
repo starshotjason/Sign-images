@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/1174009/401/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlNy5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE4LzUvMS9wcm9jLzExNzQwMDlfMmU0MDVfNDAxLmpwZw",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "kaartcam",
+  "credit_as_published": "KartaView user kaartcam (user id 13565); © KartaView contributors",
+  "title": "KartaView photo 236826581, sequence 1174009 #401 (Casablanca, 2018-04-13)",
+  "description": "Street-level picture on KartaView, taken 2018-04-13 near Casablanca by kaartcam, sequence 1174009, heading 315. OCR (PP-OCRv3) read: VEA VENETO | Boutigue | [unread] Ven Yemeto",
+  "date": "2018-04-13",
+  "categories": [],
+  "camera_location": [
+    33.589206,
+    -7.613737
+  ],
+  "found_by": "kartaview-ocr:Casablanca",
+  "bytes": 809011,
+  "width": 2244,
+  "height": 1683,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlNy5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE4LzUvMS9wcm9jLzExNzQwMDlfMmU0MDVfNDAxLmpwZw",
+  "derivative": "crop 0,0,2244,1683 of the 3072x1728 full-size processed (blurred) picture"
+}

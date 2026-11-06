@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.multimodall.com/#focus=pic&pic=696c06ee-8536-4589-8ebd-dc2b4cbc4618",
+  "original_url": "https://panoramax.multimodall.com/api/pictures/696c06ee-8536-4589-8ebd-dc2b4cbc4618/hd.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "km2bp",
+  "credit_as_published": "Panoramax, instance multimodall (https://panoramax.multimodall.com)",
+  "title": "Panoramax picture 696c06ee-8536-4589-8ebd-dc2b4cbc4618 (Oslo, 2020-05-17)",
+  "description": "Street-level picture on Panoramax, taken 2020-05-17 near Oslo by km2bp, sequence 23dfaf04-8cf1-458c-8d1e-fef289f45430, heading 259. OCR (PP-OCRv3) read: WELHAVEN-MONUMENTET | Billedhugger Gunnar Utsond vanti 1903konkurransen om et monument over Johan Sebastian Welhaven i Christiania. | Monumentet, som ble avduketi1908, ble bekostet ved en testamentarisk gave fra dr.med.Torstein Bryn samt midler fra | Benneches legat til norsk kunst.Monumentet er plassert pa Briskeby naer Welhavens tidligere bolig i Skovveien.Monumentet | bestar av en bronsestatue pa en sokkel av mange mindre granittblokker.Skulpturen ble stopt i bronse ved Drammen | Jernstoberi og Mek.Verksted. | Johan Sebastian Welhaven (1807-1873) | Johan Sebastian Welhaven star sentralt iforste halvdel av 1800-tallets norske litteratur.Han var romantiker med interesse for | estetikk,dyrket den rene sjangerog stite strenge krav tildikteriskform.Hans forste storre dikteriske bedrift var den polemiske | sonettesyklusen Norges Daemring (1834).11840 ble Welhaven konstituert som lektori filosofi ved Det Kgl.Frederiks Universiteti | Christiania.Han blefast ansatt i1843,og ble professori1846.Ved siden av filosofi underviste han i litteraturhistorie. | Gunnar.Utsond(1864-1950)",
+  "date": "2020-05-17",
+  "categories": [],
+  "camera_location": [
+    59.919384,
+    10.719348
+  ],
+  "found_by": "panoramax-ocr:Oslo",
+  "bytes": 12284585,
+  "width": 4344,
+  "height": 5792,
+  "downloaded_url": "https://panoramax.multimodall.com/api/pictures/696c06ee-8536-4589-8ebd-dc2b4cbc4618/hd.jpg",
+  "derivative": "whole 4344x5792 HD picture as served by the Panoramax instance (byte-identical; the service blurs faces and number plates), not cropped"
+}

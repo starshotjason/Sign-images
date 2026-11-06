@@ -1,0 +1,118 @@
+{
+ "pf39d17aad8": {
+  "accept": false,
+  "reason": "generic bicycle-parking sign ('P / BICICLETA'); no place name"
+ },
+ "c11514254": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ESCUELA BASICA",
+    "lang": "es"
+   },
+   {
+    "text": "LA GINA DEL ISLEÑO",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Escuela Básica La Gina del Isleño",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Hand-painted name on the gable of a one-room school near Punta Cana. 'BASICA' is painted without an accent; ISLEÑO has Ñ."
+ },
+ "c200744895": {
+  "accept": false,
+  "reason": "'NO TOQUE BOCINA' no-horn warning sign; names no place"
+ },
+ "c200744901": {
+  "accept": false,
+  "reason": "'ZONA DE GRUA' tow-away warning sign; names no place"
+ },
+ "c22232794": {
+  "accept": false,
+  "reason": "a young girl on a balcony is a main subject of the photo (title names her); salon sign is secondary"
+ },
+ "c49583849": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "COLMADO",
+    "lang": "es"
+   },
+   {
+    "text": "SOL MIA",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Colmado Sol Mia",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Roadside grocery (colmado) sign on a bracket, upper left. Distractors: 'Foto 2x2' hand-painted on the yellow wall, a small 'BIENVENIDOS' board, vertical painted letters on the pillar."
+ },
+ "c49583860": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Presidente",
+    "lang": "es"
+   },
+   {
+    "text": "COLMADO",
+    "lang": "es"
+   },
+   {
+    "text": "HENRY",
+    "lang": "es"
+   },
+   {
+    "text": "GRANDE",
+    "lang": "es"
+   },
+   {
+    "text": "80",
+    "lang": "und"
+   },
+   {
+    "text": "JUMBO",
+    "lang": "es"
+   },
+   {
+    "text": "110",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "Colmado Henry",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Green beer-sponsored fascia: Presidente beer logo at left, shop name in the middle, beer prices (Grande 80, Jumbo 110) at right."
+ },
+ "c88134251": {
+  "accept": false,
+  "reason": "EV-charging/carpool parking pictograms and a car; no place name"
+ },
+ "c89773442": {
+  "accept": false,
+  "reason": "protest content: handwritten placard held by a demonstrator with painted face"
+ }
+}

@@ -1,0 +1,41 @@
+{
+  "source": "flickr",
+  "source_url": "https://www.flickr.com/photos/16405999@N00/2203808146",
+  "original_url": "https://live.staticflickr.com/2413/2203808146_4caa03fb39_o.jpg",
+  "license_as_published": "CC BY-SA 2.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/2.0/",
+  "author_as_published": "Bruno Girin",
+  "credit_as_published": "\"Road Sign\" by Bruno Girin is licensed under CC BY-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.0/.",
+  "title": "Road Sign",
+  "description": "",
+  "date": "",
+  "categories": [
+    "belgrad",
+    "bulgaria",
+    "cyrillic",
+    "kalotina",
+    "kulata",
+    "latin",
+    "pernik",
+    "road",
+    "sign",
+    "sofia"
+  ],
+  "camera_location": null,
+  "found_by": "openverse:Sofia sign",
+  "bytes": 224915,
+  "width": 1024,
+  "height": 683,
+  "downloaded_url": "https://api.openverse.org/v1/images/9e8d8e48-a8ee-4e3a-ad68-3e7a89e89633/thumb/?full_size=true&compressed=false",
+  "derivative": "Flickr's published 1024 px 'large' rendition, served by the Openverse image API (Flickr originals were throttled for this client)",
+  "flickr": {
+    "flickr_url": "https://www.flickr.com/photos/16405999@N00/2203808146",
+    "flickr_license": "CC BY-SA 2.0",
+    "lat": null,
+    "lon": null,
+    "original_url": "https://live.staticflickr.com/2413/2203808146_4caa03fb39_o.jpg",
+    "flickr_license_code": 5,
+    "retrieved": "2026-11-06T05:52:07.688287+00:00"
+  },
+  "openverse_id": "9e8d8e48-a8ee-4e3a-ad68-3e7a89e89633"
+}

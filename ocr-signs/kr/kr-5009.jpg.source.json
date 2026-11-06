@@ -1,0 +1,32 @@
+{
+  "source": "gongu",
+  "source_url": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13303279&menuNo=200018",
+  "original_url": "https://gongu.copyright.or.kr/gongu/wrt/cmmn/wrtFileDownload.do?wrtSn=13303279&fileSn=1",
+  "license_as_published": "CC BY",
+  "license_url_as_published": "https://creativecommons.org/licenses/by/4.0/",
+  "author_as_published": "유주영",
+  "credit_as_published": "유주영, 공유마당 (Gongu Madang, Korea Copyright Commission), CC BY 4.0",
+  "title": "양구 박수근미술관_002",
+  "description": "강원도 양구군립 박수근미술관의 석조 간판을 촬영한 사진이다.",
+  "date": "2018-09-18",
+  "categories": [
+    "강원도",
+    "사진",
+    "미술관",
+    "양구",
+    "박수근",
+    "풍경사진",
+    "보물찾기",
+    "국민저작물"
+  ],
+  "camera_location": [
+    38.0961111,
+    127.9822222
+  ],
+  "found_by": "gongu:listWrtImage searchWrd=간판 wrtTy=10006 (photo) licenseCd=21; visually reviewed",
+  "bytes": 5229465,
+  "width": 4032,
+  "height": 1960,
+  "downloaded_url": "https://gongu.copyright.or.kr/gongu/wrt/cmmn/wrtFileDownload.do?wrtSn=13303279&fileSn=1",
+  "derivative": ""
+}

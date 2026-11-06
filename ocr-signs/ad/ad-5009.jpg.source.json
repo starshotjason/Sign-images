@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/2846682/131/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMC84LzEvcHJvYy8yODQ2NjgyXzg0YzY5XzVmMjU0MmE3NzMxOWEuanBn",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "emilio-gomez",
+  "credit_as_published": "KartaView user emilio-gomez (user id 37738); © KartaView contributors",
+  "title": "KartaView photo 1025548126, sequence 2846682 #131 (Andorra la Vella, 2016-11-28)",
+  "description": "Street-level picture on KartaView, taken 2016-11-28 near Andorra la Vella by emilio-gomez, sequence 2846682, heading 251.85. OCR (PP-OCRv3) read: INYES | Bricolae | CarrerPratdelaCreu,46Andorrae | dedicats al mon del bricolatge | articlesdisponiblesal seuabast | RIFADE | DOSIPHONE",
+  "date": "2016-11-28",
+  "categories": [],
+  "camera_location": [
+    42.5069,
+    1.524466
+  ],
+  "found_by": "kartaview-ocr:Andorra la Vella",
+  "bytes": 774351,
+  "width": 3264,
+  "height": 1836,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMC84LzEvcHJvYy8yODQ2NjgyXzg0YzY5XzVmMjU0MmE3NzMxOWEuanBn",
+  "derivative": "whole 3264x1836 full-size processed (blurred) picture as served by the KartaView CDN (byte-identical; the service blurs faces and number plates), not cropped"
+}

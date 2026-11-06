@@ -1,0 +1,158 @@
+{
+ "c138601288": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "TRIBUNAL",
+    "lang": "pt"
+   },
+   {
+    "text": "DE",
+    "lang": "pt"
+   },
+   {
+    "text": "RECURSO",
+    "lang": "pt"
+   }
+  ],
+  "expect": {
+   "query": "Tribunal de Recurso",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Dili. Weathered concrete name board with raised metal letters and a scales-of-justice crest, set into the gate fence of the Court of Appeal. Letters are grey on grey with low contrast and cast shadows."
+ },
+ "c139032240": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "POLÍCIA NACIONAL DE TIMOR LESTE",
+    "lang": "pt"
+   },
+   {
+    "text": "COMANDO MUNICIPIO DE DILI",
+    "lang": "pt"
+   },
+   {
+    "text": "Rua: Palácio das Cinzas - Caicoli, Dili, Tel :",
+    "lang": "pt"
+   }
+  ],
+  "expect": {
+   "query": "Polícia Nacional de Timor Leste Comando Município de Dili",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Caicoli, Dili. Blue name board on the compound wall, small in the frame and slightly soft. No accent is discernible on MUNICIPIO. The phone number after 'Tel :' looks like 3311380 but is too blurred to confirm, so it is left out. Badge above reads 'POLICIA NACIONAL' (tiny). A parked SUV with plate in the foreground is incidental, not the subject."
+ },
+ "c141518502": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "POLÍCIA NACIONAL TIMOR LESTE",
+    "lang": "pt"
+   },
+   {
+    "text": "COMANDO GERAL",
+    "lang": "pt"
+   }
+  ],
+  "expect": {
+   "query": "Polícia Nacional de Timor-Leste Comando Geral",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Caicoli, Dili. Raised metal letters over the gate of the PNTL General Command; the upper line has no 'DE' and is crossed by overhead cables (the M of TIMOR is stylised and can read as 'IVI'). Shadows double the letter outlines. Small number plate '38' on the gate pillar."
+ },
+ "c141518503": {
+  "accept": false,
+  "reason": "near-duplicate of c141518502 (same PNTL Comando Geral gate sign, slightly wider view)"
+ },
+ "c8560318": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "HERA POLICE",
+    "lang": "en"
+   },
+   {
+    "text": "SUB-STATION",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Hera",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Hera, east of Dili (2009, UN mission era). Blue hanging sign with UN and PNTL emblems. Distractors: graffiti on the corrugated fence ('CHO WAT GIRL' etc.), a marker stone 'IOP DEPCC November 2005', 'UN POLICE' on the parked vehicles."
+ },
+ "c75415838": {
+  "accept": false,
+  "reason": "only a Ramadan greeting banner and a road-works project board (location 'Cruzamento Aitarak Laran-Mesjid An'Nur-KBRI Roads'); no name board for the mosque itself"
+ },
+ "c55131923": {
+  "accept": false,
+  "reason": "a person (Hillary Clinton signing a coffee sack) is the subject; no place sign"
+ },
+ "c27947937": {
+  "accept": false,
+  "reason": "a sailor signing autographs for children is the subject; no sign"
+ },
+ "c39376910": {
+  "accept": false,
+  "reason": "a Marine signing autographs for children is the subject; no sign"
+ },
+ "c140596547": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ELECTRICIDADE DE TIMOR-LESTE",
+    "lang": "pt"
+   },
+   {
+    "text": "EMPRESA PÚBLICA",
+    "lang": "pt"
+   },
+   {
+    "text": "EDTL, E.P.",
+    "lang": "pt"
+   },
+   {
+    "text": "1º Andar, Edificio Central de Caicoli, Av. Martires de Patria, Dili, Timor-Leste",
+    "lang": "pt"
+   }
+  ],
+  "expect": {
+   "query": "Electricidade de Timor-Leste",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Caicoli, Dili. Yellow name board between white posts, small in a wide shady photo (fence and tree in the foreground). The address strip is small; its first word is '1º Andar' (the ordinal mark is tiny), and the accents in Edifício/Mártires/Pátria are absent on the sign. Parked cars incidental."
+ }
+}

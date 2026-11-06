@@ -1,0 +1,32 @@
+{
+  "source": "flickr",
+  "source_url": "https://www.flickr.com/photos/41980486@N07/51390689281",
+  "original_url": "https://live.staticflickr.com/65535/51390689281_a7dd6cbf34_o.jpg",
+  "license_as_published": "CC BY 2.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by/2.0/",
+  "author_as_published": "Sharon Hahn Darlin",
+  "credit_as_published": "\"(Metro station), Sofia, Bulgaria\" by Sharon Hahn Darlin is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/.",
+  "title": "(Metro station), Sofia, Bulgaria",
+  "description": "",
+  "date": "",
+  "categories": [
+    "centralrailwaystation"
+  ],
+  "camera_location": null,
+  "found_by": "openverse:гара Bulgaria",
+  "bytes": 159955,
+  "width": 1024,
+  "height": 768,
+  "downloaded_url": "https://api.openverse.org/v1/images/9895f8eb-47c4-4a1d-b816-0e1df6013c45/thumb/?full_size=true&compressed=false",
+  "derivative": "Flickr's published 1024 px 'large' rendition, served by the Openverse image API (Flickr originals were throttled for this client)",
+  "flickr": {
+    "flickr_url": "https://www.flickr.com/photos/41980486@N07/51390689281",
+    "flickr_license": "CC BY 2.0",
+    "lat": null,
+    "lon": null,
+    "original_url": "https://live.staticflickr.com/65535/51390689281_a7dd6cbf34_o.jpg",
+    "flickr_license_code": 4,
+    "retrieved": "2026-11-06T05:51:56.225738+00:00"
+  },
+  "openverse_id": "9895f8eb-47c4-4a1d-b816-0e1df6013c45"
+}

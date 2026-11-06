@@ -1,0 +1,344 @@
+{
+ "c87834549": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "SSR BOTANIC GARDEN",
+    "lang": "en"
+   },
+   {
+    "text": "PAMPLEMOUSSES",
+    "lang": "en"
+   },
+   {
+    "text": "MAURITIUS",
+    "lang": "en"
+   },
+   {
+    "text": "Avenue",
+    "lang": "fr"
+   },
+   {
+    "text": "Sir John Pope Hennessy",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "Avenue Sir John Pope Hennessy",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Garden-path name plate on a post in the Sir Seewoosagur Ramgoolam Botanical Garden, Pamplemousses; garden logo and small header above the avenue name."
+ },
+ "c87863491": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "SSR BOTANIC GARDEN",
+    "lang": "en"
+   },
+   {
+    "text": "PAMPLEMOUSSES",
+    "lang": "en"
+   },
+   {
+    "text": "MAURITIUS",
+    "lang": "en"
+   },
+   {
+    "text": "Avenue",
+    "lang": "fr"
+   },
+   {
+    "text": "Charles J. Meller",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "Avenue Charles J. Meller",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Same plate design as c87834549 but a different avenue; close-up, very sharp."
+ },
+ "c87794164": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "SSR BOTANIC GARDEN",
+    "lang": "en"
+   },
+   {
+    "text": "PAMPLEMOUSSES",
+    "lang": "en"
+   },
+   {
+    "text": "MAURITIUS",
+    "lang": "en"
+   },
+   {
+    "text": "Avenue",
+    "lang": "fr"
+   },
+   {
+    "text": "Thomas H. Huxley",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "Avenue Thomas Henry Huxley",
+   "type": "street"
+  },
+  "difficulty": "medium",
+  "notes": "Wet, slightly cracked plate; a palm frond crosses the right side and 'MAURITIUS' is faint. Sign abbreviates Henry to 'H.'."
+ },
+ "c87819838": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "SSR BOTANIC GARDEN",
+    "lang": "en"
+   },
+   {
+    "text": "PAMPLEMOUSSES",
+    "lang": "en"
+   },
+   {
+    "text": "MAURITIUS",
+    "lang": "en"
+   },
+   {
+    "text": "Avenue",
+    "lang": "fr"
+   },
+   {
+    "text": "Étienne F. Le Juge",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "Avenue Étienne F. Le Juge",
+   "type": "street"
+  },
+  "difficulty": "medium",
+  "notes": "Partly faded lettering (the middle of 'Étienne F. Le' is washed out); accent on É is present."
+ },
+ "c158859638": {
+  "accept": false,
+  "reason": "pictogram (don't sit on turtles), no text"
+ },
+ "c24279556": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "la vallée de ferney",
+    "lang": "fr"
+   },
+   {
+    "text": "FOREST AND WILDLIFE RESERVE",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Vallée de Ferney",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Roadside board in a log frame with bird logo and an arrow panel below; name is all lower case. Photographer watermark 'CARROTMADMAN6' tiny in the corner only."
+ },
+ "c74913499": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Sit Patrimwann Mondial",
+    "lang": "mfe"
+   },
+   {
+    "text": "Peizaz Kiltirel",
+    "lang": "mfe"
+   },
+   {
+    "text": "Le Morne",
+    "lang": "mfe"
+   },
+   {
+    "text": "Respekte Li",
+    "lang": "mfe"
+   }
+  ],
+  "expect": {
+   "query": "Le Morne",
+   "type": "place"
+  },
+  "difficulty": "easy",
+  "notes": "Brown heritage-site board in Mauritian Creole (World Heritage Site, Le Morne Cultural Landscape, respect it). Small UNESCO and Le Morne Heritage Trust Fund logos at bottom left. lang mfe = Morisyen (no ISO 639-1 code)."
+ },
+ "c24279579": {
+  "accept": false,
+  "reason": "trespass warning notice (Airports of Mauritius), no place name as target"
+ },
+ "c65951362": {
+  "accept": true,
+  "reason": "",
+  "kind": "hard",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "allée d'Osterlog Endemic Ga",
+    "lang": "en"
+   },
+   {
+    "text": "Welcome",
+    "lang": "en"
+   },
+   {
+    "text": "Bienvenue",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "Vallée d'Osterlog",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Weathered banner on a wooden frame in mid-distance, partly hidden by palms: the leading 'V' of Vallée and the end of 'Gardens' are covered by fronds (visible text transcribed). Opening-hours lines below are tiny."
+ },
+ "c72487831": {
+  "accept": true,
+  "reason": "",
+  "kind": "building tag",
+  "scripts": [
+   "Deva",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "विश्व हिंदी सचिवालय",
+    "lang": "hi",
+    "latin": "Vishv Hindi Sachivalay (World Hindi Secretariat)"
+   },
+   {
+    "text": "WORLD HINDI SECRETARIAT",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "World Hindi Secretariat",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Raised gold letters on a basalt wall at an angle, Phoenix; strong shadows behind the letters make the Devanagari third word harder. India/Mauritius flag-ribbon logo at left."
+ },
+ "c167952948": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "TROU",
+    "lang": "fr"
+   },
+   {
+    "text": "AUX",
+    "lang": "fr"
+   },
+   {
+    "text": "BICHES",
+    "lang": "fr"
+   },
+   {
+    "text": "Welcomes You",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Trou aux Biches",
+   "type": "place"
+  },
+  "difficulty": "easy",
+  "notes": "Painted blue village welcome sign with a beach/parasailing scene (2025). 'MAX SHOP' signs on buildings down the road are distractors."
+ },
+ "c24884920": {
+  "accept": false,
+  "reason": "multilingual interpretive text panel about the waterfall, not a name sign"
+ },
+ "c167951884": {
+  "accept": false,
+  "reason": "near-duplicate of c167952948 (same Trou aux Biches sign, wider view)"
+ },
+ "c25721587": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "TROU",
+    "lang": "fr"
+   },
+   {
+    "text": "AUX",
+    "lang": "fr"
+   },
+   {
+    "text": "BICHES",
+    "lang": "fr"
+   },
+   {
+    "text": "WELCOMES",
+    "lang": "en"
+   },
+   {
+    "text": "YOU",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Trou aux Biches",
+   "type": "place"
+  },
+  "difficulty": "easy",
+  "notes": "Older (2013) white welcome board with blue and orange letters, a different physical sign from c167952948."
+ },
+ "f9606b88a-d4be-4a23-b1d7-66214f9c6fc2": {
+  "accept": false,
+  "reason": "generic SORTIE/EXIT direction sign, no place name"
+ }
+}

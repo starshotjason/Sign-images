@@ -1,0 +1,432 @@
+{
+  "k272963317": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn",
+      "Hani"
+    ],
+    "lines": [
+      {
+        "text": "DELIGHT",
+        "lang": "en"
+      },
+      {
+        "text": "VISION",
+        "lang": "en"
+      },
+      {
+        "text": "International Optical LLC",
+        "lang": "en"
+      },
+      {
+        "text": "国际眼镜城",
+        "lang": "zh",
+        "latin": "Guoji Yanjing Cheng (International Eyeglasses City)"
+      }
+    ],
+    "expect": {
+      "query": "Delight Vision International Optical",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Deira, Dubai. Blue angled fascia: small 'DELIGHT VISION / International Optical LLC' at left, large simplified-Chinese name, red Arabic at the right cut off by the frame (not transcribed). Below it a second sign 'OPTICAL CENTE[R] / DELIGHT VISION INT'L OPTICAL' (cut at right) with Arabic; 'SPORT ZONE', 'MEGA CLASSIC L.L.C', 'Optical' glasses sign and hotel banners are distractors."
+  },
+  "k46507909": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "ADEN RESTAURANT FOR MANDI , MADHBI & MADG",
+        "lang": "en"
+      },
+      {
+        "text": "Tel.: 04 235 4444",
+        "lang": "und"
+      }
+    ],
+    "expect": {
+      "query": "Aden Restaurant",
+      "type": "poi"
+    },
+    "difficulty": "hard",
+    "notes": "Long fascia, strongly angled and backlit; the English line is cut by a red saffron sign after 'MADG…' (the dish name continues). The large Arabic line above (مطعم عدن للمندي …) is cut/blurred and not transcribed. A small hanging sign at left repeats 'ADEN / RESTAURANT / for MANDI' with Arabic. Saffron shop signs ('GOLPEECH SAFFRON', 'Na…') at right and 'Bank of Baroda' rooftop sign far left are distractors."
+  },
+  "k1648640921": {
+    "accept": true,
+    "reason": "",
+    "kind": "hard",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "AL SAHA WA AL SHIFA HOSPITAL",
+        "lang": "en"
+      },
+      {
+        "text": "YASMED",
+        "lang": "en"
+      },
+      {
+        "text": "AL SAHA WA AL",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Al Saha Wa Al Shifa Hospital",
+      "type": "poi"
+    },
+    "difficulty": "hard",
+    "notes": "Rolla area, Sharjah. Blue/white hospital banner wrapping a building corner: small left panel with Arabic (مستشفى الصحة والشفاء …, last word partly hidden by a lamp post) over 'AL SAHA WA AL SHIFA HOSPITAL' (pole crosses 'HOSPITAL'), YASMED logo in the middle, large 'AL SAHA WA AL…' cut by the right frame edge. Distractors: 'GYM', 'du AL BARASHI MOBILE PHONE TRADING', 'Ye Kobra CAFE', 'gulf'ate HAIR FIXING', 'ROLLA MALL', 'FOR RENT SHOP & OFFICES' with phone numbers, 'REYAS' at far left."
+  },
+  "k1515745529": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "isport",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "isport",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Deira, Dubai. Black logo panel on a white shop sign, written 'isport' with a stylised i; a tiny line of text under it is illegible. Distractors: '…LINE / …ES TRADING L.L.C' red sign cut at top-left, 'Slugger', 'CITISON', 'MARC', a vertical '…MAS HOTEL' sign far down the street. Faces blurred."
+  },
+  "k272963343": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "باز خان وشاه وزير",
+        "lang": "ar",
+        "latin": "Baz Khan wa Shah Wazir"
+      },
+      {
+        "text": "BAZ KHAN AND SHAH WAZIR",
+        "lang": "en"
+      },
+      {
+        "text": "TRADING L.L.C",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Baz Khan and Shah Wazir Trading",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Purple bag-shop sign under an arcade, Deira; luggage pictures along the bottom. Small Arabic words before/after the name (company-type tags) are not legible. Distractors: pink 'MAHM…' sign cut at right, 'QUALITY LINE WATCHES', red Arabic hypermarket sign, 'TEXAS تكساس', 'Khadeeja Palace', a small street sign with number 118."
+  },
+  "k46507932": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "الطريق السريع لتأجير مواقف السيارات (ش.ذ.م.م)",
+        "lang": "ar",
+        "latin": "at-Tariq as-Sari' li-Ta'jir Mawaqif as-Sayyarat (Sh.Dh.M.M) (Al Tareeq Al Sareea Car Park Rental LLC)"
+      },
+      {
+        "text": "AL TAREEQ AL SAREEA",
+        "lang": "en"
+      },
+      {
+        "text": "CAR PARK RENTAL L.L.C",
+        "lang": "en"
+      },
+      {
+        "text": "الساعه و جزء ساعة ١٥ درهم",
+        "lang": "ar",
+        "latin": "as-sa'a wa juz' sa'a 15 dirham (hour or part of an hour 15 dirhams)"
+      },
+      {
+        "text": "ENTRY 1 HOURS 15 DHS",
+        "lang": "en"
+      },
+      {
+        "text": "50-8834529 - 050-2809366",
+        "lang": "und"
+      }
+    ],
+    "expect": {
+      "query": "Al Tareeq Al Sareea Car Park",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Blue car-park sign with a large white P on a kiosk, Dubai. Left edge of the first phone number is cut ('…50-8834529'). Arabic 'الساعه' is written with ه as on the sign. Hotel-apartment signs on buildings behind are distractors."
+  },
+  "k41524820": {
+    "accept": true,
+    "reason": "",
+    "kind": "hard",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "Dubai Islamic Ba",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Dubai Islamic Bank",
+      "type": "poi"
+    },
+    "difficulty": "hard",
+    "notes": "Sharjah branch: green lettering on a white fascia over arched green windows, cut by the right frame edge after 'Ba' (Bank). Angled from below."
+  },
+  "k41524850": {
+    "accept": true,
+    "reason": "",
+    "kind": "building tag",
+    "scripts": [
+      "Latn",
+      "Arab"
+    ],
+    "lines": [
+      {
+        "text": "OMRAN TOWER",
+        "lang": "en"
+      },
+      {
+        "text": "عمران بلازا",
+        "lang": "ar",
+        "latin": "'Umran Plaza"
+      },
+      {
+        "text": "OMRAN PLAZA",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Omran Tower",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Sharjah: gold raised letters on two adjoining buildings, 'OMRAN TOWER' on the right block and the smaller bilingual 'OMRAN PLAZA' on the left. 'OFFICE / TEL' window lettering, a phone-number plate and a bank logo are distractors."
+  },
+  "k272963399": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "ابو الفضل للتجارة",
+        "lang": "ar",
+        "latin": "Abu al-Fadl lil-Tijara (Abul Fazl Trading)"
+      },
+      {
+        "text": "ABUL FAZL TRADING L.L.C",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Abul Fazl Trading",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Deira tools street. Long fascia with AF logo; a small Arabic tag after التجارة is illegible. Side lightbox repeats 'ABUL FAZL / TRADING L.L.C' with 'Tel: +971 4 2229126' (last digit partly hidden) and 'www.abulfazl.com'. Distractors: 'Shark' battery sign with 'سنترال باور', 'ideal POWER TOOLS', 'Sipieng', vertical 'MOUNT ROYAL HOTEL', 'SAFINAT AL SAHRAA'."
+  },
+  "k1445276697": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "CENTRO",
+        "lang": "en"
+      },
+      {
+        "text": "by Rotana",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Centro by Rotana",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Abu Dhabi hotel name in blue outline letters on a louvred facade, Arabic name above it partly legible only. White direction sign at right (Federal Authority for Identity … Customer Happiness … Identity Services / Al Khalidiya الخالدية) is cut by the frame; 'talabat' delivery box and National Taxi livery are distractors."
+  },
+  "k1445277017": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "شارع هزاع بن زايد الأول",
+        "lang": "ar",
+        "latin": "Shari' Hazza' bin Zayid al-Awwal"
+      },
+      {
+        "text": "Hazza' Bin Zayed The First St",
+        "lang": "en"
+      },
+      {
+        "text": "11",
+        "lang": "und"
+      }
+    ],
+    "expect": {
+      "query": "Hazza' Bin Zayed The First St",
+      "type": "street"
+    },
+    "difficulty": "hard",
+    "notes": "Small blue Abu Dhabi street-name blade on a traffic-light arm, street number 11 in a white circle. A larger overhead sign at top-left is cut ('…ed The First St'); another small blade in the distance. Rider's face blurred; Nissan Kicks is a distractor."
+  },
+  "k1515745689": {
+    "accept": false,
+    "reason": "dim street scene with many partial shop signs (aerosoft STCA, Wahat Kashmir) and vehicle branding; same sequence as k1515745529"
+  },
+  "k46507889": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "SHAKER NEW",
+        "lang": "en"
+      },
+      {
+        "text": "CAFETERIA",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Shaker New Cafeteria",
+      "type": "poi"
+    },
+    "difficulty": "hard",
+    "notes": "Deira side street in deep shade; dark lightbox with food photos at both ends. Arabic line above (كافتيريا شاكر …) is too dark/blurred to transcribe exactly. Distractors: 'METAL PLANET General Trading LLC' sign above it, 'BHATKAL RESTAURANT' and 'NEW … GENERAL' signs on the right, 'Bank of Baroda' tower at the end of the street."
+  },
+  "k1439255945": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "AL WAHDA",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Al Wahda Mall",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Abu Dhabi: dark letters on the beige wall of Al Wahda Mall; the final A is partly hidden behind the adjoining wall/advert pole. The 'A GREAT LANDING PAGE' digital billboard and street-pole adverts are distractors."
+  },
+  "k1622044073": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "اياس للتجارة العامة",
+        "lang": "ar",
+        "latin": "Ayas lil-Tijara al-'Amma (Ayas General Trading)"
+      },
+      {
+        "text": "AYAS GENERAL TRADING",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Ayas General Trading",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Beige fascia above awnings in a Deira apartment block, shot at an angle from a moving car. Distractors: 'GENTLEMAN ZABIL حلاق زعبيل' barber sign at left, 'Al Omara Saloon' with moustache logo, 'QASWA TRAVEL' further along."
+  },
+  "f64263501-5db4-4c82-bbe6-1f44f1bcad6b": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "شارع سكة الخيل",
+        "lang": "ar",
+        "latin": "Shari' Sikkat al-Khayl"
+      },
+      {
+        "text": "Sikkat Al Khail Rd",
+        "lang": "en"
+      },
+      {
+        "text": "شارع البلدية القديم",
+        "lang": "ar",
+        "latin": "Shari' al-Baladiya al-Qadim (Old Baladiya Road)"
+      },
+      {
+        "text": "Old Baladiya Road",
+        "lang": "en"
+      },
+      {
+        "text": "المنطقة 112 COMMUNITY",
+        "lang": "und"
+      },
+      {
+        "text": "101 شارع Road",
+        "lang": "und"
+      }
+    ],
+    "expect": {
+      "query": "Sikkat Al Khail Rd",
+      "type": "street"
+    },
+    "difficulty": "easy",
+    "notes": "Two Dubai street-name blades on one pole at a Deira souk corner: blue 'Sikkat Al Khail Rd' (upper right) and dark-blue 'Old Baladiya Road' with community 112 / road 101 boxes (lower left). Red textile-shop fascia behind ('…WEA… TEXTILE TRADING. L.L.C' with yellow Arabic) is a distractor; people in the foreground are incidental."
+  },
+  "f106b1370-0194-474e-b766-4bfb7ecc8fae": {
+    "accept": false,
+    "reason": "indoor advertising panel in a brochure rack ('The best value ***** hotel in Abu Dhabi'), not a site sign"
+  }
+}

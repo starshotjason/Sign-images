@@ -1,0 +1,150 @@
+{
+ "c11157028": {
+  "accept": false,
+  "reason": "monumental arch carrying a political slogan ('CENTRAFRIQUE NOTRE PAYS / L'INTERET NATIONAL D'ABORD!'); no place name"
+ },
+ "c129897597": {
+  "accept": false,
+  "reason": "stencilled company name on a compound wall is ambiguous (first letter reads as E or B, the large letters are cut off at the right); cannot transcribe reliably"
+ },
+ "c131557247": {
+  "accept": false,
+  "reason": "internal department labels painted on a health-centre wall ('LABORATOIRE D'ANALYSE BIOMEDICALE', 'ACCUEIL_ORIENTATION'); no mappable name"
+ },
+ "c162186921": {
+  "accept": false,
+  "reason": "news photo of a 1972 signing ceremony; people are the subject, no sign"
+ },
+ "c20290470": {
+  "accept": false,
+  "reason": "handwritten paper notice ('AVIS AU CLIENTS ...'); not a place sign"
+ },
+ "c24363608": {
+  "accept": false,
+  "reason": "Orange-branded phone kiosk with a man as the main subject; telecom branding, the kiosk name on the roof is partly hidden"
+ },
+ "c52808208": {
+  "accept": false,
+  "reason": "school prevention mural with a slogan ('L'AMOUR D'ACCORD MAIS LES ETUDES D'ABORD'); the school name is partial ('LYCEE MODERNE', 'DE BOUAR' faded)"
+ },
+ "c130469839": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "MINISTERE DE LA SANTE PUBLIQUE DE LA POPULATION",
+    "lang": "fr"
+   },
+   {
+    "text": "ET DU VIH/SIDA",
+    "lang": "fr"
+   },
+   {
+    "text": "DIRECTION DE LA REGION SANITAIRE N° 7",
+    "lang": "fr"
+   },
+   {
+    "text": "DISTRICT SANITAIRE DE BANGUI II",
+    "lang": "fr"
+   },
+   {
+    "text": "FAISONS VACCINER",
+    "lang": "fr"
+   },
+   {
+    "text": "NOS ENFANTS DE 0 A 11 MOIS",
+    "lang": "fr"
+   },
+   {
+    "text": "NOS FEMMES ENCEINTES",
+    "lang": "fr"
+   },
+   {
+    "text": "TOUS LES JOURS DE LUNDI A VENDREDI",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "District Sanitaire de Bangui II",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "White board on posts in front of a health office, 5e arrondissement, Bangui; header in black, vaccination notice in blue; the 'A' in '0 A 11' is small. Small motto 'Unité - Dignité - Travail' under the flag and the GAVI/OMS/unicef logos are left out. A sun flare crosses the top-left. Red Cross ambulances at left are distractors."
+ },
+ "c131665702": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "SITE TOURISTIQUE",
+    "lang": "fr"
+   },
+   {
+    "text": "DES CHUTES DE BOALI",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "Chutes de Boali",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Black letters painted on a yellow building facade beside a green 'NZONI GANGO NA BEAFRIKA' logo. A flagpole hides the last letter of 'SITE' and the C of 'CHUTES'. The small coloured contact lines below (BP, phone numbers, website) are partly hidden and left out."
+ },
+ "c154969383": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Avenue Professeur",
+    "lang": "fr"
+   },
+   {
+    "text": "Faustin-Archange Touadéra",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "Avenue Professeur Faustin-Archange Touadéra",
+   "type": "street"
+  },
+  "difficulty": "medium",
+  "notes": "White street-name panel on a green post, Bangui; 'Avenue' is printed in grey, the rest in black. The lower half has a faded Sango/French slogan (roughly 'Bata Bangui Nzoni / Maintenons Bangui Propre') that is too washed out to transcribe; event posters below are distractors."
+ },
+ "c131665715": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "VILLAGE",
+    "lang": "fr"
+   },
+   {
+    "text": "SAMBA",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "Village Samba",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Painted yellow gable sign on a thatched roof at the Boali falls. Round 'D'jino' soft-drink light box and D'jino bunting are advert distractors."
+ }
+}

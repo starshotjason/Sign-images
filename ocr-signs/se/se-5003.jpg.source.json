@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/5850153/160/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMi84LzEwL3Byb2MvNTg1MDE1M19mZmNlZDZkMDE2MjE5ZmNmMDMzZGJlMWQzN2FhNjQ4Ny5qcGc",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "dennis-g-d",
+  "credit_as_published": "KartaView user dennis-g-d (user id 47873); © KartaView contributors",
+  "title": "KartaView photo 1567192553, sequence 5850153 #160 (Stockholm, 2022-08-09)",
+  "description": "Street-level picture on KartaView, taken 2022-08-09 near Stockholm by dennis-g-d, sequence 5850153, heading 266.44. OCR (PP-OCRv3) read: GSFON | butiksokal? | Ledig butikslokal | NOVER | NOVIER",
+  "date": "2022-08-09",
+  "categories": [],
+  "camera_location": [
+    59.336046,
+    18.06719
+  ],
+  "found_by": "kartaview-ocr:Stockholm",
+  "bytes": 631060,
+  "width": 2385,
+  "height": 1788,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMi84LzEwL3Byb2MvNTg1MDE1M19mZmNlZDZkMDE2MjE5ZmNmMDMzZGJlMWQzN2FhNjQ4Ny5qcGc",
+  "derivative": "crop 0,120,2385,1908 of the 3840x2160 full-size processed (blurred) picture"
+}

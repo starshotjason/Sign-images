@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=1e2db9a1-9c21-45ca-b925-947a075fa0fd",
+  "original_url": "https://panoramax.openstreetmap.fr/images/1e/2d/b9/a1/9c21-45ca-b925-947a075fa0fd.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "Robot8A",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture 1e2db9a1-9c21-45ca-b925-947a075fa0fd (San Marino, 2024-03-23)",
+  "description": "Street-level picture on Panoramax, taken 2024-03-23 near San Marino by Robot8A, sequence 618611f6-9c7c-456b-812f-5fb5138ddeda, heading 350. OCR (PP-OCRv3) read: MARLU | SPACE | MARLU",
+  "date": "2024-03-23",
+  "categories": [],
+  "camera_location": [
+    43.935364644,
+    12.447850609
+  ],
+  "found_by": "panoramax-ocr:San Marino",
+  "bytes": 1750646,
+  "width": 4032,
+  "height": 3024,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/1e/2d/b9/a1/9c21-45ca-b925-947a075fa0fd.jpg",
+  "derivative": "whole 4032x3024 HD picture as served by the Panoramax instance (byte-identical; the service blurs faces and number plates), not cropped"
+}

@@ -1,0 +1,286 @@
+{
+ "k969543170": {
+  "accept": false,
+  "reason": "food-truck livery (Stefanos) is the subject; vehicle branding with a number plate"
+ },
+ "p92c8f8a2d4": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Netto",
+    "lang": "da"
+   },
+   {
+    "text": "7-22",
+    "lang": "und"
+   },
+   {
+    "text": "ALLE DAGE",
+    "lang": "da"
+   }
+  ],
+  "expect": {
+   "query": "Netto",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Yellow-on-black Netto supermarket fascia at the right edge (logo dog cut off), with a '7-22 ALLE DAGE' window sticker and a yellow blade sign '7-22', Copenhagen; dashcam view. Left side: 'Gallery / art & crafts' at no. 58 and a 'JUVELER' sign (distractors); 'city' and 'Riporter' signs further down the street."
+ },
+ "k969542690": {
+  "accept": false,
+  "reason": "same food-truck livery as k969543170 (vehicle branding)"
+ },
+ "pccd5befda6": {
+  "accept": false,
+  "reason": "warning sign ('Kør forsigtigt / Broen kan være glat'), not a place sign"
+ },
+ "k644193518": {
+  "accept": false,
+  "reason": "rooftop letters cut off at the frame edge ('...ne Square', '...HEDER'); no complete name"
+ },
+ "k644193474": {
+  "accept": false,
+  "reason": "rooftop advertising screens ('SON OF A TAILOR') and distant logos; adverts, no single place sign"
+ },
+ "k644193598": {
+  "accept": false,
+  "reason": "van livery (vehicle branding), blurred"
+ },
+ "p75fd59221b": {
+  "accept": false,
+  "reason": "coach livery (Gebotours) is the main text; the 'DANSK ERHVERV' hoarding is partial"
+ },
+ "k969543650": {
+  "accept": false,
+  "reason": "third shot of the same Stefanos food-truck livery; vehicle branding"
+ },
+ "p88e76e6b8f": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "WELCOME TO THE",
+    "lang": "en"
+   },
+   {
+    "text": "Home of Carlsberg",
+    "lang": "en"
+   },
+   {
+    "text": "75 METER",
+    "lang": "da"
+   },
+   {
+    "text": "HOME OF Carlsberg COPENHAGEN",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Home of Carlsberg",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Tall vertical green banner (text rotated 90 degrees) with a left arrow pointing to the Carlsberg visitor centre, Copenhagen. 'WELCOME TO THE', '75 METER' and the bottom Carlsberg logo block are small. 'GRUNDLAGT 1847' on the building behind and the 'P BETALINGSPARKERING' sign are distractors."
+ },
+ "c14926183": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Navnløs",
+    "lang": "da"
+   }
+  ],
+  "expect": {
+   "query": "Navnløs",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Blue street blade with raised white serif letters under a lantern, Viborg; 'Navnløs' ('nameless') is the actual street name. Ø is clear."
+ },
+ "c36236105": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "VESTRE LANDSRET",
+    "lang": "da"
+   },
+   {
+    "text": "DANMARKS DOMSTOLE",
+    "lang": "da"
+   },
+   {
+    "text": "Asmildklostervej 21",
+    "lang": "da"
+   },
+   {
+    "text": "Vestre Landsret",
+    "lang": "da"
+   },
+   {
+    "text": "Personale",
+    "lang": "da"
+   },
+   {
+    "text": "Indkørsel POLITI",
+    "lang": "da"
+   },
+   {
+    "text": "Varemodtagelse",
+    "lang": "da"
+   }
+  ],
+  "expect": {
+   "query": "Vestre Landsret",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Free-standing entrance totem of the Western High Court, Viborg. The court name is curved around the top of the red oval emblem and 'DANMARKS DOMSTOLE' around the bottom; the address line 'Asmildklostervej 21' is also a good addr query. P symbols and arrows omitted."
+ },
+ "c127946826": {
+  "accept": false,
+  "reason": "temporary art-happening street sign (Helen Clay Pedersens Vej, Kolding) tied to a lamppost; not a real mapped street name"
+ },
+ "c58211629": {
+  "accept": false,
+  "reason": "bus-station gate displays show only 'Rute Til / Afg.' and gate numbers; no place or stop name"
+ },
+ "c157411485": {
+  "accept": false,
+  "reason": "small hanging sign of a museum prop shop (A. Henriksen Bogbinder) in Den Gamle By open-air museum, tiny in frame; not a mappable business"
+ },
+ "c48087824": {
+  "accept": false,
+  "reason": "pictorial brewery sign (gilded barrel in hop wreath) with no text"
+ },
+ "c5629439": {
+  "accept": false,
+  "reason": "humorous rhyme on a former bakery sign ('Bageren er desværre død ...'); slogan, no name"
+ },
+ "c38083081": {
+  "accept": false,
+  "reason": "street view in Den Gamle By open-air museum; the only sign ('S.A.Bang') is tiny and a museum prop"
+ },
+ "c61514533": {
+  "accept": true,
+  "reason": "",
+  "kind": "address plate",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "30",
+    "lang": "und"
+   },
+   {
+    "text": "BREDGADE",
+    "lang": "da"
+   }
+  ],
+  "expect": {
+   "query": "Bredgade 30",
+   "type": "addr"
+  },
+  "difficulty": "medium",
+  "notes": "Brass number and small street name on the dark lunette above an arched gateway, Copenhagen; 'BREDGADE' is small. Distractors: 'Boffi' window sign at left, large '28' and partial 'AVLSK...' on the neighbouring building."
+ },
+ "c145068046": {
+  "accept": true,
+  "reason": "",
+  "kind": "transit",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Emdrup Søpark",
+    "lang": "da"
+   },
+   {
+    "text": "185 Nørreport St. 11",
+    "lang": "da"
+   }
+  ],
+  "expect": {
+   "query": "Emdrup Søpark",
+   "type": "stop"
+  },
+  "difficulty": "easy",
+  "notes": "Copenhagen bus-stop sign seen from above: yellow bus pictogram, stop name in white, e-ink display with route 185 to Nørreport St. in 11 min. Timetable cards on the pole below are too small to read."
+ },
+ "c7856007": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "LUDV. BJØRNS VINHANDEL",
+    "lang": "da"
+   },
+   {
+    "text": "GRUNDLAGT 1760",
+    "lang": "da"
+   }
+  ],
+  "expect": {
+   "query": "Ludv. Bjørns Vinhandel",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Large round dark-red corner sign with a corkscrew, Copenhagen; text runs around the circle. Two smaller copies at the sides. Two small angled street plates on the corner (left one '...Andersens Boulevard 38-42', right one with house numbers 7-9) are distractors; their full text is not reliably legible."
+ },
+ "c1665725": {
+  "accept": false,
+  "reason": "castle and reflection view (Egeskov), no sign"
+ },
+ "c19475352": {
+  "accept": false,
+  "reason": "enamel house-rules notice (prohibits trading, begging, bicycles on the main stairs); no place name"
+ },
+ "c77769044": {
+  "accept": false,
+  "reason": "pedestrian-zone and parking regulation signs ('Gågade Zone', 'Kørsel tilladt', '2 timer'); no place name"
+ },
+ "c61379370": {
+  "accept": false,
+  "reason": "beer cans (Carlsberg product branding) on a quay; no sign"
+ },
+ "c181411310": {
+  "accept": false,
+  "reason": "COVID social-distancing floor sticker ('HOLD AFSTAND'); warning text only"
+ },
+ "c94954122": {
+  "accept": false,
+  "reason": "event advertising banner (Buster Filmfestival 2020); advert, not a place sign"
+ },
+ "c61514449": {
+  "accept": false,
+  "reason": "lamp post covered in discarded Tivoli ride-ticket stickers; not a sign"
+ },
+ "c149245306": {
+  "accept": false,
+  "reason": "generic parking sign with terms text; no place name"
+ }
+}

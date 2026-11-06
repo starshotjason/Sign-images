@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=01ed826c-0d06-443e-b3f5-9c580e5834f1",
+  "original_url": "https://panoramax.openstreetmap.fr/images/01/ed/82/6c/0d06-443e-b3f5-9c580e5834f1.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "JLZIMMERMANN",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture 01ed826c-0d06-443e-b3f5-9c580e5834f1 (Paris, 2016-05-01)",
+  "description": "Street-level picture on Panoramax, taken 2016-05-01 near Paris by JLZIMMERMANN, sequence 19344de5-bfdb-48ef-96ba-225558b55277, heading None. OCR (PP-OCRv3) read: deNeuville | OCURRENCY | EXCHANGE",
+  "date": "2016-05-01",
+  "categories": [],
+  "camera_location": [
+    48.844825,
+    2.375466667
+  ],
+  "found_by": "panoramax-ocr:Paris",
+  "bytes": 776737,
+  "width": 3264,
+  "height": 2448,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/01/ed/82/6c/0d06-443e-b3f5-9c580e5834f1.jpg",
+  "derivative": "whole 3264x2448 HD picture as served by the Panoramax instance (byte-identical; the service blurs faces and number plates), not cropped"
+}

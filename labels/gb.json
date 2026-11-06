@@ -1,0 +1,168 @@
+{
+ "k415473": {
+  "accept": false,
+  "reason": "tour-bus advertising (The Original Tour) is the main text"
+ },
+ "k416316": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "FLIGHT",
+    "lang": "en"
+   },
+   {
+    "text": "CENTRE",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Flight Centre",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Red-and-white hanging blade sign of a travel agency; the fascia to the right repeats 'FLIGHT CE...' but is cut by the PRET hanging sign. Distractors: 'PRET / ORGANIC COFFEE / NATURAL FOOD' blade, 'the convenience store' fascia, 'off licence' blade, POST OFFICE sign. A police car at left is incidental (plate not readable); pedestrians face-blurred."
+ },
+ "p010e99f5ec": {
+  "accept": false,
+  "reason": "restaurant menu sheet (Bone Daddies), menu only"
+ },
+ "p05994009df": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "KENNINGTON ROA",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Kennington Road",
+   "type": "street"
+  },
+  "difficulty": "medium",
+  "notes": "White Lambeth street-name plate on a dark shopfront; the final letter (D) and the right end of the plate (postcode district and crest) are under a privacy blur, so only 'KENNINGTON ROA' is transcribed. Small red header 'London Borough of Lambeth' (first letter blurred). Distractors: '... & Hayward' estate-agent fascia (cut), 'Lettings 020 7582 4040', 'DANIEL COBB' blade (partly blurred), ADT alarm box."
+ },
+ "p509c1771eb": {
+  "accept": false,
+  "reason": "graffiti and mural art in a tunnel; no sign naming a place"
+ },
+ "p5bde3ba806": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "MR FOGG'S",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Mr Fogg's",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Gold serif letters on a dark green bar fascia, slight angle; apostrophe is typographic (’). The script fascia at left reads 'The London Residence / of Phileas J. Fogg, Esq.' and the round blue plaque is too small to read; lantern and wreaths are decoration."
+ },
+ "p5e17cbf68a": {
+  "accept": false,
+  "reason": "store name cut: its first letter is hidden under a privacy-blur patch ('...OYLES'); bus-stop flag at left is also cut"
+ },
+ "p9b23e60aa5": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Hani",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "锦城小巷",
+    "lang": "zh",
+    "latin": "Jǐnchéng Xiǎoxiàng (Jincheng Alley)"
+   },
+   {
+    "text": "JINCHENG ALLEY",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Jincheng Alley",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Brown fascia of a Chinese restaurant in central London with large cream Chinese characters and the English name below; the awning repeats '锦城小巷 JinCheng Alley'. The 'HEYTEA' fascia and hoarding next door (worker on scaffold, face-blurred) and house numbers 43 / No 45 are distractors."
+ },
+ "p9d0df77fcd": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "RAZER",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Razer",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Green illuminated stylised letters (the E is drawn as three bars) above a glass door; a red bus is reflected in the glass. The 'Sainsbury's L...' fascia at right is cut by a lamp post; 'At any time / No loading' plate and a EuroMillions poster are distractors."
+ },
+ "pcb11a99e3d": {
+  "accept": true,
+  "reason": "",
+  "kind": "building tag",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "VALE ROYAL HOUSE",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Vale Royal House",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Silver raised letters on a dark panel over a building entrance; slight motion blur. Small notices on the door are blurred; passers-by are face-blurred and incidental."
+ },
+ "f66c8854c-7aea-4ef9-afb2-55bc6b6b58da": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "OLD HALL HOTEL",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Old Hall Hotel",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Gilt serif lettering on a curved plum-coloured fascia with a fleur-de-lis, The Square, Buxton (Derbyshire); a bronze stag sculpture sits above. The first 'O' is partly hidden behind a festoon light bulb and the curve of the fascia; festoon bulbs cross the text line."
+ }
+}

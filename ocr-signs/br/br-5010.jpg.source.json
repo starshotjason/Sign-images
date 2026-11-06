@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=02a6af02-04da-4bc7-a391-552209cb1428",
+  "original_url": "https://panoramax.openstreetmap.fr/images/02/a6/af/02/04da-4bc7-a391-552209cb1428.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "Túllio",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture 02a6af02-04da-4bc7-a391-552209cb1428 (Brasilia, 2024-12-04)",
+  "description": "Street-level picture taken 2024-12-04 near Brasilia by Túllio, sequence 9d16772a-5ad4-4f44-8e99-dd883bb87ba2, heading 24. OCR (PP-OCRv3) read: S.Diversoes Norte",
+  "date": "2024-12-04",
+  "categories": [],
+  "camera_location": [
+    -15.7901365,
+    -47.8827168
+  ],
+  "found_by": "panoramax-ocr:Brasilia",
+  "bytes": 393632,
+  "width": 1742,
+  "height": 1306,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/02/a6/af/02/04da-4bc7-a391-552209cb1428.jpg",
+  "derivative": "crop 0,794,1742,2100 of the 4000x3000 HD picture"
+}

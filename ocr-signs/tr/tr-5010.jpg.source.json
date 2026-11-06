@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/357/10/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMS5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE1LzEyLzE4L3Byb2MvYWU1NjZfNTY3ODMwY2Y1ZjliMC5qcGc",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "skobblertest2",
+  "credit_as_published": "KartaView user skobblertest2 (user id 3); © KartaView contributors",
+  "title": "KartaView photo 122826, sequence 357 #10 (Istanbul, 2015-12-21)",
+  "description": "Street-level picture on KartaView, taken 2015-12-21 near Istanbul by skobblertest2, sequence 357, heading 0. OCR (PP-OCRv3) read: AKSOY TICARET",
+  "date": "2015-12-21",
+  "categories": [],
+  "camera_location": [
+    41.005523,
+    28.973985
+  ],
+  "found_by": "kartaview-ocr:Istanbul",
+  "bytes": 1704741,
+  "width": 2935,
+  "height": 2201,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMS5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE1LzEyLzE4L3Byb2MvYWU1NjZfNTY3ODMwY2Y1ZjliMC5qcGc",
+  "derivative": "crop 1046,0,3981,2201 of the 4160x3120 full-size processed (blurred) picture"
+}

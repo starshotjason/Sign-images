@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/2941738/837/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMC84LzIyL3Byb2MvMjk0MTczOF83YzQ3ZV81ZjQxMjBlZjFmOTg1LmpwZw",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "teddy73",
+  "credit_as_published": "KartaView user teddy73 (user id 37266); © KartaView contributors",
+  "title": "KartaView photo 1061306022, sequence 2941738 #837 (Heraklion, 2017-10-01)",
+  "description": "Street-level picture on KartaView, taken 2017-10-01 near Heraklion by teddy73, sequence 2941738, heading 259.63. OCR (PP-OCRv3) read: [unread] raeabogiaknxdvayoa | AUEQNHPAKAEIOY | [unread] iyo Qailaooa... | [unread] dig Apen-dip ft | ING",
+  "date": "2017-10-01",
+  "categories": [],
+  "camera_location": [
+    35.342981,
+    25.134294
+  ],
+  "found_by": "kartaview-ocr:Heraklion",
+  "bytes": 943810,
+  "width": 4050,
+  "height": 1589,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMC84LzIyL3Byb2MvMjk0MTczOF83YzQ3ZV81ZjQxMjBlZjFmOTg1LmpwZw",
+  "derivative": "crop 558,0,4608,1589 of the 4608x1589 full-size processed (blurred) picture"
+}

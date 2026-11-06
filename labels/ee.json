@@ -1,0 +1,396 @@
+{
+ "pb0159ec232": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "TURG",
+    "lang": "et"
+   },
+   {
+    "text": "TURG",
+    "lang": "et"
+   }
+  ],
+  "expect": {
+   "query": "Turg",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Hand-painted red letters on both side boards of a decorative cart sign hung over a doorway in Tallinn Old Town (a market-themed eatery; 'turg' = market). The name is a common noun, so a map match is likely ambiguous."
+ },
+ "pf44fe48296": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Rimi",
+    "lang": "et"
+   },
+   {
+    "text": "SUPER",
+    "lang": "et"
+   }
+  ],
+  "expect": {
+   "query": "Rimi",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Large white Rimi Super logo on a black-clad shopping centre, Tallinn, seen through a windscreen; opening hours '8-2...' cut off at the right edge. Distractors: 'KARIAMARKE...' fascia (cut, Karia Market), 'salonshop' and a red 'KARIA MARKET 10-20' poster."
+ },
+ "pceb07e49da": {
+  "accept": false,
+  "reason": "souvenir coin-press machine with instructions; advertising/product, not a place sign"
+ },
+ "p6ff8dbace3": {
+  "accept": false,
+  "reason": "drinking-water tap notice, no place name"
+ },
+ "p26e2f463db": {
+  "accept": false,
+  "reason": "souvenir coin-press machine (another one, same kind as pceb07e49da); not a place sign"
+ },
+ "p2ed008eace": {
+  "accept": false,
+  "reason": "commemorative relief plaque for a person (Ferdinand Veike); image rotated; not a sign used to find a place"
+ },
+ "p159d40b9f6": {
+  "accept": false,
+  "reason": "war-memorial inscription on a statue base; commemorative, not a place sign"
+ },
+ "pe4ee1ff477": {
+  "accept": false,
+  "reason": "estate-agent billboard with a person's face, plus graffiti; advertising"
+ },
+ "pac0b6c54cf": {
+  "accept": true,
+  "reason": "",
+  "kind": "building tag",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "EKA",
+    "lang": "et"
+   }
+  ],
+  "expect": {
+   "query": "EKA",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Large dark stylised letters near the top of the Estonian Academy of Arts (Eesti Kunstiakadeemia) tower, Tallinn, against a cloudy sky; the A has no crossbar."
+ },
+ "p639e3d3388": {
+  "accept": false,
+  "reason": "outdoor table-tennis table in a park; no sign text"
+ },
+ "c14984876": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Võru Turismiinfokeskus",
+    "lang": "et"
+   },
+   {
+    "text": "Tourist Informa",
+    "lang": "en"
+   },
+   {
+    "text": "www.visitvoru.ee",
+    "lang": "und"
+   },
+   {
+    "text": "Võromaa turismiteedüs",
+    "lang": "vro"
+   }
+  ],
+  "expect": {
+   "query": "Võru Turismiinfokeskus",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Green fascia bands on the windows of the Võru tourist information centre, seen at an angle. Trilingual: Estonian top left, English top right (cut by the frame after 'Informa[tion]'), Võro on the bottom band. Posters in the windows and reflections are distractors."
+ },
+ "c99839059": {
+  "accept": false,
+  "reason": "museum interior replica of a Soviet-era shop; only the generic word 'KAUPLUS' (shop), and visitors are prominent"
+ },
+ "c161214672": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Saaremaa pst",
+    "lang": "et"
+   }
+  ],
+  "expect": {
+   "query": "Saaremaa puiestee",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Blue street blade on a lamp post, Tallinn, seen from below against a cloudy sky; 'pst' abbreviates 'puiestee' (boulevard). Formerly part of Moskva puiestee."
+ },
+ "c159419215": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Hilton",
+    "lang": "en"
+   },
+   {
+    "text": "TALLINN PARK",
+    "lang": "en"
+   },
+   {
+    "text": "THE ABLE BUTCHER",
+    "lang": "en"
+   },
+   {
+    "text": "OLYMPIC PARK CASINO",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Hilton Tallinn Park",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Free-standing hotel totem by the road, Tallinn; the restaurant and casino panels below are secondary POIs. A person walking dogs and parked vans in the background are incidental."
+ },
+ "c198505680": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Jahisadam ja kontor",
+    "lang": "et"
+   },
+   {
+    "text": "Marina & office",
+    "lang": "en"
+   },
+   {
+    "text": "Muuseumilaevad",
+    "lang": "et"
+   },
+   {
+    "text": "The Museum Ships",
+    "lang": "en"
+   },
+   {
+    "text": "Jahisadama suvekohvik",
+    "lang": "et"
+   },
+   {
+    "text": "Harbour summer cafe",
+    "lang": "en"
+   },
+   {
+    "text": "Noblessneri sadam",
+    "lang": "et"
+   },
+   {
+    "text": "Port Noblessner",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Noblessneri sadam",
+   "type": "place"
+  },
+  "difficulty": "medium",
+  "notes": "Black fingerpost at the Seaplane Harbour (Lennusadam), Kalamaja, Tallinn, at dusk. Two arms are partly hidden behind others: one ends '...ääs Muuseumisse / ...eum entrance', another 'Meremuuse[um] / The Mus[...]'; those partial arms are not transcribed. Car number plates in the lot are incidental."
+ },
+ "c44386475": {
+  "accept": true,
+  "reason": "",
+  "kind": "address plate",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Kooli",
+    "lang": "et"
+   },
+   {
+    "text": "4",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "Kooli 4",
+   "type": "addr"
+  },
+  "difficulty": "easy",
+  "notes": "Brown enamel Tallinn Old Town street plate with a separate white house-number plate on a peeling facade; a wrought-iron wall anchor at right."
+ },
+ "c146872130": {
+  "accept": false,
+  "reason": "wide street view; the overhead direction signs (Kopli, Kalaranna tn, Lennusadam) are small and distant, no single main sign"
+ },
+ "c61440678": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn",
+   "Cyrl"
+  ],
+  "lines": [
+   {
+    "text": "Rahva Raamat",
+    "lang": "et"
+   },
+   {
+    "text": "Книжный магазин • Bookstore",
+    "lang": "ru",
+    "latin": "Knizhnyy magazin (bookstore) • Bookstore"
+   },
+   {
+    "text": "3. – 4.",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "Rahva Raamat",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Backlit wayfinding panel high on the atrium wall in Viru Keskus, Tallinn, pointing to the bookstore on floors 3-4 (tiny 'korrus/этаж/floor' text after the numbers is too small). The name appears again on a smaller sign above the shop entrance."
+ },
+ "c80537429": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Hallivanamehe",
+    "lang": "et"
+   }
+  ],
+  "expect": {
+   "query": "Hallivanamehe",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Blue street blade on a concrete lamp post, Tallinn, with leaf shadows across the right half; 'tänav' is omitted on the sign."
+ },
+ "c200468504": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "AH",
+    "lang": "und"
+   },
+   {
+    "text": "ADORYAL",
+    "lang": "et"
+   },
+   {
+    "text": "HOTELL",
+    "lang": "et"
+   }
+  ],
+  "expect": {
+   "query": "Adoryal Hotell",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Gold striped letters on the facade of the Adoryal hotel, Kesklinn, Tallinn; bracing cables cross the letters. Repeated 'TUNIKA.FI' window lettering below and a partial red panel at right are distractors."
+ },
+ "c25616494": {
+  "accept": false,
+  "reason": "pictorial lingerie-shop bracket sign; the only text ('Line...') is on a small round sign cut off by the frame"
+ },
+ "c60815504": {
+  "accept": false,
+  "reason": "generic heritage medallion ('KULTUURIMÄLESTIS / NATIONAL MONUMENT'); names no place"
+ },
+ "c90372211": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "KESKLINN",
+    "lang": "et"
+   },
+   {
+    "text": "3 E 264 RIIA",
+    "lang": "et"
+   },
+   {
+    "text": "6 49 PÄRNU",
+    "lang": "et"
+   },
+   {
+    "text": "VILJANDI",
+    "lang": "et"
+   },
+   {
+    "text": "TÕRVA",
+    "lang": "et"
+   },
+   {
+    "text": "150 m",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "Pärnu",
+   "type": "place"
+  },
+  "difficulty": "medium",
+  "notes": "Advance direction sign on Tartu maantee entering Valga, at the left of a cycle path, mid distance; route shields 3, E 264, 6, 49. The alcohol-shop billboards on the right (ALKO 1000 MARKET, SuPer Alko 'Raiņa 3, Valka', ALKO SHOP) are advertising distractors."
+ },
+ "c87623399": {
+  "accept": false,
+  "reason": "1974 black-and-white street photo of a knife grinder and two children; people are the subject and the shop-window text is cut off"
+ },
+ "c183088590": {
+  "accept": false,
+  "reason": "pedestrian-crossing and puddle scene; the only shop sign ('Delicato') is small in the corner, not the main subject"
+ }
+}

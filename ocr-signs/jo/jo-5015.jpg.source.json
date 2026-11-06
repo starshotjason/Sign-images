@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/6637705/4514/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMy8xLzIwL3Byb2MvNjYzNzcwNV9lOTY5OV82M2NiMjQxN2VjMDQyLmpwZw",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "gk0112127095503",
+  "credit_as_published": "KartaView user gk0112127095503 (user id 123321); © KartaView contributors",
+  "title": "KartaView photo 1682851401, sequence 6637705 #4514 (Amman, 2023-01-12)",
+  "description": "Street-level picture on KartaView, taken 2023-01-12 near Amman by gk0112127095503, sequence 6637705, heading 278.05. OCR (PP-OCRv3) read: 206 | 201 | 205 | Richmond | Dreamworx | Ramlaw",
+  "date": "2023-01-12",
+  "categories": [],
+  "camera_location": [
+    31.953652,
+    35.920031
+  ],
+  "found_by": "kartaview-ocr:Amman",
+  "bytes": 220019,
+  "width": 1200,
+  "height": 900,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMy8xLzIwL3Byb2MvNjYzNzcwNV9lOTY5OV82M2NiMjQxN2VjMDQyLmpwZw",
+  "derivative": "crop 2800,47,4000,947 of the 4000x3000 full-size processed (blurred) picture"
+}

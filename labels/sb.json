@@ -1,0 +1,214 @@
+{
+ "c108968721": {
+  "accept": false,
+  "reason": "temporary conference banner (PARBICA 15) over a gate; event advert, not a place sign"
+ },
+ "c21410052": {
+  "accept": false,
+  "reason": "two posed people are the subject and cover the left of the Ministry of Finance directory board"
+ },
+ "c32165310": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "BI'O Village is now,",
+    "lang": "en"
+   },
+   {
+    "text": "WEAPONS FREE!",
+    "lang": "en"
+   },
+   {
+    "text": "PLEASE RESPECT OUR WISHES",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Bi'o",
+   "type": "place"
+  },
+  "difficulty": "easy",
+  "notes": "Village peace-campaign board on a woven-bamboo house on Malaita. The mark in BI'O is a slanted tick (apostrophe/glottal-style mark), transcribed as ASCII apostrophe. Small logo texts (Peace Monitoring Council Solomon Islands, Community Peace and Restoration Fund, AusAID) not transcribed."
+ },
+ "c32165311": {
+  "accept": false,
+  "reason": "near-duplicate of c32165310 (same Bi'o Village sign, partly hidden by leaves)"
+ },
+ "c32165400": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ARULIGO",
+    "lang": "en"
+   },
+   {
+    "text": "KINDERGARTEN SCHOOL PROJECT",
+    "lang": "en"
+   },
+   {
+    "text": "FUNDED BY THE AUSTRALIAN GOVERNMENT",
+    "lang": "en"
+   },
+   {
+    "text": "THROUGH WORKING IN PARTNERSHIP FOR PEACE",
+    "lang": "en"
+   },
+   {
+    "text": "WITH THE PEOPLE OF GUADALCANAL PROVINCE",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Aruligo",
+   "type": "place"
+  },
+  "difficulty": "easy",
+  "notes": "Blue project board for a kindergarten in Aruligo, Guadalcanal. The white board beside it reads 'ARULIGO VATUKULAU Community is now WEAPONS FREE! PLEASE RESPECT OUR WISHES' (UNDP/AusAID logos) and also names the place. Logo micro-text not transcribed."
+ },
+ "c32166050": {
+  "accept": false,
+  "reason": "campaign placard held by a group of people (faces are the subject); no place name"
+ },
+ "c39752698": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "THE OFIS",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "The Ofis",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Hanging board under a small thatched roof, hostel/café in Kakabona west of Honiara; the 'O' is drawn as a brush circle. Panoramic, so the sign is small in the frame. A parked car's number plate is visible but incidental."
+ },
+ "c39852445": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "HONIARA BOTANICAL GARDENS",
+    "lang": "en"
+   },
+   {
+    "text": "PUBLIC INFORMATION",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Honiara Botanical Gardens",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Map-and-information board in a narrow panorama. Only the headings are transcribed; the small paragraph text (walking tracks, rubbish bins, toilet, swimming pool, BBQ area, guided tours, venue hire, phone/email) and map labels (ROVE PRISON, LENGAKIKI, TASAHE, Walks legend) are too small to transcribe reliably."
+ },
+ "c39852446": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "CHILDREN'S",
+    "lang": "en"
+   },
+   {
+    "text": "ADVENTURE LAND",
+    "lang": "en"
+   },
+   {
+    "text": "Created by Honiara Beautification Committee",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Children's Adventure Land",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Painted yellow panel on an angled white wall, Rove, Honiara; seen obliquely. Small sponsor lines below ('Proudly Sponsored by: Island Manufacturing Ltd, Rotary Club of Honiara, ... Bankers Association, British High Commission, Islands Road Works') are partly cut off and not transcribed. Scribbled graffiti on the panel."
+ },
+ "c39852453": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "POLICE",
+    "lang": "en"
+   },
+   {
+    "text": "MEMORIAL ARK",
+    "lang": "en"
+   },
+   {
+    "text": "Created by Honiara Beautification Co",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Police Memorial Park",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Same sign style as c39852446 but a different park. The 'P' of PARK has fallen off, leaving only a small fragment, so the sign visibly reads 'MEMORIAL ARK'. The third line is cut by the bottom frame edge ('Co...' = Committee). A yellow 'APRIL YOUTH MARKET 21ST - 24TH' flyer on the wall is a distractor."
+ },
+ "c52800305": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "PUBLIC",
+    "lang": "en"
+   },
+   {
+    "text": "Solicitors Office",
+    "lang": "en"
+   },
+   {
+    "text": "P.O.BOX 553 Honiara Solomon Islands.",
+    "lang": "en"
+   },
+   {
+    "text": "PHone: 28406/ 22348 FAX : 28409",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Public Solicitors Office",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Office fascia over a doorway on Honiara's main street, with the national coat of arms at left; 'Solicitors Office' in red script. 'PHone' is mixed-case on the sign."
+ }
+}

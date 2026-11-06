@@ -1,0 +1,170 @@
+{
+ "k2463201": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "CLOCKTOWER BREW PUB",
+    "lang": "en"
+   },
+   {
+    "text": "BREW PUB",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Clocktower Brew Pub",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Maroon fascia boards with white serif capitals wrapping a building corner (Ottawa, Bank St area); the left board has the full name, the right one is cut ('CLOCKTO...'). Distractors: 'FOR LEASE / District Realty' banner, 'Gabriel Pizza 310.7777' A-board, Harvey's, Prince and Johnny Farina signs down the street. Taken through a windscreen; pedestrians incidental."
+ },
+ "k2792602": {
+  "accept": false,
+  "reason": "main text is box-truck branding (Chez Lili Party Rental / madali); hotel awnings small"
+ },
+ "k3893837": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Gladstone",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Gladstone Avenue",
+   "type": "street"
+  },
+  "difficulty": "hard",
+  "notes": "Blue Ottawa street blade with city logo on a traffic-signal arm, mid-distance under an overcast sky; a second blade at right reads 'Gladstone' with small prefix/suffix text (not legible). Distractors: ESSO 'Self Service 99.9' price sign, 'On the Run' sign, SHOPPERS DRUG MART fascia at left, 'Thai-Viet' restaurant sign at right."
+ },
+ "k4237731": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "WINNERS",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Winners",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Store name repeated on dark awnings and vertical banners along a red heritage facade (Ottawa, Sparks/Queen St area), behind light-rail construction hoarding. Orange arrow sign, OLRT traffic barrels and a parking guidance sign are distractors."
+ },
+ "k5092594": {
+  "accept": false,
+  "reason": "main text is truck branding (Iron Mountain); other signs small"
+ },
+ "k5092627": {
+  "accept": false,
+  "reason": "bus fleet numbers and a partial 'SUBWAY' sign hidden behind a bus"
+ },
+ "p2f0169ae3f": {
+  "accept": false,
+  "reason": "Little Free Library book box; only an organisation plate, not a mappable named place"
+ },
+ "p48988f964c": {
+  "accept": false,
+  "reason": "image rotated 90°; only text is a notice 'TUNNEL AUTORISÉ AUX GRAFFITIS' among graffiti, not a named place"
+ },
+ "p6df63077e6": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "MR.PIZZA",
+    "lang": "en"
+   },
+   {
+    "text": "TWO FLAVOURS. ONE DOOR",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Mr. Pizza",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Fascia box with a chef cartoon and red 'MR.PIZZA', repeated at the right edge (cut); slogan on the red band below continues 'MRPIZZ...' (cut). Distractors: hand-cut window letters '...PEUTIC MASSAGE / ...UPUNCTURE / RELAXATION / 371 SOMERSET ST. W.', RBC bank ATM signs, a Chinese '...都可' sign at left. Pedestrian face-blurred."
+ },
+ "pde336dfc22": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "50 OUEST",
+    "lang": "fr"
+   },
+   {
+    "text": "148 OUEST",
+    "lang": "fr"
+   },
+   {
+    "text": "Boulevard des",
+    "lang": "fr"
+   },
+   {
+    "text": "Allumettières",
+    "lang": "fr"
+   },
+   {
+    "text": "Rue Montcalm",
+    "lang": "fr"
+   },
+   {
+    "text": "5",
+    "lang": "und"
+   },
+   {
+    "text": "Gatineau",
+    "lang": "fr"
+   },
+   {
+    "text": "CENTRE - VILLE",
+    "lang": "fr"
+   },
+   {
+    "text": "Ottawa",
+    "lang": "fr"
+   },
+   {
+    "text": "Maniwaki",
+    "lang": "fr"
+   },
+   {
+    "text": "105",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "Rue Montcalm",
+   "type": "street"
+  },
+  "difficulty": "hard",
+  "notes": "Gatineau, Quebec: two green overhead motorway signs on a gantry; the photo is rotated 90° and motion-blurred through a wet windscreen. Left sign: A-50 and route 148 shields, 'OUEST', 'Boulevard des Allumettières / Rue Montcalm' with down arrows (the grave accent on Allumettières is faint). Right sign: A-5 shield, 'Gatineau CENTRE-VILLE / Ottawa / Maniwaki' with a yellow '105' route tab. Orange 'DÉTOUR' sign is a distractor."
+ }
+}

@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/6990/86/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMS5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE2LzYvMS9wcm9jLzY5OTBfYzdiOWZfNTc0ZTNiNzZmMzJhZS5qcGc",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "telenavdrives",
+  "credit_as_published": "KartaView user telenavdrives (user id 53); © KartaView contributors",
+  "title": "KartaView photo 1880754, sequence 6990 #86 (Oslo, 2016-06-01)",
+  "description": "Street-level picture on KartaView, taken 2016-06-01 near Oslo by telenavdrives, sequence 6990, heading 13.66. OCR (PP-OCRv3) read: kirken | Sentrum | Ring1 | Taxi",
+  "date": "2016-06-01",
+  "categories": [],
+  "camera_location": [
+    59.917865,
+    10.737331
+  ],
+  "found_by": "kartaview-ocr:Oslo",
+  "bytes": 672660,
+  "width": 2592,
+  "height": 1936,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMS5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE2LzYvMS9wcm9jLzY5OTBfYzdiOWZfNTc0ZTNiNzZmMzJhZS5qcGc",
+  "derivative": "whole 2592x1936 full-size processed (blurred) picture as served by the KartaView CDN (byte-identical; the service blurs faces and number plates), not cropped"
+}

@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/3021/205/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMS5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE2LzQvMjcvcHJvYy8zMDIxXzE2YWRhXzU3MjA5YmZjYTJlNzYuanBlZw",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "mco21",
+  "credit_as_published": "KartaView user mco21 (user id 74); © KartaView contributors",
+  "title": "KartaView photo 943784, sequence 3021 #205 (Bucharest, 2016-04-23)",
+  "description": "Street-level picture on KartaView, taken 2016-04-23 near Bucharest by mco21, sequence 3021, heading 159. OCR (PP-OCRv3) read: ALTex | BIGOTTI | www.blgotti.ro | L&BEA",
+  "date": "2016-04-23",
+  "categories": [],
+  "camera_location": [
+    44.428716,
+    26.100801
+  ],
+  "found_by": "kartaview-ocr:Bucharest",
+  "bytes": 218262,
+  "width": 1200,
+  "height": 900,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMS5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE2LzQvMjcvcHJvYy8zMDIxXzE2YWRhXzU3MjA5YmZjYTJlNzYuanBlZw",
+  "derivative": "crop 0,513,1200,1413 of the 2592x1936 full-size processed (blurred) picture"
+}

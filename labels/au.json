@@ -1,0 +1,122 @@
+{
+ "k349992353": {
+  "accept": false,
+  "reason": "only text is bus-operator van branding (ACTION Operations); no sign target"
+ },
+ "k352454739": {
+  "accept": false,
+  "reason": "bus livery and bus advertising seen through a dirty windscreen; vehicle branding"
+ },
+ "k363746783": {
+  "accept": true,
+  "reason": "",
+  "kind": "building tag",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "51 ALLARA",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "51 Allara Street",
+   "type": "addr"
+  },
+  "difficulty": "medium",
+  "notes": "Large black vertical letters on a white office-building facade in Canberra, reading bottom to top (address-as-building-name: 51 Allara Street, Canberra City). A small blue 'For Lease' panel is a distractor; a cyclist and cars in the foreground are incidental; car plate blurred."
+ },
+ "k377270220": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Elizabeth St",
+    "lang": "en"
+   },
+   {
+    "text": "227 - 201",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "Elizabeth Street",
+   "type": "street"
+  },
+  "difficulty": "medium",
+  "notes": "Green City of Sydney street blade with the anchor crest and the house-number range below. Distractors: 'STARBUCKS COFFEE' fascia behind it (cut by a pole), a pedestrian wayfinding totem (Hyde Park, George Street, Town Hall, Darling Harbour, Museum, Market Street, St James), a 'DRUITT ... PARK ST TO LIVERPOOL' sign and an 'AUSTRALIAN BALLET ... Opera House' banner. Many face-blurred pedestrians crossing (incidental)."
+ },
+ "p06df52f3c7": {
+  "accept": false,
+  "reason": "foundation-stone inscription; no name of a place or building to search"
+ },
+ "p5787696c0a": {
+  "accept": false,
+  "reason": "commemorative bronze plaque text (Sudan contingent) with a painting, no place name heading; same subject as pa6febfc6ef"
+ },
+ "p5d027bd4f0": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Huntsman & Dogs",
+    "lang": "en"
+   },
+   {
+    "text": "by",
+    "lang": "en"
+   },
+   {
+    "text": "Henri Alfred Marie Jacquemart",
+    "lang": "fr"
+   },
+   {
+    "text": "(1824-96)",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "Huntsman & Dogs",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Bronze statue plaque in the Royal Botanic Garden, Sydney, frontal; raised letters, some worn. The lower lines ('This statue was restored in September 2001 / through a gift in honour of the late / Lady (Berenice Mitchell) Finley / who loved these Gardens.') are context, not the target."
+ },
+ "p8b1c027474": {
+  "accept": false,
+  "reason": "single generic word 'SPRING' carved on a sculpture plinth; not a usable place name"
+ },
+ "pa6febfc6ef": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "SOUDAN CONTINGENT",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Soudan Contingent",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Heading of a bronze memorial plaque on a sandstone wall at Circular Quay, Sydney; the rest of the plaque and the second plaque below are commemorative text (distractors), which mention 'Circular Quay' and 'Victoria Barracks Paddington'. Slight upward angle."
+ },
+ "pef8afae277": {
+  "accept": false,
+  "reason": "parking regulation signs (4P campervans, caravan parking); no place name"
+ }
+}

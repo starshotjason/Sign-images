@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=4793f75a-d618-4af5-8994-71a3d6721903",
+  "original_url": "https://panoramax.openstreetmap.fr/images/47/93/f7/5a/d618-4af5-8994-71a3d6721903.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "osm-operon",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture 4793f75a-d618-4af5-8994-71a3d6721903 (Abidjan, 2024-09-11)",
+  "description": "Street-level picture taken 2024-09-11 near Abidjan by osm-operon, sequence 8f362850-cf8e-4534-95dc-677cfa990f7a, heading 18. OCR (PP-OCRv3) read: YAMOUSSOUKRO | BINGERVILLE | ABOBO | COCODY",
+  "date": "2024-09-11",
+  "categories": [],
+  "camera_location": [
+    5.3413413,
+    -4.0206732
+  ],
+  "found_by": "panoramax-ocr:Abidjan",
+  "bytes": 454588,
+  "width": 2736,
+  "height": 2052,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/47/93/f7/5a/d618-4af5-8994-71a3d6721903.jpg",
+  "derivative": "crop 1887,0,4623,2052 of the 4624x3468 HD picture"
+}

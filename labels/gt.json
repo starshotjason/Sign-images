@@ -1,0 +1,454 @@
+{
+ "k577878194": {
+  "accept": false,
+  "reason": "police vehicle livery (vehicle branding), not a place sign"
+ },
+ "c22623515": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Parque Nacional",
+    "lang": "es"
+   },
+   {
+    "text": "Tikal",
+    "lang": "es"
+   },
+   {
+    "text": "Comportamiento",
+    "lang": "es"
+   },
+   {
+    "text": "dentro del parque",
+    "lang": "es"
+   },
+   {
+    "text": "Management into the park",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Parque Nacional Tikal",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Large brown wooden park-rules board at Tikal; only the header lines are transcribed. Below are 16 Maya-glyph-framed prohibition pictograms with bilingual captions (NO ARMAS / NO GUNS, NO VEHICULOS / NO VEHICLES, ... NO BEBIDAS ALCOHOLICAS / NO ALCOHOL), which are distractors for the place query."
+ },
+ "c128590701": {
+  "accept": false,
+  "reason": "COVID capacity/rules notice at a restaurant; the restaurant name is only a small script logo"
+ },
+ "c11846923": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "SITIO",
+    "lang": "es"
+   },
+   {
+    "text": "ARQUEOLOGICO",
+    "lang": "es"
+   },
+   {
+    "text": "EL CHAL",
+    "lang": "es"
+   },
+   {
+    "text": "DEPTO. DE MONUMENTOS",
+    "lang": "es"
+   },
+   {
+    "text": "PREHISPANICOS IDAEH",
+    "lang": "es"
+   },
+   {
+    "text": "Sitio Arqueológico",
+    "lang": "es"
+   },
+   {
+    "text": "El Chal",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "El Chal",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Hand-painted IDAEH board on two wooden posts at the entrance of El Chal archaeological site (Petén), with a smaller brown arrow sign 'Sitio Arqueológico El Chal' at right. Main board has no accents."
+ },
+ "c70146613": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "GUANDY",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Guandy",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Round logo sign with a smiling bear on the gable of the Guandy confectionery factory/offices, Guatemala City. A small green street sign on the pole at right reads 'A PERIFERICO NORTE' (with up arrow); two 'NO ESTACIONAR' signs on the wall are distractors."
+ },
+ "c88258988": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Iglesia y Convento de",
+    "lang": "es"
+   },
+   {
+    "text": "San Agustin",
+    "lang": "es"
+   },
+   {
+    "text": "1615 Establecido el Convento",
+    "lang": "es"
+   },
+   {
+    "text": "1735 Innugurada la Iglesia",
+    "lang": "es"
+   },
+   {
+    "text": "1773 Destruido por terremoto",
+    "lang": "es"
+   },
+   {
+    "text": "San Agustin",
+    "lang": "es"
+   },
+   {
+    "text": "1615 Convent established",
+    "lang": "en"
+   },
+   {
+    "text": "1735 Church completed",
+    "lang": "en"
+   },
+   {
+    "text": "1773 Destroyed by earthquake",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "San Agustín",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Scroll-shaped bilingual plaque in blackletter-style script on the ruined San Agustín church, Antigua Guatemala; faded 1981 colour print. 'Innugurada' is spelled with a double n on the plaque; no accent on Agustin."
+ },
+ "c32183321": {
+  "accept": false,
+  "reason": "street scene with children as the foreground subject; shop signs (Tienda La Estrellita, Restaurante & Cafe Colonial, Hospedaje San Francisco) are secondary"
+ },
+ "c32183365": {
+  "accept": false,
+  "reason": "busy street scene; car number plate and a man's face prominent; shop sign is small"
+ },
+ "c57890163": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "DISTRIBUIDORA",
+    "lang": "es"
+   },
+   {
+    "text": "LA ECONOMICA",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "La Económica",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Overhanging distributor sign with globe logo and parrot mascot in Santa Elena (Petén); a second identical sign further right. Wires cross the sign. Distractors: 'Amilcar's Super Repuestos' / '...lcar's Super Auto Repuestos', 'Ursa', 'Qualimax', 'FARMACIA', 'CLINICAS MEDICAS', 'Way' signs; tuk-tuk '703' in foreground."
+ },
+ "c83163875": {
+  "accept": false,
+  "reason": "decorated chicken bus (vehicle branding 'Nebaj', 'DIOS ES AMOR') is the subject"
+ },
+ "c47138091": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "BIENVENIDOS/ B'A'N KYULENA",
+    "lang": "es"
+   },
+   {
+    "text": "Parque Arqueológico",
+    "lang": "es"
+   },
+   {
+    "text": "Kyja qchman",
+    "lang": "mam"
+   },
+   {
+    "text": "ZACULEU",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Zaculeu",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Spanish/Mam welcome billboard at the Zaculeu archaeological park, Huehuetenango ('B'A'N KYULENA' and 'Kyja qchman' are Mam; the apostrophes are typographic ’ on the sign). Footer logos: Gobierno de Guatemala, Ministerio de Cultura y Deportes, IDAEH. A smaller info board 'Centro arqueológico Zaculeu' below right has unreadable small text."
+ },
+ "c47208837": {
+  "accept": false,
+  "reason": "near-duplicate place sign of accepted c47138091 (Zaculeu welcome text repeated on a carved wooden board)"
+ },
+ "c64130998": {
+  "accept": true,
+  "reason": "",
+  "kind": "hard",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "MINISTERIO DE CULTURA Y DEPORTES",
+    "lang": "es"
+   },
+   {
+    "text": "INSTITUTO DE ANTROPOLOGIA E HISTORIA",
+    "lang": "es"
+   },
+   {
+    "text": "IDAEH",
+    "lang": "es"
+   },
+   {
+    "text": "DEPARTAMENTO DE MONUMENTOS",
+    "lang": "es"
+   },
+   {
+    "text": "PREHISPANICOS Y COLONIALES",
+    "lang": "es"
+   },
+   {
+    "text": "SITIO ARQUEOLOGICO",
+    "lang": "es"
+   },
+   {
+    "text": "GUMARCAA (UTATLAN)",
+    "lang": "es"
+   },
+   {
+    "text": "PROTEGIDO POR DECRETOS",
+    "lang": "es"
+   },
+   {
+    "text": "Reformado 81-98",
+    "lang": "es"
+   },
+   {
+    "text": "LEY PARA LA PROTECCION DEL",
+    "lang": "es"
+   },
+   {
+    "text": "PATRIMONIO CULTURAL DE LA NACION",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Gumarcaa",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Rusty IDAEH site sign at Q'umarkaj near Santa Cruz del Quiché, covered in scratched graffiti (names ARACELY, KEVIN, BYRON...). Top line is cut off at the frame edge; 'DEPARTAMENTO DE MONUMENTOS' is heavily rusted; decree numbers after 'DECRETOS' are scratched out (looks like '425 Y 26-97', not certain). Black arrow pointing right."
+ },
+ "c64131004": {
+  "accept": false,
+  "reason": "generic hanging boards 'COMEDOR / DESAYUNO / ALMUERZO / Y CENA' with no business name"
+ },
+ "c22596601": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "CALLE",
+    "lang": "es"
+   },
+   {
+    "text": "DE",
+    "lang": "es"
+   },
+   {
+    "text": "STO.",
+    "lang": "es"
+   },
+   {
+    "text": "DOMINGO",
+    "lang": "es"
+   },
+   {
+    "text": "UNA VIA",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Calle de Santo Domingo",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Yellow colonial tile street plaque in Antigua Guatemala with a Dominican coat of arms (two dogs with torches) between the words: read 'CALLE DE' across the top and 'STO. DOMINGO' across the bottom. Black-and-white 'UNA VIA' one-way tile sign with arrow below."
+ },
+ "c2837996": {
+  "accept": false,
+  "reason": "flood scene with a crowd; signs (Mini Bodega Gallo, Tienda Jenny) are small and secondary"
+ },
+ "c3181207": {
+  "accept": false,
+  "reason": "busy street scene with a prominent car number plate; many small signs, no main target"
+ },
+ "c5527171": {
+  "accept": true,
+  "reason": "",
+  "kind": "hard",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "EL CAIRO",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "El Cairo",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Faded 1979 colour print of Sexta Avenida, zona 1, Guatemala City: red rooftop letters 'EL CAIRO' over the department store at right (preceded by a small illegible word), and 'EL CAIRO' again on the facade. Distractors: an 'ALMACEN EL CAIRO' panel down the street, 'HOTEL', many unreadable signs, street clock; cars with small plates."
+ },
+ "c9669858": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Crush",
+    "lang": "en"
+   },
+   {
+    "text": "orange",
+    "lang": "en"
+   },
+   {
+    "text": "TDA. CARIBE No.2",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Tienda Caribe",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Crush-sponsored shop sign over a corner store in Cobán on a rainy, flooded street; big painted 'TIENDA' and 'Se Alquila Telefono' on the building below. Distractors: 'IMPRENTA / MEDI... IMPRESOS / Tel: ?1 46 59' (one digit hidden by a pole), 'PAPELERIA LA CULTURA', Claro and Gallo signs, chicken buses with plates, people sheltering incidental."
+ },
+ "c11874359": {
+  "accept": false,
+  "reason": "pedicab with passengers is the subject; restaurant sign (Las Kazuelas) is background"
+ },
+ "c15501625": {
+  "accept": false,
+  "reason": "blurred 1980 street of brand billboards (Wrangler, Delmar, Formfit); no legible place sign"
+ },
+ "c16970010": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "75 años",
+    "lang": "es"
+   },
+   {
+    "text": "Olivier",
+    "lang": "es"
+   },
+   {
+    "text": "foto estudio",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Olivier foto estudio",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Black hanging photo-studio sign with a large script 'Olivier' on 9a Avenida, Chiquimula, shot from below. Adjacent green sign 'Carné / Pasaporte / Cédula / Título' is cut off by a pole (distractor)."
+ },
+ "c23026259": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "FUJIFILM",
+    "lang": "en"
+   },
+   {
+    "text": "DIGITAL",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Fujifilm",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Brass letters on a black panel over a barred arched shop window in Antigua Guatemala, with an iron lantern above. Photographer credit 'Roger Price' (and a faint copyright line) in the bottom-right corner."
+ },
+ "c40570580": {
+  "accept": false,
+  "reason": "blurred street scene with a parked car's number plate prominent; signs cut off"
+ }
+}

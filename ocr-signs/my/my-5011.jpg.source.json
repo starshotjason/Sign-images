@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=f58ced56-1900-4d20-a12d-93189cb0d3f7",
+  "original_url": "https://panoramax.openstreetmap.fr/images/f5/8c/ed/56/1900-4d20-a12d-93189cb0d3f7.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "ravidwivedi",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture f58ced56-1900-4d20-a12d-93189cb0d3f7 (Kuala Lumpur, 2024-02-01)",
+  "description": "Street-level picture on Panoramax, taken 2024-02-01 near Kuala Lumpur by ravidwivedi, sequence f90efe3d-2eeb-4348-9a95-f1415621a362, heading 340. OCR (PP-OCRv3) read: IELINTAS TREK | ROSS TRACK | HAYA | ANGER | TING | OLTAN | ETRACK | H AKAN DIDAKWA | OLTAGE | WILL RE PROSECUTED",
+  "date": "2024-02-01",
+  "categories": [],
+  "camera_location": [
+    3.13412558,
+    101.68632209
+  ],
+  "found_by": "panoramax-ocr:Kuala Lumpur",
+  "bytes": 1386059,
+  "width": 3000,
+  "height": 2250,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/f5/8c/ed/56/1900-4d20-a12d-93189cb0d3f7.jpg",
+  "derivative": "crop 0,750,3000,3000 of the 4000x3000 HD picture"
+}

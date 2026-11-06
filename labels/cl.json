@@ -1,0 +1,78 @@
+{
+ "k1836082521": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "AVDA.",
+    "lang": "es"
+   },
+   {
+    "text": "SANTA MARIA",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Avenida Santa María",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Black Santiago street-name blade with white letters and a left-arrow panel, on a traffic-light pole; written without the accent (MARIA). A second blade above with a right arrow is edge-on and unreadable; buses at the bottom are distractors."
+ },
+ "k1840378793": {
+  "accept": false,
+  "reason": "rooftop name 'WOK ...' is hidden by tree leaves after the first word; name incomplete"
+ },
+ "k292198731": {
+  "accept": false,
+  "reason": "heavily motion-blurred; shop fascias ('...ERCASEAUX', '... DEUBALDO') cut and unreliable"
+ },
+ "p115c2ad699": {
+  "accept": false,
+  "reason": "graffiti list of personal names on a monument base, at dusk; no sign"
+ },
+ "p15a702d161": {
+  "accept": false,
+  "reason": "bus rear advertising and fleet number; vehicle branding"
+ },
+ "p4393ac946a": {
+  "accept": false,
+  "reason": "'GRAN VIALE' is a bus-body model badge (vehicle branding)"
+ },
+ "p81e2a96043": {
+  "accept": false,
+  "reason": "advertising sign for car-permit payment (CMR Falabella), partly hidden by leaves"
+ },
+ "padea5c8df2": {
+  "accept": false,
+  "reason": "graffiti and stickers only"
+ },
+ "pcdcf8bd4af": {
+  "accept": false,
+  "reason": "bus rear advertising (TV package) and route number; vehicle branding"
+ },
+ "pf84bbcf0af": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Claro",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Claro",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "White 'Claro' logo (with sun-ray mark over the o) on a long red fascia of a mobile-phone shop, dusk; a red in-store display repeats the logo. A mirrored 'eurocentro' reflection in the upper glass and a snack stand at left are distractors; passers-by incidental at the bottom edge."
+ }
+}

@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/510489/206/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlNS5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE3LzgvMy9wcm9jLzUxMDQ4OV8yN2M1Zl81OTgyNzA3NmQ0MTg2LmpwZw",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "pkoby",
+  "credit_as_published": "KartaView user pkoby (user id 3020); © KartaView contributors",
+  "title": "KartaView photo 83839069, sequence 510489 #206 (Bridgetown, 2017-08-03)",
+  "description": "Street-level picture on KartaView, taken 2017-08-03 near Bridgetown by pkoby, sequence 510489, heading 96.3. OCR (PP-OCRv3) read: DAIXESSENTIALS",
+  "date": "2017-08-03",
+  "categories": [],
+  "camera_location": [
+    13.098242,
+    -59.617708
+  ],
+  "found_by": "kartaview-ocr:Bridgetown",
+  "bytes": 177290,
+  "width": 1200,
+  "height": 900,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlNS5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE3LzgvMy9wcm9jLzUxMDQ4OV8yN2M1Zl81OTgyNzA3NmQ0MTg2LmpwZw",
+  "derivative": "crop 0,0,1200,900 of the 1440x1080 full-size processed (blurred) picture"
+}

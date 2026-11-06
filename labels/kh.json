@@ -1,0 +1,698 @@
+{
+ "p9889a3b0ad": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Khmr",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ឌ អាតធីស",
+    "lang": "km",
+    "latin": "Da Attis (The Artist)"
+   },
+   {
+    "text": "THE ARTIST",
+    "lang": "en"
+   },
+   {
+    "text": "Residence",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "The Artist Residence",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Target is the white box sign with Khmer letters on top, above the blue awning that repeats 'The Artist Residence' (by Martin&P, Cafe / Lounge). Phnom Penh, street 178. Overhead wires cross the Khmer letters; the 4th Khmer glyph read as ធី. Distractors: Cambodian People's Party office sign and WOSAG sculpture shop sign (#67 street 178) at right."
+ },
+ "pac863c6b08": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "SUZY!",
+    "lang": "en"
+   },
+   {
+    "text": "TIME CAFE",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Suzy",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Gold circular logo painted on the white wall at right; 'TIME CAFE' curves along the bottom of the ring. A chalkboard A-frame repeats the name. Pink '...PTICS' optician sign at left (Khmer, street 170 no. 63) is a cut-off distractor."
+ },
+ "pd9d368f71b": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Khmr",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "កប្បាស",
+    "lang": "km",
+    "latin": "Kabbas (cotton)"
+   },
+   {
+    "text": "KABAS",
+    "lang": "en"
+   },
+   {
+    "text": "Concept Store",
+    "lang": "en"
+   },
+   {
+    "text": "MADE IN CAMBODIA",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Kabas",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "White shop fascia at left with KABAS cotton-flower logo; 'MADE IN CAMBODIA' sits under the logo. Distractors: green Wing money-transfer sign, Confirel Showroom (green, right), Hyatt Regency lettering on the tower behind."
+ },
+ "pf88366d9bb": {
+  "accept": true,
+  "reason": "",
+  "kind": "building tag",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "SATHAPANA",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Sathapana",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Rooftop lettering with blue logo on the glass Sathapana (bank) tower at left, seen from below. The small Khmer/English 'For Rent' card on the shophouse balcony is a distractor."
+ },
+ "p11e1d09319": {
+  "accept": false,
+  "reason": "restaurant menu page, no place sign"
+ },
+ "p427301979f": {
+  "accept": false,
+  "reason": "tyre-pump instruction/price notice, not a place name"
+ },
+ "p70645af542": {
+  "accept": false,
+  "reason": "bakery display case with handwritten product prices (menu)"
+ },
+ "pa3b14a624b": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Khmr",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ម្ហូប ម៉ា ម៉ា",
+    "lang": "km",
+    "latin": "Mhob Ma Ma (Ma Ma food)"
+   },
+   {
+    "text": "MAMAK'S CORNER",
+    "lang": "en"
+   },
+   {
+    "text": "Authentic Malaysia • Singapore • Indonesia dish",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Mamak's Corner",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Red restaurant fascia, Phnom Penh. Small 'Halal-Food' top-left and 'Est. 1994' bottom-right on the same panel. Khmer line is stylised: the two short words read as ម + musikatoan + aa (ម៉ា); checker should confirm the diacritic. Distractors: grey awning above (Malaysia • Singapore • Indonesia • Brunei, partly cut off), house number 15 at left, small door plate with street number at right, WELCOME signs."
+ },
+ "paa3a0a1e58": {
+  "accept": false,
+  "reason": "drinks menu (Lost City Pizza Society), upside down"
+ },
+ "pb6c2e7172d": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "WAFFLES & COFFEE",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Waffles & Coffee",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Black letters on the white fascia over the glass shopfront, Siem Reap. The '&' is a stylised ampersand. Distractors: 'Open 08:00am - 05:00pm / Closed on Tuesday' on the glass, 'Sweet or Salty' poster, menu board on an easel in front, ABA/VISA stickers."
+ },
+ "pb847f0966b": {
+  "accept": false,
+  "reason": "burger restaurant menu"
+ },
+ "pba3665c087": {
+  "accept": false,
+  "reason": "menu page (fresh spring rolls)"
+ },
+ "pdc9b1f5c7b": {
+  "accept": false,
+  "reason": "drinks price board (menu)"
+ },
+ "pe81ef91816": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "THE LITTLE RED FOX",
+    "lang": "en"
+   },
+   {
+    "text": "ESPRESSO .CAMBODIA.",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "The Little Red Fox Espresso",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Small red embossed metal plate high on an interior cafe wall, Siem Reap, slightly angled and in warm light. Punctuation as on the plate ('.CAMBODIA.'). Distractors: ACCB conservation posters and wildlife clipboard prints at left."
+ },
+ "pfa907807f9": {
+  "accept": false,
+  "reason": "drinks menu card"
+ },
+ "c100269211": {
+  "accept": true,
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "PUB STREET",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Pub Street",
+   "type": "street"
+  },
+  "difficulty": "medium",
+  "notes": "Neon arch over Pub Street, Siem Reap, at night, seen at an angle (right-hand arch is the target). A second arch at left is cut to 'B STREET'. Many distractors: Angkor beer lightboxes, 'TEMPLE' neon signs, 'Tiger' sign, 'FRESHEST BACKED COOKIES, PASTRIES AND HOMEMADE ICE CREAM' awning, 'Fine Mexican and Khmer Cuisine'. Crowds incidental, some motion blur.",
+  "reason": ""
+ },
+ "c76161683": {
+  "accept": false,
+  "reason": "event advertisement banner (New Year's Eve show), not a place sign"
+ },
+ "c78186093": {
+  "accept": true,
+  "kind": "landmark",
+  "scripts": [
+   "Khmr",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "27",
+    "lang": "und"
+   },
+   {
+    "text": "ឃ្លាំងប្រេង",
+    "lang": "km",
+    "latin": "khleang preng (oil depot) ... [brand name, see notes]"
+   },
+   {
+    "text": "Sokimex Warehouse",
+    "lang": "en"
+   },
+   {
+    "text": "7 Km",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Sokimex",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Red-and-white kilometre stone (road km 27) by a road near Sihanoukville, pointing to the Sokimex oil depot 7 km away; grass stems cross the text. The Khmer line continues with the brand name Sokimex (4 syllable clusters after ឃ្លាំងប្រេង), but its vowel signs cannot be read reliably through the grass at this resolution, so only the first two words are transcribed. Parked motorbike at right; plate not visible.",
+  "reason": ""
+ },
+ "c78364806": {
+  "accept": false,
+  "reason": "generic destination ('Electricity Factory') on a km stone; Khmer place name not reliably legible; same sign type as accepted c78186093"
+ },
+ "c78614551": {
+  "accept": false,
+  "reason": "Khmer-only informational notice (land for a club secretariat), names no searchable place"
+ },
+ "c78614560": {
+  "accept": true,
+  "kind": "landmark",
+  "scripts": [
+   "Khmr",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "មន្ទីរកិច្ចការនារី ខេត្តព្រះសីហនុ",
+    "lang": "km",
+    "latin": "Montir Kechkar Neari Khaet Preah Sihanouk (Department of Women's Affairs, Preah Sihanouk Province)"
+   },
+   {
+    "text": "DEPARTMENT OF WOMEN'S AFFAIRS SIHANOUK PROVINCE",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Department of Women's Affairs",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Blue bilingual gate board over the entrance of the provincial Department of Women's Affairs, Sihanoukville.",
+  "reason": ""
+ },
+ "c78614571": {
+  "accept": true,
+  "kind": "street sign",
+  "scripts": [
+   "Khmr",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "វិថី ក្រុង",
+    "lang": "km",
+    "latin": "Vithei Krong"
+   },
+   {
+    "text": "VITHEI KRONG",
+    "lang": "km"
+   }
+  ],
+  "expect": {
+   "query": "Vithei Krong",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Blue bilingual street-name sign on two posts, Sihanoukville; rust streaks, background bokeh.",
+  "reason": ""
+ },
+ "c78614572": {
+  "accept": false,
+  "reason": "commemorative inscription (long dedication text), not a name sign"
+ },
+ "c78814621": {
+  "accept": false,
+  "reason": "school notice board (Chinese/Khmer notice text), not a name sign"
+ },
+ "c86087456": {
+  "accept": false,
+  "reason": "generic 'Parking' direction sign, names no place"
+ },
+ "c98545741": {
+  "accept": false,
+  "reason": "only the generic word 'Restaurant' is legible; the restaurant name is outside the frame"
+ },
+ "c7342460": {
+  "accept": true,
+  "kind": "landmark",
+  "scripts": [
+   "Khmr",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "គណបក្សប្រជាជនកម្ពុជា",
+    "lang": "km",
+    "latin": "Kanakpak Pracheachon Kampuchea (Cambodian People's Party)"
+   },
+   {
+    "text": "CAMBODIAN PEOPLE'S PARTY",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Cambodian People's Party",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Rusty blue party-office signboard on posts, Kampot, with the party emblem at left (its small ribbon text is not labelled). A cow stands beneath the sign. The apostrophe in PEOPLE'S is painted as an acute-like stroke. Small roadside billboards in the background are distractors. Political party office board, not protest content.",
+  "reason": ""
+ },
+ "c178740396": {
+  "accept": false,
+  "reason": "generic 'Halal' notice stuck on a beer advert; names no business"
+ },
+ "f00d0f7bb-1af9-4d42-8c91-3b0018ae18b8": {
+  "accept": false,
+  "reason": "courtroom interior with audience, no sign target"
+ },
+ "f0aae8ae5-b08f-426c-a3b2-b90484aa4efe": {
+  "accept": false,
+  "reason": "posed portrait of children (faces are the subject)"
+ },
+ "f0d30ac95-1314-4f9e-8b62-0bc289891ad4": {
+  "accept": true,
+  "kind": "business sign",
+  "scripts": [
+   "Khmr",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ហ្គ្រីន វេស្ប៉ា",
+    "lang": "km",
+    "latin": "Hkrin Vespa (Green Vespa)"
+   },
+   {
+    "text": "Green Vespa",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Green Vespa",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Pub fascia in Phnom Penh shot from below, with a real green Vespa on the balcony. The tagline 'Great British & ... / Pub & Resta...' is cut by the right frame edge and not labelled. Cambodia Beer logo and beer-tap graphic at left are sponsor branding (distractor).",
+  "reason": ""
+ },
+ "f1c0df71f-4544-47be-8e34-cb2a5bbb3a8a": {
+  "accept": false,
+  "reason": "historical information board (Choeung Ek), not a place-name sign"
+ },
+ "f20307a23-8f21-40d6-a977-269d1c8e5887": {
+  "accept": false,
+  "reason": "courtroom interior with audience, no sign target"
+ },
+ "f72101883-c9a3-43c9-8c6f-37779d9282a5": {
+  "accept": false,
+  "reason": "wrong country: Cummiskey Alley, Lowell, Massachusetts (USA)"
+ },
+ "f82ac81f7-85e7-4429-858b-19f28007743f": {
+  "accept": false,
+  "reason": "temple ruins, no sign"
+ },
+ "f855ead37-dfed-43f9-855e-9b2f159b3e1c": {
+  "accept": false,
+  "reason": "memorial information sign (Killing Tree), not a place-name sign"
+ },
+ "f8aee5ba2-e63e-46af-9079-c61957083977": {
+  "accept": false,
+  "reason": "rule pictogram sign (no laughing), names no place"
+ },
+ "f8f24d555-bac4-4aa2-99b4-cadbd1ab92f6": {
+  "accept": false,
+  "reason": "courtroom interior with audience, no sign target"
+ },
+ "f95b24ff0-7d46-43d7-88d4-2bcd4ed24073": {
+  "accept": false,
+  "reason": "museum information board; 'Building A' is not a searchable map name"
+ },
+ "f9aed38f3-8149-4b5b-ac5a-a6c7e468eece": {
+  "accept": false,
+  "reason": "historical information board (Choeung Ek), not a place-name sign"
+ },
+ "f9b7df48b-2c2b-47b2-adf1-d5783132fc47": {
+  "accept": false,
+  "reason": "child is the subject; only a snack packet has text"
+ },
+ "fa89b68c2-11a1-41e1-a201-027a44af38da": {
+  "accept": false,
+  "reason": "memorial information sign (Magic Tree), not a place-name sign"
+ },
+ "fb2c7eebf-cb52-46fa-b5d7-85cbce12c2b7": {
+  "accept": false,
+  "reason": "monkeys, no sign"
+ },
+ "fbf8f25b3-3607-4e6d-95b9-f973004f641e": {
+  "accept": false,
+  "reason": "temple ruins, no sign"
+ },
+ "fd01dc55a-3924-4937-8ce6-192159d62226": {
+  "accept": false,
+  "reason": "temple ruins, no sign"
+ },
+ "fe13702c7-4982-4461-a7c9-4786009049a8": {
+  "accept": false,
+  "reason": "partial name letters ('GENOCIDE') behind barbed wire; museum name not visible"
+ },
+ "fe798f57a-6aa7-44e6-b2a1-c6bf84a2b225": {
+  "accept": false,
+  "reason": "generic, partly torn 'TICKET OFFICE' arrow; names no place"
+ },
+ "ffa6f6883-1312-485e-844e-db5c9a3c9b3a": {
+  "accept": false,
+  "reason": "temple ruins, no sign"
+ },
+ "ffcd7bef0-9385-4c22-af9d-47b9755f7e12": {
+  "accept": false,
+  "reason": "courtroom interior with audience, no sign target"
+ },
+ "ffa1cede2-c923-47fa-9052-364285dc3f69": {
+  "accept": false,
+  "reason": "descriptive memorial plaque (Choeung Ek), not a place-name sign; Khmer lines not reliably legible"
+ },
+ "f87f893c0-4202-4aa0-875a-2513e5f63584": {
+  "accept": false,
+  "reason": "ground with leaves and bone fragment, no sign"
+ },
+ "f7381cf6b-dd3e-4060-bced-ccd1c2fb3cab": {
+  "accept": false,
+  "reason": "exhibit caption on a display case, not a place sign"
+ },
+ "ffb38d238-0aee-4114-8942-20cca5dd4451": {
+  "accept": false,
+  "reason": "long interpretive text board, not a name sign"
+ },
+ "fd990202b-697c-4149-bb05-9aee67417786": {
+  "accept": false,
+  "reason": "temple ruins, no sign"
+ },
+ "fcb00eced-0853-44e0-9a05-1fb48a215ba8": {
+  "accept": false,
+  "reason": "temple ruins, no sign"
+ },
+ "fadae2238-19d5-4ccb-992d-9dfb6c931a5b": {
+  "accept": false,
+  "reason": "Khmer Rouge tribunal courtroom news/NGO photo, no target sign"
+ },
+ "c160619494": {
+  "accept": false,
+  "reason": "STOP sign with graffiti, no place name"
+ },
+ "c78712377": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Khmr",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ស្រុកស្ទឹងហាវ",
+    "lang": "km",
+    "latin": "Srok Stueng Hav (Stueng Hav District)"
+   },
+   {
+    "text": "Steung Hav District",
+    "lang": "en"
+   },
+   {
+    "text": "ទំនប់រលក",
+    "lang": "km",
+    "latin": "Tumnob Rolok"
+   },
+   {
+    "text": "Tomnob Rolork",
+    "lang": "en"
+   },
+   {
+    "text": "ផ្លូវជាតិលេខ៤",
+    "lang": "km",
+    "latin": "Phlov Cheat Lek 4 (National Road 4)"
+   },
+   {
+    "text": "National Road Number 4",
+    "lang": "en"
+   },
+   {
+    "text": "ភ្នំពេញ",
+    "lang": "km",
+    "latin": "Phnom Penh"
+   },
+   {
+    "text": "Phnom Penh",
+    "lang": "en"
+   },
+   {
+    "text": "វាលរេញ",
+    "lang": "km",
+    "latin": "Veal Renh"
+   },
+   {
+    "text": "Veal Rinh",
+    "lang": "en"
+   },
+   {
+    "text": "កំពត",
+    "lang": "km",
+    "latin": "Kampot"
+   },
+   {
+    "text": "Kampot",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Tomnob Rolork",
+   "type": "place"
+  },
+  "difficulty": "easy",
+  "notes": "Green roundabout advance-direction sign (Y-shaped junction diagram) in Stueng Hav District; left column (left branch) listed first, then right column. Khmer numeral ៤ in the road-number line. Speed-limit 25T plate at bottom is a distractor."
+ },
+ "f6c1ae6b4-53cf-4288-983f-c9ce924d32bf": {
+  "accept": false,
+  "reason": "temple stairway and statues, no sign"
+ },
+ "fd3f08bdb-aa07-4858-8f45-fb838c9e29e8": {
+  "accept": false,
+  "reason": "film poster (advert) on a tree"
+ },
+ "f1e5a3ed4-4bbd-4d06-8118-b749510a7f40": {
+  "accept": false,
+  "reason": "bus-stop plate too small and blurred to read; bus is the subject"
+ },
+ "f9970e9d9-66a1-4e16-932b-b11b4ac293ef": {
+  "accept": false,
+  "reason": "office door plate ('Chief of Exploitation 3'), not a mappable place"
+ },
+ "f1d44c242-141d-45c6-97a6-a39381474120": {
+  "accept": false,
+  "reason": "night bar interior with menu boards; no readable name sign"
+ },
+ "f6978d6cf-2816-4838-b48c-37c4a5e9403e": {
+  "accept": false,
+  "reason": "temple causeway, no sign"
+ },
+ "f64b10396-c878-42d0-b647-3e5be072001a": {
+  "accept": false,
+  "reason": "dark night shopfront; beer-branded banners, name not legible"
+ },
+ "f70a9a9bb-f855-4938-b84a-c8112f3ae351": {
+  "accept": false,
+  "reason": "market aisle with child as subject, no sign"
+ },
+ "f7274588b-a8b2-4ff9-9a6f-4ff51fde1c35": {
+  "accept": false,
+  "reason": "musicians are the subject; small sign unreadable"
+ },
+ "f24b9e437-3304-4bf8-ad64-90c1db779866": {
+  "accept": false,
+  "reason": "fragment of a cut-off wall inscription, no complete name"
+ },
+ "c118265646": {
+  "accept": false,
+  "reason": "generic country-name border sign at Chong Chom/O'Smach; lower welcome panel hidden by plants"
+ },
+ "c22502163": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Khmr",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "បន្ទាយក្ដី ១៥០ ម",
+    "lang": "km",
+    "latin": "Banteay Kdei 150 m"
+   },
+   {
+    "text": "ក្រវ៉ាន់ ១,៥ គ.ម",
+    "lang": "km",
+    "latin": "Kravan 1.5 km"
+   },
+   {
+    "text": "អង្គរវត្ត ៦,៥ គ.ម",
+    "lang": "km",
+    "latin": "Angkor Vat 6.5 km"
+   },
+   {
+    "text": "សៀមរាប ១២ គ.ម",
+    "lang": "km",
+    "latin": "Siem Reap 12 km"
+   },
+   {
+    "text": "BANTEAY KDEI 150 m",
+    "lang": "en"
+   },
+   {
+    "text": "KRAVAN 1,5 km",
+    "lang": "en"
+   },
+   {
+    "text": "ANGKOR VAT 6,5Km",
+    "lang": "en"
+   },
+   {
+    "text": "SIEM REAP 12 Km",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Banteay Kdei",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Painted stone direction pillar in the Angkor park; target is the front (right) face under the right arrow. Khmer distances use Khmer digits with a comma decimal (១,៥) and គ.ម for km. 'SIEM REAP' is half peeled (only S-EM R..P traces). The subscript in ក្ដី is drawn the same as ្ត; standard spelling with ្ដ used. The left face (Ta Prohm 1 km, Takeo 3 km, Chau Say 3.5 km, Thommanon) is a distractor at an angle."
+ },
+ "c112849359": {
+  "accept": false,
+  "reason": "elevated street panorama; many small signs, no single target"
+ },
+ "f79ef77e0-9a44-4a61-a7a5-311d17a267e2": {
+  "accept": false,
+  "reason": "temple doorway with roots, no sign"
+ },
+ "f2339cde1-6d1c-425d-b921-b0843e9919c7": {
+  "accept": false,
+  "reason": "ruined window, no sign"
+ }
+}

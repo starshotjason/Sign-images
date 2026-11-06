@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.mapcomplete.org/#focus=pic&pic=e1d7592a-2db2-463c-bce8-b9860669ca98",
+  "original_url": "https://panoramax.mapcomplete.org/permanent/e1/d7/59/2a/2db2-463c-bce8-b9860669ca98.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "mapcomplete",
+  "credit_as_published": "Panoramax, instance mapcomplete (https://panoramax.mapcomplete.org)",
+  "title": "Panoramax picture e1d7592a-2db2-463c-bce8-b9860669ca98 (Belgrade, 2021-08-09)",
+  "description": "Street-level picture on Panoramax, taken 2021-08-09 near Belgrade by mapcomplete, sequence 1de6f4a1-73ac-4c75-ab7f-2a2aabddf50a, heading 275. OCR (PP-OCRv3) read: Pastell | SHOP | CAKE",
+  "date": "2021-08-09",
+  "categories": [],
+  "camera_location": [
+    44.8209414,
+    20.4569453
+  ],
+  "found_by": "panoramax-ocr:Belgrade",
+  "bytes": 274894,
+  "width": 1200,
+  "height": 1218,
+  "downloaded_url": "https://panoramax.mapcomplete.org/permanent/e1/d7/59/2a/2db2-463c-bce8-b9860669ca98.jpg",
+  "derivative": "crop 0,0,1200,1218 of the 1200x1600 HD picture"
+}

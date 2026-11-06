@@ -1,0 +1,35 @@
+{
+  "source": "flickr",
+  "source_url": "https://www.flickr.com/photos/54665539@N03/6119858710",
+  "original_url": "https://live.staticflickr.com/6208/6119858710_311d363864_o.jpg",
+  "license_as_published": "CC BY-SA 2.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/2.0/",
+  "author_as_published": "Ozan Huseyin",
+  "credit_as_published": "\"Road sign in Nicosia\" by Ozan Huseyin is licensed under CC BY-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.0/.",
+  "title": "Road sign in Nicosia",
+  "description": "",
+  "date": "",
+  "categories": [
+    "cyprus",
+    "nicosia",
+    "sign",
+    "trnc"
+  ],
+  "camera_location": null,
+  "found_by": "openverse:Nicosia sign",
+  "bytes": 151012,
+  "width": 576,
+  "height": 1024,
+  "downloaded_url": "https://api.openverse.org/v1/images/f7254531-1d8d-493b-ac31-433193380a7b/thumb/?full_size=true&compressed=false",
+  "derivative": "Flickr's published 1024 px 'large' rendition, served by the Openverse image API (Flickr originals were throttled for this client)",
+  "flickr": {
+    "flickr_url": "https://www.flickr.com/photos/54665539@N03/6119858710",
+    "flickr_license": "CC BY-SA 2.0",
+    "lat": null,
+    "lon": null,
+    "original_url": "https://live.staticflickr.com/6208/6119858710_311d363864_o.jpg",
+    "flickr_license_code": 5,
+    "retrieved": "2026-11-06T05:47:04.788457+00:00"
+  },
+  "openverse_id": "f7254531-1d8d-493b-ac31-433193380a7b"
+}

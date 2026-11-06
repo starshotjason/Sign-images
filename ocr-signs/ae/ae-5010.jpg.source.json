@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/469191/127/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlNC5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE3LzYvMTYvcHJvYy80NjkxOTFfNWQzZmVfNjQuanBn",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "baraakamal",
+  "credit_as_published": "KartaView user baraakamal (user id 9986); © KartaView contributors",
+  "title": "KartaView photo 46507909, sequence 469191 #127 (Dubai, 2017-06-15)",
+  "description": "Street-level picture on KartaView, taken 2017-06-15 near Dubai by baraakamal, sequence 469191, heading 0. OCR (PP-OCRv3) read: [unread] WTISTUZNTHORNAD,MADHBI&MAG | Tel:042354444 | GOLPEECH SAFFRO",
+  "date": "2017-06-15",
+  "categories": [],
+  "camera_location": [
+    25.266051,
+    55.295233
+  ],
+  "found_by": "kartaview-ocr:Dubai",
+  "bytes": 534264,
+  "width": 4128,
+  "height": 2322,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlNC5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE3LzYvMTYvcHJvYy80NjkxOTFfNWQzZmVfNjQuanBn",
+  "derivative": "whole 4128x2322 full-size processed (blurred) picture as served by the KartaView CDN (byte-identical; the service blurs faces and number plates), not cropped"
+}

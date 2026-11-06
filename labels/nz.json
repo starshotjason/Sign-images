@@ -1,0 +1,194 @@
+{
+ "k337367263": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "OXYGEN",
+    "lang": "en"
+   },
+   {
+    "text": "oxygen.co.nz",
+    "lang": "und"
+   },
+   {
+    "text": "Letting | Property Management | Body Corporate",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Oxygen",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Black channel letters on a white facade with a pink-and-white web/services panel below (Wellington). The black panel '27 BULLER STREET' on the neighbouring building is an address distractor (addr query 27 Buller Street); 'Professionals' signs at left are cut. Shot through a windscreen with a dark blob at top right; car plates blurred."
+ },
+ "p1d2018ac8e": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "CIRCA",
+    "lang": "en"
+   },
+   {
+    "text": "THEATRE",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Circa Theatre",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Red serif letters with a circular C logo on the black facade of the theatre on the Wellington waterfront. Distractors: 'PRIME Interiors' van lettering, a Vivienne Westwood poster at left (face blurred). Pedestrians with a pram are face-blurred and incidental."
+ },
+ "p2b31fb8699": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "SWITCHED",
+    "lang": "en"
+   },
+   {
+    "text": "ON BIKES",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Switched On Bikes",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Painted panel on a shipping-container shop with a bicycle-plug logo; 'SWITCHED ON' in yellow, 'BIKES' in white. A 'WE'VE MOVED' notice and a small map are pasted on it (the shop may have relocated). Port straddle-carrier at left, number 14 on a pillar."
+ },
+ "p617aa6d973": {
+  "accept": true,
+  "reason": "",
+  "kind": "hard",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ARTHUR ST",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Arthur Street",
+   "type": "street"
+  },
+  "difficulty": "hard",
+  "notes": "Small white street blade with a dark border on a traffic-light pole, mid-frame and small. The bus-shelter advert at left ('REAL MAGIC', Anchor milk, child's face blurred) is a large distractor; a blue direction sign at top left is too small. Pedestrians face-blurred."
+ },
+ "p8645245cdc": {
+  "accept": false,
+  "reason": "bus rear advertising (Outlet City) dominates the frame, taken from a following bus; shop signs are small"
+ },
+ "pa559a6f5bd": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "New Zealand",
+    "lang": "en"
+   },
+   {
+    "text": "Sotheby's",
+    "lang": "en"
+   },
+   {
+    "text": "INTERNATIONAL REALTY",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Sotheby's International Realty",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Black under-verandah sign at the top edge of the frame, slight blur; the small third line is barely legible. Apostrophe is typographic (’)."
+ },
+ "paab834c4c4": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "JAMES COOK ARCADE",
+    "lang": "en"
+   },
+   {
+    "text": "James Cook",
+    "lang": "en"
+   },
+   {
+    "text": "HOTEL GRAND",
+    "lang": "en"
+   },
+   {
+    "text": "CHANCELLOR",
+    "lang": "en"
+   },
+   {
+    "text": "WELLINGTON • NEW ZEALAND",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "James Cook Arcade",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Arched entrance sign on Lambton Quay/Willis St, Wellington: 'JAMES COOK ARCADE' around the arch (gold band) and the hotel name inside (red serif letters). Taken from the top deck of a bus; the 'www.outletcity.co.nz / OUTLET CITY' advert on the bus ahead fills the bottom of the frame and is a distractor, as are a 'For Lease' banner and bus destination displays. The 'Hotel Grand Chancellor' is also a valid poi query."
+ },
+ "pe0cc31a6aa": {
+  "accept": false,
+  "reason": "bus rear advertising (Outlet City, brand list, '24 Main Road, Tawa') is the dominant text; near-duplicate of the same bus in p8645245cdc"
+ },
+ "pe95f2e23e4": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Dakota",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Dakota",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Large black script letters on a white weatherboard verandah fascia at the far left (Cuba St area, Wellington), seen from the top deck of a bus. 'THE POW WOW ROOM' black sign above, 'BALLROOM' further along, 'Victory' building lettering and 'Giana'/'ABV' signs at right are distractors; the bus rear advert 'DRINK. NOURISH. GROW.' (Anchor) in the middle is vehicle advertising."
+ },
+ "pf6ccedaa59": {
+  "accept": false,
+  "reason": "bus rear advertising (Outlet City, Happy Easter) dominates; same bus as p8645245cdc"
+ }
+}

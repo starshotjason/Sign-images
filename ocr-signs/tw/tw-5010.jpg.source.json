@@ -1,0 +1,28 @@
+{
+  "source": "tcmb",
+  "source_url": "https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=301977",
+  "original_url": "https://dcm.s3.hicloud.net.tw/h_upload/excel/object/2019-12-05/287e3a59-941b-470a-95e7-7658d4912a5e/collection/244 中壢車站-pic.jpg",
+  "license_as_published": "CC BY-SA",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/3.0/tw/",
+  "author_as_published": "Foxy1219 / 內容力",
+  "credit_as_published": "Foxy1219 / 內容力（內容力有限公司）, 國家文化記憶庫 Taiwan Cultural Memory Bank, CC BY-SA",
+  "title": "中壢車站",
+  "description": "圖片為中壢車站，摘自維基百科 ，攝影者為Foxy1219，CC BY-SA 4.0，建立於：2019年7月13日。 中壢車站位於臺灣桃園市中壢區，為臺灣鐵路管理局縱貫線的鐵路車站。在臺鐵各車站旅客進出人次排名為第3名，僅次於臺北車站和桃園車站。 1893年清政府於台北至新竹間鋪設鐵路，同時設立中壢火車碼頭，為中壢站起源。歷史上中壢車站站房曾歷經3次改建。1895年甲午戰爭結束、台灣割讓予日本後，中壢車站於1896年7月5日更名中壢驛，辦理一般運輸業務，此站房屬日治時期建築之木造站房。隨著旅客及列車班次不斷增加，總督府鐵道部利用當時彰化驛改建所拆卸之材料，用於中壢驛站房之改建，於1918年4月7日完工啟用。戰後因地方日漸繁榮，且日式木造站房已經不敷使用，於1950年改建為鋼筋水泥站房，該建築是戰後鐵路局最先改建之車站。1970年，由於地方快速發展、站房設施不敷使用而再度改建，於1971年完成使用。",
+  "date": "2019/7/13",
+  "categories": [
+    "社會與政治",
+    "中壢火車碼頭",
+    "中壢車站",
+    "中壢驛"
+  ],
+  "camera_location": [
+    24.953762,
+    121.2261124
+  ],
+  "found_by": "tcmb-opendata:dataSet/culture title/keyword match '車站'; rapidocr pre-screen read ['Zhongli Station']; visually reviewed",
+  "bytes": 1371533,
+  "width": 3345,
+  "height": 2507,
+  "downloaded_url": "https://tcmb.culture.tw/imagor/filters:raw()/https%3A%2F%2Fdcm.s3.hicloud.net.tw%2Fh_upload%2Fexcel%2Fobject%2F2019-12-05%2F287e3a59-941b-470a-95e7-7658d4912a5e%2Fcollection%2F244%20%E4%B8%AD%E5%A3%A2%E8%BB%8A%E7%AB%99-pic.jpg",
+  "derivative": ""
+}

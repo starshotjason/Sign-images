@@ -1,0 +1,122 @@
+{
+ "k158898849": {
+  "accept": false,
+  "reason": "rear-window sticker on a car (BASBOYS); vehicle branding"
+ },
+ "k158922511": {
+  "accept": false,
+  "reason": "pickup tailgate lettering (MITSUBISHI); vehicle branding"
+ },
+ "k158929307": {
+  "accept": false,
+  "reason": "drink-brand logo (Fruta) painted on a wall; advert, not a place name"
+ },
+ "k158943521": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ACCESSORIES-PLUS",
+    "lang": "en"
+   },
+   {
+    "text": "Vehicle Rentals, Spare Parts, Imports/Exports, Printing.",
+    "lang": "en"
+   },
+   {
+    "text": "QUALITY SERVICE AT A LOW RATE",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Accessories Plus",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Long white board under a porch roof, Roseau, seen at an angle from a car. Left block 'MIAMI SKYMAIL DOMINICA' (with tiny tagline and URL) and VISA/Mastercard logos are distractors; tiny contact lines at the right are unreadable."
+ },
+ "k158969693": {
+  "accept": false,
+  "reason": "only a phone number on an awning and a rental-company decal on a vehicle; no place name"
+ },
+ "k159014027": {
+  "accept": false,
+  "reason": "vehicle branding (M Kommunikation)"
+ },
+ "k160731603": {
+  "accept": false,
+  "reason": "shipping-container markings; no sign"
+ },
+ "k160731729": {
+  "accept": false,
+  "reason": "van branding (RUBiS)"
+ },
+ "k160744065": {
+  "accept": false,
+  "reason": "car rear with badges and bumper stickers; no sign"
+ },
+ "k160781681": {
+  "accept": false,
+  "reason": "rear of a garbage truck; no sign"
+ },
+ "k160782019": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "FETISH",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Fetish",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Red projecting shop sign with black letters below a balcony, Roseau, shot from below at an angle; a small bird/butterfly logo sits before the F."
+ },
+ "k160783315": {
+  "accept": true,
+  "reason": "",
+  "kind": "hard",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "NCE BAPTIST CHURCH",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Baptist Church",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Green painted letters on a church wall at the left edge of a wide street view, Roseau; the start of the first word is cut by the frame (only '...NCE' visible). A small notice board by the gate repeats the full church name but is too small to read reliably. 'GATE USE / KEEP CLEAR' painted on the wall at right is a distractor; hurricane debris in the street."
+ },
+ "k160784819": {
+  "accept": false,
+  "reason": "truck decal (PAHO / World Health Organization); vehicle branding"
+ },
+ "k160833685": {
+  "accept": false,
+  "reason": "shipping container lettering (MAERSK)"
+ },
+ "k160835581": {
+  "accept": false,
+  "reason": "minibus branding (Perky's Pizza)"
+ },
+ "c171136071": {
+  "accept": false,
+  "reason": "scan of a handwritten music score (Michael Haydn vespers), not a sign photo and not Dominica"
+ }
+}

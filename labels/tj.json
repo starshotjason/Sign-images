@@ -1,0 +1,193 @@
+{
+  "k1111962746": {
+    "accept": false,
+    "reason": "advertising billboard (City Card slogan) and minibus rear; no place sign"
+  },
+  "k1111962626": {
+    "accept": false,
+    "reason": "advertising billboard (RITTER laminate) and truck rear with number plate; no place sign"
+  },
+  "c72062267": {
+    "accept": false,
+    "reason": "museum exhibit caption panel (Genghis Khan picture with paragraphs of text), document-like, not a place sign"
+  },
+  "c111631486": {
+    "accept": false,
+    "reason": "wall map with text panels in a museum; a map/document, not a place sign"
+  },
+  "c115643377": {
+    "accept": false,
+    "reason": "near-duplicate of accepted c41727195 (same National Museum of Antiquities facade lettering, smaller here)"
+  },
+  "fa78066ca-1668-451c-af83-9f943bccbdb0": {
+    "accept": false,
+    "reason": "crowded street with people's faces prominent; only window advertising (ШИРИНИҲОИ ПУРЛАЗАТ, Ülker) visible"
+  },
+  "f5c0c651d-02c6-4894-8cc4-0307ea3093ed": {
+    "accept": false,
+    "reason": "shelves of dried fruit and nuts with price tags; no sign"
+  },
+  "f8bd5bf34-1114-4e72-bd0e-f307c2a302e4": {
+    "accept": false,
+    "reason": "market vendors' faces are the subject; only a handwritten price card"
+  },
+  "c41727195": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Cyrl",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "НАЦИОНАЛЬНЫЙ МУЗЕЙ ДРЕВНОСТЕЙ ТАДЖИКИСТАНА",
+        "lang": "ru",
+        "latin": "Natsionalny muzey drevnostey Tadzhikistana"
+      },
+      {
+        "text": "ОСОРХОНАИ МИЛЛИИ БОСТОНИИ ТОҶИКИСТОН",
+        "lang": "tg",
+        "latin": "Osorkhonai millii bostonii Tojikiston (National Museum of Antiquities of Tajikistan)"
+      },
+      {
+        "text": "NATIONAL MUSEUM OF ANTIQUITIES OF TAJIKISTAN",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "National Museum of Antiquities",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Trilingual metal lettering on blue bands above the three arches, Dushanbe (Russian left, Tajik centre, English right), each name over four short rows. Tajik uses Ҷ (U+04B6) in ТОҶИКИСТОН. In the English, 'of' is lowercase-styled in small letters before ANTIQUITIES and TAJIKISTAN. The small free-standing board at the lower left (Museum of ethnography) is a distractor; scaffolding at left."
+  },
+  "c157004886": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Cyrl"
+    ],
+    "lines": [
+      {
+        "text": "АМОНАТБОНК",
+        "lang": "tg",
+        "latin": "Amonatbonk"
+      }
+    ],
+    "expect": {
+      "query": "Амонатбонк",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Green letters on a curved canopy over the head office entrance of Amonatbonk, Dushanbe, shot upward so the letter row arcs; logo above. A small yellow notice by the door is a distractor; the guard is incidental."
+  },
+  "c64327916": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Cyrl",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "ОСОРХОНАИ ТАЪРИХИИ",
+        "lang": "tg",
+        "latin": "Osorkhonai ta'rikhii"
+      },
+      {
+        "text": "ВИЛОЯТИ СУҒД",
+        "lang": "tg",
+        "latin": "viloyati Sughd (Historical Museum of Sughd Region)"
+      },
+      {
+        "text": "ИСТОРИЧЕСКИЙ МУЗЕЙ",
+        "lang": "ru",
+        "latin": "Istorichesky muzey"
+      },
+      {
+        "text": "СОГДИЙСКОЙ ОБЛАСТИ",
+        "lang": "ru",
+        "latin": "Sogdiyskoy oblasti"
+      },
+      {
+        "text": "HISTORICAL MUSEUM",
+        "lang": "en"
+      },
+      {
+        "text": "OF SUGHD REGION",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Historical Museum of Sughd Region",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Metal letters on the brick gate tower of the museum in the Khujand fortress. Stylised serif type: the Ъ in ТАЪРИХИИ has a small left flag and can be misread as Б, Л in ВИЛОЯТИ is drawn like Λ, СУҒД uses Ғ (U+0492). Three visitors pose in the doorway below (incidental). Small house-number plate '59' at right of the door (street name too small) and a framed notice at left are distractors."
+  },
+  "c20915841": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Cyrl"
+    ],
+    "lines": [
+      {
+        "text": "ГБАО",
+        "lang": "ru",
+        "latin": "GBAO (Gorno-Badakhshan Autonomous Oblast)"
+      },
+      {
+        "text": "НАРОД",
+        "lang": "ru",
+        "latin": "Narod"
+      },
+      {
+        "text": "ГОРНОГО БАДАХШАНА",
+        "lang": "ru",
+        "latin": "Gornogo Badakhshana"
+      },
+      {
+        "text": "ПРИВЕТСТВУЮТ ВАС!",
+        "lang": "ru",
+        "latin": "privetstvuyut vas! (The people of Gorno-Badakhshan welcome you!)"
+      }
+    ],
+    "expect": {
+      "query": "Горно-Бадахшанская автономная область",
+      "type": "place"
+    },
+    "difficulty": "medium",
+    "notes": "Regional welcome sign at Kyzylart Pass on the Kyrgyz border: big black block letters ГБАО on a white pylon with two round emblems, and a rail panel with spaced letters. 'Н А Р О Д' is letter-spaced. The yurt-shaped shelter at right has no text."
+  },
+  "c95501880": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Cyrl",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "БОСТОН",
+        "lang": "tg",
+        "latin": "Boston"
+      },
+      {
+        "text": "BOSTON",
+        "lang": "tg"
+      }
+    ],
+    "expect": {
+      "query": "Бостон",
+      "type": "place"
+    },
+    "difficulty": "medium",
+    "notes": "End-of-settlement sign with a red diagonal bar crossing both lines (white panel, black letters), roadside near Dushanbe, at mid-distance."
+  }
+}

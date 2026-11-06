@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=d44bea3a-55f5-416b-b82c-540493172199",
+  "original_url": "https://panoramax.openstreetmap.fr/images/d4/4b/ea/3a/55f5-416b-b82c-540493172199.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "Robot8A",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture d44bea3a-55f5-416b-b82c-540493172199 (Amsterdam, 2025-07-07)",
+  "description": "360-degree panorama on Panoramax, taken 2025-07-07 near Amsterdam by Robot8A, sequence 05fa96fc-3018-44a1-9a93-bcf96ea98716, heading 217. OCR (PP-OCRv3) read: applicom | uchttechniek | BITTERZOET",
+  "date": "2025-07-07",
+  "categories": [],
+  "camera_location": [
+    52.3773102,
+    4.8943237
+  ],
+  "found_by": "panoramax-ocr:Amsterdam",
+  "bytes": 228423,
+  "width": 1020,
+  "height": 765,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/d4/4b/ea/3a/55f5-416b-b82c-540493172199.jpg",
+  "derivative": "rectilinear (gnomonic) view, yaw +113.0 deg from the panorama centre, pitch -22.8 deg, horizontal field of view 90 deg, 1020x765 px, reprojected from the 4096x2048 HD equirectangular panorama"
+}

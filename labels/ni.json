@@ -1,0 +1,486 @@
+{
+ "k241467481": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "BODEGON",
+    "lang": "es"
+   },
+   {
+    "text": "PACAS",
+    "lang": "es"
+   },
+   {
+    "text": "Tel.: 2250-5762 / 8440-9995",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "Bodegón Pacas",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Managua pole sign against an evening sky, roof outline over the large B; BODEGON written without the accent. 'Casa de Empeño SOFIA' sign further down the road and a Mazda pickup are distractors."
+ },
+ "k241508381": {
+  "accept": true,
+  "reason": "",
+  "kind": "hard",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "CASA PELLAS SUCURSAL NORTE",
+    "lang": "es"
+   },
+   {
+    "text": "KM 5.5 CARRETERA NORTE",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Casa Pellas",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Managua: fabric banner strung across the road at the right, small and soft. The phone number after the address and the red 'FINANCIAMIENTO DISPONIBLE' strip are not reliably legible; Hino and truck pictures at right. Second banner ('Ofertas … 2016 …') and 'Placas Conmemorativas' board are distractors; Toyota tailgate in the foreground."
+ },
+ "k241508341": {
+  "accept": true,
+  "reason": "",
+  "kind": "hard",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "RESTAURANTE",
+    "lang": "es"
+   },
+   {
+    "text": "ORIENTAL",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Restaurante Oriental",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Managua: long faded fascia in the middle distance; a small red script word between RESTAURANTE and ORIENTAL is illegible. Foreground pole signs ('close-out', 'super EXPRESS', 'Farmacity', 'Pintacasa'), 'Farmacity 1-800-2121', 'YA ABRIMOS' and 'Ale…' shop fascias are distractors."
+ },
+ "k241821121": {
+  "accept": true,
+  "reason": "",
+  "kind": "hard",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "LA VENTECITA",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "La Ventecita",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Managua corner shop at dusk: dark red letters painted on a yellow wall, a pole crosses between N and T. 'BIG COLA' branding panels and posters on the same wall are adverts/distractors."
+ },
+ "k241467461": {
+  "accept": false,
+  "reason": "near-duplicate of k241467481 (same drive); only a cut-off 'Pacas Prem…' sign"
+ },
+ "k241467521": {
+  "accept": false,
+  "reason": "backlit; Hero motorcycle advert and a cut-off notary sign"
+ },
+ "k241428727": {
+  "accept": false,
+  "reason": "pure advert billboard (commemorative plaques) and wall graffiti"
+ },
+ "c148891702": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "BICU'S",
+    "lang": "en"
+   },
+   {
+    "text": "HISTORICAL - CULTURAL",
+    "lang": "en"
+   },
+   {
+    "text": "MUSEUM",
+    "lang": "en"
+   },
+   {
+    "text": "Museo",
+    "lang": "es"
+   },
+   {
+    "text": "Histórico Cultural",
+    "lang": "es"
+   },
+   {
+    "text": "BICU",
+    "lang": "es"
+   },
+   {
+    "text": "Rescatando Nuestras Raices",
+    "lang": "es"
+   },
+   {
+    "text": "Let's rescue and preserve",
+    "lang": "en"
+   },
+   {
+    "text": "our cultural Heritage",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Museo Histórico Cultural",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Framed stencilled museum board on clapboard wall, Bluefields (BICU university museum). Round emblem with turtle, machete and sword; 'Rescatando Nuestras Raices' arcs around the bottom. The light-blue line 'Let's rescue and preserve' is badly faded (apostrophe not visible)."
+ },
+ "c64134044": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "AVENIDA",
+    "lang": "es"
+   },
+   {
+    "text": "BARRICADA",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Avenida Barricada",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Blue-and-white glazed tile street plaque with ornamental border on a mauve wall, Granada; crazed glaze and paint drips."
+ },
+ "c5035822": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Modelo",
+    "lang": "es"
+   },
+   {
+    "text": "FERRETERIA CALERO",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Ferretería Calero",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Beer-sponsored hanging shop sign (Modelo logo) over a blue building on a Bluefields street. Distractors: big 'el machetazo' promo banner across the street ('¡oleada de ofertas', 'hasta 50 meses de plazo'), 'SUR / COMERCIAL BENDAÑA', 'MIRIAM', 'BLUEFIELDS ESTA CON VOS' banners; a small car with a plate is incidental."
+ },
+ "c105493184": {
+  "accept": false,
+  "reason": "painted Pepsi advertisement with bullet holes; no shop name (only a small 'DOBLE VIA' traffic sign)"
+ },
+ "c129260813": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "PARQUE NACIONAL",
+    "lang": "es"
+   },
+   {
+    "text": "VOLCAN",
+    "lang": "es"
+   },
+   {
+    "text": "MASAYA",
+    "lang": "es"
+   },
+   {
+    "text": "PLAZA DE OVIEDO",
+    "lang": "es"
+   },
+   {
+    "text": "Cruz de Bobadilla",
+    "lang": "es"
+   },
+   {
+    "text": "PARQUE NACIONAL VOLCAN MASAYA",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Plaza de Oviedo",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Concrete monument sign with yellow raised letters at the Masaya Volcano crater car park; park logo plaque on the pillar at left. No accents (VOLCAN). Small rules sign in the background is illegible."
+ },
+ "c35149880": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "LA PAZ CENTRO",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "La Paz Centro",
+   "type": "place"
+  },
+  "difficulty": "easy",
+  "notes": "Green-and-white town-name road sign on a post beside the highway into La Paz Centro (León); brick stacks and firewood behind."
+ },
+ "c105493654": {
+  "accept": false,
+  "reason": "political placard beside a museum tank ('RIDICULO TANQUE QUE EL DICTADOR FACISTA...'); not a place name"
+ },
+ "c148888372": {
+  "accept": false,
+  "reason": "printed tsunami evacuation map (map, not a sign)"
+ },
+ "c148888623": {
+  "accept": false,
+  "reason": "congregation meeting-time board (Kriol/Spanish/Miskitu schedule); no place or building name beyond congregation labels"
+ },
+ "c148888980": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "WELCOME",
+    "lang": "en"
+   },
+   {
+    "text": "TO",
+    "lang": "en"
+   },
+   {
+    "text": "Water of Life Church",
+    "lang": "en"
+   },
+   {
+    "text": "Bible teaching",
+    "lang": "en"
+   },
+   {
+    "text": "Young people fellowship sat 5:30 PM",
+    "lang": "en"
+   },
+   {
+    "text": "Sunday school sun 10:30 AM",
+    "lang": "en"
+   },
+   {
+    "text": "Sunday night Worship sun 6:30 PM",
+    "lang": "en"
+   },
+   {
+    "text": "Prayer meetin tue 6:30 PM",
+    "lang": "en"
+   },
+   {
+    "text": "Bible reflextion thu 6:00 PM",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Water of Life Church",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Hand-painted church board under a tin roof on Big Corn Island; brush lettering, spelling as painted ('meetin', 'reflextion'). Schedule lines: names at left, day/time at right; the 'PM'/'AM' are small superscripts and the last time is partly faded."
+ },
+ "c10540784": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "EL SAUCE",
+    "lang": "es"
+   },
+   {
+    "text": "IGLESIA",
+    "lang": "es"
+   },
+   {
+    "text": "ESQUIPULAS",
+    "lang": "es"
+   },
+   {
+    "text": "Inicia como Ermita",
+    "lang": "es"
+   },
+   {
+    "text": "venerada su imagen",
+    "lang": "es"
+   },
+   {
+    "text": "desde 1723",
+    "lang": "es"
+   },
+   {
+    "text": "MONUMENTO",
+    "lang": "es"
+   },
+   {
+    "text": "MONOLITO",
+    "lang": "es"
+   },
+   {
+    "text": "BOSQUE",
+    "lang": "es"
+   },
+   {
+    "text": "LOS PINOS",
+    "lang": "es"
+   },
+   {
+    "text": "VISITENOS!",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "El Sauce",
+   "type": "place"
+  },
+  "difficulty": "medium",
+  "notes": "Tourism billboard at the entrance to El Sauce (León), angled and partly shaded by foliage; leaves cover the end of 'EL SAUCE' and the end of 'imagen'. Government logo block top left ('Gobierno de Reconciliación y Unidad Nacional', 'El Pueblo, Presidente!'); a graffiti tag sits over the V of VISITENOS."
+ },
+ "c105493242": {
+  "accept": false,
+  "reason": "protest/union banner and mural (1984 May Day slogan)"
+ },
+ "c129387461": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Safari Nicarao",
+    "lang": "es"
+   },
+   {
+    "text": "Ruta de Los Volcanes",
+    "lang": "es"
+   },
+   {
+    "text": "Operado por Nicarao Tours & Travel",
+    "lang": "es"
+   },
+   {
+    "text": "info@nicaraotours.com",
+    "lang": "und"
+   },
+   {
+    "text": "Tel. 2266-1018",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "Safari Nicarao",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "White tourist-attraction board with volcano logo under a tiled roof, seen from a distance with slight blur; small 'Operado por' and contact lines are soft. Painted volcano mural above is decoration."
+ },
+ "c4840937": {
+  "accept": false,
+  "reason": "no-trespassing notice ('YAMANA NIC / PROPIEDAD PRIVADA / PROHIBIDO EL PASO') seen through a fence; a warning, not a place name"
+ },
+ "c17259329": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Victoria",
+    "lang": "es"
+   },
+   {
+    "text": "Comedor Gloriana",
+    "lang": "es"
+   },
+   {
+    "text": "comedor",
+    "lang": "es"
+   },
+   {
+    "text": "Gloriana",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Comedor Gloriana",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Beer-sponsored hanging sign (Victoria logo) plus a hand-painted 'comedor Gloriana' board on the beach at Ometepe, Lake Nicaragua, with Maderas volcano behind. Bathers far away are incidental; a 'LITRO FROST @ 25' beer ad at right is a distractor."
+ },
+ "c107212557": {
+  "accept": false,
+  "reason": "portrait of a speaker with microphone; face is the subject, no sign"
+ },
+ "c107244925": {
+  "accept": false,
+  "reason": "political rally photo, people holding coalition cards; faces are the subject"
+ },
+ "c143679363": {
+  "accept": false,
+  "reason": "mural ('Bienvenidas a Corinto' painted on a harbour mural)"
+ }
+}

@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=e9c7a469-13c9-4ff9-9e64-71d4ef84dfcb",
+  "original_url": "https://panoramax.openstreetmap.fr/images/e9/c7/a4/69/13c9-4ff9-9e64-71d4ef84dfcb.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "solenoid jam",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture e9c7a469-13c9-4ff9-9e64-71d4ef84dfcb (Moscow, 2025-05-31)",
+  "description": "Street-level picture taken 2025-05-31 near Moscow by solenoid jam, sequence c17e8fd9-603b-4315-8a20-c77e6f04536d, heading None. OCR (PP-OCRv3) read: Pofiform",
+  "date": "2025-05-31",
+  "categories": [],
+  "camera_location": [
+    55.752841833,
+    37.66890205
+  ],
+  "found_by": "panoramax-ocr:Moscow",
+  "bytes": 281912,
+  "width": 1453,
+  "height": 1090,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/e9/c7/a4/69/13c9-4ff9-9e64-71d4ef84dfcb.jpg",
+  "derivative": "crop 1901,697,3354,1787 of the 13288x3352 HD picture"
+}

@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/11647630/0/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyNi81LzE5L3dyYXBwZWRfcHJvYy8xMTY0NzYzMF80NjQ0ZV82YTBjMThhMWYzY2VkLmpwZw",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "OpenStreetView",
+  "credit_as_published": "KartaView user OpenStreetView (user id 44); © KartaView contributors",
+  "title": "KartaView photo 2629672081, sequence 11647630 #0 (Ulaanbaatar, 2025-10-26)",
+  "description": "360-degree panorama on KartaView, taken 2025-10-26 near Ulaanbaatar by OpenStreetView, sequence 11647630, heading 347.41. OCR (PP-OCRv3) read: RESTAURANT",
+  "date": "2025-10-26",
+  "categories": [],
+  "camera_location": [
+    47.917063,
+    106.90697
+  ],
+  "found_by": "kartaview-ocr:Ulaanbaatar",
+  "bytes": 551929,
+  "width": 1440,
+  "height": 1080,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyNi81LzE5L3dyYXBwZWRfcHJvYy8xMTY0NzYzMF80NjQ0ZV82YTBjMThhMWYzY2VkLmpwZw",
+  "derivative": "rectilinear (gnomonic) view, yaw +128.8 deg from the panorama centre, pitch +14.6 deg, horizontal field of view 40 deg, 1440x1080 px, reprojected from the 13000x6500 full-size processed (blurred) equirectangular panorama"
+}

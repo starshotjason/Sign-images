@@ -1,0 +1,194 @@
+{
+ "k32170920": {
+  "accept": false,
+  "reason": "truck number plate is the only text; no sign"
+ },
+ "k32170930": {
+  "accept": false,
+  "reason": "truck number plate is the only text; near-duplicate of k32170920"
+ },
+ "k32694375": {
+  "accept": false,
+  "reason": "rooftop slogan 'TÜRKMENISTAN - dostluk mekany' (land of friendship), not a place name; the 'bahar' sign is cut off"
+ },
+ "k33622838": {
+  "accept": false,
+  "reason": "rooftop slogan in gold letters (… HEMMEMIZ GÖRMELIDIRS), not a place name, and partly hidden by trees"
+ },
+ "k33965131": {
+  "accept": false,
+  "reason": "road scene; only bus/ambulance plates legible, overhead gantry sign unreadable"
+ },
+ "c103952249": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ABIWERT PEŞDAG",
+    "lang": "tk"
+   },
+   {
+    "text": "TARYHY-MEDENI",
+    "lang": "tk"
+   },
+   {
+    "text": "YADYGÄRLIGI",
+    "lang": "tk"
+   },
+   {
+    "text": "DÖWLET TARAPYNDAN",
+    "lang": "tk"
+   },
+   {
+    "text": "HASABA ALNAN",
+    "lang": "tk"
+   },
+   {
+    "text": "AH87-001",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "Abiwert",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Heritage-site board in open steppe at the Abiwert ruins (Kaka District, Ahal); sign is small in the frame. Lower text: 'historical-cultural monument registered by the state', register no. AH87-001. The Y of YADYGÄRLIGI shows no visible acute (standard spelling would be ÝADYGÄRLIGI); transcribed as seen."
+ },
+ "fe46043d3-b23d-490a-b9c8-7208b4e800a3": {
+  "accept": false,
+  "reason": "sewing workshop interior, no sign"
+ },
+ "f41d2c2cf-92fc-4d48-ac54-0c639aaacda1": {
+  "accept": false,
+  "reason": "market hall crowd; only a generic 'KAFE' sign"
+ },
+ "f648f6fde-89fa-4fb8-a05d-39d66d5ca9c1": {
+  "accept": false,
+  "reason": "carpet market scene, no sign"
+ },
+ "c7557146": {
+  "accept": true,
+  "reason": "",
+  "kind": "building tag",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "TÜRKMENISTAN",
+    "lang": "tk"
+   },
+   {
+    "text": "AHAL WELAÝATYNYŇ",
+    "lang": "tk"
+   },
+   {
+    "text": "BAHARLY ETRABYNYŇ",
+    "lang": "tk"
+   },
+   {
+    "text": "GARAWUL GEŇEŞLIGI",
+    "lang": "tk"
+   },
+   {
+    "text": "“ÝEŇIŞ”",
+    "lang": "tk"
+   },
+   {
+    "text": "DAÝHAN BIRLEŞIGI",
+    "lang": "tk"
+   }
+  ],
+  "expect": {
+   "query": "Garawul",
+   "type": "place"
+  },
+  "difficulty": "easy",
+  "notes": "Official gold plaque with the state emblem: 'Ýeňiş' farmers' association of Garawul council, Baharly district, Ahal province (Nohur area). Turkmen letters Ý, Ň, Ş, Ü kept as written; the name is in curly quotes."
+ },
+ "c103321978": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "NYÝAZOW",
+    "lang": "tk"
+   },
+   {
+    "text": "ŞAHER",
+    "lang": "tk"
+   }
+  ],
+  "expect": {
+   "query": "Nyýazow",
+   "type": "place"
+  },
+  "difficulty": "medium",
+  "notes": "White town-limit board on a pole beside a rural road, Dashoguz region (place now renamed Şabat). The second word shows no visible diaeresis on the A (standard spelling ŞÄHER, 'city'); transcribed as seen at this size."
+ },
+ "c105080534": {
+  "accept": false,
+  "reason": "near-duplicate of c105080553 (same overhead sign gantry, farther away)"
+ },
+ "c105080553": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "MARY",
+    "lang": "tk"
+   },
+   {
+    "text": "AEROPORT",
+    "lang": "tk"
+   },
+   {
+    "text": "ŞÄHER MERKEZI (CENTRUM)",
+    "lang": "tk"
+   },
+   {
+    "text": "BEKREWE",
+    "lang": "tk"
+   },
+   {
+    "text": "TELEWIZION MINARASY",
+    "lang": "tk"
+   },
+   {
+    "text": "BAJGYRAN",
+    "lang": "tk"
+   }
+  ],
+  "expect": {
+   "query": "Telewizion minarasy",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Overhead gantry of three white direction panels on an Ashgabat avenue; MARY and BAJGYRAN are on blue route patches, airplane pictogram after AEROPORT. A smaller repeater sign (TELEWIZION MINARASY / BAJGYRAN) and a small BEKREWE sign below are duplicates."
+ },
+ "c156190877": {
+  "accept": false,
+  "reason": "OSCE conference event photo; banner is event text, not a place sign"
+ },
+ "c156190876": {
+  "accept": false,
+  "reason": "OSCE conference event photo, no place sign"
+ },
+ "c156191133": {
+  "accept": false,
+  "reason": "OSCE conference event photo, no place sign"
+ }
+}

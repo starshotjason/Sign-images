@@ -1,0 +1,302 @@
+{
+ "c126820881": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ROATAN",
+    "lang": "es"
+   },
+   {
+    "text": "#ROATANSUN",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Roatán",
+   "type": "place"
+  },
+  "difficulty": "medium",
+  "notes": "Colourful 3D beach letters with painted animal motifs, strongly colour-saturated (social-media style edit). Written without the accent. '#ROATANSUN' is small text on the base."
+ },
+ "c127507908": {
+  "accept": false,
+  "reason": "'GASOLINE FOR SALE' board only; no name"
+ },
+ "c127507922": {
+  "accept": false,
+  "reason": "handwritten menu and opening hours board"
+ },
+ "c161124276": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Port",
+    "lang": "en"
+   },
+   {
+    "text": "ROATAN",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Port Roatan",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Blue 3D name sign at the Coxen Hole cruise port; 'Port' in script above 'ROATAN'. A cruise ship fills the background."
+ },
+ "c2854327": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "CENTRO DE SALUD",
+    "lang": "es"
+   },
+   {
+    "text": "DR MANUEL CORRALES",
+    "lang": "es"
+   },
+   {
+    "text": "SN FRANCISCO",
+    "lang": "es"
+   },
+   {
+    "text": "COOP. SANMARQUEÑA",
+    "lang": "es"
+   },
+   {
+    "text": "CORTESIA",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Centro de Salud Dr Manuel Corrales",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Painted board in front of a health centre in San Marcos de Colón; a word after CORTESIA is whited out. The building wall repeats the name ('CENTRO DE SALU... DR MANUEL CORRAL... SAN FRANCISCO SAN M...'), partly hidden by a tree."
+ },
+ "c2854329": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "AGROINDUSTRIAL HORTICOLA SANMARQUEÑA",
+    "lang": "es"
+   },
+   {
+    "text": "AGRIHORSA",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "AGRIHORSA",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Painted wall sign; the first line is set in an arc over a farm painting. Not transcribed: 'SAG' and 'PROACTA' logo boxes, the USAID seal, and the bottom band 'CENTRO DE ACOPIO DE HORTALIZAS', partly hidden by tall grass. A car roof fills the bottom of the frame."
+ },
+ "c2854334": {
+  "accept": false,
+  "reason": "commemorative construction-project plaque (bridge funding text), not a name sign"
+ },
+ "c4578310": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "WENDY'S",
+    "lang": "en"
+   },
+   {
+    "text": "AUTOSERVICIO",
+    "lang": "es"
+   },
+   {
+    "text": "DESAYUNOS",
+    "lang": "es"
+   },
+   {
+    "text": "Metroplaza",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Wendy's",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Pylon sign in Tocoa: Wendy's logo, two small red plates, and the 'Metroplaza' mall panel (tiny 'CENTRO COMERCIAL' under it). Building fascia 'Wendy's OLD FASHIONED HAMBURGERS' and a construction board are distractors."
+ },
+ "c5289958": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "CHOCOBANANO",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Chocobanano",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "1980 colour print, San Pedro Sula. Two-colour stylised lettering between cartoon banana figures. A second board at left reads 'SALA D...' / '...DA', partly hidden by a banana figure."
+ },
+ "c73198548": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "BIENVENIDOS",
+    "lang": "es"
+   },
+   {
+    "text": "AL PARQUE NACIONAL",
+    "lang": "es"
+   },
+   {
+    "text": "JEANNETTE KAWAS",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Parque Nacional Jeannette Kawas",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Carved wooden welcome board, slightly angled. Only the name lines are transcribed; below them are smaller lines ('EXTENSION TERRITORIAL ...', 'ECOSISTEMAS PRESENTES', a list of ecosystems, 'AYUDANOS A PROTEGER ...', 'BANCO DEL PAIS / EL BANCO BANCO' sponsor)."
+ },
+ "c84025492": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "OMOA",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Omoa",
+   "type": "place"
+  },
+  "difficulty": "easy",
+  "notes": "White town-name road sign; a cyclist poses beside it (cap and sunglasses) with bikes. Sign extends past the right frame edge but the name is complete."
+ },
+ "c8854120": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "MOLINERO'S",
+    "lang": "es"
+   },
+   {
+    "text": "El amigo de su Hogar",
+    "lang": "es"
+   },
+   {
+    "text": "Comercial",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Molinero's",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Hanging shop sign on Tela's main street. The apostrophe is a straight/typographic mark. Distractors further down the street (HSBC, KATRINY, Pepsi-style signs) are small."
+ },
+ "c90607574": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Anthony's",
+    "lang": "en"
+   },
+   {
+    "text": "CHIKEN",
+    "lang": "en"
+   },
+   {
+    "text": "AND MORE",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Anthony's Chicken",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Hand-painted pink sign, West End Roatán. 'CHIKEN' is misspelled on the sign (sic). The name is in decorative mixed-case lettering (looks like 'anThony's'). Distractors: Canopy/Gumbalimba vertical banners, scooter rental boards, Coca-Cola and Pepsi branding."
+ },
+ "c90608124": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "COMERCIAL",
+    "lang": "es"
+   },
+   {
+    "text": "ROGUSS",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Comercial Roguss",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Market street in Tegucigalpa with pedestrians; target is the overhead white sign mid-frame. Distractors: 'tabcin' / 'FARMACIA LOUMAR', 'Hotel AMBAR', 'ISAAC', 'maxi', 'ESTACIONAMIENTO' arrow sign."
+ }
+}

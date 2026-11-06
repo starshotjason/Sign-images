@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=c17db324-de9d-4ebd-ba06-a09413b85415",
+  "original_url": "https://panoramax.openstreetmap.fr/images/c1/7d/b3/24/de9d-4ebd-ba06-a09413b85415.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "motocultrice",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture c17db324-de9d-4ebd-ba06-a09413b85415 (Quito, 2017-04-24)",
+  "description": "Street-level picture taken 2017-04-24 near Quito by motocultrice, sequence 6e24d76b-61e0-41dd-b680-8fc5d015982d, heading 192. OCR (PP-OCRv3) read: CHIFA | 福客来 | farmacias",
+  "date": "2017-04-24",
+  "categories": [],
+  "camera_location": [
+    -0.210261945,
+    -78.482434895
+  ],
+  "found_by": "panoramax-ocr:Quito",
+  "bytes": 2938703,
+  "width": 4160,
+  "height": 3120,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/c1/7d/b3/24/de9d-4ebd-ba06-a09413b85415.jpg",
+  "derivative": "whole 4160x3120 HD picture as served by the Panoramax instance (byte-identical; the instance blurs faces and number plates), not cropped"
+}

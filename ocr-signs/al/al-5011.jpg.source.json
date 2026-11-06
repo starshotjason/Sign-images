@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/3558801/276/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMS81LzYvcHJvYy8zNTU4ODAxXzYyMWVjXzYwOTQxZmJmZDk3ODUuanBn",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "DenisJu",
+  "credit_as_published": "KartaView user DenisJu (user id 2997); © KartaView contributors",
+  "title": "KartaView photo 1289949129, sequence 3558801 #276 (Tirana, 2020-06-05)",
+  "description": "Street-level picture on KartaView, taken 2020-06-05 near Tirana by DenisJu, sequence 3558801, heading 334.15. OCR (PP-OCRv3) read: ROSSMANN | LIRI VIETER",
+  "date": "2020-06-05",
+  "categories": [],
+  "camera_location": [
+    41.329961,
+    19.821324
+  ],
+  "found_by": "kartaview-ocr:Tirana",
+  "bytes": 203481,
+  "width": 1200,
+  "height": 900,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMS81LzYvcHJvYy8zNTU4ODAxXzYyMWVjXzYwOTQxZmJmZDk3ODUuanBn",
+  "derivative": "crop 2064,99,3264,999 of the 3264x1836 full-size processed (blurred) picture"
+}

@@ -1,0 +1,370 @@
+{
+ "p4c583f4119": {
+  "accept": false,
+  "reason": "near-duplicate of accepted p6773075092: the same Farmacia Catedral corner sign, seen from farther away"
+ },
+ "p6773075092": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "FARMACIA Y PERFUMERIA",
+    "lang": "es"
+   },
+   {
+    "text": "Catedral",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Farmacia Catedral",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Corner pharmacy fascia, Asunción, with small capitals over the large blue 'Catedral' and logo. Distractors: the NC 'NUEVO Lipcream / @newcolorpy' advertising totem, green cross signs, and the historical banners ('Domingo Scavone', '1905', '1910', '1924')."
+ },
+ "pcc36235d85": {
+  "accept": false,
+  "reason": "parked cars dominate; the only text is on historical banners (portrait caption 'Domingo Scavone', years, paragraph text); not a place sign"
+ },
+ "k2626487251": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "BOLSI",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Bolsi",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Asunción centre: silver letters on the yellow corner building, repeated on the wooden terrace sign. Shot through a reflective windscreen. Street blades at right ('Estrella' partly glared, 'Alberdi') under a 'RUMBOS S.A. DE SEGUROS' sign are secondary targets; 'Basa' bank, 'MOPC' vertical sign and a Heineken panel are distractors."
+ },
+ "k2626487254": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Basa",
+    "lang": "es"
+   },
+   {
+    "text": "24h",
+    "lang": "und"
+   },
+   {
+    "text": "CAJERO AUTOMÁTICO",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Basa",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Banco Basa branch on the same Asunción corner as k2626487251 (different target): white logo and wordmark over the entrance behind a tangle of cables; small blue 24h ATM sticker on the door. 'RUMBOS S.A. DE SEGUROS' sign and arrow blades at the right edge are cut off; windscreen reflection at right."
+ },
+ "k2626487284": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ROCHESTER",
+    "lang": "es"
+   },
+   {
+    "text": "digital",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Rochester",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Asunción: yellow wrap-around fascia, stylised outline 'ROCHESTER' in maroon over white 'digital'; repeated on the side panel and a small sign at the door. Overhead cables and branches cross the sign; 'E' parking signs at right."
+ },
+ "k2626487241": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Palma",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Palma",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Asunción black street blade with white arrow (one-way to the right); a second identical 'Palma' blade across the street and a side blade seen edge-on. Yellow 'TAXI' disc and phone booth are distractors; advertising wrap on the tower behind."
+ },
+ "p5cd5fc1235": {
+  "accept": false,
+  "reason": "vehicle branding (Epem ambulance)"
+ },
+ "k2626487231": {
+  "accept": false,
+  "reason": "reserved-parking regulatory sign ('Espacio reservado … sujeto a grúa')"
+ },
+ "k2626487221": {
+  "accept": false,
+  "reason": "rooftop brand billboard ('TOKYO') on an office block; not a place name"
+ },
+ "c191470910": {
+  "accept": false,
+  "reason": "handwritten door notice 'Empujar / Drücken' (push); no place name"
+ },
+ "c59336719": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "REPUBLICA DEL PARAGUAY",
+    "lang": "es"
+   },
+   {
+    "text": "TETÃREKUÁI MOTENONDEHA",
+    "lang": "gn"
+   },
+   {
+    "text": "MOAKÃHAPAVẼ",
+    "lang": "gn"
+   },
+   {
+    "text": "JEVA REHEGUA",
+    "lang": "gn"
+   },
+   {
+    "text": "MINISTERIO DEL INTERIOR",
+    "lang": "es"
+   },
+   {
+    "text": "DIRECCIÓN GENERAL DE",
+    "lang": "es"
+   },
+   {
+    "text": "MIGRACIONES",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Dirección General de Migraciones",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Bilingual Guaraní/Spanish office sign of the immigration directorate in Asunción, with the national seal (ring text 'REPUBLICA DEL PARAGUAY'). Night shot; shadows of overhead wires fall across the panel. Guaraní uses nasal tilde letters Ã, Ẽ (the T of TETÃREKUÁI is small caps)."
+ },
+ "c54454243": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Heladeria",
+    "lang": "es"
+   },
+   {
+    "text": "AMANDAU",
+    "lang": "es"
+   },
+   {
+    "text": "Claro",
+    "lang": "es"
+   },
+   {
+    "text": "Seguridad",
+    "lang": "es"
+   },
+   {
+    "text": "Seguros",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Heladería Amandau",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Row of shop fascias in Campo 9 (Dr. J. Eulogio Estigarribia) shot through a dusty vehicle window: ice-cream parlour 'Heladeria AMANDAU', Claro store, 'Seguridad Seguros' panel. Upper-floor sign 'G.A.H.E. Consultora' with small phone numbers and a Hulk statue are distractors. The heladería name is the most distinctive query."
+ },
+ "c58254408": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "CHIPAS",
+    "lang": "es"
+   },
+   {
+    "text": "Kati",
+    "lang": "gn"
+   }
+  ],
+  "expect": {
+   "query": "Chipas Kati",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Roadside chipa shop fascia on Ruta 1 near Quiindy, with cartoon girl holding chipas; the side panel shows a cut-off logo. Parked cars incidental."
+ },
+ "c71113703": {
+  "accept": false,
+  "reason": "internal office door plate ('Dirección FM 95.1 / FM 95.1 Moakãha') inside Radio Nacional; not a mappable place"
+ },
+ "c175770670": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "CHE",
+    "lang": "gn"
+   },
+   {
+    "text": "VALLE",
+    "lang": "es"
+   },
+   {
+    "text": "GRAL",
+    "lang": "es"
+   },
+   {
+    "text": "DÍAZ",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "General José Eduvigis Díaz",
+   "type": "place"
+  },
+  "difficulty": "easy",
+  "notes": "White 3D letters on a black mesh panel on a stone wall in the plaza of General José Eduvigis Díaz (Ñeembucú), with a guitar and treble-clef emblem; seen at an angle. 'Che valle' is Guaraní/Spanish for 'my town'."
+ },
+ "c61707869": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ElimsTrasse",
+    "lang": "de"
+   },
+   {
+    "text": "Fred Engen",
+    "lang": "de"
+   }
+  ],
+  "expect": {
+   "query": "Elimstrasse",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Two dark-blue street-name plates on a red-and-white pole in Loma Plata (Mennonite colony, Chaco). The upper plate is lettered with a tall T in the middle ('ElimsTrasse'). A no-mopeds / bicycles / pedestrians pictogram panel is beside it."
+ },
+ "c124717924": {
+  "accept": false,
+  "reason": "school-crossing warning ('CRUCE DE ALUMNOS / VORSICHT SCHÜLER') and roundabout pictograms; no place name"
+ },
+ "c13334556": {
+  "accept": false,
+  "reason": "roundabout with a monument and warning/stop signs (PARE, CRUCE DE ALUMNOS); no place name sign"
+ },
+ "c124658883": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Vista Alegre",
+    "lang": "es"
+   },
+   {
+    "text": "km 180",
+    "lang": "und"
+   },
+   {
+    "text": "Sachsen Allee",
+    "lang": "de"
+   },
+   {
+    "text": "km 180",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "Sachsen Allee",
+   "type": "street"
+  },
+  "difficulty": "medium",
+  "notes": "Pair of white German-style street blades in blackletter (Fraktur-like) lettering in Colonia Independencia, each with a small 'km 180' plate below. The V of 'Vista' is drawn as a blackletter V that resembles a B."
+ },
+ "c155131841": {
+  "accept": true,
+  "reason": "",
+  "kind": "hard",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "BOGADO",
+    "lang": "es"
+   },
+   {
+    "text": "CAPITAL NAC ONAL DEL CHIPA",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Coronel Bogado",
+   "type": "place"
+  },
+  "difficulty": "hard",
+  "notes": "Large illustrated 3D town letters in a park in Coronel Bogado (Itapúa) on a plinth reading 'CAPITAL NACIONAL DEL CHIPA' with the I of NACIONAL missing. The first word (presumably 'CNEL.') is seen edge-on and painted with pictures, so it is not legible and is left out; 'BOGADO' letters are also painted with scenes (house, cart, chipa seller)."
+ }
+}

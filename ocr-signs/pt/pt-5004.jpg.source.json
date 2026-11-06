@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.mapcomplete.org/#focus=pic&pic=3738195b-0d96-4102-8015-cb05e9177eb8",
+  "original_url": "https://panoramax.mapcomplete.org/permanent/37/38/19/5b/0d96-4102-8015-cb05e9177eb8.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "mapcomplete",
+  "credit_as_published": "Panoramax, instance mapcomplete (https://panoramax.mapcomplete.org)",
+  "title": "Panoramax picture 3738195b-0d96-4102-8015-cb05e9177eb8 (Lisbon, 2025-08-10)",
+  "description": "Street-level picture on Panoramax, taken 2025-08-10 near Lisbon by mapcomplete, sequence 14ea2dff-2d5f-4134-9a9c-0b7ff34d87aa, heading 58. OCR (PP-OCRv3) read: BILHETESEPASSES | TicketsandPasses | BILHETESE PASSES | Tickets and Passes | BILHETESEPASSES | PAGAMENTO COMDINHEIRO E CARTAO BANCARIO | Cashand Bank cardpayment | Tickets andPasses | PAGAHENTO COMDINHEIROECARTAO BANCARIO | Cash and Bank card payment | FABAMENTOCOH DINHURDECARTAOBANCARIO | COMBOIOSDEPORTUGAL",
+  "date": "2025-08-10",
+  "categories": [],
+  "camera_location": [
+    38.7143395,
+    -9.1411127
+  ],
+  "found_by": "panoramax-ocr:Lisbon",
+  "bytes": 2521336,
+  "width": 4000,
+  "height": 3000,
+  "downloaded_url": "https://panoramax.mapcomplete.org/permanent/37/38/19/5b/0d96-4102-8015-cb05e9177eb8.jpg",
+  "derivative": "whole 4000x3000 HD picture as served by the Panoramax instance (byte-identical; the service blurs faces and number plates), not cropped"
+}

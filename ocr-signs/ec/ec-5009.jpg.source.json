@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/942793/260/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlNi5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE3LzEwLzE4L3Byb2MvOTQyNzkzX2I5NjFiXzExLmpwZw",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "wilman-norberto-vasconez-barahona",
+  "credit_as_published": "KartaView user wilman-norberto-vasconez-barahona (user id 11787); © KartaView contributors",
+  "title": "KartaView photo 145994443, sequence 942793 #260 (Quito, 2017-10-18)",
+  "description": "Street-level picture on KartaView, taken 2017-10-18 near Quito by wilman-norberto-vasconez-barahona, sequence 942793, heading 167.04. OCR (PP-OCRv3) read: TRO COMERCIAL SAN MARTIN",
+  "date": "2017-10-18",
+  "categories": [],
+  "camera_location": [
+    -0.223815,
+    -78.507734
+  ],
+  "found_by": "kartaview-ocr:Quito",
+  "bytes": 482120,
+  "width": 2055,
+  "height": 1541,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlNi5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE3LzEwLzE4L3Byb2MvOTQyNzkzX2I5NjFiXzExLmpwZw",
+  "derivative": "crop 536,0,2591,1541 of the 2592x1936 full-size processed (blurred) picture"
+}

@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.mapcomplete.org/#focus=pic&pic=54f80281-bca3-4dcb-98e8-cbe039b10c76",
+  "original_url": "https://panoramax.mapcomplete.org/permanent/54/f8/02/81/bca3-4dcb-98e8-cbe039b10c76.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "mapcomplete",
+  "credit_as_published": "Panoramax, instance mapcomplete (https://panoramax.mapcomplete.org)",
+  "title": "Panoramax picture 54f80281-bca3-4dcb-98e8-cbe039b10c76 (Helsinki, 2026-05-18)",
+  "description": "Street-level picture on Panoramax, taken 2026-05-18 near Helsinki by mapcomplete, sequence a7cf963f-8d1c-4bac-9717-e3149f5f9fff, heading 115. OCR (PP-OCRv3) read: PIZZASGRILL | PAULI'S | PAULI | LOUNASE",
+  "date": "2026-05-18",
+  "categories": [],
+  "camera_location": [
+    60.16985,
+    24.946755556
+  ],
+  "found_by": "panoramax-ocr:Helsinki",
+  "bytes": 3021968,
+  "width": 4032,
+  "height": 3024,
+  "downloaded_url": "https://panoramax.mapcomplete.org/permanent/54/f8/02/81/bca3-4dcb-98e8-cbe039b10c76.jpg",
+  "derivative": "whole 4032x3024 HD picture as served by the Panoramax instance (byte-identical; the service blurs faces and number plates), not cropped"
+}

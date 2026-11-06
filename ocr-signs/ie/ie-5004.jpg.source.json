@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.ign.fr/#focus=pic&pic=f38d4b2f-620e-4233-8f9a-13a705c04f09",
+  "original_url": "https://panoramax.ign.fr/api/pictures/f38d4b2f-620e-4233-8f9a-13a705c04f09/hd.jpg",
+  "license_as_published": "etalab-2.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "jg13",
+  "credit_as_published": "Panoramax, instance ign (https://panoramax.ign.fr)",
+  "title": "Panoramax picture f38d4b2f-620e-4233-8f9a-13a705c04f09 (Dublin, 2025-10-10)",
+  "description": "Street-level picture on Panoramax, taken 2025-10-10 near Dublin by jg13, sequence c7bf1522-dea6-4aa3-8038-668a3bda6cbe, heading 258. OCR (PP-OCRv3) read: WADING | COMPANY | EBAR | NGCO. | THE | TEMPLE BAR | THETEMPLEBAR | TRADINGCO | TEMPLEBAR | TRADING CO | GIFTS&SUUVENI",
+  "date": "2025-10-10",
+  "categories": [],
+  "camera_location": [
+    53.3456422,
+    -6.2635926
+  ],
+  "found_by": "panoramax-ocr:Dublin",
+  "bytes": 1022064,
+  "width": 3257,
+  "height": 1800,
+  "downloaded_url": "https://panoramax.ign.fr/api/pictures/f38d4b2f-620e-4233-8f9a-13a705c04f09/hd.jpg",
+  "derivative": "crop 0,0,3257,1800 of the 4000x1800 HD picture"
+}

@@ -1,0 +1,518 @@
+{
+ "c115744349": {
+  "accept": false,
+  "reason": "the only sign is a tiny, overexposed street plate by the gate; its text is not legible at 1600 px"
+ },
+ "c115855721": {
+  "accept": false,
+  "reason": "street scene at a roundabout; only a STOP sign and distant billboards, no legible place sign as target"
+ },
+ "c115855943": {
+  "accept": false,
+  "reason": "the building name 'Palais des Arts et de la Culture' is small and blurred; the legible panels are an anti-rape campaign slogan"
+ },
+ "c116628031": {
+  "accept": false,
+  "reason": "the shop name is cut off at the right edge ('HATANG...'); the remaining painted text is partial"
+ },
+ "c116705300": {
+  "accept": false,
+  "reason": "shop name cut off at the right edge ('NEVER GIVE ...'); otherwise only generic 'BOUTIQUE ~ CAFETARIAT'/'SALOON' and a drinks list"
+ },
+ "c117155429": {
+  "accept": false,
+  "reason": "street scene with no legible bar or place sign; only a no-turn pictogram"
+ },
+ "c151616626": {
+  "accept": false,
+  "reason": "near-duplicate of accepted c151612607: the same Kigwena reserve sign design ('Au plaisir de vous revoir' exit-side version)"
+ },
+ "c115744791": {
+  "accept": true,
+  "reason": "",
+  "kind": "hard",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Allée de",
+    "lang": "fr"
+   },
+   {
+    "text": "la Confiance",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "Allée de la Confiance",
+   "type": "street"
+  },
+  "difficulty": "hard",
+  "notes": "Small blue street-name plate with white border on a compound wall at right, Bujumbura; very small in frame and oversaturated. A third line with a numeric code (looks like '10 01 03') is not reliably legible and is left out. The tiny house-number plate by the gate is a distractor."
+ },
+ "c116542044": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "never Give up SHOP",
+    "lang": "en"
+   },
+   {
+    "text": "USIKATE TAMAA",
+    "lang": "sw"
+   }
+  ],
+  "expect": {
+   "query": "Never Give Up Shop",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Hand-painted shop name across the top of a blue-grey shop front, Rumonge; 'USIKATE TAMAA' ('don't lose hope') runs vertically down the right edge, one letter per line. Mixed case as painted ('never Give up SHOP'). The small painted phone number, the 'BOUTIQUE ...' sign at left and the drinks list are distractors."
+ },
+ "c116542997": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "BOUTIQUE",
+    "lang": "fr"
+   },
+   {
+    "text": "IBINTU NI IMANA",
+    "lang": "rn"
+   }
+  ],
+  "expect": {
+   "query": "Boutique Ibintu ni Imana",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Painted name on a white shop wall, Rumonge; the same name is repeated smaller on the side wall. Distractors: 'LUMICASH EcoCash' mobile-money adverts, the 'LAVAGE VEHICULES / CAR WASH / TUNAOSHA GARI' board and the 'CPVV FBP' ministry board in front."
+ },
+ "c117154169": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "RESTAURANT",
+    "lang": "fr"
+   },
+   {
+    "text": "Eden",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "Restaurant Eden",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Hand-painted sandwich board with a green arrow pointing left, Gitega; tilted, and the photographer's fingertip covers the lower part of 'Ed'. Another 'RESTAURANT Eden' board at upper left and a truck plate at right are distractors."
+ },
+ "c117158638": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "SUPREME BAR RESTAURANT",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "Suprême Bar Restaurant",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Lettering painted along a white perimeter wall across the street, tilted; 'SUPREME' in black, 'BAR' in red, 'RESTAURANT' in yellow (no accent painted). Tiny text above ('MUSIC & PIANO BAR', 'RESTAURANT', 'PARTY H...') is too small to transcribe; the 'SUPREME BAR' logo board above is a repeat."
+ },
+ "c151285717": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "RUVUBU",
+    "lang": "rn"
+   }
+  ],
+  "expect": {
+   "query": "Ruvubu",
+   "type": "place"
+  },
+  "difficulty": "easy",
+  "notes": "Black river-name sign with three white wave lines, beside the Ruvubu river (Karusi province)."
+ },
+ "c151529916": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "BIENVENUE A LA",
+    "lang": "fr"
+   },
+   {
+    "text": "RESERVE NATURELLE FORESTIERE",
+    "lang": "fr"
+   },
+   {
+    "text": "DE RUMONGE (NYAMIRAMBO)",
+    "lang": "fr"
+   },
+   {
+    "text": "Forêt claire type Miombo",
+    "lang": "fr"
+   },
+   {
+    "text": "SAUVEGARDONS CETTE FORET POUR UN AVENIR MEILLEUR",
+    "lang": "fr"
+   },
+   {
+    "text": "DES GENERATIONS ACTUELLES ET FUTURES",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "Réserve Naturelle de Rumonge",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Welcome board with the Burundi coat of arms and OBPE logo; the brackets around NYAMIRAMBO are red. Alternative query: 'Nyamirambo'."
+ },
+ "c151612607": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "BIENVENUE",
+    "lang": "fr"
+   },
+   {
+    "text": "A LA",
+    "lang": "fr"
+   },
+   {
+    "text": "RESERVE NATURELLE FORESTIERE",
+    "lang": "fr"
+   },
+   {
+    "text": "DE KIGWENA",
+    "lang": "fr"
+   },
+   {
+    "text": "TOUS ENSEMBLES, SAUVEGARDONS",
+    "lang": "fr"
+   },
+   {
+    "text": "CETTE FORET ET SA BIODIVERSITE",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "Kigwena",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Roadside welcome board on the RN3 near Rumonge, with painted baboon and bird; coat of arms and OBPE logo in the top corners."
+ },
+ "c151877524": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "RESERVE NATURELLE FORESTIERE",
+    "lang": "fr"
+   },
+   {
+    "text": "DE BURURI",
+    "lang": "fr"
+   },
+   {
+    "text": "ISHAMBA CIMEZA RIKINGIWE RY’I",
+    "lang": "rn"
+   },
+   {
+    "text": "BURURI",
+    "lang": "rn"
+   }
+  ],
+  "expect": {
+   "query": "Bururi",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Title of a large information board (French in black, Kirundi in blue) with coat of arms and World Bank logo. The Kirundi rules list, the slogan band and the PRRPB project text below are distractors; the board's lower edge is torn."
+ },
+ "c152451277": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "KAZE KU MASUMO",
+    "lang": "rn"
+   },
+   {
+    "text": "MEZA CANE YA",
+    "lang": "rn"
+   },
+   {
+    "text": "KARERA",
+    "lang": "rn"
+   }
+  ],
+  "expect": {
+   "query": "Karera",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Yellow lettering painted on a green concrete block at the Karera falls site, Rutana: 'Welcome to the very beautiful falls of Karera' in Kirundi."
+ },
+ "c152468319": {
+  "accept": false,
+  "reason": "near-duplicate of accepted c151877524: the same Bururi reserve information board, seen from farther away"
+ },
+ "c25709951": {
+  "accept": false,
+  "reason": "NGO-event group photo: people's faces are the main subject beside the A.C.R.C. bakery sign"
+ },
+ "c152491330": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "MINISTERE DE L’ENVIRONNEMENT, DE L’AGRICULTURE ET DE",
+    "lang": "fr"
+   },
+   {
+    "text": "L’ELEVAGE",
+    "lang": "fr"
+   },
+   {
+    "text": "OFFICE BURUNDAIS POUR LA PROTECTION DE L’ENVIRONNEMENT",
+    "lang": "fr"
+   },
+   {
+    "text": "KAZE MU BIMANGA VY’ INYAKAZU / VY’ABADAGI",
+    "lang": "rn"
+   },
+   {
+    "text": "BIENVENUE AUX FAILLES DE NYAKAZU / DES ALLEMANDS",
+    "lang": "fr"
+   },
+   {
+    "text": "WELCOME TO NYAKAZU / GERMAN RIFTS",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Failles de Nyakazu",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Green trilingual (French/Kirundi/English) welcome board at the Nyakazu faults (Failles des Allemands), Rutana; seen at an angle. 'MINISTERE' and 'DE' are run together on the board. Apostrophes are typographic (’). The French descriptive paragraph below the paintings and the partner logos (BIOPAMA, EU flag) are distractors."
+ },
+ "c18108678": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "****",
+    "lang": "und"
+   },
+   {
+    "text": "hotel club du lac tanganyika",
+    "lang": "fr"
+   },
+   {
+    "text": "www.hoteltanganyika.com",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "Hotel Club du Lac Tanganyika",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Black hotel sign on posts, Bujumbura; all lower case; 'du' is drawn over a beige Africa silhouette. A row of facility pictograms ('24h', ...) hangs below."
+ },
+ "c18108628": {
+  "accept": false,
+  "reason": "warning sign only ('ATTENTION CROCODILES'); no place name"
+ },
+ "c25709978": {
+  "accept": false,
+  "reason": "person posing beside an NGO/UNHCR-funded project board is the main subject"
+ },
+ "c18108667": {
+  "accept": false,
+  "reason": "crocodile warning pictogram with no text"
+ },
+ "c116832653": {
+  "accept": false,
+  "reason": "shop name board cut off at the top edge ('...MENTATION LA PROMOTION CHEZ MAMAN NETA'); the legible text is Coca-Cola branding and a painted 'Salon de Coiffure'"
+ },
+ "c116711293": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "BOUTIQUE",
+    "lang": "fr"
+   },
+   {
+    "text": "Kaze Muronke",
+    "lang": "rn"
+   },
+   {
+    "text": "UMUCERI",
+    "lang": "rn"
+   },
+   {
+    "text": "IBIHARAGE",
+    "lang": "rn"
+   },
+   {
+    "text": "AMAVUTA",
+    "lang": "rn"
+   },
+   {
+    "text": "ISABUNI",
+    "lang": "rn"
+   },
+   {
+    "text": "UMUNYU",
+    "lang": "rn"
+   },
+   {
+    "text": "AMA UNITE",
+    "lang": "rn"
+   }
+  ],
+  "expect": {
+   "query": "Kaze Muronke",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Small roadside shop in Nkayamba (Rumonge): blue-painted 'BOUTIQUE' over the door and, on the side wall, the hand-painted name 'Kaze Muronke' with a Kirundi list of goods (rice, beans, oil, soap, salt, airtime units). A yellow Lumitel/Lumicash sticker and a tiny painter's credit are distractors. Two women seated at the shop are incidental."
+ },
+ "c55180577": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "HOPITAL ESPOIR",
+    "lang": "fr"
+   },
+   {
+    "text": "DE KIBUYE",
+    "lang": "fr"
+   },
+   {
+    "text": "EGLISE METHODISTE LIBRE DU BURUNDI",
+    "lang": "fr"
+   },
+   {
+    "text": "« DUKORERA IMANA IKIZA",
+    "lang": "rn"
+   },
+   {
+    "text": "KANDI ITANGA UBUGINGO . »",
+    "lang": "rn"
+   }
+  ],
+  "expect": {
+   "query": "Hôpital Espoir de Kibuye",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "White hospital name board on a brick wall with the Free Methodist logo. The red Kirundi motto is in guillemets; spacing around the final full stop and » is approximate. Accents are omitted on the sign ('HOPITAL', 'EGLISE', 'METHODISTE')."
+ },
+ "c36507456": {
+  "accept": false,
+  "reason": "NGO/EU project board for latrine construction, not a place or business sign"
+ },
+ "c152875234": {
+  "accept": false,
+  "reason": "near-duplicate of accepted c151529916 (same Rumonge Nature Reserve welcome board)"
+ },
+ "c152875239": {
+  "accept": false,
+  "reason": "near-duplicate of accepted c151529916 (same Rumonge Nature Reserve welcome board, from farther away)"
+ },
+ "c115855972": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "BETHEL FAST FOOD SHOP",
+    "lang": "en"
+   },
+   {
+    "text": "Avenue de France n°19",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "Bethel Fast Food Shop",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Shop fascia in Bujumbura photographed tilted about 35 degrees with heavily boosted colours; food photos crowd the board. The small script lines under the name (bakery/grocery words) are left out. A second board on the left shows the same name with 'Avenue de Grèce N° 19', and a blue street plate 'AVENUE DE GRECE' with a code number stands in front; both are distractors."
+ }
+}

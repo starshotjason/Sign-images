@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=d922c902-59d9-4514-803f-a36a72249e9a",
+  "original_url": "https://panoramax.openstreetmap.fr/images/d9/22/c9/02/59d9-4514-803f-a36a72249e9a.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "Eric S",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture d922c902-59d9-4514-803f-a36a72249e9a (Antananarivo, 2009-09-01)",
+  "description": "Street-level picture taken 2009-09-01 near Antananarivo by Eric S, sequence d296ad09-5097-49a7-9cef-1ec657c6b2c4, heading 320. OCR (PP-OCRv3) read: Bijouterie | JAINTILAL K | Maroguinerie | JAINTILAL K | CANTINE | JAINTILALK",
+  "date": "2009-09-01",
+  "categories": [],
+  "camera_location": [
+    -18.91135353,
+    47.52654741
+  ],
+  "found_by": "panoramax-ocr:Antananarivo",
+  "bytes": 220576,
+  "width": 1280,
+  "height": 960,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/d9/22/c9/02/59d9-4514-803f-a36a72249e9a.jpg",
+  "derivative": "whole 1280x960 HD picture as served by the Panoramax instance (byte-identical; the instance blurs faces and number plates), not cropped"
+}

@@ -1,0 +1,180 @@
+{
+ "f0f9448a1-dd5e-499f-a4bd-0287cca5d775": {
+  "accept": false,
+  "reason": "not in Sudan: explorers monument in Juba, South Sudan (ISO ss, a separate country since 2011); the pedestal plaques ('Alexine Tinne', 'Samuel Baker Florence Baker', 'John Petherick Aerodrome') commemorate people and are small"
+ },
+ "fd3f63b76-3448-4e81-a308-bb46eed1eef0": {
+  "accept": false,
+  "reason": "protest placards lying on grass ('Corma', 'Tololo', 'Himeida' ... 'Darfur village destroyed') at an activism event, apparently outside Sudan; not signs at the places they name"
+ },
+ "c163681185": {
+  "accept": false,
+  "reason": "protest/celebration crowd; news photo, no sign"
+ },
+ "c27057250": {
+  "accept": false,
+  "reason": "wrong country: Juba airport (now South Sudan); sign is an internal camp marker"
+ },
+ "c66421274": {
+  "accept": false,
+  "reason": "fallen, rotated street sign with paint worn off; text not reliably legible"
+ },
+ "c68542045": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Arab",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "الفطائر اليونانيه",
+    "lang": "ar",
+    "latin": "al-Fata'ir al-Yunaniya (Greek pies)"
+   },
+   {
+    "text": "GREEK PiTTA",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Greek Pitta",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Raised wooden letters on a brown board, Barlaman Avenue, Khartoum. Arabic ends in ه (no taa marbuta dots); the Latin 'i' in PiTTA is lowercase. Latin letters are set at uneven angles."
+ },
+ "c68542194": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn",
+   "Arab"
+  ],
+  "lines": [
+   {
+    "text": "PaPa Costa",
+    "lang": "en"
+   },
+   {
+    "text": "Restaurant",
+    "lang": "en"
+   },
+   {
+    "text": "مطعم بابا كوستا",
+    "lang": "ar",
+    "latin": "Mat'am Baba Kusta (Papa Costa restaurant)"
+   }
+  ],
+  "expect": {
+   "query": "Papa Costa",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Carved wooden letters in a decorative font over an arched entrance, Jamhuriya Street, Khartoum; five stars between name and 'Restaurant'. Red spray-paint graffiti below is a distractor."
+ },
+ "c69083731": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Arab",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "شارع السيد عبد الرحمن",
+    "lang": "ar",
+    "latin": "Shari' as-Sayyid 'Abd ar-Rahman"
+   },
+   {
+    "text": "al-SAYYD ABD aL-RAHMAN ST",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Sayyid Abd al-Rahman",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Blue enamel street plate, Khartoum; scuffed but fully legible. Latin spelling 'SAYYD' as on the sign."
+ },
+ "c7710424": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Arab",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "شارع المك نمر",
+    "lang": "ar",
+    "latin": "Shari' al-Mak Nimir"
+   },
+   {
+    "text": "aL-MAK NIMIR STREET",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Al Mek Nimir",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Blue street plate on a wall corner, Khartoum. Building signage at left (Almashriq) and painted numbers on the wall below are distractors."
+ },
+ "f0dcc1fe9-3e9c-41b9-a23a-45aec6f29367": {
+  "accept": false,
+  "reason": "portrait of a coffee vendor; no sign"
+ },
+ "f98fd3df3-55c2-4139-a239-76c11e03b806": {
+  "accept": false,
+  "reason": "shop interior; no sign"
+ },
+ "fa814e4cd-4dd3-4752-af8c-9489d9b3420d": {
+  "accept": false,
+  "reason": "mirror shop display; only partial reflected sign text"
+ },
+ "c67139093": {
+  "accept": false,
+  "reason": "lift-usage notice (rules), no place name"
+ },
+ "c68541972": {
+  "accept": false,
+  "reason": "only three stylised decorative Greek capitals over the club gate; letter shapes ambiguous and no place name readable"
+ },
+ "c69083417": {
+  "accept": false,
+  "reason": "near-duplicate: same street name and plate design ('شارع المك نمر / aL-MAK NIMIR STREET') as accepted c7710424"
+ },
+ "c69083899": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Arab",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "شارع بابكر بدرى",
+    "lang": "ar",
+    "latin": "Shari' Babikir Badri (Babikir Badri Street)"
+   },
+   {
+    "text": "BABIKIR BADRI STREET",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Babikir Badri",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Blue enamel plate on two posts, Khartoum; final letter of بدرى is written as undotted ى (Sudanese/Egyptian style). Bank billboard in the background is a distractor."
+ }
+}

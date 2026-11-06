@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/2885214/10/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMC84LzgvcHJvYy8yODg1MjE0XzdiNWUwXzVmMmVjODcxNWZjZjEuanBn",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "jakub-trojan",
+  "credit_as_published": "KartaView user jakub-trojan (user id 13497); © KartaView contributors",
+  "title": "KartaView photo 1039634874, sequence 2885214 #10 (Monaco, 2018-08-11)",
+  "description": "Street-level picture on KartaView, taken 2018-08-11 near Monaco by jakub-trojan, sequence 2885214, heading 258.52. OCR (PP-OCRv3) read: MONACO | TUNMEL DESCENTE | FONTVIEILLE",
+  "date": "2018-08-11",
+  "categories": [],
+  "camera_location": [
+    43.738876,
+    7.419592
+  ],
+  "found_by": "kartaview-ocr:Monaco",
+  "bytes": 461655,
+  "width": 1200,
+  "height": 900,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMC84LzgvcHJvYy8yODg1MjE0XzdiNWUwXzVmMmVjODcxNWZjZjEuanBn",
+  "derivative": "crop 602,356,1802,1256 of the 2688x1520 full-size processed (blurred) picture"
+}

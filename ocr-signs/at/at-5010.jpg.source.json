@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/10061865/100/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyNC8xMC8yMC9wcm9jLzEwMDYxODY1XzQ4ZTQ0XzY3MTRhOWY4YzZkZjEuanBn",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "erias1",
+  "credit_as_published": "KartaView user erias1 (user id 222665); © KartaView contributors",
+  "title": "KartaView photo 2476821689, sequence 10061865 #100 (Vienna, 2024-08-06)",
+  "description": "Street-level picture on KartaView, taken 2024-08-06 near Vienna by erias1, sequence 10061865, heading 42.57. OCR (PP-OCRv3) read: EINBAHN | RONACHER | RUOLOHNBOCK | GALERIE KRINZINGER",
+  "date": "2024-08-06",
+  "categories": [],
+  "camera_location": [
+    48.205039,
+    16.374549
+  ],
+  "found_by": "kartaview-ocr:Vienna",
+  "bytes": 288929,
+  "width": 1330,
+  "height": 997,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyNC8xMC8yMC9wcm9jLzEwMDYxODY1XzQ4ZTQ0XzY3MTRhOWY4YzZkZjEuanBn",
+  "derivative": "crop 1181,1245,2511,2242 of the 5120x3840 full-size processed (blurred) picture"
+}

@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=d0c7166c-5d2f-498f-aaa7-52e26d316e50",
+  "original_url": "https://panoramax.openstreetmap.fr/images/d0/c7/16/6c/5d2f-498f-aaa7-52e26d316e50.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "mapeadora",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture d0c7166c-5d2f-498f-aaa7-52e26d316e50 (Bogota, 2026-01-25)",
+  "description": "Street-level picture taken 2026-01-25 near Bogota by mapeadora, sequence d7f02d4f-fc41-4225-b2e1-7bd40dc1eefd, heading 188. OCR (PP-OCRv3) read: Diamantes YEsmeralitas | GD'CARLOS | JRNSRARELONERA | ORO | TALIEPN665",
+  "date": "2026-01-25",
+  "categories": [],
+  "camera_location": [
+    4.5992683,
+    -74.07509
+  ],
+  "found_by": "panoramax-ocr:Bogota",
+  "bytes": 3653824,
+  "width": 4096,
+  "height": 1844,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/d0/c7/16/6c/5d2f-498f-aaa7-52e26d316e50.jpg",
+  "derivative": "whole 4096x1844 HD picture as served by the Panoramax instance (byte-identical; the instance blurs faces and number plates), not cropped"
+}

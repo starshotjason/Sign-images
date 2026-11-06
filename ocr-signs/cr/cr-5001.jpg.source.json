@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=dd964d65-e592-40b8-a7c7-44a65964ff86",
+  "original_url": "https://panoramax.openstreetmap.fr/images/dd/96/4d/65/e592-40b8-a7c7-44a65964ff86.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "MatthiasMatthias",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture dd964d65-e592-40b8-a7c7-44a65964ff86 (San Jose CR, 2026-04-02)",
+  "description": "Street-level picture taken 2026-04-02 near San Jose CR by MatthiasMatthias, sequence 56c8d094-43c9-4481-9b77-16256d9f35c4, heading 105. OCR (PP-OCRv3) read: FARMACIADR LEE | SEALQUILA | Referme",
+  "date": "2026-04-02",
+  "categories": [],
+  "camera_location": [
+    9.9336423,
+    -84.0749235
+  ],
+  "found_by": "panoramax-ocr:San Jose CR",
+  "bytes": 262416,
+  "width": 1330,
+  "height": 998,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/dd/96/4d/65/e592-40b8-a7c7-44a65964ff86.jpg",
+  "derivative": "crop 279,353,1609,1351 of the 4080x2295 HD picture"
+}

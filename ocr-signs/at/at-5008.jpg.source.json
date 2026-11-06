@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=cafeb3cb-2b98-4d58-9894-f6c541087a87",
+  "original_url": "https://panoramax.openstreetmap.fr/images/ca/fe/b3/cb/2b98-4d58-9894-f6c541087a87.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "Julia Keil-Voss",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture cafeb3cb-2b98-4d58-9894-f6c541087a87 (Vienna, 2026-07-11)",
+  "description": "Street-level picture on Panoramax, taken 2026-07-11 near Vienna by Julia Keil-Voss, sequence 3186c6f2-91b0-487d-bcd0-e5c06bbb0c9a, heading 267. OCR (PP-OCRv3) read: KAISERGRUFT",
+  "date": "2026-07-11",
+  "categories": [],
+  "camera_location": [
+    48.205742,
+    16.370387
+  ],
+  "found_by": "panoramax-ocr:Vienna",
+  "bytes": 1233537,
+  "width": 3060,
+  "height": 3115,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/ca/fe/b3/cb/2b98-4d58-9894-f6c541087a87.jpg",
+  "derivative": "crop 0,0,3060,3115 of the 3060x4080 HD picture"
+}

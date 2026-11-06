@@ -1,0 +1,459 @@
+{
+ "pe60e03eeda": {
+  "accept": false,
+  "reason": "photo of a computer screen (app UI), not a sign"
+ },
+ "k1448596969": {
+  "accept": false,
+  "reason": "heavily motion-blurred; the rooftop name ('BAS...TAU'?) cannot be read reliably"
+ },
+ "k2631246765": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Cyrl"
+  ],
+  "lines": [
+   {
+    "text": "ТАЛИСМАН",
+    "lang": "ru",
+    "latin": "Talisman"
+   }
+  ],
+  "expect": {
+   "query": "Талисман",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Fascia letters on Respublika Avenue, Astana. A lamp post hides the middle strokes of the М in ТАЛИСМАН (both legs visible) and the 'ТЕ' of the blue subtitle 'ЮВЕЛИРНАЯ МАС..РСКАЯ' (jewellery workshop), so the subtitle is not labelled as a line. Distractors: '...МАР / ...РЛІК ШЕБЕРХАНА' fascia cut at left, blue address plate 'РЕСПУБЛИКА 7' and a yellow info plate at right, 'ТАЛИСМАН с1998' window poster. Faces are blurred."
+ },
+ "k2630363649": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn",
+   "Cyrl"
+  ],
+  "lines": [
+   {
+    "text": "FLOMART",
+    "lang": "en"
+   },
+   {
+    "text": "ГҮЛДЕР ЦВЕТЫ",
+    "lang": "kk",
+    "latin": "Gulder / Tsvety (flowers, Kazakh / Russian)"
+   }
+  ],
+  "expect": {
+   "query": "Flomart",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Flower-shop fascia, Astana; ГҮЛДЕР uses Kazakh Ү (U+04AE). Distractors: pharmacy fascia 'Дәріхана • Аптека' with green cross, 'COFFEE кофейня' at left, window posters for a beauty salon. Parked cars in front; plate blurred."
+ },
+ "k2631246717": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn",
+   "Cyrl"
+  ],
+  "lines": [
+   {
+    "text": "Happy",
+    "lang": "en"
+   },
+   {
+    "text": "Cake",
+    "lang": "en"
+   },
+   {
+    "text": "Жанұя тәттілері",
+    "lang": "kk",
+    "latin": "Zhanuya tattileri (family sweets)"
+   }
+  ],
+  "expect": {
+   "query": "Happy Cake",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Cake shop kiosk, Astana; the Kazakh tagline uses ұ, ә and і. Window posters 'ЕСТЕН КЕТПЕС БАҚЫТ ДӘМІ' / 'ТА САМАЯ МОЛОЧНАЯ ДЕВОЧКА' are advertising distractors. Car roof in the foreground."
+ },
+ "k2630363659": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn",
+   "Cyrl"
+  ],
+  "lines": [
+   {
+    "text": "SUŃQAR",
+    "lang": "kk"
+   },
+   {
+    "text": "ТОРГОВЫЙ",
+    "lang": "ru",
+    "latin": "torgovy (shopping/trade)"
+   }
+  ],
+  "expect": {
+   "query": "Sunqar",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Shopping centre fascia, Astana, in Kazakh Latin: Ń (N with acute) stands for ң. A small blue word above-left of the name (Kazakh Latin, apparently 'SAÝDA', 'trade') is too small to confirm and is not transcribed; 'ТОРГОВЫЙ' sits under the name. Distractors: 'kari' shoe-shop sign, 'Bambino' kiosk, road plate 'ТОҚТА / СТОП' at left."
+ },
+ "k2631246729": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn",
+   "Cyrl"
+  ],
+  "lines": [
+   {
+    "text": "WEDRINK",
+    "lang": "en"
+   },
+   {
+    "text": "БАЛМҰЗДАҚ, ШАЙ&КОФЕ",
+    "lang": "kk",
+    "latin": "Balmuzdaq, shay & kofe (ice cream, tea & coffee)"
+   }
+  ],
+  "expect": {
+   "query": "WeDrink",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Drinks-shop fascia, Astana; the W touches the left image edge. Kazakh Ұ and Қ in the subtitle. Distractors: menu poster in the window, 'БРАЗИЛИ... ЫРҒАҒЫН СЕЗІН' screen advert, sale posters, women's clothing sign above. Faces blurred."
+ },
+ "k2631246615": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Coffee BOOM",
+    "lang": "en"
+   },
+   {
+    "text": "WWW.COFFEEBOOM.KZ",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Coffee Boom",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Awning of a Coffee BOOM cafe, Astana; 'Coffee' is in script type. The window decal repeats 'CB Coffee BOOM' with the Kazakh slogan 'БАРЛЫҒЫ ДОС БОЛАТЫН ОРЫН' (not labelled). Second awning at left cut off; bus-shelter advert at right is a distractor. People in front, faces blurred."
+ },
+ "k2632141866": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Cyrl"
+  ],
+  "lines": [
+   {
+    "text": "ОПТИКА",
+    "lang": "ru",
+    "latin": "Optika (opticians)"
+   },
+   {
+    "text": "Народная",
+    "lang": "ru",
+    "latin": "Narodnaya (people's)"
+   }
+  ],
+  "expect": {
+   "query": "Оптика Народная",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Opticians' fascia with an eye logo, Astana, at dusk and a little soft. Distractors: 'ELITA MAN' at left, 'ANANAS FLOWERS' in the window, red script fascia and small Kazakh lines at right (cut off). Faces blurred."
+ },
+ "k1613299609": {
+  "accept": false,
+  "reason": "concert advertising billboard (Gipsy Kings at Bellagio hotel), blurred; pure advert"
+ },
+ "k1448593129": {
+  "accept": false,
+  "reason": "the rear of a dump truck with its registration number painted large is the subject; the street plate in the background is small"
+ },
+ "k98405675": {
+  "accept": true,
+  "reason": "",
+  "kind": "hard",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "NDERGROUND",
+    "lang": "en"
+   },
+   {
+    "text": "CLUB & BAR",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Underground",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Skyline-shaped sign on a dark facade, Almaty, shot upward against bright sky. The first letter is cut by the left image edge, so only 'NDERGROUND' is visible (presumably UNDERGROUND; not completed)."
+ },
+ "k98404737": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Cyrl"
+  ],
+  "lines": [
+   {
+    "text": "ҚҰРМАНҒАЗЫ көш.",
+    "lang": "kk",
+    "latin": "Qurmangazy kosh. (Kurmangazy Street)"
+   },
+   {
+    "text": "100м ул. КУРМАНГАЗЫ",
+    "lang": "ru",
+    "latin": "100 m, ul. Kurmangazy"
+   },
+   {
+    "text": "ШЕВЧЕНКО көш.",
+    "lang": "kk",
+    "latin": "Shevchenko kosh. (Shevchenko Street)"
+   }
+  ],
+  "expect": {
+   "query": "Құрманғазы",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Overhead white two-panel street direction sign, Almaty: Kurmangazy Street ahead in 100 m (Kazakh with Қ, Ұ, Ғ; Russian with plain letters), Shevchenko Street left and right. Give-way sign and traffic light at left are distractors."
+ },
+ "k1650089625": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Cyrl"
+  ],
+  "lines": [
+   {
+    "text": "МАНАС көш",
+    "lang": "kk",
+    "latin": "Manas kosh (Manas Street)"
+   },
+   {
+    "text": "ул МАНАСА",
+    "lang": "ru",
+    "latin": "ul. Manasa"
+   },
+   {
+    "text": "САИН көш",
+    "lang": "kk",
+    "latin": "Sain kosh (Sain Street)"
+   },
+   {
+    "text": "ул САИНА",
+    "lang": "ru",
+    "latin": "ul. Saina"
+   }
+  ],
+  "expect": {
+   "query": "Манаса",
+   "type": "street"
+  },
+  "difficulty": "medium",
+  "notes": "Overhead street direction panels on a gantry at dusk, Almaty, both pointing straight ahead; the small 'көш' is barely resolved (its middle letter could be misread as в). Lane-direction sign at left and a dark billboard at bottom right are distractors."
+ },
+ "k2574189689": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn",
+   "Cyrl"
+  ],
+  "lines": [
+   {
+    "text": "KURAL DENT",
+    "lang": "en"
+   },
+   {
+    "text": "ТІС ЕМХАНАСЫ",
+    "lang": "kk",
+    "latin": "tis emkhanasy (dental clinic)"
+   },
+   {
+    "text": "@kural_dent",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Kural Dent",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Green banner on a curved bay of an apartment block, Astana, slightly soft. Text cut by a bush at the right: 'СТОМАТОЛОГ...', 'ВСЕ ВИДЫ У...' and phone '8 705 71...' are partial and not labelled. Yellow estate-agency banner below ('ЖЫЛЖЫМАЙ... «Фав...» АГЕНТСТВО ...') is a distractor."
+ },
+ "c101838926": {
+  "accept": true,
+  "kind": "landmark",
+  "scripts": [
+   "Cyrl"
+  ],
+  "lines": [
+   {
+    "text": "ТОРАЙҒЫР",
+    "lang": "kk",
+    "latin": "Toraiğyr (Toraygyr)"
+   }
+  ],
+  "expect": {
+   "query": "Торайғыр",
+   "type": "place"
+  },
+  "difficulty": "medium",
+  "notes": "White settlement-entry sign for the village of Toraygyr (Pavlodar Region), shot through a car side window; the window frame occupies the left edge. Kazakh Ғ (U+0492).",
+  "reason": ""
+ },
+ "c107082161": {
+  "accept": false,
+  "reason": "door warning sticker (stand clear of the doors), names no place"
+ },
+ "c107082347": {
+  "accept": false,
+  "reason": "table tent with distancing notice / advert, not a place sign"
+ },
+ "c127546063": {
+  "accept": false,
+  "reason": "election campaign billboard (advertising/slogan)"
+ },
+ "c128682631": {
+  "accept": true,
+  "kind": "street sign",
+  "scripts": [
+   "Cyrl"
+  ],
+  "lines": [
+   {
+    "text": "ҰЛЫ ДАЛА",
+    "lang": "kk",
+    "latin": "Ūly Dala (Great Steppe)"
+   },
+   {
+    "text": "даңғылы",
+    "lang": "kk",
+    "latin": "dañğyly (avenue)"
+   }
+  ],
+  "expect": {
+   "query": "Ұлы Дала",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Pole-mounted Astana street-name sign with Kazakh ornament; Kazakh letters Ұ (U+04B0), ң (U+04A3), ғ (U+0493). Traffic lights beside it.",
+  "reason": ""
+ },
+ "c128682632": {
+  "accept": true,
+  "kind": "address plate",
+  "scripts": [
+   "Cyrl",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ҰЛЫ ДАЛА",
+    "lang": "kk",
+    "latin": "Ūly Dala"
+   },
+   {
+    "text": "ULY DALA",
+    "lang": "kk"
+   },
+   {
+    "text": "ДАҢҒЫЛЫ",
+    "lang": "kk",
+    "latin": "dañğyly (avenue)"
+   },
+   {
+    "text": "ПРОСПЕКТ",
+    "lang": "ru",
+    "latin": "prospekt (avenue)"
+   },
+   {
+    "text": "AVENUE",
+    "lang": "en"
+   },
+   {
+    "text": "11",
+    "lang": "und"
+   },
+   {
+    "text": "Z05K7X1",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "Ұлы Дала 11",
+   "type": "addr"
+  },
+  "difficulty": "medium",
+  "notes": "Teal house-number lightbox on a granite wall, Astana: street name in Kazakh Cyrillic and Latin, small trilingual street-type label (ДАҢҒЫЛЫ / ПРОСПЕКТ / AVENUE), number 11, QR code and postcode Z05K7X1. Same street as c128682631 but a different sign.",
+  "reason": ""
+ },
+ "c128682957": {
+  "accept": false,
+  "reason": "collage of two photos (composite), duplicates c128682631/c128682632"
+ },
+ "c132783292": {
+  "accept": false,
+  "reason": "toilet rules notice, names no place"
+ },
+ "c143367482": {
+  "accept": true,
+  "kind": "street sign",
+  "scripts": [
+   "Cyrl"
+  ],
+  "lines": [
+   {
+    "text": "ДОСТЫҚ",
+    "lang": "kk",
+    "latin": "Dostyq (Friendship)"
+   },
+   {
+    "text": "көшесі",
+    "lang": "kk",
+    "latin": "köshesi (street)"
+   }
+  ],
+  "expect": {
+   "query": "Достық",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Pole-mounted Astana street-name sign (Dostyk Street) next to a pedestrian signal; Kazakh Қ (U+049A), ө (U+04E9), і (U+0456).",
+  "reason": ""
+ }
+}

@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=d273e30b-4154-43fb-8728-1839f637d1b3",
+  "original_url": "https://panoramax.openstreetmap.fr/images/d2/73/e3/0b/4154-43fb-8728-1839f637d1b3.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "Eric S",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture d273e30b-4154-43fb-8728-1839f637d1b3 (Antananarivo, 2009-09-01)",
+  "description": "Street-level picture taken 2009-09-01 near Antananarivo by Eric S, sequence b614312c-8227-4d30-b85c-915d460370e2, heading 67. OCR (PP-OCRv3) read: CRANA | SELECT | A/BIRAO | HOTEL | nue de lIndependance | Kodak | CENTRE | IMA | TETAGE | HOTEL-RESTAURANT | ASSURANUES | Tel:2262916",
+  "date": "2009-09-01",
+  "categories": [],
+  "camera_location": [
+    -18.90803067,
+    47.52543167
+  ],
+  "found_by": "panoramax-ocr:Antananarivo",
+  "bytes": 210365,
+  "width": 1280,
+  "height": 960,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/d2/73/e3/0b/4154-43fb-8728-1839f637d1b3.jpg",
+  "derivative": "whole 1280x960 HD picture as served by the Panoramax instance (byte-identical; the instance blurs faces and number plates), not cropped"
+}

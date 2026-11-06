@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/502571/1008/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlNS5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE3LzcvMjgvcHJvYy81MDI1NzFfMTQ0OThfNDkuanBn",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "smajser",
+  "credit_as_published": "KartaView user smajser (user id 10901); © KartaView contributors",
+  "title": "KartaView photo 77606743, sequence 502571 #1008 (Belgrade, 2017-07-28)",
+  "description": "Street-level picture on KartaView, taken 2017-07-28 near Belgrade by smajser, sequence 502571, heading 0. OCR (PP-OCRv3) read: [unread] CityLighe | City Liglit | City Light | City Light | MENJACNIC. | [unread] AJEGLIOTKH",
+  "date": "2017-07-28",
+  "categories": [],
+  "camera_location": [
+    44.814795,
+    20.455123
+  ],
+  "found_by": "kartaview-ocr:Belgrade",
+  "bytes": 141608,
+  "width": 1231,
+  "height": 923,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlNS5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE3LzcvMjgvcHJvYy81MDI1NzFfMTQ0OThfNDkuanBn",
+  "derivative": "crop 1648,274,2879,1197 of the 2880x1728 full-size processed (blurred) picture"
+}

@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/11676770/56/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyNi83LzMvcHJvYy8xMTY3Njc3MF8yZjEyNl82YTQ3NjAyNWNlZmNhLmpwZw",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "seven",
+  "credit_as_published": "KartaView user seven (user id 10951); © KartaView contributors",
+  "title": "KartaView photo 2631246717, sequence 11676770 #56 (Astana, 2026-07-02)",
+  "description": "Street-level picture on KartaView, taken 2026-07-02 near Astana by seven, sequence 11676770, heading 170.59. OCR (PP-OCRv3) read: Happy | Cake | [unread] GAWNE | KaHyg TaTTinepi | BAIOTA | POMEHOE",
+  "date": "2026-07-02",
+  "categories": [],
+  "camera_location": [
+    51.164638,
+    71.427422
+  ],
+  "found_by": "kartaview-ocr:Astana",
+  "bytes": 561783,
+  "width": 2104,
+  "height": 1578,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyNi83LzMvcHJvYy8xMTY3Njc3MF8yZjEyNl82YTQ3NjAyNWNlZmNhLmpwZw",
+  "derivative": "crop 1013,0,3117,1578 of the 4096x2304 full-size processed (blurred) picture"
+}

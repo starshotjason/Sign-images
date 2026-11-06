@@ -1,0 +1,515 @@
+{
+ "fdba0e7b2-ee79-4803-9310-2219f5efe304": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn",
+   "Hani"
+  ],
+  "lines": [
+   {
+    "text": "TRAVESSA",
+    "lang": "pt"
+   },
+   {
+    "text": "DO",
+    "lang": "pt"
+   },
+   {
+    "text": "SORIANO",
+    "lang": "pt"
+   },
+   {
+    "text": "米糙巷",
+    "lang": "zh",
+    "latin": "Mai Chou Hong"
+   }
+  ],
+  "expect": {
+   "query": "Travessa do Soriano",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Blue-and-white azulejo street plate on a yellow wall, near São Domingos church. Chinese name is written vertically in the right-hand panel; traditional characters."
+ },
+ "f162152cd-314f-4425-a16b-a26439828808": {
+  "accept": false,
+  "reason": "'SILÊNCIO / 肅靜 / SILENCE' plaque inside a church; an instruction, not a place name"
+ },
+ "c145323073": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn",
+   "Hani"
+  ],
+  "lines": [
+   {
+    "text": "MERCADO MUNICIPAL",
+    "lang": "pt"
+   },
+   {
+    "text": "DA TAIPA",
+    "lang": "pt"
+   },
+   {
+    "text": "氹仔市政街市",
+    "lang": "zh",
+    "latin": "Tam Chai Si Ching Kaai Si (Taipa Municipal Market)"
+   }
+  ],
+  "expect": {
+   "query": "Mercado Municipal da Taipa",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Engraved black stone building-name plaque. The Chinese line is written right to left: it appears on the stone as 市街政市仔氹 and is given here in reading order. Traditional characters."
+ },
+ "c87028597": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Hani",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "幸運圍",
+    "lang": "zh",
+    "latin": "Hang Wan Wai (Lucky Lane)"
+   },
+   {
+    "text": "BECO DA SORTE",
+    "lang": "pt"
+   }
+  ],
+  "expect": {
+   "query": "Beco da Sorte",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Free-standing azulejo street-name sign on a concrete post; Chinese above Portuguese in this layout. Slight perspective tilt."
+ },
+ "c179602940": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn",
+   "Hani"
+  ],
+  "lines": [
+   {
+    "text": "CALÇADA",
+    "lang": "pt"
+   },
+   {
+    "text": "DA",
+    "lang": "pt"
+   },
+   {
+    "text": "BARRA",
+    "lang": "pt"
+   },
+   {
+    "text": "媽閣斜巷",
+    "lang": "zh",
+    "latin": "Ma Kok Che Hong"
+   },
+   {
+    "text": "(萬里長城)",
+    "lang": "zh",
+    "latin": "Man Lei Cheung Sing (Great Wall), the popular name"
+   }
+  ],
+  "expect": {
+   "query": "Calçada da Barra",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Azulejo street plate on a green wall. Chinese is in two vertical columns: 媽閣斜巷 (right), then the alternative name (萬里長城) in brackets (left). Keep the cedilla in CALÇADA."
+ },
+ "c179602943": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn",
+   "Hani"
+  ],
+  "lines": [
+   {
+    "text": "LARGO",
+    "lang": "pt"
+   },
+   {
+    "text": "DO PAGODE",
+    "lang": "pt"
+   },
+   {
+    "text": "DA BARRA",
+    "lang": "pt"
+   },
+   {
+    "text": "媽閣廟前地",
+    "lang": "zh",
+    "latin": "Ma Kok Miu Chin Tei (A-Ma Temple forecourt)"
+   }
+  ],
+  "expect": {
+   "query": "Largo do Pagode da Barra",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Free-standing azulejo square-name sign in front of the A-Ma Temple square; Chinese written vertically at right. Distractors: a trishaw with its driver, a CTM utility cabinet, and a small street plate on the green building behind."
+ },
+ "c179602945": {
+  "accept": false,
+  "reason": "near-duplicate of c179602943: same 'Largo do Pagode da Barra / 媽閣廟前地' azulejo name (wall-mounted copy)"
+ },
+ "c179602947": {
+  "accept": false,
+  "reason": "near-duplicate of c179602940: same 'Calçada da Barra / 媽閣斜巷 (萬里長城)' azulejo plate text at another spot"
+ },
+ "c38183193": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn",
+   "Hani"
+  ],
+  "lines": [
+   {
+    "text": "Alumni Avenue",
+    "lang": "en"
+   },
+   {
+    "text": "校友大道",
+    "lang": "zh",
+    "latin": "Haau Yau Daai Dou"
+   },
+   {
+    "text": "Avenida dos Antigos Alunos",
+    "lang": "pt"
+   }
+  ],
+  "expect": {
+   "query": "Avenida dos Antigos Alunos",
+   "type": "street"
+  },
+  "difficulty": "medium",
+  "notes": "University of Macau (Hengqin campus). Large dark street-name board seen from below at an angle against the sky. Trilingual: English, traditional Chinese, Portuguese. Pedestrian-crossing warning signs are distractors."
+ },
+ "c68871028": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Hani",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "金亮澳門旅運有限公司",
+    "lang": "zh",
+    "latin": "Gam Leung Ou Mun Lui Wan Yau Haan Gung Si"
+   },
+   {
+    "text": "COMPANHIA DE VIAGENS E TURISMO KAM LEUNG MACAU, LIMITADA",
+    "lang": "pt"
+   },
+   {
+    "text": "GOLDSPARK MACAU TOURS LTD.",
+    "lang": "en"
+   },
+   {
+    "text": "Licence No: 0165",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Goldspark Macau Tours",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Outer Harbour Ferry Terminal booth. Lit fascia shot from below at an angle; the last character 司 is clipped by the top edge but readable. GS logo at left. Distractors: 'Open Top Bus Tour 澳門開蓬觀光巴士 オープントップバスツアー' route map and poster, 'One-day Pass HK$150', business-hours plate."
+ },
+ "c116010329": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Hani",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "肥利喇亞美打大馬路",
+    "lang": "zh",
+    "latin": "Fei Lei La A Mei Da Daai Ma Lou"
+   },
+   {
+    "text": "(荷蘭園大馬路)(荷蘭園正街)",
+    "lang": "zh",
+    "latin": "Ho Laan Yuen Daai Ma Lou / Ho Laan Yuen Ching Gaai (popular names)"
+   },
+   {
+    "text": "AVENIDA DO CONSELHEIRO",
+    "lang": "pt"
+   },
+   {
+    "text": "FERREIRA DE ALMEIDA",
+    "lang": "pt"
+   }
+  ],
+  "expect": {
+   "query": "Avenida do Conselheiro Ferreira de Almeida",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Azulejo street plate, frontal. Chinese official name on the top line, two bracketed popular names below it, Portuguese underneath."
+ },
+ "c153955210": {
+  "accept": false,
+  "reason": "no-stopping regulatory sign with exemption plate ('公共巴士除外 / EXCEPTO AUTOCARROS PÚBLICOS', middle line covered); no place name"
+ },
+ "c182542381": {
+  "accept": false,
+  "reason": "no-entry regulatory sign with exemption plate ('公共巴士除外 / EXCEPTO AUTOCARROS PÚBLICOS'); no place name. 'DAISO JAPAN' and 'Sun Star Plaza' are small background signs"
+ },
+ "c32243064": {
+  "accept": false,
+  "reason": "patriotic inscription plaque ('ALTO! SENTIDO! RECORDA POR UNS INSTANTES ...'); a slogan, it does not name the fortress"
+ },
+ "c85691993": {
+  "accept": true,
+  "reason": "",
+  "kind": "transit",
+  "scripts": [
+   "Hani",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "氹仔碼頭",
+    "lang": "zh",
+    "latin": "Tam Chai Ma Tau"
+   },
+   {
+    "text": "Terminal Marítimo da Taipa",
+    "lang": "pt"
+   },
+   {
+    "text": "Taipa Ferry Terminal",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Terminal Marítimo da Taipa",
+   "type": "stop"
+  },
+  "difficulty": "easy",
+  "notes": "Macau LRT station name board (blue with green ferry pictogram corner). English line is in italics. Keep the í in Marítimo."
+ },
+ "c85691996": {
+  "accept": true,
+  "reason": "",
+  "kind": "transit",
+  "scripts": [
+   "Hani",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "路氹東",
+    "lang": "zh",
+    "latin": "Lou Tam Tung"
+   },
+   {
+    "text": "Cotai Leste",
+    "lang": "pt"
+   },
+   {
+    "text": "Cotai East",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Cotai Leste",
+   "type": "stop"
+  },
+  "difficulty": "easy",
+  "notes": "Macau LRT Cotai East station name board, same design as the Taipa Ferry Terminal board but a different station. Slightly soft focus."
+ },
+ "c85692000": {
+  "accept": true,
+  "reason": "",
+  "kind": "transit",
+  "scripts": [
+   "Hani",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "運動場",
+    "lang": "zh",
+    "latin": "Wan Dung Cheung"
+   },
+   {
+    "text": "Estádio",
+    "lang": "pt"
+   },
+   {
+    "text": "Stadium",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Estádio",
+   "type": "stop"
+  },
+  "difficulty": "easy",
+  "notes": "Macau LRT Stadium station name board (Taipa); same design as the other LRT boards but a different station. English line in italics; keep the á in Estádio."
+ },
+ "c85692009": {
+  "accept": false,
+  "reason": "LRT direction sign ('往海洋 / Para Oceano / To Ocean'); a third Macau LRT sign from the same visit, the station boards already cover this kind"
+ },
+ "f6fae552f-ce43-4c73-bcdd-42e031c78b7f": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Hani",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "大昌食品市場",
+    "lang": "zh",
+    "latin": "Daai Cheung Sik Ban Si Cheung (Dah Chong food market)"
+   },
+   {
+    "text": "SUPERMERCADO DAH CHONG • DAH CHONG SUPERMARKET",
+    "lang": "pt"
+   }
+  ],
+  "expect": {
+   "query": "Supermercado Dah Chong",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Macau old town. Target is the lower green fascia over the door. The upper fascia repeats the name but is cut at the frame edge and spells 'DHA CHONG SUPERM...'. The old gilt sign between them reads 'MAN SENG SIU LAP KA' with 萬勝燒臘家 written right to left (stylised 臘), a former shop. Red side panels list goods (美國..., 潤膚, 沙甸魚 ...). TAI-LEI logo. Shoppers on the pavement, one walking close to the camera, are incidental."
+ },
+ "fd858d616-6f00-49e6-b3c9-0f88651a8485": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Hani",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "廣隆咖啡粉麵",
+    "lang": "zh",
+    "latin": "Gwong Lung Ga Fe Fan Min (Kwong Lung coffee and noodles)"
+   }
+  ],
+  "expect": {
+   "query": "廣隆",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Night, warm street-lamp light, shutters closed. Target is the long right-hand board. Neighbour sign at left (distractor or second target): 'AGENCIA COMERCIAL SENG CHEONG / 盛昌貿易行 / 經營 魚翅 什貨'. Traditional Chinese."
+ },
+ "f224102d9-ade0-4a24-947b-8cf6d657b7cf": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn",
+   "Hani"
+  ],
+  "lines": [
+   {
+    "text": "Macau Fairy Human Resources Consultant Co., Ltd.",
+    "lang": "en"
+   },
+   {
+    "text": "澳門法理人力資源顧問有限公司",
+    "lang": "zh",
+    "latin": "Ou Mun Faat Lei Yan Lik Ji Yuen Gu Man Yau Haan Gung Si"
+   },
+   {
+    "text": "Macau Fairy",
+    "lang": "en"
+   },
+   {
+    "text": "Tel/電話: 2871 3343 / 2871 2839",
+    "lang": "zh"
+   }
+  ],
+  "expect": {
+   "query": "Macau Fairy Human Resources",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Hanging lightbox seen from below at an angle; text slants upward to the right. 'Macau Fairy' curves round the globe logo. Below it a partial facade name '...EL RENÉ' is a distractor."
+ },
+ "f04bf26df-50bb-4767-be7a-337cbba81678": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Hani",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "鉅記",
+    "lang": "zh",
+    "latin": "Geui Gei (Koi Kei)"
+   },
+   {
+    "text": "手信",
+    "lang": "zh",
+    "latin": "sau seun (souvenir food)"
+   },
+   {
+    "text": "PASTELARIA KOI KEI",
+    "lang": "pt"
+   }
+  ],
+  "expect": {
+   "query": "Pastelaria Koi Kei",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Crowded lane near the Ruins of St Paul's. Target is the vertical maroon hanging sign right of centre (large 鉅記, smaller 手信 at its left). Many distractors: the big '藥 / 政府註册 正版正貨 / MEDICINE NO FAKES' pharmacy sign, '燕窩', another Koi Kei board '鉅記手信 (第五分店) PASTELARIA KOI KEI', '大三巴餅家 澳門名牌 PASTELARIA ST.PAUL', '大三巴餅家'. Crowd faces at the bottom are incidental. Low-resolution source (1024 px)."
+ },
+ "c141302037": {
+  "accept": false,
+  "reason": "indoor resort wayfinding pillar (Casino / Grand Hyatt / Shopping...) with a camera date stamp; directory, not a sign naming one place"
+ },
+ "c141435761": {
+  "accept": false,
+  "reason": "mall floor directory screen and wayfinding pillar (shop logos, floor lists) with a camera date stamp"
+ },
+ "c141438637": {
+  "accept": false,
+  "reason": "mall wayfinding pillar (floor 1 West: Shopping Mall, cdf, Chalou, Wulao ...) with a camera date stamp; directory, not a single sign"
+ },
+ "c187377227": {
+  "accept": false,
+  "reason": "mall floor directory pillar (YOHO Treasure Island) with camera brand and date watermark; small dense text"
+ },
+ "c143384278": {
+  "accept": false,
+  "reason": "escalator safety poster (cartoon; 'Não abuse ... botão de emergência'); warning, no place name"
+ }
+}

@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/3670049/162/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMS82LzE2L3Byb2MvMzY3MDA0OV8wN2U3OF82MGNhODA2ZmFhNWJiLmpwZw",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "mishari",
+  "credit_as_published": "KartaView user mishari (user id 17953); © KartaView contributors",
+  "title": "KartaView photo 1323296973, sequence 3670049 #162 (Bangkok Sukhumvit, 2017-02-25)",
+  "description": "Street-level picture on KartaView, taken 2017-02-25 near Bangkok Sukhumvit by mishari, sequence 3670049, heading 25.91. OCR (PP-OCRv3) read: +6 2664 4101 | sangkokSmileDentalC | entuy | pharmacy | BlueOcean | Tel.021054288",
+  "date": "2017-02-25",
+  "categories": [],
+  "camera_location": [
+    13.740486,
+    100.561719
+  ],
+  "found_by": "kartaview-ocr:Bangkok Sukhumvit",
+  "bytes": 2488303,
+  "width": 3539,
+  "height": 2654,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMS82LzE2L3Byb2MvMzY3MDA0OV8wN2U3OF82MGNhODA2ZmFhNWJiLmpwZw",
+  "derivative": "crop 460,53,3999,2707 of the 4000x3000 full-size processed (blurred) picture"
+}

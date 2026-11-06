@@ -1,0 +1,350 @@
+{
+ "f7994fbfe-f40c-48f0-b718-29d52fec60b5": {
+  "accept": false,
+  "reason": "no-trucks traffic pictogram only; no place text"
+ },
+ "fa7235620-e0f3-4d28-91af-cd9958f96b40": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "NYANZA MEMORIAL SITE",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Nyanza Memorial Site",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Blue name board with white capitals and a white keyline border, Nyanza genocide memorial, Kicukiro, Kigali, seen from slightly below. The torn advertising poster (smiling couple) in the frame below is a distractor with no text."
+ },
+ "k117439653": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "EXECUTIVE",
+    "lang": "en"
+   },
+   {
+    "text": "SUITES",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Executive Suites",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "White panel on a boundary wall in Kigali, at dusk and at an angle from a moving camera; red name with a green palm logo. The tagline under the green rule (apparently '... Serviced Apartments') and the address, phone, e-mail and web lines are too blurred to read and are not transcribed."
+ },
+ "c115251588": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "NYAGATARE Butcher",
+    "lang": "en"
+   },
+   {
+    "text": "Ltd",
+    "lang": "en"
+   },
+   {
+    "text": "DUKORA",
+    "lang": "rw"
+   },
+   {
+    "text": "KUVA",
+    "lang": "rw"
+   },
+   {
+    "text": "Sa",
+    "lang": "rw"
+   },
+   {
+    "text": "06:00am-08:00pm",
+    "lang": "en"
+   },
+   {
+    "text": "INKOKO",
+    "lang": "rw"
+   },
+   {
+    "text": "IHENE",
+    "lang": "rw"
+   },
+   {
+    "text": "Tel: 0788760704 - 0728760705",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "Nyagatare Butcher",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Hand-painted name on both faces of a corner building in Nyagatare; lines follow the right-hand face. 'NYAGATARE' in yellow and 'Butcher' in red script with no space between them. Kinyarwanda: 'DUKORA KUVA Sa' (we open from ...), 'INKOKO' (chicken), 'IHENE' (goat), each beside a painted animal/meat picture."
+ },
+ "c22180319": {
+  "accept": false,
+  "reason": "genocide-memorial commemorative banner (slogan), not a place name sign"
+ },
+ "c151154462": {
+  "accept": false,
+  "reason": "hand-painted passport-photo advert with no clear business name; the first word is partly hidden by a tree trunk, and a motorbike number plate is prominent"
+ },
+ "c22179893": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "KABGAYI HOSPITAL",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Kabgayi Hospital",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Large white shadowed serif capitals painted on a curved metal gate arch near Muhanga; 'HOSPITAL' follows the curve downward. Old colonial brick building behind."
+ },
+ "c155957005": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "5/5 HOTEL",
+    "lang": "en"
+   },
+   {
+    "text": "FIVE TO FIVE",
+    "lang": "en"
+   },
+   {
+    "text": "HOTEL",
+    "lang": "en"
+   },
+   {
+    "text": "Remera, Kigali-Rwanda",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Five to Five Hotel",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "White-and-green pylon sign at the hotel gate in Remera, Kigali; '5/5 HOTEL' is italic logo text on a globe under palm trees. The phone, email and website lines on the green lower half are left out."
+ },
+ "c155957279": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "HOTEL",
+    "lang": "en"
+   },
+   {
+    "text": "MATER BONI CONSILII",
+    "lang": "la"
+   },
+   {
+    "text": "ACCOMODATION",
+    "lang": "en"
+   },
+   {
+    "text": "RESTO - BAR",
+    "lang": "en"
+   },
+   {
+    "text": "CONFERENCE FACILITIES",
+    "lang": "en"
+   },
+   {
+    "text": "GYM & FITNESS",
+    "lang": "en"
+   },
+   {
+    "text": "Contacts:+250 783 777 626",
+    "lang": "en"
+   },
+   {
+    "text": "+250 788 283 903",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "Hotel Mater Boni Consilii",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Grey board with orange lettering and a right arrow behind a red-and-white railing, Taba, Huye. 'ACCOMODATION' is the sign's spelling. The e-mail line at the bottom is hidden by the railing and left out; a Madonna medallion at top left."
+ },
+ "c119858517": {
+  "accept": false,
+  "reason": "indoor room directory listing floors and rooms (paragraph text); the institution name header alone is not a sign at a place"
+ },
+ "c22178933": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "HOTEL",
+    "lang": "fr"
+   },
+   {
+    "text": "DES MILLE COLLINES",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "Hôtel des Mille Collines",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Floodlit white wall panel at the gate in Kigali, photographed at dusk; small-caps serif lettering under a three-peak logo. Uneven lighting (warm spot in the middle, blue cast elsewhere). The sign has no accent on 'HOTEL'."
+ },
+ "c22180307": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "AL-MASIDJID Q'UBAH",
+    "lang": "ar"
+   },
+   {
+    "text": "AFRICA MUSLIMS AGENCY",
+    "lang": "en"
+   },
+   {
+    "text": "BUTARE - RWANDA",
+    "lang": "en"
+   },
+   {
+    "text": "26 Septembre 1991",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "Africa Muslims Agency",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Hand-painted mosque board on two posts above the green mosque wall, Huye (Butare). 'AL-MASIDJID Q'UBAH' is a romanised Arabic name (Quba Mosque) spelled as on the sign, with a straight apostrophe. Two small hand-painted Arabic lines (the basmala at top and the agency's Arabic name at bottom right) are not transcribed because they are too small to read character by character."
+ },
+ "c119858660": {
+  "accept": false,
+  "reason": "indoor floor directory listing ten businesses with no single target; camera date stamp burned into the image"
+ },
+ "c115251407": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "INEZA SALOON",
+    "lang": "en"
+   },
+   {
+    "text": "& STUDIO",
+    "lang": "en"
+   },
+   {
+    "text": "PHOTO EXPRESS",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Ineza Saloon & Studio",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Hand-painted shop front in Nyagatare with painted barber/photographer scenes. Lower wall repeats 'NFB'S Photo Express NFB'S'. The left panel lists services ('Dealers in FILMS Selling, PHOTO Printings, DIGITAL Photos, Phone Charging, VIDEO Camera, MTN & TIGO Cards, TWAKIRA Film Zihana gurwa.') and is not part of the target."
+ },
+ "c18115493": {
+  "accept": false,
+  "reason": "Kinyarwanda anti-genocide-ideology slogan board; no place name"
+ },
+ "c18115486": {
+  "accept": false,
+  "reason": "Kinyarwanda peace and reconciliation slogan board; no place name"
+ },
+ "c135490819": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Kigali Genocide Memorial",
+    "lang": "en"
+   },
+   {
+    "text": "Remembrance and Learning",
+    "lang": "en"
+   },
+   {
+    "text": "ENTRANCE",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Kigali Genocide Memorial",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Blue-and-white entrance board above a stone retaining wall, shot upward at an angle; diagonal arrow after 'ENTRANCE'. The smaller facilities list and visiting hours below are partly hidden by a palm frond and left out."
+ },
+ "f560585f8-b218-4ced-a9b2-c2cfac193d85": {
+  "accept": false,
+  "reason": "only a generic 'BOUCHERIE' awning on a small shop, far away; no business name"
+ },
+ "c183795225": {
+  "accept": false,
+  "reason": "news/event photo of a partnership signing ceremony; people are the subject, no place sign"
+ },
+ "c71417686": {
+  "accept": false,
+  "reason": "no-trucks traffic pictogram only, no place text; motorbike number plates visible"
+ }
+}

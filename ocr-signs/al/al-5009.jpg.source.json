@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=be56dc43-a712-4d88-92ba-978a443fd1ef",
+  "original_url": "https://panoramax.openstreetmap.fr/images/be/56/dc/43/a712-4d88-92ba-978a443fd1ef.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "IrdiIs",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture be56dc43-a712-4d88-92ba-978a443fd1ef (Tirana, 2026-02-24)",
+  "description": "Street-level picture taken 2026-02-24 near Tirana by IrdiIs, sequence bf7ebc35-e95c-483e-89be-bffa5d8417f1, heading 174. OCR (PP-OCRv3) read: Lagune",
+  "date": "2026-02-24",
+  "categories": [],
+  "camera_location": [
+    41.327741076,
+    19.816367319
+  ],
+  "found_by": "panoramax-ocr:Tirana",
+  "bytes": 296314,
+  "width": 1200,
+  "height": 900,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/be/56/dc/43/a712-4d88-92ba-978a443fd1ef.jpg",
+  "derivative": "crop 2832,672,4032,1572 of the 4032x1814 HD picture"
+}

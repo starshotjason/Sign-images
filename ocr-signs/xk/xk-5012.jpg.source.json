@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/1273773/93/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlOS5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE4LzgvMy9wcm9jLzEyNzM3NzNfMV80YzMyNV80NC5qcGc",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "Stereo",
+  "credit_as_published": "KartaView user Stereo (user id 1952); © KartaView contributors",
+  "title": "KartaView photo 294550667, sequence 1273773 #93 (Pristina, 2018-08-03)",
+  "description": "Street-level picture on KartaView, taken 2018-08-03 near Pristina by Stereo, sequence 1273773, heading 161.86. OCR (PP-OCRv3) read: TERRACE38 | CONA SPORT | Capital | PAGESAT | Capital | Ria | PAGESA",
+  "date": "2018-08-03",
+  "categories": [],
+  "camera_location": [
+    42.660653,
+    21.158781
+  ],
+  "found_by": "kartaview-ocr:Pristina",
+  "bytes": 1803330,
+  "width": 4032,
+  "height": 3024,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlOS5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE4LzgvMy9wcm9jLzEyNzM3NzNfMV80YzMyNV80NC5qcGc",
+  "derivative": "whole 4032x3024 full-size processed (blurred) picture as served by the KartaView CDN (byte-identical; the service blurs faces and number plates), not cropped"
+}

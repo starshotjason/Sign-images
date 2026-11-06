@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=eb643946-1c51-4962-88fb-ae3532645fb8",
+  "original_url": "https://panoramax.openstreetmap.fr/images/eb/64/39/46/1c51-4962-88fb-ae3532645fb8.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "p4n-pics",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture eb643946-1c51-4962-88fb-ae3532645fb8 (Skopje, 2017-04-04)",
+  "description": "Street-level picture taken 2017-04-04 near Skopje by p4n-pics, sequence 3b946bb3-06fe-44f2-b67d-9e4b6558558e, heading None. OCR (PP-OCRv3) read: PARK | IOTEL&SPA",
+  "date": "2017-04-04",
+  "categories": [],
+  "camera_location": [
+    42.005798,
+    21.427401
+  ],
+  "found_by": "panoramax-ocr:Skopje",
+  "bytes": 123265,
+  "width": 1049,
+  "height": 634,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/eb/64/39/46/1c51-4962-88fb-ae3532645fb8.jpg",
+  "derivative": "whole 1049x634 HD picture as served by the Panoramax instance (byte-identical; the instance blurs faces and number plates), not cropped"
+}

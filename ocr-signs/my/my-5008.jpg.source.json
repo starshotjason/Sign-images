@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=118e3b98-188f-424c-803a-eef414a94504",
+  "original_url": "https://panoramax.openstreetmap.fr/images/11/8e/3b/98/188f-424c-803a-eef414a94504.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "ravidwivedi",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture 118e3b98-188f-424c-803a-eef414a94504 (Kuala Lumpur, 2024-02-05)",
+  "description": "Street-level picture taken 2024-02-05 near Kuala Lumpur by ravidwivedi, sequence f90efe3d-2eeb-4348-9a95-f1415621a362, heading 317. OCR (PP-OCRv3) read: KL.GIFTS | KEDAICENDERAHATI | Dimllkl oleh: Jen yu Megah Enterpriee 201103260321 | MALAYSIA | KLGIFTS-",
+  "date": "2024-02-05",
+  "categories": [],
+  "camera_location": [
+    3.14637539,
+    101.71117845
+  ],
+  "found_by": "panoramax-ocr:Kuala Lumpur",
+  "bytes": 2603070,
+  "width": 4000,
+  "height": 3000,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/11/8e/3b/98/188f-424c-803a-eef414a94504.jpg",
+  "derivative": "whole 4000x3000 HD picture as served by the Panoramax instance (byte-identical; the instance blurs faces and number plates), not cropped"
+}

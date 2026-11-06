@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=38a58297-1701-440c-9559-e15b98990e76",
+  "original_url": "https://panoramax.openstreetmap.fr/images/38/a5/82/97/1701-440c-9559-e15b98990e76.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "Robot8A",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture 38a58297-1701-440c-9559-e15b98990e76 (Skopje, 2020-02-23)",
+  "description": "Street-level picture taken 2020-02-23 near Skopje by Robot8A, sequence 5dc86608-ff2a-4438-8096-c7eeaed97839, heading 207. OCR (PP-OCRv3) read: SKOPJE | OWNTOWN | HOSTEL",
+  "date": "2020-02-23",
+  "categories": [],
+  "camera_location": [
+    41.989701491,
+    21.436932109
+  ],
+  "found_by": "panoramax-ocr:Skopje",
+  "bytes": 455786,
+  "width": 1200,
+  "height": 900,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/38/a5/82/97/1701-440c-9559-e15b98990e76.jpg",
+  "derivative": "crop 817,306,2017,1206 of the 4032x3024 HD picture"
+}

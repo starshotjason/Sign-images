@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=285530a0-b304-42af-980c-f8a624e6b2b2",
+  "original_url": "https://panoramax.openstreetmap.fr/images/28/55/30/a0/b304-42af-980c-f8a624e6b2b2.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "sykul",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture 285530a0-b304-42af-980c-f8a624e6b2b2 (Beijing, 2025-07-03)",
+  "description": "Street-level picture taken 2025-07-03 near Beijing by sykul, sequence 8ae08d7a-be1c-4be8-b10b-971fab0dbf98, heading 59. OCR (PP-OCRv3) read: 中国银行 BANK OF CHINA",
+  "date": "2025-07-03",
+  "categories": [],
+  "camera_location": [
+    39.907238,
+    116.404815667
+  ],
+  "found_by": "panoramax-ocr:Beijing",
+  "bytes": 1984236,
+  "width": 4000,
+  "height": 3000,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/28/55/30/a0/b304-42af-980c-f8a624e6b2b2.jpg",
+  "derivative": "whole 4000x3000 HD picture as served by the Panoramax instance (byte-identical; the instance blurs faces and number plates), not cropped"
+}

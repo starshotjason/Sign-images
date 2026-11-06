@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/2070678/4/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMC8xLzgvcHJvYy8yMDcwNjc4XzBfNWU4NjhfNS5qcGc",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "lamichhane",
+  "credit_as_published": "KartaView user lamichhane (user id 27102); © KartaView contributors",
+  "title": "KartaView photo 576438486, sequence 2070678 #4 (Pokhara, 2020-01-08)",
+  "description": "Street-level picture on KartaView, taken 2020-01-08 near Pokhara by lamichhane, sequence 2070678, heading 0. OCR (PP-OCRv3) read: 'Prudentia | [unread] GHHDARESIOSLLASEN | Global IME Bank | [unread] Caston Gnodwi | COMPLETE GARDEN | DIAMOND",
+  "date": "2020-01-08",
+  "categories": [],
+  "camera_location": [
+    28.217698,
+    83.986478
+  ],
+  "found_by": "kartaview-ocr:Pokhara",
+  "bytes": 387195,
+  "width": 2008,
+  "height": 1506,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMC8xLzgvcHJvYy8yMDcwNjc4XzBfNWU4NjhfNS5qcGc",
+  "derivative": "crop 1255,0,3263,1506 of the 3264x1836 full-size processed (blurred) picture"
+}

@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=f9f62a74-58d7-4560-93fe-15aa50729d22",
+  "original_url": "https://panoramax.openstreetmap.fr/images/f9/f6/2a/74/58d7-4560-93fe-15aa50729d22.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "nave88",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture f9f62a74-58d7-4560-93fe-15aa50729d22 (Limassol, 2026-05-31)",
+  "description": "Street-level picture taken 2026-05-31 near Limassol by nave88, sequence ba7137b0-fe78-4896-ab41-8c545aff0385, heading 93. OCR (PP-OCRv3) read: BAZAAR | SOUVENIR SHOR | DIMTRIOUMTRCPOULOUST | OsTENEONIOYMITEANA | GENETHLIOU MITELLA St",
+  "date": "2026-05-31",
+  "categories": [],
+  "camera_location": [
+    34.672817972,
+    33.042797
+  ],
+  "found_by": "panoramax-ocr:Limassol",
+  "bytes": 3919161,
+  "width": 4080,
+  "height": 3060,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/f9/f6/2a/74/58d7-4560-93fe-15aa50729d22.jpg",
+  "derivative": "whole 4080x3060 HD picture as served by the Panoramax instance (byte-identical; the instance blurs faces and number plates), not cropped"
+}

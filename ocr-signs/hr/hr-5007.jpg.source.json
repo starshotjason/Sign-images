@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.osm-hr.org/#focus=pic&pic=070dd837-2619-480e-bd94-4bdb7607e752",
+  "original_url": "https://panoramax.osm-hr.org/permanent/07/0d/d8/37/2619-480e-bd94-4bdb7607e752.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "Janjko",
+  "credit_as_published": "Panoramax, instance osm-hr (https://panoramax.osm-hr.org)",
+  "title": "Panoramax picture 070dd837-2619-480e-bd94-4bdb7607e752 (Zagreb, 2026-08-08)",
+  "description": "Street-level picture on Panoramax, taken 2026-08-08 near Zagreb by Janjko, sequence 6f980317-4992-4b0a-af71-6bb6da175878, heading 0. OCR (PP-OCRv3) read: murluka | Hangovers | og ValaZagreb | n'RollMuseum | anaJ.Jelacica | pJelacicSquare | esti videoigara | pryMuseum",
+  "date": "2026-08-08",
+  "categories": [],
+  "camera_location": [
+    45.8132703,
+    15.9764873
+  ],
+  "found_by": "panoramax-ocr:Zagreb",
+  "bytes": 667531,
+  "width": 1974,
+  "height": 1480,
+  "downloaded_url": "https://panoramax.osm-hr.org/permanent/07/0d/d8/37/2619-480e-bd94-4bdb7607e752.jpg",
+  "derivative": "crop 0,559,1974,2039 of the 4032x2268 HD picture"
+}

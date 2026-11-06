@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/1178809/356/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlOC5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE4LzUvMTAvcHJvYy8xMTc4ODA5XzAzOGU0XzM1Ny5qcGc",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "skobblertest1",
+  "credit_as_published": "KartaView user skobblertest1 (user id 41); © KartaView contributors",
+  "title": "KartaView photo 241821121, sequence 1178809 #356 (Managua, 2016-04-25)",
+  "description": "Street-level picture on KartaView, taken 2016-04-25 near Managua by skobblertest1, sequence 1178809, heading 0. OCR (PP-OCRv3) read: CA VEN ECITA",
+  "date": "2016-04-25",
+  "categories": [],
+  "camera_location": [
+    12.136521,
+    -86.253754
+  ],
+  "found_by": "kartaview-ocr:Managua",
+  "bytes": 145761,
+  "width": 1200,
+  "height": 900,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlOC5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE4LzUvMTAvcHJvYy8xMTc4ODA5XzAzOGU0XzM1Ny5qcGc",
+  "derivative": "crop 720,180,1920,1080 of the 1920x1080 full-size processed (blurred) picture"
+}

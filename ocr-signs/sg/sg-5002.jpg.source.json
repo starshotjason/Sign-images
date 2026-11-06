@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/1382582/1312/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTEub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAxOS80LzIyL3Byb2MvMTM4MjU4Ml83YjZmMl8xMzEyLmpwZw",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "grabsg",
+  "credit_as_published": "KartaView user grabsg (user id 15255); © KartaView contributors",
+  "title": "KartaView photo 391875954, sequence 1382582 #1312 (Singapore, 2019-03-26)",
+  "description": "Street-level picture on KartaView, taken 2019-03-26 near Singapore by grabsg, sequence 1382582, heading 31. OCR (PP-OCRv3) read: ROAD CLOSURE | St Andrew's Rd | THU,28MAR19 | 1.30pmto7.15pm | ACCESSTOSTAMFORDROAD | J.P.MORGANCORPORATE | CHALLENGE | HOTLINE:86013650 | ALPHARD",
+  "date": "2019-03-26",
+  "categories": [],
+  "camera_location": [
+    1.29048,
+    103.848492
+  ],
+  "found_by": "kartaview-ocr:Singapore",
+  "bytes": 418926,
+  "width": 1280,
+  "height": 960,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTEub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAxOS80LzIyL3Byb2MvMTM4MjU4Ml83YjZmMl8xMzEyLmpwZw",
+  "derivative": "crop 594,225,1874,1185 of the 3072x1728 full-size processed (blurred) picture"
+}

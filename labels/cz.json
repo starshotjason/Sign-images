@@ -1,0 +1,326 @@
+{
+ "p579ec61b9b": {
+  "accept": false,
+  "reason": "WWII memorial plaque listing fallen people; no place or business name to search"
+ },
+ "p1306678cc0": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "vinoshop",
+    "lang": "cs"
+   }
+  ],
+  "expect": {
+   "query": "Vinoshop",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Lowercase backlit logo on a black fascia, Prague; the 'v' has a leaf-like stroke above it. Window lettering 'PŘIJĎTE NA SKLENIČKU / NEBO PRO VÍNO S SEBOU' and 'CZECH WINE PRESENTS' is advertising copy and a distractor."
+ },
+ "p1b2b23f3d8": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "POPEYES",
+    "lang": "en"
+   },
+   {
+    "text": "FAMOUS LOUISIANA CHICKEN",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Popeyes",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Illuminated orange fascia over the corner entrance on Wenceslas Square, Prague. Logo is stylised mixed case ('Popeyes'). The vertical 'K12 BBQ SUSHI WOK' banner at left is a distractor."
+ },
+ "pcd9652ed35": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "SASY",
+    "lang": "it"
+   },
+   {
+    "text": "The Original",
+    "lang": "en"
+   },
+   {
+    "text": "Pizzeria Napoletana",
+    "lang": "it"
+   }
+  ],
+  "expect": {
+   "query": "Sasy",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Black fascia seen at an upward angle, Prague; a phone number '+420 602 141 784' runs behind the awning arm and is partly hidden. Side pillars with menu items, food photos and chalkboard are distractors."
+ },
+ "p944196553c": {
+  "accept": false,
+  "reason": "blurred insurance advertising mural and construction banner; no place sign"
+ },
+ "pb0675d7232": {
+  "accept": true,
+  "reason": "",
+  "kind": "hard",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Bohemia",
+    "lang": "en"
+   },
+   {
+    "text": "GLASS",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Bohemia Glass",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Motion-blurred shot of metal fascia letters on a Prague shopfront. The yellow Prague metro sign (lines A/B) has a station name at the bottom that is too blurred to read; the 'CANNABIS SHOP' sign is a distractor."
+ },
+ "p1901a739d1": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Restaurace",
+    "lang": "cs"
+   },
+   {
+    "text": "Klub cestovatelů",
+    "lang": "cs"
+   }
+  ],
+  "expect": {
+   "query": "Klub cestovatelů",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Projecting lightbox with a camel logo, Prague; decorative pseudo-oriental lettering. 'Klub' sits above 'cestovatelů' with the ů ring clearly visible."
+ },
+ "pb60482a207": {
+  "accept": false,
+  "reason": "wide street scene; no single legible main sign"
+ },
+ "k26590553": {
+  "accept": false,
+  "reason": "street scene where the main text is van livery (vehicle branding); hotel signs too far"
+ },
+ "pb2dd4306d0": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "McDonald's",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "McDonald's",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Blurred, hazy shot through traffic, Prague; the white logo lettering is still clear. 'McWalk' sign by the door and a car in the foreground are distractors."
+ },
+ "f0c411174-715d-4078-b80a-9697f3b451dd": {
+  "accept": false,
+  "reason": "person is the subject; ice-cream graphic with no text"
+ },
+ "faaff0315-3fcf-4d2d-8671-4699e22087e5": {
+  "accept": true,
+  "reason": "",
+  "kind": "address plate",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "10",
+    "lang": "und"
+   },
+   {
+    "text": "Křenová",
+    "lang": "cs"
+   },
+   {
+    "text": "291",
+    "lang": "und"
+   },
+   {
+    "text": "Trnitá",
+    "lang": "cs"
+   }
+  ],
+  "expect": {
+   "query": "Křenová 10",
+   "type": "addr"
+  },
+  "difficulty": "hard",
+  "notes": "Brno double house-number plates at the right edge: blue-on-white orientation number 10 with street Křenová over the black conscription number 291 with district Trnitá. Plates are small in frame. Distractors: sculptural pipe/gear letters 'SCH...' over the red door, and a '...VÁRNA' (pivnice/kavárna) fascia at the left edge."
+ },
+ "fe7e44d08-d12f-4af3-bcfe-954eb012e403": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "TV PRODUCTS",
+    "lang": "en"
+   },
+   {
+    "text": "INTERNET",
+    "lang": "en"
+   },
+   {
+    "text": "SHOP",
+    "lang": "en"
+   },
+   {
+    "text": "znáte z TV",
+    "lang": "cs"
+   },
+   {
+    "text": "tvproducts.cz",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "TV Products",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Red shop fascia with several 'TV PRODUCTS' logo boxes, Prague; house number 23 on a blue plate at upper right. Exchange office ('EUR CZK'), ATM and Benvald sign at the left are distractors."
+ },
+ "c6880456": {
+  "accept": true,
+  "reason": "",
+  "kind": "transit",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Třebíč",
+    "lang": "cs"
+   }
+  ],
+  "expect": {
+   "query": "Třebíč",
+   "type": "stop"
+  },
+  "difficulty": "easy",
+  "notes": "Tight crop of the backlit station-name sign at Třebíč railway station: large cream letters on a dark blue lightbox, at night. Diacritics ř, í, č are clear."
+ },
+ "c191864467": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "VÝPADOVÁ",
+    "lang": "cs"
+   },
+   {
+    "text": "RADOTÍN - PRAHA 5",
+    "lang": "cs"
+   }
+  ],
+  "expect": {
+   "query": "Výpadová",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Prague-style red enamel street plate on a chain-link fence, Radotín. The district line still says PRAHA 5 (Radotín is now in Prague 16)."
+ },
+ "c38853855": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Můjobchod",
+    "lang": "cs"
+   },
+   {
+    "text": "Potraviny Nam-Phuong",
+    "lang": "cs"
+   },
+   {
+    "text": "www.mujobchod.cz",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "Nam-Phuong",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Green-and-white grocery fascia high on a facade, Záběhlická 51, Prague, seen at an upward angle. 'Můj' is orange and 'obchod' green in one word (chain brand); the shop name is the second line."
+ },
+ "c78408045": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "BERANOVA",
+    "lang": "cs"
+   },
+   {
+    "text": "LHOTA",
+    "lang": "cs"
+   }
+  ],
+  "expect": {
+   "query": "Beranova Lhota",
+   "type": "place"
+  },
+  "difficulty": "medium",
+  "notes": "White village-entry sign on the right verge of a country road, Tábor District, at mid distance."
+ }
+}

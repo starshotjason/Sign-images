@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/11671294/1318/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyNi82LzE5L3Byb2MvMTE2NzEyOTRfYmIzOWFjY2I3N2UyYjI5NTI2ZWVmNjI5NWMzZjlkZDQuanBn",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "3alei",
+  "credit_as_published": "KartaView user 3alei (user id 128585); © KartaView contributors",
+  "title": "KartaView photo 2630679798, sequence 11671294 #1318 (Novosibirsk, 2026-06-17)",
+  "description": "Street-level picture on KartaView, taken 2026-06-17 near Novosibirsk by 3alei, sequence 11671294, heading 35.76. OCR (PP-OCRv3) read: KERAMAMARAZZIE | EGUTTRALER",
+  "date": "2026-06-17",
+  "categories": [],
+  "camera_location": [
+    55.02757,
+    82.938469
+  ],
+  "found_by": "kartaview-ocr:Novosibirsk",
+  "bytes": 396630,
+  "width": 1200,
+  "height": 900,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyNi82LzE5L3Byb2MvMTE2NzEyOTRfYmIzOWFjY2I3N2UyYjI5NTI2ZWVmNjI5NWMzZjlkZDQuanBn",
+  "derivative": "crop 2640,390,3840,1290 of the 3840x2160 full-size processed (blurred) picture"
+}

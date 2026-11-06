@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=5c173206-1d9f-4172-b56c-84da2350a698",
+  "original_url": "https://panoramax.openstreetmap.fr/images/5c/17/32/06/1d9f-4172-b56c-84da2350a698.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "Tehdastehdas",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture 5c173206-1d9f-4172-b56c-84da2350a698 (Hong Kong, 2018-04-16)",
+  "description": "Street-level picture taken 2018-04-16 near Hong Kong by Tehdastehdas, sequence 4138cc27-e64e-4ac4-922b-03d55838a00d, heading None. OCR (PP-OCRv3) read: 青港中西大华坊藥 | ONGIKONG MEDICINE COMPANY | 樂天皇朝 | OIBEARNMOREINC LIMITED | 热烈歡迎全國同胞全场燕高五折起",
+  "date": "2018-04-16",
+  "categories": [],
+  "camera_location": [
+    22.278791556,
+    114.182284472
+  ],
+  "found_by": "panoramax-ocr:Hong Kong",
+  "bytes": 4423182,
+  "width": 4160,
+  "height": 2340,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/5c/17/32/06/1d9f-4172-b56c-84da2350a698.jpg",
+  "derivative": "whole 4160x2340 HD picture as served by the Panoramax instance (byte-identical; the instance blurs faces and number plates), not cropped"
+}

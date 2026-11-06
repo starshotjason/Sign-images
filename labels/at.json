@@ -1,0 +1,310 @@
+{
+ "p38acef8145": {
+  "accept": false,
+  "reason": "printed menu/brochure page (Cafe Korb), a document rather than a sign"
+ },
+ "pcafeb3cb2b": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "KAISERGRUFT",
+    "lang": "de"
+   }
+  ],
+  "expect": {
+   "query": "Kaisergruft",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Black serif metal letters under a crowned-skull emblem above the gate of the Imperial Crypt (Kapuzinergruft), Neuer Markt, Vienna. The small white heritage plaque with flags ('KAPUZINERGRUFT / CAPUCHIN CRYPT' plus fine print) is a secondary sign."
+ },
+ "pac859e624f": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "WIEN MUSEUM",
+    "lang": "de"
+   },
+   {
+    "text": "UHRENMUSEUM",
+    "lang": "de"
+   }
+  ],
+  "expect": {
+   "query": "Uhrenmuseum",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Fascia letters on the Clock Museum, Schulhof, Vienna: dark 'WIEN MUSEUM' (the 'WIEN' is cut by the left frame edge, only a sliver visible) followed by white 'UHRENMUSEUM'. The flag-mounted heritage plaque at upper left and the side-wall repeat are secondary; the vertical 'MUSEUM' sign further back is a distractor."
+ },
+ "p60731d5bc9": {
+  "accept": false,
+  "reason": "close-up of a pavement kiosk base with partial '12 POI...' advertising lettering; no place sign"
+ },
+ "pfd4d06f655": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ERSTE ÖSTERREICHISCHE SPAR-CASSE",
+    "lang": "de"
+   }
+  ],
+  "expect": {
+   "query": "Erste Österreichische Spar-Casse",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Gilded letters across the facade of the historic savings-bank building on Graben, Vienna, at mid-distance with umbrellas and crowds below. 'Cartier', 'WAGNER', 'TAG Heuer' and 'DIOR' shop signs are distractors."
+ },
+ "p9fd06e4efc": {
+  "accept": false,
+  "reason": "one-way traffic sign ('EINBAHN'), no place name; smoke haze"
+ },
+ "p2f6046dc6a": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "HOTEL EUROPA",
+    "lang": "de"
+   }
+  ],
+  "expect": {
+   "query": "Hotel Europa",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Vertical stacked letters on a glass blade high on the Austria Trend Hotel Europa, Neuer Markt, Vienna, with a lamp logo between HOTEL and EUROPA. The ground-floor 'AUSTRIA TREND HOTEL EUROPA' band is partly hidden by the fountain; TUMI and BOSS signs are distractors."
+ },
+ "peae502130d": {
+  "accept": false,
+  "reason": "generic 'Konzerte | Concerts / Kassa | Box Office' banner; no place name"
+ },
+ "pfea87caadb": {
+  "accept": false,
+  "reason": "historical commemorative relief inscription (1683 relief army), not a place sign"
+ },
+ "k2476821689": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "JOHN BOCK",
+    "lang": "de"
+   },
+   {
+    "text": "RUDOLF SCHWARZKOGLER",
+    "lang": "de"
+   },
+   {
+    "text": "GALERIE KRINZINGER",
+    "lang": "de"
+   }
+  ],
+  "expect": {
+   "query": "Galerie Krinzinger",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Black banner on a balcony of a Seilerstätte corner building, Vienna; the first two lines are current exhibition artists, the gallery name is the searchable part. Small blue 'EINBAHN' sign and no-entry signs are distractors."
+ },
+ "c87001692": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Lettens-Au-Straße",
+    "lang": "de"
+   }
+  ],
+  "expect": {
+   "query": "Lettens-Au-Straße",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Blue street-name blade on a pole, Obereching, Sankt Georgen bei Salzburg. The green 'Tauernradweg' cycle-route sign below is a distractor (also a named route)."
+ },
+ "c195912102": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Zinsdorf",
+    "lang": "de"
+   },
+   {
+    "text": "Svinča vas",
+    "lang": "sl"
+   }
+  ],
+  "expect": {
+   "query": "Zinsdorf",
+   "type": "place"
+  },
+  "difficulty": "easy",
+  "notes": "Bilingual German/Slovene village sign (Magdalensberg, Carinthia); Slovene line has č. Several staged photos (c195912092, c195912103) show the same sign."
+ },
+ "c114492794": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "22., Am Bahnhof",
+    "lang": "de"
+   }
+  ],
+  "expect": {
+   "query": "Am Bahnhof",
+   "type": "street"
+  },
+  "difficulty": "medium",
+  "notes": "Small Vienna-style dark-blue enamel plate high on a facade in Stadlau; '22.,' is the district number (Donaustadt). Plate is small in frame. Tiny 'AX ... 103' utility plate by the shutter is a distractor."
+ },
+ "c110587241": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Michael",
+    "lang": "de"
+   },
+   {
+    "text": "Tauscher-Gasse",
+    "lang": "de"
+   },
+   {
+    "text": "Michael Tauscher, 1798-1883, Ortsrichter von Dörfl",
+    "lang": "de"
+   }
+  ],
+  "expect": {
+   "query": "Michael Tauscher-Gasse",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Oval white street sign with red border and serif letters, Baden (Lower Austria); the small curved explanation line follows the lower edge."
+ },
+ "c70345189": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "SEIT 1875",
+    "lang": "de"
+   },
+   {
+    "text": "HOCHZEITSLISTEN",
+    "lang": "de"
+   },
+   {
+    "text": "HAARDT",
+    "lang": "de"
+   },
+   {
+    "text": "UND",
+    "lang": "de"
+   },
+   {
+    "text": "KRÜGER",
+    "lang": "de"
+   }
+  ],
+  "expect": {
+   "query": "Haardt und Krüger",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Dark-green raised letters on a cream facade, Vienna 1st district. Above it a Fraktur street plate reads 'I. Stadt. / Mölker / Steig.' (Mölker Steig), a useful secondary target; 'VICTORINOX' in the knife display case is a distractor."
+ },
+ "c18835764": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "DEMMER TEE",
+    "lang": "de"
+   }
+  ],
+  "expect": {
+   "query": "Demmer",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Wrought-iron cantilever sign shaped like a brass tea infuser, Paniglgasse 17, Vienna; the name is on a curved band at the bottom, seen from below against the sky."
+ },
+ "c90427814": {
+  "accept": false,
+  "reason": "hotel name panel by the entrance ('SEEHOTEL ...') is too small and low-contrast to read reliably; mostly a building/flags view"
+ },
+ "c62080498": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Hahntennjoch",
+    "lang": "de"
+   },
+   {
+    "text": "Seehöhe 1894 m",
+    "lang": "de"
+   }
+  ],
+  "expect": {
+   "query": "Hahntennjoch",
+   "type": "place"
+  },
+  "difficulty": "medium",
+  "notes": "Green mountain-pass name sign at the left, Tyrol; the sticker-covered panel below, the pedestrian-zone pictogram and a distant bus-stop 'H' sign are distractors. A person stands at the right, incidental."
+ }
+}

@@ -1,0 +1,465 @@
+{
+ "p1abb103cf1": {
+  "accept": true,
+  "reason": "",
+  "kind": "hard",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "TRIUMPH",
+    "lang": "en"
+   },
+   {
+    "text": "INTERMOTO",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Intermoto",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Target is the low black TRIUMPH / INTERMOTO motorcycle-workshop panel in mid-distance. Its small Greek subline is illegible; the upper fascia repeats INTERMOTO with a Greek line (approx. 'ΕΞΕΙΔΙΚΕΥΜΕΝΟ ΣΥΝΕΡΓΕΙΟ TRIUMPH') too small to transcribe reliably. Distractors: ETEKA fuel price pylon, partial 'ΜΠΕΖΑΣ & ...' sign, graffiti '314 NRL'. People faces blurred."
+ },
+ "p5097f8e280": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Grek",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ΟΔΟΣ",
+    "lang": "el",
+    "latin": "Odos (Street)"
+   },
+   {
+    "text": "ΜΕΡΜΠΑΚΑ",
+    "lang": "el",
+    "latin": "Merbaka"
+   },
+   {
+    "text": "MERBAKA",
+    "lang": "el"
+   }
+  ],
+  "expect": {
+   "query": "Μερμπάκα",
+   "type": "street"
+  },
+  "difficulty": "medium",
+  "notes": "Blue enamel Athens street plate shot from below, rotated about 60 degrees. A second plate below it is cut off at the frame edge: 'ΟΔΟΣ ΣΕΒΑΣΤΕ... / SEVASTE...' (probably Sevasteias), treat as distractor."
+ },
+ "p55073f51af": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Grek"
+  ],
+  "lines": [
+   {
+    "text": "ΕΛΛΗΝΙΚΟΝ ΑΝΤΙΚΑΡΚΙΝΙΚΟΝ ΙΝΣΤΙΤΟΥΤΟΝ",
+    "lang": "el",
+    "latin": "Ellinikon Antikarkinikon Institouton (Hellenic Anticancer Institute)"
+   }
+  ],
+  "expect": {
+   "query": "Αντικαρκινικόν Ινστιτούτον",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Image is stored rotated 90 degrees (the sign reads bottom-to-top). Blue rooftop letter strip on the hospital building (Saint Savvas cancer hospital, Athens). Building and sign far away."
+ },
+ "p6f60fdfd96": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "FLINT",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Flint",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Night shot of a hanging bar sign; stylised lettering with the L and N drawn mirrored (looks like 'FJINT'). Small subline 'BAR & B..S' (likely 'BAR & BITES') is partly hidden by hanging flowers, so not transcribed."
+ },
+ "p94a068fe00": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "THE",
+    "lang": "en"
+   },
+   {
+    "text": "ARTISAN",
+    "lang": "en"
+   },
+   {
+    "text": "SUITES",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "The Artisan Suites",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Target is the projecting hotel sign at top right; the same name repeats on the ground-floor fascia ('THE ARTISAN SUITES'). Distractors: orange awning 'FRIED CHICKEN / NOODLES / BAO BUNS', green Greek shop sign '... ΑΦΟΙ ΚΟΥΡΟΥΝΙΩΤΗ', house number 18 at left."
+ },
+ "p9e3529e19a": {
+  "accept": false,
+  "reason": "only text is 'Hellenic Van Rent' livery on a moving van, not a place sign; driver visible"
+ },
+ "pa598f691dd": {
+  "accept": true,
+  "reason": "",
+  "kind": "transit",
+  "scripts": [
+   "Grek",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Σταθμός Μοναστηράκι",
+    "lang": "el",
+    "latin": "Stathmos Monastiraki (Monastiraki Station)"
+   },
+   {
+    "text": "Monastiraki Station",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Μοναστηράκι",
+   "type": "stop"
+  },
+  "difficulty": "easy",
+  "notes": "Athens Metro entrance board with metro logos on both sides, frontal and sharp."
+ },
+ "pdf72ca0d1c": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ManpowerGroup",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "ManpowerGroup",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Office sign above an organic supermarket. Distractor: green Greek shop sign cut at the left edge ('...ΟΛΟΓΙΚΟ ...ωριό', 'organic market & more') and window graphics."
+ },
+ "k1061306022": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Grek"
+  ],
+  "lines": [
+   {
+    "text": "παραδοσιακή ιχθυαγορά",
+    "lang": "el",
+    "latin": "paradosiaki ichthyagora (traditional fish market)"
+   },
+   {
+    "text": "ΣΥΛΛΟΓΟΣ ΕΠΑΓΓΕΛΜΑΤΙΩΝ ΑΛΙΕΩΝ ΗΡΑΚΛΕΙΟΥ",
+    "lang": "el",
+    "latin": "Syllogos Epangelmation Alieon Irakleiou (Association of Professional Fishermen of Heraklion)"
+   }
+  ],
+  "expect": {
+   "query": "ιχθυαγορά",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Teal fascia over the fish-market stalls at Heraklion harbour, seen at an angle from a dash camera. Main line is lowercase cursive-style Greek with accents on ή and ά; the small capital subline is low resolution but readable. The museum banners (ΙΣΤΟΡΙΚΟ ΜΟΥΣΕΙΟ ΚΡΗΤΗΣ / HISTORICAL MUSEUM OF CRETE) and PARKING sign across the street are distractors."
+ },
+ "k267848883": {
+  "accept": false,
+  "reason": "vehicle branding on a delivery truck"
+ },
+ "k306594939": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Grek"
+  ],
+  "lines": [
+   {
+    "text": "ΦΑΡΜΑΚΕΙΟΝ ΑΡΝΑΟΥΤΑΚΗ",
+    "lang": "el",
+    "latin": "Farmakeion Arnaoutaki (Arnaoutakis pharmacy)"
+   }
+  ],
+  "expect": {
+   "query": "Φαρμακείο Αρναουτάκη",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Black capitals on a white fascia over a corner pharmacy in Athens, shot through a windscreen; the green pharmacy cross is beside it. Old-style spelling ΦΑΡΜΑΚΕΙΟΝ (with final N). A white van partly hides the shop front but not the lettering. Vertical PARKING sign at right is a distractor."
+ },
+ "p0c9ed2a342": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Grek",
+   "Latn",
+   "Zyyy"
+  ],
+  "lines": [
+   {
+    "text": "ΥΠΟΔΗΜΑΤΩΝ ΕΝΔΥΜΑΤΩΝ ΤΣΑΝΤΩΝ",
+    "lang": "el",
+    "latin": "ypodimaton endymaton tsanton (shoes, clothes, bags)"
+   },
+   {
+    "text": "ΑΦΟΙ ΦΕΣΛΙΔΗ Ο.Ε.",
+    "lang": "el",
+    "latin": "Afoi Feslidi O.E. (Feslidis Brothers general partnership)"
+   },
+   {
+    "text": "ΕΡΓΟΣΤΑΣΙΟ: ΧΑΤΖΗΑΝΕΣΤΗ 14 ΡΕΝΤΗΣ ΤΗΛ. 210. 49. 32. 943",
+    "lang": "el",
+    "latin": "Ergostasio: Chatzianesti 14 Rentis Til. (Factory: 14 Chatzianesti St, Rentis, tel.)"
+   },
+   {
+    "text": "ΠΡΑΤΗΡΙΟ: ΠΡΩΤΟΓΕΝΟΥΣ 5 & ΑΓ. ΕΛΕΟΥΣΗΣ (ΠΛΑΤΕΙΑ ΨΥΡΡΗ)",
+    "lang": "el",
+    "latin": "Pratirio: Protogenous 5 & Ag. Eleousis (Plateia Psyrri) (Shop: 5 Protogenous & Ag. Eleousis, Psyrri Square)"
+   }
+  ],
+  "expect": {
+   "query": "Αφοί Φεσλίδη",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Shop fascia in Psyrri, Athens. The top line 'METAL FOR FASHI...' is cut off by the frame and the right end of every line (the rest of the first Greek line, fax numbers, a second TEL number) is hidden behind a pole, so only the visible parts are transcribed; the ΤΣΑΝΤΩΝ line continues with a hidden word ending in ...ΩΝ. Graffiti overlaps the left of 'ΑΦΟΙ'. A small blue street plate at far right reads ΟΔΟΣ ΑΓΙΑΣ ΕΛΕΟΥΣΗΣ / AGIAS ELEOUSIS (partly hidden); alternative query 'Αγίας Ελεούσης'."
+ },
+ "p712173ab15": {
+  "accept": false,
+  "reason": "souvenir display (magnets, plates); no shop or place sign"
+ },
+ "pbda8a12f44": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "CRÈME ROYALE",
+    "lang": "fr"
+   },
+   {
+    "text": "BAKE HOUSE CAFÉ",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Crème Royale",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Black fascia over the café door, Athens; the name is set in capitals with small caps (CRÈME ROYALE, grave accent on È, acute on CAFÉ). The awning text 'CRÈME ROYALE FAMILIA EST. 1999', the window script and the neighbouring nut shop sign (ΞΗΡΟΙ ΚΑΡΠΟΙ ... ΒΟΡΡΙΑΣ, cut off at left) are distractors."
+ },
+ "pd8dd80d54d": {
+  "accept": false,
+  "reason": "football stadium advertising boards only"
+ },
+ "c184600628": {
+  "accept": false,
+  "reason": "hand-painted church direction sign ('Ι. ναός αγίας ...'); the saint's name on the second line is partly covered by tape and peeled paint, so it cannot be transcribed without guessing"
+ },
+ "c4498820": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ATHINA 514 km",
+    "lang": "el"
+   },
+   {
+    "text": "EVZONI 71 km",
+    "lang": "el"
+   },
+   {
+    "text": "EDESSA 90 km",
+    "lang": "el"
+   },
+   {
+    "text": "KAVALA 164 km",
+    "lang": "el"
+   },
+   {
+    "text": "SERRES 82 km",
+    "lang": "el"
+   },
+   {
+    "text": "KILKIS 44 km",
+    "lang": "el"
+   }
+  ],
+  "expect": {
+   "query": "Kilkis",
+   "type": "place"
+  },
+  "difficulty": "medium",
+  "notes": "Blue distance board on the Thessaloniki ring road, Latin-script panel only; shot from a moving car at an angle with the guardrail blurred in the foreground. Place names are Greek romanisations (lang el)."
+ },
+ "c73670545": {
+  "accept": true,
+  "reason": "",
+  "kind": "hard",
+  "scripts": [
+   "Grek"
+  ],
+  "lines": [
+   {
+    "text": "ΜΟΥΣΙΚΟΣ ΟΙΚΟΣ",
+    "lang": "el",
+    "latin": "Mousikos Oikos (music house)"
+   }
+  ],
+  "expect": {
+   "query": "Μουσικός Οίκος",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Corfu old town. Small shield-shaped hanging shop sign far down a narrow alley, in a decorative archaic Greek letterform (Σ drawn as a sideways M-like shape). A smaller line above, probably a proprietor name ending '...ΣΟΥΛΑΣ', is too small to read reliably and is left out. Graffiti on the left wall is a distractor."
+ },
+ "c137792738": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Grek"
+  ],
+  "lines": [
+   {
+    "text": "ΠΑΡΟΔΟΣ",
+    "lang": "el",
+    "latin": "Parodos (side street)"
+   },
+   {
+    "text": "ΝΙΚΗΦΟΡΟΥ",
+    "lang": "el",
+    "latin": "Nikiforou"
+   },
+   {
+    "text": "ΕΠΙΣΚΟΠΟΥ",
+    "lang": "el",
+    "latin": "Episkopou"
+   }
+  ],
+  "expect": {
+   "query": "Πάροδος Νικηφόρου Επισκόπου",
+   "type": "street"
+  },
+  "difficulty": "medium",
+  "notes": "Chania, Crete. Old green enamel plate on a crumbling wall, white hand-lettered capitals with some wear. Distractor below: a church direction board 'Προς ΙΕΡ[Ο] ΝΑΟ ΑΓ[ΙΩ]Ν ΑΝΑΡΓΥΡΩΝ' in Byzantine-style letters, partly damaged."
+ },
+ "c166455716": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Grek",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ΦΥΛΑΣΙΩΝ",
+    "lang": "el",
+    "latin": "Fylasion"
+   },
+   {
+    "text": "FYLASION",
+    "lang": "el"
+   },
+   {
+    "text": "ΑΠΟ 36 → 32",
+    "lang": "el",
+    "latin": "apo 36 → 32 (house numbers 36 to 32)"
+   }
+  ],
+  "expect": {
+   "query": "Φυλασίων",
+   "type": "street"
+  },
+  "difficulty": "medium",
+  "notes": "Athens (Thiseio/Petralona area). Small blue street plate high on a wall, shot from below; Latin line faded. To its right an older painted name '...ΑΣΙΩΝ' on the wall is cut off. Graffiti ('SKA' etc.) and a meter box labelled '206' are distractors."
+ },
+ "c24129263": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Grek",
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ΟΔΟΣ",
+    "lang": "el",
+    "latin": "Odos (street)"
+   },
+   {
+    "text": "ΑΝΤΩΝΗ ΓΑΜΠΑ",
+    "lang": "el",
+    "latin": "Antoni Gampa"
+   },
+   {
+    "text": "ANTONI GAMPA",
+    "lang": "el"
+   },
+   {
+    "text": "ΔΗΜΟΤΙΚΟΣ ΣΥΜΒΟΥΛΟΣ",
+    "lang": "el",
+    "latin": "Dimotikos Symvoulos (municipal councillor)"
+   },
+   {
+    "text": "ΑΠΟ 34 → 24",
+    "lang": "el",
+    "latin": "apo 34 → 24 (house numbers 34 to 24)"
+   }
+  ],
+  "expect": {
+   "query": "Αντώνη Γαμπά",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Chania, Crete. Frontal blue municipal street plate on a stone wall; white Greek, yellow Latin. House-number range panel underneath."
+ }
+}

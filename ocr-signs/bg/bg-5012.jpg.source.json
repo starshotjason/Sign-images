@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=ff06c760-a4c4-4ddf-8ad1-dc26273feaf5",
+  "original_url": "https://panoramax.openstreetmap.fr/images/ff/06/c7/60/a4c4-4ddf-8ad1-dc26273feaf5.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "Julia Keil-Voss",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture ff06c760-a4c4-4ddf-8ad1-dc26273feaf5 (Sofia, 2026-08-15)",
+  "description": "Street-level picture taken 2026-08-15 near Sofia by Julia Keil-Voss, sequence 8f0af022-c18b-4592-8868-540b49536b62, heading 253. OCR (PP-OCRv3) read: IAAATA | [unread] CBAEEHA",
+  "date": "2026-08-15",
+  "categories": [],
+  "camera_location": [
+    42.6955596,
+    23.3211094
+  ],
+  "found_by": "panoramax-ocr:Sofia",
+  "bytes": 2727637,
+  "width": 1440,
+  "height": 1080,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/ff/06/c7/60/a4c4-4ddf-8ad1-dc26273feaf5.jpg",
+  "derivative": "whole 1440x1080 HD picture as served by the Panoramax instance (byte-identical; the instance blurs faces and number plates), not cropped"
+}

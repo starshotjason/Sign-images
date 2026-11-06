@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.libre.net.ar/#focus=pic&pic=4fd5f827-d77b-404b-b784-97d70b9fb200",
+  "original_url": "https://panoramax.libre.net.ar/permanent/4f/d5/f8/27/d77b-404b-b784-97d70b9fb200.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "Bastian Greshake Tzovaras",
+  "credit_as_published": "Panoramax, instance panoramax-ar (https://panoramax.libre.net.ar)",
+  "title": "Panoramax picture 4fd5f827-d77b-404b-b784-97d70b9fb200 (Buenos Aires, 2024-11-28)",
+  "description": "360-degree panorama on Panoramax, taken 2024-11-28 near Buenos Aires by Bastian Greshake Tzovaras, sequence 393f4088-081b-490f-96cc-7c5c1f10a286, heading 92. OCR (PP-OCRv3) read: PASEO DELBAJONO | SALIDA1500m | PUERTO-AU ILLIA | NULAPLATA-BSAS",
+  "date": "2024-11-28",
+  "categories": [],
+  "camera_location": [
+    -34.6229948,
+    -58.3766092
+  ],
+  "found_by": "panoramax-ocr:Buenos Aires",
+  "bytes": 283839,
+  "width": 1230,
+  "height": 922,
+  "downloaded_url": "https://panoramax.libre.net.ar/permanent/4f/d5/f8/27/d77b-404b-b784-97d70b9fb200.jpg",
+  "derivative": "rectilinear (gnomonic) view, yaw +15.3 deg from the panorama centre, pitch +20.5 deg, horizontal field of view 77 deg, 1230x922 px, reprojected from the 5760x2880 HD equirectangular panorama"
+}

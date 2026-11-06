@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.mapcomplete.org/#focus=pic&pic=ad16b4be-6604-430c-ab99-f68e0c125cf5",
+  "original_url": "https://panoramax.mapcomplete.org/permanent/ad/16/b4/be/6604-430c-ab99-f68e0c125cf5.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "mapcomplete",
+  "credit_as_published": "Panoramax, instance mapcomplete (https://panoramax.mapcomplete.org)",
+  "title": "Panoramax picture ad16b4be-6604-430c-ab99-f68e0c125cf5 (Kyiv, 2025-05-28)",
+  "description": "Street-level picture on Panoramax, taken 2025-05-28 near Kyiv by mapcomplete, sequence 14ea2dff-2d5f-4134-9a9c-0b7ff34d87aa, heading 248. OCR (PP-OCRv3) read: [unread] EMOCMTEE",
+  "date": "2025-05-28",
+  "categories": [],
+  "camera_location": [
+    50.445789114,
+    30.521266085
+  ],
+  "found_by": "panoramax-ocr:Kyiv",
+  "bytes": 492118,
+  "width": 1200,
+  "height": 900,
+  "downloaded_url": "https://panoramax.mapcomplete.org/permanent/ad/16/b4/be/6604-430c-ab99-f68e0c125cf5.jpg",
+  "derivative": "crop 462,231,1662,1131 of the 2000x1500 HD picture"
+}

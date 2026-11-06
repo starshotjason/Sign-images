@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/966731/311/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlNi5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE3LzExLzEwL3Byb2MvOTY2NzMxX2U5NDhkXzVhMDVkYzFjN2FhOWEuanBn",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "danbjoseph",
+  "credit_as_published": "KartaView user danbjoseph (user id 230); © KartaView contributors",
+  "title": "KartaView photo 160783315, sequence 966731 #311 (Roseau, 2017-11-10)",
+  "description": "Street-level picture on KartaView, taken 2017-11-10 near Roseau by danbjoseph, sequence 966731, heading 50.48. OCR (PP-OCRv3) read: NCE BAPTIST CHURCH | GATEUS",
+  "date": "2017-11-10",
+  "categories": [],
+  "camera_location": [
+    15.304283,
+    -61.38684
+  ],
+  "found_by": "kartaview-ocr:Roseau",
+  "bytes": 1009838,
+  "width": 3840,
+  "height": 1830,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlNi5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE3LzExLzEwL3Byb2MvOTY2NzMxX2U5NDhkXzVhMDVkYzFjN2FhOWEuanBn",
+  "derivative": "whole 3840x1830 full-size processed (blurred) picture as served by the KartaView CDN (byte-identical; the service blurs faces and number plates), not cropped"
+}

@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=7f5fb6e3-8720-43e2-8cef-915f592eb807",
+  "original_url": "https://panoramax.openstreetmap.fr/images/7f/5f/b6/e3/8720-43e2-8cef-915f592eb807.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "ravidwivedi",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture 7f5fb6e3-8720-43e2-8cef-915f592eb807 (Pattaya, 2024-02-08)",
+  "description": "Street-level picture on Panoramax, taken 2024-02-08 near Pattaya by ravidwivedi, sequence 1144deb9-a463-46ce-8680-d5f1a80d6bdf, heading 195. OCR (PP-OCRv3) read: centralmaind | MARINA | [unread] Panty | Durian Cafe | THEGREA | NEWYEAR",
+  "date": "2024-02-08",
+  "categories": [],
+  "camera_location": [
+    12.9457617,
+    100.88913573
+  ],
+  "found_by": "panoramax-ocr:Pattaya",
+  "bytes": 3345659,
+  "width": 4000,
+  "height": 3000,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/7f/5f/b6/e3/8720-43e2-8cef-915f592eb807.jpg",
+  "derivative": "whole 4000x3000 HD picture as served by the Panoramax instance (byte-identical; the service blurs faces and number plates), not cropped"
+}

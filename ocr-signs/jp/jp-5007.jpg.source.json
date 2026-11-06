@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=b85ac438-e1b9-4744-8ad9-bc96392861ad",
+  "original_url": "https://panoramax.openstreetmap.fr/images/b8/5a/c4/38/e1b9-4744-8ad9-bc96392861ad.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "Anonymous897234",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture b85ac438-e1b9-4744-8ad9-bc96392861ad (Tokyo, 2026-08-17)",
+  "description": "Street-level picture taken 2026-08-17 near Tokyo by Anonymous897234, sequence f811f0b3-9f94-4401-a42d-66200afdad1a, heading 27. OCR (PP-OCRv3) read: Extinct Media MuseumOtemachi | INCT | DIA | EUM | 博物館 | LIBRARY | Studio236 | OPEN",
+  "date": "2026-08-17",
+  "categories": [],
+  "camera_location": [
+    35.689472053,
+    139.767696418
+  ],
+  "found_by": "panoramax-ocr:Tokyo",
+  "bytes": 1668336,
+  "width": 2160,
+  "height": 3840,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/b8/5a/c4/38/e1b9-4744-8ad9-bc96392861ad.jpg",
+  "derivative": "whole 2160x3840 HD picture as served by the Panoramax instance (byte-identical; the instance blurs faces and number plates), not cropped"
+}

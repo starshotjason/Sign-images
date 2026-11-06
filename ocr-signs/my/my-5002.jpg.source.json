@@ -1,0 +1,37 @@
+{
+  "source": "flickr",
+  "source_url": "https://www.flickr.com/photos/43296902@N00/33457343018",
+  "original_url": "https://live.staticflickr.com/7852/33457343018_858a811dc4_o.jpg",
+  "license_as_published": "CC0",
+  "license_url_as_published": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author_as_published": "Dennis S. Hurd",
+  "credit_as_published": "\"Minding the Shop\" by Dennis S. Hurd is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+  "title": "Minding the Shop",
+  "description": "",
+  "date": "",
+  "categories": [
+    "kualalumpur",
+    "malaysia",
+    "storefront"
+  ],
+  "camera_location": [
+    3.154891,
+    101.697533
+  ],
+  "found_by": "openverse:Malaysia storefront",
+  "bytes": 207868,
+  "width": 1023,
+  "height": 596,
+  "downloaded_url": "https://api.openverse.org/v1/images/26c44c5b-5bc2-4a91-ad49-74e6d7b1383e/thumb/?full_size=true&compressed=false",
+  "derivative": "Flickr's published 1024 px 'large' rendition, served by the Openverse image API (Flickr originals were throttled for this client)",
+  "flickr": {
+    "flickr_url": "https://www.flickr.com/photos/43296902@N00/33457343018",
+    "flickr_license": "CC0 1.0",
+    "lat": 3.154891,
+    "lon": 101.697533,
+    "original_url": "https://live.staticflickr.com/7852/33457343018_858a811dc4_o.jpg",
+    "flickr_license_code": 9,
+    "retrieved": "2026-11-06T05:21:08.590843+00:00"
+  },
+  "openverse_id": "26c44c5b-5bc2-4a91-ad49-74e6d7b1383e"
+}

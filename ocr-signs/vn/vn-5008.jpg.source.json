@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=eeea920d-864c-423d-b698-3f376a9e777d",
+  "original_url": "https://panoramax.openstreetmap.fr/images/ee/ea/92/0d/864c-423d-b698-3f376a9e777d.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "sykul",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture eeea920d-864c-423d-b698-3f376a9e777d (Hanoi, 2025-07-31)",
+  "description": "Street-level picture on Panoramax, taken 2025-07-31 near Hanoi by sykul, sequence 03e1e93e-8413-4ae3-ae15-02ce28c3a29a, heading 336. OCR (PP-OCRv3) read: PIZZASTEAK&PASTA | 15LEDUAN-P.CUANAM-Q.HOANKIEM | HEALTHY | COMBO | GOM: | 1MiYtuchon | (1 Spaghetti of your choice) | 1Salad | GET GO | Giam con | only | 79K",
+  "date": "2025-07-31",
+  "categories": [],
+  "camera_location": [
+    21.027507778,
+    105.841529833
+  ],
+  "found_by": "panoramax-ocr:Hanoi",
+  "bytes": 2902278,
+  "width": 4000,
+  "height": 3000,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/ee/ea/92/0d/864c-423d-b698-3f376a9e777d.jpg",
+  "derivative": "whole 4000x3000 HD picture as served by the Panoramax instance (byte-identical; the service blurs faces and number plates), not cropped"
+}

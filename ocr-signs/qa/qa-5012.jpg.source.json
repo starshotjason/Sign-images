@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/6268713/279/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMi8xMC8yNy9wcm9jLzYyNjg3MTNfYzViNTQ0ZTFmMTA1ZGEzOGFlMmE0ZDBkMjdhMjAxNGIuanBn",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "Marc le Grand",
+  "credit_as_published": "KartaView user Marc le Grand (user id 2288); © KartaView contributors",
+  "title": "KartaView photo 1637471481, sequence 6268713 #279 (Doha, 2022-10-27)",
+  "description": "Street-level picture on KartaView, taken 2022-10-27 near Doha by Marc le Grand, sequence 6268713, heading 0. OCR (PP-OCRv3) read: STOP | NISSAN",
+  "date": "2022-10-27",
+  "categories": [],
+  "camera_location": [
+    25.279676,
+    51.531638
+  ],
+  "found_by": "kartaview-ocr:Doha",
+  "bytes": 646374,
+  "width": 2320,
+  "height": 1740,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMi8xMC8yNy9wcm9jLzYyNjg3MTNfYzViNTQ0ZTFmMTA1ZGEzOGFlMmE0ZDBkMjdhMjAxNGIuanBn",
+  "derivative": "crop 1711,1005,4031,2745 of the 4032x3024 full-size processed (blurred) picture"
+}

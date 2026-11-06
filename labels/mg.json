@@ -1,0 +1,447 @@
+{
+  "p611c089a99": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "TANA SHOP",
+        "lang": "fr"
+      },
+      {
+        "text": "37 BIS AVenue de 26 JUIN Analakely",
+        "lang": "fr"
+      }
+    ],
+    "expect": {
+      "query": "Tana Shop",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Painted stencil shop sign, Antananarivo. The address line is in a stencil font that mixes capital and lowercase shapes ('AVenue', 'Analakely'); the case is transcribed as it appears. The sign says 'de 26 JUIN' (the street is usually written 'Avenue du 26 Juin'). The orange logo and the small enamel house plate '314 / A 2' at top right are distractors. Alternative query: 'Analakely'."
+  },
+  "p7699cade74": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "MANDIMBY",
+        "lang": "mg"
+      },
+      {
+        "text": "BOUTIQUE",
+        "lang": "fr"
+      }
+    ],
+    "expect": {
+      "query": "Mandimby Boutique",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Vertical blade sign read top to bottom, Analakely, Antananarivo. The blue training-institute banner above (course list and an address on Rue Andrianampoinimerina) is a distractor. Faces are blurred."
+  },
+  "p77cff4944f": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Latn",
+      "Zyyy"
+    ],
+    "lines": [
+      {
+        "text": "AVENUE",
+        "lang": "fr"
+      },
+      {
+        "text": "Général Gabriel RAMANANTSOA",
+        "lang": "fr"
+      },
+      {
+        "text": "1906 - 1979",
+        "lang": "und"
+      },
+      {
+        "text": "CHEF D'ÉTAT (1972 - 1975)",
+        "lang": "fr"
+      }
+    ],
+    "expect": {
+      "query": "Avenue Général Gabriel Ramanantsoa",
+      "type": "street"
+    },
+    "difficulty": "easy",
+    "notes": "Blue enamel street plate, Antananarivo, slightly from below. Keep 'Général' and 'ÉTAT' with their accents. The apostrophe in D'ÉTAT is transcribed as ASCII."
+  },
+  "p7819e9e2e2": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "CHAMBRE DE COMMERCE",
+        "lang": "fr"
+      },
+      {
+        "text": "D'INDUSTRIE ET D'AGRICULTURE",
+        "lang": "fr"
+      }
+    ],
+    "expect": {
+      "query": "Chambre de Commerce d'Industrie et d'Agriculture",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Metal letters over the entrance, Antananarivo; 'DE' and 'ET' are in smaller capitals. Distractors: the 'ASSOCIATION FANIRY LANDY' event banner (Vente - Exposition, Défilé de mode, 13 - 14 - 15 Août 2009), the FPD poster at left, and the flags."
+  },
+  "p891335786a": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "AIGLE D'OR",
+        "lang": "fr"
+      }
+    ],
+    "expect": {
+      "query": "Aigle d'Or",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Yellow lightbox with a red eagle-on-leather logo over a shoe shop, Antananarivo. The 'qualité - Solidité - confort' strip in the window is a distractor."
+  },
+  "pbcaef307c2": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "HAUTE VILLE",
+        "lang": "fr"
+      },
+      {
+        "text": "ISORAKA-ISOTRY",
+        "lang": "mg"
+      },
+      {
+        "text": "AMBOHITSOROHITRA",
+        "lang": "mg"
+      }
+    ],
+    "expect": {
+      "query": "Ambohitsorohitra",
+      "type": "place"
+    },
+    "difficulty": "easy",
+    "notes": "Blue direction panel with a white fork arrow, Antananarivo; the text is sharp. Alternative queries: 'Isoraka', 'Isotry', 'Haute Ville'."
+  },
+  "pd273e30b41": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "SELECT HOTEL",
+        "lang": "fr"
+      },
+      {
+        "text": "HOTEL-RESTAURANT",
+        "lang": "fr"
+      },
+      {
+        "text": "Tél : 22 629 16",
+        "lang": "fr"
+      }
+    ],
+    "expect": {
+      "query": "Select Hotel",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Red 'SELECT' and white 'HOTEL' letters on a black fascia, with a painted 'HOTEL-RESTAURANT / Tél : 22 629 16' over the door, Avenue de l'Indépendance, Antananarivo. Distractors: the cut-off church sign at left ('...ERANA ... ...nue de l'Indépendance'), Kodak ProFoto Centre, 'ASSURANCES', 'ASSURANCES UNION' and the Orange/Telma/Zain umbrella."
+  },
+  "pd922c90259": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "Maroquinerie",
+        "lang": "fr"
+      },
+      {
+        "text": "JAINTILAL.K",
+        "lang": "fr"
+      },
+      {
+        "text": "Bijouterie",
+        "lang": "fr"
+      }
+    ],
+    "expect": {
+      "query": "Jaintilal K",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Three gilded fascia panels over a jewellery and leather-goods shop, Antananarivo; a passing car blurs the foreground. The window lettering repeats 'JAINTILAL K' in red. The 'CANTINE' sign at far left is a distractor."
+  },
+  "f1661009c-d88f-40c7-8257-95da9e9b4e6f": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "OCEAN MOTORS",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Ocean Motors",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Hand-painted white capitals on a mural wall of a motorbike repair yard, Madagascar (black-and-white photo). Smaller painted lines below ('Création Brico...', 'Vente moto, moto...', '...Moto', '...rques...)') are partly hidden by a scooter and not transcribed. Motorbikes with plates are in the foreground but not the subject."
+  },
+  "f1b035059-aaf6-40bd-bf63-2be6c3ac714c": {
+    "accept": false,
+    "reason": "children at a basket stall; no sign"
+  },
+  "f1faa9a03-ac3d-43b3-884e-403ada2f7e8c": {
+    "accept": false,
+    "reason": "portrait of a barber; only a 'PORTE COUPE FEU' safety plate"
+  },
+  "f5fb597cd-4a41-498e-ad83-5ffd6f5e74db": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "GRACE SCHOOL",
+        "lang": "en"
+      },
+      {
+        "text": "PRESCOLAIRE PRIMAIRE",
+        "lang": "fr"
+      }
+    ],
+    "expect": {
+      "query": "Grace School",
+      "type": "poi"
+    },
+    "difficulty": "hard",
+    "notes": "Vertical blade sign at the right edge, Antananarivo, black-and-white high-contrast street photo; 'GRACE SCHOOL' reads top to bottom in large letters and 'PRESCOLAIRE PRIMAIRE' runs down the left margin in small letters (no accent visible on the E at this resolution). A tiny address/direction line at the bottom ('... à 50 m') is illegible. Distractors: HOMEOPHARM and Telma hanging signs and a beauty-salon board above."
+  },
+  "f9155ca9d-307f-4cb7-b6b1-53bfc46215b8": {
+    "accept": false,
+    "reason": "roadside craft stalls with tourists; no sign"
+  },
+  "fa8fea72a-9b18-4cdf-993f-18d2d326cd04": {
+    "accept": false,
+    "reason": "beer advertising billboard"
+  },
+  "fe2567ea6-0526-4b41-ab15-a74a7c0fef3e": {
+    "accept": false,
+    "reason": "anti-corruption campaign billboard (slogan), not a place sign"
+  },
+  "ff87d05e7-c120-410b-8fd7-125e31d995c2": {
+    "accept": false,
+    "reason": "street scene with a handcart; only advertising billboards"
+  },
+  "fff3b7080-b90c-4e42-ae10-20f63748e877": {
+    "accept": false,
+    "reason": "butcher and fruit stall with no sign; photographer watermark across the image"
+  },
+  "pd3b192a70c": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "TANA HOTEL",
+        "lang": "fr"
+      }
+    ],
+    "expect": {
+      "query": "Tana Hotel",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Gold stencil-style capitals mounted on dark grey brick above the hotel entrance, Antananarivo, with three stars above. The A letters have no crossbar (stylised) and the final L is slightly cut at the right edge."
+  },
+  "pf8a9575a58": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "ARABEN'NY",
+        "lang": "mg"
+      },
+      {
+        "text": "FAHALEOVANTENA",
+        "lang": "mg"
+      }
+    ],
+    "expect": {
+      "query": "Araben'ny Fahaleovantena",
+      "type": "street"
+    },
+    "difficulty": "easy",
+    "notes": "Weathered blue enamel street plate with white capitals on a rough plaster wall, Antananarivo (Independence Avenue). Apostrophe transcribed as ASCII. The drainpipe at right is not over the text."
+  },
+  "c92796456": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "MUSEE DE LA GENDARMERIE",
+        "lang": "fr"
+      }
+    ],
+    "expect": {
+      "query": "Musée de la Gendarmerie",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Arched red entrance sign over the gate of the Gendarmerie museum at Moramanga. The sign has no accent on 'MUSEE'; the last 'I' is a serif capital unlike the others."
+  },
+  "c121766271": {
+    "accept": false,
+    "reason": "crocodile warning sign ('INTERDIT ... CROCODILES BITE') with prohibition pictograms"
+  },
+  "c70151430": {
+    "accept": false,
+    "reason": "park code-of-conduct notice board (dense rules text), not a name board"
+  },
+  "c130810729": {
+    "accept": true,
+    "reason": "",
+    "kind": "hard",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "MINISTERE DE LA SECURITE PUBLIQUE",
+        "lang": "fr"
+      },
+      {
+        "text": "SECRETARIAT GENERAL",
+        "lang": "fr"
+      },
+      {
+        "text": "DIRECTION GENERALE DE LA POLICE NATIONALE",
+        "lang": "fr"
+      },
+      {
+        "text": "DIRECTION PROVINCIALE DE LA SECURITE PUBLIQUE",
+        "lang": "fr"
+      },
+      {
+        "text": "ANTSIRANANA",
+        "lang": "mg"
+      }
+    ],
+    "expect": {
+      "query": "Direction Provinciale de la Sécurité Publique Antsiranana",
+      "type": "poi"
+    },
+    "difficulty": "hard",
+    "notes": "Grey stencil lettering on the curved balcony fascia of the police headquarters, Antsiranana; small in the frame (about 240 px wide) and faded, with the right end of the fourth line in glare. The letters carry no accents. A coat of arms is at each end. 'LA DIRECTION' over the door and a no-entry road sign are distractors."
+  },
+  "c186081368": {
+    "accept": false,
+    "reason": "plant label in a garden (Ambanivoa / Phyllanthus amarus); not a map place"
+  },
+  "c55911312": {
+    "accept": false,
+    "reason": "a bystander's face, close and looking at the camera, dominates the foreground"
+  },
+  "c146000914": {
+    "accept": false,
+    "reason": "near-duplicate: same NGO office as c146000915 (accepted, closer view of its sign)"
+  },
+  "c146000915": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "maison de sagesse",
+        "lang": "fr"
+      },
+      {
+        "text": "ONG",
+        "lang": "fr"
+      },
+      {
+        "text": "MAISON DE SAGESSE",
+        "lang": "fr"
+      },
+      {
+        "text": "Mission Pour l'Emploi: Insertion professionnelle",
+        "lang": "fr"
+      },
+      {
+        "text": "EPP: Classes intégrées pour enfants handicapés",
+        "lang": "fr"
+      },
+      {
+        "text": "EKA: Ezaka Kopia hoan'ny Ankizy",
+        "lang": "mg"
+      },
+      {
+        "text": "Mission Pour l'Emploi-Mds",
+        "lang": "fr"
+      }
+    ],
+    "expect": {
+      "query": "Maison de Sagesse",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Painted metal sign of an NGO office (Antsiranana), slightly from above. The first line is the logo wordmark at top left; its small cursive tagline and the small text around the round 'Mission Pour l'Emploi' logo are left out. The last line is a small Facebook handle. Keep the accents in 'intégrées' and 'handicapés'."
+  }
+}

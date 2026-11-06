@@ -1,0 +1,32 @@
+{
+  "source": "tcmb",
+  "source_url": "https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Place&id=329041",
+  "original_url": "https://dcm.s3.hicloud.net.tw/new/excel/place/2020-06-22/95b07824-bb26-444b-9979-e16f1a9e9a62/collectionOpen/0afa4a04-e784-47e7-abc6-f7afb3009fb0/61f5cf5f-2d27-49ee-be9b-b69eec03df4e.jpg",
+  "license_as_published": "CC BY",
+  "license_url_as_published": "https://creativecommons.org/licenses/by/3.0/tw/",
+  "author_as_published": "苗栗縣政府文化觀光局",
+  "credit_as_published": "苗栗縣政府文化觀光局, 國家文化記憶庫 Taiwan Cultural Memory Bank, CC BY",
+  "title": "廣勝老街",
+  "description": "三義火車站至鄉公所一帶，是從清朝開始便因產業運輸與交通發展而形成的聚落，後來產業雖往水美街一帶新市街發展，但此街區集結了市場、農會、郵局、銀行、學校、廟宇等，仍是當地歷史記憶的核心。然而老街日益冷清，民國104（2015）年三義鄉公所請來藝術家，以飽含地方特色的彩繪重整老街，甚至激發地方藝術家陳浩宇加入創作。昔日的廣勝老街另名為「好客走廊」，呼應地方的客家族群文化，並表現對觀光客的歡迎之情。 沿著這一條「好客」路線行走，可以遊覽日治時期重建的五榖宮、戰後由地方仕紳出資建設的坤慶橋遺址等；百年老校建中小學前的大階梯，由藝術家魏榮欣繪上舊山線風景，搖身一變成為遊客熱愛的3D彩繪階梯；更有趣的是沿途在民宅外牆、變電箱上的各式彩繪，如：台灣藍鵲、桐花林景、牛耕農景、池塘鷺鷥等，吸引遊客步行其間，以足跡重新為老街帶來人氣。",
+  "date": null,
+  "categories": [
+    "產業與經濟",
+    "3D彩繪階梯",
+    "三義火車站",
+    "五穀宮",
+    "好客老廊",
+    "坤慶橋",
+    "建中小學",
+    "彩繪",
+    "陳浩宇",
+    "廣勝老街",
+    "魏榮欣"
+  ],
+  "camera_location": null,
+  "found_by": "tcmb-opendata:dataSet/culture title/keyword match '車站'; rapidocr pre-screen read ['广盛老街', '广盛老街']; visually reviewed",
+  "bytes": 5391852,
+  "width": 3719,
+  "height": 2480,
+  "downloaded_url": "https://tcmb.culture.tw/imagor/filters:raw()/https%3A%2F%2Fdcm.s3.hicloud.net.tw%2Fnew%2Fexcel%2Fplace%2F2020-06-22%2F95b07824-bb26-444b-9979-e16f1a9e9a62%2FcollectionOpen%2F0afa4a04-e784-47e7-abc6-f7afb3009fb0%2F61f5cf5f-2d27-49ee-be9b-b69eec03df4e.jpg",
+  "derivative": ""
+}

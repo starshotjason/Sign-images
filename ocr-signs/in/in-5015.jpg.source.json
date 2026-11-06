@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=545170be-a4f8-4fc5-bd39-78623ce3b32f",
+  "original_url": "https://panoramax.openstreetmap.fr/images/54/51/70/be/a4f8-4fc5-bd39-78623ce3b32f.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "contrapunctus",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture 545170be-a4f8-4fc5-bd39-78623ce3b32f (Bengaluru, 2025-09-22)",
+  "description": "Street-level picture taken 2025-09-22 near Bengaluru by contrapunctus, sequence 06800c80-b5df-403a-a7ab-43d8c89eb633, heading 264. OCR (PP-OCRv3) read: kababkorner | A Multi Cuisine Restaurant | GSTIN-29AAACL2959A1ZN | kababkon",
+  "date": "2025-09-22",
+  "categories": [],
+  "camera_location": [
+    12.972085972,
+    77.601031
+  ],
+  "found_by": "panoramax-ocr:Bengaluru",
+  "bytes": 3500088,
+  "width": 3072,
+  "height": 4096,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/54/51/70/be/a4f8-4fc5-bd39-78623ce3b32f.jpg",
+  "derivative": "whole 3072x4096 HD picture as served by the Panoramax instance (byte-identical; the instance blurs faces and number plates), not cropped"
+}

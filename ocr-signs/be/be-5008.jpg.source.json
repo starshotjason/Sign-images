@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.multimob.be/#focus=pic&pic=ad9dd48c-6316-4c1e-bbd6-f24f77bfb7ad",
+  "original_url": "https://panoramax.multimob.be/api/pictures/ad9dd48c-6316-4c1e-bbd6-f24f77bfb7ad/hd.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "bxl-forever",
+  "credit_as_published": "Panoramax, instance multimob (https://panoramax.multimob.be)",
+  "title": "Panoramax picture ad9dd48c-6316-4c1e-bbd6-f24f77bfb7ad (Brussels, 2025-08-16)",
+  "description": "Street-level picture on Panoramax, taken 2025-08-16 near Brussels by bxl-forever, sequence 22e99504-ad3d-4c69-a69e-e9594b487fa0, heading 333. OCR (PP-OCRv3) read: MAISON DES NOTAIRES | NOTARISHUS | FEDNOT",
+  "date": "2025-08-16",
+  "categories": [],
+  "camera_location": [
+    50.846971563,
+    4.355515189
+  ],
+  "found_by": "panoramax-ocr:Brussels",
+  "bytes": 1152759,
+  "width": 3840,
+  "height": 2160,
+  "downloaded_url": "https://panoramax.multimob.be/api/pictures/ad9dd48c-6316-4c1e-bbd6-f24f77bfb7ad/hd.jpg",
+  "derivative": "whole 3840x2160 HD picture as served by the Panoramax instance (byte-identical; the service blurs faces and number plates), not cropped"
+}

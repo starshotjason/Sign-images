@@ -1,0 +1,344 @@
+{
+ "p507da078a1": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "E GREEF",
+    "lang": "nl"
+   },
+   {
+    "text": "BRUSSELS 1848",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "De Greef",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Black fascia letters of the De Greef jeweller, Rue au Beurre 26, Brussels; the 'D' and most of the 'E' of 'DE' are cut off by the left frame edge, so only '...E GREEF' is visible. 'SCHEPENS' and other shop signs down the street are distractors; pedestrians' faces blurred."
+ },
+ "p926e889068": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Maison",
+    "lang": "fr"
+   },
+   {
+    "text": "Luc",
+    "lang": "fr"
+   },
+   {
+    "text": "Médical",
+    "lang": "fr"
+   },
+   {
+    "text": "ORTHOPEDIE • BANDAGISTE • CHAUSSEUR",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "Maison Luc Médical",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Dark green fascia with red script 'Luc' between 'Maison' and 'Médical', Brussels; house number 7 by the door. Neighbouring 'SINT-JAN' café awning, PRIMUS / HAACHT and Tongerlo beer signs and the distant 'PHARMACIE' are distractors."
+ },
+ "pad9dd48c63": {
+  "accept": true,
+  "reason": "",
+  "kind": "building tag",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "MAISON DES NOTAIRES",
+    "lang": "fr"
+   },
+   {
+    "text": "NOTARISHUIS",
+    "lang": "nl"
+   }
+  ],
+  "expect": {
+   "query": "Maison des Notaires",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Bilingual French/Dutch metal letters over two entrances, Rue de la Montagne, Brussels; house numbers 30, 32 and 34 are carved on the pillars. FEDNOT logos on the glass doors are distractors."
+ },
+ "pe797cd49d6": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "JOHN",
+    "lang": "fr"
+   },
+   {
+    "text": "COIFFURE",
+    "lang": "fr"
+   },
+   {
+    "text": "Tél.: 02/5028614",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "John Coiffure",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Small projecting box sign on the right of a Brussels street (Ixelles). The larger 'CAFÉ LE TARMAC' fascia on the left, 'NIGHT SHOP' and Jupiler signs are distractors; the cut-off 'JO... COIFFURE' fascia at the right edge repeats the name."
+ },
+ "p224f0ba31a": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ibis",
+    "lang": "fr"
+   },
+   {
+    "text": "HOTEL",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "ibis",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Image is stored rotated 90 degrees (ground at left). White 'ibis HOTEL' lettering on a brick hotel facade near the Grand-Place, Brussels; the red ibis logo boxes repeat it. Blue parking signs ('Grand Place / Grote Markt / Interparking', cut off) are distractors."
+ },
+ "pf77ee4f9bc": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Maison",
+    "lang": "fr"
+   },
+   {
+    "text": "WILLIAME",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "Williame",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Metal letters on a cream facade of a stamp dealer, Brussels; three small lines under the name ('Fondée en 19..', 'Philatélie', and a third) are too small to read reliably and are left out. 'SAMAHUMA' banner and the 'ARAKAN' shutter sign are distractors; a man with blurred face stands in the foreground with his back to the camera."
+ },
+ "k420076910": {
+  "accept": false,
+  "reason": "only fragment of an Interparking sign ('...ère') cut by the frame; no complete name"
+ },
+ "pe744d8e75d": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "MUZIEKINSTRUMENTENMUSEUM",
+    "lang": "nl"
+   }
+  ],
+  "expect": {
+   "query": "Muziekinstrumentenmuseum",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Engraved Dutch name on the Old England building facade, Brussels. The French counterpart 'MUSEE DES INSTRUMENTS DE MUSIQUE' further left is smaller and angled; the exhibition poster below is a distractor."
+ },
+ "p96cc9fa3ae": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "THEATRE DU",
+    "lang": "fr"
+   },
+   {
+    "text": "VAUDEVILLE",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "Théâtre du Vaudeville",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Gold letters over two arched doors in the Galeries Royales Saint-Hubert, Brussels; tilted crop from a 360 panorama. The sign has no accents ('THEATRE'). 'LE PAIN QUOTIDIEN' fascia at right is a distractor."
+ },
+ "p9ad49e73e6": {
+  "accept": true,
+  "reason": "",
+  "kind": "building tag",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "CAAMI",
+    "lang": "fr"
+   },
+   {
+    "text": "CAISSE AUXILIAIRE",
+    "lang": "fr"
+   },
+   {
+    "text": "D'ASSURANCE",
+    "lang": "fr"
+   },
+   {
+    "text": "MALADIE -",
+    "lang": "fr"
+   },
+   {
+    "text": "INVALIDITE",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "CAAMI",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Hanging white banner on an office building, Brussels, shot at a steep angle from below. No accent on 'INVALIDITE' on the sign."
+ },
+ "c201142633": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Gemeente Zele",
+    "lang": "nl"
+   },
+   {
+    "text": "ALOIS DE BEULELAAN",
+    "lang": "nl"
+   },
+   {
+    "text": "1861 - 1935",
+    "lang": "und"
+   },
+   {
+    "text": "BEELDHOUWER",
+    "lang": "nl"
+   }
+  ],
+  "expect": {
+   "query": "Alois De Beulelaan",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Street-name sign with explanation (sculptor 1861-1935), Zele. Official name is 'Aloïs De Beulelaan' but no diaeresis is visible on the I on this weathered plate; the 'A' of ALOIS is partly worn. Municipal crest at top right."
+ },
+ "c23817500": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "VILLE DE BRUXELLES",
+    "lang": "fr"
+   },
+   {
+    "text": "STAD BRUSSEL",
+    "lang": "nl"
+   },
+   {
+    "text": "RUE DU",
+    "lang": "fr"
+   },
+   {
+    "text": "WITLOOF",
+    "lang": "fr"
+   },
+   {
+    "text": "STRAAT",
+    "lang": "nl"
+   }
+  ],
+  "expect": {
+   "query": "Witloofstraat",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Brussels-style blue enamel bilingual plate: 'Rue du Witloof' / 'Witloofstraat' share the central word; header line has VILLE DE BRUXELLES left and STAD BRUSSEL right of the emblem. Glare on the right half."
+ },
+ "c15086264": {
+  "accept": false,
+  "reason": "generic function sign 'CHEF DE GARE' (station master) at Binche station; names no place, stop or business"
+ },
+ "c14527496": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn",
+   "Hebr"
+  ],
+  "lines": [
+   {
+    "text": "take away",
+    "lang": "en"
+   },
+   {
+    "text": "DRESDNER",
+    "lang": "de"
+   },
+   {
+    "text": "גלאט כשר",
+    "lang": "he",
+    "latin": "glat kosher (glatt kosher)"
+   }
+  ],
+  "expect": {
+   "query": "Dresdner",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Grey fascia of a kosher take-away on Pelikaanstraat, Antwerp, seen across the tram tracks; reading order left to right as laid out. The 'L & B interieur' van and skip container in front are distractors (vehicle branding); people on the pavement are incidental."
+ }
+}

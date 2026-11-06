@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=270c6522-b983-4c0f-a25a-bb8ee0328e77",
+  "original_url": "https://panoramax.openstreetmap.fr/images/27/0c/65/22/b983-4c0f-a25a-bb8ee0328e77.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "spwoodcock",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture 270c6522-b983-4c0f-a25a-bb8ee0328e77 (Osaka, 2026-09-06)",
+  "description": "Street-level picture taken 2026-09-06 near Osaka by spwoodcock, sequence 75d7a64c-75cb-481e-aebf-4f1b4e4f3245, heading 313. OCR (PP-OCRv3) read: HOTELSN | Osetichi | ROOST | SHINSAIBASHI | losetchi | FtF | faVeCOFFEE | Face to Face | ROOST",
+  "date": "2026-09-06",
+  "categories": [],
+  "camera_location": [
+    34.67264175,
+    135.49771118
+  ],
+  "found_by": "panoramax-ocr:Osaka",
+  "bytes": 2342183,
+  "width": 3840,
+  "height": 2160,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/27/0c/65/22/b983-4c0f-a25a-bb8ee0328e77.jpg",
+  "derivative": "whole 3840x2160 HD picture as served by the Panoramax instance (byte-identical; the instance blurs faces and number plates), not cropped"
+}

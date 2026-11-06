@@ -1,0 +1,274 @@
+{
+ "p0d8b9ac973": {
+  "accept": false,
+  "reason": "emergency-exit notice inside a bus ('ISSUE DE SECOURS'), not a place sign"
+ },
+ "p4a06a509c1": {
+  "accept": false,
+  "reason": "emergency-exit notice inside a bus ('ISSUE DE SECOURS'), not a place sign"
+ },
+ "pee6e536930": {
+  "accept": false,
+  "reason": "emergency-exit notice inside a bus ('ISSUE DE SECOURS'), not a place sign"
+ },
+ "k2549692617": {
+  "accept": false,
+  "reason": "company name on the building washed out by sun glare ('GROUPE ...ZIE LAYOUSSE SA', first word unreadable); the rest are brand logo panels (Renault Trucks, GOETZE, MONROE)"
+ },
+ "p033da11eb0": {
+  "accept": false,
+  "reason": "'ISSUE DE SECOURS' emergency-exit sticker inside a bus; not a place sign"
+ },
+ "p3a96089034": {
+  "accept": false,
+  "reason": "'ISSUE DE SECOURS' emergency-exit sticker inside a bus; not a place sign"
+ },
+ "p59f1228b55": {
+  "accept": false,
+  "reason": "'ISSUE DE SECOURS' emergency-exit sticker inside a bus; not a place sign"
+ },
+ "pa8bc220fea": {
+  "accept": false,
+  "reason": "'ISSUE DE SECOURS' emergency-exit sticker inside a bus; not a place sign"
+ },
+ "pc4693c8118": {
+  "accept": false,
+  "reason": "'ISSUE DE SECOURS' emergency-exit sticker inside a bus; not a place sign"
+ },
+ "pc7f6d324e1": {
+  "accept": false,
+  "reason": "'ISSUE DE SECOURS' emergency-exit sticker inside a bus; not a place sign"
+ },
+ "c19669686": {
+  "accept": false,
+  "reason": "only the generic word 'imprimerie' on the corner fascia (no business name); the street plates on the building are too small to read"
+ },
+ "c29463549": {
+  "accept": false,
+  "reason": "empty billboard frame with no text"
+ },
+ "c29463637": {
+  "accept": false,
+  "reason": "generic hand-painted 'SALON DE COIFFURE HOMME & FEMME' board with no business name"
+ },
+ "f9078fccb-2739-4b23-97cd-942de8a42159": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "AÏSSATOU COIFFURE",
+    "lang": "fr"
+   },
+   {
+    "text": "COIFFURE",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "Aïssatou Coiffure",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Hand-painted name across the top of a grey metal gate in Dakar, with a painted portrait of a woman (artwork) and 'COIFFURE' below it. The A-frame board at the right ('SALON DE COIFFURE PEDICURE MANICURE POSE ONGLE POSE CILE' and a phone number) and a parked car with its plate are distractors."
+ },
+ "c89060766": {
+  "accept": false,
+  "reason": "dirt lane of mechanic workshops with no legible sign; car number plates visible"
+ },
+ "c89040890": {
+  "accept": false,
+  "reason": "horse-cart ride on a dirt road; no sign"
+ },
+ "f6df4598e-8266-4a53-b9f2-cb3f2b0cc31b": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "AUX FINS PALAIS",
+    "lang": "fr"
+   },
+   {
+    "text": "PARKING",
+    "lang": "fr"
+   },
+   {
+    "text": "RESERVE",
+    "lang": "fr"
+   },
+   {
+    "text": "AUT N°1385/MCADP/ST DU 06 06 2001",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "Aux Fins Palais",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Round red stencilled reserved-parking disc on a pole in Dakar naming the business 'AUX FINS PALAIS' around the top; the authorisation number runs around the bottom edge. The 'N°' is a stencilled N with a small raised o. Retro colour filter washes out the background; a car number plate behind is incidental."
+ },
+ "f7634057a-226a-498e-8954-c321a17f542d": {
+  "accept": false,
+  "reason": "empty billboard frame with no text (same scene as c29463549)"
+ },
+ "c55023521": {
+  "accept": false,
+  "reason": "cloth chart of sign-language drawings; not a place sign"
+ },
+ "c1720927": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "COMMUNE DE JOAL-FADIOUTH",
+    "lang": "fr"
+   },
+   {
+    "text": "PAR ARRÊTÉ MUNICIPAL N°06 du 15-04-05",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "Joal-Fadiouth",
+   "type": "place"
+  },
+  "difficulty": "medium",
+  "notes": "Hand-painted municipal notice at the bridge to Fadiouth island. Only the header and decree line are transcribed; the remaining hand-lettered rules (no sitting on the bridge railings, no cars, no bicycles or two-wheelers in the village) mix upper and lower case irregularly and are left out. The blue 'KANE_PRODUCTION' photo-shop board behind is a distractor."
+ },
+ "f70b87139-403c-4683-81c5-8e35153accf3": {
+  "accept": false,
+  "reason": "protest march with banners (World Social Forum 2011)"
+ },
+ "f6f3de4ed-9960-4931-bc79-db182fcbe437": {
+  "accept": false,
+  "reason": "painted no-urinating warning on a wall; no place name"
+ },
+ "c74431183": {
+  "accept": false,
+  "reason": "wrong country: 'Avenue du Senegal' street sign in Tyre, Lebanon"
+ },
+ "f7357047f-fb73-4ff2-9335-ca18ca1ca253": {
+  "accept": false,
+  "reason": "copy-shop awning lists only services ('PLASTIFICATION PHOTOCOPIE RELIURE'); the shop's own name on the A-frame is hidden by a person"
+ },
+ "f5cd0272e-a5cc-47e9-b830-8fbbe4a08cae": {
+  "accept": false,
+  "reason": "only mobile-operator branding (tigo) and a sports-shop advert billboard; car number plates in view"
+ },
+ "f08f75c53-14bb-4231-b776-1792bc9c0640": {
+  "accept": false,
+  "reason": "empty market stalls and graffiti; the small notice board is illegible"
+ },
+ "ffa9739d0-406b-4a37-9b04-16a42883cb2d": {
+  "accept": false,
+  "reason": "copy-shop kiosk whose name board ('CLE MINI...') is hidden behind a person; only service words are fully legible"
+ },
+ "f3ba349c4-fcfb-40e3-91b6-842d9ec9c232": {
+  "accept": false,
+  "reason": "posed portrait of people at a shop door (faces are the subject); only product adverts (Nescafé, Nestlé, Marlboro) visible"
+ },
+ "c5045257": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "CAISSE DE",
+    "lang": "fr"
+   },
+   {
+    "text": "SECURITÉ",
+    "lang": "fr"
+   },
+   {
+    "text": "SOCIALE",
+    "lang": "fr"
+   },
+   {
+    "text": "PAIEMENT",
+    "lang": "fr"
+   },
+   {
+    "text": "DISPENSAIRE",
+    "lang": "fr"
+   },
+   {
+    "text": "JEAN COLLIN MINISTRE d'Etat",
+    "lang": "fr"
+   },
+   {
+    "text": "SECRETAIRE GÉNÉRAL",
+    "lang": "fr"
+   },
+   {
+    "text": "DE LA RÉPUBLIQUE",
+    "lang": "fr"
+   },
+   {
+    "text": "VILLAGE DE",
+    "lang": "fr"
+   },
+   {
+    "text": "AGNAMGOLY",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "Agnam-Goly",
+   "type": "place"
+  },
+  "difficulty": "medium",
+  "notes": "Large rust-stained hand-painted board in two panels over the road into Agnam-Goly (Matam region): left panel for the social-security payment office (red down arrow), right panel for the Jean Collin dispensary (two red crosses). 'AGNAMGOLY' is written as one word; 'd'Etat' is small lowercase after 'MINISTRE'. The capital 'I's are drawn with a dot. A faint painted-over word is visible under 'DE LA RÉPUBLIQUE'."
+ },
+ "c57681616": {
+  "accept": false,
+  "reason": "wrong country: Wassu stone circles are in The Gambia; the small chalkboard is a donation request"
+ },
+ "c186685552": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "I",
+    "lang": "en"
+   },
+   {
+    "text": "LINGUÈRE",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "Linguère",
+   "type": "place"
+  },
+  "difficulty": "medium",
+  "notes": "'I [heart] LINGUÈRE' 3D letters on a red metal frame in Senegal flag colours (green 'I', heart and 'L', yellow 'INGU' with a green star on the N, pale pink 'ÈRE'); the grave accent sits above the first E. The school banner hanging below (Groupe Scolaire El Hadji Diabel NDIAYE) is a distractor."
+ },
+ "c57681653": {
+  "accept": false,
+  "reason": "wrong country: Wassu stone circles are in The Gambia; the chalkboard is a donation request"
+ },
+ "c201395789": {
+  "accept": false,
+  "reason": "back of a road sign; no visible text"
+ }
+}

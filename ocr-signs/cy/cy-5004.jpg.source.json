@@ -1,0 +1,41 @@
+{
+  "source": "flickr",
+  "source_url": "https://www.flickr.com/photos/39952962@N00/4576475848",
+  "original_url": "https://live.staticflickr.com/4071/4576475848_1431046991_o.jpg",
+  "license_as_published": "CC BY 2.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by/2.0/",
+  "author_as_published": "decade_null",
+  "credit_as_published": "\"Nicosia\" by decade_null is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/.",
+  "title": "Nicosia",
+  "description": "",
+  "date": "",
+  "categories": [
+    "cyprus",
+    "europe",
+    "mickey",
+    "nicosia",
+    "rust",
+    "sign",
+    "travel"
+  ],
+  "camera_location": [
+    35.172431,
+    33.363649
+  ],
+  "found_by": "openverse:Nicosia sign",
+  "bytes": 226962,
+  "width": 683,
+  "height": 1024,
+  "downloaded_url": "https://api.openverse.org/v1/images/5a83e401-e3b6-49c5-91bc-731c88a251ce/thumb/?full_size=true&compressed=false",
+  "derivative": "Flickr's published 1024 px 'large' rendition, served by the Openverse image API (Flickr originals were throttled for this client)",
+  "flickr": {
+    "flickr_url": "https://www.flickr.com/photos/39952962@N00/4576475848",
+    "flickr_license": "CC BY 2.0",
+    "lat": 35.172431,
+    "lon": 33.363649,
+    "original_url": "https://live.staticflickr.com/4071/4576475848_1431046991_o.jpg",
+    "flickr_license_code": 4,
+    "retrieved": "2026-11-06T05:46:50.094689+00:00"
+  },
+  "openverse_id": "5a83e401-e3b6-49c5-91bc-731c88a251ce"
+}

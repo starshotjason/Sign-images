@@ -1,0 +1,494 @@
+{
+ "f04ea0e52-4928-4f00-9585-77fc1c8e3715": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "BOBO STREET",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Bobo Street",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Yellow arrow-shaped street-name blade with black capitals, Abuja, seen from below. A second brown blade underneath is partly hidden: only '...PAUL II' and 'STREET' are visible (probably John Paul II Street), so it is a distractor. Small vertical photographer credit 'E.HERRERA PHOTOGRAPHY' at the left edge."
+ },
+ "f37eb9591-f105-4241-a73f-22ba8a69335d": {
+  "accept": false,
+  "reason": "sign face badly peeled: only 'BILL CLINT..' is clearly legible and most of the following letters ('..N D..VE') are missing, so it cannot be transcribed without guessing"
+ },
+ "f543efa90-4c4c-448b-ae38-9ec9d881312d": {
+  "accept": false,
+  "reason": "pool caution notice (warning), not a place sign"
+ },
+ "f5c1bbaa0-d299-4303-8799-8e526168607c": {
+  "accept": false,
+  "reason": "anti-malaria advertising billboard"
+ },
+ "f8059e9d7-2b55-498a-8623-0ad5c3375ac3": {
+  "accept": false,
+  "reason": "HIV cure advert and handwritten classified notices on a tree"
+ },
+ "f8a434b7e-3f68-4c6d-8221-1167c6bcdef8": {
+  "accept": false,
+  "reason": "blurred speed-limit pictogram only"
+ },
+ "fa3ac3304-fc9a-4fc1-bbfc-be8bda56d822": {
+  "accept": false,
+  "reason": "collage painting with text, not a sign"
+ },
+ "fc265c655-f6d5-470d-a0b7-50a59aa00bb9": {
+  "accept": false,
+  "reason": "indoor event banner (meeting dates), not a place sign"
+ },
+ "fe0df983f-da32-48d1-8115-55a9cb6400bc": {
+  "accept": false,
+  "reason": "collage painting with text, not a sign"
+ },
+ "c101276342": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "EXCELTURE",
+    "lang": "en"
+   },
+   {
+    "text": "EXCELTURE",
+    "lang": "en"
+   },
+   {
+    "text": "PHARMACY",
+    "lang": "en"
+   },
+   {
+    "text": "Shop 7, Civil Service Club Complex,",
+    "lang": "en"
+   },
+   {
+    "text": "Opp Kwara Hotels, Ahmadu Bello Way, Gra,ilorin",
+    "lang": "en"
+   },
+   {
+    "text": "08034016005",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "Excelture Pharmacy",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Pharmacy fascia, Ilorin; a small boxed 'EXCELTURE' logo above the large name. Address band in a serif font: 'Gra,ilorin' as printed (lower-case i, no space). A taut rope crosses the 'Opp K...' part of the address. Alternative query: 'Ahmadu Bello Way'."
+ },
+ "c101381502": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "TUYIL",
+    "lang": "en"
+   },
+   {
+    "text": "PHARMACEUTICAL INDUSTRIES LTD.",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Tuyil Pharmaceutical Industries",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Brown gate fascia of the Tuyil factory, Ilorin, small at upper left of a strongly tilted (~20 degrees) photo. A 'TIL' logo disc and a tiny 'RC: ...' registration number at left are not transcribed; the 'NO PARKING' plate by the gate is a distractor."
+ },
+ "c110903739": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "YAKUBU GOWON",
+    "lang": "en"
+   },
+   {
+    "text": "ESTATE",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Yakubu Gowon Estate",
+   "type": "place"
+  },
+  "difficulty": "easy",
+  "notes": "Black stone name block with raised beige letters at the staff housing estate, Baze University, Abuja. The rusty 'SICK BAY' arrow in the foreground at right is a distractor."
+ },
+ "c113821450": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "FACULTY",
+    "lang": "en"
+   },
+   {
+    "text": "OF",
+    "lang": "en"
+   },
+   {
+    "text": "EDUCATION",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Faculty of Education",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Blue board with weathered gold letters and two left arrows, University of Ibadan; the faded text inside the arrows is illegible. The dress-code poster at left ('FACULTY OF EDUCATION / UNIVERSITY OF IBADAN / DRESS DECENTLY ...') is a distractor."
+ },
+ "c116472519": {
+  "accept": false,
+  "reason": "the only sign is cut off at the top edge ('...D DEALERS (ONITSHA)'); the subject is a market stall of goods"
+ },
+ "c117020530": {
+  "accept": false,
+  "reason": "high-angle market street scene; shop signs are small and partial, phone advert banner, camera watermark text"
+ },
+ "c117583409": {
+  "accept": false,
+  "reason": "no legible sign; building and car park only"
+ },
+ "c119531635": {
+  "accept": false,
+  "reason": "weathered concrete sign: the first line and the lower lines are too eroded to transcribe without guessing (only 'COMPOUND' is clear)"
+ },
+ "c120575557": {
+  "accept": false,
+  "reason": "near-duplicate of accepted c120575555: the same Customary Court Godogodo board, smaller"
+ },
+ "c117514894": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Magicland",
+    "lang": "en"
+   },
+   {
+    "text": "WELCOME",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Magicland",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Multicoloured letters on the castle-style gate of the Magicland amusement park, Abuja: 'Magicland' along the battlement (mixed case, playful font) and 'WELCOME' on the white arch. The COVID notices ('NO MASK NO ENTRY', 'Please Stand On The Red Marks For Social Distance', 'Wash Your ...') and the rules board are distractors; a passer-by at right is incidental."
+ },
+ "c120575555": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "KADUNA STATE JUDICIARY",
+    "lang": "en"
+   },
+   {
+    "text": "CUSTOMARY COURT",
+    "lang": "en"
+   },
+   {
+    "text": "GODO GODO",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Godogodo",
+   "type": "place"
+  },
+  "difficulty": "medium",
+  "notes": "Stencilled white board with scales-of-justice emblem (middle of three roadside signs), Godogodo, Kaduna State; stencil A and U shapes are crude (the A's in 'CUSTOMARY' look like R's). A faded double arrow below. The 'EVANGELICAL REFORMED CHURCH OF CHRIST ... GODO GODO' board at left and the rusty 'PRIMARY HEALTH CARE GODOGODO' board at right are distractors."
+ },
+ "c120575558": {
+  "accept": true,
+  "reason": "",
+  "kind": "hard",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "PRIMARY HEALTH CARE",
+    "lang": "en"
+   },
+   {
+    "text": "GODOGODO",
+    "lang": "en"
+   },
+   {
+    "text": "JEMAA LOCAL GOVERNMENT AREA",
+    "lang": "en"
+   },
+   {
+    "text": "KADUNA ST.",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Godogodo",
+   "type": "place"
+  },
+  "difficulty": "hard",
+  "notes": "Rusty stencilled board, Godogodo, Kaduna State; the stencil G looks like C ('CODOCODO'). The small third line is faint and the E of 'CARE' and part of 'AREA' sit on rust patches. A painted map outline fills the middle. Same roadside as c120575555 but a different board."
+ },
+ "c123415433": {
+  "accept": false,
+  "reason": "statue of Eze Nri is the subject; the small plaque on the plinth is not legible"
+ },
+ "c187077635": {
+  "accept": false,
+  "reason": "people's faces are the subject; background billboards are partial adverts"
+ },
+ "c138683064": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ST. THOMAS'",
+    "lang": "en"
+   },
+   {
+    "text": "ANGLICAN NUR/PRY.",
+    "lang": "en"
+   },
+   {
+    "text": "SCHOOL",
+    "lang": "en"
+   },
+   {
+    "text": "EST.",
+    "lang": "en"
+   },
+   {
+    "text": "1845",
+    "lang": "und"
+   },
+   {
+    "text": "BADAGRY",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "St. Thomas' Anglican Nursery/Primary School",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Green stencilled panels around a painted crest on a maroon wall, Badagry. 'ST. THOMAS'' and 'SCHOOL' are on panels slanting down toward the centre. The crest repeats 'ANGLICAN NUR/PRY. / ST THOMAS / SCHOOL / BADAGRY' in blue. Alternative query: 'Badagry'."
+ },
+ "c159798437": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "COMENCE",
+    "lang": "en"
+   },
+   {
+    "text": "NURSERY / PRIMARY",
+    "lang": "en"
+   },
+   {
+    "text": "SCHOOL",
+    "lang": "en"
+   },
+   {
+    "text": "Handwriting & Phonics Experts",
+    "lang": "en"
+   },
+   {
+    "text": "080 3700 5401",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "Comence Nursery and Primary School",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Hand-painted school board, Narayi High Cost, Kaduna; 'COMENCE' (spelled with one M) in shadowed blue capitals, slogan in blue script, arrow pointing right after the phone number. The crest's small text ('COMENCE NURSERY & PRIMARY SCHOOL NARAYI HIGH COST', motto) and the church board behind at left are distractors."
+ },
+ "c35502888": {
+  "accept": false,
+  "reason": "government drainage-project information board (project, contractor, agency, contract period); no mappable place name as target"
+ },
+ "c79558005": {
+  "accept": false,
+  "reason": "rusted AFCON 2000 broadcaster advertising billboard; event advert with photographer watermark"
+ },
+ "c82585832": {
+  "accept": false,
+  "reason": "University of Ibadan gate with no legible lettering; only a keep-left pictogram"
+ },
+ "f1afffa9b-707c-44a5-93de-6685fc7c52db": {
+  "accept": false,
+  "reason": "wrong country: San Juan de los Lagos cathedral, Jalisco, Mexico (matched on 'Lagos')"
+ },
+ "c35503531": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "MODUPE STORES",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Modupe Stores",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Red fascia with yellow condensed letters on the right-hand shop, Lagos market street; an elephant logo at left. The small address/phone lines below and the goods list at right are blurred and not transcribed (roughly 'Block L, Shop ..., Tinubu Square, Lagos'). 'ANDEOBIH LTD' phone-shop sign and 'WURAOLA VENTURES' furniture billboard are distractors; street traders incidental."
+ },
+ "c172975733": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "PLATEAU STATE",
+    "lang": "en"
+   },
+   {
+    "text": "GOVERNMENT",
+    "lang": "en"
+   },
+   {
+    "text": "HOUSE",
+    "lang": "en"
+   },
+   {
+    "text": "LITTLE RAYFIELD",
+    "lang": "en"
+   },
+   {
+    "text": "P.M.B. 2069, JOS",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Government House Jos",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "White monolith sign with green lettering and a Plateau State map at the roundabout, Little Rayfield, Jos; mid-distance at right. A '...ONA SCHOOL' arrow board at far left is a distractor."
+ },
+ "c172975732": {
+  "accept": false,
+  "reason": "near-duplicate of c172975733 (same Government House sign)"
+ },
+ "c151489716": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Welcome To Jos",
+    "lang": "en"
+   },
+   {
+    "text": "PLATEAU STATE",
+    "lang": "en"
+   },
+   {
+    "text": "CAPITAL",
+    "lang": "en"
+   },
+   {
+    "text": "Home of Peace and Tourism",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Jos",
+   "type": "place"
+  },
+  "difficulty": "medium",
+  "notes": "Green city welcome billboard on a tilted pylon; roadside traders underneath (incidental)."
+ },
+ "c168680501": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "SPORT CENTRE",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Sport Centre",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Black arrow-shaped direction sign with stencilled white letters on a white post, Admiralty University of Nigeria campus."
+ },
+ "c172975734": {
+  "accept": false,
+  "reason": "near-duplicate of c172975733 (same Government House sign)"
+ },
+ "c118015671": {
+  "accept": false,
+  "reason": "curve-warning pictogram only, mountain view"
+ }
+}

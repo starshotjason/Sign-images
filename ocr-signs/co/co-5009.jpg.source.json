@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=225e88f9-049a-4687-a632-5d35acb16275",
+  "original_url": "https://panoramax.openstreetmap.fr/images/22/5e/88/f9/049a-4687-a632-5d35acb16275.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "mapeadora",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture 225e88f9-049a-4687-a632-5d35acb16275 (Bogota, 2026-01-25)",
+  "description": "Street-level picture taken 2026-01-25 near Bogota by mapeadora, sequence d7f02d4f-fc41-4225-b2e1-7bd40dc1eefd, heading 180. OCR (PP-OCRv3) read: Centro Comercial | ALRAL | LEREAL | DAGNDARIA | DACNDIARIA",
+  "date": "2026-01-25",
+  "categories": [],
+  "camera_location": [
+    4.59915,
+    -74.0748517
+  ],
+  "found_by": "panoramax-ocr:Bogota",
+  "bytes": 1090954,
+  "width": 3520,
+  "height": 1844,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/22/5e/88/f9/049a-4687-a632-5d35acb16275.jpg",
+  "derivative": "crop 70,0,3590,1844 of the 4096x1844 HD picture"
+}

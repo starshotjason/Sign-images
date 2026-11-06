@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=ca0a72ed-e0f1-4c16-8ffc-8709bd180761",
+  "original_url": "https://panoramax.openstreetmap.fr/images/ca/0a/72/ed/e0f1-4c16-8ffc-8709bd180761.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "evgenykatyshev",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture ca0a72ed-e0f1-4c16-8ffc-8709bd180761 (Tbilisi, 2025-03-29)",
+  "description": "Street-level picture taken 2025-03-29 near Tbilisi by evgenykatyshev, sequence e5e72eb5-476f-4155-a11d-1ba51761a51f, heading 339. OCR (PP-OCRv3) read: DARABA | Doil,OFfer | Thai Kotsu Curry | Rkatsitel (WhieDr)Wine | Coppuccino",
+  "date": "2025-03-29",
+  "categories": [],
+  "camera_location": [
+    41.6951694,
+    44.8040443
+  ],
+  "found_by": "panoramax-ocr:Tbilisi",
+  "bytes": 3713751,
+  "width": 1884,
+  "height": 4080,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/ca/0a/72/ed/e0f1-4c16-8ffc-8709bd180761.jpg",
+  "derivative": "whole 1884x4080 HD picture as served by the Panoramax instance (byte-identical; the instance blurs faces and number plates), not cropped"
+}

@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.mapcomplete.org/#focus=pic&pic=d70fdaa3-f777-49dc-8222-26283845ce99",
+  "original_url": "https://panoramax.mapcomplete.org/permanent/d7/0f/da/a3/f777-49dc-8222-26283845ce99.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "mapcomplete",
+  "credit_as_published": "Panoramax, instance mapcomplete (https://panoramax.mapcomplete.org)",
+  "title": "Panoramax picture d70fdaa3-f777-49dc-8222-26283845ce99 (Stockholm, 2024-08-15)",
+  "description": "Street-level picture on Panoramax, taken 2024-08-15 near Stockholm by mapcomplete, sequence e9bcb8c0-8ade-4ac9-bc9f-cfa464221fd6, heading 90. OCR (PP-OCRv3) read: flying tiger | All for | skol- | starten | Du ar den | basta gava | 1Stlldigifotoladan | 3skickabildentillnagonduhal",
+  "date": "2024-08-15",
+  "categories": [],
+  "camera_location": [
+    59.3305964,
+    18.0644998
+  ],
+  "found_by": "panoramax-ocr:Stockholm",
+  "bytes": 951985,
+  "width": 3000,
+  "height": 2250,
+  "downloaded_url": "https://panoramax.mapcomplete.org/permanent/d7/0f/da/a3/f777-49dc-8222-26283845ce99.jpg",
+  "derivative": "whole 3000x2250 HD picture as served by the Panoramax instance (byte-identical; the service blurs faces and number plates), not cropped"
+}
