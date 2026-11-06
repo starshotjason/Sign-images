@@ -9338,6 +9338,12 @@ File: [ag/ag-5004.jpg](ag/ag-5004.jpg)
 
 Photo: CROIX, CC BY 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Road_sign_in_Antigua_and_Barbuda_2020s_01.jpg. License: https://creativecommons.org/licenses/by/4.0/. Unmodified original.
 
+## ag-5005
+
+File: [ag/ag-5005.jpg](ag/ag-5005.jpg)
+
+Photo: CROIX, CC BY 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Road_sign_in_Antigua_and_Barbuda_2020s_05.jpg. License: https://creativecommons.org/licenses/by/4.0/. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
+
 ## ar-5001
 
 File: [ar/ar-5001.jpg](ar/ar-5001.jpg)
@@ -11071,6 +11077,12 @@ Photo: 999real, CC0 1.0, via Wikimedia Commons. Source: https://commons.wikimedi
 File: [tt/tt-5008.jpg](tt/tt-5008.jpg)
 
 Photo: Kalamazadkhan, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Englishman%27s_Bay_-_Tobago,_West_Indies_(2).jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Unmodified original.
+
+## tt-5009
+
+File: [tt/tt-5009.jpg](tt/tt-5009.jpg)
+
+Photo: 999real, CC0 1.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Jamaat_al_Muslimeen_Masjid_Sign.jpg. License: http://creativecommons.org/publicdomain/zero/1.0/deed.en. Unmodified original.
 
 ## us-5001
 

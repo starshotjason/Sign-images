@@ -235,5 +235,34 @@
  "c162216116": {
   "accept": false,
   "reason": "no-dumping warning sign; names no place"
+ },
+ "c186496167": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn",
+   "Arab"
+  ],
+  "lines": [
+   {
+    "text": "JAMAAT AL MUSLIMEEN",
+    "lang": "en"
+   },
+   {
+    "text": "AND MADRESSA",
+    "lang": "en"
+   },
+   {
+    "text": "#1 MUCURAPO ROAD ST. JAMES",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Mucurapo Road",
+   "type": "addr"
+  },
+  "difficulty": "medium",
+  "notes": "Mosque and madrassa sign in St. James, Port of Spain, with its street address. The small Arabic basmala calligraphy at the top is not transcribed; overhead cables cross the sign."
  }
 }

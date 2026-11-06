@@ -1,6 +1,6 @@
 # StreetZim sign-reader photo set (world)
 
-**1945 openly licensed photos of street signs, address plates, business signs and landmark name boards across 191 countries**, 1945 of them visually transcribed (1760 MB). Built for the photo search (`--ocr` sign reader) in [jasontitus/streetzim](https://github.com/jasontitus/streetzim), using the record format of its `docs/ocr-test-set.md` and `tests/fixtures/ocr-signs/`.
+**1947 openly licensed photos of street signs, address plates, business signs and landmark name boards across 191 countries**, 1947 of them visually transcribed (1761 MB). Built for the photo search (`--ocr` sign reader) in [jasontitus/streetzim](https://github.com/jasontitus/streetzim), using the record format of its `docs/ocr-test-set.md` and `tests/fixtures/ocr-signs/`.
 
 Score it with streetzim's runner:
 
@@ -24,7 +24,7 @@ python3 tools/ocr_photos.py --set <this repo>/ocr-signs --maps <maps folder> --o
 
 This cloud crawler's IP was throttled by Wikimedia's and Flickr's original-file servers, so some files are the sources' own published renditions rather than originals; each record's `derivative` field says exactly which (empty = byte-unmodified original):
 
-- 1456: original
+- 1457: original
 - 28: Flickr's published 1024 px 'large' rendition, served by the Openverse image API
 - 22: whole 4000x3000 HD picture as served by the Panoramax instance
 - 16: rectilinear
@@ -42,6 +42,7 @@ This cloud crawler's IP was throttled by Wikimedia's and Flickr's original-file 
 - 4: whole 4096x2304 full-size processed
 - 4: whole 3840x2160 HD picture as served by the Panoramax instance
 - 4: whole 1440x1080 HD picture as served by the Panoramax instance
+- 3: Wikimedia Commons standard 1920px-wide rendition
 - 3: whole 3072x1728 HD picture as served by the Panoramax instance
 - 3: whole 4000x2250 HD picture as served by the Panoramax instance
 - 3: whole 3072x4096 HD picture as served by the Panoramax instance
@@ -51,7 +52,6 @@ This cloud crawler's IP was throttled by Wikimedia's and Flickr's original-file 
 - 3: whole 4624x2604 HD picture as served by the Panoramax instance
 - 3: whole 4080x2295 HD picture as served by the Panoramax instance
 - 2: whole 1049x634 HD picture as served by the Panoramax instance
-- 2: Wikimedia Commons standard 1920px-wide rendition
 - 2: whole 3264x1840 full-size processed
 - 2: whole 4128x2322 full-size processed
 - 2: whole 4160x2340 HD picture as served by the Panoramax instance
@@ -359,7 +359,7 @@ This cloud crawler's IP was throttled by Wikimedia's and Flickr's original-file 
 
 | Source | Photos |
 |---|---:|
-| commons | 1227 |
+| commons | 1229 |
 | panoramax | 250 |
 | flickr | 232 |
 | kartaview | 209 |
@@ -369,7 +369,7 @@ This cloud crawler's IP was throttled by Wikimedia's and Flickr's original-file 
 | Kind | Photos |
 |---|---:|
 | business sign | 661 |
-| landmark | 569 |
+| landmark | 571 |
 | street sign | 418 |
 | hard | 136 |
 | transit | 58 |
@@ -384,9 +384,9 @@ This cloud crawler's IP was throttled by Wikimedia's and Flickr's original-file 
 | CC BY 2.0 | 233 |
 | CC BY-SA 3.0 | 210 |
 | CC BY-SA 2.0 | 153 |
-| CC0 1.0 | 107 |
+| CC0 1.0 | 108 |
 | CC BY 3.0 | 71 |
-| CC BY 4.0 | 61 |
+| CC BY 4.0 | 62 |
 | Public domain | 45 |
 | CC BY 2.5 | 3 |
 | OGDL-Taiwan-1.0 | 1 |
@@ -400,7 +400,7 @@ This cloud crawler's IP was throttled by Wikimedia's and Flickr's original-file 
 | DZ Algeria | Arabic | UM | 15 | 15 | 15 |
 | AD Andorra | Latin | H | 10 | 10 | 10 |
 | AO Angola | Latin | LM | 3 | 3 | 12 |
-| AG Antigua and Barbuda | Latin | H | 4 | 4 | 10 |
+| AG Antigua and Barbuda | Latin | H | 5 | 5 | 10 |
 | AR Argentina | Latin | UM | 12 | 12 | 12 |
 | AM Armenia | Armenian | UM | 15 | 15 | 15 |
 | AU Australia | Latin | H | 10 | 10 | 10 |
@@ -575,7 +575,7 @@ This cloud crawler's IP was throttled by Wikimedia's and Flickr's original-file 
 | TL Timor-Leste | Latin | LM | 5 | 5 | 12 |
 | TG Togo | Latin | L | 15 | 15 | 15 |
 | TO Tonga | Latin | UM | 5 | 5 | 12 |
-| TT Trinidad and Tobago | Latin | H | 8 | 8 | 10 |
+| TT Trinidad and Tobago | Latin | H | 9 | 9 | 10 |
 | TN Tunisia | Arabic | LM | 15 | 15 | 15 |
 | TR Turkey | Latin | UM | 12 | 12 | 12 |
 | TM Turkmenistan | Latin | UM | 4 | 4 | 12 |

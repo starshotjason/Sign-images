@@ -162,5 +162,29 @@
  "c184150861": {
   "accept": false,
   "reason": "generic airport parking wayfinding (Long Term Parking / Staff Parking / Exit); names no place"
+ },
+ "c184150863": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Welcome to",
+    "lang": "en"
+   },
+   {
+    "text": "OLD ROAD",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Old Road",
+   "type": "place"
+  },
+  "difficulty": "hard",
+  "notes": "Village welcome sign under a 20 speed-limit plate, small in the frame. The bottom line ('Please drive carefully') is too small to transcribe reliably and is left out; the 20 plate is a distractor."
  }
 }
