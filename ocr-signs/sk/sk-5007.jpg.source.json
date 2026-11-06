@@ -1,23 +1,23 @@
 {
   "source": "panoramax",
-  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=269c250d-b2a5-431f-a520-7900f81d5c07",
-  "original_url": "https://panoramax.openstreetmap.fr/images/26/9c/25/0d/b2a5-431f-a520-7900f81d5c07.jpg",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=38eb131c-9d42-4709-9279-9e64abbce30d",
+  "original_url": "https://panoramax.openstreetmap.fr/images/38/eb/13/1c/9d42-4709-9279-9e64abbce30d.jpg",
   "license_as_published": "CC-BY-SA-4.0",
   "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
   "author_as_published": "Julia Keil-Voss",
   "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
-  "title": "Panoramax picture 269c250d-b2a5-431f-a520-7900f81d5c07 (Bratislava, 2026-07-12)",
-  "description": "Street-level picture on Panoramax, taken 2026-07-12 near Bratislava by Julia Keil-Voss, sequence 92beebb1-68ec-4a40-86b6-bc1cebabe788, heading 7. OCR (PP-OCRv3) read: 1.Ceskoslovenske opevnenie z rokov 1935-1938 | Czechoslovak fortifications from the years 1935-1938 | Mnichovska dohoda-koniecopevnenia,koniecCeskoslovenska | POLSKO | MADARSKO | Dovodyvystavby | *Czechoslovakfortifications from1935-1938 in Bratislava | Ceskoslovenske opevnenie zr.1935-1938vBratislave",
-  "date": "2026-07-12",
+  "title": "Panoramax picture 38eb131c-9d42-4709-9279-9e64abbce30d (Bratislava, 2026-07-13)",
+  "description": "Street-level picture on Panoramax, taken 2026-07-13 near Bratislava by Julia Keil-Voss, sequence d5052f27-ca69-4f7b-80e6-26e7dc6c75f9, heading 215. OCR (PP-OCRv3) read: CTOSE | LACTO | HORCHATERIA | Gluten free | Lactose free | Highfbre | www.tigernutplanet.comu R | Unsweetened | Vegan | AUTHENT",
+  "date": "2026-07-13",
   "categories": [],
   "camera_location": [
-    48.127667972,
-    17.072337
+    48.143807,
+    17.112753
   ],
   "found_by": "panoramax-ocr:Bratislava",
-  "bytes": 5211792,
-  "width": 4080,
-  "height": 3060,
-  "downloaded_url": "https://panoramax.openstreetmap.fr/images/26/9c/25/0d/b2a5-431f-a520-7900f81d5c07.jpg",
-  "derivative": "whole 4080x3060 HD picture as served by the Panoramax instance (byte-identical; the service blurs faces and number plates), not cropped"
+  "bytes": 2838848,
+  "width": 3953,
+  "height": 2965,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/38/eb/13/1c/9d42-4709-9279-9e64abbce30d.jpg",
+  "derivative": "whole 3953x2965 HD picture as served by the Panoramax instance (byte-identical; the service blurs faces and number plates), not cropped"
 }

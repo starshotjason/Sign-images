@@ -1,23 +1,25 @@
 {
-  "source": "panoramax",
-  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=f015dd86-7c4a-44a8-ab45-f989126daa3e",
-  "original_url": "https://panoramax.openstreetmap.fr/images/f0/15/dd/86/7c4a-44a8-ab45-f989126daa3e.jpg",
-  "license_as_published": "CC-BY-SA-4.0",
-  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
-  "author_as_published": "Aradrin",
-  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
-  "title": "Panoramax picture f015dd86-7c4a-44a8-ab45-f989126daa3e (Dublin, 2025-05-19)",
-  "description": "Street-level picture on Panoramax, taken 2025-05-19 near Dublin by Aradrin, sequence 78d1ada9-a76c-4acf-a759-4b328262fd24, heading 347. OCR (PP-OCRv3) read: JIM | LARKIN",
-  "date": "2025-05-19",
-  "categories": [],
-  "camera_location": [
-    53.349055556,
-    -6.259927778
+  "source": "commons",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Sandyford_apts_1.jpg",
+  "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Sandyford_apts_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "license_as_published": "CC0",
+  "license_url_as_published": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "author_as_published": "LynxesDesmond",
+  "credit_as_published": "Own work",
+  "title": "File:Sandyford apts 1.jpg",
+  "description": "Apartment blocks in Sandyford, Dublin",
+  "date": "2023-12-11",
+  "categories": [
+    "2023 in Dublin",
+    "Apartment buildings in Dublin",
+    "December 2023 in Ireland",
+    "Sandyford, Dublin"
   ],
-  "found_by": "panoramax-ocr:Dublin",
-  "bytes": 934788,
-  "width": 2560,
-  "height": 1920,
-  "downloaded_url": "https://panoramax.openstreetmap.fr/images/f0/15/dd/86/7c4a-44a8-ab45-f989126daa3e.jpg",
-  "derivative": "crop 819,1574,3379,3494 of the 4284x5712 HD picture"
+  "camera_location": null,
+  "found_by": "keyword",
+  "bytes": 748182,
+  "width": 1920,
+  "height": 1440,
+  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Sandyford_apts_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "derivative": ""
 }

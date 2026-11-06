@@ -102,5 +102,9 @@
  "c8068650": {
   "accept": false,
   "reason": "wrong country and no sign: officials shaking hands in Pago Pago, American Samoa"
+ },
+ "c159490684": {
+  "accept": false,
+  "reason": "wrong country: Samoa Dunes Recreation Area, California (USA); 'SLOW 5 MPH' sign, US number plate visible"
  }
 }

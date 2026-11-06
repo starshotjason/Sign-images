@@ -1,23 +1,28 @@
 {
-  "source": "panoramax",
-  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=38eb131c-9d42-4709-9279-9e64abbce30d",
-  "original_url": "https://panoramax.openstreetmap.fr/images/38/eb/13/1c/9d42-4709-9279-9e64abbce30d.jpg",
-  "license_as_published": "CC-BY-SA-4.0",
-  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
-  "author_as_published": "Julia Keil-Voss",
-  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
-  "title": "Panoramax picture 38eb131c-9d42-4709-9279-9e64abbce30d (Bratislava, 2026-07-13)",
-  "description": "Street-level picture on Panoramax, taken 2026-07-13 near Bratislava by Julia Keil-Voss, sequence d5052f27-ca69-4f7b-80e6-26e7dc6c75f9, heading 215. OCR (PP-OCRv3) read: CTOSE | LACTO | HORCHATERIA | Gluten free | Lactose free | Highfbre | www.tigernutplanet.comu R | Unsweetened | Vegan | AUTHENT",
-  "date": "2026-07-13",
-  "categories": [],
-  "camera_location": [
-    48.143807,
-    17.112753
+  "source": "commons",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Udvard144.JPG",
+  "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Udvard144.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author_as_published": "Szeder László",
+  "credit_as_published": "Own work",
+  "title": "File:Udvard144.JPG",
+  "description": "Udvard - pékség",
+  "date": "2008-09-30",
+  "categories": [
+    "Bakeries in Slovakia",
+    "Bilingual Hungarian-Slovak signs in Slovakia",
+    "Bilingual shop signs",
+    "Dvory nad Žitavou"
   ],
-  "found_by": "panoramax-ocr:Bratislava",
-  "bytes": 2838848,
-  "width": 3953,
-  "height": 2965,
-  "downloaded_url": "https://panoramax.openstreetmap.fr/images/38/eb/13/1c/9d42-4709-9279-9e64abbce30d.jpg",
-  "derivative": "whole 3953x2965 HD picture as served by the Panoramax instance (byte-identical; the service blurs faces and number plates), not cropped"
+  "camera_location": [
+    47.99081667,
+    18.26826944
+  ],
+  "found_by": "keyword",
+  "bytes": 247426,
+  "width": 1280,
+  "height": 960,
+  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Udvard144.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "derivative": ""
 }

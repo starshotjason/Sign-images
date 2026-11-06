@@ -270,5 +270,117 @@
  "c201395789": {
   "accept": false,
   "reason": "back of a road sign; no visible text"
+ },
+ "c29234928": {
+  "accept": false,
+  "reason": "UNICEF landmine-warning board ('ZONES SUSCEPTIBLES D'ETRE MINEES ... N'Y ALLEZ PAS'); warning, names no place"
+ },
+ "c88966680": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "MADINA FALL",
+    "lang": "fr"
+   },
+   {
+    "text": "KEUR ISSA",
+    "lang": "fr"
+   },
+   {
+    "text": "CITE PILOT",
+    "lang": "fr"
+   },
+   {
+    "text": "CARREFOUR",
+    "lang": "fr"
+   },
+   {
+    "text": "SERIGNE FALLOU",
+    "lang": "fr"
+   },
+   {
+    "text": "PLACE DE SOUSSE",
+    "lang": "fr"
+   },
+   {
+    "text": "150 m",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "Place de Sousse",
+   "type": "place"
+  },
+  "difficulty": "easy",
+  "notes": "Roundabout advance-direction sign in Thiès on a sidewalk, black stencil letters on white with a roundabout diagram; reading order is top, right, lower right, left. Distance '150 m' in a box at lower right. Faded torn posters on the left half."
+ },
+ "c88966681": {
+  "accept": false,
+  "reason": "heavily defaced roundabout sign (top destination and 'CARREFOUR SERIGNE FALLOU' partly covered by posters), blurred; same destinations as accepted c88966680"
+ },
+ "c88966682": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "MADINA FALL",
+    "lang": "fr"
+   },
+   {
+    "text": "KEUR ISSA",
+    "lang": "fr"
+   },
+   {
+    "text": "PLACE DE SOUSSE",
+    "lang": "fr"
+   },
+   {
+    "text": "CITE PILOT",
+    "lang": "fr"
+   },
+   {
+    "text": "CARREFOUR",
+    "lang": "fr"
+   },
+   {
+    "text": "SERIGNE FALLOU",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "Cité Pilot",
+   "type": "place"
+  },
+  "difficulty": "medium",
+  "notes": "Stacked direction sign in Thiès, one destination per panel with arrows; a metal frame crosses the right edge of 'PLACE DE SOUSSE' and the bottom panel is scratched. Different physical sign from c88966680 (stacked layout, not a roundabout diagram) though it lists the same places. A small pasted notice under 'KEUR ISSA' is illegible."
+ },
+ "c88966685": {
+  "accept": false,
+  "reason": "direction sign whose first letters are covered by a pasted poster ('...VERNANCE'), blurred; place name not fully legible"
+ },
+ "f5f2a481d-57b7-4386-86b7-13da24858d55": {
+  "accept": false,
+  "reason": "street kiosk with only mobile-operator branding stickers (orange, tigo); no business name, blurred"
+ },
+ "fa03e8db6-0845-47a8-9c4d-4612cc2923bc": {
+  "accept": false,
+  "reason": "street kiosk with people; only a partly hidden product advert ('...eddo ... en vente ici'), no shop name"
+ },
+ "fad92fedc-c5bd-49fc-80e8-70a22f8da2af": {
+  "accept": false,
+  "reason": "hand-painted religious graffiti/slogans on a beach board ('Borom Touba Amoul Moroom', 'LA VÉRITÉ'); not a place sign"
+ },
+ "fe4415db8-b754-44f3-824c-0efa77551fdf": {
+  "accept": false,
+  "reason": "beach landscape; no sign"
  }
 }

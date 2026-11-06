@@ -1,23 +1,25 @@
 {
-  "source": "panoramax",
-  "source_url": "https://panoramax.multimodall.com/#focus=pic&pic=6bbdc0fa-87f9-4198-9e55-e0ae28945c89",
-  "original_url": "https://panoramax.multimodall.com/api/pictures/6bbdc0fa-87f9-4198-9e55-e0ae28945c89/hd.jpg",
-  "license_as_published": "CC-BY-SA-4.0",
-  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
-  "author_as_published": "km2bp",
-  "credit_as_published": "Panoramax, instance multimodall (https://panoramax.multimodall.com)",
-  "title": "Panoramax picture 6bbdc0fa-87f9-4198-9e55-e0ae28945c89 (Oslo, 2020-05-17)",
-  "description": "Street-level picture on Panoramax, taken 2020-05-17 near Oslo by km2bp, sequence 3de6c3c9-3add-4c0d-8b95-f908d12a3c52, heading 80. OCR (PP-OCRv3) read: W.A.WEKELS | Prest yel | Vor FrelsersKirke",
-  "date": "2020-05-17",
-  "categories": [],
-  "camera_location": [
-    59.912145972,
-    10.746114972
+  "source": "commons",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Carl_Konows_gate_DSC_0448.jpg",
+  "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Carl_Konows_gate_DSC_0448.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "license_as_published": "CC BY-SA 3.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/3.0",
+  "author_as_published": "HMPinnsvinet",
+  "credit_as_published": "Own work",
+  "title": "File:Carl Konows gate DSC 0448.jpg",
+  "description": "Street sign \"Carl Konows gate\" at Gyldenpris in Bergen. The street is named after Norwegian merchant and MP Carl Konow (1806-1876).",
+  "date": "2011-05-29",
+  "categories": [
+    "Carl Konows gate, Bergen",
+    "Gyldenpris",
+    "May 2011 in Bergen, Norway",
+    "Street signs in Norway"
   ],
-  "found_by": "panoramax-ocr:Oslo",
-  "bytes": 3711713,
-  "width": 3416,
-  "height": 2562,
-  "downloaded_url": "https://panoramax.multimodall.com/api/pictures/6bbdc0fa-87f9-4198-9e55-e0ae28945c89/hd.jpg",
-  "derivative": "crop 264,1404,3680,3966 of the 4344x5792 HD picture"
+  "camera_location": null,
+  "found_by": "keyword",
+  "bytes": 594814,
+  "width": 1920,
+  "height": 1285,
+  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Carl_Konows_gate_DSC_0448.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "derivative": ""
 }

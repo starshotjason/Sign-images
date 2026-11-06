@@ -346,5 +346,33 @@
  "c71417686": {
   "accept": false,
   "reason": "no-trucks traffic pictogram only, no place text; motorbike number plates visible"
+ },
+ "c22180365": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "DIOCESE NYUNDO",
+    "lang": "fr"
+   },
+   {
+    "text": "PAROISSE St PIERRE",
+    "lang": "fr"
+   },
+   {
+    "text": "KIBUYE",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "Paroisse St Pierre Kibuye",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Hand-painted blue-on-white board with green frame pointing (red arrow) to St-Pierre church, Kibuye (Karongi), now a genocide memorial; 'St' is written as a superscript with underline. Large stencilled 'JENOSIDE' on the wall at left is a distractor."
  }
 }

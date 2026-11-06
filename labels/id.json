@@ -192,5 +192,125 @@
   },
   "difficulty": "medium",
   "notes": "Faded yellow photo-shop fascia on a corrugated wall, Seminyak, Bali; power lines cross the signs. Tiny 'QUALITY MONITORING SERVICE' under EXPRESS is not transcribed."
+ },
+ "f0f8edecb-94f2-4478-bc0b-7b689634dc55": {
+  "accept": false,
+  "reason": "US Embassy/NBA outreach event group photo; children's faces are the subject, only sponsor banners"
+ },
+ "f157e4694-1156-4a15-99ea-36fc2bafeec1": {
+  "accept": false,
+  "reason": "Dhammapada quotation board (paragraph of text); not a place sign"
+ },
+ "f1f181701-5e82-4e49-8942-4ddd1ca18e76": {
+  "accept": false,
+  "reason": "night portrait of a boy with a toy; no sign"
+ },
+ "f2191d082-fe7d-45d2-b42b-f81677c870e0": {
+  "accept": false,
+  "reason": "'slowdown security check' warning with snail pictogram; the shop advert banner behind is partly hidden"
+ },
+ "f42f7ce81-85f2-4f32-86ce-a8107537b3e1": {
+  "accept": false,
+  "reason": "'DILARANG MEMANJAT / NO CLIMBING' warning plaque; no place name"
+ },
+ "f5028e545-09c6-4078-8aa4-3f1fb7b1cd2e": {
+  "accept": false,
+  "reason": "airport waiting-room interior; no legible target sign"
+ },
+ "f57361619-2c8c-4232-aa31-3f62c6472095": {
+  "accept": false,
+  "reason": "group portrait of people in an alley (faces are the subject); motorbike number plate visible; no sign"
+ },
+ "f6434c538-6131-4f40-b707-c850cea7c981": {
+  "accept": false,
+  "reason": "Ganesha paintings for sale; no sign text"
+ },
+ "f7d3ecec7-4a54-4c90-900c-ba36af8ee157": {
+  "accept": false,
+  "reason": "restaurant fascia name cut off by the frame ('TENTE...'); diners are the focus"
+ },
+ "fa0dd45f1-4abf-4ee7-8343-799914513c43": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ECHO",
+    "lang": "en"
+   },
+   {
+    "text": "BEACH",
+    "lang": "en"
+   },
+   {
+    "text": "far away in time",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Echo Beach",
+   "type": "place"
+  },
+  "difficulty": "easy",
+  "notes": "Large blue letters painted on a white wall at Echo Beach, Canggu, Bali; third line is a tagline. Parked scooters in the foreground; number plate on the right scooter is small and not the subject."
+ },
+ "fb9109924-3f78-40b4-9874-9499430d41d1": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "KAWASAN STRATEGIS",
+    "lang": "id"
+   },
+   {
+    "text": "SENTRA PROMOSI",
+    "lang": "id"
+   },
+   {
+    "text": "PASAR BUNGA RAWA BELONG",
+    "lang": "id"
+   },
+   {
+    "text": "JAKARTA BARAT",
+    "lang": "id"
+   }
+  ],
+  "expect": {
+   "query": "Pasar Bunga Rawa Belong",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Arrow-shaped black board with white letters seen from above through a footbridge railing (film photo, grain and dust). Third line is in smaller condensed letters. A 'SOTO AYAM' stall banner behind is a distractor; a tiny line under 'JAKARTA BARAT' is illegible."
+ },
+ "fc2cd5f80-048a-426e-8fba-e2fa8ab3aa6c": {
+  "accept": false,
+  "reason": "eatery interior with coffee-brand adverts (TORABIKA) and a menu list; no business name"
+ },
+ "fc9adde94-d437-464c-aa55-f000bc672958": {
+  "accept": false,
+  "reason": "indoor mall floor directory with parts of the text blanked out by white patches; no single legible place name"
+ },
+ "fe84f0f1e-d1f0-4f9d-9eae-31cd526a1c87": {
+  "accept": false,
+  "reason": "wrong country: 'BALI HAI the beach' driftwood sign on a porch in New Orleans, USA"
+ },
+ "faf2648fa-8173-4f08-abd0-74c3633b55a6": {
+  "accept": false,
+  "reason": "night shopfront of a convenience store; only a cut-off ginger-drink advert banner and product brands, no shop name"
+ },
+ "fafe1cc82-c466-4c55-b065-6b3e8621cc12": {
+  "accept": false,
+  "reason": "pug behind a gate; no sign"
+ },
+ "fb0da085a-a7a8-44f6-9232-a9eb0d1bddfe": {
+  "accept": false,
+  "reason": "portrait of a tobacco-shop keeper (face is the subject); only handwritten price labels, no shop sign"
  }
 }

@@ -202,5 +202,125 @@
   },
   "difficulty": "easy",
   "notes": "Orange channel letters above a doorway on a granite facade; a red neon circular 'TIERRA' sign in the right window and an A-board menu repeat it. Cables and shadows cross the wall."
+ },
+ "c139827395": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "CARRER",
+    "lang": "ca"
+   },
+   {
+    "text": "VILARS",
+    "lang": "ca"
+   },
+   {
+    "text": "CALLE",
+    "lang": "es"
+   },
+   {
+    "text": "DEL",
+    "lang": "es"
+   },
+   {
+    "text": "VILARS",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Carrer Vilars",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Espolla: two tile street plates on a rubble-stone wall. Upper newer Catalan plate (green border, municipal crest) in a decorative modernista font where the I of VILARS is drawn with a dot above (a letterform, not an accent; transcribed as plain I). Lower older Spanish plate 'CALLE DEL VILARS' with heavily cracked tiles. No accents on either."
+ },
+ "c94562453": {
+  "accept": false,
+  "reason": "ceramic no-parking sign with 'A tota la plaça' (in the whole square); names no specific place"
+ },
+ "c99470647": {
+  "accept": false,
+  "reason": "petrol-station advertising panel ('Qualitat i preu / Calidad y precio / Autoservici 24h') with card logos; pure advert, no station name"
+ },
+ "c11320214": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "JUNTA DE ANDALUCIA",
+    "lang": "es"
+   },
+   {
+    "text": "Presa de",
+    "lang": "es"
+   },
+   {
+    "text": "Rules",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Presa de Rules",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Beige Junta de Andalucía site board on wooden posts in front of the Rules dam (Granada province). 'JUNTA DE ANDALUCIA' runs vertically (bottom-to-top) in a green side band, small, written without an accent on the sign; the main name is large black bold text. Visitors on the dam crest are tiny and incidental."
+ },
+ "c149491787": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ALDEASAZ",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Aldeasaz",
+   "type": "place"
+  },
+  "difficulty": "easy",
+  "notes": "Spanish town-entry sign (white with red border) under a 50 km/h speed-limit roundel, beside a country road with the village and Sierra de Guadarrama behind (Segovia province). Small warning triangle and crossing sign down the road are distractors."
+ },
+ "c21010046": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "PLAZA DEL",
+    "lang": "es"
+   },
+   {
+    "text": "PLATERO",
+    "lang": "es"
+   },
+   {
+    "text": "OQUENDO",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Plaza del Platero Oquendo",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Segovia azulejo street plate set into an ochre wall: large gold patriarchal cross on top; the name below in black serif caps with 'DEL' smaller at the end of the first line, and the base of the cross overlapping 'ZA' of PLAZA."
  }
 }

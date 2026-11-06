@@ -1,23 +1,30 @@
 {
-  "source": "kartaview",
-  "source_url": "https://kartaview.org/details/2832342/350/track-info",
-  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMC83LzI5L3Byb2MvMjgzMjM0Ml82M2ZlNl81ZjIxYjBkMDA4OTI5LmpwZw",
-  "license_as_published": "CC BY-SA 4.0",
-  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
-  "author_as_published": "radnaj",
-  "credit_as_published": "KartaView user radnaj (user id 12405); © KartaView contributors",
-  "title": "KartaView photo 1020761130, sequence 2832342 #350 (Madrid, 2016-05-22)",
-  "description": "Street-level picture on KartaView, taken 2016-05-22 near Madrid by radnaj, sequence 2832342, heading 314.13. OCR (PP-OCRv3) read: TELEMPERADOR | SHOES | COLORS",
-  "date": "2016-05-22",
-  "categories": [],
-  "camera_location": [
-    40.421265,
-    -3.707458
+  "source": "commons",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Plaza_del_Platero_Oquendo_sign_Segovia.jpg",
+  "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Plaza_del_Platero_Oquendo_sign_Segovia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "license_as_published": "CC0",
+  "license_url_as_published": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "author_as_published": "Jebulon",
+  "credit_as_published": "Own work",
+  "title": "File:Plaza del Platero Oquendo sign Segovia.jpg",
+  "description": "Earthenware street sign, Segovia, Spain.",
+  "date": "2012-07-22",
+  "categories": [
+    "Azulejo street signs in Spain",
+    "Earthenware",
+    "Patriarchal cross",
+    "Plaza (text)",
+    "Plaza del Platero Oquendo, Segovia",
+    "Street signs in Segovia"
   ],
-  "found_by": "kartaview-ocr:Madrid",
-  "bytes": 1056594,
-  "width": 3264,
-  "height": 2448,
-  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMC83LzI5L3Byb2MvMjgzMjM0Ml82M2ZlNl81ZjIxYjBkMDA4OTI5LmpwZw",
-  "derivative": "whole 3264x2448 full-size processed (blurred) picture as served by the KartaView CDN (byte-identical; the service blurs faces and number plates), not cropped"
+  "camera_location": [
+    40.948103,
+    -4.121193
+  ],
+  "found_by": "keyword",
+  "bytes": 1790245,
+  "width": 1920,
+  "height": 2470,
+  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Plaza_del_Platero_Oquendo_sign_Segovia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "derivative": ""
 }

@@ -1,29 +1,23 @@
 {
-  "source": "commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Kiosk_med_reklameskilt_Oslo_1800.jpg",
-  "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Kiosk_med_reklameskilt_Oslo_1800.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-  "license_as_published": "CC BY-SA 4.0",
-  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0",
-  "author_as_published": "Peulle",
-  "credit_as_published": "Own work",
-  "title": "File:Kiosk med reklameskilt Oslo 1800.jpg",
-  "description": "Kiosk in an Oslo 1800s suburban house, now at the Norwegian Museum of Cultural History .",
-  "date": "2016-09-27 22:08:52",
-  "categories": [
-    "Advertising signs",
-    "Kiosks in Oslo",
-    "Norsk Folkemuseum",
-    "Norwegian-language signs",
-    "Shop signs in Norway"
-  ],
+  "source": "panoramax",
+  "source_url": "https://panoramax.multimodall.com/#focus=pic&pic=2a531896-bc51-4c55-8cc8-228a1749aa37",
+  "original_url": "https://panoramax.multimodall.com/api/pictures/2a531896-bc51-4c55-8cc8-228a1749aa37/hd.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "km2bp",
+  "credit_as_published": "Panoramax, instance multimodall (https://panoramax.multimodall.com)",
+  "title": "Panoramax picture 2a531896-bc51-4c55-8cc8-228a1749aa37 (Oslo, 2020-05-17)",
+  "description": "Street-level picture on Panoramax, taken 2020-05-17 near Oslo by km2bp, sequence a2603cfd-0566-415d-812e-892d6f6799e4, heading 148. OCR (PP-OCRv3) read: Museumsutstikkeren | Oslo | Forventetferdigstillelse juni 2020 | Apent offentlig omrade | ·Attraktivt publikumsomrade for besokende aret rundt | ·Ni meter hoy bronsestatue“The Mother\" | Uniktokosystemmedmosaikk avlokal blomsterflora | ·Adkomst til torg,bryggeogkai via en 35meter langbro | Kultur-ogidrettsbygg OsloKF | NRC Group | Radgivende ingenior | Ramboll",
+  "date": "2020-05-17",
+  "categories": [],
   "camera_location": [
-    59.90632,
-    10.68731
+    59.904668972,
+    10.753268
   ],
-  "found_by": "keyword",
-  "bytes": 1254628,
-  "width": 1920,
-  "height": 2569,
-  "downloaded_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Kiosk_med_reklameskilt_Oslo_1800.jpg/1920px-Kiosk_med_reklameskilt_Oslo_1800.jpg",
-  "derivative": "Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org)"
+  "found_by": "panoramax-ocr:Oslo",
+  "bytes": 12356796,
+  "width": 4344,
+  "height": 5792,
+  "downloaded_url": "https://panoramax.multimodall.com/api/pictures/2a531896-bc51-4c55-8cc8-228a1749aa37/hd.jpg",
+  "derivative": "whole 4344x5792 HD picture as served by the Panoramax instance (byte-identical; the service blurs faces and number plates), not cropped"
 }

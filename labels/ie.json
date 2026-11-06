@@ -151,5 +151,183 @@
   },
   "difficulty": "medium",
   "notes": "Red hanging flags/boards with white serif text in Temple Bar, Dublin (target: the large board left of centre); the name repeats on several flags, an upper board ('TRADING COMPANY') and a red neon on the fascia. 'GIFTS & SOUVENIRS' window text and 'CLOUD NINE' sign further down are distractors."
+ },
+ "c120110197": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Fáilte go",
+    "lang": "ga"
+   },
+   {
+    "text": "Bóthar na gCloch",
+    "lang": "ga"
+   },
+   {
+    "text": "Welcome to",
+    "lang": "en"
+   },
+   {
+    "text": "Stoneybatter",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Stoneybatter",
+   "type": "place"
+  },
+  "difficulty": "easy",
+  "notes": "Black cast-iron bilingual neighbourhood welcome sign on a Dublin footpath, white serif letters; small cow and figure emblems. Billboard and shop fascias behind are distractors."
+ },
+ "c142037362": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "BEACON SOUTH",
+    "lang": "en"
+   },
+   {
+    "text": "QUARTER",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Beacon South Quarter",
+   "type": "place"
+  },
+  "difficulty": "medium",
+  "notes": "Small white car-park direction sign (P symbols either side, left arrow below) on a pole in Sandyford, Dublin, in front of apartment blocks. Large branded fit-out vans ('Total Fitout') and a 'SANDYFORD CENTRAL' plinth sign behind are distractors."
+ },
+ "c154881454": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "An Margadh Sasanach",
+    "lang": "ga"
+   },
+   {
+    "text": "English Market",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "English Market",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Brown tourist fingerpost in Cork pointing left, Irish above English, with a basket pictogram. Small CE label on the pole is not part of the target."
+ },
+ "c154915607": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "SR. an ĊURTÁNAIĠ",
+    "lang": "ga",
+    "latin": "Sráid an Churtánaigh (MacCurtain Street)"
+   }
+  ],
+  "expect": {
+   "query": "MacCurtain Street",
+   "type": "street"
+  },
+  "difficulty": "medium",
+  "notes": "Unilingual Irish cast-iron street plate in Cork in Gaelic (Insular/uncial) type: dot over C and over the final insular g mark lenition (= Ch, gh); 'SR.' abbreviates Sráid. Letter case is ambiguous in uncial; 'an' is clearly lowercase. Map name is usually the English 'MacCurtain Street'."
+ },
+ "c154931617": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "SRÁID an DROIĊID",
+    "lang": "ga",
+    "latin": "Sráid an Droichid (Bridge Street)"
+   },
+   {
+    "text": "BRIDGE STREET.",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Bridge Street",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Bilingual cast-iron street plate in Cork; Irish line in Gaelic (uncial) type with insular D and a dot over C for lenition (= Droichid). English line in plain capitals with a trailing full stop."
+ },
+ "c159148391": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Coilte Críocháin",
+    "lang": "ga"
+   },
+   {
+    "text": "CUILTYCREAGHAN",
+    "lang": "en"
+   },
+   {
+    "text": "L65518",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "Cuiltycreaghan",
+   "type": "place"
+  },
+  "difficulty": "easy",
+  "notes": "Irish local-road direction sign (chevron pointing left) at the N60 junction in County Mayo: Irish name in italics, English in capitals, local road number below. Pole marker '0948 2' is a distractor."
+ },
+ "c200919475": {
+  "accept": false,
+  "reason": "subject is two rooks; the jeweller's hanging sign is cut off by the frame ('WATCHMA... HARTMA... JEWELLE...')"
+ },
+ "f92470b9c-05fc-4683-b9bc-bf3753151d96": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "the Blue Frog Café",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Blue Frog Café",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Painted shop fascia in Ennistymon, Co. Clare ('the' small, 'Blue Frog' in blue, 'Café' in red). Bilingual fingerposts at right (Galway N67, Ennis N85, Lisdoonvarna, Inagh, Burren Centre Kilfenora) are strong distractors; a person in a passing car is incidental."
  }
 }

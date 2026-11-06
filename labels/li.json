@@ -86,5 +86,233 @@
  "pec990f711c": {
   "accept": false,
   "reason": "wrong country: Swiss A13 motorway sign (St.Gallen / St.Margrethen / München / Feldkirch) in Switzerland"
+ },
+ "c130291266": {
+  "accept": false,
+  "reason": "parish church of Mauren seen from afar; no legible sign"
+ },
+ "c130341349": {
+  "accept": false,
+  "reason": "old cemetery gate in a wall; the only text is a tiny distant 'Mauren' road sign"
+ },
+ "c132632700": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn",
+   "Hani"
+  ],
+  "lines": [
+   {
+    "text": "Liechtensteinisches",
+    "lang": "de"
+   },
+   {
+    "text": "Post Museum",
+    "lang": "de"
+   },
+   {
+    "text": "Täglich 10 – 17 Uhr",
+    "lang": "de"
+   },
+   {
+    "text": "Eintritt frei",
+    "lang": "de"
+   },
+   {
+    "text": "Liechtenstein PostalMuseum",
+    "lang": "en"
+   },
+   {
+    "text": "Daily 10 am – 5 pm",
+    "lang": "en"
+   },
+   {
+    "text": "Free admission",
+    "lang": "en"
+   },
+   {
+    "text": "列支敦士登邮票博物馆",
+    "lang": "zh",
+    "latin": "Lièzhīdūnshìdēng yóupiào bówùguǎn (Liechtenstein Stamp Museum)"
+   },
+   {
+    "text": "每天10:00 —17:00",
+    "lang": "zh",
+    "latin": "Měitiān 10:00–17:00 (daily)"
+   },
+   {
+    "text": "免费参观",
+    "lang": "zh",
+    "latin": "Miǎnfèi cānguān (free admission)"
+   }
+  ],
+  "expect": {
+   "query": "Liechtensteinisches Postmuseum",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Black vinyl lettering on the glass entrance door of the Postal Museum, Städtle 37, Vaduz; large two-line name, then trilingual opening hours. Reflections of the street (and the photographer) on the glass; ghost reflection of the name behind it. Pictograms at the bottom (no food, CCTV, no dogs)."
+ },
+ "c33042539": {
+  "accept": true,
+  "reason": "",
+  "kind": "building tag",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "IAP",
+    "lang": "und"
+   },
+   {
+    "text": "DILIGERE VERITATEM OMNEM ET IN OMNIBUS",
+    "lang": "la"
+   },
+   {
+    "text": "Internationale Akademie",
+    "lang": "de"
+   },
+   {
+    "text": "für Philosophie",
+    "lang": "de"
+   }
+  ],
+  "expect": {
+   "query": "Internationale Akademie für Philosophie",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Small silver wall plate beside a doorway in Gamprin-Bendern; the Latin motto runs in a small circle around 'IAP' and is hard to read; the two-line name in bold sans is clear. Shot at a slight angle, a car mirror at the lower right."
+ },
+ "c73460321": {
+  "accept": true,
+  "reason": "",
+  "kind": "transit",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "SCHAAN-VADUZ",
+    "lang": "de"
+   },
+   {
+    "text": "BAHNHOF",
+    "lang": "de"
+   }
+  ],
+  "expect": {
+   "query": "Schaan-Vaduz",
+   "type": "stop"
+  },
+  "difficulty": "medium",
+  "notes": "Station building of Schaan-Vaduz with the name in black relief letters high on the gable (weathered, streaked) and 'BAHNHOF' above the entrance door. A LIEmobil bus at the right edge is a distractor."
+ },
+ "c73460334": {
+  "accept": false,
+  "reason": "near-duplicate of accepted c73460321 (same Schaan-Vaduz station gable lettering, other angle)"
+ },
+ "c79609094": {
+  "accept": false,
+  "reason": "generic yellow 'Wanderweg' hiking-trail marker; names no place"
+ },
+ "c79622778": {
+  "accept": false,
+  "reason": "'Vogelbrutgebiet ... Durchgang verboten' bird-sanctuary access prohibition; the reserve name appears only in tiny body text"
+ },
+ "c79695066": {
+  "accept": false,
+  "reason": "'Amtsverbot' private-property / no-parking notice (paragraph text); not a place-name sign"
+ },
+ "c79695138": {
+  "accept": false,
+  "reason": "tunnel portal with traffic pictograms and speed limits; no place text"
+ },
+ "c79697440": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Post Vaduz",
+    "lang": "de"
+   },
+   {
+    "text": "455 m",
+    "lang": "und"
+   },
+   {
+    "text": "Zum Rheinauen-Wanderweg",
+    "lang": "de"
+   },
+   {
+    "text": "Haberfeld 10 min",
+    "lang": "de"
+   },
+   {
+    "text": "Schaan 1h 15 min",
+    "lang": "de"
+   },
+   {
+    "text": "Triesen 1h 15 min",
+    "lang": "de"
+   },
+   {
+    "text": "Ruine Wildschloss 1h 15 min",
+    "lang": "de"
+   },
+   {
+    "text": "Gaflei 3h",
+    "lang": "de"
+   },
+   {
+    "text": "Masescha 2h 30 min",
+    "lang": "de"
+   },
+   {
+    "text": "Meierhof 30 min",
+    "lang": "de"
+   },
+   {
+    "text": "Triesen 1h",
+    "lang": "de"
+   },
+   {
+    "text": "Oberdorf 5 min",
+    "lang": "de"
+   },
+   {
+    "text": "Schloss Vaduz 20 min",
+    "lang": "de"
+   },
+   {
+    "text": "Triesenberg 1h 30 min",
+    "lang": "de"
+   },
+   {
+    "text": "Dux 50 min",
+    "lang": "de"
+   },
+   {
+    "text": "Schaan 1h",
+    "lang": "de"
+   },
+   {
+    "text": "Planken 2h",
+    "lang": "de"
+   }
+  ],
+  "expect": {
+   "query": "Schloss Vaduz",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Yellow hiking fingerposts at the 'Post Vaduz' waypoint (455 m) in Vaduz; the white location plate names where the post stands. Times are written with spaces as on the sign ('1h 15 min'). Via Alpina plate on top, a bilingual 'DROHNENVERBOT / NO DRONE ZONE' sign below and a map board at left are distractors."
  }
 }

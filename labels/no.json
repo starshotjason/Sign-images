@@ -206,5 +206,103 @@
  "pe20e15800c": {
   "accept": false,
   "reason": "war memorial plaque listing names; no place, street or business name as the target"
+ },
+ "c51806111": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "KAIRO TOBAKK & FRUKT",
+    "lang": "no"
+   }
+  ],
+  "expect": {
+   "query": "Kairo Tobakk & Frukt",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Black fascia board over the door of a period kiosk at the Norsk Folkemuseum (open-air museum, Oslo), so the shop is a museum exhibit. Many vintage advert distractors: PLAZA så klart!, TIEDEMANNS TEDDY / ALLEMANNS VENN, DRIKK Coca-Cola (disc and sandwich board 'FRUKT / TOBAKK'), Hjemmet, SOUTH STATE, TOY tyggegummi poster, NORSK TIPPING plate and 'Åpen' door sign."
+ },
+ "c51806112": {
+  "accept": false,
+  "reason": "near-duplicate from the same museum kiosk as c51806111; the target is an old Norsk Tipping lottery-agent brand plate rather than the shop's name"
+ },
+ "c15339798": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Carl Konows gate",
+    "lang": "no"
+   }
+  ],
+  "expect": {
+   "query": "Carl Konows gate",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Bergen (Gyldenpris): white enamel street plate on a whitewashed wall, slight angle. Below it a blue oval namesake plaque 'CARL KONOW / 1806 - 1876 / KJØPMANN OG STORTINGSREPRESENTANT' (distractor, small curved text)."
+ },
+ "c7986374": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn",
+   "Cyrl"
+  ],
+  "lines": [
+   {
+    "text": "Kirkegata",
+    "lang": "no"
+   },
+   {
+    "text": "Киркегата",
+    "lang": "ru",
+    "latin": "Kirkegata"
+   }
+  ],
+  "expect": {
+   "query": "Kirkegata",
+   "type": "street"
+  },
+  "difficulty": "medium",
+  "notes": "Kirkenes: two stacked street-name plates on a pole, Norwegian above and a Cyrillic transliteration below, shot from below at an angle; Kirkenes church tower behind. Tiny 'BF 00' maker mark at the lower left of the upper plate."
+ },
+ "c81820276": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Skoltesamisk museum",
+    "lang": "no"
+   },
+   {
+    "text": "Äʹvv saaʹmi muʹzei",
+    "lang": "sms"
+   },
+   {
+    "text": "Kolttasaamelainen museo",
+    "lang": "fi"
+   }
+  ],
+  "expect": {
+   "query": "Skoltesamisk museum",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Neiden: brown tourist direction sign pointing right with a museum pictogram, trilingual Norwegian / Skolt Sami (sms, ISO 639-3) / Finnish. The Skolt Sami line uses the prime letter U+02B9 (ʹ) after Ä, a and u; it looks like an acute mark on the sign. Slight blur."
  }
 }

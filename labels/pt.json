@@ -118,5 +118,249 @@
  "pc52129cc46": {
   "accept": false,
   "reason": "restaurant menu sheet (Jamie Oliver's Pizzeria), not a sign"
+ },
+ "c151657001": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "RUA",
+    "lang": "pt"
+   },
+   {
+    "text": "SARAIVA",
+    "lang": "pt"
+   },
+   {
+    "text": "DE CARVALHO",
+    "lang": "pt"
+   },
+   {
+    "text": "JURISCONSULTO",
+    "lang": "pt"
+   },
+   {
+    "text": "1839 — 1882",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "Rua Saraiva de Carvalho",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Lisbon limestone street plate with four bolts, frontal close-up; black painted incised caps. Subtitle gives the namesake's profession and dates (long dash between years). A paint mark under the final O of CARVALHO is not a character."
+ },
+ "c151657004": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "RUA",
+    "lang": "pt"
+   },
+   {
+    "text": "CARLOS ALBERTO",
+    "lang": "pt"
+   },
+   {
+    "text": "DA MOTA PINTO",
+    "lang": "pt"
+   },
+   {
+    "text": "PROFESSOR UNIVERSITÁRIO E POLÍTICO",
+    "lang": "pt"
+   },
+   {
+    "text": "1936 — 1985",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "Rua Carlos Alberto da Mota Pinto",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Lisbon free-standing pink marble street plate on a stone post, close and frontal; accents on UNIVERSITÁRIO and POLÍTICO. Bus shelter and passers-by in the background (incidental)."
+ },
+ "c158553024": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ROCHA DO NAVIO",
+    "lang": "pt"
+   },
+   {
+    "text": "Teleférico",
+    "lang": "pt"
+   },
+   {
+    "text": "Estrada",
+    "lang": "pt"
+   },
+   {
+    "text": "da",
+    "lang": "pt"
+   },
+   {
+    "text": "Rocha do Navio",
+    "lang": "pt"
+   }
+  ],
+  "expect": {
+   "query": "Rocha do Navio",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Santana, Madeira: white arrow-shaped direction sign with cable-car pictogram and a small 'Santana Madeira Biosfera' logo (tiny, not transcribed), above a green municipal street plate 'Estrada da Rocha do Navio' with coat of arms (tiny 'Câmara Municipal de Santana' caption at the bottom edge is not transcribed)."
+ },
+ "c51167674": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "RUA",
+    "lang": "pt"
+   },
+   {
+    "text": "DA",
+    "lang": "pt"
+   },
+   {
+    "text": "IGREJA VELHA",
+    "lang": "pt"
+   }
+  ],
+  "expect": {
+   "query": "Rua da Igreja Velha",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Albufeira azulejo street plate (tiles) with baroque yellow frame and municipal arms 'CIDADE DE ALBUFEIRA' (small curved text on the crest, distractor). The final A of VELHA is faded on one tile but readable."
+ },
+ "c182590543": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "SUPERMARKET",
+    "lang": "en"
+   },
+   {
+    "text": "SPAR",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "Spar",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Funchal: red/white SPAR fascia with fir-tree logo over a shopping-centre arcade. Distractors: '...INE HOUSE' fascia cut off at left, 'GRAPES & BITES / WINE HOUSE | RESTAURANT' on the glass, 'My BEAUTY LOUNGE / MANICURE · PEDICURE · ESTÉTICA', lower bands 'SUPERMARKET' and 'SUPERMERCADO', small 'CENTRO COMERCIAL AVENIDA' plate, no-entry sign at left. Parked cars in front (plates not the subject)."
+ },
+ "c86337537": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Infantado",
+    "lang": "pt"
+   }
+  ],
+  "expect": {
+   "query": "Infantado",
+   "type": "place"
+  },
+  "difficulty": "medium",
+  "notes": "Loures: weathered locality name sign at an angle beside a road. Ghosted outlines of older removed letters sit behind 'Infantado', plus green spray graffiti and scrubbed-out text above (not transcribed). Distractors: blue '30' advisory speed sign and '800m' plate on the pole at left."
+ },
+ "c62281944": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "RUA",
+    "lang": "pt"
+   },
+   {
+    "text": "DOS",
+    "lang": "pt"
+   },
+   {
+    "text": "GIRASSÓIS",
+    "lang": "pt"
+   }
+  ],
+  "expect": {
+   "query": "Rua dos Girassóis",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Albufeira azulejo street plate (same municipal design as Rua da Igreja Velha, different street) on a cream wall; O-acute in GIRASSÓIS. Crest text 'CIDADE DE ALBUFEIRA' is a small distractor."
+ },
+ "c158230319": {
+  "accept": false,
+  "reason": "landscape view of a viaduct and karting track; the only signs are speed-limit pictograms and distant unreadable panels"
+ },
+ "c129707875": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ALAMEDA",
+    "lang": "pt"
+   },
+   {
+    "text": "DOS",
+    "lang": "pt"
+   },
+   {
+    "text": "COMBATENTES DA GRANDE",
+    "lang": "pt"
+   },
+   {
+    "text": "GUERRA",
+    "lang": "pt"
+   }
+  ],
+  "expect": {
+   "query": "Alameda dos Combatentes da Grande Guerra",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Sintra azulejo street plate with blue/yellow baroque frame and the Sintra coat of arms, set into a stone wall; frontal and sharp."
  }
 }

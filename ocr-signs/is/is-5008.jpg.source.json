@@ -1,23 +1,23 @@
 {
   "source": "panoramax",
-  "source_url": "https://panoramax.ign.fr/#focus=pic&pic=4129b779-6fde-4245-9e63-2a83ef13aa01",
-  "original_url": "https://panoramax.ign.fr/api/pictures/4129b779-6fde-4245-9e63-2a83ef13aa01/hd.jpg",
+  "source_url": "https://panoramax.ign.fr/#focus=pic&pic=0782d21b-1273-4df6-8b33-562de7a93215",
+  "original_url": "https://panoramax.ign.fr/api/pictures/0782d21b-1273-4df6-8b33-562de7a93215/hd.jpg",
   "license_as_published": "etalab-2.0",
   "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
   "author_as_published": "jg13",
   "credit_as_published": "Panoramax, instance ign (https://panoramax.ign.fr)",
-  "title": "Panoramax picture 4129b779-6fde-4245-9e63-2a83ef13aa01 (Reykjavik, 2022-09-09)",
-  "description": "Street-level picture on Panoramax, taken 2022-09-09 near Reykjavik by jg13, sequence 1c93b747-2426-4b69-b1cd-f9bbbbd569e1, heading 0. OCR (PP-OCRv3) read: SKOLAVOFDUSTIGUR 7",
-  "date": "2022-09-09",
+  "title": "Panoramax picture 0782d21b-1273-4df6-8b33-562de7a93215 (Reykjavik, 2025-10-31)",
+  "description": "Street-level picture on Panoramax, taken 2025-10-31 near Reykjavik by jg13, sequence 19337bd5-f0a6-4483-b24b-0e17dd2e6d65, heading 274. OCR (PP-OCRv3) read: MJUK | Iceland",
+  "date": "2025-10-31",
   "categories": [],
   "camera_location": [
-    64.1455968,
-    -21.9322324
+    64.145746,
+    -21.928867
   ],
   "found_by": "panoramax-ocr:Reykjavik",
-  "bytes": 1117773,
-  "width": 2496,
-  "height": 1872,
-  "downloaded_url": "https://panoramax.ign.fr/api/pictures/4129b779-6fde-4245-9e63-2a83ef13aa01/hd.jpg",
-  "derivative": "crop 503,717,2999,2589 of the 3000x4000 HD picture"
+  "bytes": 360186,
+  "width": 1200,
+  "height": 900,
+  "downloaded_url": "https://panoramax.ign.fr/api/pictures/0782d21b-1273-4df6-8b33-562de7a93215/hd.jpg",
+  "derivative": "crop 121,1703,1321,2603 of the 1816x4032 HD picture"
 }

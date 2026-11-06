@@ -1,23 +1,23 @@
 {
-  "source": "panoramax",
-  "source_url": "https://panoramax.mapcomplete.org/#focus=pic&pic=a36f42ac-816c-4de1-8f70-3f88bf1fb80b",
-  "original_url": "https://panoramax.mapcomplete.org/permanent/a3/6f/42/ac/816c-4de1-8f70-3f88bf1fb80b.jpg",
-  "license_as_published": "CC-BY-SA-4.0",
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/9224809/377/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyNC83LzI4L3Byb2MvOTIyNDgwOV8wODMzZmI0NWFiYjFiNmM1MjIwMjgwOWJjMjFjZTg3MS5qcGc",
+  "license_as_published": "CC BY-SA 4.0",
   "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
-  "author_as_published": "mapcomplete",
-  "credit_as_published": "Panoramax, instance mapcomplete (https://panoramax.mapcomplete.org)",
-  "title": "Panoramax picture a36f42ac-816c-4de1-8f70-3f88bf1fb80b (Madrid, 2026-06-08)",
-  "description": "Street-level picture on Panoramax, taken 2026-06-08 near Madrid by mapcomplete, sequence a7cf963f-8d1c-4bac-9717-e3149f5f9fff, heading 204. OCR (PP-OCRv3) read: TIERRA",
-  "date": "2026-06-08",
+  "author_as_published": "polkillas",
+  "credit_as_published": "KartaView user polkillas (user id 1609); © KartaView contributors",
+  "title": "KartaView photo 2027068841, sequence 9224809 #377 (Madrid, 2024-07-28)",
+  "description": "Street-level picture on KartaView, taken 2024-07-28 near Madrid by polkillas, sequence 9224809, heading 44.47. OCR (PP-OCRv3) read: HMARLASUA | TM.Cajero",
+  "date": "2024-07-28",
   "categories": [],
   "camera_location": [
-    40.416004391,
-    -3.70235877
+    40.415491,
+    -3.7019
   ],
-  "found_by": "panoramax-ocr:Madrid",
-  "bytes": 2695484,
-  "width": 2898,
-  "height": 2173,
-  "downloaded_url": "https://panoramax.mapcomplete.org/permanent/a3/6f/42/ac/816c-4de1-8f70-3f88bf1fb80b.jpg",
-  "derivative": "crop 248,471,3146,2644 of the 4032x3024 HD picture"
+  "found_by": "kartaview-ocr:Madrid",
+  "bytes": 139579,
+  "width": 1200,
+  "height": 900,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyNC83LzI4L3Byb2MvOTIyNDgwOV8wODMzZmI0NWFiYjFiNmM1MjIwMjgwOWJjMjFjZTg3MS5qcGc",
+  "derivative": "crop 0,578,1200,1478 of the 3840x2160 full-size processed (blurred) picture"
 }

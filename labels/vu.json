@@ -314,5 +314,57 @@
  "c77669299": {
   "accept": false,
   "reason": "crop of c57631946 showing only the 'WELKAM LO VANUATU' slogan letters held by people; slogan, near-duplicate"
+ },
+ "c17714264": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "WAN SMOL BAG",
+    "lang": "bi"
+   },
+   {
+    "text": "Yut Senta",
+    "lang": "bi"
+   },
+   {
+    "text": "ples blong evri yut evri dei",
+    "lang": "bi"
+   }
+  ],
+  "expect": {
+   "query": "Wan Smol Bag",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Name hand-painted in large colourful letters on the end wall of the Wan Smol Bag youth centre, Port Vila (Bislama: 'Youth Centre, a place for every youth every day'). Third line is a tagline. Partial 'WELCOME' mural on the building at right is a distractor."
+ },
+ "c195170476": {
+  "accept": false,
+  "reason": "weathered 1906 Anglo-French Convention commemorative plaque, blurred and partly illegible; historical inscription, not a place-name sign"
+ },
+ "c58867624": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "MING KAI STORE",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Ming Kai Store",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Pink lettering on a white fascia board above a shopfront in Port Vila. A second board at right reading 'Retail...' is cut off by the frame; Maggi advert and parked van are distractors."
  }
 }

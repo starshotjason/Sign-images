@@ -1,23 +1,23 @@
 {
-  "source": "kartaview",
-  "source_url": "https://kartaview.org/details/9301/667/track-info",
-  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMS5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE2LzcvMTEvcHJvYy85MzAxX2Q3Y2VkXzU3ODNjOTA3Yjk4MDAuanBn",
-  "license_as_published": "CC BY-SA 4.0",
+  "source": "panoramax",
+  "source_url": "https://panoramax.multimodall.com/#focus=pic&pic=9ab10b15-c700-4b69-8d89-b50e474e7651",
+  "original_url": "https://panoramax.multimodall.com/api/pictures/9ab10b15-c700-4b69-8d89-b50e474e7651/hd.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
   "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
-  "author_as_published": "telenavdrives",
-  "credit_as_published": "KartaView user telenavdrives (user id 53); © KartaView contributors",
-  "title": "KartaView photo 4016832, sequence 9301 #667 (Oslo, 2016-07-06)",
-  "description": "Street-level picture on KartaView, taken 2016-07-06 near Oslo by telenavdrives, sequence 9301, heading 106.34. OCR (PP-OCRv3) read: THE SA | THE SALE IS HERE | STEEN&S | THE SALEIS HERE | MAGAS | SALEISHERE | STEEN&STROM | FORTAUSTENGT | SALG",
-  "date": "2016-07-06",
+  "author_as_published": "km2bp",
+  "credit_as_published": "Panoramax, instance multimodall (https://panoramax.multimodall.com)",
+  "title": "Panoramax picture 9ab10b15-c700-4b69-8d89-b50e474e7651 (Oslo, 2020-05-17)",
+  "description": "Street-level picture on Panoramax, taken 2020-05-17 near Oslo by km2bp, sequence c5ebb91f-44b1-427d-9f12-6fb246495ea5, heading 246. OCR (PP-OCRv3) read: JOHANNE DYBWAN",
+  "date": "2020-05-17",
   "categories": [],
   "camera_location": [
-    59.912133,
-    10.743658
+    59.914982,
+    10.733701972
   ],
-  "found_by": "kartaview-ocr:Oslo",
-  "bytes": 855999,
-  "width": 3264,
-  "height": 2448,
-  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMS5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE2LzcvMTEvcHJvYy85MzAxX2Q3Y2VkXzU3ODNjOTA3Yjk4MDAuanBn",
-  "derivative": "whole 3264x2448 full-size processed (blurred) picture as served by the KartaView CDN (byte-identical; the service blurs faces and number plates), not cropped"
+  "found_by": "panoramax-ocr:Oslo",
+  "bytes": 6200007,
+  "width": 4344,
+  "height": 3359,
+  "downloaded_url": "https://panoramax.multimodall.com/api/pictures/9ab10b15-c700-4b69-8d89-b50e474e7651/hd.jpg",
+  "derivative": "crop 0,2388,4344,5747 of the 4344x5792 HD picture"
 }

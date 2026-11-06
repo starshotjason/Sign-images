@@ -1,27 +1,26 @@
 {
   "source": "commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:San_Marino_City,_view_from_Via_Jacopo_Istriani.jpg",
-  "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/San_Marino_City%2C_view_from_Via_Jacopo_Istriani.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source_url": "https://commons.wikimedia.org/wiki/File:RSM-Acquaviva11.jpg",
+  "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/RSM-Acquaviva11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
   "license_as_published": "CC BY-SA 4.0",
   "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0",
-  "author_as_published": "Андрей Романенко",
+  "author_as_published": "Szeder László",
   "credit_as_published": "Own work",
-  "title": "File:San Marino City, view from Via Jacopo Istriani.jpg",
-  "description": "San Marino City, view from Via Jacopo Istriani",
-  "date": "2025-07-30 19:35:52",
+  "title": "File:RSM-Acquaviva11.jpg",
+  "description": "Acquaviva - helységnévtábla (Via Seconda Gualdaria)",
+  "date": "2016-06-13 11:43:01",
   "categories": [
-    "No parking signs in San Marino",
-    "Via Jacopo Istriani (San Marino)",
-    "Views of San Marino"
+    "Acquaviva (San Marino)",
+    "Signs in San Marino"
   ],
   "camera_location": [
-    43.932153,
-    12.449258
+    43.947342,
+    12.417474
   ],
   "found_by": "keyword",
-  "bytes": 1141993,
-  "width": 1920,
-  "height": 2550,
-  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/San_Marino_City%2C_view_from_Via_Jacopo_Istriani.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "bytes": 975944,
+  "width": 1280,
+  "height": 1707,
+  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/RSM-Acquaviva11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
   "derivative": ""
 }

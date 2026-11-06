@@ -130,5 +130,9 @@
   },
   "difficulty": "easy",
   "notes": "Roadside painted signboard in a metal frame; red/green/red lines. Address part is Parker's Corner, Brewerville. A pedestrian on the road is incidental."
+ },
+ "c56797737": {
+  "accept": false,
+  "reason": "STOP traffic sign is the subject; no place text (small street-name blade at left is illegible)"
  }
 }

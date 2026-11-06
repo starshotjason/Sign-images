@@ -1,23 +1,28 @@
 {
-  "source": "kartaview",
-  "source_url": "https://kartaview.org/details/3740997/166/track-info",
-  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMS83LzI1L3Byb2MvMzc0MDk5N18wN2M2NzA3YWNhY2QyNjc0ODExNzcxMTUzZmNkNzUzZS5qcGc",
-  "license_as_published": "CC BY-SA 4.0",
-  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
-  "author_as_published": "cageythree",
-  "credit_as_published": "KartaView user cageythree (user id 17711); © KartaView contributors",
-  "title": "KartaView photo 1348492993, sequence 3740997 #166 (Amsterdam, 2021-07-16)",
-  "description": "Street-level picture on KartaView, taken 2021-07-16 near Amsterdam by cageythree, sequence 3740997, heading 3.37. OCR (PP-OCRv3) read: TH-BAKERY | SSAN | GASSAN | LUCY'S",
-  "date": "2021-07-16",
-  "categories": [],
-  "camera_location": [
-    52.371971,
-    4.892919
+  "source": "commons",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Door_de_dijkcoupure_naar_Eemshaven_(34151928763).jpg",
+  "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Door_de_dijkcoupure_naar_Eemshaven_%2834151928763%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "license_as_published": "CC BY 2.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by/2.0",
+  "author_as_published": "m66roepers from Nederland",
+  "credit_as_published": "Door de dijkcoupure naar Eemshaven",
+  "title": "File:Door de dijkcoupure naar Eemshaven (34151928763).jpg",
+  "description": "Approaching Eemshaven through a vehicle gate in the levee Camera: Canon Eos 3000 Film: Fujifilm Superia X-tra 400 ISO",
+  "date": "2017-04-22 00:00",
+  "categories": [
+    "Coupures in the Netherlands",
+    "Eemshaven",
+    "Recumbent bicycles in the Netherlands",
+    "Sinner recumbents"
   ],
-  "found_by": "kartaview-ocr:Amsterdam",
-  "bytes": 310261,
-  "width": 1200,
-  "height": 900,
-  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMS83LzI1L3Byb2MvMzc0MDk5N18wN2M2NzA3YWNhY2QyNjc0ODExNzcxMTUzZmNkNzUzZS5qcGc",
-  "derivative": "crop 2800,214,4000,1114 of the 4000x2250 full-size processed (blurred) picture"
+  "camera_location": [
+    53.436869,
+    6.793413
+  ],
+  "found_by": "keyword",
+  "bytes": 336990,
+  "width": 1280,
+  "height": 853,
+  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Door_de_dijkcoupure_naar_Eemshaven_%2834151928763%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "derivative": ""
 }

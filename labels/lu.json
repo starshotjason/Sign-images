@@ -123,5 +123,237 @@
  "pce9557f2c5": {
   "accept": false,
   "reason": "traffic sign plates (yield sign, 'excepté / frei' cyclist exception); no place name"
+ },
+ "c176812964": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "RUE",
+    "lang": "fr"
+   },
+   {
+    "text": "Norbert METZ",
+    "lang": "fr"
+   },
+   {
+    "text": "Industriel",
+    "lang": "fr"
+   },
+   {
+    "text": "1811 - 1885",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "Rue Norbert Metz",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Dudelange white street plate with double black border, frontal close-up. Top-left municipal logo 'DIDDELENG / VILLE DE DUDELANGE' (lb/fr town name, distractor). Name line is mixed case 'Norbert' + caps 'METZ'; italic subtitle gives the namesake's role and dates."
+ },
+ "c176813175": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "RUE",
+    "lang": "fr"
+   },
+   {
+    "text": "Sidney THOMAS",
+    "lang": "fr"
+   },
+   {
+    "text": "Ingénieur métallurgiste",
+    "lang": "fr"
+   },
+   {
+    "text": "1850 - 1885",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "Rue Sidney Thomas",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Dudelange street plate, same municipal design as Rue Norbert Metz but a different street. Logo 'DIDDELENG / VILLE DE DUDELANGE' top-left. Italic subtitle with accents (Ingénieur métallurgiste) and dates."
+ },
+ "c88014483": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "BISSERWEG",
+    "lang": "de"
+   },
+   {
+    "text": "Biisserwee",
+    "lang": "lb"
+   }
+  ],
+  "expect": {
+   "query": "Bisserweg",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Luxembourg City bilingual plate on a sandstone wall: official German name in bold caps, Luxembourgish name in italic below (note double i in 'Biisserwee')."
+ },
+ "c182415519": {
+  "accept": false,
+  "reason": "in-store department banner ('nos poissons / ons Fësch' = our fish) in a pet shop; main text names no place, the small josy welter logo is incidental"
+ },
+ "c81610630": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "SCHRASSIG",
+    "lang": "de"
+   },
+   {
+    "text": "Schraasseg",
+    "lang": "lb"
+   }
+  ],
+  "expect": {
+   "query": "Schrassig",
+   "type": "place"
+  },
+  "difficulty": "medium",
+  "notes": "Yellow town-entry sign (Luxembourg E,9a) in a roadside scene: official name in caps, Luxembourgish name in italic. Distractors above: 50 speed-limit roundel, priority-road diamond, yellow road-number plate '132' (CR132)."
+ },
+ "c82270965": {
+  "accept": false,
+  "reason": "dense trilingual history information panel (Battle of the Bulge, Clervaux); paragraphs of text, no single name board as target"
+ },
+ "c116074777": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "PLACE",
+    "lang": "fr"
+   },
+   {
+    "text": "D’ARMES",
+    "lang": "fr"
+   },
+   {
+    "text": "Plëss",
+    "lang": "lb"
+   }
+  ],
+  "expect": {
+   "query": "Place d'Armes",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Luxembourg City bilingual plate, slightly from below. French official name in caps (typographic apostrophe in D’ARMES), Luxembourgish 'Plëss' with e-diaeresis in italic below."
+ },
+ "c116074778": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "RUE DE",
+    "lang": "fr"
+   },
+   {
+    "text": "STRASBOURG",
+    "lang": "fr"
+   },
+   {
+    "text": "Nilleswee",
+    "lang": "lb"
+   }
+  ],
+  "expect": {
+   "query": "Rue de Strasbourg",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Luxembourg City bilingual plate on dark polished granite with reflections; Luxembourgish traditional name 'Nilleswee' in italic below. A faint reflected word in the granite below the plate is not part of the sign."
+ },
+ "c116074780": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "RUE",
+    "lang": "fr"
+   },
+   {
+    "text": "NOTRE-DAME",
+    "lang": "fr"
+   },
+   {
+    "text": "Ënneschtgaass",
+    "lang": "lb"
+   }
+  ],
+  "expect": {
+   "query": "Rue Notre-Dame",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Luxembourg City bilingual plate on a rendered wall, slight upward angle. Luxembourgish name starts with capital E-diaeresis: 'Ënneschtgaass'."
+ },
+ "c116074781": {
+  "accept": false,
+  "reason": "near-duplicate: same Avenue de la Gare / Al Avenue plate text as accepted p6130f942fc"
+ },
+ "c31154846": {
+  "accept": true,
+  "reason": "",
+  "kind": "transit",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "GARE",
+    "lang": "fr"
+   },
+   {
+    "text": "ROUTIERE",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "Gare routière",
+   "type": "stop"
+  },
+  "difficulty": "easy",
+  "notes": "Luxembourg H,3a bus-station sign: yellow panel, black caps 'GARE ROUTIERE' (written without the accent on the sign) above a blue panel with a bus pictogram. Generic bus-station designation rather than a unique name. A tiny stop plate '59/RUGBY' at lower right is a distractor too small to rely on."
  }
 }

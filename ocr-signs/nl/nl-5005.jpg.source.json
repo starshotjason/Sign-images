@@ -1,23 +1,34 @@
 {
-  "source": "kartaview",
-  "source_url": "https://kartaview.org/details/3740997/196/track-info",
-  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMS83LzI1L3Byb2MvMzc0MDk5N18xOTRhNWM1N2MwNGE2Y2NkZjhjNWQ1OTA3MmViODg2OC5qcGc",
+  "source": "commons",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Bredevoort_(NL),_Gesch%C3%A4ft_an_Het_Zand_--_2016_--_4174.jpg",
+  "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Bredevoort_%28NL%29%2C_Gesch%C3%A4ft_an_Het_Zand_--_2016_--_4174.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
   "license_as_published": "CC BY-SA 4.0",
-  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
-  "author_as_published": "cageythree",
-  "credit_as_published": "KartaView user cageythree (user id 17711); © KartaView contributors",
-  "title": "KartaView photo 1348493117, sequence 3740997 #196 (Amsterdam, 2021-07-16)",
-  "description": "Street-level picture on KartaView, taken 2021-07-16 near Amsterdam by cageythree, sequence 3740997, heading 37.92. OCR (PP-OCRv3) read: BEURS VAN BERLA | BIKERE",
-  "date": "2021-07-16",
-  "categories": [],
-  "camera_location": [
-    52.374757,
-    4.895266
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author_as_published": "Dietmar Rabich",
+  "credit_as_published": "Own work",
+  "title": "File:Bredevoort (NL), Geschäft an Het Zand -- 2016 -- 4174.jpg",
+  "description": "Shop at the street “Het Zand” in Bredevoort , Gelderland , Netherlands",
+  "date": "Taken on 20 August 2016, 14:45",
+  "categories": [
+    "'t Zand 2, Bredevoort",
+    "1744 architectural dates",
+    "1 building in the Netherlands",
+    "2016 in Bredevoort",
+    "Commercial signage in the Netherlands",
+    "Freestanding sandwich boards in the Netherlands",
+    "Half hipped roofs in the Netherlands",
+    "Shops in Bredevoort",
+    "Shops in the Netherlands photographed in 2016",
+    "White parasols"
   ],
-  "found_by": "kartaview-ocr:Amsterdam",
-  "bytes": 1081432,
-  "width": 4000,
-  "height": 2250,
-  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMS83LzI1L3Byb2MvMzc0MDk5N18xOTRhNWM1N2MwNGE2Y2NkZjhjNWQ1OTA3MmViODg2OC5qcGc",
-  "derivative": "whole 4000x2250 full-size processed (blurred) picture as served by the KartaView CDN (byte-identical; the service blurs faces and number plates), not cropped"
+  "camera_location": [
+    51.94361,
+    6.618317
+  ],
+  "found_by": "keyword",
+  "bytes": 826674,
+  "width": 1920,
+  "height": 1536,
+  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Bredevoort_%28NL%29%2C_Gesch%C3%A4ft_an_Het_Zand_--_2016_--_4174.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "derivative": ""
 }

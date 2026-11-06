@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/1311835/219/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlOS5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE4LzEyLzYvcHJvYy8xMzExODM1XzRfZmYzNmFfMjAuanBn",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "telenavdrives",
+  "credit_as_published": "KartaView user telenavdrives (user id 53); © KartaView contributors",
+  "title": "KartaView photo 334708771, sequence 1311835 #219 (Zurich, 2018-12-01)",
+  "description": "Street-level picture on KartaView, taken 2018-12-01 near Zurich by telenavdrives, sequence 1311835, heading 27.86. OCR (PP-OCRv3) read: Central | HOTEL St.Gotthard | ROBO | SMARTASS | ETMANAG",
+  "date": "2018-12-01",
+  "categories": [],
+  "camera_location": [
+    47.376689,
+    8.538112
+  ],
+  "found_by": "kartaview-ocr:Zurich",
+  "bytes": 801056,
+  "width": 2018,
+  "height": 1513,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlOS5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE4LzEyLzYvcHJvYy8xMzExODM1XzRfZmYzNmFfMjAuanBn",
+  "derivative": "crop 573,0,2591,1513 of the 2592x1936 full-size processed (blurred) picture"
+}

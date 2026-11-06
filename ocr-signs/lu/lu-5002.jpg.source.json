@@ -1,23 +1,28 @@
 {
-  "source": "panoramax",
-  "source_url": "https://panoramax.mapcomplete.org/#focus=pic&pic=8771697f-3079-4891-9897-178eb55aee56",
-  "original_url": "https://panoramax.mapcomplete.org/permanent/87/71/69/7f/3079-4891-9897-178eb55aee56.jpg",
-  "license_as_published": "CC-BY-SA-4.0",
-  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
-  "author_as_published": "mapcomplete",
-  "credit_as_published": "Panoramax, instance mapcomplete (https://panoramax.mapcomplete.org)",
-  "title": "Panoramax picture 8771697f-3079-4891-9897-178eb55aee56 (Luxembourg, 2021-07-12)",
-  "description": "Street-level picture on Panoramax, taken 2021-07-12 near Luxembourg by mapcomplete, sequence 1de6f4a1-73ac-4c75-ab7f-2a2aabddf50a, heading 258. OCR (PP-OCRv3) read: Bicherschaf | book it! | KEPLER PAGANNE JAPANDL | CRUNESEE | RIGER | LOSALAMOS | Petra | www.vdl.lu/bicherschaf",
-  "date": "2021-07-12",
-  "categories": [],
-  "camera_location": [
-    49.6127783,
-    6.130634
+  "source": "commons",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Dudelange,_Rue_Sidney_Thomas,_street_name_sign.jpg",
+  "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Dudelange%2C_Rue_Sidney_Thomas%2C_street_name_sign.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author_as_published": "Volvox",
+  "credit_as_published": "Own work",
+  "title": "File:Dudelange, Rue Sidney Thomas, street name sign.jpg",
+  "description": "Dudelange, Rue Sidney Thomas, street name sign",
+  "date": "12 October 2025 (according to Exif data)",
+  "categories": [
+    "French-language street signs in Luxembourg",
+    "October 2025 Luxembourg photographs",
+    "Sidney Gilchrist Thomas",
+    "Street signs in Dudelange"
   ],
-  "found_by": "panoramax-ocr:Luxembourg",
-  "bytes": 873701,
-  "width": 1814,
-  "height": 1533,
-  "downloaded_url": "https://panoramax.mapcomplete.org/permanent/87/71/69/7f/3079-4891-9897-178eb55aee56.jpg",
-  "derivative": "crop 0,201,1814,1734 of the 1814x2419 HD picture"
+  "camera_location": [
+    49.48785,
+    6.088287
+  ],
+  "found_by": "keyword",
+  "bytes": 396893,
+  "width": 1920,
+  "height": 1152,
+  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Dudelange%2C_Rue_Sidney_Thomas%2C_street_name_sign.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "derivative": ""
 }

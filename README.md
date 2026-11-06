@@ -1,6 +1,6 @@
 # StreetZim sign-reader photo set (world)
 
-**1859 openly licensed photos of street signs, address plates, business signs and landmark name boards across 185 countries**, 1768 of them visually transcribed (1700 MB). Built for the photo search (`--ocr` sign reader) in [jasontitus/streetzim](https://github.com/jasontitus/streetzim), using the record format of its `docs/ocr-test-set.md` and `tests/fixtures/ocr-signs/`.
+**1852 openly licensed photos of street signs, address plates, business signs and landmark name boards across 184 countries**, 1830 of them visually transcribed (1674 MB). Built for the photo search (`--ocr` sign reader) in [jasontitus/streetzim](https://github.com/jasontitus/streetzim), using the record format of its `docs/ocr-test-set.md` and `tests/fixtures/ocr-signs/`.
 
 Score it with streetzim's runner:
 
@@ -24,36 +24,32 @@ python3 tools/ocr_photos.py --set <this repo>/ocr-signs --maps <maps folder> --o
 
 This cloud crawler's IP was throttled by Wikimedia's and Flickr's original-file servers, so some files are the sources' own published renditions rather than originals; each record's `derivative` field says exactly which (empty = byte-unmodified original):
 
-- 1260: original
-- 58: Wikimedia Commons standard 1920px-wide rendition
-- 36: Flickr's published 1024 px 'large' rendition, served by the Openverse image API
-- 23: whole 4000x3000 HD picture as served by the Panoramax instance
+- 1320: original
+- 33: Flickr's published 1024 px 'large' rendition, served by the Openverse image API
+- 23: Wikimedia Commons standard 1920px-wide rendition
+- 22: whole 4000x3000 HD picture as served by the Panoramax instance
 - 16: rectilinear
 - 10: whole 1280x960 HD picture as served by the Panoramax instance
 - 10: whole 4032x3024 HD picture as served by the Panoramax instance
-- 9: whole 3840x2160 full-size processed
+- 8: whole 3840x2160 full-size processed
 - 7: crop 720,0,1920,900 of the 1920x1080 full-size processed
 - 6: whole 3072x1728 full-size processed
 - 6: whole 1920x1080 full-size processed
 - 6: whole 3264x2448 full-size processed
-- 5: Wikimedia Commons standard 1280px-wide rendition
-- 5: whole 4080x3060 HD picture as served by the Panoramax instance
 - 5: whole 3264x1836 full-size processed
 - 5: whole 3072x4080 HD picture as served by the Panoramax instance
+- 4: whole 4080x3060 HD picture as served by the Panoramax instance
 - 4: crop 0,0,1200,900 of the 1920x1080 full-size processed
 - 4: whole 4096x2304 full-size processed
 - 4: whole 3840x2160 HD picture as served by the Panoramax instance
 - 4: whole 1440x1080 HD picture as served by the Panoramax instance
-- 4: whole 4080x3072 HD picture as served by the Panoramax instance
 - 3: whole 3072x1728 HD picture as served by the Panoramax instance
 - 3: whole 4000x2250 HD picture as served by the Panoramax instance
 - 3: whole 3072x4096 HD picture as served by the Panoramax instance
 - 3: crop 0,0,1200,900 of the 1440x1080 full-size processed
 - 3: whole 4032x3024 full-size processed
 - 3: whole 3264x2448 HD picture as served by the Panoramax instance
-- 3: whole 2592x1936 full-size processed
 - 3: whole 4624x2604 HD picture as served by the Panoramax instance
-- 3: whole 4000x2250 full-size processed
 - 3: whole 4080x2295 HD picture as served by the Panoramax instance
 - 2: whole 1049x634 HD picture as served by the Panoramax instance
 - 2: whole 3264x1840 full-size processed
@@ -62,10 +58,12 @@ This cloud crawler's IP was throttled by Wikimedia's and Flickr's original-file 
 - 2: whole 2160x3840 HD picture as served by the Panoramax instance
 - 2: whole 2880x1620 full-size processed
 - 2: whole 4000x3000 full-size processed
+- 2: whole 2592x1936 full-size processed
 - 2: whole 1440x1920 HD picture as served by the Panoramax instance
 - 2: whole 1816x4032 HD picture as served by the Panoramax instance
-- 2: crop 720,180,1920,1080 of the 1920x1080 full-size processed
+- 2: whole 4080x3072 HD picture as served by the Panoramax instance
 - 2: whole 4344x5792 HD picture as served by the Panoramax instance
+- 2: whole 4000x2250 full-size processed
 - 1: crop 1887,0,4623,2052 of the 4624x3468 HD picture
 - 1: crop 803,912,2175,1941 of the 4624x3468 HD picture
 - 1: crop 75,0,3405,2160 of the 3840x2160 HD picture
@@ -227,11 +225,8 @@ This cloud crawler's IP was throttled by Wikimedia's and Flickr's original-file 
 - 1: crop 0,1418,1200,2318 of the 2268x4032 HD picture
 - 1: crop 140,1596,1789,2832 of the 1816x4032 HD picture
 - 1: crop 121,1703,1321,2603 of the 1816x4032 HD picture
-- 1: crop 503,717,2999,2589 of the 3000x4000 HD picture
 - 1: crop 819,1574,3379,3494 of the 4284x5712 HD picture
 - 1: whole 3014x3997 HD picture as served by the Panoramax instance
-- 1: crop 0,0,3257,1800 of the 4000x1800 HD picture
-- 1: crop 496,1036,1696,1936 of the 4032x3024 full-size processed
 - 1: crop 1283,904,2483,1804 of the 3840x2160 full-size processed
 - 1: whole 3500x2636 HD picture as served by the Panoramax instance
 - 1: crop 2375,1,3737,1022 of the 4032x3024 full-size processed
@@ -243,8 +238,6 @@ This cloud crawler's IP was throttled by Wikimedia's and Flickr's original-file 
 - 1: crop 0,615,3072,4053 of the 3072x4080 HD picture
 - 1: crop 605,193,1805,1093 of the 2592x1936 full-size processed
 - 1: crop 0,201,1814,1734 of the 1814x2419 HD picture
-- 1: crop 1275,0,2932,1243 of the 3840x2160 HD picture
-- 1: crop 1497,47,3034,1200 of the 3840x2160 HD picture
 - 1: crop 2609,1023,3999,2065 of the 4000x3000 full-size processed
 - 1: crop 2620,1265,3820,2165 of the 4000x3000 full-size processed
 - 1: crop 0,0,2192,1512 of the 2592x1512 full-size processed
@@ -256,21 +249,16 @@ This cloud crawler's IP was throttled by Wikimedia's and Flickr's original-file 
 - 1: crop 2356,557,3556,1457 of the 3840x2160 HD picture
 - 1: whole 4096x2160 HD picture as served by the Panoramax instance
 - 1: crop 2800,214,4000,1114 of the 4000x2250 full-size processed
-- 1: crop 1290,0,3547,1693 of the 4000x3000 full-size processed
 - 1: crop 360,342,2029,1594 of the 4032x3024 HD picture
 - 1: crop 817,306,2017,1206 of the 4032x3024 HD picture
 - 1: crop 0,559,2793,2653 of the 4032x3024 HD picture
 - 1: crop 0,2388,4344,5747 of the 4344x5792 HD picture
 - 1: crop 264,1404,3680,3966 of the 4344x5792 HD picture
-- 1: crop 1000,476,4178,2860 of the 4344x5792 HD picture
 - 1: crop 1649,266,3264,1477 of the 3264x1478 HD picture
 - 1: crop 1269,413,2592,1405 of the 2592x1936 full-size processed
 - 1: crop 425,0,4031,2705 of the 4032x3024 HD picture
-- 1: crop 1907,55,3954,1590 of the 4032x3024 HD picture
 - 1: crop 0,513,1200,1413 of the 2592x1936 full-size processed
 - 1: crop 1436,0,2908,1104 of the 3264x1836 full-size processed
-- 1: crop 1486,107,3041,1273 of the 3264x1836 full-size processed
-- 1: crop 0,1257,1200,2157 of the 1840x4096 HD picture
 - 1: crop 6752,863,8908,2480 of the 13304x3632 HD picture
 - 1: crop 1952,1123,3152,2023 of the 4032x3024 full-size processed
 - 1: crop 705,0,2560,1391 of the 2560x1440 HD picture
@@ -290,19 +278,15 @@ This cloud crawler's IP was throttled by Wikimedia's and Flickr's original-file 
 - 1: crop 0,624,3072,4080 of the 3072x4080 HD picture
 - 1: whole 3953x2965 HD picture as served by the Panoramax instance
 - 1: crop 1590,306,4031,2136 of the 4032x3024 full-size processed
-- 1: crop 42,240,3072,2512 of the 3072x4080 HD picture
 - 1: crop 1488,229,2688,1129 of the 2688x1512 full-size processed
 - 1: crop 0,0,1200,900 of the 2688x1512 full-size processed
 - 1: crop 0,578,1200,1478 of the 3840x2160 full-size processed
 - 1: crop 2135,854,3859,2147 of the 4032x3024 HD picture
 - 1: whole 4208x3120 full-size processed
 - 1: crop 248,471,3146,2644 of the 4032x3024 HD picture
-- 1: crop 1694,577,2894,1477 of the 3264x2448 full-size processed
 - 1: crop 310,0,3840,2160 of the 3840x2160 HD picture
 - 1: crop 0,120,2385,1908 of the 3840x2160 full-size processed
 - 1: crop 250,359,3930,3119 of the 4160x3120 HD picture
-- 1: crop 1018,360,2341,1352 of the 2592x1936 full-size processed
-- 1: whole 3000x2250 HD picture as served by the Panoramax instance
 - 1: crop 314,0,1514,900 of the 2592x1936 full-size processed
 - 1: crop 311,37,1888,1219 of the 5312x2988 full-size processed
 - 1: crop 3846,1071,5046,1971 of the 5184x3888 HD picture
@@ -310,8 +294,6 @@ This cloud crawler's IP was throttled by Wikimedia's and Flickr's original-file 
 - 1: crop 0,558,2625,2526 of the 4000x3000 HD picture
 - 1: crop 1498,0,5183,2764 of the 5184x3888 HD picture
 - 1: crop 573,0,2591,1513 of the 2592x1936 full-size processed
-- 1: crop 0,227,2278,1935 of the 2592x1936 full-size processed
-- 1: crop 1073,412,2591,1551 of the 2592x1936 full-size processed
 - 1: crop 462,231,1662,1131 of the 2000x1500 HD picture
 - 1: whole 2448x3264 HD picture as served by the Panoramax instance
 - 1: crop 167,10,4079,2944 of the 4080x3060 HD picture
@@ -368,6 +350,7 @@ This cloud crawler's IP was throttled by Wikimedia's and Flickr's original-file 
 - 1: whole 4160x3120 HD picture as served by the Panoramax instance
 - 1: crop 1680,0,3840,1620 of the 3840x2160 full-size processed
 - 1: crop 428,0,1920,1080 of the 1920x1080 full-size processed
+- 1: crop 720,180,1920,1080 of the 1920x1080 full-size processed
 - 1: crop 0,131,1200,1031 of the 1920x1080 full-size processed
 - 1: crop 425,155,1625,1055 of the 1920x1080 full-size processed
 - 1: crop 0,80,1200,980 of the 1920x1080 full-size processed
@@ -391,37 +374,37 @@ This cloud crawler's IP was throttled by Wikimedia's and Flickr's original-file 
 
 | Source | Photos |
 |---|---:|
-| commons | 1097 |
-| panoramax | 272 |
-| flickr | 235 |
-| kartaview | 228 |
+| commons | 1117 |
+| panoramax | 259 |
+| flickr | 232 |
+| kartaview | 217 |
 | tcmb | 14 |
 | gongu | 13 |
 
 | Kind | Photos |
 |---|---:|
-| business sign | 646 |
-| landmark | 529 |
-| street sign | 370 |
-| hard | 134 |
-| transit | 53 |
-| address plate | 45 |
-| building tag | 32 |
+| business sign | 644 |
+| landmark | 524 |
+| street sign | 395 |
+| hard | 133 |
+| transit | 52 |
+| address plate | 41 |
+| building tag | 33 |
 | negative | 24 |
-| sign | 16 |
-| road sign | 6 |
-| bilingual | 4 |
+| road sign | 2 |
+| bilingual | 2 |
+| sign | 2 |
 
 | Licence | Photos |
 |---|---:|
-| CC BY-SA 4.0 | 1045 |
-| CC BY 2.0 | 232 |
-| CC BY-SA 3.0 | 181 |
-| CC BY-SA 2.0 | 149 |
-| CC0 1.0 | 92 |
-| CC BY 3.0 | 67 |
-| CC BY 4.0 | 49 |
-| Public domain | 40 |
+| CC BY-SA 4.0 | 1027 |
+| CC BY 2.0 | 230 |
+| CC BY-SA 3.0 | 190 |
+| CC BY-SA 2.0 | 144 |
+| CC0 1.0 | 94 |
+| CC BY 3.0 | 68 |
+| CC BY 4.0 | 56 |
+| Public domain | 39 |
 | CC BY 2.5 | 3 |
 | OGDL-Taiwan-1.0 | 1 |
 
@@ -472,8 +455,8 @@ This cloud crawler's IP was throttled by Wikimedia's and Flickr's original-file 
 | CU Cuba | Latin | UM | 12 | 12 | 12 |
 | CY Cyprus | Greek | H | 15 | 15 | 15 |
 | CZ Czech Republic | Latin | H | 10 | 10 | 10 |
-| CD DR Congo | Latin | L | 3 | 0 | 15 |
-| DK Denmark | Latin | H | 7 | 7 | 10 |
+| CD DR Congo | Latin | L | 0 | 0 | 15 |
+| DK Denmark | Latin | H | 10 | 7 | 10 |
 | DJ Djibouti | Arabic | LM | 1 | 1 | 15 |
 | DM Dominica | Latin | UM | 3 | 3 | 12 |
 | DO Dominican Republic | Latin | UM | 3 | 3 | 12 |
@@ -503,16 +486,16 @@ This cloud crawler's IP was throttled by Wikimedia's and Flickr's original-file 
 | HN Honduras | Latin | LM | 11 | 11 | 12 |
 | HK Hong Kong | Han | H | 15 | 15 | 15 |
 | HU Hungary | Latin | H | 10 | 10 | 10 |
-| IS Iceland | Latin | H | 10 | 9 | 10 |
+| IS Iceland | Latin | H | 10 | 10 | 10 |
 | IN India | Devanagari | LM | 15 | 15 | 15 |
-| ID Indonesia | Latin | UM | 12 | 4 | 12 |
+| ID Indonesia | Latin | UM | 10 | 6 | 12 |
 | IR Iran | Arabic | UM | 15 | 15 | 15 |
 | IQ Iraq | Arabic | UM | 15 | 15 | 15 |
-| IE Ireland | Latin | H | 10 | 5 | 10 |
+| IE Ireland | Latin | H | 10 | 10 | 10 |
 | IL Israel | Hebrew | H | 15 | 15 | 15 |
 | IT Italy | Latin | H | 10 | 10 | 10 |
 | CI Ivory Coast | Latin | LM | 12 | 12 | 12 |
-| JM Jamaica | Latin | UM | 4 | 4 | 12 |
+| JM Jamaica | Latin | UM | 5 | 4 | 12 |
 | JP Japan | Japanese | H | 15 | 15 | 15 |
 | JO Jordan | Arabic | LM | 15 | 15 | 15 |
 | KZ Kazakhstan | Cyrillic | UM | 15 | 15 | 15 |
@@ -522,14 +505,14 @@ This cloud crawler's IP was throttled by Wikimedia's and Flickr's original-file 
 | KW Kuwait | Arabic | H | 15 | 15 | 15 |
 | KG Kyrgyzstan | Cyrillic | LM | 11 | 11 | 15 |
 | LA Laos | Lao | LM | 15 | 15 | 15 |
-| LV Latvia | Latin | H | 10 | 7 | 10 |
+| LV Latvia | Latin | H | 10 | 10 | 10 |
 | LB Lebanon | Arabic | LM | 15 | 15 | 15 |
 | LS Lesotho | Latin | LM | 3 | 3 | 12 |
 | LR Liberia | Latin | L | 5 | 4 | 15 |
 | LY Libya | Arabic | UM | 4 | 4 | 15 |
-| LI Liechtenstein | Latin | H | 10 | 2 | 10 |
+| LI Liechtenstein | Latin | H | 6 | 6 | 10 |
 | LT Lithuania | Latin | H | 10 | 10 | 10 |
-| LU Luxembourg | Latin | H | 10 | 4 | 10 |
+| LU Luxembourg | Latin | H | 10 | 10 | 10 |
 | MO Macau | Han | H | 15 | 15 | 15 |
 | MG Madagascar | Latin | L | 15 | 15 | 15 |
 | MW Malawi | Latin | L | 7 | 7 | 15 |
@@ -552,14 +535,14 @@ This cloud crawler's IP was throttled by Wikimedia's and Flickr's original-file 
 | NA Namibia | Latin | UM | 12 | 12 | 12 |
 | NR Nauru | Latin | H | 0 | 0 | 10 |
 | NP Nepal | Devanagari | LM | 15 | 15 | 15 |
-| NL Netherlands | Latin | H | 10 | 5 | 10 |
+| NL Netherlands | Latin | H | 10 | 10 | 10 |
 | NZ New Zealand | Latin | H | 7 | 7 | 10 |
 | NI Nicaragua | Latin | LM | 12 | 12 | 12 |
-| NE Niger | Latin | L | 9 | 5 | 15 |
+| NE Niger | Latin | L | 5 | 5 | 15 |
 | NG Nigeria | Latin | LM | 12 | 12 | 12 |
 | KP North Korea | Hangul | L | 2 | 2 | 15 |
 | MK North Macedonia | Cyrillic | UM | 15 | 15 | 15 |
-| NO Norway | Latin | H | 10 | 8 | 10 |
+| NO Norway | Latin | H | 10 | 10 | 10 |
 | OM Oman | Arabic | H | 15 | 15 | 15 |
 | PK Pakistan | Arabic | LM | 15 | 15 | 15 |
 | PW Palau | Latin | H | 0 | 0 | 10 |
@@ -570,37 +553,37 @@ This cloud crawler's IP was throttled by Wikimedia's and Flickr's original-file 
 | PE Peru | Latin | UM | 12 | 12 | 12 |
 | PH Philippines | Latin | LM | 12 | 12 | 12 |
 | PL Poland | Latin | H | 10 | 10 | 10 |
-| PT Portugal | Latin | H | 10 | 4 | 10 |
+| PT Portugal | Latin | H | 10 | 10 | 10 |
 | QA Qatar | Arabic | H | 15 | 15 | 15 |
-| CG Republic of the Congo | Latin | LM | 6 | 4 | 12 |
-| RO Romania | Latin | H | 10 | 4 | 10 |
+| CG Republic of the Congo | Latin | LM | 6 | 5 | 12 |
+| RO Romania | Latin | H | 10 | 10 | 10 |
 | RU Russia | Cyrillic | H | 15 | 15 | 15 |
-| RW Rwanda | Latin | L | 11 | 10 | 15 |
+| RW Rwanda | Latin | L | 11 | 11 | 15 |
 | KN Saint Kitts and Nevis | Latin | H | 0 | 0 | 10 |
-| LC Saint Lucia | Latin | UM | 3 | 1 | 12 |
+| LC Saint Lucia | Latin | UM | 1 | 1 | 12 |
 | VC Saint Vincent and the Grenadines | Latin | UM | 5 | 5 | 12 |
-| WS Samoa | Latin | LM | 3 | 2 | 12 |
-| SM San Marino | Latin | H | 10 | 3 | 10 |
+| WS Samoa | Latin | LM | 2 | 2 | 12 |
+| SM San Marino | Latin | H | 10 | 10 | 10 |
 | ST Sao Tome and Principe | Latin | LM | 1 | 1 | 12 |
 | SA Saudi Arabia | Arabic | H | 15 | 14 | 15 |
-| SN Senegal | Latin | LM | 12 | 5 | 12 |
+| SN Senegal | Latin | LM | 8 | 7 | 12 |
 | RS Serbia | Cyrillic | UM | 15 | 15 | 15 |
 | SC Seychelles | Latin | H | 4 | 4 | 10 |
 | SL Sierra Leone | Latin | L | 2 | 2 | 15 |
 | SG Singapore | Latin | H | 10 | 10 | 10 |
-| SK Slovakia | Latin | H | 10 | 7 | 10 |
-| SI Slovenia | Latin | H | 2 | 2 | 10 |
-| SB Solomon Islands | Latin | LM | 9 | 7 | 12 |
+| SK Slovakia | Latin | H | 10 | 10 | 10 |
+| SI Slovenia | Latin | H | 10 | 2 | 10 |
+| SB Solomon Islands | Latin | LM | 8 | 7 | 12 |
 | SO Somalia | Latin | L | 5 | 5 | 15 |
 | ZA South Africa | Latin | UM | 12 | 12 | 12 |
 | KR South Korea | Hangul | H | 15 | 15 | 15 |
 | SS South Sudan | Latin | L | 0 | 0 | 15 |
-| ES Spain | Latin | H | 10 | 8 | 10 |
+| ES Spain | Latin | H | 10 | 10 | 10 |
 | LK Sri Lanka | Sinhala | LM | 15 | 15 | 15 |
 | SD Sudan | Arabic | L | 5 | 5 | 15 |
 | SR Suriname | Latin | UM | 12 | 12 | 12 |
-| SE Sweden | Latin | H | 9 | 7 | 10 |
-| CH Switzerland | Latin | H | 9 | 9 | 10 |
+| SE Sweden | Latin | H | 10 | 10 | 10 |
+| CH Switzerland | Latin | H | 10 | 10 | 10 |
 | SY Syria | Arabic | L | 13 | 13 | 15 |
 | TW Taiwan | Han | H | 15 | 15 | 15 |
 | TJ Tajikistan | Cyrillic | LM | 5 | 5 | 15 |
@@ -621,7 +604,7 @@ This cloud crawler's IP was throttled by Wikimedia's and Flickr's original-file 
 | US United States | Latin | H | 3 | 3 | 10 |
 | UY Uruguay | Latin | H | 0 | 0 | 10 |
 | UZ Uzbekistan | Latin | LM | 12 | 12 | 12 |
-| VU Vanuatu | Latin | LM | 12 | 10 | 12 |
+| VU Vanuatu | Latin | LM | 12 | 12 | 12 |
 | VA Vatican City | Latin | H | 0 | 0 | 10 |
 | VE Venezuela | Latin | UM | 12 | 12 | 12 |
 | VN Vietnam | Latin | LM | 12 | 12 | 12 |
@@ -629,5 +612,5 @@ This cloud crawler's IP was throttled by Wikimedia's and Flickr's original-file 
 | ZM Zambia | Latin | LM | 12 | 12 | 12 |
 | ZW Zimbabwe | Latin | LM | 8 | 8 | 12 |
 
-**No photos yet (14):** Antigua and Barbuda, Chad, Comoros, Equatorial Guinea, Guyana, Marshall Islands, Nauru, Palau, Papua New Guinea, Saint Kitts and Nevis, South Sudan, Trinidad and Tobago, Uruguay, Vatican City
+**No photos yet (15):** Antigua and Barbuda, Chad, Comoros, DR Congo, Equatorial Guinea, Guyana, Marshall Islands, Nauru, Palau, Papua New Guinea, Saint Kitts and Nevis, South Sudan, Trinidad and Tobago, Uruguay, Vatican City
 

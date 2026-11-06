@@ -1,27 +1,28 @@
 {
   "source": "commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:25-08-2017_Street_name_sign,_Rua_dos_Girass%C3%B3is,_Albufeira.JPG",
-  "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/25-08-2017_Street_name_sign%2C_Rua_dos_Girass%C3%B3is%2C_Albufeira.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-  "license_as_published": "CC BY 3.0",
-  "license_url_as_published": "https://creativecommons.org/licenses/by/3.0",
-  "author_as_published": "Kolforn",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Madeira-Funchal-Spar_minimarket-01ESD.jpg",
+  "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Madeira-Funchal-Spar_minimarket-01ESD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author_as_published": "Rikki Mitterer",
   "credit_as_published": "Own work",
-  "title": "File:25-08-2017 Street name sign, Rua dos Girassóis, Albufeira.JPG",
-  "description": "A decorative tile street sign which designates the Rua dos Girassóis in the city of Albufeira , Algarve, Portugal.",
-  "date": "2017-08-25",
+  "title": "File:Madeira-Funchal-Spar minimarket-01ESD.jpg",
+  "description": "Funchal in Madeira, Portugal",
+  "date": "2024-11-20",
   "categories": [
-    "August 2017 in Algarve",
-    "Azulejo street signs in Albufeira",
-    "Rua dos Girassóis, Albufeira"
+    "2024 in Madeira",
+    "Buildings in Funchal",
+    "Hotels in Funchal",
+    "SPAR shops in Portugal"
   ],
   "camera_location": [
-    37.093546,
-    -8.239138
+    32.643889,
+    -16.921389
   ],
   "found_by": "keyword",
-  "bytes": 555745,
+  "bytes": 721326,
   "width": 1920,
   "height": 1440,
-  "downloaded_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/25-08-2017_Street_name_sign%2C_Rua_dos_Girass%C3%B3is%2C_Albufeira.JPG/1920px-25-08-2017_Street_name_sign%2C_Rua_dos_Girass%C3%B3is%2C_Albufeira.JPG",
-  "derivative": "Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org)"
+  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Madeira-Funchal-Spar_minimarket-01ESD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "derivative": ""
 }

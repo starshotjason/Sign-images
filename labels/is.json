@@ -214,5 +214,109 @@
   },
   "difficulty": "easy",
   "notes": "Yellow, red-bordered hanging sign of the Björk tobacco shop, Reykjavík, with a Sherlock Holmes silhouette; styled as a warning sign ('Varúð!' = caution). A reflection of the sign in the window is a distractor."
+ },
+ "c114807167": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "PRIKIÐ",
+    "lang": "is"
+   },
+   {
+    "text": "12",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "Prikið",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Arched red-and-green painted fascia over the door of Prikið café, Bankastræti 12, Reykjavík; '12' (house number) appears in the right corner and is cut off at top left. Side panels repeat 'PRIKIÐ / STOFNAÐ 1951 / NÝLAGAÐ GÆÐAKAFFI / FRÁ MORGNI TIL KVÖLDS / BRAUÐ OG KÖKUR'; LAVAZZA panels and the menu board are distractors."
+ },
+ "c119366716": {
+  "accept": false,
+  "reason": "runway landscape at Reykjavík Airport; only a tiny jet-blast warning sign"
+ },
+ "c119366717": {
+  "accept": false,
+  "reason": "'VARÚÐ! / CAUTION! JET BLAST HAZARD' warning sign; no place name"
+ },
+ "c140431348": {
+  "accept": false,
+  "reason": "church tower and mountain in Siglufjörður; no sign"
+ },
+ "c16024763": {
+  "accept": false,
+  "reason": "hiking-trail legend panel with paragraphs of Icelandic text; no single place-name target"
+ },
+ "c24848170": {
+  "accept": false,
+  "reason": "picnic-area pictogram sign only; no text"
+ },
+ "c33779855": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "12",
+    "lang": "und"
+   },
+   {
+    "text": "Tónar",
+    "lang": "is"
+   }
+  ],
+  "expect": {
+   "query": "12 Tónar",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Yellow hanging shop sign with blue text for the 12 Tónar record shop, Skólavörðustígur 15, Reykjavík. The right half of the photo is its mirror reflection in the shop window (reversed text, distractor). Small photographer credit text at the bottom right edge."
+ },
+ "c37262834": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "HIÐ ÍSLENZKA",
+    "lang": "is"
+   },
+   {
+    "text": "REÐASAFN",
+    "lang": "is"
+   },
+   {
+    "text": "THE ICELANDIC",
+    "lang": "en"
+   },
+   {
+    "text": "PHALLOLOGICAL",
+    "lang": "en"
+   },
+   {
+    "text": "MUSEUM",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Icelandic Phallological Museum",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Cut-out museum name board hanging in an arched window, backlit, photographed in Húsavík (the museum has since moved to Reykjavík). The small logo at the top repeats 'HIÐ ÍSLENZKA REÐASAFN' over an outline map of Iceland."
  }
 }

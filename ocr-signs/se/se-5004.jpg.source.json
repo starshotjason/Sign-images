@@ -1,23 +1,29 @@
 {
-  "source": "kartaview",
-  "source_url": "https://kartaview.org/details/5850153/150/track-info",
-  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMi84LzEwL3Byb2MvNTg1MDE1M183ZTM2Y2U4OTFhNGFjYjYyMDNjYmIyZDVkOTk1MmJmMi5qcGc",
+  "source": "commons",
+  "source_url": "https://commons.wikimedia.org/wiki/File:ICA_sign_in_Brastad.jpg",
+  "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/ICA_sign_in_Brastad.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
   "license_as_published": "CC BY-SA 4.0",
-  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
-  "author_as_published": "dennis-g-d",
-  "credit_as_published": "KartaView user dennis-g-d (user id 47873); © KartaView contributors",
-  "title": "KartaView photo 1567192393, sequence 5850153 #150 (Stockholm, 2022-08-09)",
-  "description": "Street-level picture on KartaView, taken 2022-08-09 near Stockholm by dennis-g-d, sequence 5850153, heading 268.86. OCR (PP-OCRv3) read: Haglofs | Haglofs | Haglofs | aglots | Haglofs | Make somemer",
-  "date": "2022-08-09",
-  "categories": [],
-  "camera_location": [
-    59.336089,
-    18.06919
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author_as_published": "W.carter",
+  "credit_as_published": "Own work",
+  "title": "File:ICA sign in Brastad.jpg",
+  "description": "A flock of birds by the sign at ICA Nära supermarket in Brastad, Lysekil Municipality, Sweden.",
+  "date": "2022-04-28 12:53:01",
+  "categories": [
+    "Clouds in Lysekil Municipality",
+    "ICA Nära, Brastad",
+    "Shop signs in Sweden",
+    "Signs in Lysekil Municipality",
+    "Unidentified flocks of birds"
   ],
-  "found_by": "kartaview-ocr:Stockholm",
-  "bytes": 901596,
-  "width": 3840,
-  "height": 2160,
-  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMi84LzEwL3Byb2MvNTg1MDE1M183ZTM2Y2U4OTFhNGFjYjYyMDNjYmIyZDVkOTk1MmJmMi5qcGc",
-  "derivative": "whole 3840x2160 full-size processed (blurred) picture as served by the KartaView CDN (byte-identical; the service blurs faces and number plates), not cropped"
+  "camera_location": [
+    58.383978,
+    11.481006
+  ],
+  "found_by": "keyword",
+  "bytes": 325299,
+  "width": 1920,
+  "height": 1280,
+  "downloaded_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/ICA_sign_in_Brastad.jpg/1920px-ICA_sign_in_Brastad.jpg",
+  "derivative": "Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org)"
 }

@@ -1,26 +1,23 @@
 {
   "source": "commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Placa_-_Rua_Saraiva_de_Carvalho,_Lisboa.jpg",
-  "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Placa_-_Rua_Saraiva_de_Carvalho%2C_Lisboa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-  "license_as_published": "CC0",
-  "license_url_as_published": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-  "author_as_published": "JnpoJuwan",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Infantado_Placa.jpg",
+  "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Infantado_Placa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author_as_published": "Hipersyl",
   "credit_as_published": "Own work",
-  "title": "File:Placa - Rua Saraiva de Carvalho, Lisboa.jpg",
-  "description": "Placa da Rua Saraiva de Carvalho em Lisboa, Portugal.",
-  "date": "2024-07-15 17:44:41",
+  "title": "File:Infantado Placa.jpg",
+  "description": "Placa informativa do Infantado, Loures",
+  "date": "2019-09-01 18:05:53",
   "categories": [
-    "Rua Saraiva de Carvalho",
-    "Street signs in Lisbon"
+    "Infantado",
+    "Place name signs in Portugal"
   ],
-  "camera_location": [
-    38.71564,
-    -9.16376
-  ],
+  "camera_location": null,
   "found_by": "keyword",
-  "bytes": 347679,
+  "bytes": 947713,
   "width": 1920,
-  "height": 1439,
-  "downloaded_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Placa_-_Rua_Saraiva_de_Carvalho%2C_Lisboa.jpg/1920px-Placa_-_Rua_Saraiva_de_Carvalho%2C_Lisboa.jpg",
-  "derivative": "Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org)"
+  "height": 1440,
+  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Infantado_Placa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "derivative": ""
 }

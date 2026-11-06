@@ -1,28 +1,23 @@
 {
-  "source": "commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Direction_sign_for_Latvian_folk_song_singers_(Teikas,_Ogresgals_parish)_01.jpg",
-  "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Direction_sign_for_Latvian_folk_song_singers_%28Teikas%2C_Ogresgals_parish%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-  "license_as_published": "CC BY-SA 4.0",
-  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0",
-  "author_as_published": "Андрей Романенко",
-  "credit_as_published": "Own work",
-  "title": "File:Direction sign for Latvian folk song singers (Teikas, Ogresgals parish) 01.jpg",
-  "description": "Ceļa rādītājs latviešu tautas dziesmu teicējiem pie Ogresgala",
-  "date": "2024-10-31 09:24:04",
-  "categories": [
-    "Directional road signs in Latvia",
-    "Folk music of Latvia",
-    "Monuments and memorials in Ogre Municipality",
-    "Ogresgals parish"
-  ],
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=551e3eee-d0c1-41fa-9195-df70f5f7c3a3",
+  "original_url": "https://panoramax.openstreetmap.fr/images/55/1e/3e/ee/d0c1-41fa-9195-df70f5f7c3a3.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "maemolol",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture 551e3eee-d0c1-41fa-9195-df70f5f7c3a3 (Riga, 2026-07-06)",
+  "description": "Street-level picture on Panoramax, taken 2026-07-06 near Riga by maemolol, sequence e1b76b33-394a-44a0-be9d-70aaece46af3, heading 157. OCR (PP-OCRv3) read: LOMBARDS | VITA | Banknote | LOMBARDS | JCDecaux | ERS AR | IFELEM | 520 | EKONU | ESBURGER★",
+  "date": "2026-07-06",
+  "categories": [],
   "camera_location": [
-    56.799075,
-    24.748514
+    56.949328623,
+    24.118993294
   ],
-  "found_by": "keyword",
-  "bytes": 2563842,
-  "width": 1920,
-  "height": 2550,
-  "downloaded_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Direction_sign_for_Latvian_folk_song_singers_%28Teikas%2C_Ogresgals_parish%29_01.jpg/1920px-Direction_sign_for_Latvian_folk_song_singers_%28Teikas%2C_Ogresgals_parish%29_01.jpg",
-  "derivative": "Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org)"
+  "found_by": "panoramax-ocr:Riga",
+  "bytes": 530867,
+  "width": 1845,
+  "height": 1383,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/55/1e/3e/ee/d0c1-41fa-9195-df70f5f7c3a3.jpg",
+  "derivative": "crop 1995,57,3840,1440 of the 3840x2160 HD picture"
 }

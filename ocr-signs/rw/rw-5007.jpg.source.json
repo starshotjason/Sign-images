@@ -1,25 +1,22 @@
 {
   "source": "commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Five_to_Five_hotel_at_the_gate.jpg",
-  "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Five_to_Five_hotel_at_the_gate.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-  "license_as_published": "CC0",
-  "license_url_as_published": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-  "author_as_published": "UWIMPUHWE Va",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Jenoside-Genocide_Sign_with_Facade_of_Genocide_Memorial_Church_-_Karongi_-Kibuye_-_Western_Rwanda.jpg",
+  "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Jenoside-Genocide_Sign_with_Facade_of_Genocide_Memorial_Church_-_Karongi_-Kibuye_-_Western_Rwanda.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "license_as_published": "CC BY-SA 3.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/3.0",
+  "author_as_published": "Adam Jones, Ph.D.",
   "credit_as_published": "Own work",
-  "title": "File:Five to Five hotel at the gate.jpg",
-  "description": "Five To Five Hotel is a hotel located in Kigali, Rwanda.",
-  "date": "2024-11-27 14:17:17",
+  "title": "File:Jenoside-Genocide Sign with Facade of Genocide Memorial Church - Karongi -Kibuye - Western Rwanda.jpg",
+  "description": "Jenoside-Genocide Sign with Facade of Genocide Memorial Church - Karongi -Kibuye - Western Rwanda",
+  "date": "2012-08-04 08:00:59",
   "categories": [
-    "Hotel signs",
-    "Hotels in Kigali",
-    "Remera Sector (Gasabo)",
-    "Signs in Rwanda"
+    "Kibuye St-Pierre Church Genocide Memorial"
   ],
   "camera_location": null,
   "found_by": "keyword",
-  "bytes": 896223,
+  "bytes": 721590,
   "width": 1920,
-  "height": 2560,
-  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Five_to_Five_hotel_at_the_gate.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "height": 1440,
+  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Jenoside-Genocide_Sign_with_Facade_of_Genocide_Memorial_Church_-_Karongi_-Kibuye_-_Western_Rwanda.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
   "derivative": ""
 }

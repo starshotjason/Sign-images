@@ -1,28 +1,23 @@
 {
-  "source": "commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Madeira-Santana-Fiala-crossing_VR1_and_ER_103-Kartodromo_do_Fiala-01ASD.jpg",
-  "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Madeira-Santana-Fiala-crossing_VR1_and_ER_103-Kartodromo_do_Fiala-01ASD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-  "license_as_published": "CC BY-SA 4.0",
-  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0",
-  "author_as_published": "Asurnipal",
-  "credit_as_published": "Own work",
-  "title": "File:Madeira-Santana-Fiala-crossing VR1 and ER 103-Kartodromo do Fiala-01ASD.jpg",
-  "description": "Municipality of Faial in Santana, Madeira, Portugal",
-  "date": "2024-11-22",
-  "categories": [
-    "2024 in Madeira",
-    "ER 103 (road)",
-    "Faial (Santana)",
-    "VR1 (road)"
-  ],
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=879517d4-f4ab-41bf-8a7e-f5046cda6a20",
+  "original_url": "https://panoramax.openstreetmap.fr/images/87/95/17/d4/f4ab-41bf-8a7e-f5046cda6a20.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "jerome92370",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture 879517d4-f4ab-41bf-8a7e-f5046cda6a20 (Lisbon, 2023-10-30)",
+  "description": "Street-level picture on Panoramax, taken 2023-10-30 near Lisbon by jerome92370, sequence 5d37cd99-c53f-41fb-9780-a9a380354f43, heading 152. OCR (PP-OCRv3) read: CASA BRASILEIRA",
+  "date": "2023-10-30",
+  "categories": [],
   "camera_location": [
-    32.788147,
-    -16.852432
+    38.712700166,
+    -9.1385234
   ],
-  "found_by": "keyword",
-  "bytes": 746223,
-  "width": 1920,
-  "height": 1440,
-  "downloaded_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Madeira-Santana-Fiala-crossing_VR1_and_ER_103-Kartodromo_do_Fiala-01ASD.jpg/1920px-Madeira-Santana-Fiala-crossing_VR1_and_ER_103-Kartodromo_do_Fiala-01ASD.jpg",
-  "derivative": "Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org)"
+  "found_by": "panoramax-ocr:Lisbon",
+  "bytes": 2510910,
+  "width": 3606,
+  "height": 2705,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/87/95/17/d4/f4ab-41bf-8a7e-f5046cda6a20.jpg",
+  "derivative": "crop 425,0,4031,2705 of the 4032x3024 HD picture"
 }

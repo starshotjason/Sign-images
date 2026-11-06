@@ -1,26 +1,28 @@
 {
   "source": "commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Deflate_tyres_to_0.8_bar.jpg",
-  "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Deflate_tyres_to_0.8_bar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Xai-Xai_80_road_sign.jpg",
+  "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Xai-Xai_80_road_sign.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
   "license_as_published": "CC BY-SA 4.0",
   "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0",
   "author_as_published": "Ossewa",
   "credit_as_published": "Own work",
-  "title": "File:Deflate tyres to 0.8 bar.jpg",
-  "description": "Road sign indicating the speed limit and tyre pressure required to drive on soft sand. Paradise View Resort, Xai-Xai district, Mozambique.",
-  "date": "2009-12-27 22:19:10",
+  "title": "File:Xai-Xai 80 road sign.jpg",
+  "description": "Speed limit sign, 80 km/h, in Xai-Xai, Mozambique. Bridge over the Limpopo river in the background.",
+  "date": "2009-12-30 12:50:02",
   "categories": [
-    "Road signs in Mozambique",
-    "Tyre pressure"
+    "EN1 (Mozambique)",
+    "Prohibitory road signs in Mozambique",
+    "Road bridges in Mozambique",
+    "Xai-Xai"
   ],
   "camera_location": [
-    -25.020434,
-    34.008318
+    -25.028817,
+    33.632149
   ],
   "found_by": "keyword",
-  "bytes": 616304,
-  "width": 1280,
-  "height": 1920,
-  "downloaded_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Deflate_tyres_to_0.8_bar.jpg/1280px-Deflate_tyres_to_0.8_bar.jpg",
-  "derivative": "Wikimedia Commons standard 1280px-wide rendition (thumb.wikimedia.org)"
+  "bytes": 770953,
+  "width": 1920,
+  "height": 1247,
+  "downloaded_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Xai-Xai_80_road_sign.jpg/1920px-Xai-Xai_80_road_sign.jpg",
+  "derivative": "Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org)"
 }

@@ -186,5 +186,149 @@
  "pea743b8d60": {
   "accept": false,
   "reason": "indoor defibrillator cabinet label; not a mappable place sign"
+ },
+ "f70114cbb-b22a-486b-bd0d-2315b666d140": {
+  "accept": true,
+  "reason": "",
+  "kind": "hard",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "DIN ZOOAFFÄR",
+    "lang": "sv"
+   }
+  ],
+  "expect": {
+   "query": "Din Zooaffär",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Malmö, Regementsgatan: wide view of a corner apartment block; the target is the small white fascia with red caps over the pet shop (A-diaeresis in AFFÄR), small at 1600 px but legible. Distractors: 'HOMEVILLE' fascia at the left corner (its subtitle is unreadable), small street-name plate on the corner (unreadable), red neon 'HUND' in the window, parrot logo panel, green fascias at right, pedestrian-crossing sign. Cyclists and pedestrians are incidental."
+ },
+ "f92c109e1-4a21-46b3-a44e-7ba02784bfb2": {
+  "accept": false,
+  "reason": "technical label 'STÖTVÅGSGRÄNS' (blast-wave limit) inside a shelter; names no place"
+ },
+ "c113418957": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "FLOBY",
+    "lang": "sv"
+   },
+   {
+    "text": "HERRLJUNGA",
+    "lang": "sv"
+   },
+   {
+    "text": "FALKÖPING",
+    "lang": "sv"
+   }
+  ],
+  "expect": {
+   "query": "Falköping",
+   "type": "place"
+  },
+  "difficulty": "easy",
+  "notes": "Blue Swedish direction signs on county road 181 south of Floby: 'FLOBY' and 'HERRLJUNGA' point left, 'FALKÖPING' (O-diaeresis) points right. Distractors on the industrial buildings behind: 'MICHELIN' banner, 'Hjulinställning' plate, a round logo and a small red notice (unreadable)."
+ },
+ "c34398010": {
+  "accept": false,
+  "reason": "blue spherical street clock (Åhléns clock) with no text on it"
+ },
+ "c100228095": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Paradisgatan",
+    "lang": "sv"
+   },
+   {
+    "text": "Kv. Paradiset",
+    "lang": "sv"
+   },
+   {
+    "text": "22-30",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "Paradisgatan",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Göteborg (Olivedal): dark-blue enamel street plate in a serif face on yellow brick. Second line gives the block (kvarter) name 'Kv. Paradiset' and the house-number range '22-30' on the same line (listed as two lines here). Slight upward angle."
+ },
+ "c192433373": {
+  "accept": false,
+  "reason": "homemade warning triangle with pictograms (child, dog, hen, peacock); no text"
+ },
+ "c2733364": {
+  "accept": false,
+  "reason": "Visby street scene; the only legible sign is a small 'Privat parkering' plate; no street-name plate readable"
+ },
+ "c110518151": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "KOLLEKTIVHUSET",
+    "lang": "sv"
+   },
+   {
+    "text": "Samfundet",
+    "lang": "sv"
+   },
+   {
+    "text": "S:t Erik",
+    "lang": "sv"
+   }
+  ],
+  "expect": {
+   "query": "Kollektivhuset",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Stockholm, John Ericssonsgatan: blue enamel Samfundet S:t Erik heritage plaque on a tiled wall. Lines cover the title and the society caption under the Stockholm seal at left (seal ring text not transcribed). The body is two paragraphs of small text (Swedish, then English, dated 2015) with glare across the top lines; it is not transcribed here, so a checker should expect extra OCR text."
+ },
+ "c12051349": {
+  "accept": false,
+  "reason": "night photo of a fuel pump island; only product/pump labels ('diesel', 'ACP Diesel', pump number 6), no station name"
+ },
+ "c131108631": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ICA",
+    "lang": "sv"
+   }
+  ],
+  "expect": {
+   "query": "ICA",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Brastad: weathered pylon sign with large red 3D letters 'ICA' on a white box against the sky; a flock of birds at right. Chain name only (the store is ICA Nära per metadata, not shown on the sign)."
  }
 }

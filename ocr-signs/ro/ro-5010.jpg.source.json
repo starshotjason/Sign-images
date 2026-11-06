@@ -1,23 +1,23 @@
 {
-  "source": "commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Electricity_warning_sign_(Romania,_Densus).jpg",
-  "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Electricity_warning_sign_%28Romania%2C_Densus%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-  "license_as_published": "CC BY-SA 3.0",
-  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/3.0",
-  "author_as_published": "TudorTulok",
-  "credit_as_published": "Own work",
-  "title": "File:Electricity warning sign (Romania, Densus).jpg",
-  "description": "Electricity warning sign in Romanian at Densuş Church",
-  "date": "2011-05-16",
-  "categories": [
-    "Electricity warning signs (black lightning in yellow triangle)",
-    "Signs in Romania"
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/3825633/18/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMS84LzI5L3Byb2MvMzgyNTYzM19mMWExNDcxYzk0NzJlNmI5YTM1NDZjMzQzNzEyZTE0Zi5qcGc",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "razvan-sandu2",
+  "credit_as_published": "KartaView user razvan-sandu2 (user id 56977); © KartaView contributors",
+  "title": "KartaView photo 1369439705, sequence 3825633 #18 (Bucharest, 2021-08-18)",
+  "description": "Street-level picture on KartaView, taken 2021-08-18 near Bucharest by razvan-sandu2, sequence 3825633, heading 219.58. OCR (PP-OCRv3) read: august | cofiee | august",
+  "date": "2021-08-18",
+  "categories": [],
+  "camera_location": [
+    44.439015,
+    26.104975
   ],
-  "camera_location": null,
-  "found_by": "keyword",
-  "bytes": 594132,
-  "width": 1920,
-  "height": 2754,
-  "downloaded_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Electricity_warning_sign_%28Romania%2C_Densus%29.jpg/1920px-Electricity_warning_sign_%28Romania%2C_Densus%29.jpg",
-  "derivative": "Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org)"
+  "found_by": "kartaview-ocr:Bucharest",
+  "bytes": 323385,
+  "width": 1472,
+  "height": 1104,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMS84LzI5L3Byb2MvMzgyNTYzM19mMWExNDcxYzk0NzJlNmI5YTM1NDZjMzQzNzEyZTE0Zi5qcGc",
+  "derivative": "crop 1436,0,2908,1104 of the 3264x1836 full-size processed (blurred) picture"
 }

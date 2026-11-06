@@ -1,23 +1,23 @@
 {
-  "source": "commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:SanMarino-Museum_Torture-A-12.jpg",
-  "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/SanMarino-Museum_Torture-A-12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-  "license_as_published": "CC BY-SA 4.0",
-  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0",
-  "author_as_published": "Grafenschreck",
-  "credit_as_published": "Own work",
-  "title": "File:SanMarino-Museum Torture-A-12.jpg",
-  "description": "Torture Museum in San Marino.",
-  "date": "2017-08-08 12:27:35",
-  "categories": [
-    "Signs in San Marino",
-    "Torture Museum San Marino"
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=7c325d48-573c-4607-92a5-53b0bbf1323c",
+  "original_url": "https://panoramax.openstreetmap.fr/images/7c/32/5d/48/573c-4607-92a5-53b0bbf1323c.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "Robot8A",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture 7c325d48-573c-4607-92a5-53b0bbf1323c (San Marino, 2024-03-23)",
+  "description": "Street-level picture on Panoramax, taken 2024-03-23 near San Marino by Robot8A, sequence 618611f6-9c7c-456b-812f-5fb5138ddeda, heading 330. OCR (PP-OCRv3) read: VAMPIRIELICATROP | ETITANO | MUSEO | OSTERIA | MUSEOEVAMPIRI",
+  "date": "2024-03-23",
+  "categories": [],
+  "camera_location": [
+    43.935987604,
+    12.447269077
   ],
-  "camera_location": null,
-  "found_by": "keyword",
-  "bytes": 1091296,
-  "width": 1920,
-  "height": 3423,
-  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/SanMarino-Museum_Torture-A-12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-  "derivative": ""
+  "found_by": "panoramax-ocr:San Marino",
+  "bytes": 1838013,
+  "width": 4032,
+  "height": 3024,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/7c/32/5d/48/573c-4607-92a5-53b0bbf1323c.jpg",
+  "derivative": "whole 4032x3024 HD picture as served by the Panoramax instance (byte-identical; the service blurs faces and number plates), not cropped"
 }

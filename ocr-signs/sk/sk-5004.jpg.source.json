@@ -1,23 +1,27 @@
 {
-  "source": "panoramax",
-  "source_url": "https://panoramax.mapcomplete.org/#focus=pic&pic=b40228e9-aa8d-4031-8ad7-1fe02be2a17c",
-  "original_url": "https://panoramax.mapcomplete.org/permanent/b4/02/28/e9/aa8d-4031-8ad7-1fe02be2a17c.jpg",
-  "license_as_published": "CC-BY-SA-4.0",
-  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
-  "author_as_published": "mapcomplete",
-  "credit_as_published": "Panoramax, instance mapcomplete (https://panoramax.mapcomplete.org)",
-  "title": "Panoramax picture b40228e9-aa8d-4031-8ad7-1fe02be2a17c (Bratislava, 2025-05-19)",
-  "description": "Street-level picture on Panoramax, taken 2025-05-19 near Bratislava by mapcomplete, sequence 14ea2dff-2d5f-4134-9a9c-0b7ff34d87aa, heading 251. OCR (PP-OCRv3) read: TOMIO DOME KONCERTOVAL | RKU1762 | AKO SESTROCNY | WOLFGANG AMADEUSY",
-  "date": "2025-05-19",
-  "categories": [],
-  "camera_location": [
-    48.142602078,
-    17.106511886
+  "source": "commons",
+  "source_url": "https://commons.wikimedia.org/wiki/File:2020-07-05_Train_station_sign_at_Bratislava_hlavn%C3%A1_stanica.jpg",
+  "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/2020-07-05_Train_station_sign_at_Bratislava_hlavn%C3%A1_stanica.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "license_as_published": "CC BY-SA 2.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/2.0",
+  "author_as_published": "DiningCar_",
+  "credit_as_published": "https://www.flickr.com/photos/164172846@N06/50133346317/",
+  "title": "File:2020-07-05 Train station sign at Bratislava hlavná stanica.jpg",
+  "description": "RegioJet 1047 // Bratislava - Rijeka",
+  "date": "2020-07-05 21:03:26",
+  "categories": [
+    "Bratislava hlavná stanica",
+    "July 2020 in rail transport in Slovakia",
+    "Train station signs in Slovakia"
   ],
-  "found_by": "panoramax-ocr:Bratislava",
-  "bytes": 5902470,
-  "width": 3072,
-  "height": 4080,
-  "downloaded_url": "https://panoramax.mapcomplete.org/permanent/b4/02/28/e9/aa8d-4031-8ad7-1fe02be2a17c.jpg",
-  "derivative": "whole 3072x4080 HD picture as served by the Panoramax instance (byte-identical; the service blurs faces and number plates), not cropped"
+  "camera_location": [
+    48.158574,
+    17.106876
+  ],
+  "found_by": "keyword",
+  "bytes": 479074,
+  "width": 1920,
+  "height": 1440,
+  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/2020-07-05_Train_station_sign_at_Bratislava_hlavn%C3%A1_stanica.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "derivative": ""
 }

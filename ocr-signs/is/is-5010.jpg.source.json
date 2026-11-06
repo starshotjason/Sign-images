@@ -1,27 +1,23 @@
 {
-  "source": "commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Iceland_-_Sign_-_Icelandic_Phallological_Museum_-_H%C3%BAsav%C3%ADk_-_Road_Trip_(4890600794).jpg",
-  "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Iceland_-_Sign_-_Icelandic_Phallological_Museum_-_H%C3%BAsav%C3%ADk_-_Road_Trip_%284890600794%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-  "license_as_published": "CC BY 2.0",
-  "license_url_as_published": "https://creativecommons.org/licenses/by/2.0",
-  "author_as_published": "CGP Grey",
-  "credit_as_published": "2008-08-08 133941",
-  "title": "File:Iceland - Sign - Icelandic Phallological Museum - Húsavík - Road Trip (4890600794).jpg",
-  "description": "sign, Icelandic Phallological Museum, Húsavík, road trip, 2008-08 -- Iceland 1st Anniversary Trip",
-  "date": "Taken on 8 August 2008, 13:39",
-  "categories": [
-    "Bilingual English-Icelandic signs",
-    "Húsavík",
-    "Icelandic Phallological Museum in Húsavík"
-  ],
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/1180231/73/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlOC5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE4LzUvMTIvcHJvYy8xMTgwMjMxXzVjMDkwXzI0LmpwZw",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "Serzh",
+  "credit_as_published": "KartaView user Serzh (user id 809); © KartaView contributors",
+  "title": "KartaView photo 243031831, sequence 1180231 #73 (Reykjavik, 2018-05-10)",
+  "description": "Street-level picture on KartaView, taken 2018-05-10 near Reykjavik by Serzh, sequence 1180231, heading 0. OCR (PP-OCRv3) read: Landsbankinn | American Style",
+  "date": "2018-05-10",
+  "categories": [],
   "camera_location": [
-    66.048667,
-    -17.349333
+    64.148777,
+    -21.939742
   ],
-  "found_by": "keyword",
-  "bytes": 283211,
+  "found_by": "kartaview-ocr:Reykjavik",
+  "bytes": 187680,
   "width": 1920,
-  "height": 1579,
-  "downloaded_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Iceland_-_Sign_-_Icelandic_Phallological_Museum_-_H%C3%BAsav%C3%ADk_-_Road_Trip_%284890600794%29.jpg/1920px-Iceland_-_Sign_-_Icelandic_Phallological_Museum_-_H%C3%BAsav%C3%ADk_-_Road_Trip_%284890600794%29.jpg",
-  "derivative": "Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org)"
+  "height": 1080,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlOC5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE4LzUvMTIvcHJvYy8xMTgwMjMxXzVjMDkwXzI0LmpwZw",
+  "derivative": "whole 1920x1080 full-size processed (blurred) picture as served by the KartaView CDN (byte-identical; the service blurs faces and number plates), not cropped"
 }

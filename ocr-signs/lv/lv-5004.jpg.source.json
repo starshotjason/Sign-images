@@ -1,23 +1,25 @@
 {
-  "source": "panoramax",
-  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=551e3eee-d0c1-41fa-9195-df70f5f7c3a3",
-  "original_url": "https://panoramax.openstreetmap.fr/images/55/1e/3e/ee/d0c1-41fa-9195-df70f5f7c3a3.jpg",
-  "license_as_published": "CC-BY-SA-4.0",
-  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
-  "author_as_published": "maemolol",
-  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
-  "title": "Panoramax picture 551e3eee-d0c1-41fa-9195-df70f5f7c3a3 (Riga, 2026-07-06)",
-  "description": "Street-level picture on Panoramax, taken 2026-07-06 near Riga by maemolol, sequence e1b76b33-394a-44a0-be9d-70aaece46af3, heading 157. OCR (PP-OCRv3) read: LOMBARDS | VITA | Banknote | LOMBARDS | JCDecaux | ERS AR | IFELEM | 520 | EKONU | ESBURGER★",
-  "date": "2026-07-06",
-  "categories": [],
-  "camera_location": [
-    56.949328623,
-    24.118993294
+  "source": "commons",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Leilstraupe_Castle_Signage_in_Latvia_1.jpg",
+  "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Leilstraupe_Castle_Signage_in_Latvia_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "license_as_published": "CC BY 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by/4.0",
+  "author_as_published": "Wiki Asmah",
+  "credit_as_published": "Own work",
+  "title": "File:Leilstraupe Castle Signage in Latvia 1.jpg",
+  "description": "Leilstraupe Castle Signage in Latvia 1",
+  "date": "2024-08-12 19:13:12",
+  "categories": [
+    "Signs in Latvia"
   ],
-  "found_by": "panoramax-ocr:Riga",
-  "bytes": 530867,
-  "width": 1845,
-  "height": 1383,
-  "downloaded_url": "https://panoramax.openstreetmap.fr/images/55/1e/3e/ee/d0c1-41fa-9195-df70f5f7c3a3.jpg",
-  "derivative": "crop 1995,57,3840,1440 of the 3840x2160 HD picture"
+  "camera_location": [
+    57.347047,
+    24.945928
+  ],
+  "found_by": "keyword",
+  "bytes": 1132073,
+  "width": 1920,
+  "height": 1440,
+  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Leilstraupe_Castle_Signage_in_Latvia_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "derivative": ""
 }

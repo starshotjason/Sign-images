@@ -1,23 +1,30 @@
 {
-  "source": "panoramax",
-  "source_url": "https://panoramax.mapcomplete.org/#focus=pic&pic=5f729874-2a07-4a11-900b-af2dc9056c73",
-  "original_url": "https://panoramax.mapcomplete.org/permanent/5f/72/98/74/2a07-4a11-900b-af2dc9056c73.jpg",
-  "license_as_published": "CC-BY-SA-4.0",
-  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
-  "author_as_published": "mapcomplete",
-  "credit_as_published": "Panoramax, instance mapcomplete (https://panoramax.mapcomplete.org)",
-  "title": "Panoramax picture 5f729874-2a07-4a11-900b-af2dc9056c73 (Riga, 2026-06-15)",
-  "description": "Street-level picture on Panoramax, taken 2026-06-15 near Riga by mapcomplete, sequence a7cf963f-8d1c-4bac-9717-e3149f5f9fff, heading 252. OCR (PP-OCRv3) read: Piemineklis grafikimun gleznotajam | KARLIMPADEGAM（1911-1940) | Monumentto graphicartists and painter | KARLISPADEGS（1911-1940) | Telnieks.Sculptor:Ckynbatop | AndrisVarpa | Arhitekts.Architect.ApxitekTop | ArnoHeinrihsons | 1998",
-  "date": "2026-06-15",
-  "categories": [],
-  "camera_location": [
-    56.950612508,
-    24.117647642
+  "source": "commons",
+  "source_url": "https://commons.wikimedia.org/wiki/File:T%C4%93ri%C5%86u_iela_65,_R%C4%ABga.jpg",
+  "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/T%C4%93ri%C5%86u_iela_65%2C_R%C4%ABga.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author_as_published": "Андрей Романенко",
+  "credit_as_published": "Own work",
+  "title": "File:Tēriņu iela 65, Rīga.jpg",
+  "description": "Tēriņu iela 65, Rīga",
+  "date": "2026-01-17 13:02:09",
+  "categories": [
+    "65 (house number) in Latvia",
+    "Bilingual English-Latvian signs in Latvia",
+    "Green buildings in Latvia",
+    "Hair dressing shops in Latvia",
+    "One-story buildings in Latvia",
+    "Tēriņu iela"
   ],
-  "found_by": "panoramax-ocr:Riga",
-  "bytes": 7441697,
-  "width": 3072,
-  "height": 4080,
-  "downloaded_url": "https://panoramax.mapcomplete.org/permanent/5f/72/98/74/2a07-4a11-900b-af2dc9056c73.jpg",
-  "derivative": "whole 3072x4080 HD picture as served by the Panoramax instance (byte-identical; the service blurs faces and number plates), not cropped"
+  "camera_location": [
+    56.913036,
+    24.066914
+  ],
+  "found_by": "keyword",
+  "bytes": 710406,
+  "width": 1920,
+  "height": 1446,
+  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/T%C4%93ri%C5%86u_iela_65%2C_R%C4%ABga.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "derivative": ""
 }

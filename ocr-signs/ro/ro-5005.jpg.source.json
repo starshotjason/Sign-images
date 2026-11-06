@@ -1,34 +1,27 @@
 {
   "source": "commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:United_Nations_Square,_Bucharest_(DSC6288).jpg",
-  "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/United_Nations_Square%2C_Bucharest_%28DSC6288%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Metal_sheet_plaque_of_Strada_M%C4%83ic%C4%83ne%C8%99ti_in_Bucharest,_Romania.jpg",
+  "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Metal_sheet_plaque_of_Strada_M%C4%83ic%C4%83ne%C8%99ti_in_Bucharest%2C_Romania.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
   "license_as_published": "CC BY-SA 4.0",
   "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0",
-  "author_as_published": "Matti Blume ( photographer ), Matti Blume",
+  "author_as_published": "Neoclassicism Enthusiast",
   "credit_as_published": "Own work",
-  "title": "File:United Nations Square, Bucharest (DSC6288).jpg",
-  "description": "Sign on the square United Nations Square in Bucharest, Romania",
-  "date": "Taken on 28 January 2017, 13:52:28",
+  "title": "File:Metal sheet plaque of Strada Măicănești in Bucharest, Romania.jpg",
+  "description": "Metal sheet plaque of Strada Măicănești in Bucharest, Romania",
+  "date": "2022-10-18 15:19:57",
   "categories": [
-    "Blue, green, white signs",
     "Blue street signs in Bucharest",
-    "Green outlines",
-    "January 2017 in Bucharest",
-    "Romanian-language signs in Romania",
-    "United Nations Square, Bucharest",
-    "White letter signs",
-    "White on blue signs",
-    "Winter 2016-2017 in Romania",
-    "Winter in Bucharest"
+    "October 2022 in Bucharest",
+    "Strada Măicănești (Bucharest)"
   ],
   "camera_location": [
-    44.42981944,
-    26.096875
+    44.488875,
+    26.041056
   ],
   "found_by": "keyword",
-  "bytes": 930348,
+  "bytes": 562113,
   "width": 1920,
-  "height": 2868,
-  "downloaded_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/United_Nations_Square%2C_Bucharest_%28DSC6288%29.jpg/1920px-United_Nations_Square%2C_Bucharest_%28DSC6288%29.jpg",
-  "derivative": "Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org)"
+  "height": 912,
+  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Metal_sheet_plaque_of_Strada_M%C4%83ic%C4%83ne%C8%99ti_in_Bucharest%2C_Romania.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "derivative": ""
 }

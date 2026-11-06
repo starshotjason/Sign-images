@@ -1,26 +1,23 @@
 {
-  "source": "commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Madeira-Santana-Rocha_do_Navio-teleferico_(aerial_tramway)-street_sign-99ASD.jpg",
-  "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Madeira-Santana-Rocha_do_Navio-teleferico_%28aerial_tramway%29-street_sign-99ASD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/1259587/21/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlOC5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE4LzcvMi9wcm9jLzEyNTk1ODdfMF9kYmViM18yMi5qcGc",
   "license_as_published": "CC BY-SA 4.0",
-  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0",
-  "author_as_published": "Asurnipal",
-  "credit_as_published": "Own work",
-  "title": "File:Madeira-Santana-Rocha do Navio-teleferico (aerial tramway)-street sign-99ASD.jpg",
-  "description": "Aerial tramway (Teleférico) Rocha do Navio in the municipality of Sanatana in Madeira, Portugal",
-  "date": "2024-11-22",
-  "categories": [
-    "2024 in Madeira",
-    "Cableway in Rocha do Navio"
-  ],
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "filipegraciosa",
+  "credit_as_published": "KartaView user filipegraciosa (user id 14313); © KartaView contributors",
+  "title": "KartaView photo 276142729, sequence 1259587 #21 (Lisbon, 2018-07-02)",
+  "description": "Street-level picture on KartaView, taken 2018-07-02 near Lisbon by filipegraciosa, sequence 1259587, heading 0. OCR (PP-OCRv3) read: BARAO | PUINTELA | AMBULANCIA | BOMBEIROSN.LISBOA | <PPq.Cames | EMERGENCIA | C. Sodre | EMERGENCIA | PRE | MBEIROS | 210 | ABS",
+  "date": "2018-07-02",
+  "categories": [],
   "camera_location": [
-    32.813922,
-    -16.879057
+    38.709573,
+    -9.143512
   ],
-  "found_by": "keyword",
-  "bytes": 735146,
+  "found_by": "kartaview-ocr:Lisbon",
+  "bytes": 342463,
   "width": 1920,
-  "height": 1440,
-  "downloaded_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Madeira-Santana-Rocha_do_Navio-teleferico_%28aerial_tramway%29-street_sign-99ASD.jpg/1920px-Madeira-Santana-Rocha_do_Navio-teleferico_%28aerial_tramway%29-street_sign-99ASD.jpg",
-  "derivative": "Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org)"
+  "height": 1080,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlOC5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE4LzcvMi9wcm9jLzEyNTk1ODdfMF9kYmViM18yMi5qcGc",
+  "derivative": "whole 1920x1080 full-size processed (blurred) picture as served by the KartaView CDN (byte-identical; the service blurs faces and number plates), not cropped"
 }

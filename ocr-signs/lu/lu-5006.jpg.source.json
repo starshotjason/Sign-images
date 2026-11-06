@@ -1,28 +1,24 @@
 {
   "source": "commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Dudelange,_Rue_Sidney_Thomas,_street_name_sign.jpg",
-  "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Dudelange%2C_Rue_Sidney_Thomas%2C_street_name_sign.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source_url": "https://commons.wikimedia.org/wiki/File:StrasbourgLUX.jpg",
+  "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/StrasbourgLUX.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
   "license_as_published": "CC BY-SA 4.0",
   "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0",
-  "author_as_published": "Volvox",
+  "author_as_published": "BiiJii",
   "credit_as_published": "Own work",
-  "title": "File:Dudelange, Rue Sidney Thomas, street name sign.jpg",
-  "description": "Dudelange, Rue Sidney Thomas, street name sign",
-  "date": "12 October 2025 (according to Exif data)",
+  "title": "File:StrasbourgLUX.jpg",
+  "description": "Street sign in the city of Luxembourg",
+  "date": "2022-03-02 13:43:32",
   "categories": [
-    "French-language street signs in Luxembourg",
-    "October 2025 Luxembourg photographs",
-    "Sidney Gilchrist Thomas",
-    "Street signs in Dudelange"
+    "Bilingual French-Luxembourgish street signs in Luxembourg",
+    "Rue de Strasbourg (Luxembourg City)",
+    "Street signs in Luxembourg City"
   ],
-  "camera_location": [
-    49.48785,
-    6.088287
-  ],
+  "camera_location": null,
   "found_by": "keyword",
-  "bytes": 396893,
+  "bytes": 421748,
   "width": 1920,
-  "height": 1152,
-  "downloaded_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Dudelange%2C_Rue_Sidney_Thomas%2C_street_name_sign.jpg/1920px-Dudelange%2C_Rue_Sidney_Thomas%2C_street_name_sign.jpg",
-  "derivative": "Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org)"
+  "height": 1514,
+  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/StrasbourgLUX.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "derivative": ""
 }

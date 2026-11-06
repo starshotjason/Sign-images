@@ -1,23 +1,24 @@
 {
-  "source": "kartaview",
-  "source_url": "https://kartaview.org/details/51041/8745/track-info",
-  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMS5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE3LzMvNi9wcm9jLzUxMDQxXzM1ZWVlXzU4YmQ3ZDM4YWI4YTAuanBn",
+  "source": "commons",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Bahnhof,_Schaan_(1Y7A2224).jpg",
+  "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Bahnhof%2C_Schaan_%281Y7A2224%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
   "license_as_published": "CC BY-SA 4.0",
-  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
-  "author_as_published": "telenavdrives",
-  "credit_as_published": "KartaView user telenavdrives (user id 53); © KartaView contributors",
-  "title": "KartaView photo 19517573, sequence 51041 #8745 (Vaduz, 2017-02-23)",
-  "description": "Street-level picture on KartaView, taken 2017-02-23 near Vaduz by telenavdrives, sequence 51041, heading 0. OCR (PP-OCRv3) read: Aule",
-  "date": "2017-02-23",
-  "categories": [],
-  "camera_location": [
-    47.139282,
-    9.521669
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author_as_published": "Matti Blume",
+  "credit_as_published": "Own work",
+  "title": "File:Bahnhof, Schaan (1Y7A2224).jpg",
+  "description": "Schaan-Vaduz train station",
+  "date": "2018-10-06",
+  "categories": [
+    "Fotoexkursionen im Rahmen der WikiCon 2018",
+    "Schaan-Vaduz railway station",
+    "Train station signs in Liechtenstein"
   ],
-  "found_by": "kartaview-ocr:Vaduz",
-  "bytes": 264823,
-  "width": 1200,
-  "height": 900,
-  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMS5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE3LzMvNi9wcm9jLzUxMDQxXzM1ZWVlXzU4YmQ3ZDM4YWI4YTAuanBn",
-  "derivative": "crop 0,639,1200,1539 of the 2592x1936 full-size processed (blurred) picture"
+  "camera_location": null,
+  "found_by": "keyword",
+  "bytes": 920655,
+  "width": 1920,
+  "height": 1920,
+  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Bahnhof%2C_Schaan_%281Y7A2224%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "derivative": ""
 }

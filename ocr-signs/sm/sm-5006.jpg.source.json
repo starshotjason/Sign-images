@@ -1,25 +1,26 @@
 {
   "source": "commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:RSM_%E2%80%94_Citt%C3%A0_di_San_Marino_%E2%80%94_Salita_Alla_Rocca_(UNESCO_World_Heritiage_signage)_%E2%80%94_2024-05-07_Mattes.jpg",
-  "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/RSM_%E2%80%94_Citt%C3%A0_di_San_Marino_%E2%80%94_Salita_Alla_Rocca_%28UNESCO_World_Heritiage_signage%29_%E2%80%94_2024-05-07_Mattes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-  "license_as_published": "CC BY-SA 3.0",
-  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/3.0",
-  "author_as_published": "Mateus2019",
+  "source_url": "https://commons.wikimedia.org/wiki/File:RSM-Serravalle01.jpg",
+  "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/RSM-Serravalle01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author_as_published": "Szeder László",
   "credit_as_published": "Own work",
-  "title": "File:RSM — Città di San Marino — Salita Alla Rocca (UNESCO World Heritiage signage) — 2024-05-07 Mattes.jpg",
-  "description": "Informationstafel betreffend des UNESCO Weltkulturerbes „San Marino Historic Centre and Mount Titano.“",
-  "date": "Taken on 7 May 2024",
+  "title": "File:RSM-Serravalle01.jpg",
+  "description": "Serravalle - helységnévtábla",
+  "date": "2016-06-14 10:30:57",
   "categories": [
-    "San Marino (city)",
-    "Signs in San Marino (city)",
-    "Water droplets on objects",
-    "World Heritage Site signs in San Marino"
+    "Serravalle (San Marino)",
+    "Signs in San Marino"
   ],
-  "camera_location": null,
+  "camera_location": [
+    43.965809,
+    12.472964
+  ],
   "found_by": "keyword",
-  "bytes": 383158,
+  "bytes": 809825,
   "width": 1920,
-  "height": 1298,
-  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/RSM_%E2%80%94_Citt%C3%A0_di_San_Marino_%E2%80%94_Salita_Alla_Rocca_%28UNESCO_World_Heritiage_signage%29_%E2%80%94_2024-05-07_Mattes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "height": 1440,
+  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/RSM-Serravalle01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
   "derivative": ""
 }

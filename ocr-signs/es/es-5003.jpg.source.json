@@ -1,23 +1,28 @@
 {
-  "source": "panoramax",
-  "source_url": "https://panoramax.mapcomplete.org/#focus=pic&pic=9846a3e6-e42d-4478-82fc-1b1404dfd2da",
-  "original_url": "https://panoramax.mapcomplete.org/permanent/98/46/a3/e6/e42d-4478-82fc-1b1404dfd2da.jpg",
-  "license_as_published": "CC-BY-SA-4.0",
-  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
-  "author_as_published": "mapcomplete",
-  "credit_as_published": "Panoramax, instance mapcomplete (https://panoramax.mapcomplete.org)",
-  "title": "Panoramax picture 9846a3e6-e42d-4478-82fc-1b1404dfd2da (Madrid, 2026-06-08)",
-  "description": "Street-level picture on Panoramax, taken 2026-06-08 near Madrid by mapcomplete, sequence a7cf963f-8d1c-4bac-9717-e3149f5f9fff, heading 55. OCR (PP-OCRv3) read: TAPATAPA | BAR DE TAPAS",
-  "date": "2026-06-08",
-  "categories": [],
-  "camera_location": [
-    40.41488222,
-    -3.701343011
+  "source": "commons",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Sign_Rules_dam.jpg",
+  "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Sign_Rules_dam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "license_as_published": "Public domain",
+  "license_url_as_published": null,
+  "author_as_published": "Jebulon",
+  "credit_as_published": "Own work",
+  "title": "File:Sign Rules dam.jpg",
+  "description": "Sign of the Rules dam on Rio Guadalfeo in Andalusia, Province of Granada, Spain",
+  "date": "2010-08-02",
+  "categories": [
+    "Dam signs",
+    "Place name signs in Andalusia",
+    "Reservoir signs",
+    "Rules Dam"
   ],
-  "found_by": "panoramax-ocr:Madrid",
-  "bytes": 834569,
-  "width": 1724,
-  "height": 1293,
-  "downloaded_url": "https://panoramax.mapcomplete.org/permanent/98/46/a3/e6/e42d-4478-82fc-1b1404dfd2da.jpg",
-  "derivative": "crop 2135,854,3859,2147 of the 4032x3024 HD picture"
+  "camera_location": [
+    36.85986111,
+    -3.49802778
+  ],
+  "found_by": "keyword",
+  "bytes": 305734,
+  "width": 1920,
+  "height": 1278,
+  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Sign_Rules_dam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "derivative": ""
 }

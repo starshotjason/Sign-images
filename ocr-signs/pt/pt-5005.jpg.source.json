@@ -1,28 +1,26 @@
 {
   "source": "commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Albufeira,_Tile_sign,_Rua_Igreja_Velha._05_September_2016.JPG",
-  "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Albufeira%2C_Tile_sign%2C_Rua_Igreja_Velha._05_September_2016.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Madeira-Santana-Rocha_do_Navio-teleferico_(aerial_tramway)-street_sign-99ASD.jpg",
+  "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Madeira-Santana-Rocha_do_Navio-teleferico_%28aerial_tramway%29-street_sign-99ASD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
   "license_as_published": "CC BY-SA 4.0",
   "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0",
-  "author_as_published": "Kolforn ( Kolforn ) I'd appreciate if you could mail me (Kolforn@gmail.com) if you want to use this picture out of the Wikimedia project scope. This file is licensed under the Creative Commons Attribu",
+  "author_as_published": "Asurnipal",
   "credit_as_published": "Own work",
-  "title": "File:Albufeira, Tile sign, Rua Igreja Velha. 05 September 2016.JPG",
-  "description": "A decorative tile street sign which designates the Rue da Igreja Velha within Albufeira old town, Algarve, Portugal. This sign is at the southern end of the street.",
-  "date": "Taken on 5 September 2016",
+  "title": "File:Madeira-Santana-Rocha do Navio-teleferico (aerial tramway)-street sign-99ASD.jpg",
+  "description": "Aerial tramway (Teleférico) Rocha do Navio in the municipality of Sanatana in Madeira, Portugal",
+  "date": "2024-11-22",
   "categories": [
-    "Azulejo street signs in Albufeira",
-    "Pedestrian zones in Albufeira",
-    "Rua da Igreja Velha, Albufeira",
-    "September 2016 in Algarve"
+    "2024 in Madeira",
+    "Cableway in Rocha do Navio"
   ],
   "camera_location": [
-    37.08686111,
-    -8.25097222
+    32.813922,
+    -16.879057
   ],
   "found_by": "keyword",
-  "bytes": 532360,
+  "bytes": 735146,
   "width": 1920,
-  "height": 1425,
-  "downloaded_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Albufeira%2C_Tile_sign%2C_Rua_Igreja_Velha._05_September_2016.JPG/1920px-Albufeira%2C_Tile_sign%2C_Rua_Igreja_Velha._05_September_2016.JPG",
-  "derivative": "Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org)"
+  "height": 1440,
+  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Madeira-Santana-Rocha_do_Navio-teleferico_%28aerial_tramway%29-street_sign-99ASD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "derivative": ""
 }

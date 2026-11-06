@@ -1,23 +1,27 @@
 {
-  "source": "kartaview",
-  "source_url": "https://kartaview.org/details/582957/59/track-info",
-  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlNS5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE3LzkvOC9wcm9jLzU4Mjk1N185MzhiMl8xMC5qcGc",
+  "source": "commons",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Dudelange,_Rue_Norbert_Metz,_street_name_sign.jpg",
+  "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Dudelange%2C_Rue_Norbert_Metz%2C_street_name_sign.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
   "license_as_published": "CC BY-SA 4.0",
-  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
-  "author_as_published": "telenavdrives",
-  "credit_as_published": "KartaView user telenavdrives (user id 53); © KartaView contributors",
-  "title": "KartaView photo 117993355, sequence 582957 #59 (Luxembourg, 2017-08-21)",
-  "description": "Street-level picture on KartaView, taken 2017-08-21 near Luxembourg by telenavdrives, sequence 582957, heading 0. OCR (PP-OCRv3) read: SAPINDA | POLE | ICBC",
-  "date": "2017-08-21",
-  "categories": [],
-  "camera_location": [
-    49.609534,
-    6.126368
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author_as_published": "Volvox",
+  "credit_as_published": "Own work",
+  "title": "File:Dudelange, Rue Norbert Metz, street name sign.jpg",
+  "description": "Dudelange, Rue Norbert Metz, street name sign",
+  "date": "12 October 2025 (according to Exif data)",
+  "categories": [
+    "French-language street signs in Luxembourg",
+    "October 2025 Luxembourg photographs",
+    "Street signs in Dudelange"
   ],
-  "found_by": "kartaview-ocr:Luxembourg",
-  "bytes": 211594,
-  "width": 1200,
-  "height": 900,
-  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlNS5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE3LzkvOC9wcm9jLzU4Mjk1N185MzhiMl8xMC5qcGc",
-  "derivative": "crop 605,193,1805,1093 of the 2592x1936 full-size processed (blurred) picture"
+  "camera_location": [
+    49.487926,
+    6.088422
+  ],
+  "found_by": "keyword",
+  "bytes": 298930,
+  "width": 1920,
+  "height": 1145,
+  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Dudelange%2C_Rue_Norbert_Metz%2C_street_name_sign.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "derivative": ""
 }

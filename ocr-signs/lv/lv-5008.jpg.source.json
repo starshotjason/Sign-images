@@ -1,30 +1,23 @@
 {
-  "source": "commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:T%C4%93ri%C5%86u_iela_65,_R%C4%ABga.jpg",
-  "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/T%C4%93ri%C5%86u_iela_65%2C_R%C4%ABga.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-  "license_as_published": "CC BY-SA 4.0",
-  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0",
-  "author_as_published": "Андрей Романенко",
-  "credit_as_published": "Own work",
-  "title": "File:Tēriņu iela 65, Rīga.jpg",
-  "description": "Tēriņu iela 65, Rīga",
-  "date": "2026-01-17 13:02:09",
-  "categories": [
-    "65 (house number) in Latvia",
-    "Bilingual English-Latvian signs in Latvia",
-    "Green buildings in Latvia",
-    "Hair dressing shops in Latvia",
-    "One-story buildings in Latvia",
-    "Tēriņu iela"
-  ],
+  "source": "panoramax",
+  "source_url": "https://panoramax.mapcomplete.org/#focus=pic&pic=349cb9a3-2f3a-420d-bf37-525eccd1e340",
+  "original_url": "https://panoramax.mapcomplete.org/permanent/34/9c/b9/a3/2f3a-420d-bf37-525eccd1e340.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "mapcomplete",
+  "credit_as_published": "Panoramax, instance mapcomplete (https://panoramax.mapcomplete.org)",
+  "title": "Panoramax picture 349cb9a3-2f3a-420d-bf37-525eccd1e340 (Riga, 2026-06-16)",
+  "description": "Street-level picture on Panoramax, taken 2026-06-16 near Riga by mapcomplete, sequence a7cf963f-8d1c-4bac-9717-e3149f5f9fff, heading 56. OCR (PP-OCRv3) read: Regs | Autore:levaRubeze | Latvija,2015 | Makslas darbs tapis mecenatu Borisa un Inaras Teterevu | istenotas programmas \"Maksla publiskaja telpa\"ietvaros, | sadarbiba arRigas pilsetu | The Ghost | Artist:levaRubeze | Latvia,2015 | This work of art was created within theframework | ofthe\"Art in the Public Space\"programme implemented | bythephilanthropists Boris and Inara Teterev",
+  "date": "2026-06-16",
+  "categories": [],
   "camera_location": [
-    56.913036,
-    24.066914
+    56.951325178,
+    24.10791472
   ],
-  "found_by": "keyword",
-  "bytes": 710406,
-  "width": 1920,
-  "height": 1446,
-  "downloaded_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/T%C4%93ri%C5%86u_iela_65%2C_R%C4%ABga.jpg/1920px-T%C4%93ri%C5%86u_iela_65%2C_R%C4%ABga.jpg",
-  "derivative": "Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org)"
+  "found_by": "panoramax-ocr:Riga",
+  "bytes": 5728921,
+  "width": 3072,
+  "height": 4080,
+  "downloaded_url": "https://panoramax.mapcomplete.org/permanent/34/9c/b9/a3/2f3a-420d-bf37-525eccd1e340.jpg",
+  "derivative": "whole 3072x4080 HD picture as served by the Panoramax instance (byte-identical; the service blurs faces and number plates), not cropped"
 }

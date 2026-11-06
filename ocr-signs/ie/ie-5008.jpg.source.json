@@ -1,25 +1,23 @@
 {
-  "source": "commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Sandyford_apts_1.jpg",
-  "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Sandyford_apts_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-  "license_as_published": "CC0",
-  "license_url_as_published": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-  "author_as_published": "LynxesDesmond",
-  "credit_as_published": "Own work",
-  "title": "File:Sandyford apts 1.jpg",
-  "description": "Apartment blocks in Sandyford, Dublin",
-  "date": "2023-12-11",
-  "categories": [
-    "2023 in Dublin",
-    "Apartment buildings in Dublin",
-    "December 2023 in Ireland",
-    "Sandyford, Dublin"
+  "source": "panoramax",
+  "source_url": "https://panoramax.ign.fr/#focus=pic&pic=bc614836-6f8c-4071-8f07-952d76a72976",
+  "original_url": "https://panoramax.ign.fr/api/pictures/bc614836-6f8c-4071-8f07-952d76a72976/hd.jpg",
+  "license_as_published": "etalab-2.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "jg13",
+  "credit_as_published": "Panoramax, instance ign (https://panoramax.ign.fr)",
+  "title": "Panoramax picture bc614836-6f8c-4071-8f07-952d76a72976 (Dublin, 2025-10-10)",
+  "description": "Street-level picture on Panoramax, taken 2025-10-10 near Dublin by jg13, sequence 8d136f7e-d647-4248-a130-99be7c269261, heading 80. OCR (PP-OCRv3) read: BUCKHEY | Excellence | EUROGIANT | FONE CONNECT",
+  "date": "2025-10-10",
+  "categories": [],
+  "camera_location": [
+    53.349539,
+    -6.261859
   ],
-  "camera_location": null,
-  "found_by": "keyword",
-  "bytes": 748182,
-  "width": 1920,
-  "height": 1440,
-  "downloaded_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Sandyford_apts_1.jpg/1920px-Sandyford_apts_1.jpg",
-  "derivative": "Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org)"
+  "found_by": "panoramax-ocr:Dublin",
+  "bytes": 2129075,
+  "width": 1816,
+  "height": 4032,
+  "downloaded_url": "https://panoramax.ign.fr/api/pictures/bc614836-6f8c-4071-8f07-952d76a72976/hd.jpg",
+  "derivative": "whole 1816x4032 HD picture as served by the Panoramax instance (byte-identical; the service blurs faces and number plates), not cropped"
 }

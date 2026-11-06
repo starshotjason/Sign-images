@@ -1,23 +1,23 @@
 {
-  "source": "panoramax",
-  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=b16294fc-a4e3-4a6a-a05e-5cc8aff34b0a",
-  "original_url": "https://panoramax.openstreetmap.fr/images/b1/62/94/fc/a4e3-4a6a-a05e-5cc8aff34b0a.jpg",
-  "license_as_published": "CC-BY-SA-4.0",
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/1311835/249/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlOS5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE4LzEyLzYvcHJvYy8xMzExODM1XzRfZmYzNmFfNTAuanBn",
+  "license_as_published": "CC BY-SA 4.0",
   "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
-  "author_as_published": "captaininler",
-  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
-  "title": "Panoramax picture b16294fc-a4e3-4a6a-a05e-5cc8aff34b0a (Zurich, 2024-06-02)",
-  "description": "Street-level picture on Panoramax, taken 2024-06-02 near Zurich by captaininler, sequence 8fdcc718-2108-4bb3-a471-2a96223cd8a5, heading 103. OCR (PP-OCRv3) read: Schlossgasse",
-  "date": "2024-06-02",
+  "author_as_published": "telenavdrives",
+  "credit_as_published": "KartaView user telenavdrives (user id 53); © KartaView contributors",
+  "title": "KartaView photo 334708831, sequence 1311835 #249 (Zurich, 2018-12-01)",
+  "description": "Street-level picture on KartaView, taken 2018-12-01 near Zurich by telenavdrives, sequence 1311835, heading 9.61. OCR (PP-OCRv3) read: Hauptbahnhof | 日 zZurich Nord | SPIDI",
+  "date": "2018-12-01",
   "categories": [],
   "camera_location": [
-    47.368891639,
-    8.519480247
+    47.378318,
+    8.541761
   ],
-  "found_by": "panoramax-ocr:Zurich",
-  "bytes": 438587,
-  "width": 1375,
-  "height": 1031,
-  "downloaded_url": "https://panoramax.openstreetmap.fr/images/b1/62/94/fc/a4e3-4a6a-a05e-5cc8aff34b0a.jpg",
-  "derivative": "crop 2625,110,4000,1141 of the 4000x3000 HD picture"
+  "found_by": "kartaview-ocr:Zurich",
+  "bytes": 487456,
+  "width": 1200,
+  "height": 900,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlOS5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE4LzEyLzYvcHJvYy8xMzExODM1XzRfZmYzNmFfNTAuanBn",
+  "derivative": "crop 314,0,1514,900 of the 2592x1936 full-size processed (blurred) picture"
 }

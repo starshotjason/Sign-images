@@ -1,28 +1,25 @@
 {
   "source": "commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Bahnhof,_Schaan_(1Y7A2222).jpg",
-  "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Bahnhof%2C_Schaan_%281Y7A2222%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-  "license_as_published": "CC BY-SA 4.0",
-  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0",
-  "author_as_published": "Matti Blume",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Wikiolo_in_Liechtenstein_(27).jpg",
+  "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Wikiolo_in_Liechtenstein_%2827%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "license_as_published": "CC BY-SA 3.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/3.0",
+  "author_as_published": "Wikiolo",
   "credit_as_published": "Own work",
-  "title": "File:Bahnhof, Schaan (1Y7A2222).jpg",
-  "description": "Schaan-Vaduz train station",
-  "date": "2018-10-06",
+  "title": "File:Wikiolo in Liechtenstein (27).jpg",
+  "description": "Drone prohibition sign in Liechtenstein",
+  "date": "2019-06-07",
   "categories": [
-    "Autumn 2018 in Europe",
-    "Fotoexkursionen im Rahmen der WikiCon 2018",
-    "Schaan-Vaduz railway station",
-    "Train station signs in Liechtenstein"
+    "Bilingual English-German signs in Liechtenstein",
+    "Drone prohibition signs in Liechtenstein",
+    "Fingerposts in Liechtenstein",
+    "Hiking and footpath signs in Liechtenstein"
   ],
-  "camera_location": [
-    47.16801161,
-    9.50762766
-  ],
+  "camera_location": null,
   "found_by": "keyword",
-  "bytes": 757681,
+  "bytes": 1079010,
   "width": 1920,
-  "height": 1920,
-  "downloaded_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Bahnhof%2C_Schaan_%281Y7A2222%29.jpg/1920px-Bahnhof%2C_Schaan_%281Y7A2222%29.jpg",
-  "derivative": "Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org)"
+  "height": 2880,
+  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Wikiolo_in_Liechtenstein_%2827%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "derivative": ""
 }

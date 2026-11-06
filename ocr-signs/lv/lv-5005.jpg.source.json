@@ -1,23 +1,27 @@
 {
-  "source": "panoramax",
-  "source_url": "https://panoramax.mapcomplete.org/#focus=pic&pic=f85ab196-27b6-4090-9dce-2c46e8eac3eb",
-  "original_url": "https://panoramax.mapcomplete.org/permanent/f8/5a/b1/96/27b6-4090-9dce-2c46e8eac3eb.jpg",
-  "license_as_published": "CC-BY-SA-4.0",
-  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
-  "author_as_published": "mapcomplete",
-  "credit_as_published": "Panoramax, instance mapcomplete (https://panoramax.mapcomplete.org)",
-  "title": "Panoramax picture f85ab196-27b6-4090-9dce-2c46e8eac3eb (Riga, 2026-06-16)",
-  "description": "Street-level picture on Panoramax, taken 2026-06-16 near Riga by mapcomplete, sequence a7cf963f-8d1c-4bac-9717-e3149f5f9fff, heading 342. OCR (PP-OCRv3) read: BALTU | ROTAS",
-  "date": "2026-06-16",
-  "categories": [],
-  "camera_location": [
-    56.947216302,
-    24.108492985
+  "source": "commons",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Latvia,_Riga,_Vaidavas_Street,_12_-_Building_materials_shop_Elis_V_WMID2507312.jpg",
+  "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Latvia%2C_Riga%2C_Vaidavas_Street%2C_12_-_Building_materials_shop_Elis_V_WMID2507312.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "license_as_published": "CC BY-SA 3.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/3.0",
+  "author_as_published": "Imants",
+  "credit_as_published": "http://wikimapia.org/16859610/Building-materials-shop-Elis-V#/photo/2507312",
+  "title": "File:Latvia, Riga, Vaidavas Street, 12 - Building materials shop Elis V WMID2507312.jpg",
+  "description": "Building materials shop Elis V Location: Latvia, Riga, Vaidavas Street, 12 Coordinates: 56°57'39\"N 24°10'30\"E Wikimapia description: Caption: A curved, beige building with a yellow sign reading \"Elis\" and \"GARDAS SEGUMI UN SANTEHNika.\" Large glass windows display vertical red-and-yellow banners for \"TAPETES,\" \"LUSTRAS,\" and \"PARKETS.\" A yellow banner above lists \"LAMINĀTS,\" \"PARKETS,\" \"FLĪZES.\" Adjacent buildings and power lines are visible in the background under a cloudy sky.",
+  "date": "2012-06-03",
+  "categories": [
+    "2012 in Riga",
+    "Shops in Riga",
+    "Vaidavas iela (Riga)"
   ],
-  "found_by": "panoramax-ocr:Riga",
-  "bytes": 684053,
-  "width": 1800,
-  "height": 1350,
-  "downloaded_url": "https://panoramax.mapcomplete.org/permanent/f8/5a/b1/96/27b6-4090-9dce-2c46e8eac3eb.jpg",
-  "derivative": "crop 2279,163,4079,1513 of the 4080x3072 HD picture"
+  "camera_location": [
+    56.960833,
+    24.175
+  ],
+  "found_by": "keyword",
+  "bytes": 562384,
+  "width": 1920,
+  "height": 1440,
+  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Latvia%2C_Riga%2C_Vaidavas_Street%2C_12_-_Building_materials_shop_Elis_V_WMID2507312.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "derivative": ""
 }

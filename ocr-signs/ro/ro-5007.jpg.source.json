@@ -1,27 +1,24 @@
 {
   "source": "commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:No_smoking_sign_in_the_Museum_of_Popular_Architecture_of_Gorj.jpg",
-  "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/No_smoking_sign_in_the_Museum_of_Popular_Architecture_of_Gorj.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Bucharest_-_Strada_Pictor_George_Demetrescu_Mirea.jpg",
+  "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Bucharest_-_Strada_Pictor_George_Demetrescu_Mirea.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
   "license_as_published": "CC BY-SA 4.0",
   "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0",
-  "author_as_published": "Андрей Романенко",
-  "credit_as_published": "Own work",
-  "title": "File:No smoking sign in the Museum of Popular Architecture of Gorj.jpg",
-  "description": "No smoking sign in the Museum of Popular Architecture of Gorj",
-  "date": "2025-08-19 14:25:18",
+  "author_as_published": "Joe Mabel",
+  "credit_as_published": "Photo by Joe Mabel .",
+  "title": "File:Bucharest - Strada Pictor George Demetrescu Mirea.jpg",
+  "description": "Street sign, \"Strada G. D. Mirea - pictor' (Strada Pictor George Demetrescu Mirea), Aviatorilor, Bucharest Sector 1, Romania.",
+  "date": "Taken on 9 October 2024",
   "categories": [
-    "Museum of Popular Architecture of Gorj",
-    "Romanian-language signs in Romania",
-    "Smoking prohibition signs in Romania"
+    "Blue street signs in Bucharest",
+    "October 2024 in Bucharest",
+    "Strada Pictor George Demetrescu Mirea"
   ],
-  "camera_location": [
-    45.107122,
-    23.355975
-  ],
+  "camera_location": null,
   "found_by": "keyword",
-  "bytes": 1740679,
+  "bytes": 279233,
   "width": 1920,
-  "height": 2550,
-  "downloaded_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/No_smoking_sign_in_the_Museum_of_Popular_Architecture_of_Gorj.jpg/1920px-No_smoking_sign_in_the_Museum_of_Popular_Architecture_of_Gorj.jpg",
-  "derivative": "Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org)"
+  "height": 1280,
+  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Bucharest_-_Strada_Pictor_George_Demetrescu_Mirea.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "derivative": ""
 }

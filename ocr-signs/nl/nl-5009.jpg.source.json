@@ -1,27 +1,23 @@
 {
-  "source": "commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Keizersgracht_street_sign_at_Vijzelstraat_Amsterdam_2016-09-13-6631.jpg",
-  "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Keizersgracht_street_sign_at_Vijzelstraat_Amsterdam_2016-09-13-6631.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-  "license_as_published": "CC BY-SA 4.0",
-  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0",
-  "author_as_published": "Slaunger",
-  "credit_as_published": "Own work",
-  "title": "File:Keizersgracht street sign at Vijzelstraat Amsterdam 2016-09-13-6631.jpg",
-  "description": "Street sign 'Keizersgracht' on the intersection to Vijzelstraat, Amsterdam, the Netherlands",
-  "date": "Taken on 13 September 2016, 14:02:12",
-  "categories": [
-    "Keizersgracht, Amsterdam",
-    "September 2016 in Amsterdam",
-    "Street signs in Amsterdam"
-  ],
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=6664c709-86df-4ce9-a080-5226597a5f52",
+  "original_url": "https://panoramax.openstreetmap.fr/images/66/64/c7/09/86df-4ce9-a080-5226597a5f52.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "PanierAvide",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture 6664c709-86df-4ce9-a080-5226597a5f52 (Amsterdam, 2017-10-28)",
+  "description": "Street-level picture on Panoramax, taken 2017-10-28 near Amsterdam by PanierAvide, sequence 9a374fc8-a868-4a0a-8ba2-2c010c647d95, heading 206. OCR (PP-OCRv3) read: Zuiderkerk | 235 | Agnietenkapel | Adreamerisonewho canonly findhiswayby | moonlight,and his punishment is that he | seesthedawnbeforetherestofthe worid. | De WalseKerk | VERBODEN | VERBODEN | PARKERER | Perdu | Compagnietheater",
+  "date": "2017-10-28",
+  "categories": [],
   "camera_location": [
-    52.363711,
-    4.892492
+    52.36924441,
+    4.89498562
   ],
-  "found_by": "keyword",
-  "bytes": 424990,
-  "width": 1920,
-  "height": 760,
-  "downloaded_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Keizersgracht_street_sign_at_Vijzelstraat_Amsterdam_2016-09-13-6631.jpg/1920px-Keizersgracht_street_sign_at_Vijzelstraat_Amsterdam_2016-09-13-6631.jpg",
-  "derivative": "Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org)"
+  "found_by": "panoramax-ocr:Amsterdam",
+  "bytes": 2394757,
+  "width": 4096,
+  "height": 2160,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/66/64/c7/09/86df-4ce9-a080-5226597a5f52.jpg",
+  "derivative": "whole 4096x2160 HD picture as served by the Panoramax instance (byte-identical; the service blurs faces and number plates), not cropped"
 }

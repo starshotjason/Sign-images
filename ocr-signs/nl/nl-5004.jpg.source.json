@@ -1,23 +1,30 @@
 {
-  "source": "kartaview",
-  "source_url": "https://kartaview.org/details/6072841/5341/track-info",
-  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMi85LzEwL3Byb2MvNjA3Mjg0MV80YzI1YV82MzFjYzJhM2RiODJlLmpwZw",
-  "license_as_published": "CC BY-SA 4.0",
-  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
-  "author_as_published": "madflex",
-  "credit_as_published": "KartaView user madflex (user id 15617); © KartaView contributors",
-  "title": "KartaView photo 1605309225, sequence 6072841 #5341 (Amsterdam, 2022-08-20)",
-  "description": "Street-level picture on KartaView, taken 2022-08-20 near Amsterdam by madflex, sequence 6072841, heading 21.5. OCR (PP-OCRv3) read: DIEBJENKORF | ABN·AMRO",
-  "date": "2022-08-20",
-  "categories": [],
-  "camera_location": [
-    52.372963,
-    4.893222
+  "source": "commons",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Landgoed_Kasteel_Geldrop_borden_ingang_Mierloseweg_2025-03-20.jpg",
+  "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Landgoed_Kasteel_Geldrop_borden_ingang_Mierloseweg_2025-03-20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "license_as_published": "CC BY 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by/4.0",
+  "author_as_published": "Renée Kools",
+  "credit_as_published": "Own work",
+  "title": "File:Landgoed Kasteel Geldrop borden ingang Mierloseweg 2025-03-20.jpg",
+  "description": "Various signs at the entrance to the Geldrop Castle Estate at the Mierloseweg",
+  "date": "2025-03-20 13:58:01",
+  "categories": [
+    "2025 in Geldrop-Mierlo",
+    "Kasteel Geldrop",
+    "Mierloseweg, Geldrop",
+    "No dogs signs in the Netherlands",
+    "Photographs of cyclist path signs",
+    "Signs in Geldrop-Mierlo"
   ],
-  "found_by": "kartaview-ocr:Amsterdam",
-  "bytes": 1032229,
-  "width": 2257,
-  "height": 1693,
-  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMi85LzEwL3Byb2MvNjA3Mjg0MV80YzI1YV82MzFjYzJhM2RiODJlLmpwZw",
-  "derivative": "crop 1290,0,3547,1693 of the 4000x3000 full-size processed (blurred) picture"
+  "camera_location": [
+    51.423958,
+    5.559064
+  ],
+  "found_by": "keyword",
+  "bytes": 2047846,
+  "width": 1920,
+  "height": 3200,
+  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Landgoed_Kasteel_Geldrop_borden_ingang_Mierloseweg_2025-03-20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "derivative": ""
 }

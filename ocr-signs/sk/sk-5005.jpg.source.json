@@ -1,23 +1,26 @@
 {
-  "source": "kartaview",
-  "source_url": "https://kartaview.org/details/117637/322/track-info",
-  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMy5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE3LzQvOC9wcm9jLzExNzYzN18yZmJmMF81OGU5MTdlNmQyMmFkLmpwZw",
+  "source": "commons",
+  "source_url": "https://commons.wikimedia.org/wiki/File:%C5%BDelezni%C4%8Dn%C3%A1_stanica_Star%C3%BD_Smokovec,_sign,_Vysok%C3%A9_Tatry,_2026.jpg",
+  "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/%C5%BDelezni%C4%8Dn%C3%A1_stanica_Star%C3%BD_Smokovec%2C_sign%2C_Vysok%C3%A9_Tatry%2C_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
   "license_as_published": "CC BY-SA 4.0",
-  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
-  "author_as_published": "petr-p",
-  "credit_as_published": "KartaView user petr-p (user id 8487); © KartaView contributors",
-  "title": "KartaView photo 25464768, sequence 117637 #322 (Bratislava, 2017-04-08)",
-  "description": "Street-level picture on KartaView, taken 2017-04-08 near Bratislava by petr-p, sequence 117637, heading 169.35. OCR (PP-OCRv3) read: Budapest, Wien | Brno,Zilina | Petrzalka | Devin | Karlova Ves",
-  "date": "2017-04-08",
-  "categories": [],
-  "camera_location": [
-    48.143014,
-    17.104085
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author_as_published": "Antimuonium",
+  "credit_as_published": "Own work",
+  "title": "File:Železničná stanica Starý Smokovec, sign, Vysoké Tatry, 2026.jpg",
+  "description": "Un panneau de direction à la gare de Starý Smokovec à Vysoké Tatry (Slovaquie).",
+  "date": "2026-08-18 16:07:29",
+  "categories": [
+    "Starý Smokovec (train station)",
+    "Train station signs in Slovakia"
   ],
-  "found_by": "kartaview-ocr:Bratislava",
-  "bytes": 638230,
-  "width": 2441,
-  "height": 1830,
-  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMy5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE3LzQvOC9wcm9jLzExNzYzN18yZmJmMF81OGU5MTdlNmQyMmFkLmpwZw",
-  "derivative": "crop 1590,306,4031,2136 of the 4032x3024 full-size processed (blurred) picture"
+  "camera_location": [
+    49.139136,
+    20.222686
+  ],
+  "found_by": "keyword",
+  "bytes": 1244804,
+  "width": 1920,
+  "height": 1440,
+  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/%C5%BDelezni%C4%8Dn%C3%A1_stanica_Star%C3%BD_Smokovec%2C_sign%2C_Vysok%C3%A9_Tatry%2C_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "derivative": ""
 }

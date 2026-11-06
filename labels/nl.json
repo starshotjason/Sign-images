@@ -138,5 +138,253 @@
   },
   "difficulty": "medium",
   "notes": "Black letters on a canopy over the Bitterzoet music venue, Amsterdam, in a tilted reprojected panorama crop. Distractors: van livery ('...luchttechniek', large logo) in the foreground, 'days 1970' / 'dogs' sign on the neighbouring bar, a person's hair in the corner."
+ },
+ "c108317514": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Hoogland 6",
+    "lang": "nl"
+   },
+   {
+    "text": "Amersfoort-Noord",
+    "lang": "nl"
+   },
+   {
+    "text": "Soestdijk 2",
+    "lang": "nl"
+   },
+   {
+    "text": "Baarn 4",
+    "lang": "nl"
+   }
+  ],
+  "expect": {
+   "query": "Soestdijk",
+   "type": "place"
+  },
+  "difficulty": "hard",
+  "notes": "Soest, Kerkplein: white/red ANWB cycle fingerpost at right. Lines are the two left-pointing fingers (place names + km). The two right-pointing fingers below ('...mersfoort 8 / ...oestduinen 5', '...oesterberg 8 / ...rnhem 55') are angled and their first letters are partly hidden by the pole clamps, so they are left out. Distractors: blue cycle-path roundel with junction-route plate '67 / PROVINCIE UTRECHT', church tower."
+ },
+ "c50797512": {
+  "accept": false,
+  "reason": "photo of a front door; the only text is a tiny house-number plate '4' with no street name"
+ },
+ "c50797538": {
+  "accept": false,
+  "reason": "book cart and a window poster (bookshop advert 'INKOOP VAN BOEKEN'); only a small '2D' house number, no shop sign as target"
+ },
+ "c55026779": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "KEIZERSGRACHT",
+    "lang": "nl"
+   },
+   {
+    "text": "CENTRUM",
+    "lang": "nl"
+   }
+  ],
+  "expect": {
+   "query": "Keizersgracht",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Amsterdam blue enamel street plate on brick, frontal close-up; 'CENTRUM' is the district (stadsdeel) line, right-aligned. Paint splashes on the enamel."
+ },
+ "c147862425": {
+  "accept": false,
+  "reason": "generic Kiss & Ride traffic sign ('K+R Kiss & ride / halen en brengen'); names no place"
+ },
+ "c168529234": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "WELKOM OP LANDGOED",
+    "lang": "nl"
+   },
+   {
+    "text": "KASTEEL GELDROP",
+    "lang": "nl"
+   },
+   {
+    "text": "open van 9:00 uur tot zonsondergang",
+    "lang": "nl"
+   },
+   {
+    "text": "poort Mierloseweg sluit op vrijdag- en",
+    "lang": "nl"
+   },
+   {
+    "text": "zaterdagavond om 20:00 uur",
+    "lang": "nl"
+   },
+   {
+    "text": "geen honden en geen brommers",
+    "lang": "nl"
+   },
+   {
+    "text": "na zonsondergang toegang alleen",
+    "lang": "nl"
+   },
+   {
+    "text": "voor genodigden anders geldt:",
+    "lang": "nl"
+   },
+   {
+    "text": "Verboden Toegang, art. 461 W.v.S.",
+    "lang": "nl"
+   }
+  ],
+  "expect": {
+   "query": "Kasteel Geldrop",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Estate entrance on a brick gate pier: target is the pale-green board at the bottom with coat-of-arms logo; title lines in bold blue caps, small rules text below (small but legible). Distractors above it: blue 'fietspad' plate and 'Verboden voor honden' no-dogs sign. The rules text mentions the street 'Mierloseweg'."
+ },
+ "c185084705": {
+  "accept": false,
+  "reason": "wide street scene with trees; the fingerpost and building signs are far too small to read"
+ },
+ "c50797456": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "STENEN",
+    "lang": "nl"
+   },
+   {
+    "text": "MUSEUM WINKELTJE",
+    "lang": "nl"
+   }
+  ],
+  "expect": {
+   "query": "Stenen Museum",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Bredevoort ('t Zand): narrow vertical teal banner to the right of the door, text rotated 90 degrees (reads bottom-to-top), small in a whole-facade photo. Matching 'STENEN' sandwich board by the door is too small to read fully. Distractors: wall-anchor letters/numbers on the facade, 'Hotel Pens...' awning at right (cut off). People at a terrace at right are incidental."
+ },
+ "c53544272": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "THE BULLDOG",
+    "lang": "en"
+   },
+   {
+    "text": "COFFEESHOP",
+    "lang": "nl"
+   }
+  ],
+  "expect": {
+   "query": "The Bulldog",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Amsterdam, Singel: hanging sign with arched neon 'THE BULLDOG' over a bulldog-logo disc and a red 'COFFEESHOP' box. Distractors: Coca-Cola umbrella, partial green 'The St...' sign behind, small repeat logo in the window."
+ },
+ "c79330429": {
+  "accept": false,
+  "reason": "the only name is faint lettering on the terminal glass ('...STAD AIRPORT'), partly hidden by a pole and not fully legible"
+ },
+ "c87335478": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Eemshaven",
+    "lang": "nl"
+   }
+  ],
+  "expect": {
+   "query": "Eemshaven",
+   "type": "place"
+  },
+  "difficulty": "medium",
+  "notes": "Low-angle film photo of a levee gate (dijkcoupure); target is the blue-bordered white place-name sign at right. Above it an older tilted place-name sign 'Eemshaven / gem E?msmond' whose second line is partly hidden by a post. Distractors: 'drempel' sub-plate under a warning triangle, priority roundel, warning-triangle panel. Cyclist seen from behind (incidental)."
+ },
+ "c94538660": {
+  "accept": false,
+  "reason": "residential street view; only a no-trucks traffic pictogram, no readable name sign"
+ },
+ "c42564419": {
+  "accept": false,
+  "reason": "regulatory traffic sub-plates ('fietsen toegestaan op de rijloper', 'snorfietsers verboden'); names no place"
+ },
+ "c80001477": {
+  "accept": false,
+  "reason": "shopping-cart parking pictogram ('P' + trolley); no place text"
+ },
+ "c153873959": {
+  "accept": false,
+  "reason": "school-zone warning sign ('LET OP / SCHOOLZONE'); names no place"
+ },
+ "c153914199": {
+  "accept": false,
+  "reason": "same school-zone warning sign in a street view; names no place (and near-duplicate of c153873959)"
+ },
+ "c92857410": {
+  "accept": false,
+  "reason": "warning-triangle pictogram (waiter crossing) with no text; 'delft city shuttle' flag is a small advert"
+ },
+ "c138455552": {
+  "accept": false,
+  "reason": "chalkboard sandwich board with slogan and drinks menu ('...STRONG COFFEE', espresso list, 'TAKEAWAY specialty coffee'); no shop name"
+ },
+ "c90486900": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Verheek Zonwering",
+    "lang": "nl"
+   }
+  ],
+  "expect": {
+   "query": "Verheek Zonwering",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Winschoten: white lightbox fascia with dark-blue bold text and a red sun logo, shot from below against the sky. The same name repeats in italic on the side fascia at left (angled, with a yellow sun). Distractors: 'ingang' (entrance) lettering on the shopfront below, small 'neon-lux' maker label on the box."
+ },
+ "c80169161": {
+  "accept": false,
+  "reason": "generic shopping-centre parking route sign ('P1', 'P2', 'Parkeren winkelcentrum'); names no specific place"
  }
 }

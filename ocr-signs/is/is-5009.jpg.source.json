@@ -1,23 +1,23 @@
 {
-  "source": "kartaview",
-  "source_url": "https://kartaview.org/details/1180255/397/track-info",
-  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlOC5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE4LzUvMTIvcHJvYy8xMTgwMjU1X2VkOGY1XzQ4LmpwZw",
-  "license_as_published": "CC BY-SA 4.0",
+  "source": "panoramax",
+  "source_url": "https://panoramax.ign.fr/#focus=pic&pic=7f794fd5-fde1-4056-8f5f-15cf378d2c03",
+  "original_url": "https://panoramax.ign.fr/api/pictures/7f794fd5-fde1-4056-8f5f-15cf378d2c03/hd.jpg",
+  "license_as_published": "etalab-2.0",
   "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
-  "author_as_published": "Serzh",
-  "credit_as_published": "KartaView user Serzh (user id 809); © KartaView contributors",
-  "title": "KartaView photo 243043145, sequence 1180255 #397 (Reykjavik, 2018-05-10)",
-  "description": "Street-level picture on KartaView, taken 2018-05-10 near Reykjavik by Serzh, sequence 1180255, heading 0. OCR (PP-OCRv3) read: Sian 1998",
-  "date": "2018-05-10",
+  "author_as_published": "jg13",
+  "credit_as_published": "Panoramax, instance ign (https://panoramax.ign.fr)",
+  "title": "Panoramax picture 7f794fd5-fde1-4056-8f5f-15cf378d2c03 (Reykjavik, 2025-10-31)",
+  "description": "Street-level picture on Panoramax, taken 2025-10-31 near Reykjavik by jg13, sequence eb9eddd1-738a-4665-896d-a52573fec4a0, heading 149. OCR (PP-OCRv3) read: ROOF TOP DINING | Drinks | TakE-Away | Coffee | TERRace | WiRELeSS | BREaD | FRUiT-CREPeS | gRiLLED | CHEESE | giant CookiEs",
+  "date": "2025-10-31",
   "categories": [],
   "camera_location": [
-    64.148362,
-    -21.937691
+    64.144232,
+    -21.930077
   ],
-  "found_by": "kartaview-ocr:Reykjavik",
-  "bytes": 157561,
-  "width": 1200,
-  "height": 900,
-  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlOC5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE4LzUvMTIvcHJvYy8xMTgwMjU1X2VkOGY1XzQ4LmpwZw",
-  "derivative": "crop 720,180,1920,1080 of the 1920x1080 full-size processed (blurred) picture"
+  "found_by": "panoramax-ocr:Reykjavik",
+  "bytes": 2054176,
+  "width": 1816,
+  "height": 4032,
+  "downloaded_url": "https://panoramax.ign.fr/api/pictures/7f794fd5-fde1-4056-8f5f-15cf378d2c03/hd.jpg",
+  "derivative": "whole 1816x4032 HD picture as served by the Panoramax instance (byte-identical; the service blurs faces and number plates), not cropped"
 }

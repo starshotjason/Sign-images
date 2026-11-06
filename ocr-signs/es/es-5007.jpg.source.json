@@ -1,23 +1,23 @@
 {
-  "source": "kartaview",
-  "source_url": "https://kartaview.org/details/2833306/82/track-info",
-  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMC83LzI5L3Byb2MvMjgzMzMwNl81ZjdmNV81ZjIxZDk5MDMxOTVmLmpwZw",
-  "license_as_published": "CC BY-SA 4.0",
+  "source": "panoramax",
+  "source_url": "https://panoramax.mapcomplete.org/#focus=pic&pic=9846a3e6-e42d-4478-82fc-1b1404dfd2da",
+  "original_url": "https://panoramax.mapcomplete.org/permanent/98/46/a3/e6/e42d-4478-82fc-1b1404dfd2da.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
   "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
-  "author_as_published": "radnaj",
-  "credit_as_published": "KartaView user radnaj (user id 12405); © KartaView contributors",
-  "title": "KartaView photo 1020969730, sequence 2833306 #82 (Madrid, 2016-05-27)",
-  "description": "Street-level picture on KartaView, taken 2016-05-27 near Madrid by radnaj, sequence 2833306, heading 70.12. OCR (PP-OCRv3) read: FARMACIA | CORREOS",
-  "date": "2016-05-27",
+  "author_as_published": "mapcomplete",
+  "credit_as_published": "Panoramax, instance mapcomplete (https://panoramax.mapcomplete.org)",
+  "title": "Panoramax picture 9846a3e6-e42d-4478-82fc-1b1404dfd2da (Madrid, 2026-06-08)",
+  "description": "Street-level picture on Panoramax, taken 2026-06-08 near Madrid by mapcomplete, sequence a7cf963f-8d1c-4bac-9717-e3149f5f9fff, heading 55. OCR (PP-OCRv3) read: TAPATAPA | BAR DE TAPAS",
+  "date": "2026-06-08",
   "categories": [],
   "camera_location": [
-    40.413713,
-    -3.708797
+    40.41488222,
+    -3.701343011
   ],
-  "found_by": "kartaview-ocr:Madrid",
-  "bytes": 239352,
-  "width": 1200,
-  "height": 900,
-  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMC83LzI5L3Byb2MvMjgzMzMwNl81ZjdmNV81ZjIxZDk5MDMxOTVmLmpwZw",
-  "derivative": "crop 1694,577,2894,1477 of the 3264x2448 full-size processed (blurred) picture"
+  "found_by": "panoramax-ocr:Madrid",
+  "bytes": 834569,
+  "width": 1724,
+  "height": 1293,
+  "downloaded_url": "https://panoramax.mapcomplete.org/permanent/98/46/a3/e6/e42d-4478-82fc-1b1404dfd2da.jpg",
+  "derivative": "crop 2135,854,3859,2147 of the 4032x3024 HD picture"
 }

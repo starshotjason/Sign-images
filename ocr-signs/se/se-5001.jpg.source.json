@@ -1,23 +1,29 @@
 {
-  "source": "kartaview",
-  "source_url": "https://kartaview.org/details/941165/913/track-info",
-  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlNi5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE3LzEwLzE3L3Byb2MvOTQxMTY1Xzc5NjJhXzE0LmpwZw",
+  "source": "commons",
+  "source_url": "https://commons.wikimedia.org/wiki/File:V%C3%A4gvisare_n%C3%A4r_man_sv%C3%A4nger_ut_p%C3%A5_l%C3%A4nsv%C3%A4g_181_fr%C3%A5n_Floby_kyrka_2021-06-27_(5264).jpg",
+  "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/V%C3%A4gvisare_n%C3%A4r_man_sv%C3%A4nger_ut_p%C3%A5_l%C3%A4nsv%C3%A4g_181_fr%C3%A5n_Floby_kyrka_2021-06-27_%285264%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
   "license_as_published": "CC BY-SA 4.0",
-  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
-  "author_as_published": "telenavdrives",
-  "credit_as_published": "KartaView user telenavdrives (user id 53); © KartaView contributors",
-  "title": "KartaView photo 145004799, sequence 941165 #913 (Stockholm, 2017-09-20)",
-  "description": "Street-level picture on KartaView, taken 2017-09-20 near Stockholm by telenavdrives, sequence 941165, heading 0. OCR (PP-OCRv3) read: STOCKHOLM HEAR | valea | EASTCAP | EIGIGANTEN | WESS AU SDERQVIS | Lakarbesok | nar det | passar dig",
-  "date": "2017-09-20",
-  "categories": [],
-  "camera_location": [
-    59.335227,
-    18.064106
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author_as_published": "Gunnar Creutz",
+  "credit_as_published": "Own work",
+  "title": "File:Vägvisare när man svänger ut på länsväg 181 från Floby kyrka 2021-06-27 (5264).jpg",
+  "description": "Directional road signs at Swedish county road 181 south of Floby, Floby Parish, Falköping Municipality, Västergötland, Västra Götaland County, Sweden. The signs point left towards Floby and Herrljunga and right towards Falköping. Industrial buildings in the southern part of Floby are visible in the background.",
+  "date": "2021-06-27 17:57:21",
+  "categories": [
+    "2021 in Falköping Municipality",
+    "Directional road signs in Sweden",
+    "Floby socken",
+    "June 2021 in Västra Götaland County",
+    "Swedish county road 181"
   ],
-  "found_by": "kartaview-ocr:Stockholm",
-  "bytes": 721505,
-  "width": 2592,
-  "height": 1936,
-  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlNi5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE3LzEwLzE3L3Byb2MvOTQxMTY1Xzc5NjJhXzE0LmpwZw",
-  "derivative": "whole 2592x1936 full-size processed (blurred) picture as served by the KartaView CDN (byte-identical; the service blurs faces and number plates), not cropped"
+  "camera_location": [
+    58.127558,
+    13.337941
+  ],
+  "found_by": "keyword",
+  "bytes": 712080,
+  "width": 1920,
+  "height": 1411,
+  "downloaded_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/V%C3%A4gvisare_n%C3%A4r_man_sv%C3%A4nger_ut_p%C3%A5_l%C3%A4nsv%C3%A4g_181_fr%C3%A5n_Floby_kyrka_2021-06-27_%285264%29.jpg/1920px-V%C3%A4gvisare_n%C3%A4r_man_sv%C3%A4nger_ut_p%C3%A5_l%C3%A4nsv%C3%A4g_181_fr%C3%A5n_Floby_kyrka_2021-06-27_%285264%29.jpg",
+  "derivative": "Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org)"
 }

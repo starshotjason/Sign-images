@@ -130,5 +130,41 @@
  "c82194574": {
   "accept": false,
   "reason": "wrong country (DR Congo per description); 'PAS D'ARMES / NO WEAPONS' prohibition sign with no place name"
+ },
+ "c174200098": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Ville de Pointe-Noire",
+    "lang": "fr"
+   },
+   {
+    "text": "1.E.P.LUMUMBA / LOSANGE",
+    "lang": "fr"
+   },
+   {
+    "text": "AVENUE",
+    "lang": "fr"
+   },
+   {
+    "text": "de NGOUEDI",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "Avenue de Ngouedi",
+   "type": "street"
+  },
+  "difficulty": "medium",
+  "notes": "Blue enamel French-style street plate in central Pointe-Noire, shot from below at an angle. Small header gives city and district (arrondissement 1 E.P. Lumumba, quartier Losange). Mobile-operator advert ('Forfait Na Ngai') below is a distractor."
+ },
+ "c174200094": {
+  "accept": false,
+  "reason": "near-duplicate of accepted c174200098 (same Avenue de Ngouedi plate, similar angle)"
  }
 }

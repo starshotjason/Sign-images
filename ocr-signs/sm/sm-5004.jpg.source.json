@@ -1,25 +1,28 @@
 {
   "source": "commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Entrance_Republic_of_San_Marino_-_panoramio.jpg",
-  "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Entrance_Republic_of_San_Marino_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source_url": "https://commons.wikimedia.org/wiki/File:San_Marino,_Gendarmeria,_1.jpeg",
+  "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/San_Marino%2C_Gendarmeria%2C_1.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
   "license_as_published": "CC BY-SA 3.0",
   "license_url_as_published": "https://creativecommons.org/licenses/by-sa/3.0",
-  "author_as_published": "arjenD",
-  "credit_as_published": "https://web.archive.org/web/20161012040755/http://www.panoramio.com/photo/17698765",
-  "title": "File:Entrance Republic of San Marino - panoramio.jpg",
-  "description": "Entrance Republic of San Marino",
-  "date": "Taken on 12 August 2008",
+  "author_as_published": "Aisano",
+  "credit_as_published": "Self-photographed",
+  "title": "File:San Marino, Gendarmeria, 1.jpeg",
+  "description": "Die Zentrale der Gendarmerie von San Marino an der via John Fitzgerald Kennedy.",
+  "date": "2015-09-03",
   "categories": [
-    "Signs in San Marino"
+    "Defibrillator signs",
+    "Fiat Panda (2003) in police service",
+    "Gendarmerie of San Marino",
+    "Police automobiles in San Marino"
   ],
   "camera_location": [
-    43.984509,
-    12.492979
+    43.92847222,
+    12.45177778
   ],
   "found_by": "keyword",
-  "bytes": 383652,
+  "bytes": 728342,
   "width": 1920,
   "height": 1440,
-  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Entrance_Republic_of_San_Marino_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/San_Marino%2C_Gendarmeria%2C_1.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
   "derivative": ""
 }

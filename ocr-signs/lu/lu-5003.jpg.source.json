@@ -1,23 +1,27 @@
 {
-  "source": "panoramax",
-  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=61f4a147-dcdb-489d-89a0-4cbe66a7f8d8",
-  "original_url": "https://panoramax.openstreetmap.fr/images/61/f4/a1/47/dcdb-489d-89a0-4cbe66a7f8d8.jpg",
-  "license_as_published": "CC-BY-SA-4.0",
-  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
-  "author_as_published": "pbraun",
-  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
-  "title": "Panoramax picture 61f4a147-dcdb-489d-89a0-4cbe66a7f8d8 (Luxembourg, 2025-07-18)",
-  "description": "Street-level picture on Panoramax, taken 2025-07-18 near Luxembourg by pbraun, sequence 5f3f6f3f-ac06-4207-827c-975e59187799, heading 71. OCR (PP-OCRv3) read: Quartier Gare | LETZSHOP",
-  "date": "2025-07-18",
-  "categories": [],
-  "camera_location": [
-    49.60481422,
-    6.13500558
+  "source": "commons",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Road_sign_Bisserweg.jpg",
+  "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Road_sign_Bisserweg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "license_as_published": "CC BY 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by/4.0",
+  "author_as_published": "MNHNL_pbraun",
+  "credit_as_published": "Own work",
+  "title": "File:Road sign Bisserweg.jpg",
+  "description": "Road sign Bissereeg",
+  "date": "13 March 2020 (according to Exif data)",
+  "categories": [
+    "Biisserwee",
+    "Bilingual German-Luxembourgish street signs in Luxembourg",
+    "Street signs in Luxembourg City"
   ],
-  "found_by": "panoramax-ocr:Luxembourg",
-  "bytes": 519363,
-  "width": 1657,
-  "height": 1243,
-  "downloaded_url": "https://panoramax.openstreetmap.fr/images/61/f4/a1/47/dcdb-489d-89a0-4cbe66a7f8d8.jpg",
-  "derivative": "crop 1275,0,2932,1243 of the 3840x2160 HD picture"
+  "camera_location": [
+    49.60919,
+    6.1476
+  ],
+  "found_by": "keyword",
+  "bytes": 1150071,
+  "width": 1920,
+  "height": 1440,
+  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Road_sign_Bisserweg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "derivative": ""
 }

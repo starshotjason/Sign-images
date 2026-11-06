@@ -1,23 +1,27 @@
 {
-  "source": "panoramax",
-  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=879517d4-f4ab-41bf-8a7e-f5046cda6a20",
-  "original_url": "https://panoramax.openstreetmap.fr/images/87/95/17/d4/f4ab-41bf-8a7e-f5046cda6a20.jpg",
-  "license_as_published": "CC-BY-SA-4.0",
-  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
-  "author_as_published": "jerome92370",
-  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
-  "title": "Panoramax picture 879517d4-f4ab-41bf-8a7e-f5046cda6a20 (Lisbon, 2023-10-30)",
-  "description": "Street-level picture on Panoramax, taken 2023-10-30 near Lisbon by jerome92370, sequence 5d37cd99-c53f-41fb-9780-a9a380354f43, heading 152. OCR (PP-OCRv3) read: CASA BRASILEIRA",
-  "date": "2023-10-30",
-  "categories": [],
-  "camera_location": [
-    38.712700166,
-    -9.1385234
+  "source": "commons",
+  "source_url": "https://commons.wikimedia.org/wiki/File:25-08-2017_Street_name_sign,_Rua_dos_Girass%C3%B3is,_Albufeira.JPG",
+  "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/25-08-2017_Street_name_sign%2C_Rua_dos_Girass%C3%B3is%2C_Albufeira.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "license_as_published": "CC BY 3.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by/3.0",
+  "author_as_published": "Kolforn",
+  "credit_as_published": "Own work",
+  "title": "File:25-08-2017 Street name sign, Rua dos Girassóis, Albufeira.JPG",
+  "description": "A decorative tile street sign which designates the Rua dos Girassóis in the city of Albufeira , Algarve, Portugal.",
+  "date": "2017-08-25",
+  "categories": [
+    "August 2017 in Algarve",
+    "Azulejo street signs in Albufeira",
+    "Rua dos Girassóis, Albufeira"
   ],
-  "found_by": "panoramax-ocr:Lisbon",
-  "bytes": 2510910,
-  "width": 3606,
-  "height": 2705,
-  "downloaded_url": "https://panoramax.openstreetmap.fr/images/87/95/17/d4/f4ab-41bf-8a7e-f5046cda6a20.jpg",
-  "derivative": "crop 425,0,4031,2705 of the 4032x3024 HD picture"
+  "camera_location": [
+    37.093546,
+    -8.239138
+  ],
+  "found_by": "keyword",
+  "bytes": 555745,
+  "width": 1920,
+  "height": 1440,
+  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/25-08-2017_Street_name_sign%2C_Rua_dos_Girass%C3%B3is%2C_Albufeira.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "derivative": ""
 }

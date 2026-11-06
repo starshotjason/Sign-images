@@ -1,23 +1,23 @@
 {
   "source": "panoramax",
-  "source_url": "https://panoramax.ign.fr/#focus=pic&pic=7bebebaf-db34-47ed-b7f5-1f74c545f7cb",
-  "original_url": "https://panoramax.ign.fr/api/pictures/7bebebaf-db34-47ed-b7f5-1f74c545f7cb/hd.jpg",
+  "source_url": "https://panoramax.ign.fr/#focus=pic&pic=dc571acd-e47c-4296-98ed-16ba430c79d6",
+  "original_url": "https://panoramax.ign.fr/api/pictures/dc571acd-e47c-4296-98ed-16ba430c79d6/hd.jpg",
   "license_as_published": "etalab-2.0",
   "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
   "author_as_published": "jg13",
   "credit_as_published": "Panoramax, instance ign (https://panoramax.ign.fr)",
-  "title": "Panoramax picture 7bebebaf-db34-47ed-b7f5-1f74c545f7cb (Reykjavik, 2025-10-31)",
-  "description": "Street-level picture on Panoramax, taken 2025-10-31 near Reykjavik by jg13, sequence 19337bd5-f0a6-4483-b24b-0e17dd2e6d65, heading 267. OCR (PP-OCRv3) read: SMIEKKLEYSA",
+  "title": "Panoramax picture dc571acd-e47c-4296-98ed-16ba430c79d6 (Reykjavik, 2025-10-31)",
+  "description": "Street-level picture on Panoramax, taken 2025-10-31 near Reykjavik by jg13, sequence 58444a3c-804f-4acd-b48c-d3b1bc28b9a8, heading 140. OCR (PP-OCRv3) read: VARUD! | Tobaksverslun | BJORK",
   "date": "2025-10-31",
   "categories": [],
   "camera_location": [
-    64.1458991,
-    -21.9295145
+    64.146826,
+    -21.934886972
   ],
   "found_by": "panoramax-ocr:Reykjavik",
-  "bytes": 423193,
-  "width": 1649,
-  "height": 1236,
-  "downloaded_url": "https://panoramax.ign.fr/api/pictures/7bebebaf-db34-47ed-b7f5-1f74c545f7cb/hd.jpg",
-  "derivative": "crop 140,1596,1789,2832 of the 1816x4032 HD picture"
+  "bytes": 318326,
+  "width": 1816,
+  "height": 1670,
+  "downloaded_url": "https://panoramax.ign.fr/api/pictures/dc571acd-e47c-4296-98ed-16ba430c79d6/hd.jpg",
+  "derivative": "crop 0,448,1816,2118 of the 1816x4032 HD picture"
 }

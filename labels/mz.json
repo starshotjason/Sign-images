@@ -202,5 +202,9 @@
  "c73900871": {
   "accept": false,
   "reason": "main element is a Coca-Cola advert; the shop name beside it is cut off by foliage"
+ },
+ "c73900227": {
+  "accept": false,
+  "reason": "'DEFLATE TYRES TO 0.8 bar' instruction and 20 speed-limit sign; no place name"
  }
 }

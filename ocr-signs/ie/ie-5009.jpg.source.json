@@ -1,29 +1,23 @@
 {
-  "source": "commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Cuiltycreaghan_L65518_local_road_sign.jpg",
-  "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Cuiltycreaghan_L65518_local_road_sign.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-  "license_as_published": "CC BY-SA 4.0",
-  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0",
-  "author_as_published": "Spideog",
-  "credit_as_published": "Own work",
-  "title": "File:Cuiltycreaghan L65518 local road sign.jpg",
-  "description": "Local road sign at the intersection of the N60 road and the L65518 local road in Keebagh townland pointing towards Cuiltycreaghan townland in County Mayo in Ireland.",
-  "date": "2017-09-17",
-  "categories": [
-    "2017 in road transport in Ireland",
-    "Local roads in Ireland",
-    "N60 road (Ireland)",
-    "Road signs in County Mayo",
-    "September 2017 in Ireland"
-  ],
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=f015dd86-7c4a-44a8-ab45-f989126daa3e",
+  "original_url": "https://panoramax.openstreetmap.fr/images/f0/15/dd/86/7c4a-44a8-ab45-f989126daa3e.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "Aradrin",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture f015dd86-7c4a-44a8-ab45-f989126daa3e (Dublin, 2025-05-19)",
+  "description": "Street-level picture on Panoramax, taken 2025-05-19 near Dublin by Aradrin, sequence 78d1ada9-a76c-4acf-a759-4b328262fd24, heading 347. OCR (PP-OCRv3) read: JIM | LARKIN",
+  "date": "2025-05-19",
+  "categories": [],
   "camera_location": [
-    53.728415,
-    -8.87051
+    53.349055556,
+    -6.259927778
   ],
-  "found_by": "keyword",
-  "bytes": 307177,
-  "width": 1280,
-  "height": 720,
-  "downloaded_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Cuiltycreaghan_L65518_local_road_sign.jpg/1280px-Cuiltycreaghan_L65518_local_road_sign.jpg",
-  "derivative": "Wikimedia Commons standard 1280px-wide rendition (thumb.wikimedia.org)"
+  "found_by": "panoramax-ocr:Dublin",
+  "bytes": 934788,
+  "width": 2560,
+  "height": 1920,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/f0/15/dd/86/7c4a-44a8-ab45-f989126daa3e.jpg",
+  "derivative": "crop 819,1574,3379,3494 of the 4284x5712 HD picture"
 }

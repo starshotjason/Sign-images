@@ -1,23 +1,31 @@
 {
-  "source": "kartaview",
-  "source_url": "https://kartaview.org/details/51041/8765/track-info",
-  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMS5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE3LzMvNi9wcm9jLzUxMDQxXzU5N2YwXzU4YmQ3ZDI1OWIzNjMuanBn",
-  "license_as_published": "CC BY-SA 4.0",
-  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
-  "author_as_published": "telenavdrives",
-  "credit_as_published": "KartaView user telenavdrives (user id 53); © KartaView contributors",
-  "title": "KartaView photo 19517596, sequence 51041 #8765 (Vaduz, 2017-02-23)",
-  "description": "Street-level picture on KartaView, taken 2017-02-23 near Vaduz by telenavdrives, sequence 51041, heading 0. OCR (PP-OCRv3) read: HOTELS | Residence | Park-Hotel Sonnenhof | Lowen | AKTOS",
-  "date": "2017-02-23",
-  "categories": [],
-  "camera_location": [
-    47.141028,
-    9.521002
+  "source": "commons",
+  "source_url": "https://commons.wikimedia.org/wiki/File:LIE_%E2%80%93_Gde._Vaduz_%E2%80%94_Vaduz_Stadt_%E2%80%94_St%C3%A4dtle_37_(museum_sign)_2023-05-28_Mattes.jpg",
+  "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/LIE_%E2%80%93_Gde._Vaduz_%E2%80%94_Vaduz_Stadt_%E2%80%94_St%C3%A4dtle_37_%28museum_sign%29_2023-05-28_Mattes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "license_as_published": "CC BY 3.0 de",
+  "license_url_as_published": "https://creativecommons.org/licenses/by/3.0/de/deed.en",
+  "author_as_published": "",
+  "credit_as_published": "",
+  "title": "File:LIE – Gde. Vaduz — Vaduz Stadt — Städtle 37 (museum sign) 2023-05-28 Mattes.jpg",
+  "description": "",
+  "date": "",
+  "categories": [
+    "Collections of the Liechtenstein Postal Museum",
+    "Free admission",
+    "Information boards and signs in Vaduz",
+    "Museum information boards",
+    "Opening hours of museums",
+    "Operating hours signs",
+    "Transparent signs"
   ],
-  "found_by": "kartaview-ocr:Vaduz",
-  "bytes": 256959,
-  "width": 1200,
-  "height": 900,
-  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMS5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE3LzMvNi9wcm9jLzUxMDQxXzU5N2YwXzU4YmQ3ZDI1OWIzNjMuanBn",
-  "derivative": "crop 1392,570,2592,1470 of the 2592x1936 full-size processed (blurred) picture"
+  "camera_location": [
+    47.1389,
+    9.52271944
+  ],
+  "found_by": "keyword",
+  "bytes": 502061,
+  "width": 1280,
+  "height": 2779,
+  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/LIE_%E2%80%93_Gde._Vaduz_%E2%80%94_Vaduz_Stadt_%E2%80%94_St%C3%A4dtle_37_%28museum_sign%29_2023-05-28_Mattes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "derivative": ""
 }

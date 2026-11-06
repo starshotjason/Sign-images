@@ -1,25 +1,25 @@
 {
   "source": "commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Placa_-_Rua_Carlos_Alberto_da_Mota_Pinto,_Lisboa.jpg",
-  "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Placa_-_Rua_Carlos_Alberto_da_Mota_Pinto%2C_Lisboa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-  "license_as_published": "CC0",
-  "license_url_as_published": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-  "author_as_published": "JnpoJuwan",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Alameda_dos_Combatentes_da_Grande_Guerra,_Sintra_P.jpg",
+  "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Alameda_dos_Combatentes_da_Grande_Guerra%2C_Sintra_P.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author_as_published": "Stefano Vigorelli",
   "credit_as_published": "Own work",
-  "title": "File:Placa - Rua Carlos Alberto da Mota Pinto, Lisboa.jpg",
-  "description": "Placa da Rua Carlos Alberto da Mota Pinto em Lisboa, Portugal.",
-  "date": "2024-07-16 16:26:31",
+  "title": "File:Alameda dos Combatentes da Grande Guerra, Sintra P.jpg",
+  "description": "Alameda dos Combatentes da Grande Guerra, Sintra",
+  "date": "2006-10-18 19:26:04",
   "categories": [
-    "Street signs in Lisbon"
+    "Alameda (text)",
+    "Alameda dos Combatentes da Grande Guerra",
+    "Azulejo street signs in Sintra",
+    "Street signs in Portugal"
   ],
-  "camera_location": [
-    38.724229,
-    -9.160734
-  ],
+  "camera_location": null,
   "found_by": "keyword",
-  "bytes": 1001623,
+  "bytes": 743184,
   "width": 1920,
-  "height": 1439,
-  "downloaded_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Placa_-_Rua_Carlos_Alberto_da_Mota_Pinto%2C_Lisboa.jpg/1920px-Placa_-_Rua_Carlos_Alberto_da_Mota_Pinto%2C_Lisboa.jpg",
-  "derivative": "Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org)"
+  "height": 1440,
+  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Alameda_dos_Combatentes_da_Grande_Guerra%2C_Sintra_P.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "derivative": ""
 }

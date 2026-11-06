@@ -524,24 +524,6 @@ File: [cf/cf-5004.jpg](cf/cf-5004.jpg)
 
 Photo: Kondotikodro, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Village_chutes_09.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Unmodified original.
 
-## cd-5001
-
-File: [cd/cd-5001.jpg](cd/cd-5001.jpg)
-
-Photo: MONUSCO Photos, CC BY-SA 2.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Troops_at_sign_handover_of_Kididiwe_camp_tent_FARDC_and_MONUSCO_(51704281999).jpg. License: https://creativecommons.org/licenses/by-sa/2.0/. Unmodified original.
-
-## cd-5002
-
-File: [cd/cd-5002.jpg](cd/cd-5002.jpg)
-
-Photo: MONUSCO Photos, CC BY-SA 2.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Troops_at_sign_handover_of_Kididiwe_camp_tent_FARDC_and_MONUSCO_(51702807922).jpg. License: https://creativecommons.org/licenses/by-sa/2.0/. Unmodified original.
-
-## cd-5003
-
-File: [cd/cd-5003.jpg](cd/cd-5003.jpg)
-
-Photo: MONUSCO Photos, CC BY-SA 2.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:At_sign_handover_of_Kididiwe_camp_tent_FARDC_and_MONUSCO_(51702807557).jpg. License: https://creativecommons.org/licenses/by-sa/2.0/. Unmodified original.
-
 ## cg-5001
 
 File: [cg/cg-5001.jpg](cg/cg-5001.jpg)
@@ -570,13 +552,13 @@ Photo: Maryleine, CC0 1.0, via Wikimedia Commons. Source: https://commons.wikime
 
 File: [cg/cg-5005.jpg](cg/cg-5005.jpg)
 
-Photo: Maryleine, CC0 1.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Plaque_de_rue_de_l%27avenue_NGOUEDI_02.jpg. License: http://creativecommons.org/publicdomain/zero/1.0/deed.en. Unmodified original.
+Photo: Maryleine, CC0 1.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Plaque_de_rue_de_l%27avenue_NGOUEDI_04.jpg. License: http://creativecommons.org/publicdomain/zero/1.0/deed.en. Unmodified original.
 
 ## cg-5006
 
 File: [cg/cg-5006.jpg](cg/cg-5006.jpg)
 
-Photo: Maryleine, CC0 1.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Plaque_de_rue_de_l%27avenue_NGOUEDI_04.jpg. License: http://creativecommons.org/publicdomain/zero/1.0/deed.en. Unmodified original.
+Photo: Maryleine, CC0 1.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Plaque_de_rue_de_l%27avenue_NGOUEDI_06.jpg. License: http://creativecommons.org/publicdomain/zero/1.0/deed.en. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
 
 ## ci-5001
 
@@ -1152,7 +1134,7 @@ Photo: blk24ga, CC BY 3.0, via Wikimedia Commons. Source: https://commons.wikime
 
 File: [lr/lr-5005.jpg](lr/lr-5005.jpg)
 
-Photo: blk24ga, CC BY 3.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Liberia,_Africa_-_panoramio_(306).jpg. License: https://creativecommons.org/licenses/by/3.0/. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
+Photo: blk24ga, CC BY 3.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Habel,_Liberia_-_panoramio.jpg. License: https://creativecommons.org/licenses/by/3.0/. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
 
 ## ly-5001
 
@@ -1566,7 +1548,7 @@ Photo: F Mira from Lisbon, Portugal, CC BY-SA 2.0, via Wikimedia Commons. Source
 
 File: [mz/mz-5008.jpg](mz/mz-5008.jpg)
 
-Photo: Ossewa, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Deflate_tyres_to_0.8_bar.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Wikimedia Commons standard 1280px-wide rendition (thumb.wikimedia.org).
+Photo: Ossewa, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Xai-Xai_80_road_sign.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
 
 ## na-5001
 
@@ -1669,30 +1651,6 @@ Photo: ilasolthah @ Mapillary.com, CC BY-SA 4.0, via Wikimedia Commons. Source: 
 File: [ne/ne-5005.jpg](ne/ne-5005.jpg)
 
 Photo: mensanh @ Mapillary.com, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Centre_Culturel_Oumarou_Ganda_sign.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Unmodified original.
-
-## ne-5006
-
-File: [ne/ne-5006.jpg](ne/ne-5006.jpg)
-
-Photo: Dappasolomon001, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Signing_of_Marriage_Register_08.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
-
-## ne-5007
-
-File: [ne/ne-5007.jpg](ne/ne-5007.jpg)
-
-Photo: Dappasolomon001, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Signing_of_Marriage_Register_09.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
-
-## ne-5008
-
-File: [ne/ne-5008.jpg](ne/ne-5008.jpg)
-
-Photo: Dappasolomon001, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Signing_of_Marriage_Register_10.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
-
-## ne-5009
-
-File: [ne/ne-5009.jpg](ne/ne-5009.jpg)
-
-Photo: Dappasolomon001, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Signing_of_Marriage_Register_11.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
 
 ## ng-5001
 
@@ -1806,31 +1764,31 @@ Photo: Adam Jones, Ph.D., CC BY-SA 3.0, via Wikimedia Commons. Source: https://c
 
 File: [rw/rw-5007.jpg](rw/rw-5007.jpg)
 
-Photo: UWIMPUHWE Va, CC0 1.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Five_to_Five_hotel_at_the_gate.jpg. License: http://creativecommons.org/publicdomain/zero/1.0/deed.en. Unmodified original.
+Photo: Adam Jones, Ph.D., CC BY-SA 3.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Jenoside-Genocide_Sign_with_Facade_of_Genocide_Memorial_Church_-_Karongi_-Kibuye_-_Western_Rwanda.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. Unmodified original.
 
 ## rw-5008
 
 File: [rw/rw-5008.jpg](rw/rw-5008.jpg)
 
-Photo: UWIMPUHWE Va, CC0 1.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Hotel_Mater_Boni_Consilii_at_the_gate.jpg. License: http://creativecommons.org/publicdomain/zero/1.0/deed.en. Unmodified original.
+Photo: UWIMPUHWE Va, CC0 1.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Five_to_Five_hotel_at_the_gate.jpg. License: http://creativecommons.org/publicdomain/zero/1.0/deed.en. Unmodified original.
 
 ## rw-5009
 
 File: [rw/rw-5009.jpg](rw/rw-5009.jpg)
 
-Photo: BalukuBrian, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Kigali_Genocide_Memorial_entrance_sign_post.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Unmodified original.
+Photo: UWIMPUHWE Va, CC0 1.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Hotel_Mater_Boni_Consilii_at_the_gate.jpg. License: http://creativecommons.org/publicdomain/zero/1.0/deed.en. Unmodified original.
 
 ## rw-5010
 
 File: [rw/rw-5010.jpg](rw/rw-5010.jpg)
 
-Photo: ashish-kelkar, CC BY-SA 4.0, via KartaView. © KartaView contributors. Source: https://kartaview.org/details/582579/10/track-info. License: https://creativecommons.org/licenses/by-sa/4.0/. crop 736,788,1936,1688 of the 1936x2592 full-size processed (blurred) picture.
+Photo: BalukuBrian, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Kigali_Genocide_Memorial_entrance_sign_post.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Unmodified original.
 
 ## rw-5011
 
 File: [rw/rw-5011.jpg](rw/rw-5011.jpg)
 
-Photo: Adam Jones, Ph.D., CC BY-SA 3.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Jenoside-Genocide_Sign_with_Facade_of_Genocide_Memorial_Church_-_Karongi_-Kibuye_-_Western_Rwanda.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. Unmodified original.
+Photo: ashish-kelkar, CC BY-SA 4.0, via KartaView. © KartaView contributors. Source: https://kartaview.org/details/582579/10/track-info. License: https://creativecommons.org/licenses/by-sa/4.0/. crop 736,788,1936,1688 of the 1936x2592 full-size processed (blurred) picture.
 
 ## st-5001
 
@@ -1872,43 +1830,19 @@ Photo: Catjacket, CC0 1.0, via Wikimedia Commons. Source: https://commons.wikime
 
 File: [sn/sn-5006.jpg](sn/sn-5006.jpg)
 
-Photo: Jeff Attaway, CC BY 2.0, via Flickr. Source: https://www.flickr.com/photos/33398364@N08/4565201089. License: https://creativecommons.org/licenses/by/2.0/. Unmodified original.
+Photo: Babacar Dioum, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Road_signs_Senegal.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Unmodified original.
 
 ## sn-5007
 
 File: [sn/sn-5007.jpg](sn/sn-5007.jpg)
 
-Photo: Jeff Attaway, CC BY 2.0, via Flickr. Source: https://www.flickr.com/photos/33398364@N08/4565197299. License: https://creativecommons.org/licenses/by/2.0/. Unmodified original.
+Photo: Babacar Dioum, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Road_signs_for_different_routes_Senegal.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Unmodified original.
 
 ## sn-5008
 
 File: [sn/sn-5008.jpg](sn/sn-5008.jpg)
 
-Photo: paulscott56, CC BY-SA 2.0, via Flickr. Source: https://www.flickr.com/photos/72787861@N00/2357922152. License: https://creativecommons.org/licenses/by-sa/2.0/. Unmodified original.
-
-## sn-5009
-
-File: [sn/sn-5009.jpg](sn/sn-5009.jpg)
-
-Photo: paulscott56, CC BY-SA 2.0, via Flickr. Source: https://www.flickr.com/photos/72787861@N00/2357897012. License: https://creativecommons.org/licenses/by-sa/2.0/. Unmodified original.
-
-## sn-5010
-
-File: [sn/sn-5010.jpg](sn/sn-5010.jpg)
-
-Photo: Babacar Dioum, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Signage_for_governance_purposes.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Unmodified original.
-
-## sn-5011
-
-File: [sn/sn-5011.jpg](sn/sn-5011.jpg)
-
-Photo: jbdodane, CC BY 2.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Landmine_warning_sign_near_Ziguinchor,_Senegal.jpg. License: https://creativecommons.org/licenses/by/2.0/. Unmodified original.
-
-## sn-5012
-
-File: [sn/sn-5012.jpg](sn/sn-5012.jpg)
-
-Photo: Babacar Dioum, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Road_signs_Senegal.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Unmodified original.
+Photo: Jeff Attaway, CC BY 2.0, via Flickr. Source: https://www.flickr.com/photos/33398364@N08/4561614608. License: https://creativecommons.org/licenses/by/2.0/. Flickr's published 1024 px 'large' rendition, served by the Openverse image API (Flickr originals were throttled for this client).
 
 ## sc-5001
 
@@ -5838,49 +5772,37 @@ Photo: JasonParis, CC BY 2.0, via Flickr. Source: https://www.flickr.com/photos/
 
 File: [id/id-5005.jpg](id/id-5005.jpg)
 
-Photo: shankar s., CC BY 2.0, via Flickr. Source: https://www.flickr.com/photos/77742560@N06/44681104251. License: https://creativecommons.org/licenses/by/2.0/. Flickr's published 1024 px 'large' rendition, served by the Openverse image API (Flickr originals were throttled for this client).
+Photo: nSeika, CC BY 2.0, via Flickr. Source: https://www.flickr.com/photos/33542052@N07/8217953027. License: https://creativecommons.org/licenses/by/2.0/. Unmodified original.
 
 ## id-5006
 
 File: [id/id-5006.jpg](id/id-5006.jpg)
 
-Photo: shankar s., CC BY 2.0, via Flickr. Source: https://www.flickr.com/photos/77742560@N06/44632512102. License: https://creativecommons.org/licenses/by/2.0/. Flickr's published 1024 px 'large' rendition, served by the Openverse image API (Flickr originals were throttled for this client).
+Photo: JasonParis, CC BY 2.0, via Flickr. Source: https://www.flickr.com/photos/94064020@N00/6231373181. License: https://creativecommons.org/licenses/by/2.0/. Unmodified original.
 
 ## id-5007
 
 File: [id/id-5007.jpg](id/id-5007.jpg)
 
-Photo: shankar s., CC BY 2.0, via Flickr. Source: https://www.flickr.com/photos/77742560@N06/45375135194. License: https://creativecommons.org/licenses/by/2.0/. Flickr's published 1024 px 'large' rendition, served by the Openverse image API (Flickr originals were throttled for this client).
+Photo: shankar s., CC BY 2.0, via Flickr. Source: https://www.flickr.com/photos/77742560@N06/44681238951. License: https://creativecommons.org/licenses/by/2.0/. Flickr's published 1024 px 'large' rendition, served by the Openverse image API (Flickr originals were throttled for this client).
 
 ## id-5008
 
 File: [id/id-5008.jpg](id/id-5008.jpg)
 
-Photo: shankar s., CC BY 2.0, via Flickr. Source: https://www.flickr.com/photos/77742560@N06/43962862024. License: https://creativecommons.org/licenses/by/2.0/. Flickr's published 1024 px 'large' rendition, served by the Openverse image API (Flickr originals were throttled for this client).
+Photo: shankar s., CC BY 2.0, via Flickr. Source: https://www.flickr.com/photos/77742560@N06/44632347072. License: https://creativecommons.org/licenses/by/2.0/. Flickr's published 1024 px 'large' rendition, served by the Openverse image API (Flickr originals were throttled for this client).
 
 ## id-5009
 
 File: [id/id-5009.jpg](id/id-5009.jpg)
 
-Photo: ivanlanin, CC BY-SA 2.0, via Flickr. Source: https://www.flickr.com/photos/81434456@N00/2759923338. License: https://creativecommons.org/licenses/by-sa/2.0/. Flickr's published 1024 px 'large' rendition, served by the Openverse image API (Flickr originals were throttled for this client).
+Photo: shankar s., CC BY 2.0, via Flickr. Source: https://www.flickr.com/photos/77742560@N06/44283393370. License: https://creativecommons.org/licenses/by/2.0/. Flickr's published 1024 px 'large' rendition, served by the Openverse image API (Flickr originals were throttled for this client).
 
 ## id-5010
 
 File: [id/id-5010.jpg](id/id-5010.jpg)
 
-Photo: diana does, CC BY 2.0, via Flickr. Source: https://www.flickr.com/photos/12341295@N04/1753044216. License: https://creativecommons.org/licenses/by/2.0/. Flickr's published 1024 px 'large' rendition, served by the Openverse image API (Flickr originals were throttled for this client).
-
-## id-5011
-
-File: [id/id-5011.jpg](id/id-5011.jpg)
-
-Photo: nSeika, CC BY 2.0, via Flickr. Source: https://www.flickr.com/photos/33542052@N07/8217953027. License: https://creativecommons.org/licenses/by/2.0/. Flickr's published 1024 px 'large' rendition, served by the Openverse image API (Flickr originals were throttled for this client).
-
-## id-5012
-
-File: [id/id-5012.jpg](id/id-5012.jpg)
-
-Photo: JasonParis, CC BY 2.0, via Flickr. Source: https://www.flickr.com/photos/94064020@N00/6231373181. License: https://creativecommons.org/licenses/by/2.0/. Flickr's published 1024 px 'large' rendition, served by the Openverse image API (Flickr originals were throttled for this client).
+Photo: shankar s., CC BY 2.0, via Flickr. Source: https://www.flickr.com/photos/77742560@N06/45187480745. License: https://creativecommons.org/licenses/by/2.0/. Flickr's published 1024 px 'large' rendition, served by the Openverse image API (Flickr originals were throttled for this client).
 
 ## la-5001
 
@@ -7124,6 +7046,24 @@ File: [dk/dk-5007.jpg](dk/dk-5007.jpg)
 
 Photo: LennertS, CC BY-SA 4.0, via Panoramax. Source: https://panoramax.openstreetmap.fr/#focus=pic&pic=88e76e6b-8fb2-473c-942b-6a3d4b0e4b62. License: https://creativecommons.org/licenses/by-sa/4.0/. crop 1934,274,3952,1788 of the 4080x3060 HD picture.
 
+## dk-5008
+
+File: [dk/dk-5008.jpg](dk/dk-5008.jpg)
+
+Photo: Bo Jessen, CC0 1.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Old_Mexican_Restaurant_in_Odense.jpg. License: http://creativecommons.org/publicdomain/zero/1.0/deed.en. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
+
+## dk-5009
+
+File: [dk/dk-5009.jpg](dk/dk-5009.jpg)
+
+Photo: Bo Jessen, CC0 1.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Sign_at_The_Old_Tavern_in_Odense.jpg. License: http://creativecommons.org/publicdomain/zero/1.0/deed.en. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
+
+## dk-5010
+
+File: [dk/dk-5010.jpg](dk/dk-5010.jpg)
+
+Photo: Villy Fink Isaksen, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Den_gamle_by_7.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
+
 ## ee-5001
 
 File: [ee/ee-5001.jpg](ee/ee-5001.jpg)
@@ -7248,37 +7188,37 @@ Photo: mapcomplete, CC BY-SA 4.0, via Panoramax. Source: https://panoramax.mapco
 
 File: [fr/fr-5001.jpg](fr/fr-5001.jpg)
 
-Photo: Elliott Brown from Birmingham, United Kingdom, CC BY-SA 2.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Rue_Carnot,_Beaune_-_sign_-_Casino_shop_(35247918640).jpg. License: https://creativecommons.org/licenses/by-sa/2.0/. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
+Photo: Elliott Brown from Birmingham, United Kingdom, CC BY-SA 2.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Rue_Carnot,_Beaune_-_sign_-_Casino_shop_(35247918640).jpg. License: https://creativecommons.org/licenses/by-sa/2.0/. Unmodified original.
 
 ## fr-5002
 
 File: [fr/fr-5002.jpg](fr/fr-5002.jpg)
 
-Photo: Marsupium, CC BY 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Street_signs_in_Aix-en-Provence_02.jpg. License: https://creativecommons.org/licenses/by/4.0/. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
+Photo: Marsupium, CC BY 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Street_signs_in_Aix-en-Provence_02.jpg. License: https://creativecommons.org/licenses/by/4.0/. Unmodified original.
 
 ## fr-5003
 
 File: [fr/fr-5003.jpg](fr/fr-5003.jpg)
 
-Photo: Ricardalovesmonuments, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Shop_window,_5_Rue_Gr%C3%A9try,_Paris_75002,_14_September_2019.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
+Photo: Ricardalovesmonuments, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Shop_window,_5_Rue_Gr%C3%A9try,_Paris_75002,_14_September_2019.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Unmodified original.
 
 ## fr-5004
 
 File: [fr/fr-5004.jpg](fr/fr-5004.jpg)
 
-Photo: Adjoajo, CC BY-SA 3.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Signage_Avenue_De_Flandre.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
+Photo: Adjoajo, CC BY-SA 3.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Signage_Avenue_De_Flandre.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. Unmodified original.
 
 ## fr-5005
 
 File: [fr/fr-5005.jpg](fr/fr-5005.jpg)
 
-Photo: Rundvald, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Plaque-Place-Louis-Delage-Saint-Briac-sur-Mer-byRundvald.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
+Photo: Rundvald, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Plaque-Place-Louis-Delage-Saint-Briac-sur-Mer-byRundvald.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Unmodified original.
 
 ## fr-5006
 
 File: [fr/fr-5006.jpg](fr/fr-5006.jpg)
 
-Photo: Norio NAKAYAMA from saitama, japan, CC BY-SA 2.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Mariage_Fr%C3%A8res_shop_sign,_30_Rue_du_Bourg-Tibourg,_Paris_August_2015.jpg. License: https://creativecommons.org/licenses/by-sa/2.0/. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
+Photo: Norio NAKAYAMA from saitama, japan, CC BY-SA 2.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Mariage_Fr%C3%A8res_shop_sign,_30_Rue_du_Bourg-Tibourg,_Paris_August_2015.jpg. License: https://creativecommons.org/licenses/by-sa/2.0/. Unmodified original.
 
 ## fr-5007
 
@@ -7320,19 +7260,19 @@ Photo: Norbert Nagel, CC BY-SA 3.0, via Wikimedia Commons. Source: https://commo
 
 File: [de/de-5003.jpg](de/de-5003.jpg)
 
-Photo: Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:M%C3%BCnster,_Michaelisplatz,_Nasenschild_der_B%C3%A4ckerei_%22Krimphove%22_--_2021_--_1795.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
+Photo: Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:M%C3%BCnster,_Michaelisplatz,_Nasenschild_der_B%C3%A4ckerei_%22Krimphove%22_--_2021_--_1795.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Unmodified original.
 
 ## de-5004
 
 File: [de/de-5004.jpg](de/de-5004.jpg)
 
-Photo: Kritzolina, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Signage_at_the_Malching_S-Bahn_station_03.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
+Photo: Kritzolina, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Signage_at_the_Malching_S-Bahn_station_03.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Unmodified original.
 
 ## de-5005
 
 File: [de/de-5005.jpg](de/de-5005.jpg)
 
-Photo: Bernd Schwabe in Hannover, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Leinfabrik_Steinhude,_Firmenschild_Seegers_%26_Sohn.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
+Photo: Bernd Schwabe in Hannover, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Leinfabrik_Steinhude,_Firmenschild_Seegers_%26_Sohn.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Unmodified original.
 
 ## de-5006
 
@@ -7518,121 +7458,121 @@ Photo: vasony, CC BY-SA 4.0, via Panoramax. Source: https://panoramax.openstreet
 
 File: [is/is-5001.jpg](is/is-5001.jpg)
 
-Photo: jg13, CC BY-SA 4.0, via Panoramax. Source: https://panoramax.ign.fr/#focus=pic&pic=dc571acd-e47c-4296-98ed-16ba430c79d6. License: https://creativecommons.org/licenses/by-sa/4.0/. crop 0,448,1816,2118 of the 1816x4032 HD picture.
+Photo: CGP Grey, CC BY 2.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Iceland_-_Sign_-_Icelandic_Phallological_Museum_-_H%C3%BAsav%C3%ADk_-_Road_Trip_(4890600794).jpg. License: https://creativecommons.org/licenses/by/2.0/. Unmodified original.
 
 ## is-5002
 
 File: [is/is-5002.jpg](is/is-5002.jpg)
 
-Photo: jg13, CC BY-SA 4.0, via Panoramax. Source: https://panoramax.ign.fr/#focus=pic&pic=c7233400-853a-40e6-b0de-30b966534ebc. License: https://creativecommons.org/licenses/by-sa/4.0/. crop 0,1044,1252,1983 of the 1816x4032 HD picture.
+Photo: Helgi Halldórsson from Reykjavík, Iceland, CC BY-SA 2.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:12_Tones_(5809314582).jpg. License: https://creativecommons.org/licenses/by-sa/2.0/. Unmodified original.
 
 ## is-5003
 
 File: [is/is-5003.jpg](is/is-5003.jpg)
 
-Photo: jg13, CC BY-SA 4.0, via Panoramax. Source: https://panoramax.ign.fr/#focus=pic&pic=c11bcf4b-2aad-4745-9116-92c9abc5cc42. License: https://creativecommons.org/licenses/by-sa/4.0/. crop 0,1418,1200,2318 of the 2268x4032 HD picture.
+Photo: Ypsilon from Finland, CC0 1.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Prikid.jpg. License: http://creativecommons.org/publicdomain/zero/1.0/deed.en. Unmodified original.
 
 ## is-5004
 
 File: [is/is-5004.jpg](is/is-5004.jpg)
 
-Photo: jg13, CC BY-SA 4.0, via Panoramax. Source: https://panoramax.ign.fr/#focus=pic&pic=7bebebaf-db34-47ed-b7f5-1f74c545f7cb. License: https://creativecommons.org/licenses/by-sa/4.0/. crop 140,1596,1789,2832 of the 1816x4032 HD picture.
+Photo: jg13, CC BY-SA 4.0, via Panoramax. Source: https://panoramax.ign.fr/#focus=pic&pic=dc571acd-e47c-4296-98ed-16ba430c79d6. License: https://creativecommons.org/licenses/by-sa/4.0/. crop 0,448,1816,2118 of the 1816x4032 HD picture.
 
 ## is-5005
 
 File: [is/is-5005.jpg](is/is-5005.jpg)
 
-Photo: jg13, CC BY-SA 4.0, via Panoramax. Source: https://panoramax.ign.fr/#focus=pic&pic=0782d21b-1273-4df6-8b33-562de7a93215. License: https://creativecommons.org/licenses/by-sa/4.0/. crop 121,1703,1321,2603 of the 1816x4032 HD picture.
+Photo: jg13, CC BY-SA 4.0, via Panoramax. Source: https://panoramax.ign.fr/#focus=pic&pic=c7233400-853a-40e6-b0de-30b966534ebc. License: https://creativecommons.org/licenses/by-sa/4.0/. crop 0,1044,1252,1983 of the 1816x4032 HD picture.
 
 ## is-5006
 
 File: [is/is-5006.jpg](is/is-5006.jpg)
 
-Photo: jg13, CC BY-SA 4.0, via Panoramax. Source: https://panoramax.ign.fr/#focus=pic&pic=7f794fd5-fde1-4056-8f5f-15cf378d2c03. License: https://creativecommons.org/licenses/by-sa/4.0/. whole 1816x4032 HD picture as served by the Panoramax instance (byte-identical; the service blurs faces and number plates), not cropped.
+Photo: jg13, CC BY-SA 4.0, via Panoramax. Source: https://panoramax.ign.fr/#focus=pic&pic=c11bcf4b-2aad-4745-9116-92c9abc5cc42. License: https://creativecommons.org/licenses/by-sa/4.0/. crop 0,1418,1200,2318 of the 2268x4032 HD picture.
 
 ## is-5007
 
 File: [is/is-5007.jpg](is/is-5007.jpg)
 
-Photo: Serzh, CC BY-SA 4.0, via KartaView. © KartaView contributors. Source: https://kartaview.org/details/1180231/73/track-info. License: https://creativecommons.org/licenses/by-sa/4.0/. whole 1920x1080 full-size processed (blurred) picture as served by the KartaView CDN (byte-identical; the service blurs faces and number plates), not cropped.
+Photo: jg13, CC BY-SA 4.0, via Panoramax. Source: https://panoramax.ign.fr/#focus=pic&pic=7bebebaf-db34-47ed-b7f5-1f74c545f7cb. License: https://creativecommons.org/licenses/by-sa/4.0/. crop 140,1596,1789,2832 of the 1816x4032 HD picture.
 
 ## is-5008
 
 File: [is/is-5008.jpg](is/is-5008.jpg)
 
-Photo: jg13, CC BY-SA 4.0, via Panoramax. Source: https://panoramax.ign.fr/#focus=pic&pic=4129b779-6fde-4245-9e63-2a83ef13aa01. License: https://creativecommons.org/licenses/by-sa/4.0/. crop 503,717,2999,2589 of the 3000x4000 HD picture.
+Photo: jg13, CC BY-SA 4.0, via Panoramax. Source: https://panoramax.ign.fr/#focus=pic&pic=0782d21b-1273-4df6-8b33-562de7a93215. License: https://creativecommons.org/licenses/by-sa/4.0/. crop 121,1703,1321,2603 of the 1816x4032 HD picture.
 
 ## is-5009
 
 File: [is/is-5009.jpg](is/is-5009.jpg)
 
-Photo: Serzh, CC BY-SA 4.0, via KartaView. © KartaView contributors. Source: https://kartaview.org/details/1180255/397/track-info. License: https://creativecommons.org/licenses/by-sa/4.0/. crop 720,180,1920,1080 of the 1920x1080 full-size processed (blurred) picture.
+Photo: jg13, CC BY-SA 4.0, via Panoramax. Source: https://panoramax.ign.fr/#focus=pic&pic=7f794fd5-fde1-4056-8f5f-15cf378d2c03. License: https://creativecommons.org/licenses/by-sa/4.0/. whole 1816x4032 HD picture as served by the Panoramax instance (byte-identical; the service blurs faces and number plates), not cropped.
 
 ## is-5010
 
 File: [is/is-5010.jpg](is/is-5010.jpg)
 
-Photo: CGP Grey, CC BY 2.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Iceland_-_Sign_-_Icelandic_Phallological_Museum_-_H%C3%BAsav%C3%ADk_-_Road_Trip_(4890600794).jpg. License: https://creativecommons.org/licenses/by/2.0/. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
+Photo: Serzh, CC BY-SA 4.0, via KartaView. © KartaView contributors. Source: https://kartaview.org/details/1180231/73/track-info. License: https://creativecommons.org/licenses/by-sa/4.0/. whole 1920x1080 full-size processed (blurred) picture as served by the KartaView CDN (byte-identical; the service blurs faces and number plates), not cropped.
 
 ## ie-5001
 
 File: [ie/ie-5001.jpg](ie/ie-5001.jpg)
 
-Photo: jg13, CC BY-SA 4.0, via Panoramax. Source: https://panoramax.ign.fr/#focus=pic&pic=bc614836-6f8c-4071-8f07-952d76a72976. License: https://creativecommons.org/licenses/by-sa/4.0/. whole 1816x4032 HD picture as served by the Panoramax instance (byte-identical; the service blurs faces and number plates), not cropped.
+Photo: Ear-phone, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Welcome_to_Stonybatter_sign.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Unmodified original.
 
 ## ie-5002
 
 File: [ie/ie-5002.jpg](ie/ie-5002.jpg)
 
-Photo: Aradrin, CC BY-SA 4.0, via Panoramax. Source: https://panoramax.openstreetmap.fr/#focus=pic&pic=f015dd86-7c4a-44a8-ab45-f989126daa3e. License: https://creativecommons.org/licenses/by-sa/4.0/. crop 819,1574,3379,3494 of the 4284x5712 HD picture.
+Photo: LynxesDesmond, CC0 1.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Sandyford_apts_1.jpg. License: http://creativecommons.org/publicdomain/zero/1.0/deed.en. Unmodified original.
 
 ## ie-5003
 
 File: [ie/ie-5003.jpg](ie/ie-5003.jpg)
 
-Photo: mapcomplete, CC BY-SA 4.0, via Panoramax. Source: https://panoramax.mapcomplete.org/#focus=pic&pic=b422df60-66e9-4be7-8c15-d0127a2f140e. License: https://creativecommons.org/licenses/by-sa/4.0/. whole 3014x3997 HD picture as served by the Panoramax instance (byte-identical; the service blurs faces and number plates), not cropped.
+Photo: Spideog, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Cuiltycreaghan_L65518_local_road_sign.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Unmodified original.
 
 ## ie-5004
 
 File: [ie/ie-5004.jpg](ie/ie-5004.jpg)
 
-Photo: jg13, CC BY-SA 4.0, via Panoramax. Source: https://panoramax.ign.fr/#focus=pic&pic=f38d4b2f-620e-4233-8f9a-13a705c04f09. License: https://creativecommons.org/licenses/by-sa/4.0/. crop 0,0,3257,1800 of the 4000x1800 HD picture.
+Photo: cyanocorax, CC BY-SA 2.0, via Flickr. Source: https://www.flickr.com/photos/20462444@N00/34520848094. License: https://creativecommons.org/licenses/by-sa/2.0/. Unmodified original.
 
 ## ie-5005
 
 File: [ie/ie-5005.jpg](ie/ie-5005.jpg)
 
-Photo: mackerski, CC BY-SA 4.0, via KartaView. © KartaView contributors. Source: https://kartaview.org/details/117631/998/track-info. License: https://creativecommons.org/licenses/by-sa/4.0/. crop 496,1036,1696,1936 of the 4032x3024 full-size processed (blurred) picture.
+Photo: Mucklagh, CC BY 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Sign-1190327,_Cork,_Ireland.jpg. License: https://creativecommons.org/licenses/by/4.0/. Unmodified original.
 
 ## ie-5006
 
 File: [ie/ie-5006.jpg](ie/ie-5006.jpg)
 
-Photo: ThereforeDeimos, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Two_rooks_sitting_on_a_shop_sign_in_Galway.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
+Photo: Mucklagh, CC BY 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Sign-1190268,_Cork,_Ireland.jpg. License: https://creativecommons.org/licenses/by/4.0/. Unmodified original.
 
 ## ie-5007
 
 File: [ie/ie-5007.jpg](ie/ie-5007.jpg)
 
-Photo: Ear-phone, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Welcome_to_Stonybatter_sign.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
+Photo: Mucklagh, CC BY 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Sign-1190276,_Cork,_Ireland.jpg. License: https://creativecommons.org/licenses/by/4.0/. Unmodified original.
 
 ## ie-5008
 
 File: [ie/ie-5008.jpg](ie/ie-5008.jpg)
 
-Photo: LynxesDesmond, CC0 1.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Sandyford_apts_1.jpg. License: http://creativecommons.org/publicdomain/zero/1.0/deed.en. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
+Photo: jg13, CC BY-SA 4.0, via Panoramax. Source: https://panoramax.ign.fr/#focus=pic&pic=bc614836-6f8c-4071-8f07-952d76a72976. License: https://creativecommons.org/licenses/by-sa/4.0/. whole 1816x4032 HD picture as served by the Panoramax instance (byte-identical; the service blurs faces and number plates), not cropped.
 
 ## ie-5009
 
 File: [ie/ie-5009.jpg](ie/ie-5009.jpg)
 
-Photo: Spideog, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Cuiltycreaghan_L65518_local_road_sign.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Wikimedia Commons standard 1280px-wide rendition (thumb.wikimedia.org).
+Photo: Aradrin, CC BY-SA 4.0, via Panoramax. Source: https://panoramax.openstreetmap.fr/#focus=pic&pic=f015dd86-7c4a-44a8-ab45-f989126daa3e. License: https://creativecommons.org/licenses/by-sa/4.0/. crop 819,1574,3379,3494 of the 4284x5712 HD picture.
 
 ## ie-5010
 
 File: [ie/ie-5010.jpg](ie/ie-5010.jpg)
 
-Photo: cyanocorax, CC BY-SA 2.0, via Flickr. Source: https://www.flickr.com/photos/20462444@N00/34520848094. License: https://creativecommons.org/licenses/by-sa/2.0/. Unmodified original.
+Photo: mapcomplete, CC BY-SA 4.0, via Panoramax. Source: https://panoramax.mapcomplete.org/#focus=pic&pic=b422df60-66e9-4be7-8c15-d0127a2f140e. License: https://creativecommons.org/licenses/by-sa/4.0/. whole 3014x3997 HD picture as served by the Panoramax instance (byte-identical; the service blurs faces and number plates), not cropped.
 
 ## it-5001
 
@@ -7770,121 +7710,97 @@ Photo: Stereo, CC BY-SA 4.0, via KartaView. © KartaView contributors. Source: h
 
 File: [lv/lv-5001.jpg](lv/lv-5001.jpg)
 
-Photo: mapcomplete, CC BY-SA 4.0, via Panoramax. Source: https://panoramax.mapcomplete.org/#focus=pic&pic=5f729874-2a07-4a11-900b-af2dc9056c73. License: https://creativecommons.org/licenses/by-sa/4.0/. whole 3072x4080 HD picture as served by the Panoramax instance (byte-identical; the service blurs faces and number plates), not cropped.
+Photo: Андрей Романенко, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:T%C4%93ri%C5%86u_iela_65,_R%C4%ABga.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Unmodified original.
 
 ## lv-5002
 
 File: [lv/lv-5002.jpg](lv/lv-5002.jpg)
 
-Photo: mapcomplete, CC BY-SA 4.0, via Panoramax. Source: https://panoramax.mapcomplete.org/#focus=pic&pic=1f736860-ac6e-49db-a92e-f356fd653070. License: https://creativecommons.org/licenses/by-sa/4.0/. whole 4080x3072 HD picture as served by the Panoramax instance (byte-identical; the service blurs faces and number plates), not cropped.
+Photo: Oļegs Anosovs, CC BY-SA 3.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Krasta_Street_sign_in_R%C4%93zekne.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. Unmodified original.
 
 ## lv-5003
 
 File: [lv/lv-5003.jpg](lv/lv-5003.jpg)
 
-Photo: mapcomplete, CC BY-SA 4.0, via Panoramax. Source: https://panoramax.mapcomplete.org/#focus=pic&pic=349cb9a3-2f3a-420d-bf37-525eccd1e340. License: https://creativecommons.org/licenses/by-sa/4.0/. whole 3072x4080 HD picture as served by the Panoramax instance (byte-identical; the service blurs faces and number plates), not cropped.
+Photo: Evita wiki, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:%C4%AAsl%C4%ABces_ielas_z%C4%ABme,_R%C4%ABga.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Unmodified original.
 
 ## lv-5004
 
 File: [lv/lv-5004.jpg](lv/lv-5004.jpg)
 
-Photo: maemolol, CC BY-SA 4.0, via Panoramax. Source: https://panoramax.openstreetmap.fr/#focus=pic&pic=551e3eee-d0c1-41fa-9195-df70f5f7c3a3. License: https://creativecommons.org/licenses/by-sa/4.0/. crop 1995,57,3840,1440 of the 3840x2160 HD picture.
+Photo: Wiki Asmah, CC BY 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Leilstraupe_Castle_Signage_in_Latvia_1.jpg. License: https://creativecommons.org/licenses/by/4.0/. Unmodified original.
 
 ## lv-5005
 
 File: [lv/lv-5005.jpg](lv/lv-5005.jpg)
 
-Photo: mapcomplete, CC BY-SA 4.0, via Panoramax. Source: https://panoramax.mapcomplete.org/#focus=pic&pic=f85ab196-27b6-4090-9dce-2c46e8eac3eb. License: https://creativecommons.org/licenses/by-sa/4.0/. crop 2279,163,4079,1513 of the 4080x3072 HD picture.
+Photo: Imants, CC BY-SA 3.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Latvia,_Riga,_Vaidavas_Street,_12_-_Building_materials_shop_Elis_V_WMID2507312.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. Unmodified original.
 
 ## lv-5006
 
 File: [lv/lv-5006.jpg](lv/lv-5006.jpg)
 
-Photo: mapcomplete, CC BY-SA 4.0, via Panoramax. Source: https://panoramax.mapcomplete.org/#focus=pic&pic=d35d36ed-3af4-4ba6-abf3-285168fb5eb2. License: https://creativecommons.org/licenses/by-sa/4.0/. whole 4080x3072 HD picture as served by the Panoramax instance (byte-identical; the service blurs faces and number plates), not cropped.
+Photo: mapcomplete, CC BY-SA 4.0, via Panoramax. Source: https://panoramax.mapcomplete.org/#focus=pic&pic=5f729874-2a07-4a11-900b-af2dc9056c73. License: https://creativecommons.org/licenses/by-sa/4.0/. whole 3072x4080 HD picture as served by the Panoramax instance (byte-identical; the service blurs faces and number plates), not cropped.
 
 ## lv-5007
 
 File: [lv/lv-5007.jpg](lv/lv-5007.jpg)
 
-Photo: mapcomplete, CC BY-SA 4.0, via Panoramax. Source: https://panoramax.mapcomplete.org/#focus=pic&pic=32abd77a-ce71-4f02-afa0-87fb24eccb87. License: https://creativecommons.org/licenses/by-sa/4.0/. whole 4080x3072 HD picture as served by the Panoramax instance (byte-identical; the service blurs faces and number plates), not cropped.
+Photo: mapcomplete, CC BY-SA 4.0, via Panoramax. Source: https://panoramax.mapcomplete.org/#focus=pic&pic=1f736860-ac6e-49db-a92e-f356fd653070. License: https://creativecommons.org/licenses/by-sa/4.0/. whole 4080x3072 HD picture as served by the Panoramax instance (byte-identical; the service blurs faces and number plates), not cropped.
 
 ## lv-5008
 
 File: [lv/lv-5008.jpg](lv/lv-5008.jpg)
 
-Photo: Андрей Романенко, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:T%C4%93ri%C5%86u_iela_65,_R%C4%ABga.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
+Photo: mapcomplete, CC BY-SA 4.0, via Panoramax. Source: https://panoramax.mapcomplete.org/#focus=pic&pic=349cb9a3-2f3a-420d-bf37-525eccd1e340. License: https://creativecommons.org/licenses/by-sa/4.0/. whole 3072x4080 HD picture as served by the Panoramax instance (byte-identical; the service blurs faces and number plates), not cropped.
 
 ## lv-5009
 
 File: [lv/lv-5009.jpg](lv/lv-5009.jpg)
 
-Photo: Андрей Романенко, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Direction_sign_for_Latvian_folk_song_singers_(Teikas,_Ogresgals_parish)_01.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
+Photo: maemolol, CC BY-SA 4.0, via Panoramax. Source: https://panoramax.openstreetmap.fr/#focus=pic&pic=551e3eee-d0c1-41fa-9195-df70f5f7c3a3. License: https://creativecommons.org/licenses/by-sa/4.0/. crop 1995,57,3840,1440 of the 3840x2160 HD picture.
 
 ## lv-5010
 
 File: [lv/lv-5010.jpg](lv/lv-5010.jpg)
 
-Photo: Андрей Романенко, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Do_not_park_cars_against_the_gate_(sign_in_Latvian).jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
+Photo: mapcomplete, CC BY-SA 4.0, via Panoramax. Source: https://panoramax.mapcomplete.org/#focus=pic&pic=f85ab196-27b6-4090-9dce-2c46e8eac3eb. License: https://creativecommons.org/licenses/by-sa/4.0/. crop 2279,163,4079,1513 of the 4080x3072 HD picture.
 
 ## li-5001
 
 File: [li/li-5001.jpg](li/li-5001.jpg)
 
-Photo: telenavdrives, CC BY-SA 4.0, via KartaView. © KartaView contributors. Source: https://kartaview.org/details/51041/8765/track-info. License: https://creativecommons.org/licenses/by-sa/4.0/. crop 1392,570,2592,1470 of the 2592x1936 full-size processed (blurred) picture.
+Photo: unknown, CC BY 3.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:LIE_%E2%80%93_Gde._Vaduz_%E2%80%94_Vaduz_Stadt_%E2%80%94_St%C3%A4dtle_37_(museum_sign)_2023-05-28_Mattes.jpg. License: https://creativecommons.org/licenses/by/3.0/de/deed.en. Unmodified original.
 
 ## li-5002
 
 File: [li/li-5002.jpg](li/li-5002.jpg)
 
-Photo: telenavdrives, CC BY-SA 4.0, via KartaView. © KartaView contributors. Source: https://kartaview.org/details/51041/8745/track-info. License: https://creativecommons.org/licenses/by-sa/4.0/. crop 0,639,1200,1539 of the 2592x1936 full-size processed (blurred) picture.
+Photo: Matti Blume, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Bahnhof,_Schaan_(1Y7A2224).jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Unmodified original.
 
 ## li-5003
 
 File: [li/li-5003.jpg](li/li-5003.jpg)
 
-Photo: Matti Blume, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Bahnhof,_Schaan_(1Y7A2222).jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
+Photo: Wikiolo, CC BY-SA 3.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Wikiolo_in_Liechtenstein_(27).jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. Unmodified original.
 
 ## li-5004
 
 File: [li/li-5004.jpg](li/li-5004.jpg)
 
-Photo: unknown, CC BY 3.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:LIE_%E2%80%93_Gde._Vaduz_%E2%80%94_Vaduz_Stadt_%E2%80%94_St%C3%A4dtle_37_(museum_sign)_2023-05-28_Mattes.jpg. License: https://creativecommons.org/licenses/by/3.0/de/deed.en. Wikimedia Commons standard 1280px-wide rendition (thumb.wikimedia.org).
+Photo: Asurnipal, CC BY-SA 3.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:IAP-Sign.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. Unmodified original.
 
 ## li-5005
 
 File: [li/li-5005.jpg](li/li-5005.jpg)
 
-Photo: Asurnipal, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Steg-Amtsverbot-01ASD.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Wikimedia Commons standard 1280px-wide rendition (thumb.wikimedia.org).
+Photo: telenavdrives, CC BY-SA 4.0, via KartaView. © KartaView contributors. Source: https://kartaview.org/details/51041/8765/track-info. License: https://creativecommons.org/licenses/by-sa/4.0/. crop 1392,570,2592,1470 of the 2592x1936 full-size processed (blurred) picture.
 
 ## li-5006
 
 File: [li/li-5006.jpg](li/li-5006.jpg)
 
-Photo: RomanDeckert, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:ParishChurch-MaurenLiechtenstein_RomanDeckert25012023.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
-
-## li-5007
-
-File: [li/li-5007.jpg](li/li-5007.jpg)
-
-Photo: RomanDeckert, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:FormerEntrance-SistersCemeteryConventSchellenbergLiechtenstein_RomanDeckert25012023.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
-
-## li-5008
-
-File: [li/li-5008.jpg](li/li-5008.jpg)
-
-Photo: Matti Blume, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Bahnhof,_Schaan_(1Y7A2224).jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
-
-## li-5009
-
-File: [li/li-5009.jpg](li/li-5009.jpg)
-
-Photo: Wikiolo, CC BY-SA 3.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Wikiolo_in_Liechtenstein_(27).jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
-
-## li-5010
-
-File: [li/li-5010.jpg](li/li-5010.jpg)
-
-Photo: Asurnipal, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Steg-neuer_Tunnel-01ASD.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
+Photo: telenavdrives, CC BY-SA 4.0, via KartaView. © KartaView contributors. Source: https://kartaview.org/details/51041/8745/track-info. License: https://creativecommons.org/licenses/by-sa/4.0/. crop 0,639,1200,1539 of the 2592x1936 full-size processed (blurred) picture.
 
 ## lt-5001
 
@@ -7950,61 +7866,61 @@ Photo: mapcomplete, CC BY-SA 4.0, via Panoramax. Source: https://panoramax.mapco
 
 File: [lu/lu-5001.jpg](lu/lu-5001.jpg)
 
-Photo: telenavdrives, CC BY-SA 4.0, via KartaView. © KartaView contributors. Source: https://kartaview.org/details/582957/59/track-info. License: https://creativecommons.org/licenses/by-sa/4.0/. crop 605,193,1805,1093 of the 2592x1936 full-size processed (blurred) picture.
+Photo: Volvox, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Dudelange,_Rue_Norbert_Metz,_street_name_sign.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Unmodified original.
 
 ## lu-5002
 
 File: [lu/lu-5002.jpg](lu/lu-5002.jpg)
 
-Photo: mapcomplete, CC BY-SA 4.0, via Panoramax. Source: https://panoramax.mapcomplete.org/#focus=pic&pic=8771697f-3079-4891-9897-178eb55aee56. License: https://creativecommons.org/licenses/by-sa/4.0/. crop 0,201,1814,1734 of the 1814x2419 HD picture.
+Photo: Volvox, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Dudelange,_Rue_Sidney_Thomas,_street_name_sign.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Unmodified original.
 
 ## lu-5003
 
 File: [lu/lu-5003.jpg](lu/lu-5003.jpg)
 
-Photo: pbraun, CC BY-SA 4.0, via Panoramax. Source: https://panoramax.openstreetmap.fr/#focus=pic&pic=61f4a147-dcdb-489d-89a0-4cbe66a7f8d8. License: https://creativecommons.org/licenses/by-sa/4.0/. crop 1275,0,2932,1243 of the 3840x2160 HD picture.
+Photo: MNHNL_pbraun, CC BY 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Road_sign_Bisserweg.jpg. License: https://creativecommons.org/licenses/by/4.0/. Unmodified original.
 
 ## lu-5004
 
 File: [lu/lu-5004.jpg](lu/lu-5004.jpg)
 
-Photo: pbraun, CC BY-SA 4.0, via Panoramax. Source: https://panoramax.openstreetmap.fr/#focus=pic&pic=6130f942-fcbe-4ed1-af78-1467da7e5e52. License: https://creativecommons.org/licenses/by-sa/4.0/. crop 1497,47,3034,1200 of the 3840x2160 HD picture.
+Photo: Asurnipal, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Luxembourg-Schrassig_Town_sign-01ASD.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Unmodified original.
 
 ## lu-5005
 
 File: [lu/lu-5005.jpg](lu/lu-5005.jpg)
 
-Photo: Volvox, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Dudelange,_Rue_Norbert_Metz,_street_name_sign.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
+Photo: BiiJii, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Pld%27ArmesLUX.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Unmodified original.
 
 ## lu-5006
 
 File: [lu/lu-5006.jpg](lu/lu-5006.jpg)
 
-Photo: Volvox, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Dudelange,_Rue_Sidney_Thomas,_street_name_sign.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
+Photo: BiiJii, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:StrasbourgLUX.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Unmodified original.
 
 ## lu-5007
 
 File: [lu/lu-5007.jpg](lu/lu-5007.jpg)
 
-Photo: MNHNL_pbraun, CC BY 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Road_sign_Bisserweg.jpg. License: https://creativecommons.org/licenses/by/4.0/. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
+Photo: BiiJii, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:NDameLUX.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Unmodified original.
 
 ## lu-5008
 
 File: [lu/lu-5008.jpg](lu/lu-5008.jpg)
 
-Photo: Asurnipal, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Luxembourg-Schrassig_Town_sign-01ASD.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
+Photo: GilPe, CC BY-SA 3.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Luxembourg_road_sign_H,3a.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. Unmodified original.
 
 ## lu-5009
 
 File: [lu/lu-5009.jpg](lu/lu-5009.jpg)
 
-Photo: Asurnipal, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Luxembourg-Clervaux-Castle-Sherman_M4A3_(76)Tank-Infoboard-98ASD.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
+Photo: telenavdrives, CC BY-SA 4.0, via KartaView. © KartaView contributors. Source: https://kartaview.org/details/582957/59/track-info. License: https://creativecommons.org/licenses/by-sa/4.0/. crop 605,193,1805,1093 of the 2592x1936 full-size processed (blurred) picture.
 
 ## lu-5010
 
 File: [lu/lu-5010.jpg](lu/lu-5010.jpg)
 
-Photo: Bdx, CC0 1.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Bilingual_French-Luxembourgish_sign_in_pet_shop.jpg. License: http://creativecommons.org/publicdomain/zero/1.0/deed.en. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
+Photo: mapcomplete, CC BY-SA 4.0, via Panoramax. Source: https://panoramax.mapcomplete.org/#focus=pic&pic=8771697f-3079-4891-9897-178eb55aee56. License: https://creativecommons.org/licenses/by-sa/4.0/. crop 0,201,1814,1734 of the 1814x2419 HD picture.
 
 ## mt-5001
 
@@ -8292,61 +8208,61 @@ Photo: brackone, CC BY-SA 4.0, via KartaView. © KartaView contributors. Source:
 
 File: [nl/nl-5001.jpg](nl/nl-5001.jpg)
 
-Photo: Robot8A, CC BY-SA 4.0, via Panoramax. Source: https://panoramax.openstreetmap.fr/#focus=pic&pic=d44bea3a-55f5-416b-b82c-540493172199. License: https://creativecommons.org/licenses/by-sa/4.0/. rectilinear (gnomonic) view, yaw +113.0 deg from the panorama centre, pitch -22.8 deg, horizontal field of view 90 deg, 1020x765 px, reprojected from the 4096x2048 HD equirectangular panorama.
+Photo: E. Dronkert, CC BY 2.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Signs_of_Cycling.jpg. License: https://creativecommons.org/licenses/by/2.0/. Unmodified original.
 
 ## nl-5002
 
 File: [nl/nl-5002.jpg](nl/nl-5002.jpg)
 
-Photo: PanierAvide, CC BY-SA 4.0, via Panoramax. Source: https://panoramax.openstreetmap.fr/#focus=pic&pic=6664c709-86df-4ce9-a080-5226597a5f52. License: https://creativecommons.org/licenses/by-sa/4.0/. whole 4096x2160 HD picture as served by the Panoramax instance (byte-identical; the service blurs faces and number plates), not cropped.
+Photo: Slaunger, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Keizersgracht_street_sign_at_Vijzelstraat_Amsterdam_2016-09-13-6631.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Unmodified original.
 
 ## nl-5003
 
 File: [nl/nl-5003.jpg](nl/nl-5003.jpg)
 
-Photo: cageythree, CC BY-SA 4.0, via KartaView. © KartaView contributors. Source: https://kartaview.org/details/3740997/166/track-info. License: https://creativecommons.org/licenses/by-sa/4.0/. crop 2800,214,4000,1114 of the 4000x2250 full-size processed (blurred) picture.
+Photo: m66roepers from Nederland, CC BY 2.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Door_de_dijkcoupure_naar_Eemshaven_(34151928763).jpg. License: https://creativecommons.org/licenses/by/2.0/. Unmodified original.
 
 ## nl-5004
 
 File: [nl/nl-5004.jpg](nl/nl-5004.jpg)
 
-Photo: madflex, CC BY-SA 4.0, via KartaView. © KartaView contributors. Source: https://kartaview.org/details/6072841/5341/track-info. License: https://creativecommons.org/licenses/by-sa/4.0/. crop 1290,0,3547,1693 of the 4000x3000 full-size processed (blurred) picture.
+Photo: Renée Kools, CC BY 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Landgoed_Kasteel_Geldrop_borden_ingang_Mierloseweg_2025-03-20.jpg. License: https://creativecommons.org/licenses/by/4.0/. Unmodified original.
 
 ## nl-5005
 
 File: [nl/nl-5005.jpg](nl/nl-5005.jpg)
 
-Photo: cageythree, CC BY-SA 4.0, via KartaView. © KartaView contributors. Source: https://kartaview.org/details/3740997/196/track-info. License: https://creativecommons.org/licenses/by-sa/4.0/. whole 4000x2250 full-size processed (blurred) picture as served by the KartaView CDN (byte-identical; the service blurs faces and number plates), not cropped.
+Photo: Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Bredevoort_(NL),_Gesch%C3%A4ft_an_Het_Zand_--_2016_--_4174.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Unmodified original.
 
 ## nl-5006
 
 File: [nl/nl-5006.jpg](nl/nl-5006.jpg)
 
-Photo: E. Dronkert, CC BY 2.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Signs_of_Cycling.jpg. License: https://creativecommons.org/licenses/by/2.0/. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
+Photo: Slaunger, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:The_Bulldog_Rock_Shop_Singel_Amsterdam_2016-09-12.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Unmodified original.
 
 ## nl-5007
 
 File: [nl/nl-5007.jpg](nl/nl-5007.jpg)
 
-Photo: Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Bredevoort_(NL),_Antiquariat_an_der_Landstraat_--_2016_--_4151.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
+Photo: Donald Trung Quoc Don (Chữ Hán: 徵國單) - Wikimedia Commons - © CC BY-SA 4.0 International . ( Want to use this image? ) Original publication 📤: -- Donald Trung 『徵國單』 ( No Fake News 💬 ) ( WikiProject Num, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Verheek_Zonwering_sign,_Winschoten_(2020)_01.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
 
 ## nl-5008
 
 File: [nl/nl-5008.jpg](nl/nl-5008.jpg)
 
-Photo: Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Bredevoort_(NL),_Haust%C3%BCr_am_Markt_--_2016_--_4159.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
+Photo: Robot8A, CC BY-SA 4.0, via Panoramax. Source: https://panoramax.openstreetmap.fr/#focus=pic&pic=d44bea3a-55f5-416b-b82c-540493172199. License: https://creativecommons.org/licenses/by-sa/4.0/. rectilinear (gnomonic) view, yaw +113.0 deg from the panorama centre, pitch -22.8 deg, horizontal field of view 90 deg, 1020x765 px, reprojected from the 4096x2048 HD equirectangular panorama.
 
 ## nl-5009
 
 File: [nl/nl-5009.jpg](nl/nl-5009.jpg)
 
-Photo: Slaunger, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Keizersgracht_street_sign_at_Vijzelstraat_Amsterdam_2016-09-13-6631.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
+Photo: PanierAvide, CC BY-SA 4.0, via Panoramax. Source: https://panoramax.openstreetmap.fr/#focus=pic&pic=6664c709-86df-4ce9-a080-5226597a5f52. License: https://creativecommons.org/licenses/by-sa/4.0/. whole 4096x2160 HD picture as served by the Panoramax instance (byte-identical; the service blurs faces and number plates), not cropped.
 
 ## nl-5010
 
 File: [nl/nl-5010.jpg](nl/nl-5010.jpg)
 
-Photo: Raimond Spekking, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Snorfietsers_verboden_-_Rijksmuseum_Amsterdam-9051.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
+Photo: cageythree, CC BY-SA 4.0, via KartaView. © KartaView contributors. Source: https://kartaview.org/details/3740997/166/track-info. License: https://creativecommons.org/licenses/by-sa/4.0/. crop 2800,214,4000,1114 of the 4000x2250 full-size processed (blurred) picture.
 
 ## mk-5001
 
@@ -8442,61 +8358,61 @@ Photo: p4n-pics, CC BY-SA 4.0, via Panoramax. Source: https://panoramax.openstre
 
 File: [no/no-5001.jpg](no/no-5001.jpg)
 
-Photo: LandskapsLars, CC BY-SA 4.0, via Panoramax. Source: https://panoramax.openstreetmap.fr/#focus=pic&pic=38e5e98a-c2eb-44d1-b973-3f81a16b4bdb. License: https://creativecommons.org/licenses/by-sa/4.0/. crop 0,559,2793,2653 of the 4032x3024 HD picture.
+Photo: Peulle, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Kiosk_med_reklameskilt_Oslo_1800.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Unmodified original.
 
 ## no-5002
 
 File: [no/no-5002.jpg](no/no-5002.jpg)
 
-Photo: km2bp, CC BY-SA 4.0, via Panoramax. Source: https://panoramax.multimodall.com/#focus=pic&pic=9ab10b15-c700-4b69-8d89-b50e474e7651. License: https://creativecommons.org/licenses/by-sa/4.0/. crop 0,2388,4344,5747 of the 4344x5792 HD picture.
+Photo: Psyq, CC BY 3.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Kirkegata_kirkenes_norway.jpg. License: https://creativecommons.org/licenses/by/3.0/. Unmodified original.
 
 ## no-5003
 
 File: [no/no-5003.jpg](no/no-5003.jpg)
 
-Photo: km2bp, CC BY-SA 4.0, via Panoramax. Source: https://panoramax.multimodall.com/#focus=pic&pic=6bbdc0fa-87f9-4198-9e55-e0ae28945c89. License: https://creativecommons.org/licenses/by-sa/4.0/. crop 264,1404,3680,3966 of the 4344x5792 HD picture.
+Photo: HMPinnsvinet, CC BY-SA 3.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Carl_Konows_gate_DSC_0448.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. Unmodified original.
 
 ## no-5004
 
 File: [no/no-5004.jpg](no/no-5004.jpg)
 
-Photo: km2bp, CC BY-SA 4.0, via Panoramax. Source: https://panoramax.multimodall.com/#focus=pic&pic=696c06ee-8536-4589-8ebd-dc2b4cbc4618. License: https://creativecommons.org/licenses/by-sa/4.0/. whole 4344x5792 HD picture as served by the Panoramax instance (byte-identical; the service blurs faces and number plates), not cropped.
+Photo: Kimberli Mäkäräinen, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:%C3%84%CA%B9vv_sign_2.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Unmodified original.
 
 ## no-5005
 
 File: [no/no-5005.jpg](no/no-5005.jpg)
 
-Photo: km2bp, CC BY-SA 4.0, via Panoramax. Source: https://panoramax.multimodall.com/#focus=pic&pic=2a531896-bc51-4c55-8cc8-228a1749aa37. License: https://creativecommons.org/licenses/by-sa/4.0/. whole 4344x5792 HD picture as served by the Panoramax instance (byte-identical; the service blurs faces and number plates), not cropped.
+Photo: LandskapsLars, CC BY-SA 4.0, via Panoramax. Source: https://panoramax.openstreetmap.fr/#focus=pic&pic=38e5e98a-c2eb-44d1-b973-3f81a16b4bdb. License: https://creativecommons.org/licenses/by-sa/4.0/. crop 0,559,2793,2653 of the 4032x3024 HD picture.
 
 ## no-5006
 
 File: [no/no-5006.jpg](no/no-5006.jpg)
 
-Photo: telenavdrives, CC BY-SA 4.0, via KartaView. © KartaView contributors. Source: https://kartaview.org/details/9301/667/track-info. License: https://creativecommons.org/licenses/by-sa/4.0/. whole 3264x2448 full-size processed (blurred) picture as served by the KartaView CDN (byte-identical; the service blurs faces and number plates), not cropped.
+Photo: km2bp, CC BY-SA 4.0, via Panoramax. Source: https://panoramax.multimodall.com/#focus=pic&pic=9ab10b15-c700-4b69-8d89-b50e474e7651. License: https://creativecommons.org/licenses/by-sa/4.0/. crop 0,2388,4344,5747 of the 4344x5792 HD picture.
 
 ## no-5007
 
 File: [no/no-5007.jpg](no/no-5007.jpg)
 
-Photo: telenavdrives, CC BY-SA 4.0, via KartaView. © KartaView contributors. Source: https://kartaview.org/details/6990/86/track-info. License: https://creativecommons.org/licenses/by-sa/4.0/. whole 2592x1936 full-size processed (blurred) picture as served by the KartaView CDN (byte-identical; the service blurs faces and number plates), not cropped.
+Photo: km2bp, CC BY-SA 4.0, via Panoramax. Source: https://panoramax.multimodall.com/#focus=pic&pic=6bbdc0fa-87f9-4198-9e55-e0ae28945c89. License: https://creativecommons.org/licenses/by-sa/4.0/. crop 264,1404,3680,3966 of the 4344x5792 HD picture.
 
 ## no-5008
 
 File: [no/no-5008.jpg](no/no-5008.jpg)
 
-Photo: km2bp, CC BY-SA 4.0, via Panoramax. Source: https://panoramax.multimodall.com/#focus=pic&pic=9b63c56f-7c0f-4012-9cd5-6b33556f4793. License: https://creativecommons.org/licenses/by-sa/4.0/. crop 1000,476,4178,2860 of the 4344x5792 HD picture.
+Photo: km2bp, CC BY-SA 4.0, via Panoramax. Source: https://panoramax.multimodall.com/#focus=pic&pic=696c06ee-8536-4589-8ebd-dc2b4cbc4618. License: https://creativecommons.org/licenses/by-sa/4.0/. whole 4344x5792 HD picture as served by the Panoramax instance (byte-identical; the service blurs faces and number plates), not cropped.
 
 ## no-5009
 
 File: [no/no-5009.jpg](no/no-5009.jpg)
 
-Photo: Peulle, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Kiosk_med_reklameskilt_Oslo_1800.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
+Photo: km2bp, CC BY-SA 4.0, via Panoramax. Source: https://panoramax.multimodall.com/#focus=pic&pic=2a531896-bc51-4c55-8cc8-228a1749aa37. License: https://creativecommons.org/licenses/by-sa/4.0/. whole 4344x5792 HD picture as served by the Panoramax instance (byte-identical; the service blurs faces and number plates), not cropped.
 
 ## no-5010
 
 File: [no/no-5010.jpg](no/no-5010.jpg)
 
-Photo: Peulle, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Reklameskilt_Norsk_Tipping.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
+Photo: telenavdrives, CC BY-SA 4.0, via KartaView. © KartaView contributors. Source: https://kartaview.org/details/9301/667/track-info. License: https://creativecommons.org/licenses/by-sa/4.0/. whole 3264x2448 full-size processed (blurred) picture as served by the KartaView CDN (byte-identical; the service blurs faces and number plates), not cropped.
 
 ## pl-5001
 
@@ -8562,121 +8478,121 @@ Photo: telenavdrives, CC BY-SA 4.0, via KartaView. © KartaView contributors. So
 
 File: [pt/pt-5001.jpg](pt/pt-5001.jpg)
 
-Photo: filipegraciosa, CC BY-SA 4.0, via KartaView. © KartaView contributors. Source: https://kartaview.org/details/1259587/21/track-info. License: https://creativecommons.org/licenses/by-sa/4.0/. whole 1920x1080 full-size processed (blurred) picture as served by the KartaView CDN (byte-identical; the service blurs faces and number plates), not cropped.
+Photo: Kolforn ( Kolforn ) I'd appreciate if you could mail me (Kolforn@gmail.com) if you want to use this picture out of the Wikimedia project scope. This file is licensed under the Creative Commons Attribu, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Albufeira,_Tile_sign,_Rua_Igreja_Velha._05_September_2016.JPG. License: https://creativecommons.org/licenses/by-sa/4.0/. Unmodified original.
 
 ## pt-5002
 
 File: [pt/pt-5002.jpg](pt/pt-5002.jpg)
 
-Photo: jerome92370, CC BY-SA 4.0, via Panoramax. Source: https://panoramax.openstreetmap.fr/#focus=pic&pic=879517d4-f4ab-41bf-8a7e-f5046cda6a20. License: https://creativecommons.org/licenses/by-sa/4.0/. crop 425,0,4031,2705 of the 4032x3024 HD picture.
+Photo: Kolforn, CC BY 3.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:25-08-2017_Street_name_sign,_Rua_dos_Girass%C3%B3is,_Albufeira.JPG. License: https://creativecommons.org/licenses/by/3.0/. Unmodified original.
 
 ## pt-5003
 
 File: [pt/pt-5003.jpg](pt/pt-5003.jpg)
 
-Photo: jerome92370, CC BY-SA 4.0, via Panoramax. Source: https://panoramax.openstreetmap.fr/#focus=pic&pic=5e3021b0-3dc1-4973-931a-caba58e0a654. License: https://creativecommons.org/licenses/by-sa/4.0/. crop 1907,55,3954,1590 of the 4032x3024 HD picture.
+Photo: JnpoJuwan, CC0 1.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Placa_-_Rua_Saraiva_de_Carvalho,_Lisboa.jpg. License: http://creativecommons.org/publicdomain/zero/1.0/deed.en. Unmodified original.
 
 ## pt-5004
 
 File: [pt/pt-5004.jpg](pt/pt-5004.jpg)
 
-Photo: mapcomplete, CC BY-SA 4.0, via Panoramax. Source: https://panoramax.mapcomplete.org/#focus=pic&pic=3738195b-0d96-4102-8015-cb05e9177eb8. License: https://creativecommons.org/licenses/by-sa/4.0/. whole 4000x3000 HD picture as served by the Panoramax instance (byte-identical; the service blurs faces and number plates), not cropped.
+Photo: JnpoJuwan, CC0 1.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Placa_-_Rua_Carlos_Alberto_da_Mota_Pinto,_Lisboa.jpg. License: http://creativecommons.org/publicdomain/zero/1.0/deed.en. Unmodified original.
 
 ## pt-5005
 
 File: [pt/pt-5005.jpg](pt/pt-5005.jpg)
 
-Photo: Kolforn ( Kolforn ) I'd appreciate if you could mail me (Kolforn@gmail.com) if you want to use this picture out of the Wikimedia project scope. This file is licensed under the Creative Commons Attribu, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Albufeira,_Tile_sign,_Rua_Igreja_Velha._05_September_2016.JPG. License: https://creativecommons.org/licenses/by-sa/4.0/. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
+Photo: Asurnipal, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Madeira-Santana-Rocha_do_Navio-teleferico_(aerial_tramway)-street_sign-99ASD.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Unmodified original.
 
 ## pt-5006
 
 File: [pt/pt-5006.jpg](pt/pt-5006.jpg)
 
-Photo: Kolforn, CC BY 3.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:25-08-2017_Street_name_sign,_Rua_dos_Girass%C3%B3is,_Albufeira.JPG. License: https://creativecommons.org/licenses/by/3.0/. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
+Photo: Rikki Mitterer, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Madeira-Funchal-Spar_minimarket-01ESD.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Unmodified original.
 
 ## pt-5007
 
 File: [pt/pt-5007.jpg](pt/pt-5007.jpg)
 
-Photo: JnpoJuwan, CC0 1.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Placa_-_Rua_Saraiva_de_Carvalho,_Lisboa.jpg. License: http://creativecommons.org/publicdomain/zero/1.0/deed.en. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
+Photo: Hipersyl, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Infantado_Placa.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Unmodified original.
 
 ## pt-5008
 
 File: [pt/pt-5008.jpg](pt/pt-5008.jpg)
 
-Photo: JnpoJuwan, CC0 1.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Placa_-_Rua_Carlos_Alberto_da_Mota_Pinto,_Lisboa.jpg. License: http://creativecommons.org/publicdomain/zero/1.0/deed.en. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
+Photo: Stefano Vigorelli, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Alameda_dos_Combatentes_da_Grande_Guerra,_Sintra_P.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Unmodified original.
 
 ## pt-5009
 
 File: [pt/pt-5009.jpg](pt/pt-5009.jpg)
 
-Photo: Asurnipal, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Madeira-Santana-Rocha_do_Navio-teleferico_(aerial_tramway)-street_sign-99ASD.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
+Photo: filipegraciosa, CC BY-SA 4.0, via KartaView. © KartaView contributors. Source: https://kartaview.org/details/1259587/21/track-info. License: https://creativecommons.org/licenses/by-sa/4.0/. whole 1920x1080 full-size processed (blurred) picture as served by the KartaView CDN (byte-identical; the service blurs faces and number plates), not cropped.
 
 ## pt-5010
 
 File: [pt/pt-5010.jpg](pt/pt-5010.jpg)
 
-Photo: Asurnipal, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Madeira-Santana-Fiala-crossing_VR1_and_ER_103-Kartodromo_do_Fiala-01ASD.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
+Photo: jerome92370, CC BY-SA 4.0, via Panoramax. Source: https://panoramax.openstreetmap.fr/#focus=pic&pic=879517d4-f4ab-41bf-8a7e-f5046cda6a20. License: https://creativecommons.org/licenses/by-sa/4.0/. crop 425,0,4031,2705 of the 4032x3024 HD picture.
 
 ## ro-5001
 
 File: [ro/ro-5001.jpg](ro/ro-5001.jpg)
 
-Photo: mco21, CC BY-SA 4.0, via KartaView. © KartaView contributors. Source: https://kartaview.org/details/3021/205/track-info. License: https://creativecommons.org/licenses/by-sa/4.0/. crop 0,513,1200,1413 of the 2592x1936 full-size processed (blurred) picture.
+Photo: Matti Blume ( photographer ), Matti Blume, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:United_Nations_Square,_Bucharest_(DSC6288).jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Unmodified original.
 
 ## ro-5002
 
 File: [ro/ro-5002.jpg](ro/ro-5002.jpg)
 
-Photo: razvan-sandu2, CC BY-SA 4.0, via KartaView. © KartaView contributors. Source: https://kartaview.org/details/3825633/18/track-info. License: https://creativecommons.org/licenses/by-sa/4.0/. crop 1436,0,2908,1104 of the 3264x1836 full-size processed (blurred) picture.
+Photo: Husky, CC BY 2.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:SERVICII_FUNERARE_NON_STOP.jpg. License: https://creativecommons.org/licenses/by/2.0/. Unmodified original.
 
 ## ro-5003
 
 File: [ro/ro-5003.jpg](ro/ro-5003.jpg)
 
-Photo: razvan-sandu2, CC BY-SA 4.0, via KartaView. © KartaView contributors. Source: https://kartaview.org/details/7434873/23/track-info. License: https://creativecommons.org/licenses/by-sa/4.0/. crop 1486,107,3041,1273 of the 3264x1836 full-size processed (blurred) picture.
+Photo: Țetcu Mircea Rareș from ro.wikipedia.org, CC BY-SA 3.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:RO_VL_Lotru_river_2011.3.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. Unmodified original.
 
 ## ro-5004
 
 File: [ro/ro-5004.jpg](ro/ro-5004.jpg)
 
-Photo: ldubost, CC BY-SA 4.0, via Panoramax. Source: https://panoramax.openstreetmap.fr/#focus=pic&pic=25a3c527-9898-42a0-8812-740dd52df275. License: https://creativecommons.org/licenses/by-sa/4.0/. crop 0,1257,1200,2157 of the 1840x4096 HD picture.
+Photo: Firilacroco, CC BY-SA 3.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:RO_BV_Bra%C8%99ov_Strada_Sforii_(1).JPG. License: https://creativecommons.org/licenses/by-sa/3.0/. Unmodified original.
 
 ## ro-5005
 
 File: [ro/ro-5005.jpg](ro/ro-5005.jpg)
 
-Photo: Matti Blume ( photographer ), Matti Blume, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:United_Nations_Square,_Bucharest_(DSC6288).jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
+Photo: Neoclassicism Enthusiast, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Metal_sheet_plaque_of_Strada_M%C4%83ic%C4%83ne%C8%99ti_in_Bucharest,_Romania.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Unmodified original.
 
 ## ro-5006
 
 File: [ro/ro-5006.jpg](ro/ro-5006.jpg)
 
-Photo: DimiTalen, CC0 1.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Dress_code_and_no-smoking_sign_in_5_languages,_Vorone%C8%9B_monastery,_Gura_Humorului,_2017.jpg. License: http://creativecommons.org/publicdomain/zero/1.0/deed.en. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
+Photo: Neoclassicism Enthusiast, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Street_sign_of_Strada_St%C4%83nile%C8%99i_in_Bucharest,_Romania.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Unmodified original.
 
 ## ro-5007
 
 File: [ro/ro-5007.jpg](ro/ro-5007.jpg)
 
-Photo: Андрей Романенко, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:No_smoking_sign_in_the_Museum_of_Popular_Architecture_of_Gorj.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
+Photo: Joe Mabel, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Bucharest_-_Strada_Pictor_George_Demetrescu_Mirea.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Unmodified original.
 
 ## ro-5008
 
 File: [ro/ro-5008.jpg](ro/ro-5008.jpg)
 
-Photo: TrainSimFan, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Emil_Bodnaras_street_(defunct_sign).jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
+Photo: Joe Mabel, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Bucharest_-_Strada_Hele%C8%99teului_sign.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Unmodified original.
 
 ## ro-5009
 
 File: [ro/ro-5009.jpg](ro/ro-5009.jpg)
 
-Photo: Husky, CC BY 2.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:SERVICII_FUNERARE_NON_STOP.jpg. License: https://creativecommons.org/licenses/by/2.0/. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
+Photo: mco21, CC BY-SA 4.0, via KartaView. © KartaView contributors. Source: https://kartaview.org/details/3021/205/track-info. License: https://creativecommons.org/licenses/by-sa/4.0/. crop 0,513,1200,1413 of the 2592x1936 full-size processed (blurred) picture.
 
 ## ro-5010
 
 File: [ro/ro-5010.jpg](ro/ro-5010.jpg)
 
-Photo: TudorTulok, CC BY-SA 3.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Electricity_warning_sign_(Romania,_Densus).jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
+Photo: razvan-sandu2, CC BY-SA 4.0, via KartaView. © KartaView contributors. Source: https://kartaview.org/details/3825633/18/track-info. License: https://creativecommons.org/licenses/by-sa/4.0/. crop 1436,0,2908,1104 of the 3264x1836 full-size processed (blurred) picture.
 
 ## ru-5001
 
@@ -8772,61 +8688,61 @@ Photo: 3alei, CC BY-SA 4.0, via KartaView. © KartaView contributors. Source: ht
 
 File: [sm/sm-5001.jpg](sm/sm-5001.jpg)
 
-Photo: damianeue, CC BY-SA 4.0, via KartaView. © KartaView contributors. Source: https://kartaview.org/details/6411865/1177/track-info. License: https://creativecommons.org/licenses/by-sa/4.0/. crop 2584,792,3784,1692 of the 4000x2250 full-size processed (blurred) picture.
+Photo: Mateus2019, CC BY-SA 3.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:RSM_%E2%80%94_Citt%C3%A0_di_San_Marino_%E2%80%94_Salita_Alla_Rocca_(UNESCO_World_Heritiage_signage)_%E2%80%94_2024-05-07_Mattes.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. Unmodified original.
 
 ## sm-5002
 
 File: [sm/sm-5002.jpg](sm/sm-5002.jpg)
 
-Photo: Robot8A, CC BY-SA 4.0, via Panoramax. Source: https://panoramax.openstreetmap.fr/#focus=pic&pic=1e2db9a1-9c21-45ca-b925-947a075fa0fd. License: https://creativecommons.org/licenses/by-sa/4.0/. whole 4032x3024 HD picture as served by the Panoramax instance (byte-identical; the service blurs faces and number plates), not cropped.
+Photo: © Ra Boe / Wikipedia, CC BY-SA 3.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:San_Marino_(city)_-_2017_by-RaBoe_137.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/de/deed.en. Unmodified original.
 
 ## sm-5003
 
 File: [sm/sm-5003.jpg](sm/sm-5003.jpg)
 
-Photo: Robot8A, CC BY-SA 4.0, via Panoramax. Source: https://panoramax.openstreetmap.fr/#focus=pic&pic=7c325d48-573c-4607-92a5-53b0bbf1323c. License: https://creativecommons.org/licenses/by-sa/4.0/. whole 4032x3024 HD picture as served by the Panoramax instance (byte-identical; the service blurs faces and number plates), not cropped.
+Photo: Grafenschreck, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:SanMarino-Museum_Torture-A-12.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Unmodified original.
 
 ## sm-5004
 
 File: [sm/sm-5004.jpg](sm/sm-5004.jpg)
 
-Photo: arjenD, CC BY-SA 3.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Entrance_Republic_of_San_Marino_-_panoramio.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. Unmodified original.
+Photo: Aisano, CC BY-SA 3.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:San_Marino,_Gendarmeria,_1.jpeg. License: https://creativecommons.org/licenses/by-sa/3.0/. Unmodified original.
 
 ## sm-5005
 
 File: [sm/sm-5005.jpg](sm/sm-5005.jpg)
 
-Photo: Андрей Романенко, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:San_Marino_City,_view_from_Via_Jacopo_Istriani.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Unmodified original.
+Photo: Szeder László, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:RSM-Acquaviva11.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Unmodified original.
 
 ## sm-5006
 
 File: [sm/sm-5006.jpg](sm/sm-5006.jpg)
 
-Photo: Mateus2019, CC BY-SA 3.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:RSM_%E2%80%94_Citt%C3%A0_di_San_Marino_%E2%80%94_Salita_Alla_Rocca_(UNESCO_World_Heritiage_signage)_%E2%80%94_2024-05-07_Mattes.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. Unmodified original.
+Photo: Szeder László, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:RSM-Serravalle01.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Unmodified original.
 
 ## sm-5007
 
 File: [sm/sm-5007.jpg](sm/sm-5007.jpg)
 
-Photo: Kevin Gabbert - User: (WT-shared) Kevin James at wts wikivoyage, Public domain, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:City_Gate_San_Marino.jpg. License: https://creativecommons.org/publicdomain/mark/1.0/. Unmodified original.
+Photo: Cezar Suceveanu, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Piazzale_della_Stazione_din_San_Marino8.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Unmodified original.
 
 ## sm-5008
 
 File: [sm/sm-5008.jpg](sm/sm-5008.jpg)
 
-Photo: Cezar Suceveanu, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Monumentul_lui_San_Francesco_din_San_Marino.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Unmodified original.
+Photo: damianeue, CC BY-SA 4.0, via KartaView. © KartaView contributors. Source: https://kartaview.org/details/6411865/1177/track-info. License: https://creativecommons.org/licenses/by-sa/4.0/. crop 2584,792,3784,1692 of the 4000x2250 full-size processed (blurred) picture.
 
 ## sm-5009
 
 File: [sm/sm-5009.jpg](sm/sm-5009.jpg)
 
-Photo: © Ra Boe / Wikipedia, CC BY-SA 3.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:San_Marino_(city)_-_2017_by-RaBoe_137.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/de/deed.en. Unmodified original.
+Photo: Robot8A, CC BY-SA 4.0, via Panoramax. Source: https://panoramax.openstreetmap.fr/#focus=pic&pic=1e2db9a1-9c21-45ca-b925-947a075fa0fd. License: https://creativecommons.org/licenses/by-sa/4.0/. whole 4032x3024 HD picture as served by the Panoramax instance (byte-identical; the service blurs faces and number plates), not cropped.
 
 ## sm-5010
 
 File: [sm/sm-5010.jpg](sm/sm-5010.jpg)
 
-Photo: Grafenschreck, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:SanMarino-Museum_Torture-A-12.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Unmodified original.
+Photo: Robot8A, CC BY-SA 4.0, via Panoramax. Source: https://panoramax.openstreetmap.fr/#focus=pic&pic=7c325d48-573c-4607-92a5-53b0bbf1323c. License: https://creativecommons.org/licenses/by-sa/4.0/. whole 4032x3024 HD picture as served by the Panoramax instance (byte-identical; the service blurs faces and number plates), not cropped.
 
 ## rs-5001
 
@@ -8922,61 +8838,61 @@ Photo: Robot8A, CC BY-SA 4.0, via Panoramax. Source: https://panoramax.openstree
 
 File: [sk/sk-5001.jpg](sk/sk-5001.jpg)
 
-Photo: mapcomplete, CC BY-SA 4.0, via Panoramax. Source: https://panoramax.mapcomplete.org/#focus=pic&pic=ebacafa8-0541-4d43-880b-e2787805748a. License: https://creativecommons.org/licenses/by-sa/4.0/. crop 0,624,3072,4080 of the 3072x4080 HD picture.
+Photo: Matej Grochal, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Brusno_zast%C3%A1vka_na_I66d.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Unmodified original.
 
 ## sk-5002
 
 File: [sk/sk-5002.jpg](sk/sk-5002.jpg)
 
-Photo: Julia Keil-Voss, CC BY-SA 4.0, via Panoramax. Source: https://panoramax.openstreetmap.fr/#focus=pic&pic=38eb131c-9d42-4709-9279-9e64abbce30d. License: https://creativecommons.org/licenses/by-sa/4.0/. whole 3953x2965 HD picture as served by the Panoramax instance (byte-identical; the service blurs faces and number plates), not cropped.
+Photo: Szeder László, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Udvard144.JPG. License: https://creativecommons.org/licenses/by-sa/4.0/. Unmodified original.
 
 ## sk-5003
 
 File: [sk/sk-5003.jpg](sk/sk-5003.jpg)
 
-Photo: Bogdan Andrei, CC BY-SA 4.0, via KartaView. © KartaView contributors. Source: https://kartaview.org/details/165103/29/track-info. License: https://creativecommons.org/licenses/by-sa/4.0/. whole 3264x2448 full-size processed (blurred) picture as served by the KartaView CDN (byte-identical; the service blurs faces and number plates), not cropped.
+Photo: MOs810, CC BY 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:City_view_from_Bratislava_2023_(3).jpg. License: https://creativecommons.org/licenses/by/4.0/. Unmodified original.
 
 ## sk-5004
 
 File: [sk/sk-5004.jpg](sk/sk-5004.jpg)
 
-Photo: mapcomplete, CC BY-SA 4.0, via Panoramax. Source: https://panoramax.mapcomplete.org/#focus=pic&pic=b40228e9-aa8d-4031-8ad7-1fe02be2a17c. License: https://creativecommons.org/licenses/by-sa/4.0/. whole 3072x4080 HD picture as served by the Panoramax instance (byte-identical; the service blurs faces and number plates), not cropped.
+Photo: DiningCar_, CC BY-SA 2.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:2020-07-05_Train_station_sign_at_Bratislava_hlavn%C3%A1_stanica.jpg. License: https://creativecommons.org/licenses/by-sa/2.0/. Unmodified original.
 
 ## sk-5005
 
 File: [sk/sk-5005.jpg](sk/sk-5005.jpg)
 
-Photo: petr-p, CC BY-SA 4.0, via KartaView. © KartaView contributors. Source: https://kartaview.org/details/117637/322/track-info. License: https://creativecommons.org/licenses/by-sa/4.0/. crop 1590,306,4031,2136 of the 4032x3024 full-size processed (blurred) picture.
+Photo: Antimuonium, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:%C5%BDelezni%C4%8Dn%C3%A1_stanica_Star%C3%BD_Smokovec,_sign,_Vysok%C3%A9_Tatry,_2026.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Unmodified original.
 
 ## sk-5006
 
 File: [sk/sk-5006.jpg](sk/sk-5006.jpg)
 
-Photo: mapcomplete, CC BY-SA 4.0, via Panoramax. Source: https://panoramax.mapcomplete.org/#focus=pic&pic=45ca1680-dda4-424e-8cd9-0d3e0174f53a. License: https://creativecommons.org/licenses/by-sa/4.0/. crop 42,240,3072,2512 of the 3072x4080 HD picture.
+Photo: mapcomplete, CC BY-SA 4.0, via Panoramax. Source: https://panoramax.mapcomplete.org/#focus=pic&pic=ebacafa8-0541-4d43-880b-e2787805748a. License: https://creativecommons.org/licenses/by-sa/4.0/. crop 0,624,3072,4080 of the 3072x4080 HD picture.
 
 ## sk-5007
 
 File: [sk/sk-5007.jpg](sk/sk-5007.jpg)
 
-Photo: Julia Keil-Voss, CC BY-SA 4.0, via Panoramax. Source: https://panoramax.openstreetmap.fr/#focus=pic&pic=269c250d-b2a5-431f-a520-7900f81d5c07. License: https://creativecommons.org/licenses/by-sa/4.0/. whole 4080x3060 HD picture as served by the Panoramax instance (byte-identical; the service blurs faces and number plates), not cropped.
+Photo: Julia Keil-Voss, CC BY-SA 4.0, via Panoramax. Source: https://panoramax.openstreetmap.fr/#focus=pic&pic=38eb131c-9d42-4709-9279-9e64abbce30d. License: https://creativecommons.org/licenses/by-sa/4.0/. whole 3953x2965 HD picture as served by the Panoramax instance (byte-identical; the service blurs faces and number plates), not cropped.
 
 ## sk-5008
 
 File: [sk/sk-5008.jpg](sk/sk-5008.jpg)
 
-Photo: Matej Grochal, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Brusno_zast%C3%A1vka_na_I66d.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
+Photo: Bogdan Andrei, CC BY-SA 4.0, via KartaView. © KartaView contributors. Source: https://kartaview.org/details/165103/29/track-info. License: https://creativecommons.org/licenses/by-sa/4.0/. whole 3264x2448 full-size processed (blurred) picture as served by the KartaView CDN (byte-identical; the service blurs faces and number plates), not cropped.
 
 ## sk-5009
 
 File: [sk/sk-5009.jpg](sk/sk-5009.jpg)
 
-Photo: Matej Grochal, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Brusno_zast%C3%A1vka_na_I66a.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
+Photo: mapcomplete, CC BY-SA 4.0, via Panoramax. Source: https://panoramax.mapcomplete.org/#focus=pic&pic=b40228e9-aa8d-4031-8ad7-1fe02be2a17c. License: https://creativecommons.org/licenses/by-sa/4.0/. whole 3072x4080 HD picture as served by the Panoramax instance (byte-identical; the service blurs faces and number plates), not cropped.
 
 ## sk-5010
 
 File: [sk/sk-5010.jpg](sk/sk-5010.jpg)
 
-Photo: Szeder László, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Udvard144.JPG. License: https://creativecommons.org/licenses/by-sa/4.0/. Wikimedia Commons standard 1280px-wide rendition (thumb.wikimedia.org).
+Photo: petr-p, CC BY-SA 4.0, via KartaView. © KartaView contributors. Source: https://kartaview.org/details/117637/322/track-info. License: https://creativecommons.org/licenses/by-sa/4.0/. crop 1590,306,4031,2136 of the 4032x3024 full-size processed (blurred) picture.
 
 ## si-5001
 
@@ -8990,173 +8906,233 @@ File: [si/si-5002.jpg](si/si-5002.jpg)
 
 Photo: AlexIlisei, CC BY-SA 4.0, via KartaView. © KartaView contributors. Source: https://kartaview.org/details/3733801/2038/track-info. License: https://creativecommons.org/licenses/by-sa/4.0/. crop 0,0,1200,900 of the 2688x1512 full-size processed (blurred) picture.
 
+## si-5003
+
+File: [si/si-5003.jpg](si/si-5003.jpg)
+
+Photo: LanaDH, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Ulica_Zofke_Kvedrove_tabla_1.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
+
+## si-5004
+
+File: [si/si-5004.jpg](si/si-5004.jpg)
+
+Photo: Alexwlchan, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:A_Slovenian_sign_about_children_in_the_road.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
+
+## si-5005
+
+File: [si/si-5005.jpg](si/si-5005.jpg)
+
+Photo: MZaplotnik, CC BY-SA 3.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Slovenian_Sign_18.JPG. License: https://creativecommons.org/licenses/by-sa/3.0/. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
+
+## si-5006
+
+File: [si/si-5006.jpg](si/si-5006.jpg)
+
+Photo: MZaplotnik, CC BY-SA 3.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Slovenian_Sign_20.JPG. License: https://creativecommons.org/licenses/by-sa/3.0/. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
+
+## si-5007
+
+File: [si/si-5007.jpg](si/si-5007.jpg)
+
+Photo: MZaplotnik, CC BY-SA 3.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Slovenian_Road_Sign_52.JPG. License: https://creativecommons.org/licenses/by-sa/3.0/. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
+
+## si-5008
+
+File: [si/si-5008.jpg](si/si-5008.jpg)
+
+Photo: Doremo, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:%C4%8Cevica_Slovenia_-_sign.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
+
+## si-5009
+
+File: [si/si-5009.jpg](si/si-5009.jpg)
+
+Photo: Doremo, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Jerova_Vas_Slovenia_-_sign.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
+
+## si-5010
+
+File: [si/si-5010.jpg](si/si-5010.jpg)
+
+Photo: Doremo, CC BY 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:%C4%8Cir%C4%8Di%C4%8De_Slovenia_-_sign_2.jpg. License: https://creativecommons.org/licenses/by/4.0/. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
+
 ## es-5001
 
 File: [es/es-5001.jpg](es/es-5001.jpg)
 
-Photo: ornello_pics, CC BY 2.0, via Flickr. Source: https://www.flickr.com/photos/69709778@N03/6344598426. License: https://creativecommons.org/licenses/by/2.0/. Unmodified original.
+Photo: Palauenc05, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Espolla_Carrer_Vilars.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Unmodified original.
 
 ## es-5002
 
 File: [es/es-5002.jpg](es/es-5002.jpg)
 
-Photo: polkillas, CC BY-SA 4.0, via KartaView. © KartaView contributors. Source: https://kartaview.org/details/9224809/377/track-info. License: https://creativecommons.org/licenses/by-sa/4.0/. crop 0,578,1200,1478 of the 3840x2160 full-size processed (blurred) picture.
+Photo: Arturo Francisco Barbero, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Aldeasaz.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Unmodified original.
 
 ## es-5003
 
 File: [es/es-5003.jpg](es/es-5003.jpg)
 
-Photo: mapcomplete, CC BY-SA 4.0, via Panoramax. Source: https://panoramax.mapcomplete.org/#focus=pic&pic=9846a3e6-e42d-4478-82fc-1b1404dfd2da. License: https://creativecommons.org/licenses/by-sa/4.0/. crop 2135,854,3859,2147 of the 4032x3024 HD picture.
+Photo: Jebulon, Public domain, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Sign_Rules_dam.jpg. License: https://creativecommons.org/publicdomain/mark/1.0/. Unmodified original.
 
 ## es-5004
 
 File: [es/es-5004.jpg](es/es-5004.jpg)
 
-Photo: radnaj, CC BY-SA 4.0, via KartaView. © KartaView contributors. Source: https://kartaview.org/details/2832342/350/track-info. License: https://creativecommons.org/licenses/by-sa/4.0/. whole 3264x2448 full-size processed (blurred) picture as served by the KartaView CDN (byte-identical; the service blurs faces and number plates), not cropped.
+Photo: Jebulon, CC0 1.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Plaza_del_Platero_Oquendo_sign_Segovia.jpg. License: http://creativecommons.org/publicdomain/zero/1.0/deed.en. Unmodified original.
 
 ## es-5005
 
 File: [es/es-5005.jpg](es/es-5005.jpg)
 
-Photo: radnaj, CC BY-SA 4.0, via KartaView. © KartaView contributors. Source: https://kartaview.org/details/2794130/2/track-info. License: https://creativecommons.org/licenses/by-sa/4.0/. whole 4208x3120 full-size processed (blurred) picture as served by the KartaView CDN (byte-identical; the service blurs faces and number plates), not cropped.
+Photo: ornello_pics, CC BY 2.0, via Flickr. Source: https://www.flickr.com/photos/69709778@N03/6344598426. License: https://creativecommons.org/licenses/by/2.0/. Unmodified original.
 
 ## es-5006
 
 File: [es/es-5006.jpg](es/es-5006.jpg)
 
-Photo: mapcomplete, CC BY-SA 4.0, via Panoramax. Source: https://panoramax.mapcomplete.org/#focus=pic&pic=a36f42ac-816c-4de1-8f70-3f88bf1fb80b. License: https://creativecommons.org/licenses/by-sa/4.0/. crop 248,471,3146,2644 of the 4032x3024 HD picture.
+Photo: polkillas, CC BY-SA 4.0, via KartaView. © KartaView contributors. Source: https://kartaview.org/details/9224809/377/track-info. License: https://creativecommons.org/licenses/by-sa/4.0/. crop 0,578,1200,1478 of the 3840x2160 full-size processed (blurred) picture.
 
 ## es-5007
 
 File: [es/es-5007.jpg](es/es-5007.jpg)
 
-Photo: radnaj, CC BY-SA 4.0, via KartaView. © KartaView contributors. Source: https://kartaview.org/details/2833306/82/track-info. License: https://creativecommons.org/licenses/by-sa/4.0/. crop 1694,577,2894,1477 of the 3264x2448 full-size processed (blurred) picture.
+Photo: mapcomplete, CC BY-SA 4.0, via Panoramax. Source: https://panoramax.mapcomplete.org/#focus=pic&pic=9846a3e6-e42d-4478-82fc-1b1404dfd2da. License: https://creativecommons.org/licenses/by-sa/4.0/. crop 2135,854,3859,2147 of the 4032x3024 HD picture.
 
 ## es-5008
 
 File: [es/es-5008.jpg](es/es-5008.jpg)
 
-Photo: polkillas, CC BY-SA 4.0, via KartaView. © KartaView contributors. Source: https://kartaview.org/details/8977673/723/track-info. License: https://creativecommons.org/licenses/by-sa/4.0/. whole 3840x2160 full-size processed (blurred) picture as served by the KartaView CDN (byte-identical; the service blurs faces and number plates), not cropped.
+Photo: radnaj, CC BY-SA 4.0, via KartaView. © KartaView contributors. Source: https://kartaview.org/details/2832342/350/track-info. License: https://creativecommons.org/licenses/by-sa/4.0/. whole 3264x2448 full-size processed (blurred) picture as served by the KartaView CDN (byte-identical; the service blurs faces and number plates), not cropped.
 
 ## es-5009
 
 File: [es/es-5009.jpg](es/es-5009.jpg)
 
-Photo: Palauenc05, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Espolla_Carrer_Vilars.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
+Photo: radnaj, CC BY-SA 4.0, via KartaView. © KartaView contributors. Source: https://kartaview.org/details/2794130/2/track-info. License: https://creativecommons.org/licenses/by-sa/4.0/. whole 4208x3120 full-size processed (blurred) picture as served by the KartaView CDN (byte-identical; the service blurs faces and number plates), not cropped.
 
 ## es-5010
 
 File: [es/es-5010.jpg](es/es-5010.jpg)
 
-Photo: MrPotato1010, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Montesa_-_Senyal_1.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
+Photo: mapcomplete, CC BY-SA 4.0, via Panoramax. Source: https://panoramax.mapcomplete.org/#focus=pic&pic=a36f42ac-816c-4de1-8f70-3f88bf1fb80b. License: https://creativecommons.org/licenses/by-sa/4.0/. crop 248,471,3146,2644 of the 4032x3024 HD picture.
 
 ## se-5001
 
 File: [se/se-5001.jpg](se/se-5001.jpg)
 
-Photo: telenavdrives, CC BY-SA 4.0, via KartaView. © KartaView contributors. Source: https://kartaview.org/details/941165/913/track-info. License: https://creativecommons.org/licenses/by-sa/4.0/. whole 2592x1936 full-size processed (blurred) picture as served by the KartaView CDN (byte-identical; the service blurs faces and number plates), not cropped.
+Photo: Gunnar Creutz, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:V%C3%A4gvisare_n%C3%A4r_man_sv%C3%A4nger_ut_p%C3%A5_l%C3%A4nsv%C3%A4g_181_fr%C3%A5n_Floby_kyrka_2021-06-27_(5264).jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
 
 ## se-5002
 
 File: [se/se-5002.jpg](se/se-5002.jpg)
 
-Photo: Robot8A, CC BY-SA 4.0, via Panoramax. Source: https://panoramax.openstreetmap.fr/#focus=pic&pic=12f9b173-99f2-4aed-9039-94732d3c4981. License: https://creativecommons.org/licenses/by-sa/4.0/. crop 310,0,3840,2160 of the 3840x2160 HD picture.
+Photo: Vogler, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Paradisgatan_30_enamel_street_sign_G%C3%B6teborg.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
 
 ## se-5003
 
 File: [se/se-5003.jpg](se/se-5003.jpg)
 
-Photo: dennis-g-d, CC BY-SA 4.0, via KartaView. © KartaView contributors. Source: https://kartaview.org/details/5850153/160/track-info. License: https://creativecommons.org/licenses/by-sa/4.0/. crop 0,120,2385,1908 of the 3840x2160 full-size processed (blurred) picture.
+Photo: IngimarE, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Kollektivhuset,_John_Ericssonsgatan_2.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
 
 ## se-5004
 
 File: [se/se-5004.jpg](se/se-5004.jpg)
 
-Photo: dennis-g-d, CC BY-SA 4.0, via KartaView. © KartaView contributors. Source: https://kartaview.org/details/5850153/150/track-info. License: https://creativecommons.org/licenses/by-sa/4.0/. whole 3840x2160 full-size processed (blurred) picture as served by the KartaView CDN (byte-identical; the service blurs faces and number plates), not cropped.
+Photo: W.carter, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:ICA_sign_in_Brastad.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
 
 ## se-5005
 
 File: [se/se-5005.jpg](se/se-5005.jpg)
 
-Photo: motocultrice, CC BY-SA 4.0, via Panoramax. Source: https://panoramax.openstreetmap.fr/#focus=pic&pic=401b1b7d-a2fd-4a9c-bf7f-9a36fa381bae. License: https://creativecommons.org/licenses/by-sa/4.0/. crop 250,359,3930,3119 of the 4160x3120 HD picture.
+Photo: La Citta Vita, CC BY-SA 2.0, via Flickr. Source: https://www.flickr.com/photos/49539505@N04/5949519853. License: https://creativecommons.org/licenses/by-sa/2.0/. Unmodified original.
 
 ## se-5006
 
 File: [se/se-5006.jpg](se/se-5006.jpg)
 
-Photo: telenavdrives, CC BY-SA 4.0, via KartaView. © KartaView contributors. Source: https://kartaview.org/details/941165/883/track-info. License: https://creativecommons.org/licenses/by-sa/4.0/. crop 1018,360,2341,1352 of the 2592x1936 full-size processed (blurred) picture.
+Photo: telenavdrives, CC BY-SA 4.0, via KartaView. © KartaView contributors. Source: https://kartaview.org/details/941165/913/track-info. License: https://creativecommons.org/licenses/by-sa/4.0/. whole 2592x1936 full-size processed (blurred) picture as served by the KartaView CDN (byte-identical; the service blurs faces and number plates), not cropped.
 
 ## se-5007
 
 File: [se/se-5007.jpg](se/se-5007.jpg)
 
-Photo: mapcomplete, CC BY-SA 4.0, via Panoramax. Source: https://panoramax.mapcomplete.org/#focus=pic&pic=d70fdaa3-f777-49dc-8222-26283845ce99. License: https://creativecommons.org/licenses/by-sa/4.0/. whole 3000x2250 HD picture as served by the Panoramax instance (byte-identical; the service blurs faces and number plates), not cropped.
+Photo: Robot8A, CC BY-SA 4.0, via Panoramax. Source: https://panoramax.openstreetmap.fr/#focus=pic&pic=12f9b173-99f2-4aed-9039-94732d3c4981. License: https://creativecommons.org/licenses/by-sa/4.0/. crop 310,0,3840,2160 of the 3840x2160 HD picture.
 
 ## se-5008
 
 File: [se/se-5008.jpg](se/se-5008.jpg)
 
-Photo: La Citta Vita, CC BY-SA 2.0, via Flickr. Source: https://www.flickr.com/photos/49539505@N04/5949519853. License: https://creativecommons.org/licenses/by-sa/2.0/. Unmodified original.
+Photo: dennis-g-d, CC BY-SA 4.0, via KartaView. © KartaView contributors. Source: https://kartaview.org/details/5850153/160/track-info. License: https://creativecommons.org/licenses/by-sa/4.0/. crop 0,120,2385,1908 of the 3840x2160 full-size processed (blurred) picture.
 
 ## se-5009
 
 File: [se/se-5009.jpg](se/se-5009.jpg)
 
-Photo: Marinmuseum, CC BY 2.0, via Flickr. Source: https://www.flickr.com/photos/35286849@N08/5188805247. License: https://creativecommons.org/licenses/by/2.0/. Unmodified original.
+Photo: dennis-g-d, CC BY-SA 4.0, via KartaView. © KartaView contributors. Source: https://kartaview.org/details/5850153/150/track-info. License: https://creativecommons.org/licenses/by-sa/4.0/. whole 3840x2160 full-size processed (blurred) picture as served by the KartaView CDN (byte-identical; the service blurs faces and number plates), not cropped.
+
+## se-5010
+
+File: [se/se-5010.jpg](se/se-5010.jpg)
+
+Photo: motocultrice, CC BY-SA 4.0, via Panoramax. Source: https://panoramax.openstreetmap.fr/#focus=pic&pic=401b1b7d-a2fd-4a9c-bf7f-9a36fa381bae. License: https://creativecommons.org/licenses/by-sa/4.0/. crop 250,359,3930,3119 of the 4160x3120 HD picture.
 
 ## ch-5001
 
 File: [ch/ch-5001.jpg](ch/ch-5001.jpg)
 
-Photo: telenavdrives, CC BY-SA 4.0, via KartaView. © KartaView contributors. Source: https://kartaview.org/details/1311835/249/track-info. License: https://creativecommons.org/licenses/by-sa/4.0/. crop 314,0,1514,900 of the 2592x1936 full-size processed (blurred) picture.
+Photo: achimh, CC BY-SA 2.0, via Flickr. Source: https://www.flickr.com/photos/8599338@N04/5297606066. License: https://creativecommons.org/licenses/by-sa/2.0/. Unmodified original.
 
 ## ch-5002
 
 File: [ch/ch-5002.jpg](ch/ch-5002.jpg)
 
-Photo: skobblertest2, CC BY-SA 4.0, via KartaView. © KartaView contributors. Source: https://kartaview.org/details/333/184/track-info. License: https://creativecommons.org/licenses/by-sa/4.0/. crop 311,37,1888,1219 of the 5312x2988 full-size processed (blurred) picture.
+Photo: pppspics, CC BY 2.0, via Flickr. Source: https://www.flickr.com/photos/35637563@N00/161681162. License: https://creativecommons.org/licenses/by/2.0/. Unmodified original.
 
 ## ch-5003
 
 File: [ch/ch-5003.jpg](ch/ch-5003.jpg)
 
-Photo: Jacques 3434, CC BY-SA 4.0, via Panoramax. Source: https://panoramax.openstreetmap.fr/#focus=pic&pic=05566318-7073-47f3-9b86-b5174d33e676. License: https://creativecommons.org/licenses/by-sa/4.0/. crop 3846,1071,5046,1971 of the 5184x3888 HD picture.
+Photo: Simone Ramella, CC BY 2.0, via Flickr. Source: https://www.flickr.com/photos/12557829@N00/32873484406. License: https://creativecommons.org/licenses/by/2.0/. Unmodified original.
 
 ## ch-5004
 
 File: [ch/ch-5004.jpg](ch/ch-5004.jpg)
 
-Photo: captaininler, CC BY-SA 4.0, via Panoramax. Source: https://panoramax.openstreetmap.fr/#focus=pic&pic=b16294fc-a4e3-4a6a-a05e-5cc8aff34b0a. License: https://creativecommons.org/licenses/by-sa/4.0/. crop 2625,110,4000,1141 of the 4000x3000 HD picture.
+Photo: telenavdrives, CC BY-SA 4.0, via KartaView. © KartaView contributors. Source: https://kartaview.org/details/1311835/249/track-info. License: https://creativecommons.org/licenses/by-sa/4.0/. crop 314,0,1514,900 of the 2592x1936 full-size processed (blurred) picture.
 
 ## ch-5005
 
 File: [ch/ch-5005.jpg](ch/ch-5005.jpg)
 
-Photo: captaininler, CC BY-SA 4.0, via Panoramax. Source: https://panoramax.openstreetmap.fr/#focus=pic&pic=0696f2ef-89b8-4827-a621-73646dab06c5. License: https://creativecommons.org/licenses/by-sa/4.0/. crop 0,558,2625,2526 of the 4000x3000 HD picture.
+Photo: skobblertest2, CC BY-SA 4.0, via KartaView. © KartaView contributors. Source: https://kartaview.org/details/333/184/track-info. License: https://creativecommons.org/licenses/by-sa/4.0/. crop 311,37,1888,1219 of the 5312x2988 full-size processed (blurred) picture.
 
 ## ch-5006
 
 File: [ch/ch-5006.jpg](ch/ch-5006.jpg)
 
-Photo: paulb_imagery, CC BY-SA 4.0, via Panoramax. Source: https://panoramax.openstreetmap.fr/#focus=pic&pic=635b48c7-7bb8-4006-b2b3-e7f0e53a731f. License: https://creativecommons.org/licenses/by-sa/4.0/. crop 1498,0,5183,2764 of the 5184x3888 HD picture.
+Photo: Jacques 3434, CC BY-SA 4.0, via Panoramax. Source: https://panoramax.openstreetmap.fr/#focus=pic&pic=05566318-7073-47f3-9b86-b5174d33e676. License: https://creativecommons.org/licenses/by-sa/4.0/. crop 3846,1071,5046,1971 of the 5184x3888 HD picture.
 
 ## ch-5007
 
 File: [ch/ch-5007.jpg](ch/ch-5007.jpg)
 
-Photo: telenavdrives, CC BY-SA 4.0, via KartaView. © KartaView contributors. Source: https://kartaview.org/details/1311835/219/track-info. License: https://creativecommons.org/licenses/by-sa/4.0/. crop 573,0,2591,1513 of the 2592x1936 full-size processed (blurred) picture.
+Photo: captaininler, CC BY-SA 4.0, via Panoramax. Source: https://panoramax.openstreetmap.fr/#focus=pic&pic=b16294fc-a4e3-4a6a-a05e-5cc8aff34b0a. License: https://creativecommons.org/licenses/by-sa/4.0/. crop 2625,110,4000,1141 of the 4000x3000 HD picture.
 
 ## ch-5008
 
 File: [ch/ch-5008.jpg](ch/ch-5008.jpg)
 
-Photo: OpenStreetView, CC BY-SA 4.0, via KartaView. © KartaView contributors. Source: https://kartaview.org/details/8579/92/track-info. License: https://creativecommons.org/licenses/by-sa/4.0/. crop 0,227,2278,1935 of the 2592x1936 full-size processed (blurred) picture.
+Photo: captaininler, CC BY-SA 4.0, via Panoramax. Source: https://panoramax.openstreetmap.fr/#focus=pic&pic=0696f2ef-89b8-4827-a621-73646dab06c5. License: https://creativecommons.org/licenses/by-sa/4.0/. crop 0,558,2625,2526 of the 4000x3000 HD picture.
 
 ## ch-5009
 
 File: [ch/ch-5009.jpg](ch/ch-5009.jpg)
 
-Photo: OpenStreetView, CC BY-SA 4.0, via KartaView. © KartaView contributors. Source: https://kartaview.org/details/8732/94/track-info. License: https://creativecommons.org/licenses/by-sa/4.0/. crop 1073,412,2591,1551 of the 2592x1936 full-size processed (blurred) picture.
+Photo: paulb_imagery, CC BY-SA 4.0, via Panoramax. Source: https://panoramax.openstreetmap.fr/#focus=pic&pic=635b48c7-7bb8-4006-b2b3-e7f0e53a731f. License: https://creativecommons.org/licenses/by-sa/4.0/. crop 1498,0,5183,2764 of the 5184x3888 HD picture.
+
+## ch-5010
+
+File: [ch/ch-5010.jpg](ch/ch-5010.jpg)
+
+Photo: telenavdrives, CC BY-SA 4.0, via KartaView. © KartaView contributors. Source: https://kartaview.org/details/1311835/219/track-info. License: https://creativecommons.org/licenses/by-sa/4.0/. crop 573,0,2591,1513 of the 2592x1936 full-size processed (blurred) picture.
 
 ## ua-5001
 
@@ -10256,6 +10232,12 @@ File: [jm/jm-5004.jpg](jm/jm-5004.jpg)
 
 Photo: SamBlob, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Fly_Jamaica_Headquarters_sign.JPG. License: https://creativecommons.org/licenses/by-sa/4.0/. Unmodified original.
 
+## jm-5005
+
+File: [jm/jm-5005.jpg](jm/jm-5005.jpg)
+
+Photo: CaptJayRuffins, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Historic_marker_sign_20231007_120406.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
+
 ## mx-5001
 
 File: [mx/mx-5001.jpg](mx/mx-5001.jpg)
@@ -10585,18 +10567,6 @@ Photo: BBCLCD, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wiki
 File: [lc/lc-5001.jpg](lc/lc-5001.jpg)
 
 Photo: Hunter Stengl, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Welcome_To_Soufriere.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Unmodified original.
-
-## lc-5002
-
-File: [lc/lc-5002.jpg](lc/lc-5002.jpg)
-
-Photo: Chris Hunkeler from Carlsbad, California, USA, CC BY-SA 2.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Rodger_with_Cannon_at_Fort_Rodney_(40173010614).jpg. License: https://creativecommons.org/licenses/by-sa/2.0/. Unmodified original.
-
-## lc-5003
-
-File: [lc/lc-5003.jpg](lc/lc-5003.jpg)
-
-Photo: Chris Hunkeler from Carlsbad, California, USA, CC BY-SA 2.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:To_The_Lookout_(40880823301).jpg. License: https://creativecommons.org/licenses/by-sa/2.0/. Unmodified original.
 
 ## vc-5001
 
@@ -10970,12 +10940,6 @@ File: [ws/ws-5002.jpg](ws/ws-5002.jpg)
 
 Photo: Teinesavaii, CC BY-SA 3.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Matavai_Village_with_Mata_o_le_Alelo_pool_sign_by_the_road,_Savai%27i,_Samoa.JPG. License: https://creativecommons.org/licenses/by-sa/3.0/. Unmodified original.
 
-## ws-5003
-
-File: [ws/ws-5003.jpg](ws/ws-5003.jpg)
-
-Photo: blmcalifornia, Public domain, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Signs_in_Samoa_Dunes_Recreation_Area_(28589986648).jpg. License: https://creativecommons.org/publicdomain/mark/1.0/. Unmodified original.
-
 ## sb-5001
 
 File: [sb/sb-5001.jpg](sb/sb-5001.jpg)
@@ -11022,13 +10986,7 @@ Photo: UN WOMEN Pacific, CC BY-SA 2.0, via Wikimedia Commons. Source: https://co
 
 File: [sb/sb-5008.jpg](sb/sb-5008.jpg)
 
-Photo: Department of Foreign Affairs and Trade, CC BY 2.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Live_and_Learn_staff_pose_with_the_%E2%80%98men_against_violence_against_women_(MAVAW)_Project_sign._(10708162325).jpg. License: https://creativecommons.org/licenses/by/2.0/. Unmodified original.
-
-## sb-5009
-
-File: [sb/sb-5009.jpg](sb/sb-5009.jpg)
-
-Photo: Department of Foreign Affairs and Trade, CC BY 2.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Live_and_Learn_staff_pose_with_a_%E2%80%98Stop!_Violence_against_women%E2%80%99_sign._(10708149455).jpg. License: https://creativecommons.org/licenses/by/2.0/. Unmodified original.
+Photo: Department of Foreign Affairs and Trade, CC BY 2.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:%E2%80%98Sorry_no_petrol_%E2%80%93_Bulnut_and_leaf_on_sale%E2%80%99_sign,_Tulaghi,_Central_province_(10656349216).jpg. License: https://creativecommons.org/licenses/by/2.0/. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
 
 ## to-5001
 
@@ -11118,37 +11076,37 @@ Photo: Michael Coghlan from Adelaide, Australia, CC BY-SA 2.0, via Wikimedia Com
 
 File: [vu/vu-5006.jpg](vu/vu-5006.jpg)
 
-Photo: Phillip Capper from Wellington, New Zealand, CC BY 2.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Round_Efate_trip,_Nov._2006_-_Ernest%27s_Store_and_World_War_2_Museum,_Port_Havannah_-_Flickr_-_PhillipC.jpg. License: https://creativecommons.org/licenses/by/2.0/. Unmodified original.
+Photo: Michael Coghlan from Adelaide, Australia, CC BY-SA 2.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Another_Chinese_Store_(23775938336).jpg. License: https://creativecommons.org/licenses/by-sa/2.0/. Unmodified original.
 
 ## vu-5007
 
 File: [vu/vu-5007.jpg](vu/vu-5007.jpg)
 
-Photo: Carlquist, Sherwin John, 1930-2021, CC BY 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:(Markets_of_Port_Vila,_Vanuatu)_-_DPLA_-_a9cada4c70da5571f52147663e40e67b.jpg. License: https://creativecommons.org/licenses/by/4.0/. Unmodified original.
+Photo: Phillip Capper from Wellington, New Zealand, CC BY 2.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Round_Efate_trip,_Nov._2006_-_Ernest%27s_Store_and_World_War_2_Museum,_Port_Havannah_-_Flickr_-_PhillipC.jpg. License: https://creativecommons.org/licenses/by/2.0/. Unmodified original.
 
 ## vu-5008
 
 File: [vu/vu-5008.jpg](vu/vu-5008.jpg)
 
-Photo: Phillip Capper from Wellington, New Zealand, CC BY 2.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Natapau_church.jpg. License: https://creativecommons.org/licenses/by/2.0/. Unmodified original.
+Photo: Carlquist, Sherwin John, 1930-2021, CC BY 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:(Markets_of_Port_Vila,_Vanuatu)_-_DPLA_-_a9cada4c70da5571f52147663e40e67b.jpg. License: https://creativecommons.org/licenses/by/4.0/. Unmodified original.
 
 ## vu-5009
 
 File: [vu/vu-5009.jpg](vu/vu-5009.jpg)
 
-Photo: Torbenbrinker, CC BY-SA 3.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:PortVilaPostOffice.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. Unmodified original.
+Photo: Phillip Capper from Wellington, New Zealand, CC BY 2.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Natapau_church.jpg. License: https://creativecommons.org/licenses/by/2.0/. Unmodified original.
 
 ## vu-5010
 
 File: [vu/vu-5010.jpg](vu/vu-5010.jpg)
 
-Photo: StAnselm, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Norsup_airport.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Unmodified original.
+Photo: Torbenbrinker, CC BY-SA 3.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:PortVilaPostOffice.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. Unmodified original.
 
 ## vu-5011
 
 File: [vu/vu-5011.jpg](vu/vu-5011.jpg)
 
-Photo: Michael Coghlan from Adelaide, Australia, CC BY-SA 2.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Another_Chinese_Store_(23775938336).jpg. License: https://creativecommons.org/licenses/by-sa/2.0/. Unmodified original.
+Photo: StAnselm, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Norsup_airport.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Unmodified original.
 
 ## vu-5012
 

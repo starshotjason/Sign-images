@@ -1,23 +1,23 @@
 {
-  "source": "kartaview",
-  "source_url": "https://kartaview.org/details/8732/94/track-info",
-  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlNC5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE2LzcvNC9wcm9jLzg3MzJfYjMyYzhfNTc3YTJmNGU0OWM2ZS5qcGc",
-  "license_as_published": "CC BY-SA 4.0",
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=635b48c7-7bb8-4006-b2b3-e7f0e53a731f",
+  "original_url": "https://panoramax.openstreetmap.fr/images/63/5b/48/c7/7bb8-4006-b2b3-e7f0e53a731f.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
   "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
-  "author_as_published": "OpenStreetView",
-  "credit_as_published": "KartaView user OpenStreetView (user id 44); © KartaView contributors",
-  "title": "KartaView photo 3374301, sequence 8732 #94 (Bern, 2016-06-20)",
-  "description": "Street-level picture on KartaView, taken 2016-06-20 near Bern by OpenStreetView, sequence 8732, heading 188.69. OCR (PP-OCRv3) read: VON G | StOTRAVEL | MIGROS",
-  "date": "2016-06-20",
+  "author_as_published": "paulb_imagery",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture 635b48c7-7bb8-4006-b2b3-e7f0e53a731f (Zurich, 2024-06-07)",
+  "description": "Street-level picture on Panoramax, taken 2024-06-07 near Zurich by paulb_imagery, sequence 3cdf664f-3ea6-41f3-b0b2-b0a657c12e25, heading 88. OCR (PP-OCRv3) read: PK ZWOMEN",
+  "date": "2024-06-07",
   "categories": [],
   "camera_location": [
-    46.94894,
-    7.445523
+    47.375655342,
+    8.539621504
   ],
-  "found_by": "kartaview-ocr:Bern",
-  "bytes": 404426,
-  "width": 1518,
-  "height": 1139,
-  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlNC5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE2LzcvNC9wcm9jLzg3MzJfYjMyYzhfNTc3YTJmNGU0OWM2ZS5qcGc",
-  "derivative": "crop 1073,412,2591,1551 of the 2592x1936 full-size processed (blurred) picture"
+  "found_by": "panoramax-ocr:Zurich",
+  "bytes": 1341555,
+  "width": 3685,
+  "height": 2764,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/63/5b/48/c7/7bb8-4006-b2b3-e7f0e53a731f.jpg",
+  "derivative": "crop 1498,0,5183,2764 of the 5184x3888 HD picture"
 }

@@ -1,23 +1,23 @@
 {
   "source": "panoramax",
-  "source_url": "https://panoramax.ign.fr/#focus=pic&pic=0782d21b-1273-4df6-8b33-562de7a93215",
-  "original_url": "https://panoramax.ign.fr/api/pictures/0782d21b-1273-4df6-8b33-562de7a93215/hd.jpg",
+  "source_url": "https://panoramax.ign.fr/#focus=pic&pic=c7233400-853a-40e6-b0de-30b966534ebc",
+  "original_url": "https://panoramax.ign.fr/api/pictures/c7233400-853a-40e6-b0de-30b966534ebc/hd.jpg",
   "license_as_published": "etalab-2.0",
   "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
   "author_as_published": "jg13",
   "credit_as_published": "Panoramax, instance ign (https://panoramax.ign.fr)",
-  "title": "Panoramax picture 0782d21b-1273-4df6-8b33-562de7a93215 (Reykjavik, 2025-10-31)",
-  "description": "Street-level picture on Panoramax, taken 2025-10-31 near Reykjavik by jg13, sequence 19337bd5-f0a6-4483-b24b-0e17dd2e6d65, heading 274. OCR (PP-OCRv3) read: MJUK | Iceland",
+  "title": "Panoramax picture c7233400-853a-40e6-b0de-30b966534ebc (Reykjavik, 2025-10-31)",
+  "description": "Street-level picture on Panoramax, taken 2025-10-31 near Reykjavik by jg13, sequence 50086bb1-270c-47be-aa7b-629d10ad9384, heading 250. OCR (PP-OCRv3) read: Bankastraeti",
   "date": "2025-10-31",
   "categories": [],
   "camera_location": [
-    64.145746,
-    -21.928867
+    64.147105972,
+    -21.935995972
   ],
   "found_by": "panoramax-ocr:Reykjavik",
-  "bytes": 360186,
-  "width": 1200,
-  "height": 900,
-  "downloaded_url": "https://panoramax.ign.fr/api/pictures/0782d21b-1273-4df6-8b33-562de7a93215/hd.jpg",
-  "derivative": "crop 121,1703,1321,2603 of the 1816x4032 HD picture"
+  "bytes": 84568,
+  "width": 1252,
+  "height": 939,
+  "downloaded_url": "https://panoramax.ign.fr/api/pictures/c7233400-853a-40e6-b0de-30b966534ebc/hd.jpg",
+  "derivative": "crop 0,1044,1252,1983 of the 1816x4032 HD picture"
 }

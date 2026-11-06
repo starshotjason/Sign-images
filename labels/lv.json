@@ -289,5 +289,179 @@
   },
   "difficulty": "easy",
   "notes": "White raised letters and a round Baltic ornament on a black wooden board, Riga old town. A carved wooden animal sculpture in the foreground; small white round heritage plate (PK953 / 4410 / 114) and opening-hours board are distractors."
+ },
+ "c14946353": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn",
+   "Cyrl"
+  ],
+  "lines": [
+   {
+    "text": "Krasta iela",
+    "lang": "lv"
+   },
+   {
+    "text": "ул. Краста",
+    "lang": "ru",
+    "latin": "ul. Krasta (Krasta Street)"
+   }
+  ],
+  "expect": {
+   "query": "Krasta iela",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Old bilingual Latvian-Russian blue enamel street plate on a brick wall in Rēzekne."
+ },
+ "c151508314": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Lielstraupes pils",
+    "lang": "lv"
+   },
+   {
+    "text": "atvērta apmeklētājiem",
+    "lang": "lv"
+   },
+   {
+    "text": "Lielstraupe Castle",
+    "lang": "en"
+   },
+   {
+    "text": "open for visitors",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Lielstraupes pils",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "White panel on a green Vidzeme tourist-map stand, with the castle name in Latvian and English. 'VIDZEME' map header, small web addresses and the wooden opening-hours board behind (repeating 'Lielstraupes pils / Lielstraupe Castle') are distractors."
+ },
+ "c154756007": {
+  "accept": false,
+  "reason": "small engraved wooden fingerposts at a distance; Latvian diacritics and one partly hidden name cannot be read reliably"
+ },
+ "c181419198": {
+  "accept": false,
+  "reason": "apartment block facade; the street plate is tiny and illegible; camera date stamp burned in"
+ },
+ "c181420611": {
+  "accept": false,
+  "reason": "school building from across the street; no legible sign, car number plate in the foreground, camera date stamp"
+ },
+ "c181584081": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Elis",
+    "lang": "lv"
+   },
+   {
+    "text": "GRĪDAS SEGUMI",
+    "lang": "lv"
+   },
+   {
+    "text": "UN",
+    "lang": "lv"
+   },
+   {
+    "text": "SANTEHNIKA",
+    "lang": "lv"
+   }
+  ],
+  "expect": {
+   "query": "Elis",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Green 'Elis' letters on a yellow panel high on a round shop building, Vaidavas iela 12, Riga ('floor coverings and plumbing'); the macron on GRĪDAS is small. Yellow fascia band 'LAMINĀTS PARKETS FLĪZES' and window banners (TAPETES, LUSTRAS, KOLO, JAUNUMI) are distractors. Camera date stamp '03/06/2012' burned into the lower right."
+ },
+ "c181965164": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "HAIR MONKEY",
+    "lang": "en"
+   },
+   {
+    "text": "BARBERSHOP",
+    "lang": "en"
+   },
+   {
+    "text": "BARBERSHOP",
+    "lang": "en"
+   },
+   {
+    "text": "frizētava",
+    "lang": "lv"
+   }
+  ],
+  "expect": {
+   "query": "Hair Monkey",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Green wooden barbershop at Tēriņu iela 65, Riga. Shop name 'HAIR MONKEY BARBERSHOP' is only in the small round logo (text curved around a monkey face); large letters read 'BARBERSHOP' with 'frizētava' (Latvian: hairdresser's) below. Small blue house-number plate '65' at right is too small to read the street line."
+ },
+ "c182056118": {
+  "accept": false,
+  "reason": "distant market gate; the market name board is small and partly washed out; camera date stamp and car number plate in view"
+ },
+ "c182056858": {
+  "accept": false,
+  "reason": "derelict former shop building; no legible sign (only graffiti letters)"
+ },
+ "c191893421": {
+  "accept": false,
+  "reason": "'Automašīnas pretī vārtiem nenovietot' (do not park in front of the gate) notice; names no place"
+ },
+ "c46794158": {
+  "accept": false,
+  "reason": "hanging souvenir-shop sign listing only goods (SUVENĪRI / ART GLASS / KERAMIKA / PORCELĀNS / VĀZES); no business name"
+ },
+ "c47399762": {
+  "accept": false,
+  "reason": "pretzel-shaped bakery bracket sign with no text"
+ },
+ "c50019341": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Īslīces iela",
+    "lang": "lv"
+   }
+  ],
+  "expect": {
+   "query": "Īslīces iela",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Modern blue Riga street-name blade on a pole, shot from below against apartment blocks; note the capital Ī with macron at the start. A second blade facing away at left is edge-on and unreadable."
  }
 }

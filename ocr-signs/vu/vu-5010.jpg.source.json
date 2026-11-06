@@ -1,23 +1,25 @@
 {
   "source": "commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Norsup_airport.jpg",
-  "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Norsup_airport.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-  "license_as_published": "CC BY-SA 4.0",
-  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0",
-  "author_as_published": "StAnselm",
+  "source_url": "https://commons.wikimedia.org/wiki/File:PortVilaPostOffice.jpg",
+  "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/PortVilaPostOffice.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "license_as_published": "CC BY-SA 3.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/3.0",
+  "author_as_published": "Torbenbrinker",
   "credit_as_published": "Own work",
-  "title": "File:Norsup airport.jpg",
-  "description": "Norsup Airport, Vanuatu",
-  "date": "2016-08-20 13:37:30",
+  "title": "File:PortVilaPostOffice.jpg",
+  "description": "Post office, Port Vila, Vanuatu",
+  "date": "2013-07-09 05:06:59",
   "categories": [
-    "Norsup Airport",
-    "Signs in Vanuatu"
+    "Buildings in Port Vila",
+    "Post offices in Vanuatu",
+    "Signs in Vanuatu",
+    "Western Union"
   ],
   "camera_location": null,
   "found_by": "keyword",
-  "bytes": 732187,
+  "bytes": 792051,
   "width": 1920,
-  "height": 1080,
-  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Norsup_airport.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "height": 1440,
+  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/PortVilaPostOffice.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
   "derivative": ""
 }

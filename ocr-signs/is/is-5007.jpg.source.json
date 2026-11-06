@@ -1,23 +1,23 @@
 {
-  "source": "kartaview",
-  "source_url": "https://kartaview.org/details/1180231/73/track-info",
-  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlOC5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE4LzUvMTIvcHJvYy8xMTgwMjMxXzVjMDkwXzI0LmpwZw",
-  "license_as_published": "CC BY-SA 4.0",
+  "source": "panoramax",
+  "source_url": "https://panoramax.ign.fr/#focus=pic&pic=7bebebaf-db34-47ed-b7f5-1f74c545f7cb",
+  "original_url": "https://panoramax.ign.fr/api/pictures/7bebebaf-db34-47ed-b7f5-1f74c545f7cb/hd.jpg",
+  "license_as_published": "etalab-2.0",
   "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
-  "author_as_published": "Serzh",
-  "credit_as_published": "KartaView user Serzh (user id 809); © KartaView contributors",
-  "title": "KartaView photo 243031831, sequence 1180231 #73 (Reykjavik, 2018-05-10)",
-  "description": "Street-level picture on KartaView, taken 2018-05-10 near Reykjavik by Serzh, sequence 1180231, heading 0. OCR (PP-OCRv3) read: Landsbankinn | American Style",
-  "date": "2018-05-10",
+  "author_as_published": "jg13",
+  "credit_as_published": "Panoramax, instance ign (https://panoramax.ign.fr)",
+  "title": "Panoramax picture 7bebebaf-db34-47ed-b7f5-1f74c545f7cb (Reykjavik, 2025-10-31)",
+  "description": "Street-level picture on Panoramax, taken 2025-10-31 near Reykjavik by jg13, sequence 19337bd5-f0a6-4483-b24b-0e17dd2e6d65, heading 267. OCR (PP-OCRv3) read: SMIEKKLEYSA",
+  "date": "2025-10-31",
   "categories": [],
   "camera_location": [
-    64.148777,
-    -21.939742
+    64.1458991,
+    -21.9295145
   ],
-  "found_by": "kartaview-ocr:Reykjavik",
-  "bytes": 187680,
-  "width": 1920,
-  "height": 1080,
-  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlOC5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE4LzUvMTIvcHJvYy8xMTgwMjMxXzVjMDkwXzI0LmpwZw",
-  "derivative": "whole 1920x1080 full-size processed (blurred) picture as served by the KartaView CDN (byte-identical; the service blurs faces and number plates), not cropped"
+  "found_by": "panoramax-ocr:Reykjavik",
+  "bytes": 423193,
+  "width": 1649,
+  "height": 1236,
+  "downloaded_url": "https://panoramax.ign.fr/api/pictures/7bebebaf-db34-47ed-b7f5-1f74c545f7cb/hd.jpg",
+  "derivative": "crop 140,1596,1789,2832 of the 1816x4032 HD picture"
 }

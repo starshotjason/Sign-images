@@ -82,5 +82,301 @@
  "pe639b8fca2": {
   "accept": false,
   "reason": "only sign 'CENTRO BENESSERE M...' is cut off by the frame edge; name incomplete"
+ },
+ "c171149522": {
+  "accept": false,
+  "reason": "no-parking traffic sign with a two-way arrow plate; names no place"
+ },
+ "c52045986": {
+  "accept": false,
+  "reason": "drive-by photo towards the San Marino border at Dogana; the 'REPUBBLICA SAN MARINO' tower lettering and the 'Benvenuti...' arch are far, small and soft; cannot be transcribed reliably"
+ },
+ "c148159926": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "UNESCO",
+    "lang": "und"
+   },
+   {
+    "text": "United Nations",
+    "lang": "en"
+   },
+   {
+    "text": "Educational, Scientific and",
+    "lang": "en"
+   },
+   {
+    "text": "Cultural Organization",
+    "lang": "en"
+   },
+   {
+    "text": "SAN MARINO:",
+    "lang": "it"
+   },
+   {
+    "text": "CENTRO STORICO",
+    "lang": "it"
+   },
+   {
+    "text": "E MONTE TITANO",
+    "lang": "it"
+   },
+   {
+    "text": "Iscritto sulla lista del",
+    "lang": "it"
+   },
+   {
+    "text": "patrimonio mondiale nel 2008",
+    "lang": "it"
+   }
+  ],
+  "expect": {
+   "query": "Monte Titano",
+   "type": "place"
+  },
+  "difficulty": "medium",
+  "notes": "City of San Marino (Salita alla Rocca): dark World Heritage site board, close-up, wet with rain drops and streaks. Left: UNESCO temple logo and the full organisation name (en); right: site name and inscription line (it). The round World Heritage emblem's ring text ('PATRIMONIO MUNDIAL · WORLD HERITAGE · PATRIMOINE MONDIAL') is curved and not transcribed."
+ },
+ "c22942185": {
+  "accept": false,
+  "reason": "city-gate view; the only place plate ('CONTRADA PORTANOVA'?) is cut by the frame and blurred, and the remaining signs are limited-traffic-zone notices"
+ },
+ "c34180678": {
+  "accept": false,
+  "reason": "upward shot of a commemorative inscription under a bell column (St Francis monument); worn incised lettering, several words not legible, no name board"
+ },
+ "c61622128": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "BASILICA",
+    "lang": "it"
+   },
+   {
+    "text": "DI",
+    "lang": "it"
+   },
+   {
+    "text": "SAN MARINO",
+    "lang": "it"
+   },
+   {
+    "text": "PROGETTO DI",
+    "lang": "it"
+   },
+   {
+    "text": "ANTONIO SERRA",
+    "lang": "it"
+   },
+   {
+    "text": "COSTRUITA SULL’ AREA",
+    "lang": "it"
+   },
+   {
+    "text": "DELLA CHIESA",
+    "lang": "it"
+   },
+   {
+    "text": "MEDIOEVALE",
+    "lang": "it"
+   },
+   {
+    "text": "APERTA AL CULTO",
+    "lang": "it"
+   },
+   {
+    "text": "IL 5 FEBBRAIO 1838",
+    "lang": "it"
+   },
+   {
+    "text": "DAL 1926",
+    "lang": "it"
+   },
+   {
+    "text": "HA LA DIGNITA’ DI",
+    "lang": "it"
+   },
+   {
+    "text": "BASILICA MINORE",
+    "lang": "it"
+   }
+  ],
+  "expect": {
+   "query": "Basilica di San Marino",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Free-standing framed name/info board inside the basilica, dim indoor light with a reflection on the glass. Title in bold, details below. 'DIGNITA’' is written with an apostrophe instead of an accent; apostrophes are curved and 'SULL’ AREA' has a space after it."
+ },
+ "c61797213": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "MUSEO",
+    "lang": "it"
+   },
+   {
+    "text": "della",
+    "lang": "it"
+   },
+   {
+    "text": "TORTURA",
+    "lang": "it"
+   }
+  ],
+  "expect": {
+   "query": "Museo della Tortura",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "City of San Marino: stone name panel over the museum doorway, seen from above across a courtyard; the panel is small in a tall frame. Distractors: black poster board right of the door repeating 'Museo della Tortura' over a photo, red framed display at left, partial poster at the left edge."
+ },
+ "c61797229": {
+  "accept": false,
+  "reason": "indoor museum exhibit (hooded executioner mannequin) with a lectern of small explanatory text; no place sign"
+ },
+ "c114417882": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "CASTELLO DI",
+    "lang": "it"
+   },
+   {
+    "text": "ACQUAVIVA",
+    "lang": "it"
+   }
+  ],
+  "expect": {
+   "query": "Acquaviva",
+   "type": "place"
+  },
+  "difficulty": "easy",
+  "notes": "San Marino castello (municipality) boundary sign on Via Seconda Gualdaria, white with black border and the Acquaviva coat of arms at left. Camera position is inside San Marino. Distractors: red-bordered general-danger warning triangle below, roadside delineator posts; a van on the road behind is incidental (its plate is not the subject)."
+ },
+ "c114698757": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "CASTELLO DI",
+    "lang": "it"
+   },
+   {
+    "text": "SERRAVALLE",
+    "lang": "it"
+   },
+   {
+    "text": "gemellato con il Comune di",
+    "lang": "it"
+   },
+   {
+    "text": "Chiusi della Verna",
+    "lang": "it"
+   },
+   {
+    "text": "(Provincia di Arezzo)",
+    "lang": "it"
+   }
+  ],
+  "expect": {
+   "query": "Serravalle",
+   "type": "place"
+  },
+  "difficulty": "easy",
+  "notes": "San Marino castello boundary sign (tower crest) with a twinning sub-panel naming the Italian twin town Chiusi della Verna (comune crest at left). Camera position is in Serravalle, San Marino. Distractors: blue pedestrian-crossing signs and a speed-camera post down the road."
+ },
+ "c2446021": {
+  "accept": false,
+  "reason": "Statue of Liberty monument with a Latin dedication inscription on the plinth (cut off at the bottom); no name board"
+ },
+ "c43610101": {
+  "accept": false,
+  "reason": "arched passage with only a 'LIBERTAS' relief emblem and a small house number '48'; no name sign"
+ },
+ "c43689879": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "GENDARMERIA",
+    "lang": "it"
+   }
+  ],
+  "expect": {
+   "query": "Gendarmeria",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Headquarters of the Gendarmerie of San Marino (Via John Fitzgerald Kennedy): blue 3D letters following the curve of the arched entrance. Distractors: yellow no-parking plate 'GENDARMERIA / ZONA MILITARE', 'Progetto cuore / Defibrillatore' arrow plate and two emblem signs at left, small 'RISERVATO ...' plate at right. Parked service cars with RSM plates in the foreground are incidental, not the subject."
+ },
+ "c80863783": {
+  "accept": false,
+  "reason": "temporary event installation ('GIRO D'ITALIA / 19 MAGGIO 2019' with a pink bicycle); not a mappable place name"
+ },
+ "c80863784": {
+  "accept": false,
+  "reason": "near-duplicate of c80863783 (same Giro d'Italia installation), and an event sign"
+ },
+ "c80863846": {
+  "accept": false,
+  "reason": "restaurant menu board is the main sign; the brown tourist direction signs at the right edge are cut off by the frame"
+ },
+ "c34180224": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "autostrada A14",
+    "lang": "it"
+   },
+   {
+    "text": "RIMINI",
+    "lang": "it"
+   }
+  ],
+  "expect": {
+   "query": "Rimini",
+   "type": "place"
+  },
+  "difficulty": "medium",
+  "notes": "Piazzale della Stazione, City of San Marino, photographed through a bus window (slight haze): green motorway panel with 'A14' route shield and right arrow, above a blue panel 'RIMINI' with right arrow. Rimini is the destination in Italy, the sign itself stands in San Marino. Distractors: yield and roundabout signs at the right edge, small white information sign by the arcade, flags on the hotel."
+ },
+ "c34180662": {
+  "accept": false,
+  "reason": "road view from a bus; only blank backs of signs, a speed-limit roundel and a keep-right arrow; no readable place text"
  }
 }

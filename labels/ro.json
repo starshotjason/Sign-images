@@ -122,5 +122,225 @@
   },
   "difficulty": "hard",
   "notes": "Small metro entrance name sign on the railing at lower right (white panel with a coloured stripe on top, letter 'A' for the exit at left, 'PIATA UNIRII 1'); the comma under the T of Piața is not visible at this resolution, so it is transcribed as seen. The blue 'M' metro sign in the middle has no name. 'POMPIERI SALVATORI' on the fire van at left is vehicle lettering and a distractor."
+ },
+ "c57212938": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "SECTOR 5",
+    "lang": "ro"
+   },
+   {
+    "text": "Piața",
+    "lang": "ro"
+   },
+   {
+    "text": "Națiunile Unite",
+    "lang": "ro"
+   }
+  ],
+  "expect": {
+   "query": "Piața Națiunile Unite",
+   "type": "street"
+  },
+  "difficulty": "medium",
+  "notes": "Bucharest blue street plate with green border and arched 'SECTOR 5' cap, on a pole; t-comma-below (ț, U+021B) in both Piața and Națiunile. A scratch runs across the plate near 'Unite'. Distractors: rusty blank sign below, 'SARTO' billboard ('Nu renunța la bere, fă-ți costumul pe comandă.', small) in the background."
+ },
+ "c141117996": {
+  "accept": false,
+  "reason": "monastery dress-code / no-smoking rules board in five languages; names no place as target"
+ },
+ "c174806446": {
+  "accept": false,
+  "reason": "'FUMATUL INTERZIS!' no-smoking plank on a fence; names no place"
+ },
+ "c68189140": {
+  "accept": false,
+  "reason": "defunct building-direction plate for a renamed street (Str. Emil Bodnaras, now Bd. Timișoara), so a map search will not find it; a stray mark after BODNARAS may be a diacritic and cannot be read with certainty"
+ },
+ "c102858382": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "SERVICII FUNERARE",
+    "lang": "ro"
+   },
+   {
+    "text": "NON STOP",
+    "lang": "ro"
+   }
+  ],
+  "expect": {
+   "query": "Servicii funerare",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "White plate with blue caps over a carved wooden doorway (funeral home); a generic service description rather than a brand name, so the query relies on the category. A cracked wire runs across the plate. Distractors: partial blue plate 'PI...' at the right edge and a round sign 'AT... / G...' cut off by the frame."
+ },
+ "c124338713": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "STR. MĂICĂNEȘTI",
+    "lang": "ro"
+   }
+  ],
+  "expect": {
+   "query": "Strada Măicănești",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Bucharest dark-blue enamel street plate, frontal close-up. A-breve twice (Ă); the mark under S is a small detached bar, transcribed as s-comma-below (Ș, U+0218) rather than cedilla. Enamel chips near the lower edge."
+ },
+ "c17007644": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Râul",
+    "lang": "ro"
+   },
+   {
+    "text": "Lotru",
+    "lang": "ro"
+   }
+  ],
+  "expect": {
+   "query": "Lotru",
+   "type": "place"
+  },
+  "difficulty": "medium",
+  "notes": "Blue river-name sign with wave pictogram at a bridge on a mountain road (a-circumflex in Râul); the sign is mid-sized in a landscape view. Distractor: small concrete-post plaque 'BENEFICIAR DRDP CRAIOVA / CONSTR. SC FORCONCID SA ...' with tiny text, not transcribed. A small white patch under the waves covers something on the sign."
+ },
+ "c20670497": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "STRADA SFORII",
+    "lang": "ro"
+   }
+  ],
+  "expect": {
+   "query": "Strada Sforii",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Brașov: black wrought-iron arrow-shaped hanging street sign with white italic caps, shot from below against the sky; the arrow head points left."
+ },
+ "c15510856": {
+  "accept": false,
+  "reason": "electrical danger warning plate ('SUB TENSIUNE / PERICOL DE ELECTROCUTARE'); names no place"
+ },
+ "c110311242": {
+  "accept": false,
+  "reason": "unlit neon-tube sign seen against the sky; tubes are bent and broken ('FOCUS / OPTICA / COS? / TEHNICO / ...'), letters cannot be read reliably"
+ },
+ "c57205930": {
+  "accept": false,
+  "reason": "abandoned former bookshop; fascia 'LIBRARIA GEORGE COSBUC' is cut off by the frame at the right and peeling, so the last letter and any diacritic cannot be confirmed; rest is posters (adverts)"
+ },
+ "c132954057": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "STR. STĂNILEȘTI",
+    "lang": "ro"
+   }
+  ],
+  "expect": {
+   "query": "Strada Stănilești",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Bucharest blue enamel street plate wired to a concrete lattice fence, frontal. A-breve (Ă); the mark under S is a small detached bar, transcribed as s-comma-below (Ș, U+0218)."
+ },
+ "c145794433": {
+  "accept": false,
+  "reason": "pole of traffic signs (yield, roundabout, crossing, cyclist dismount notice); the only street plate ('Bd Corneliu Coposu') is tiny and blurred in the background; a delivery bag and a car plate are in frame"
+ },
+ "c164987482": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Strada",
+    "lang": "ro"
+   },
+   {
+    "text": "G.D. Mirea",
+    "lang": "ro"
+   },
+   {
+    "text": "-pictor-",
+    "lang": "ro"
+   }
+  ],
+  "expect": {
+   "query": "Strada Pictor George Demetrescu Mirea",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Bucharest Sector 1 blue street plate with green border, very close and slightly angled (the arched SECTOR cap is cut off at the top). The plate abbreviates the official name 'Strada Pictor George Demetrescu Mirea'; '-pictor-' (painter) is written between hyphens."
+ },
+ "c165270631": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "SECTOR 1",
+    "lang": "ro"
+   },
+   {
+    "text": "Strada",
+    "lang": "ro"
+   },
+   {
+    "text": "Heleșteului",
+    "lang": "ro"
+   }
+  ],
+  "expect": {
+   "query": "Strada Heleșteului",
+   "type": "street"
+  },
+  "difficulty": "medium",
+  "notes": "Bucharest blue street plate with green border and arched 'SECTOR 1' cap, mid-sized on a white wall; s-comma-below (ș, U+0219) in Heleșteului. Distractors: yield and turn-right traffic signs in front, two white hydrant-marker plates at left ('H' / 'Vp' with numbers and tiny 'APA NOVA' logos)."
  }
 }

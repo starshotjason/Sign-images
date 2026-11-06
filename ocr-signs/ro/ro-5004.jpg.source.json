@@ -1,23 +1,25 @@
 {
-  "source": "panoramax",
-  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=25a3c527-9898-42a0-8812-740dd52df275",
-  "original_url": "https://panoramax.openstreetmap.fr/images/25/a3/c5/27/9898-42a0-8812-740dd52df275.jpg",
-  "license_as_published": "CC-BY-SA-4.0",
-  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
-  "author_as_published": "ldubost",
-  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
-  "title": "Panoramax picture 25a3c527-9898-42a0-8812-740dd52df275 (Bucharest, 2026-07-11)",
-  "description": "Street-level picture on Panoramax, taken 2026-07-11 near Bucharest by ldubost, sequence 0cafa8e2-eb8f-4e95-b433-58c012d4a76b, heading 147. OCR (PP-OCRv3) read: HOROSUOP | HOTEL | POMPIERI SALVATORI",
-  "date": "2026-07-11",
-  "categories": [],
-  "camera_location": [
-    44.42587147,
-    26.10355403
+  "source": "commons",
+  "source_url": "https://commons.wikimedia.org/wiki/File:RO_BV_Bra%C8%99ov_Strada_Sforii_(1).JPG",
+  "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/RO_BV_Bra%C8%99ov_Strada_Sforii_%281%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "license_as_published": "CC BY-SA 3.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/3.0",
+  "author_as_published": "Firilacroco",
+  "credit_as_published": "Own work",
+  "title": "File:RO BV Brașov Strada Sforii (1).JPG",
+  "description": "Sforii Street sign in Brașov, Romania",
+  "date": "2012-08-14",
+  "categories": [
+    "Rope street, Brașov"
   ],
-  "found_by": "panoramax-ocr:Bucharest",
-  "bytes": 342940,
-  "width": 1200,
-  "height": 900,
-  "downloaded_url": "https://panoramax.openstreetmap.fr/images/25/a3/c5/27/9898-42a0-8812-740dd52df275.jpg",
-  "derivative": "crop 0,1257,1200,2157 of the 1840x4096 HD picture"
+  "camera_location": [
+    45.639859,
+    25.588217
+  ],
+  "found_by": "keyword",
+  "bytes": 225771,
+  "width": 1920,
+  "height": 1285,
+  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/RO_BV_Bra%C8%99ov_Strada_Sforii_%281%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "derivative": ""
 }

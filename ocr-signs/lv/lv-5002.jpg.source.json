@@ -1,23 +1,28 @@
 {
-  "source": "panoramax",
-  "source_url": "https://panoramax.mapcomplete.org/#focus=pic&pic=1f736860-ac6e-49db-a92e-f356fd653070",
-  "original_url": "https://panoramax.mapcomplete.org/permanent/1f/73/68/60/ac6e-49db-a92e-f356fd653070.jpg",
-  "license_as_published": "CC-BY-SA-4.0",
-  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
-  "author_as_published": "mapcomplete",
-  "credit_as_published": "Panoramax, instance mapcomplete (https://panoramax.mapcomplete.org)",
-  "title": "Panoramax picture 1f736860-ac6e-49db-a92e-f356fd653070 (Riga, 2026-06-16)",
-  "description": "Street-level picture on Panoramax, taken 2026-06-16 near Riga by mapcomplete, sequence a7cf963f-8d1c-4bac-9717-e3149f5f9fff, heading 322. OCR (PP-OCRv3) read: Bralu Limjeru kinematografs | Cinemalographg loumierg | Rino | -pirmais kinoseanss- | the first film sereening",
-  "date": "2026-06-16",
-  "categories": [],
-  "camera_location": [
-    56.949434833,
-    24.109367843
+  "source": "commons",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Krasta_Street_sign_in_R%C4%93zekne.jpg",
+  "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Krasta_Street_sign_in_R%C4%93zekne.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "license_as_published": "CC BY-SA 3.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/3.0",
+  "author_as_published": "Oļegs Anosovs",
+  "credit_as_published": "Own work",
+  "title": "File:Krasta Street sign in Rēzekne.jpg",
+  "description": "Krasta Street sign in Rēzekne .",
+  "date": "2011-04-17",
+  "categories": [
+    "Bilingual Latvian-Russian signs in Latvia",
+    "Bilingual street signs in Latvia",
+    "Blue street signs",
+    "Enamel street signs",
+    "Krasta iela (Rēzekne)",
+    "Street signs in Rēzekne",
+    "Street signs on buildings"
   ],
-  "found_by": "panoramax-ocr:Riga",
-  "bytes": 11050503,
-  "width": 4080,
-  "height": 3072,
-  "downloaded_url": "https://panoramax.mapcomplete.org/permanent/1f/73/68/60/ac6e-49db-a92e-f356fd653070.jpg",
-  "derivative": "whole 4080x3072 HD picture as served by the Panoramax instance (byte-identical; the service blurs faces and number plates), not cropped"
+  "camera_location": null,
+  "found_by": "keyword",
+  "bytes": 588191,
+  "width": 1920,
+  "height": 1440,
+  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Krasta_Street_sign_in_R%C4%93zekne.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "derivative": ""
 }

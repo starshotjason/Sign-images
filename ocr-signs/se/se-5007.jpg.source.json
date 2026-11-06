@@ -1,23 +1,23 @@
 {
   "source": "panoramax",
-  "source_url": "https://panoramax.mapcomplete.org/#focus=pic&pic=d70fdaa3-f777-49dc-8222-26283845ce99",
-  "original_url": "https://panoramax.mapcomplete.org/permanent/d7/0f/da/a3/f777-49dc-8222-26283845ce99.jpg",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=12f9b173-99f2-4aed-9039-94732d3c4981",
+  "original_url": "https://panoramax.openstreetmap.fr/images/12/f9/b1/73/99f2-4aed-9039-94732d3c4981.jpg",
   "license_as_published": "CC-BY-SA-4.0",
   "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
-  "author_as_published": "mapcomplete",
-  "credit_as_published": "Panoramax, instance mapcomplete (https://panoramax.mapcomplete.org)",
-  "title": "Panoramax picture d70fdaa3-f777-49dc-8222-26283845ce99 (Stockholm, 2024-08-15)",
-  "description": "Street-level picture on Panoramax, taken 2024-08-15 near Stockholm by mapcomplete, sequence e9bcb8c0-8ade-4ac9-bc9f-cfa464221fd6, heading 90. OCR (PP-OCRv3) read: flying tiger | All for | skol- | starten | Du ar den | basta gava | 1Stlldigifotoladan | 3skickabildentillnagonduhal",
+  "author_as_published": "Robot8A",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture 12f9b173-99f2-4aed-9039-94732d3c4981 (Stockholm, 2024-08-15)",
+  "description": "Street-level picture on Panoramax, taken 2024-08-15 near Stockholm by Robot8A, sequence 0ccf2adf-0572-46c1-af5e-9a7df602150f, heading 271. OCR (PP-OCRv3) read: KEMTVATTINLA | NYCKELKOPIERING·TILLHALLARE | KASSASKAPSNYCKLARVIDBE | TVATT | 160",
   "date": "2024-08-15",
   "categories": [],
   "camera_location": [
-    59.3305964,
-    18.0644998
+    59.331,
+    18.048377778
   ],
   "found_by": "panoramax-ocr:Stockholm",
-  "bytes": 951985,
-  "width": 3000,
-  "height": 2250,
-  "downloaded_url": "https://panoramax.mapcomplete.org/permanent/d7/0f/da/a3/f777-49dc-8222-26283845ce99.jpg",
-  "derivative": "whole 3000x2250 HD picture as served by the Panoramax instance (byte-identical; the service blurs faces and number plates), not cropped"
+  "bytes": 1757753,
+  "width": 3530,
+  "height": 2160,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/12/f9/b1/73/99f2-4aed-9039-94732d3c4981.jpg",
+  "derivative": "crop 310,0,3840,2160 of the 3840x2160 HD picture"
 }

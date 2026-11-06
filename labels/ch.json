@@ -202,5 +202,109 @@
   },
   "difficulty": "medium",
   "notes": "Blue Zürich street-name plate with white letters on a pole, seen from below, slightly blurred (de). Two more plates on the pole are angled: 'Steinstrasse' (partly legible, de) and one unreadable; not included."
+ },
+ "f3798c426-4b9a-46c4-9db0-057e9b9d5d74": {
+  "accept": false,
+  "reason": "plain arrow plate against the sky with the Jet d'Eau spray; no text"
+ },
+ "fe4a4b485-49c0-4449-b946-fae5f67f8f68": {
+  "accept": false,
+  "reason": "humorous prohibition notice ('Bitte nicht an die Fassade pinkeln!'); names no place"
+ },
+ "f0ea66bf4-d9d1-478f-8a4e-5083f1565eea": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "LOUIS VUITTON",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "Louis Vuitton",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Zürich, Bahnhofstrasse: illuminated white caps on the black fascia over the arched entrance, in winter. Language tag fr: French brand (founder's name) on a German-speaking street. Distractors: LV monograms over each window, second 'LOUIS ...' fascia cut off at the right edge, small 'LOUIS VUITTON' on the window ledge. Shoppers walking past are incidental."
+ },
+ "f14c8462a-1b81-427a-bce6-c7049799725d": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Zoo",
+    "lang": "de"
+   },
+   {
+    "text": "FIFA",
+    "lang": "fr"
+   }
+  ],
+  "expect": {
+   "query": "Zoo Zürich",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Zürich: orange-red arrow-shaped direction sign (pointing left) with dark-blue text on a grey pole, close and frontal. Line tags: 'Zoo' de; 'FIFA' tagged fr because the acronym stands for the French name Fédération Internationale de Football Association (the FIFA headquarters is a second, separate destination)."
+ },
+ "f2192c014-5824-4773-a35b-e0856e997aa3": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "HOTELS",
+    "lang": "de"
+   },
+   {
+    "text": "Ador",
+    "lang": "de"
+   },
+   {
+    "text": "City",
+    "lang": "de"
+   },
+   {
+    "text": "National",
+    "lang": "de"
+   },
+   {
+    "text": "HOTELS",
+    "lang": "de"
+   },
+   {
+    "text": "Bären",
+    "lang": "de"
+   },
+   {
+    "text": "Bellevue",
+    "lang": "fr"
+   },
+   {
+    "text": "Bristol",
+    "lang": "de"
+   }
+  ],
+  "expect": {
+   "query": "Hotel Bellevue",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Bern: two brown/cream hotel finger-sign stacks on one pole; left stack (arrows pointing left): HOTELS / Ador / City / National; right stack (arrows pointing right): HOTELS / Bären / Bellevue / Bristol. Lines listed left stack then right stack. Language tags: German-speaking city, so the header and the hotel names are tagged de (City is an English loanword, Ador/National/Bristol are proper names), except 'Bellevue' which is French. A-umlaut in Bären. Source is a 1024 px Flickr rendition."
+ },
+ "f385adc65-798a-47eb-b541-2b614df033eb": {
+  "accept": false,
+  "reason": "wrought-iron gate crest with the monogram 'LV / GA' (Lugano arms); an emblem, not a readable name sign"
  }
 }

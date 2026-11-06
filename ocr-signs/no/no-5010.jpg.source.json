@@ -1,29 +1,23 @@
 {
-  "source": "commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Reklameskilt_Norsk_Tipping.jpg",
-  "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Reklameskilt_Norsk_Tipping.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/9301/667/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMS5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE2LzcvMTEvcHJvYy85MzAxX2Q3Y2VkXzU3ODNjOTA3Yjk4MDAuanBn",
   "license_as_published": "CC BY-SA 4.0",
-  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0",
-  "author_as_published": "Peulle",
-  "credit_as_published": "Own work",
-  "title": "File:Reklameskilt Norsk Tipping.jpg",
-  "description": "Antique wall-mounted \"Norsk Tipping\" (Norwegian lottery service) sign on a kiosk at the Norwegian Museum of Cultural History .",
-  "date": "2016-09-27 22:17:37",
-  "categories": [
-    "Advertising signs",
-    "Norsk Folkemuseum",
-    "Norsk Tipping",
-    "Shop signs in Norway",
-    "Sports betting"
-  ],
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "telenavdrives",
+  "credit_as_published": "KartaView user telenavdrives (user id 53); © KartaView contributors",
+  "title": "KartaView photo 4016832, sequence 9301 #667 (Oslo, 2016-07-06)",
+  "description": "Street-level picture on KartaView, taken 2016-07-06 near Oslo by telenavdrives, sequence 9301, heading 106.34. OCR (PP-OCRv3) read: THE SA | THE SALE IS HERE | STEEN&S | THE SALEIS HERE | MAGAS | SALEISHERE | STEEN&STROM | FORTAUSTENGT | SALG",
+  "date": "2016-07-06",
+  "categories": [],
   "camera_location": [
-    59.90632,
-    10.68731
+    59.912133,
+    10.743658
   ],
-  "found_by": "keyword",
-  "bytes": 466730,
-  "width": 1920,
-  "height": 1849,
-  "downloaded_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Reklameskilt_Norsk_Tipping.jpg/1920px-Reklameskilt_Norsk_Tipping.jpg",
-  "derivative": "Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org)"
+  "found_by": "kartaview-ocr:Oslo",
+  "bytes": 855999,
+  "width": 3264,
+  "height": 2448,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMS5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE2LzcvMTEvcHJvYy85MzAxX2Q3Y2VkXzU3ODNjOTA3Yjk4MDAuanBn",
+  "derivative": "whole 3264x2448 full-size processed (blurred) picture as served by the KartaView CDN (byte-identical; the service blurs faces and number plates), not cropped"
 }

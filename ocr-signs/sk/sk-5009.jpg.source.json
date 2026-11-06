@@ -1,31 +1,23 @@
 {
-  "source": "commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Brusno_zast%C3%A1vka_na_I66a.jpg",
-  "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Brusno_zast%C3%A1vka_na_I66a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-  "license_as_published": "CC BY-SA 4.0",
-  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0",
-  "author_as_published": "Matej Grochal",
-  "credit_as_published": "Own work",
-  "title": "File:Brusno zastávka na I66a.jpg",
-  "description": "Bus stop on road I/66 in Brusno, Slovakia",
-  "date": "2022-11-26 13:43:45",
-  "categories": [
-    "Brusno, Banská Bystrica District",
-    "Bus stops in Slovakia",
-    "Pedestrian crossings in Slovakia",
-    "Road I/66 in Banská Bystrica Region",
-    "Road signs in Slovakia",
-    "Transport in Banská Bystrica District",
-    "Zebra crossings in Slovakia"
-  ],
+  "source": "panoramax",
+  "source_url": "https://panoramax.mapcomplete.org/#focus=pic&pic=b40228e9-aa8d-4031-8ad7-1fe02be2a17c",
+  "original_url": "https://panoramax.mapcomplete.org/permanent/b4/02/28/e9/aa8d-4031-8ad7-1fe02be2a17c.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "mapcomplete",
+  "credit_as_published": "Panoramax, instance mapcomplete (https://panoramax.mapcomplete.org)",
+  "title": "Panoramax picture b40228e9-aa8d-4031-8ad7-1fe02be2a17c (Bratislava, 2025-05-19)",
+  "description": "Street-level picture on Panoramax, taken 2025-05-19 near Bratislava by mapcomplete, sequence 14ea2dff-2d5f-4134-9a9c-0b7ff34d87aa, heading 251. OCR (PP-OCRv3) read: TOMIO DOME KONCERTOVAL | RKU1762 | AKO SESTROCNY | WOLFGANG AMADEUSY",
+  "date": "2025-05-19",
+  "categories": [],
   "camera_location": [
-    48.797702,
-    19.380776
+    48.142602078,
+    17.106511886
   ],
-  "found_by": "keyword",
-  "bytes": 545819,
-  "width": 1920,
-  "height": 1440,
-  "downloaded_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Brusno_zast%C3%A1vka_na_I66a.jpg/1920px-Brusno_zast%C3%A1vka_na_I66a.jpg",
-  "derivative": "Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org)"
+  "found_by": "panoramax-ocr:Bratislava",
+  "bytes": 5902470,
+  "width": 3072,
+  "height": 4080,
+  "downloaded_url": "https://panoramax.mapcomplete.org/permanent/b4/02/28/e9/aa8d-4031-8ad7-1fe02be2a17c.jpg",
+  "derivative": "whole 3072x4080 HD picture as served by the Panoramax instance (byte-identical; the service blurs faces and number plates), not cropped"
 }

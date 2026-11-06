@@ -1,28 +1,23 @@
 {
-  "source": "commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Espolla_Carrer_Vilars.jpg",
-  "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Espolla_Carrer_Vilars.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/2794130/2/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMC83LzIxL3Byb2MvMjc5NDEzMF84ZjIxMF81ZjE3NmUwMjhmMTJjLmpwZw",
   "license_as_published": "CC BY-SA 4.0",
-  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0",
-  "author_as_published": "Palauenc05",
-  "credit_as_published": "Own work",
-  "title": "File:Espolla Carrer Vilars.jpg",
-  "description": "Bilingual street signs, Spanish below and Catalan above, in Espolla , Spain.",
-  "date": "2023-10-25",
-  "categories": [
-    "Bilingual street signs in Spain",
-    "Carrer (text)",
-    "Street signs in Espolla",
-    "Valued images of Catalonia"
-  ],
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "radnaj",
+  "credit_as_published": "KartaView user radnaj (user id 12405); © KartaView contributors",
+  "title": "KartaView photo 1003130046, sequence 2794130 #2 (Madrid, 2015-02-21)",
+  "description": "Street-level picture on KartaView, taken 2015-02-21 near Madrid by radnaj, sequence 2794130, heading 121.38. OCR (PP-OCRv3) read: HOTELMODERNO | BUKGERKING | IRIS",
+  "date": "2015-02-21",
+  "categories": [],
   "camera_location": [
-    42.392021,
-    3.000921
+    40.416942,
+    -3.70517
   ],
-  "found_by": "keyword",
-  "bytes": 2209164,
-  "width": 1920,
-  "height": 2525,
-  "downloaded_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Espolla_Carrer_Vilars.jpg/1920px-Espolla_Carrer_Vilars.jpg",
-  "derivative": "Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org)"
+  "found_by": "kartaview-ocr:Madrid",
+  "bytes": 1398700,
+  "width": 4208,
+  "height": 3120,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMC83LzIxL3Byb2MvMjc5NDEzMF84ZjIxMF81ZjE3NmUwMjhmMTJjLmpwZw",
+  "derivative": "whole 4208x3120 full-size processed (blurred) picture as served by the KartaView CDN (byte-identical; the service blurs faces and number plates), not cropped"
 }

@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=401b1b7d-a2fd-4a9c-bf7f-9a36fa381bae",
+  "original_url": "https://panoramax.openstreetmap.fr/images/40/1b/1b/7d/a2fd-4a9c-bf7f-9a36fa381bae.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "motocultrice",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture 401b1b7d-a2fd-4a9c-bf7f-9a36fa381bae (Stockholm, 2016-05-24)",
+  "description": "Street-level picture on Panoramax, taken 2016-05-24 near Stockholm by motocultrice, sequence c9118af6-9c73-491b-ba0f-7a74cdcc069e, heading 75. OCR (PP-OCRv3) read: NobelMuseum | ENTRE | STORTORGET | STORKYRKANS GARD",
+  "date": "2016-05-24",
+  "categories": [],
+  "camera_location": [
+    59.325862861,
+    18.070907583
+  ],
+  "found_by": "panoramax-ocr:Stockholm",
+  "bytes": 3003404,
+  "width": 3680,
+  "height": 2760,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/40/1b/1b/7d/a2fd-4a9c-bf7f-9a36fa381bae.jpg",
+  "derivative": "crop 250,359,3930,3119 of the 4160x3120 HD picture"
+}

@@ -206,5 +206,161 @@
   },
   "difficulty": "easy",
   "notes": "Bronze letters on the plinth of the Anton Bernolák bust; the subject's face is a sculpture. A small 'Chránený strom' tag on the tree at left is a distractor."
+ },
+ "c127083968": {
+  "accept": true,
+  "reason": "",
+  "kind": "transit",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Slovenská autobusová",
+    "lang": "sk"
+   },
+   {
+    "text": "doprava Zvolen",
+    "lang": "sk"
+   },
+   {
+    "text": "Brusno",
+    "lang": "sk"
+   }
+  ],
+  "expect": {
+   "query": "Brusno",
+   "type": "stop"
+  },
+  "difficulty": "easy",
+  "notes": "Bus-stop sign on road I/66: blue-framed panel with operator name above a bus pictogram and SAD logo (tiny caption 'Slovenská autobusová doprava Zvolen, a. s.' under the logo), and a separate white plate with the stop name 'Brusno'. Timetable sheet on the panel below is too small to read. Car on the road at left is incidental."
+ },
+ "c127083970": {
+  "accept": false,
+  "reason": "near-duplicate: wider view of the same Brusno bus-stop sign as c127083968"
+ },
+ "c155963793": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "EXCLUSIVE",
+    "lang": "en"
+   },
+   {
+    "text": "JANTAR - AMBER",
+    "lang": "sk"
+   }
+  ],
+  "expect": {
+   "query": "Jantar Amber",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Bratislava, Panská street: target is the black arched fascia with gold letters over the right shop window, seen at an upward angle (JANTAR is Slovak for amber). Busy distractors: sticker-covered sub-plate under a warning triangle, '...GARNET' fascia partly hidden by the sign, window band 'HODINKY WATCHES' with TISSOT/TIMEX logos, window text '...O, JANTAR, GRANAT, CRYSTAL / ...OKAMY POLODRAHOKAMY'. Street plate at top-left '[P]ANSKÁ UL. / I' has its first letter hidden by a lamp bracket, with house numbers '1' and 'I. 251'."
+ },
+ "c197773837": {
+  "accept": true,
+  "reason": "",
+  "kind": "transit",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Starý Smokovec",
+    "lang": "sk"
+   },
+   {
+    "text": "Pod Lesom",
+    "lang": "sk"
+   },
+   {
+    "text": "Tatranská Polianka",
+    "lang": "sk"
+   },
+   {
+    "text": "Veľký Slavkov",
+    "lang": "sk"
+   },
+   {
+    "text": "Vyšné Hágy",
+    "lang": "sk"
+   },
+   {
+    "text": "Poprad - Tatry",
+    "lang": "sk"
+   },
+   {
+    "text": "Štrbské Pleso",
+    "lang": "sk"
+   },
+   {
+    "text": "KOĽAJ č.4",
+    "lang": "sk"
+   }
+  ],
+  "expect": {
+   "query": "Starý Smokovec",
+   "type": "stop"
+  },
+  "difficulty": "easy",
+  "notes": "Tatra Electric Railway platform sign: station name on top, then two columns of next stations (left column with left arrow: Pod Lesom / Veľký Slavkov / Poprad - Tatry; right column with right arrow: Tatranská Polianka / Vyšné Hágy / Štrbské Pleso); lines listed row by row. Small white plate below 'KOĽAJ č.4' (track no. 4). Small stickers on the board are distractors."
+ },
+ "c49215751": {
+  "accept": false,
+  "reason": "wrought-iron trade sign (scythe and ornaments) with no text"
+ },
+ "c4924189": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "PEKÁREŇ KONDOR, s.r.o.",
+    "lang": "sk"
+   },
+   {
+    "text": "pekárenské a cukrárenské výrobky",
+    "lang": "sk"
+   },
+   {
+    "text": "pék és cukrász termékek",
+    "lang": "hu"
+   }
+  ],
+  "expect": {
+   "query": "Pekáreň Kondor",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Dvory nad Žitavou (Udvard): blue diamond panel with condor logo painted on a pink bakery wall; Slovak name and product line, Hungarian product line below. The sign is small in a whole-building photo but legible."
+ },
+ "c92428845": {
+  "accept": true,
+  "reason": "",
+  "kind": "transit",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "BRATISLAVA HLAVNÁ STANICA",
+    "lang": "sk"
+   }
+  ],
+  "expect": {
+   "query": "Bratislava hlavná stanica",
+   "type": "stop"
+  },
+  "difficulty": "easy",
+  "notes": "Illuminated blue platform-canopy sign with yellow caps at dusk; red-white ZSSK coaches and a blue-yellow locomotive behind (small coach markings are distractors)."
  }
 }
