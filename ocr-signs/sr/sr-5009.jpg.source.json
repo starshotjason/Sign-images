@@ -1,24 +1,25 @@
 {
   "source": "commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Lelydorp2010.jpg",
-  "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Lelydorp2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-  "license_as_published": "Public domain",
-  "license_url_as_published": null,
-  "author_as_published": "Brokopondo",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Entrance_sign_of_Nola_Hatterman_Instituut.JPG",
+  "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Entrance_sign_of_Nola_Hatterman_Instituut.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "license_as_published": "CC BY-SA 3.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/3.0",
+  "author_as_published": "Mark Ahsmann",
   "credit_as_published": "Own work",
-  "title": "File:Lelydorp2010.jpg",
-  "description": "Lelydorp, Ortsschild",
-  "date": "2010-03-18",
+  "title": "File:Entrance sign of Nola Hatterman Instituut.JPG",
+  "description": "Entrance_sign_of_Nola_Hatterman_Instituut.",
+  "date": "2009",
   "categories": [
-    "Electricity in Suriname",
-    "Lelydorp",
-    "Place name signs"
+    "2009 photographs of Suriname",
+    "Grass in Suriname",
+    "Nola Hatterman Art Academy",
+    "Signs in Suriname"
   ],
   "camera_location": null,
   "found_by": "keyword",
-  "bytes": 696434,
+  "bytes": 1134552,
   "width": 1920,
   "height": 1440,
-  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Lelydorp2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Entrance_sign_of_Nola_Hatterman_Instituut.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
   "derivative": ""
 }

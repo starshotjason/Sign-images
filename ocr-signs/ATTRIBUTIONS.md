@@ -570,13 +570,13 @@ Photo: Maryleine, CC0 1.0, via Wikimedia Commons. Source: https://commons.wikime
 
 File: [cg/cg-5005.jpg](cg/cg-5005.jpg)
 
-Photo: Maryleine, CC0 1.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Plaque_de_rue_de_l%27avenue_NGOUEDI_02.jpg. License: http://creativecommons.org/publicdomain/zero/1.0/deed.en. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
+Photo: Maryleine, CC0 1.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Plaque_de_rue_de_l%27avenue_NGOUEDI_02.jpg. License: http://creativecommons.org/publicdomain/zero/1.0/deed.en. Unmodified original.
 
 ## cg-5006
 
 File: [cg/cg-5006.jpg](cg/cg-5006.jpg)
 
-Photo: Maryleine, CC0 1.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Plaque_de_rue_de_l%27avenue_NGOUEDI_04.jpg. License: http://creativecommons.org/publicdomain/zero/1.0/deed.en. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
+Photo: Maryleine, CC0 1.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Plaque_de_rue_de_l%27avenue_NGOUEDI_04.jpg. License: http://creativecommons.org/publicdomain/zero/1.0/deed.en. Unmodified original.
 
 ## ci-5001
 
@@ -1148,6 +1148,12 @@ File: [lr/lr-5004.jpg](lr/lr-5004.jpg)
 
 Photo: blk24ga, CC BY 3.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Liberia,_Africa_-_panoramio_(299).jpg. License: https://creativecommons.org/licenses/by/3.0/. Unmodified original.
 
+## lr-5005
+
+File: [lr/lr-5005.jpg](lr/lr-5005.jpg)
+
+Photo: blk24ga, CC BY 3.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Liberia,_Africa_-_panoramio_(306).jpg. License: https://creativecommons.org/licenses/by/3.0/. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
+
 ## ly-5001
 
 File: [ly/ly-5001.jpg](ly/ly-5001.jpg)
@@ -1556,6 +1562,12 @@ File: [mz/mz-5007.jpg](mz/mz-5007.jpg)
 
 Photo: F Mira from Lisbon, Portugal, CC BY-SA 2.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Bridge_over_Rio_Lurio_EN1_road_(3911465523).jpg. License: https://creativecommons.org/licenses/by-sa/2.0/. Unmodified original.
 
+## mz-5008
+
+File: [mz/mz-5008.jpg](mz/mz-5008.jpg)
+
+Photo: Ossewa, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Deflate_tyres_to_0.8_bar.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Wikimedia Commons standard 1280px-wide rendition (thumb.wikimedia.org).
+
 ## na-5001
 
 File: [na/na-5001.jpg](na/na-5001.jpg)
@@ -1657,6 +1669,30 @@ Photo: ilasolthah @ Mapillary.com, CC BY-SA 4.0, via Wikimedia Commons. Source: 
 File: [ne/ne-5005.jpg](ne/ne-5005.jpg)
 
 Photo: mensanh @ Mapillary.com, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Centre_Culturel_Oumarou_Ganda_sign.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Unmodified original.
+
+## ne-5006
+
+File: [ne/ne-5006.jpg](ne/ne-5006.jpg)
+
+Photo: Dappasolomon001, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Signing_of_Marriage_Register_08.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
+
+## ne-5007
+
+File: [ne/ne-5007.jpg](ne/ne-5007.jpg)
+
+Photo: Dappasolomon001, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Signing_of_Marriage_Register_09.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
+
+## ne-5008
+
+File: [ne/ne-5008.jpg](ne/ne-5008.jpg)
+
+Photo: Dappasolomon001, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Signing_of_Marriage_Register_10.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
+
+## ne-5009
+
+File: [ne/ne-5009.jpg](ne/ne-5009.jpg)
+
+Photo: Dappasolomon001, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Signing_of_Marriage_Register_11.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
 
 ## ng-5001
 
@@ -1794,7 +1830,7 @@ Photo: ashish-kelkar, CC BY-SA 4.0, via KartaView. © KartaView contributors. So
 
 File: [rw/rw-5011.jpg](rw/rw-5011.jpg)
 
-Photo: Adam Jones, Ph.D., CC BY-SA 3.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Jenoside-Genocide_Sign_with_Facade_of_Genocide_Memorial_Church_-_Karongi_-Kibuye_-_Western_Rwanda.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
+Photo: Adam Jones, Ph.D., CC BY-SA 3.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Jenoside-Genocide_Sign_with_Facade_of_Genocide_Memorial_Church_-_Karongi_-Kibuye_-_Western_Rwanda.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. Unmodified original.
 
 ## st-5001
 
@@ -1860,19 +1896,19 @@ Photo: paulscott56, CC BY-SA 2.0, via Flickr. Source: https://www.flickr.com/pho
 
 File: [sn/sn-5010.jpg](sn/sn-5010.jpg)
 
-Photo: Babacar Dioum, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Signage_for_governance_purposes.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Wikimedia Commons standard 1280px-wide rendition (thumb.wikimedia.org).
+Photo: Babacar Dioum, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Signage_for_governance_purposes.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Unmodified original.
 
 ## sn-5011
 
 File: [sn/sn-5011.jpg](sn/sn-5011.jpg)
 
-Photo: jbdodane, CC BY 2.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Landmine_warning_sign_near_Ziguinchor,_Senegal.jpg. License: https://creativecommons.org/licenses/by/2.0/. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
+Photo: jbdodane, CC BY 2.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Landmine_warning_sign_near_Ziguinchor,_Senegal.jpg. License: https://creativecommons.org/licenses/by/2.0/. Unmodified original.
 
 ## sn-5012
 
 File: [sn/sn-5012.jpg](sn/sn-5012.jpg)
 
-Photo: Babacar Dioum, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Road_signs_Senegal.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Wikimedia Commons standard 1280px-wide rendition (thumb.wikimedia.org).
+Photo: Babacar Dioum, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Road_signs_Senegal.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Unmodified original.
 
 ## sc-5001
 
@@ -5798,6 +5834,54 @@ File: [id/id-5004.jpg](id/id-5004.jpg)
 
 Photo: JasonParis, CC BY 2.0, via Flickr. Source: https://www.flickr.com/photos/94064020@N00/6231398067. License: https://creativecommons.org/licenses/by/2.0/. Unmodified original.
 
+## id-5005
+
+File: [id/id-5005.jpg](id/id-5005.jpg)
+
+Photo: shankar s., CC BY 2.0, via Flickr. Source: https://www.flickr.com/photos/77742560@N06/44681104251. License: https://creativecommons.org/licenses/by/2.0/. Flickr's published 1024 px 'large' rendition, served by the Openverse image API (Flickr originals were throttled for this client).
+
+## id-5006
+
+File: [id/id-5006.jpg](id/id-5006.jpg)
+
+Photo: shankar s., CC BY 2.0, via Flickr. Source: https://www.flickr.com/photos/77742560@N06/44632512102. License: https://creativecommons.org/licenses/by/2.0/. Flickr's published 1024 px 'large' rendition, served by the Openverse image API (Flickr originals were throttled for this client).
+
+## id-5007
+
+File: [id/id-5007.jpg](id/id-5007.jpg)
+
+Photo: shankar s., CC BY 2.0, via Flickr. Source: https://www.flickr.com/photos/77742560@N06/45375135194. License: https://creativecommons.org/licenses/by/2.0/. Flickr's published 1024 px 'large' rendition, served by the Openverse image API (Flickr originals were throttled for this client).
+
+## id-5008
+
+File: [id/id-5008.jpg](id/id-5008.jpg)
+
+Photo: shankar s., CC BY 2.0, via Flickr. Source: https://www.flickr.com/photos/77742560@N06/43962862024. License: https://creativecommons.org/licenses/by/2.0/. Flickr's published 1024 px 'large' rendition, served by the Openverse image API (Flickr originals were throttled for this client).
+
+## id-5009
+
+File: [id/id-5009.jpg](id/id-5009.jpg)
+
+Photo: ivanlanin, CC BY-SA 2.0, via Flickr. Source: https://www.flickr.com/photos/81434456@N00/2759923338. License: https://creativecommons.org/licenses/by-sa/2.0/. Flickr's published 1024 px 'large' rendition, served by the Openverse image API (Flickr originals were throttled for this client).
+
+## id-5010
+
+File: [id/id-5010.jpg](id/id-5010.jpg)
+
+Photo: diana does, CC BY 2.0, via Flickr. Source: https://www.flickr.com/photos/12341295@N04/1753044216. License: https://creativecommons.org/licenses/by/2.0/. Flickr's published 1024 px 'large' rendition, served by the Openverse image API (Flickr originals were throttled for this client).
+
+## id-5011
+
+File: [id/id-5011.jpg](id/id-5011.jpg)
+
+Photo: nSeika, CC BY 2.0, via Flickr. Source: https://www.flickr.com/photos/33542052@N07/8217953027. License: https://creativecommons.org/licenses/by/2.0/. Flickr's published 1024 px 'large' rendition, served by the Openverse image API (Flickr originals were throttled for this client).
+
+## id-5012
+
+File: [id/id-5012.jpg](id/id-5012.jpg)
+
+Photo: JasonParis, CC BY 2.0, via Flickr. Source: https://www.flickr.com/photos/94064020@N00/6231373181. License: https://creativecommons.org/licenses/by/2.0/. Flickr's published 1024 px 'large' rendition, served by the Openverse image API (Flickr originals were throttled for this client).
+
 ## la-5001
 
 File: [la/la-5001.jpg](la/la-5001.jpg)
@@ -6126,61 +6210,61 @@ Photo: celine marie castañeda (Wikipedia Takes Manila participant), CC BY-SA 3.
 
 File: [sg/sg-5001.jpg](sg/sg-5001.jpg)
 
-Photo: grabsg, CC BY-SA 4.0, via KartaView. © KartaView contributors. Source: https://kartaview.org/details/1383582/2500/track-info. License: https://creativecommons.org/licenses/by-sa/4.0/. whole 3072x1728 full-size processed (blurred) picture as served by the KartaView CDN (byte-identical; the service blurs faces and number plates), not cropped.
+Photo: unknown, CC BY-SA 3.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Teo_Hong_Rd_sign_Chinese.JPG. License: http://creativecommons.org/licenses/by-sa/3.0/. Unmodified original.
 
 ## sg-5002
 
 File: [sg/sg-5002.jpg](sg/sg-5002.jpg)
 
-Photo: grabsg, CC BY-SA 4.0, via KartaView. © KartaView contributors. Source: https://kartaview.org/details/1382582/1312/track-info. License: https://creativecommons.org/licenses/by-sa/4.0/. crop 594,225,1874,1185 of the 3072x1728 full-size processed (blurred) picture.
+Photo: Kimchi.sg ., CC BY-SA 3.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Temple_St_street_sign.JPG. License: http://creativecommons.org/licenses/by-sa/3.0/. Unmodified original.
 
 ## sg-5003
 
 File: [sg/sg-5003.jpg](sg/sg-5003.jpg)
 
-Photo: grabsg, CC BY-SA 4.0, via KartaView. © KartaView contributors. Source: https://kartaview.org/details/1382582/1322/track-info. License: https://creativecommons.org/licenses/by-sa/4.0/. crop 0,0,2512,1728 of the 3072x1728 full-size processed (blurred) picture.
+Photo: Orderinchaos, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Little_India_-_Buffalo_Road_street_signs.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Unmodified original.
 
 ## sg-5004
 
 File: [sg/sg-5004.jpg](sg/sg-5004.jpg)
 
-Photo: grabsg, CC BY-SA 4.0, via KartaView. © KartaView contributors. Source: https://kartaview.org/details/1382870/2806/track-info. License: https://creativecommons.org/licenses/by-sa/4.0/. crop 874,484,2074,1384 of the 3072x1728 full-size processed (blurred) picture.
+Photo: Jacklee ., CC BY-SA 3.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Signboard_of_Union_Farm_Eating_House,_Singapore_-_20110505-01.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. Unmodified original.
 
 ## sg-5005
 
 File: [sg/sg-5005.jpg](sg/sg-5005.jpg)
 
-Photo: grabsg, CC BY-SA 4.0, via KartaView. © KartaView contributors. Source: https://kartaview.org/details/1382698/239/track-info. License: https://creativecommons.org/licenses/by-sa/4.0/. crop 476,0,2330,1390 of the 3072x1728 full-size processed (blurred) picture.
+Photo: User:(WT-shared) Jpatokal, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Sign_Fragrance.JPG. License: https://creativecommons.org/licenses/by-sa/4.0/. Unmodified original.
 
 ## sg-5006
 
 File: [sg/sg-5006.jpg](sg/sg-5006.jpg)
 
-Photo: unknown, CC BY-SA 3.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Teo_Hong_Rd_sign_Chinese.JPG. License: http://creativecommons.org/licenses/by-sa/3.0/. Unmodified original.
+Photo: Jacklee ., CC BY-SA 3.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Junction_of_Lornie_Road_and_Adam_Road,_Singapore_-_20130728.JPG. License: https://creativecommons.org/licenses/by-sa/3.0/. Unmodified original.
 
 ## sg-5007
 
 File: [sg/sg-5007.jpg](sg/sg-5007.jpg)
 
-Photo: Kimchi.sg ., CC BY-SA 3.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Temple_St_street_sign.JPG. License: http://creativecommons.org/licenses/by-sa/3.0/. Unmodified original.
+Photo: Dekoelie, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Signboard-Masjid_Petempatan_Melayu_Sembawang.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Unmodified original.
 
 ## sg-5008
 
 File: [sg/sg-5008.jpg](sg/sg-5008.jpg)
 
-Photo: Orderinchaos, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Little_India_-_Buffalo_Road_street_signs.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Unmodified original.
+Photo: grabsg, CC BY-SA 4.0, via KartaView. © KartaView contributors. Source: https://kartaview.org/details/1383582/2500/track-info. License: https://creativecommons.org/licenses/by-sa/4.0/. whole 3072x1728 full-size processed (blurred) picture as served by the KartaView CDN (byte-identical; the service blurs faces and number plates), not cropped.
 
 ## sg-5009
 
 File: [sg/sg-5009.jpg](sg/sg-5009.jpg)
 
-Photo: Jacklee ., CC BY-SA 3.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Signboard_of_Union_Farm_Eating_House,_Singapore_-_20110505-01.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. Unmodified original.
+Photo: grabsg, CC BY-SA 4.0, via KartaView. © KartaView contributors. Source: https://kartaview.org/details/1382582/1312/track-info. License: https://creativecommons.org/licenses/by-sa/4.0/. crop 594,225,1874,1185 of the 3072x1728 full-size processed (blurred) picture.
 
 ## sg-5010
 
 File: [sg/sg-5010.jpg](sg/sg-5010.jpg)
 
-Photo: Jacklee ., CC BY-SA 3.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Signboard_of_Union_Farm_Eating_House,_Singapore_-_20110505-02.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. Unmodified original.
+Photo: grabsg, CC BY-SA 4.0, via KartaView. © KartaView contributors. Source: https://kartaview.org/details/1382582/1322/track-info. License: https://creativecommons.org/licenses/by-sa/4.0/. crop 0,0,2512,1728 of the 3072x1728 full-size processed (blurred) picture.
 
 ## th-5001
 
@@ -8706,43 +8790,43 @@ Photo: Robot8A, CC BY-SA 4.0, via Panoramax. Source: https://panoramax.openstree
 
 File: [sm/sm-5004.jpg](sm/sm-5004.jpg)
 
-Photo: arjenD, CC BY-SA 3.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Entrance_Republic_of_San_Marino_-_panoramio.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
+Photo: arjenD, CC BY-SA 3.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Entrance_Republic_of_San_Marino_-_panoramio.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. Unmodified original.
 
 ## sm-5005
 
 File: [sm/sm-5005.jpg](sm/sm-5005.jpg)
 
-Photo: Андрей Романенко, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:San_Marino_City,_view_from_Via_Jacopo_Istriani.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
+Photo: Андрей Романенко, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:San_Marino_City,_view_from_Via_Jacopo_Istriani.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Unmodified original.
 
 ## sm-5006
 
 File: [sm/sm-5006.jpg](sm/sm-5006.jpg)
 
-Photo: Mateus2019, CC BY-SA 3.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:RSM_%E2%80%94_Citt%C3%A0_di_San_Marino_%E2%80%94_Salita_Alla_Rocca_(UNESCO_World_Heritiage_signage)_%E2%80%94_2024-05-07_Mattes.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
+Photo: Mateus2019, CC BY-SA 3.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:RSM_%E2%80%94_Citt%C3%A0_di_San_Marino_%E2%80%94_Salita_Alla_Rocca_(UNESCO_World_Heritiage_signage)_%E2%80%94_2024-05-07_Mattes.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. Unmodified original.
 
 ## sm-5007
 
 File: [sm/sm-5007.jpg](sm/sm-5007.jpg)
 
-Photo: Kevin Gabbert - User: (WT-shared) Kevin James at wts wikivoyage, Public domain, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:City_Gate_San_Marino.jpg. License: https://creativecommons.org/publicdomain/mark/1.0/. Wikimedia Commons standard 1280px-wide rendition (thumb.wikimedia.org).
+Photo: Kevin Gabbert - User: (WT-shared) Kevin James at wts wikivoyage, Public domain, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:City_Gate_San_Marino.jpg. License: https://creativecommons.org/publicdomain/mark/1.0/. Unmodified original.
 
 ## sm-5008
 
 File: [sm/sm-5008.jpg](sm/sm-5008.jpg)
 
-Photo: Cezar Suceveanu, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Monumentul_lui_San_Francesco_din_San_Marino.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
+Photo: Cezar Suceveanu, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Monumentul_lui_San_Francesco_din_San_Marino.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Unmodified original.
 
 ## sm-5009
 
 File: [sm/sm-5009.jpg](sm/sm-5009.jpg)
 
-Photo: © Ra Boe / Wikipedia, CC BY-SA 3.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:San_Marino_(city)_-_2017_by-RaBoe_137.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/de/deed.en. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
+Photo: © Ra Boe / Wikipedia, CC BY-SA 3.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:San_Marino_(city)_-_2017_by-RaBoe_137.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/de/deed.en. Unmodified original.
 
 ## sm-5010
 
 File: [sm/sm-5010.jpg](sm/sm-5010.jpg)
 
-Photo: Grafenschreck, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:SanMarino-Museum_Torture-A-12.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
+Photo: Grafenschreck, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:SanMarino-Museum_Torture-A-12.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Unmodified original.
 
 ## rs-5001
 
@@ -8954,6 +9038,18 @@ File: [es/es-5008.jpg](es/es-5008.jpg)
 
 Photo: polkillas, CC BY-SA 4.0, via KartaView. © KartaView contributors. Source: https://kartaview.org/details/8977673/723/track-info. License: https://creativecommons.org/licenses/by-sa/4.0/. whole 3840x2160 full-size processed (blurred) picture as served by the KartaView CDN (byte-identical; the service blurs faces and number plates), not cropped.
 
+## es-5009
+
+File: [es/es-5009.jpg](es/es-5009.jpg)
+
+Photo: Palauenc05, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Espolla_Carrer_Vilars.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
+
+## es-5010
+
+File: [es/es-5010.jpg](es/es-5010.jpg)
+
+Photo: MrPotato1010, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Montesa_-_Senyal_1.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
+
 ## se-5001
 
 File: [se/se-5001.jpg](se/se-5001.jpg)
@@ -9001,6 +9097,12 @@ Photo: mapcomplete, CC BY-SA 4.0, via Panoramax. Source: https://panoramax.mapco
 File: [se/se-5008.jpg](se/se-5008.jpg)
 
 Photo: La Citta Vita, CC BY-SA 2.0, via Flickr. Source: https://www.flickr.com/photos/49539505@N04/5949519853. License: https://creativecommons.org/licenses/by-sa/2.0/. Unmodified original.
+
+## se-5009
+
+File: [se/se-5009.jpg](se/se-5009.jpg)
+
+Photo: Marinmuseum, CC BY 2.0, via Flickr. Source: https://www.flickr.com/photos/35286849@N08/5188805247. License: https://creativecommons.org/licenses/by/2.0/. Unmodified original.
 
 ## ch-5001
 
@@ -10464,19 +10566,19 @@ Photo: troykelly, CC BY 2.0, via Flickr. Source: https://www.flickr.com/photos/2
 
 File: [pe/pe-5010.jpg](pe/pe-5010.jpg)
 
-Photo: GothamNurse, CC BY-SA 2.0, via Flickr. Source: https://www.flickr.com/photos/31925743@N00/375020487. License: https://creativecommons.org/licenses/by-sa/2.0/. Unmodified original.
+Photo: pburka, CC BY-SA 2.0, via Flickr. Source: https://www.flickr.com/photos/30047235@N03/14029972438. License: https://creativecommons.org/licenses/by-sa/2.0/. Unmodified original.
 
 ## pe-5011
 
 File: [pe/pe-5011.jpg](pe/pe-5011.jpg)
 
-Photo: David Berkowitz, CC BY 2.0, via Flickr. Source: https://www.flickr.com/photos/25897810@N00/4869270123. License: https://creativecommons.org/licenses/by/2.0/. Unmodified original.
+Photo: AgainErick, CC BY-SA 3.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Street_sign_Cusco_-_Plaza_Kusipata.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. Unmodified original.
 
 ## pe-5012
 
 File: [pe/pe-5012.jpg](pe/pe-5012.jpg)
 
-Photo: Kenneth Moore Photography, CC BY 2.0, via Flickr. Source: https://www.flickr.com/photos/50276595@N03/5647990438. License: https://creativecommons.org/licenses/by/2.0/. Unmodified original.
+Photo: BBCLCD, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Sign_LIMA.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Unmodified original.
 
 ## lc-5001
 
@@ -10488,13 +10590,13 @@ Photo: Hunter Stengl, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commo
 
 File: [lc/lc-5002.jpg](lc/lc-5002.jpg)
 
-Photo: Chris Hunkeler from Carlsbad, California, USA, CC BY-SA 2.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Rodger_with_Cannon_at_Fort_Rodney_(40173010614).jpg. License: https://creativecommons.org/licenses/by-sa/2.0/. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
+Photo: Chris Hunkeler from Carlsbad, California, USA, CC BY-SA 2.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Rodger_with_Cannon_at_Fort_Rodney_(40173010614).jpg. License: https://creativecommons.org/licenses/by-sa/2.0/. Unmodified original.
 
 ## lc-5003
 
 File: [lc/lc-5003.jpg](lc/lc-5003.jpg)
 
-Photo: Chris Hunkeler from Carlsbad, California, USA, CC BY-SA 2.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:To_The_Lookout_(40880823301).jpg. License: https://creativecommons.org/licenses/by-sa/2.0/. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
+Photo: Chris Hunkeler from Carlsbad, California, USA, CC BY-SA 2.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:To_The_Lookout_(40880823301).jpg. License: https://creativecommons.org/licenses/by-sa/2.0/. Unmodified original.
 
 ## vc-5001
 
@@ -10510,25 +10612,19 @@ Photo: Ein Dahmer, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.
 
 ## vc-5003
 
-File: [vc/vc-5003.png](vc/vc-5003.png)
+File: [vc/vc-5003.jpg](vc/vc-5003.jpg)
 
-Photo: Vladimir Putin, Public domain, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:%D0%A3%D0%9A%D0%90%D0%97_%D0%9F%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%B0_%D0%A0%D0%A4_%D0%BE%D1%82_27.07.2007_N_980.png. License: https://creativecommons.org/publicdomain/mark/1.0/. Unmodified original.
+Photo: Nikonian, CC BY 3.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Union_Island.jpg. License: https://creativecommons.org/licenses/by/3.0/. Unmodified original.
 
 ## vc-5004
 
 File: [vc/vc-5004.jpg](vc/vc-5004.jpg)
 
-Photo: Nikonian, CC BY 3.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Union_Island.jpg. License: https://creativecommons.org/licenses/by/3.0/. Unmodified original.
+Photo: Balou46, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Stvinent-gren.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Unmodified original.
 
 ## vc-5005
 
 File: [vc/vc-5005.jpg](vc/vc-5005.jpg)
-
-Photo: Balou46, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Stvinent-gren.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Unmodified original.
-
-## vc-5006
-
-File: [vc/vc-5006.jpg](vc/vc-5006.jpg)
 
 Photo: Ashbox451, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Welcome_sign_at_Saline_Bay.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Unmodified original.
 
@@ -10536,73 +10632,73 @@ Photo: Ashbox451, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.w
 
 File: [sr/sr-5001.jpg](sr/sr-5001.jpg)
 
-Photo: tjabeljan, CC BY 2.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Plantage_Frederiksdorp013_(8195000907).jpg. License: https://creativecommons.org/licenses/by/2.0/. Unmodified original.
+Photo: Ymnes, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Verkeersbord,_Afobakaweg.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Unmodified original.
 
 ## sr-5002
 
 File: [sr/sr-5002.jpg](sr/sr-5002.jpg)
 
-Photo: Ymnes, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Wildplassen_verboden,_Paramaribo,_1.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Unmodified original.
+Photo: -JvL-, CC BY 2.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Information_sign_of_Fort_Zeelandia_(31115831872).jpg. License: https://creativecommons.org/licenses/by/2.0/. Unmodified original.
 
 ## sr-5003
 
 File: [sr/sr-5003.jpg](sr/sr-5003.jpg)
 
-Photo: Ymnes, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Wildplassen_verboden,_Paramaribo,_2.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Unmodified original.
+Photo: Mark Ahsmann, CC BY-SA 3.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Kwakoeplein_street_sign.JPG. License: https://creativecommons.org/licenses/by-sa/3.0/. Unmodified original.
 
 ## sr-5004
 
 File: [sr/sr-5004.jpg](sr/sr-5004.jpg)
 
-Photo: Ymnes, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Verkeersbord,_Afobakaweg.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Unmodified original.
+Photo: Mark Ahsmann, CC BY-SA 3.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Street_sign_in_Paramaribo_II.JPG. License: https://creativecommons.org/licenses/by-sa/3.0/. Unmodified original.
 
 ## sr-5005
 
 File: [sr/sr-5005.jpg](sr/sr-5005.jpg)
 
-Photo: Ymnes, CC0 1.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:JAP_Airport,_2022_-_2.jpg. License: http://creativecommons.org/publicdomain/zero/1.0/deed.en. Unmodified original.
+Photo: Brokopondo, Public domain, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Lelydorp2010.jpg. License: https://creativecommons.org/publicdomain/mark/1.0/. Unmodified original.
 
 ## sr-5006
 
 File: [sr/sr-5006.jpg](sr/sr-5006.jpg)
 
-Photo: -JvL-, CC BY 2.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Information_sign_of_Fort_Zeelandia_(31115831872).jpg. License: https://creativecommons.org/licenses/by/2.0/. Unmodified original.
+Photo: tjabeljan, CC BY 2.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:SurinameFortNieuwAmsterdam006_(8194911927).jpg. License: https://creativecommons.org/licenses/by/2.0/. Unmodified original.
 
 ## sr-5007
 
 File: [sr/sr-5007.jpg](sr/sr-5007.jpg)
 
-Photo: Mark Ahsmann, CC BY-SA 3.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Kwakoeplein_street_sign.JPG. License: https://creativecommons.org/licenses/by-sa/3.0/. Unmodified original.
+Photo: tjabeljan, CC BY 2.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:NieuwNickerie027_(8058933567).jpg. License: https://creativecommons.org/licenses/by/2.0/. Unmodified original.
 
 ## sr-5008
 
 File: [sr/sr-5008.jpg](sr/sr-5008.jpg)
 
-Photo: Mark Ahsmann, CC BY-SA 3.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Street_sign_in_Paramaribo_II.JPG. License: https://creativecommons.org/licenses/by-sa/3.0/. Unmodified original.
+Photo: tjabeljan, CC BY 2.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:NieuwNickerie032_(8058932950).jpg. License: https://creativecommons.org/licenses/by/2.0/. Unmodified original.
 
 ## sr-5009
 
 File: [sr/sr-5009.jpg](sr/sr-5009.jpg)
 
-Photo: Brokopondo, Public domain, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Lelydorp2010.jpg. License: https://creativecommons.org/publicdomain/mark/1.0/. Unmodified original.
+Photo: Mark Ahsmann, CC BY-SA 3.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Entrance_sign_of_Nola_Hatterman_Instituut.JPG. License: https://creativecommons.org/licenses/by-sa/3.0/. Unmodified original.
 
 ## sr-5010
 
 File: [sr/sr-5010.jpg](sr/sr-5010.jpg)
 
-Photo: Mark Ahsmann, CC BY-SA 3.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Paramaribo_street_signs.JPG. License: https://creativecommons.org/licenses/by-sa/3.0/. Unmodified original.
+Photo: Dan Sloan, CC BY-SA 2.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Jodensavanne_(Jewish_Savanna)_(23747540622).jpg. License: https://creativecommons.org/licenses/by-sa/2.0/. Unmodified original.
 
 ## sr-5011
 
 File: [sr/sr-5011.jpg](sr/sr-5011.jpg)
 
-Photo: tjabeljan, CC BY 2.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:SurinameFortNieuwAmsterdam006_(8194911927).jpg. License: https://creativecommons.org/licenses/by/2.0/. Unmodified original.
+Photo: Bart van Poll, CC BY-SA 2.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Butcher_Paramaribo_market.jpg. License: https://creativecommons.org/licenses/by-sa/2.0/. Unmodified original.
 
 ## sr-5012
 
 File: [sr/sr-5012.jpg](sr/sr-5012.jpg)
 
-Photo: Willem van de Poll, CC0 1.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Winkel_in_de_Nassaustraat_in_Oranjestad_op_Aruba,_Bestanddeelnr_252-7893.jpg. License: http://creativecommons.org/publicdomain/zero/1.0/deed.en. Unmodified original.
+Photo: Willem van de Poll, CC0 1.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:De_kerk_van_Uitkijk_met_het_gemeentebord,_Bestanddeelnr_252-6433.jpg. License: http://creativecommons.org/publicdomain/zero/1.0/deed.en. Unmodified original.
 
 ## us-5001
 
@@ -10764,31 +10860,31 @@ Photo: User:Matthias Süßen, CC BY-SA 3.0, via Wikimedia Commons. Source: https
 
 File: [fj/fj-5008.jpg](fj/fj-5008.jpg)
 
-Photo: User:Matthias Süßen, CC BY-SA 3.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Tsunami_Suva_MatthiasSuessen-8565.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. Unmodified original.
+Photo: OhanaUnited Talk page, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Nausori_Airport_sign.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Unmodified original.
 
 ## fj-5009
 
 File: [fj/fj-5009.jpg](fj/fj-5009.jpg)
 
-Photo: OhanaUnited Talk page, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Nausori_Airport_sign.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Unmodified original.
+Photo: Jaejay77, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Bakery_Lomaloma.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Unmodified original.
 
 ## fj-5010
 
 File: [fj/fj-5010.jpg](fj/fj-5010.jpg)
 
-Photo: Jaejay77, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Bakery_Lomaloma.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Unmodified original.
+Photo: Melbar, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:General_Store_Levuka.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Unmodified original.
 
 ## fj-5011
 
 File: [fj/fj-5011.jpg](fj/fj-5011.jpg)
 
-Photo: Evad37, CC0 1.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:E37_Sigatoka,_Fiji_(2_July_2015)_02.JPG. License: http://creativecommons.org/publicdomain/zero/1.0/deed.en. Unmodified original.
+Photo: User:Matthias Süßen, CC BY-SA 3.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Flea_Market_Suva_MatthiasSuessen-8917.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. Unmodified original.
 
 ## fj-5012
 
 File: [fj/fj-5012.jpg](fj/fj-5012.jpg)
 
-Photo: Evad37, CC0 1.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:E37_Sigatoka,_Fiji_(2_July_2015)_04.JPG. License: http://creativecommons.org/publicdomain/zero/1.0/deed.en. Unmodified original.
+Photo: M K, CC BY-SA 3.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Yako,_Fiji_-_panoramio.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. Unmodified original.
 
 ## ki-5001
 
@@ -10878,7 +10974,7 @@ Photo: Teinesavaii, CC BY-SA 3.0, via Wikimedia Commons. Source: https://commons
 
 File: [ws/ws-5003.jpg](ws/ws-5003.jpg)
 
-Photo: blmcalifornia, Public domain, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Signs_in_Samoa_Dunes_Recreation_Area_(28589986648).jpg. License: https://creativecommons.org/publicdomain/mark/1.0/. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
+Photo: blmcalifornia, Public domain, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Signs_in_Samoa_Dunes_Recreation_Area_(28589986648).jpg. License: https://creativecommons.org/publicdomain/mark/1.0/. Unmodified original.
 
 ## sb-5001
 
@@ -10926,13 +11022,13 @@ Photo: UN WOMEN Pacific, CC BY-SA 2.0, via Wikimedia Commons. Source: https://co
 
 File: [sb/sb-5008.jpg](sb/sb-5008.jpg)
 
-Photo: Department of Foreign Affairs and Trade, CC BY 2.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Live_and_Learn_staff_pose_with_the_%E2%80%98men_against_violence_against_women_(MAVAW)_Project_sign._(10708162325).jpg. License: https://creativecommons.org/licenses/by/2.0/. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
+Photo: Department of Foreign Affairs and Trade, CC BY 2.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Live_and_Learn_staff_pose_with_the_%E2%80%98men_against_violence_against_women_(MAVAW)_Project_sign._(10708162325).jpg. License: https://creativecommons.org/licenses/by/2.0/. Unmodified original.
 
 ## sb-5009
 
 File: [sb/sb-5009.jpg](sb/sb-5009.jpg)
 
-Photo: Department of Foreign Affairs and Trade, CC BY 2.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Live_and_Learn_staff_pose_with_a_%E2%80%98Stop!_Violence_against_women%E2%80%99_sign._(10708149455).jpg. License: https://creativecommons.org/licenses/by/2.0/. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
+Photo: Department of Foreign Affairs and Trade, CC BY 2.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Live_and_Learn_staff_pose_with_a_%E2%80%98Stop!_Violence_against_women%E2%80%99_sign._(10708149455).jpg. License: https://creativecommons.org/licenses/by/2.0/. Unmodified original.
 
 ## to-5001
 
@@ -10980,37 +11076,13 @@ Photo: Michael Coghlan from Adelaide, Australia, CC BY-SA 2.0, via Wikimedia Com
 
 File: [tv/tv-5003.jpg](tv/tv-5003.jpg)
 
-Photo: lirneasia, CC BY 2.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Funafuti_International_Airport_terminal_building.jpg. License: https://creativecommons.org/licenses/by/2.0/. Unmodified original.
+Photo: Richard Moorby, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Funafuti_Airport_after_Hurricane_Bebe_Nov_1972.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Unmodified original.
 
 ## tv-5004
 
 File: [tv/tv-5004.jpg](tv/tv-5004.jpg)
 
-Photo: Richard Moorby, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Funafuti_Airport_after_Hurricane_Bebe_Nov_1972.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Unmodified original.
-
-## tv-5005
-
-File: [tv/tv-5005.jpg](tv/tv-5005.jpg)
-
-Photo: Michael Coghlan from Adelaide, Australia, CC BY-SA 2.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Sign_in_Tuvaluan.jpg. License: https://creativecommons.org/licenses/by-sa/2.0/. Unmodified original.
-
-## tv-5006
-
-File: [tv/tv-5006.jpg](tv/tv-5006.jpg)
-
 Photo: Davidarfonjones, CC BY-SA 3.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Tuvalu_Meteorology_Service.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. Unmodified original.
-
-## tv-5007
-
-File: [tv/tv-5007.jpg](tv/tv-5007.jpg)
-
-Photo: Leigh Blackall from Canberra, Australia, CC BY 2.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Bahai_sign_in_Tuvalu_(3067484802).jpg. License: https://creativecommons.org/licenses/by/2.0/. Unmodified original.
-
-## tv-5008
-
-File: [tv/tv-5008.jpg](tv/tv-5008.jpg)
-
-Photo: Michael Coghlan from Adelaide, Australia, CC BY-SA 2.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Tuvalu_E_Tapu_Te_Pusi.jpg. License: https://creativecommons.org/licenses/by-sa/2.0/. Unmodified original.
 
 ## vu-5001
 
@@ -11076,10 +11148,10 @@ Photo: StAnselm, CC BY-SA 4.0, via Wikimedia Commons. Source: https://commons.wi
 
 File: [vu/vu-5011.jpg](vu/vu-5011.jpg)
 
-Photo: Michael Coghlan from Adelaide, Australia, CC BY-SA 2.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Another_Chinese_Store_(23775938336).jpg. License: https://creativecommons.org/licenses/by-sa/2.0/. Wikimedia Commons standard 1280px-wide rendition (thumb.wikimedia.org).
+Photo: Michael Coghlan from Adelaide, Australia, CC BY-SA 2.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Another_Chinese_Store_(23775938336).jpg. License: https://creativecommons.org/licenses/by-sa/2.0/. Unmodified original.
 
 ## vu-5012
 
 File: [vu/vu-5012.jpg](vu/vu-5012.jpg)
 
-Photo: Phillip Capper from Wellington, New Zealand, CC BY 2.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Wan_Smol_Bag_Youth_Centre,_Port_Vila,_Vanuatu,_15_April_2008_-_Flickr_-_PhillipC.jpg. License: https://creativecommons.org/licenses/by/2.0/. Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org).
+Photo: Phillip Capper from Wellington, New Zealand, CC BY 2.0, via Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Wan_Smol_Bag_Youth_Centre,_Port_Vila,_Vanuatu,_15_April_2008_-_Flickr_-_PhillipC.jpg. License: https://creativecommons.org/licenses/by/2.0/. Unmodified original.

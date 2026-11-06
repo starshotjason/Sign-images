@@ -1,0 +1,348 @@
+{
+ "c76377004": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "DAMSON'S",
+    "lang": "en"
+   },
+   {
+    "text": "SITOA NI NAOVA",
+    "lang": "fj"
+   }
+  ],
+  "expect": {
+   "query": "Damson's",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Red hanging shop sign under a verandah by Sigatoka market; Fijian 'sitoa ni naova' = clothing store. Distractors: 'Digicel top up here', 'vodafone Recharge Here', 'JEWELLERY COSMETICS', '...CLOTHING WHOLESALERS & DISTRIBUTORS LTD', big 'PHARMACY' fascia across the street, 'Drua' and 'OUR MARKET OUR IMAGE' signs; market vendors incidental."
+ },
+ "c10269248": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "FIJI MUSEUM",
+    "lang": "en"
+   },
+   {
+    "text": "VALE NI",
+    "lang": "fj"
+   },
+   {
+    "text": "I YAYA",
+    "lang": "fj"
+   },
+   {
+    "text": "MAROROI",
+    "lang": "fj"
+   }
+  ],
+  "expect": {
+   "query": "Fiji Museum",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Bilingual English/Fijian name board over a painted rainforest mural at the Fiji Museum, Suva, shot from below at an angle; Fijian text is small capitals with larger initials. Small plaque on the mural ('ERECTED BY ... 1974') is illegible."
+ },
+ "c32830326": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "vodafone",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Vodafone",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Illuminated red fascia of the Vodafone shop in the Nadi International Airport terminal. Distractor posters: 'Phone service just like home?', 'PICK UP YOUR FREE SIM HERE!', multilingual greetings wall ('Bula', 'Namaste', ...)."
+ },
+ "c38145999": {
+  "accept": true,
+  "reason": "",
+  "kind": "hard",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ESHAANs",
+    "lang": "en"
+   },
+   {
+    "text": "BARGAIN",
+    "lang": "en"
+   },
+   {
+    "text": "QUALITY",
+    "lang": "en"
+   },
+   {
+    "text": "SECONDHAND",
+    "lang": "en"
+   },
+   {
+    "text": "CLOTHING",
+    "lang": "en"
+   },
+   {
+    "text": "SHOES",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Eshaan's Bargain",
+   "type": "poi"
+  },
+  "difficulty": "hard",
+  "notes": "Hand-painted green shop board in Suva, shot at a steep angle with a wide lens; the 's' after ESHAAN is a small raised letter, and the end of BARGAIN may be cut by peeling paint. Lower lines are badly peeled (approx. 'SANDALS', 'BRAS', 'UNDER GARMENTS', '...FLOOR UPSTAIRS') and are left out. Distractor 'Comfort Home' hanging sign further along; shoppers and a van with plate incidental."
+ },
+ "c57623318": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "SHAH'S",
+    "lang": "en"
+   },
+   {
+    "text": "DELICIOUS HOT & SPICY FAST FOOD",
+    "lang": "en"
+   },
+   {
+    "text": "PH: 8336934",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "Shah's",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Red hanging fast-food sign along a shop arcade in Lautoka, at an angle with a cable across it. The large yellow 'SuperFoods / On your way home' fascia at left is cut off at the top ('...perFoods') and is a distractor, as are 'SHAH'S FASTFOOD & RESTAURANT' wall sign, Punjas 'Scotch Finger', Digicel and Coca-Cola signs; shoppers incidental."
+ },
+ "c38251756": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn",
+   "Kana"
+  ],
+  "lines": [
+   {
+    "text": "Nadi Handicraft Centre",
+    "lang": "en"
+   },
+   {
+    "text": "ナンディ・ハンディクラフト・センター",
+    "lang": "ja",
+    "latin": "Nandi handikurafuto sentā (Nadi Handicraft Centre)"
+   }
+  ],
+  "expect": {
+   "query": "Nadi Handicraft Centre",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Curved blue fascia with serif English letters and Japanese katakana below (middle dots as separators), Nadi town centre; shot from below with a wide lens. Two musicians in the doorway and shoppers incidental; 'gaan', 'Digicel', 'FOREIGN EXCHANGE' signs down the street are distractors."
+ },
+ "c40993449": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "GRAND",
+    "lang": "en"
+   },
+   {
+    "text": "PACIFIC HOTEL",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Grand Pacific Hotel",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Black decorative lettering on the glass entrance door of the Grand Pacific Hotel, Suva, with an ornament between the lines; a blurred doorman silhouette (seen from behind) and the street are visible through the glass."
+ },
+ "c40993476": {
+  "accept": false,
+  "reason": "tsunami hazard warning in English/Fijian/Hindi; a warning, not a place name"
+ },
+ "c114278737": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "FIJI AIRPORTS",
+    "lang": "en"
+   },
+   {
+    "text": "NAUSORI",
+    "lang": "en"
+   },
+   {
+    "text": "INTERNATIONAL",
+    "lang": "en"
+   },
+   {
+    "text": "AIRPORT",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Nausori International Airport",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Entrance sign under a pavilion roof at Nausori airport, shot from a moving car (slight motion blur). The 'FIJI AIRPORTS' logo text is tiny. GIVE WAY sign and blurred bollard in front are distractors."
+ },
+ "c50511163": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "THE HOT",
+    "lang": "en"
+   },
+   {
+    "text": "BREAD",
+    "lang": "en"
+   },
+   {
+    "text": "KITCHEN",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Hot Bread Kitchen",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Red roadside bakery sign on two white posts in Lomaloma, Vanua Balavu; 'THE HOT' is stacked small to the left of BREAD. A shop worker stands by the door (incidental). Small poster on the post ('Cream Buns...') is a distractor."
+ },
+ "c41655720": {
+  "accept": false,
+  "reason": "school-crossing and 50 speed signs with street-lamp adverts and vehicles with number plates; no place name"
+ },
+ "c41655734": {
+  "accept": false,
+  "reason": "street scene in Sigatoka; signs are small and distant (Westpac logo only)"
+ },
+ "c52870598": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "GENERAL STORE",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "General Store",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Red painted lettering on the yellow weatherboard facade of the historic general store in Levuka (Ovalau). 'Westpac THE BANK' sign under the verandah is a secondary sign; people on the verandah incidental. The name is generic, so the query is weak on its own."
+ },
+ "c32165643": {
+  "accept": false,
+  "reason": "illustrated slogan board ('BACKYARD GARDENING BENEFITS ... FIGHT POVERTY GROW YOUR OWN FOOD'); no place name"
+ },
+ "c41655830": {
+  "accept": false,
+  "reason": "warning sign 'DANGER! BRIDGE CLOSED KEEP OUT!'; no place name"
+ },
+ "c40987200": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Suva!",
+    "lang": "en"
+   },
+   {
+    "text": "FLEA MARKET",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Suva Flea Market",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Colourful 'Suva!' letter board above the 'FLEA MARKET' lettering at the market entrance, Suva. A bilingual English/Fijian NOTICE board on the steps (small text) and 'FIJI' sarongs are distractors; people sitting on the steps incidental."
+ },
+ "c53357382": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Yako",
+    "lang": "fj"
+   },
+   {
+    "text": "Village",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Yako",
+   "type": "place"
+  },
+  "difficulty": "medium",
+  "notes": "White village-name plate under a 50 km/h sign on the Queens Road near Nadi, seen through a windscreen from a distance; decorative metal gateway posts flank the road."
+ },
+ "c71902047": {
+  "accept": false,
+  "reason": "wrong country (Maui, Hawaii) and only a botanical plant label"
+ }
+}

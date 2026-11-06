@@ -1,27 +1,24 @@
 {
   "source": "commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:JAP_Airport,_2022_-_2.jpg",
-  "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/JAP_Airport%2C_2022_-_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-  "license_as_published": "CC0",
-  "license_url_as_published": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-  "author_as_published": "Ymnes",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Lelydorp2010.jpg",
+  "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Lelydorp2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "license_as_published": "Public domain",
+  "license_url_as_published": null,
+  "author_as_published": "Brokopondo",
   "credit_as_published": "Own work",
-  "title": "File:JAP Airport, 2022 - 2.jpg",
-  "description": "nl:Johan Adolf Pengel International Airport , Zanderij, Suriname",
-  "date": "2022-10-06",
+  "title": "File:Lelydorp2010.jpg",
+  "description": "Lelydorp, Ortsschild",
+  "date": "2010-03-18",
   "categories": [
-    "Johan Adolf Pengel International Airport",
-    "Welcome signs in Suriname",
-    "Zebra crossings in Suriname"
+    "Electricity in Suriname",
+    "Lelydorp",
+    "Place name signs"
   ],
-  "camera_location": [
-    5.455615,
-    -55.198995
-  ],
+  "camera_location": null,
   "found_by": "keyword",
-  "bytes": 902613,
+  "bytes": 696434,
   "width": 1920,
   "height": 1440,
-  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/JAP_Airport%2C_2022_-_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Lelydorp2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
   "derivative": ""
 }

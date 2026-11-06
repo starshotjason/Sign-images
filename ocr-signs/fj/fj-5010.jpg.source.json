@@ -1,25 +1,24 @@
 {
   "source": "commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Bakery_Lomaloma.jpg",
-  "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Bakery_Lomaloma.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source_url": "https://commons.wikimedia.org/wiki/File:General_Store_Levuka.jpg",
+  "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/General_Store_Levuka.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
   "license_as_published": "CC BY-SA 4.0",
   "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0",
-  "author_as_published": "Jaejay77",
+  "author_as_published": "Melbar",
   "credit_as_published": "Own work",
-  "title": "File:Bakery Lomaloma.jpg",
-  "description": "Bakery on Lomaloma, Vanua Balavu, Fiji.",
-  "date": "2014-04-28 14:15:52",
+  "title": "File:General Store Levuka.jpg",
+  "description": "General Store Levuka",
+  "date": "2002-09-19 23:22:36",
   "categories": [
-    "Bakeries",
-    "Shops in Fiji",
-    "Signs in Fiji",
-    "Vanua Balavu"
+    "Fiji",
+    "Levuka",
+    "Signs in Fiji"
   ],
   "camera_location": null,
   "found_by": "keyword",
-  "bytes": 755338,
-  "width": 1920,
-  "height": 1272,
-  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Bakery_Lomaloma.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "bytes": 393671,
+  "width": 1280,
+  "height": 960,
+  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/General_Store_Levuka.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
   "derivative": ""
 }

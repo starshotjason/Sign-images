@@ -1,23 +1,28 @@
 {
   "source": "commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Teo_Hong_Rd_sign_Chinese.JPG",
-  "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Teo_Hong_Rd_sign_Chinese.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Junction_of_Lornie_Road_and_Adam_Road,_Singapore_-_20130728.JPG",
+  "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Junction_of_Lornie_Road_and_Adam_Road%2C_Singapore_-_20130728.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
   "license_as_published": "CC BY-SA 3.0",
-  "license_url_as_published": "http://creativecommons.org/licenses/by-sa/3.0/",
-  "author_as_published": "",
-  "credit_as_published": "Own work",
-  "title": "File:Teo Hong Rd sign Chinese.JPG",
-  "description": "Chinese street sign of Teo Hong Road, Singapore.",
-  "date": "2006-02-25",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/3.0",
+  "author_as_published": "Jacklee .",
+  "credit_as_published": "Own work .",
+  "title": "File:Junction of Lornie Road and Adam Road, Singapore - 20130728.JPG",
+  "description": "A street sign marking the junction between Lornie Road and Adam Road, Singapore.",
+  "date": "2013-07-28 10:27:13",
   "categories": [
+    "Adam Road, Singapore",
+    "Lornie Road, Singapore",
     "Street signs in Singapore",
-    "Teo Hong Road, Singapore"
+    "Traffic signal signs in Singapore"
   ],
-  "camera_location": null,
+  "camera_location": [
+    1.33578,
+    103.81842
+  ],
   "found_by": "keyword",
-  "bytes": 632286,
+  "bytes": 798779,
   "width": 1920,
-  "height": 1440,
-  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Teo_Hong_Rd_sign_Chinese.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "height": 1285,
+  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Junction_of_Lornie_Road_and_Adam_Road%2C_Singapore_-_20130728.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
   "derivative": ""
 }

@@ -1,0 +1,430 @@
+{
+ "c8891440": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "PTE. ROSARIO",
+    "lang": "es"
+   },
+   {
+    "text": "ROSARIO CHAKA",
+    "lang": "qu"
+   },
+   {
+    "text": "MUNICIPALIDAD",
+    "lang": "es"
+   },
+   {
+    "text": "PROV. DEL CUSCO",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Puente Rosario",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Blue bilingual Spanish/Quechua hanging street sign of the Municipalidad Provincial del Cusco with the Inca sun-disc emblem; 'Pte.' = Puente, Quechua 'chaka' = bridge."
+ },
+ "c8933283": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Hathunrumiyoq",
+    "lang": "qu"
+   },
+   {
+    "text": "Via Peatonal",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Hatunrumiyoc",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Blue-and-white tile street plaque on an Inca stone wall in Cusco (street of the Twelve-Angled Stone). Spelled 'Hathunrumiyoq' on the plaque (map spelling usually Hatunrumiyoc). Gold sun-disc sticker top right."
+ },
+ "c117895471": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Teqsiqocha",
+    "lang": "qu"
+   },
+   {
+    "text": "Via Peatonal",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Teqsiqocha",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Blue-and-white tile street plaque in Cusco; a glaze blob after the final 'a' looks like a comma, and the 'i' of 'Via' has a stray glaze mark above it (not an accent). Gold sun-disc sticker top right."
+ },
+ "c15776095": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "GALERIA DEL",
+    "lang": "es"
+   },
+   {
+    "text": "LANZON",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Lanzón",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Red wooden board with white routed letters on a stone wall at the Lanzón gallery entrance, Chavín de Huántar (no accents). Flash photo, slightly soft."
+ },
+ "c46495665": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "JR. ANCASH",
+    "lang": "es"
+   },
+   {
+    "text": "CUADRA 2",
+    "lang": "es"
+   },
+   {
+    "text": "CALLE DEL",
+    "lang": "es"
+   },
+   {
+    "text": "RASTRO DE SAN FRANCISCO",
+    "lang": "es"
+   },
+   {
+    "text": "LLAMASE ASI POR LA EXISTENCIA DE UN RASTRO O",
+    "lang": "es"
+   },
+   {
+    "text": "ESTABLECIMIENTO PARA LA VENTA DE CARNE.",
+    "lang": "es"
+   },
+   {
+    "text": "CASIMIRES",
+    "lang": "es"
+   },
+   {
+    "text": "BARRINGTON",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Jirón Áncash",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Barrington-sponsored tile plaque in Lima's historic centre: modern name 'JR. ANCASH CUADRA 2' on top, historic name 'Calle del Rastro de San Francisco' in decorative letters (the DE is a small D-with-E ligature), explanatory text, 'Ceram Iturry' maker mark. Painted paint-stratigraphy test patches at right are a distractor."
+ },
+ "c46495712": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "JR. DE LA UNION",
+    "lang": "es"
+   },
+   {
+    "text": "CUADRA 4",
+    "lang": "es"
+   },
+   {
+    "text": "CALLE DE",
+    "lang": "es"
+   },
+   {
+    "text": "MERCADERES",
+    "lang": "es"
+   },
+   {
+    "text": "LLAMADA ASI POR EL PREDOMINIO DE ESTABLECIMIENTOS DE",
+    "lang": "es"
+   },
+   {
+    "text": "COMERCIO Y SASTRES.",
+    "lang": "es"
+   },
+   {
+    "text": "CASIMIRES",
+    "lang": "es"
+   },
+   {
+    "text": "BARRINGTON",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Jirón de la Unión",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Barrington-sponsored tile plaque on an orange wall in central Lima: modern name 'Jr. de la Union, cuadra 4' plus historic 'Calle de Mercaderes'. Same plaque series as c46495665 but a different street."
+ },
+ "c46618924": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "JR. PIZARRO",
+    "lang": "es"
+   },
+   {
+    "text": "CUADRA 7",
+    "lang": "es"
+   },
+   {
+    "text": "CALLE DEL",
+    "lang": "es"
+   },
+   {
+    "text": "MIRADOR DE SANTA CLARA",
+    "lang": "es"
+   },
+   {
+    "text": "DESDE DONDE SE OBSERVABA LA HUERTA Y LAS CELDAS",
+    "lang": "es"
+   },
+   {
+    "text": "DEL CONVENTO DE CLAUSURA DE SANTA CLARA.",
+    "lang": "es"
+   },
+   {
+    "text": "CASIMIRES",
+    "lang": "es"
+   },
+   {
+    "text": "BARRINGTON",
+    "lang": "en"
+   },
+   {
+    "text": "Francisco",
+    "lang": "es"
+   },
+   {
+    "text": "Pizarro",
+    "lang": "es"
+   },
+   {
+    "text": "cdra. 7",
+    "lang": "es"
+   },
+   {
+    "text": "MUNICIPALIDAD DE TRUJILLO",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Jirón Francisco Pizarro",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Two tile plaques in Trujillo: upper Barrington plaque with Trujillo coat of arms (historic 'Calle del Mirador de Santa Clara', DE written as a D-with-E ligature, 'Ceram Iturry Lima-Perú' maker mark); lower green-and-white municipal plaque with left arrow and a Cerveza Pilsen Trujillo emblem."
+ },
+ "c46942687": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Calle",
+    "lang": "es"
+   },
+   {
+    "text": "Mayor Novoa",
+    "lang": "es"
+   },
+   {
+    "text": "Cdra. 6",
+    "lang": "es"
+   },
+   {
+    "text": "5",
+    "lang": "und"
+   },
+   {
+    "text": "Av",
+    "lang": "es"
+   },
+   {
+    "text": "Tumbes",
+    "lang": "es"
+   },
+   {
+    "text": "Cdra. 4",
+    "lang": "es"
+   },
+   {
+    "text": "5",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "Avenida Tumbes",
+   "type": "street"
+  },
+  "difficulty": "medium",
+  "notes": "Two green street blades on a pole in Tumbes with block numbers and arrows; city coat of arms at right (ring text 'KAROLI CESARIS AUSPITIO ET LABORE INGENIO AC IMPENSA DUCIS PIZARRO INVENTA ET PACATA', small). Upper blade is shaded and partly faded. Torn posters on the poles ('ATENCIÓN TUMBES !!!', 'SOY + PRODUCCIONES') are distractors."
+ },
+ "fb144a86a-e155-4974-883e-30492a09e86b": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Av. José Pardo",
+    "lang": "es"
+   },
+   {
+    "text": "898 - 800",
+    "lang": "und"
+   },
+   {
+    "text": "MIRAFLORES",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Avenida José Pardo",
+   "type": "street"
+  },
+  "difficulty": "medium",
+  "notes": "Green Miraflores street blade shot from below at an angle against grey sky, with left arrow and house-number range; district shield at right (tiny 'CIUDAD HEROICA'). Second blade above is edge-on and cut off ('...e. Espinar / 199 - 101')."
+ },
+ "fc361270e-860b-46d2-9b9f-7bc4281e0313": {
+  "accept": false,
+  "reason": "cycle-path courtesy notice ('CICLISTA RESPETE AL PEATON...') with a man in the foreground; no place name"
+ },
+ "fbef559ba-319e-4f3c-9edc-0bbff69f45bf": {
+  "accept": false,
+  "reason": "museum exhibit caption (artwork label), not a sign naming a place"
+ },
+ "f6f38b53f-8c42-4014-afdc-d9d96c2026fe": {
+  "accept": false,
+  "reason": "prohibition notice (no guns / no mobile phones in this office); no place name"
+ },
+ "f0a06a921-8092-4f56-90ca-4cd44dcc43bc": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "MUSEO Y",
+    "lang": "es"
+   },
+   {
+    "text": "CATACUMBAS",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Catacumbas",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Framed directional sign behind glossy plastic with white-and-red letters and a left arrow, pointing to the museum and catacombs of San Francisco convent, Lima; reflections on the plastic, slight angle."
+ },
+ "f199436ce-fd88-49fa-ab9b-d8ecde9a6146": {
+  "accept": false,
+  "reason": "Inca Kola 'IncaMenú' advertising cut-out (soft-drink promo), no restaurant name"
+ },
+ "c8932921": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Plaza Kusipata",
+    "lang": "qu"
+   }
+  ],
+  "expect": {
+   "query": "Plaza Kusipata",
+   "type": "place"
+  },
+  "difficulty": "easy",
+  "notes": "Blue-and-white tile directional plaque with left arrow on a stone wall in Cusco; gold sun-disc sticker top left."
+ },
+ "c19508357": {
+  "accept": false,
+  "reason": "no-horn pictogram sign 'SILENCIO'; no place name"
+ },
+ "c118463255": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Banco de la Nación",
+    "lang": "es"
+   },
+   {
+    "text": "LIMA",
+    "lang": "es"
+   }
+  ],
+  "expect": {
+   "query": "Banco de la Nación",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Topiary letters 'LIMA' in a flower bed (the L and I are separate hedges) in front of the Banco de la Nación branch fascia, central Lima. Partial 'ARO' wall lettering at far left is cut off. Queue of people incidental."
+ }
+}

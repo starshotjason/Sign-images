@@ -1,24 +1,23 @@
 {
-  "source": "commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Signboard_of_Union_Farm_Eating_House,_Singapore_-_20110505-01.jpg",
-  "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Signboard_of_Union_Farm_Eating_House%2C_Singapore_-_20110505-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-  "license_as_published": "CC BY-SA 3.0",
-  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/3.0",
-  "author_as_published": "Jacklee .",
-  "credit_as_published": "Own work .",
-  "title": "File:Signboard of Union Farm Eating House, Singapore - 20110505-01.jpg",
-  "description": "One of the signboards of Union Farm Eating House, a restaurant at 435A Clementi Road , Singapore 599474, that specialized in paper-wrapped chicken. The restaurant closed in 2012.",
-  "date": "2011-05-05 15:20",
-  "categories": [
-    "Bilingual Chinese-English signs in Singapore",
-    "Place name signs in Bukit Timah",
-    "Union Farm Eating House"
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/1382582/1312/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTEub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAxOS80LzIyL3Byb2MvMTM4MjU4Ml83YjZmMl8xMzEyLmpwZw",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "grabsg",
+  "credit_as_published": "KartaView user grabsg (user id 15255); © KartaView contributors",
+  "title": "KartaView photo 391875954, sequence 1382582 #1312 (Singapore, 2019-03-26)",
+  "description": "Street-level picture on KartaView, taken 2019-03-26 near Singapore by grabsg, sequence 1382582, heading 31. OCR (PP-OCRv3) read: ROAD CLOSURE | St Andrew's Rd | THU,28MAR19 | 1.30pmto7.15pm | ACCESSTOSTAMFORDROAD | J.P.MORGANCORPORATE | CHALLENGE | HOTLINE:86013650 | ALPHARD",
+  "date": "2019-03-26",
+  "categories": [],
+  "camera_location": [
+    1.29048,
+    103.848492
   ],
-  "camera_location": null,
-  "found_by": "keyword",
-  "bytes": 686362,
-  "width": 1920,
-  "height": 1285,
-  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Signboard_of_Union_Farm_Eating_House%2C_Singapore_-_20110505-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-  "derivative": ""
+  "found_by": "kartaview-ocr:Singapore",
+  "bytes": 418926,
+  "width": 1280,
+  "height": 960,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTEub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAxOS80LzIyL3Byb2MvMTM4MjU4Ml83YjZmMl8xMzEyLmpwZw",
+  "derivative": "crop 594,225,1874,1185 of the 3072x1728 full-size processed (blurred) picture"
 }

@@ -1,25 +1,26 @@
 {
   "source": "commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Temple_St_street_sign.JPG",
-  "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Temple_St_street_sign.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-  "license_as_published": "CC BY-SA 3.0",
-  "license_url_as_published": "http://creativecommons.org/licenses/by-sa/3.0/",
-  "author_as_published": "Kimchi.sg .",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Signboard-Masjid_Petempatan_Melayu_Sembawang.jpg",
+  "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Signboard-Masjid_Petempatan_Melayu_Sembawang.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author_as_published": "Dekoelie",
   "credit_as_published": "Own work",
-  "title": "File:Temple St street sign.JPG",
-  "description": "A street sign on Temple Street , Singapore , showing a Chinatown motif.",
-  "date": "25 February 2006, 19:13 (according to Ex",
+  "title": "File:Signboard-Masjid Petempatan Melayu Sembawang.jpg",
+  "description": "Masjid Petempatan Melayu Sembawang Mosque, an old generation mosque in built in 1970.",
+  "date": "2021-12-18 09:18:00",
   "categories": [
-    "Bilingual Chinese-English signs in Singapore",
-    "Bilingual street signs",
-    "Street signs in Singapore",
-    "Temple Street, Singapore"
+    "Masjid Pertempatan Melayu Sembawang",
+    "Place name signs in Singapore"
   ],
-  "camera_location": null,
+  "camera_location": [
+    1.459041,
+    103.841667
+  ],
   "found_by": "keyword",
-  "bytes": 508243,
+  "bytes": 754164,
   "width": 1920,
   "height": 1440,
-  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Temple_St_street_sign.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Signboard-Masjid_Petempatan_Melayu_Sembawang.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
   "derivative": ""
 }

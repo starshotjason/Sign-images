@@ -1,0 +1,162 @@
+{
+ "c4107261": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Welcome to BEQUIA",
+    "lang": "en"
+   },
+   {
+    "text": "Island of Clouds",
+    "lang": "en"
+   },
+   {
+    "text": "POPULATION APPROX: 6000",
+    "lang": "en"
+   },
+   {
+    "text": "FIRST SETTLED BY THE ARAWAKS",
+    "lang": "en"
+   },
+   {
+    "text": "AREA: 7 sq. MILES",
+    "lang": "en"
+   },
+   {
+    "text": "Sponsored By: Rotaract Bequia, Caribbean Conservation Association",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Bequia",
+   "type": "place"
+  },
+  "difficulty": "medium",
+  "notes": "Weathered island welcome billboard over a beach photo, decorative outlined lettering; dim overcast exposure. Bullet points are round dots."
+ },
+ "c65376320": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Welcome to",
+    "lang": "en"
+   },
+   {
+    "text": "FORT CHARLOTTE",
+    "lang": "en"
+   },
+   {
+    "text": "BACKGROUND / HISTORY",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Fort Charlotte",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Tourism history board at Fort Charlotte, Kingstown, with two cannon pictures; only the header is transcribed — five paragraphs of history follow (includes 'Queen Charlottle' and 'headquaters' typos on the board). SVG tourism and heritage logos in the corners."
+ },
+ "c5008818": {
+  "accept": false,
+  "reason": "scan of a Russian presidential decree document, not a sign photo"
+ },
+ "c9804028": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Welcome To Union Island",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Union Island",
+   "type": "place"
+  },
+  "difficulty": "easy",
+  "notes": "Blue welcome board at Union Island airport. Distractors: small 'FORT HILL / HISTORICAL SITE' arrow sign and a 'TOBAGO CAYS MARINE PARK / Welcomes you to / UNION ISLAND' billboard at right (same template as c132732925)."
+ },
+ "c129490604": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Welcome to",
+    "lang": "en"
+   },
+   {
+    "text": "St.Vincent",
+    "lang": "en"
+   },
+   {
+    "text": "& The Grenadines",
+    "lang": "en"
+   },
+   {
+    "text": "www.svgkct.com / www.discoversvg.com",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "Saint Vincent and the Grenadines",
+   "type": "place"
+  },
+  "difficulty": "easy",
+  "notes": "Port Authority welcome billboard with photo roundels, national flag and an inset map of the islands at right (tiny map labels such as KINGSTOWN, Bequia, Mustique are distractors). Logos: 'St.Vincent and The Grenadines' tourism, 'St.Vincent and the Grenadines Port Authority' seal."
+ },
+ "c132732925": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "TOBAGO CAYS MARINE PARK",
+    "lang": "en"
+   },
+   {
+    "text": "Welcomes you to",
+    "lang": "en"
+   },
+   {
+    "text": "MAYREAU",
+    "lang": "en"
+   },
+   {
+    "text": "Come visit this magical place",
+    "lang": "en"
+   },
+   {
+    "text": "and forget the world exists.",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Mayreau",
+   "type": "place"
+  },
+  "difficulty": "easy",
+  "notes": "Tourism billboard at Saline Bay, Mayreau, over an aerial photo of the Tobago Cays; the bottom script lines are slanted."
+ }
+}

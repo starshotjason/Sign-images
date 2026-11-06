@@ -392,5 +392,29 @@
   },
   "difficulty": "easy",
   "notes": "Green mosque board with white minaret/dome drawing, Sembawang; address line uses JLN (Jalan) and S'PORE abbreviations."
+ },
+ "c27470529": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Lornie Rd",
+    "lang": "en"
+   },
+   {
+    "text": "Adam Rd",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Adam Road",
+   "type": "street"
+  },
+  "difficulty": "medium",
+  "notes": "Green double-blade street sign at the Lornie Road / Adam Road junction, mid-distance. Blue 'Left Turn On Red' traffic sign is a distractor."
  }
 }

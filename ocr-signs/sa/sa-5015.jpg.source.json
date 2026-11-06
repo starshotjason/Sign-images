@@ -1,7 +1,7 @@
 {
   "source": "flickr",
   "source_url": "https://www.flickr.com/photos/53702292@N05/6774914765",
-  "original_url": "https://live.staticflickr.com/7156/6774914765_528c2d415e_o.jpg",
+  "original_url": "https://live.staticflickr.com/7156/6774914765_e3bc124623_b.jpg",
   "license_as_published": "CC BY 2.0",
   "license_url_as_published": "https://creativecommons.org/licenses/by/2.0/",
   "author_as_published": "Almas Baig",
@@ -37,16 +37,6 @@
   "bytes": 512226,
   "width": 2133,
   "height": 1335,
-  "downloaded_url": "https://live.staticflickr.com/7156/6774914765_528c2d415e_o.jpg",
-  "derivative": "",
-  "flickr": {
-    "flickr_url": "https://www.flickr.com/photos/53702292@N05/6774914765",
-    "flickr_license": "CC BY 2.0",
-    "lat": null,
-    "lon": null,
-    "original_url": "https://live.staticflickr.com/7156/6774914765_528c2d415e_o.jpg",
-    "flickr_license_code": 4,
-    "retrieved": "2026-11-06T14:25:13.290062+00:00"
-  },
-  "openverse_id": "8b807f11-c3d2-4eea-9592-7ad915650a99"
+  "downloaded_url": "https://live.staticflickr.com/7156/6774914765_e3bc124623_b.jpg",
+  "derivative": ""
 }

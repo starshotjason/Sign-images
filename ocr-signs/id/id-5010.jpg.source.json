@@ -1,0 +1,39 @@
+{
+  "source": "flickr",
+  "source_url": "https://www.flickr.com/photos/12341295@N04/1753044216",
+  "original_url": "https://live.staticflickr.com/2115/1753044216_96184e253a_o.jpg",
+  "license_as_published": "CC BY 2.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by/2.0/",
+  "author_as_published": "diana does",
+  "credit_as_published": "\"PICT0053\" by diana does is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/.",
+  "title": "PICT0053",
+  "description": "",
+  "date": "",
+  "categories": [
+    "eid",
+    "family",
+    "indonesia",
+    "jakarta",
+    "kids",
+    "peace",
+    "sign",
+    "street"
+  ],
+  "camera_location": null,
+  "found_by": "openverse:Jakarta street sign",
+  "bytes": 198507,
+  "width": 1024,
+  "height": 768,
+  "downloaded_url": "https://api.openverse.org/v1/images/57361619-2c8c-4232-aa31-3f62c6472095/thumb/?full_size=true&compressed=false",
+  "derivative": "Flickr's published 1024 px 'large' rendition, served by the Openverse image API (Flickr originals were throttled for this client)",
+  "flickr": {
+    "flickr_url": "https://www.flickr.com/photos/12341295@N04/1753044216",
+    "flickr_license": "CC BY 2.0",
+    "lat": null,
+    "lon": null,
+    "original_url": "https://live.staticflickr.com/2115/1753044216_96184e253a_o.jpg",
+    "flickr_license_code": 4,
+    "retrieved": "2026-11-06T14:48:15.846918+00:00"
+  },
+  "openverse_id": "57361619-2c8c-4232-aa31-3f62c6472095"
+}

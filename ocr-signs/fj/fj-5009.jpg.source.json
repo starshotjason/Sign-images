@@ -1,26 +1,25 @@
 {
   "source": "commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Nausori_Airport_sign.jpg",
-  "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Nausori_Airport_sign.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Bakery_Lomaloma.jpg",
+  "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Bakery_Lomaloma.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
   "license_as_published": "CC BY-SA 4.0",
   "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0",
-  "author_as_published": "OhanaUnited Talk page",
+  "author_as_published": "Jaejay77",
   "credit_as_published": "Own work",
-  "title": "File:Nausori Airport sign.jpg",
-  "description": "Sign at the Nausori International Airport",
-  "date": "2019-10-14 17:42:49",
+  "title": "File:Bakery Lomaloma.jpg",
+  "description": "Bakery on Lomaloma, Vanua Balavu, Fiji.",
+  "date": "2014-04-28 14:15:52",
   "categories": [
-    "Nausori International Airport",
-    "Signs in Fiji"
+    "Bakeries",
+    "Shops in Fiji",
+    "Signs in Fiji",
+    "Vanua Balavu"
   ],
-  "camera_location": [
-    -18.046745,
-    178.556665
-  ],
+  "camera_location": null,
   "found_by": "keyword",
-  "bytes": 379395,
+  "bytes": 755338,
   "width": 1920,
-  "height": 1821,
-  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Nausori_Airport_sign.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "height": 1272,
+  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Bakery_Lomaloma.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
   "derivative": ""
 }

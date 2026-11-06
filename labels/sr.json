@@ -1,0 +1,376 @@
+{
+ "c68283450": {
+  "accept": false,
+  "reason": "museum display of an old enamel advertisement ('Agenten voor Swift & Company / Reuzel, Vleeschwaren, Enz.') with decorative plantation name plates; an advert, not a findable place"
+ },
+ "c124666701": {
+  "accept": false,
+  "reason": "no-urinating pictogram with fine ('BOETE 3500'); no place name"
+ },
+ "c124666705": {
+  "accept": false,
+  "reason": "no-urinating pictogram with fine, same sign as c124666701"
+ },
+ "c124738363": {
+  "accept": true,
+  "reason": "",
+  "kind": "hard",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "Rosebel Mine site 20 km",
+    "lang": "en"
+   },
+   {
+    "text": "Nieuw Koffiekamp 21 km",
+    "lang": "nl"
+   },
+   {
+    "text": "Brownsweg 18 km",
+    "lang": "nl"
+   },
+   {
+    "text": "Atjonie 94 km",
+    "lang": "nl"
+   }
+  ],
+  "expect": {
+   "query": "Brownsweg",
+   "type": "place"
+  },
+  "difficulty": "hard",
+  "notes": "Weathered company billboard on the Afobakaweg with four arrow-shaped direction panels over a photo of smiling workers (photo faces are part of the print, not the subject). Seen from the roadside at a distance. Distractors: 'PLEASE DRIVE SAFE' tag, 'Supporting our community' strip, a small 'BROWNSWEG' fingerpost at far left and partly hidden boards below ('...ier Plant...')."
+ },
+ "c124570317": {
+  "accept": false,
+  "reason": "airport building name cut off at the frame edge ('...AIRPORT'); remaining banner is a slogan ('Welcome to Suriname / The most forested country in the world')"
+ },
+ "c151549327": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "PARAMARIBO | Historic Inner City | Historische Binnenstad",
+    "lang": "nl"
+   },
+   {
+    "text": "Fort Zeelandia",
+    "lang": "nl"
+   },
+   {
+    "text": "De geschiedenis van een Fort",
+    "lang": "nl"
+   },
+   {
+    "text": "Tale of a Fortress",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Fort Zeelandia",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Tall bilingual Dutch/English heritage board at Fort Zeelandia, Paramaribo (UNESCO World Heritage logos top right: 'PATRIMOINE MONDIAL / WORLD HERITAGE / WERELDERFGOED'). Only the headers are transcribed; long body text and a small site map ('Plattegrond / Map of Fort Zeelandia', 'SURINAMERIVIER') follow."
+ },
+ "c10778006": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "KWAKOEPLEIN",
+    "lang": "nl"
+   }
+  ],
+  "expect": {
+   "query": "Kwakoeplein",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "White wooden cross-bar street sign with black stencilled letters in Paramaribo, shot from below against the sky."
+ },
+ "c10821353": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "UITKIJK 26",
+    "lang": "nl"
+   },
+   {
+    "text": "GRONINGEN 43",
+    "lang": "nl"
+   },
+   {
+    "text": "CORONIE 138",
+    "lang": "nl"
+   },
+   {
+    "text": "NICKERIE 237",
+    "lang": "nl"
+   },
+   {
+    "text": "LEONSBERG 9",
+    "lang": "nl"
+   },
+   {
+    "text": "MEERZORG 3",
+    "lang": "nl"
+   },
+   {
+    "text": "MOENGO 96",
+    "lang": "nl"
+   },
+   {
+    "text": "ALBINA 141",
+    "lang": "nl"
+   }
+  ],
+  "expect": {
+   "query": "Nickerie",
+   "type": "place"
+  },
+  "difficulty": "medium",
+  "notes": "Old hand-lettered distance fingerpost in central Paramaribo (left board westbound, right board eastbound, km). Top lines are faded and the right board is partly in shadow. A third board above is edge-on. Distractors: 'GARAGE DE PAARL' van, red '...SS ...RIVAP...' shop lettering behind, traffic in front."
+ },
+ "c9797647": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "KOFI-DJOMPO",
+    "lang": "nl"
+   },
+   {
+    "text": "LELYDORP",
+    "lang": "nl"
+   }
+  ],
+  "expect": {
+   "query": "Lelydorp",
+   "type": "place"
+  },
+  "difficulty": "medium",
+  "notes": "Weathered white place-name board on a roadside frame at Lelydorp (Kofi-Djompo is the local name). Distractors: yellow LOTTO billboard ('VOLGENDE JACKPOT SRD. 450.000'), 'drempel' sign, pedestrian and traffic incidental."
+ },
+ "c10778198": {
+  "accept": false,
+  "reason": "near-duplicate of c10821353 (same Paramaribo distance fingerpost, wider view)"
+ },
+ "c68283434": {
+  "accept": true,
+  "reason": "",
+  "kind": "street sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "EMMASTRAAT",
+    "lang": "nl"
+   }
+  ],
+  "expect": {
+   "query": "Emmastraat",
+   "type": "street"
+  },
+  "difficulty": "easy",
+  "notes": "Yellow wooden street board with black stencilled letters on a concrete post near Fort Nieuw Amsterdam; a full rubbish rack beside it."
+ },
+ "c68283355": {
+  "accept": true,
+  "reason": "",
+  "kind": "building tag",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "INSPEKTIE DER DIREKTE",
+    "lang": "nl"
+   },
+   {
+    "text": "BELASTINGEN",
+    "lang": "nl"
+   },
+   {
+    "text": "ONTVANGER DER DIREKTE",
+    "lang": "nl"
+   },
+   {
+    "text": "BELASTINGEN",
+    "lang": "nl"
+   }
+  ],
+  "expect": {
+   "query": "Belastingen",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Two raised-letter name panels on the tax office in Nieuw Nickerie (upper on the first-floor parapet, lower over the entrance). Small 'NO SMOKING' sign on the door."
+ },
+ "c68283362": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn",
+   "Arab"
+  ],
+  "lines": [
+   {
+    "text": "Vleeswinkel Hasanradja",
+    "lang": "nl"
+   },
+   {
+    "text": "حلال",
+    "lang": "ar",
+    "latin": "halal"
+   },
+   {
+    "text": "Halal",
+    "lang": "nl"
+   },
+   {
+    "text": "Gouverneurstraat no 96",
+    "lang": "nl"
+   },
+   {
+    "text": "openingstijden: ma-za. 8u s'morgens",
+    "lang": "nl"
+   },
+   {
+    "text": "Tel: (597) 232340/8796450",
+    "lang": "und"
+   }
+  ],
+  "expect": {
+   "query": "Gouverneurstraat",
+   "type": "addr"
+  },
+  "difficulty": "medium",
+  "notes": "Hand-painted butcher's shop fascia in Nieuw Nickerie with crescent moons and a halal roundel. The opening-hours line is cut off at the air-conditioner on the right; a longer painted paragraph on the wall is partly hidden by a column. 'Juwelier Ramdaran Avinash' gilt window lettering is a distractor (partly hidden)."
+ },
+ "c10721126": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "NOLA HATTERMAN INSTITUUT",
+    "lang": "nl"
+   },
+   {
+    "text": "C.C.V. CULTURELE EN CREATIEVE VORMING",
+    "lang": "nl"
+   }
+  ],
+  "expect": {
+   "query": "Nola Hatterman Instituut",
+   "type": "poi"
+  },
+  "difficulty": "easy",
+  "notes": "Rustic plank sign with white stencilled letters and a brass-lettered strip below, at the art academy in Paramaribo; red wagon-wheel hay rake beside it."
+ },
+ "c62085932": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "SYNAGOGE BERACHA",
+    "lang": "nl"
+   },
+   {
+    "text": "VE SHALOM",
+    "lang": "nl"
+   },
+   {
+    "text": "SYNAGOGUE BERACHA",
+    "lang": "en"
+   },
+   {
+    "text": "VE SHALOM",
+    "lang": "en"
+   }
+  ],
+  "expect": {
+   "query": "Beracha ve Shalom",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Bilingual Dutch/English heritage board at the synagogue ruin in Jodensavanne; only the two headers are transcribed. Body text, captions ('...Beracha ve Shalom, oftewel Zegen en Vrede.'), 'Stichting Jodensavanne' and World Monuments Fund footer follow. Board is stained and has stray bullet-like holes."
+ },
+ "c62085933": {
+  "accept": false,
+  "reason": "near-duplicate of c62085932 (second panel of the same Beracha ve Shalom board)"
+ },
+ "c4165966": {
+  "accept": true,
+  "reason": "",
+  "kind": "business sign",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "ZOUTVLEES",
+    "lang": "nl"
+   },
+   {
+    "text": "PARADYS",
+    "lang": "nl"
+   }
+  ],
+  "expect": {
+   "query": "Zoutvlees Paradys",
+   "type": "poi"
+  },
+  "difficulty": "medium",
+  "notes": "Hand-painted hanging stall sign (pig, star, palm-tree drawings) at the Paramaribo market; 'PARADYS' uses the Surinamese Y for IJ. Distractors: smaller 'ZOUTVLEES' boards, A-frame 'GEACHTE KLANTEN HIER IS SOWTU' and a second A-frame with small text; vendors and passers-by incidental."
+ },
+ "c66722716": {
+  "accept": true,
+  "reason": "",
+  "kind": "landmark",
+  "scripts": [
+   "Latn"
+  ],
+  "lines": [
+   {
+    "text": "UITKIJK",
+    "lang": "nl"
+   }
+  ],
+  "expect": {
+   "query": "Uitkijk",
+   "type": "place"
+  },
+  "difficulty": "easy",
+  "notes": "1947 black-and-white photo of the plantation name board of Uitkijk on the Saramacca river, framed on two posts, with a wooden church behind."
+ }
+}

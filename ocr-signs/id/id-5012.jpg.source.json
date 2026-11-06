@@ -1,0 +1,41 @@
+{
+  "source": "flickr",
+  "source_url": "https://www.flickr.com/photos/94064020@N00/6231373181",
+  "original_url": "https://live.staticflickr.com/6236/6231373181_1cbbf88990_o.jpg",
+  "license_as_published": "CC BY 2.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by/2.0/",
+  "author_as_published": "JasonParis",
+  "credit_as_published": "\"Echo Beach (Canggu District)\" by JasonParis is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/.",
+  "title": "Echo Beach (Canggu District)",
+  "description": "",
+  "date": "",
+  "categories": [
+    "bali",
+    "beach",
+    "canggu",
+    "echobeach",
+    "indonesia",
+    "motorbike",
+    "sign"
+  ],
+  "camera_location": [
+    -8.652432,
+    115.122642
+  ],
+  "found_by": "openverse:Bali restaurant sign",
+  "bytes": 181744,
+  "width": 1024,
+  "height": 768,
+  "downloaded_url": "https://api.openverse.org/v1/images/a0dd45f1-4abf-4ee7-8343-799914513c43/thumb/?full_size=true&compressed=false",
+  "derivative": "Flickr's published 1024 px 'large' rendition, served by the Openverse image API (Flickr originals were throttled for this client)",
+  "flickr": {
+    "flickr_url": "https://www.flickr.com/photos/94064020@N00/6231373181",
+    "flickr_license": "CC BY 2.0",
+    "lat": -8.652432,
+    "lon": 115.122642,
+    "original_url": "https://live.staticflickr.com/6236/6231373181_1cbbf88990_o.jpg",
+    "flickr_license_code": 4,
+    "retrieved": "2026-11-06T14:48:27.615401+00:00"
+  },
+  "openverse_id": "a0dd45f1-4abf-4ee7-8343-799914513c43"
+}

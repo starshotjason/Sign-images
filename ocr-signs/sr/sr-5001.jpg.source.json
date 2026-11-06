@@ -1,25 +1,26 @@
 {
   "source": "commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Plantage_Frederiksdorp013_(8195000907).jpg",
-  "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Plantage_Frederiksdorp013_%288195000907%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-  "license_as_published": "CC BY 2.0",
-  "license_url_as_published": "https://creativecommons.org/licenses/by/2.0",
-  "author_as_published": "tjabeljan",
-  "credit_as_published": "Plantage Frederiksdorp013",
-  "title": "File:Plantage Frederiksdorp013 (8195000907).jpg",
-  "description": "Plantage Frederiksdorp013",
-  "date": "2012-09-15 13:34",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Verkeersbord,_Afobakaweg.jpg",
+  "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Verkeersbord%2C_Afobakaweg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author_as_published": "Ymnes",
+  "credit_as_published": "Own work",
+  "title": "File:Verkeersbord, Afobakaweg.jpg",
+  "description": "Verkeersbord aan de Afobakaweg",
+  "date": "2022-10-16",
   "categories": [
-    "Butcher's shops in Suriname",
-    "Dutch language in Suriname",
-    "Frederiksdorp",
-    "Signs in Suriname"
+    "Afobakaweg",
+    "Street signs in Suriname"
   ],
-  "camera_location": null,
+  "camera_location": [
+    5.139615,
+    -55.074102
+  ],
   "found_by": "keyword",
-  "bytes": 485590,
+  "bytes": 944653,
   "width": 1920,
   "height": 1440,
-  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Plantage_Frederiksdorp013_%288195000907%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Verkeersbord%2C_Afobakaweg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
   "derivative": ""
 }

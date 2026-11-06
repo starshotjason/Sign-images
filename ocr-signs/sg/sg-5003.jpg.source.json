@@ -1,23 +1,26 @@
 {
-  "source": "kartaview",
-  "source_url": "https://kartaview.org/details/1382582/1322/track-info",
-  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTEub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAxOS80LzIyL3Byb2MvMTM4MjU4Ml83YjZmMl8xMzIyLmpwZw",
+  "source": "commons",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Little_India_-_Buffalo_Road_street_signs.jpg",
+  "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Little_India_-_Buffalo_Road_street_signs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
   "license_as_published": "CC BY-SA 4.0",
-  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
-  "author_as_published": "grabsg",
-  "credit_as_published": "KartaView user grabsg (user id 15255); © KartaView contributors",
-  "title": "KartaView photo 391876042, sequence 1382582 #1322 (Singapore, 2019-03-26)",
-  "description": "Street-level picture on KartaView, taken 2019-03-26 near Singapore by grabsg, sequence 1382582, heading 30. OCR (PP-OCRv3) read: TRAFFIC ADVISORY | ParliamentPlace | (SupremeCourtLane) | Congestionexpected. | AccessonlyforTheAdelphi | and NationalGallerySingapore | SUN,31Mar2019 | 5.00amto12.30pm | URA CarFree Weekend SG | Hotline:8809 3482 | Canning Rise (Part)Closed | Use Fort Canning Rd",
-  "date": "2019-03-26",
-  "categories": [],
-  "camera_location": [
-    1.29081,
-    103.848664
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author_as_published": "Orderinchaos",
+  "credit_as_published": "Own work",
+  "title": "File:Little India - Buffalo Road street signs.jpg",
+  "description": "Ornate \"Buffalo Road\" street sign (and its translation \"பஃப்ளோ சாலை\" in Tamil) in Little India, Singapore.",
+  "date": "2016-11-16 16:54:24",
+  "categories": [
+    "Bilingual English-Tamil signs in Singapore",
+    "Bilingual street signs",
+    "Buffalo Road, Singapore",
+    "Street signs in Singapore",
+    "Tamil-language street signs"
   ],
-  "found_by": "kartaview-ocr:Singapore",
-  "bytes": 1104645,
-  "width": 2512,
-  "height": 1728,
-  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTEub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAxOS80LzIyL3Byb2MvMTM4MjU4Ml83YjZmMl8xMzIyLmpwZw",
-  "derivative": "crop 0,0,2512,1728 of the 3072x1728 full-size processed (blurred) picture"
+  "camera_location": null,
+  "found_by": "keyword",
+  "bytes": 869619,
+  "width": 1920,
+  "height": 1440,
+  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Little_India_-_Buffalo_Road_street_signs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "derivative": ""
 }
