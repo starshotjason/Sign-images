@@ -1,23 +1,31 @@
 {
-  "source": "kartaview",
-  "source_url": "https://kartaview.org/details/9216/72/track-info",
-  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMS5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE2LzcvMTAvcHJvYy85MjE2XzJmYmYwXzU3ODI4YmIzMWI5MzEuanBn",
-  "license_as_published": "CC BY-SA 4.0",
-  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
-  "author_as_published": "Rps333",
-  "credit_as_published": "KartaView user Rps333 (user id 78); © KartaView contributors",
-  "title": "KartaView photo 3893837, sequence 9216 #72 (Ottawa, 2016-07-10)",
-  "description": "Street-level picture on KartaView, taken 2016-07-10 near Ottawa by Rps333, sequence 9216, heading 0.41. OCR (PP-OCRv3) read: Thai-Vict | 666 | DRUG MART | SHOPPERSDRUG",
-  "date": "2016-07-10",
-  "categories": [],
-  "camera_location": [
-    45.412416,
-    -75.693846
+  "source": "commons",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Montreal_Nuru_Massage_Parlor_Neon_Sign_(30560735210).jpg",
+  "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Montreal_Nuru_Massage_Parlor_Neon_Sign_%2830560735210%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "license_as_published": "CC BY-SA 2.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/2.0",
+  "author_as_published": "MassagePhotos",
+  "credit_as_published": "Nuru Massage Parlor Neon Sign",
+  "title": "File:Montreal Nuru Massage Parlor Neon Sign (30560735210).jpg",
+  "description": "Neon sign of Montreal Massage Nuru located at 1249 Drummond Street downtown Montreal. Night shot taken July 21st, 2016.",
+  "date": "2016-07-21 01:24",
+  "categories": [
+    "Drummond Street, Montreal",
+    "July 2016 in Montreal",
+    "Massage parlors in Montreal",
+    "Mermaids on shop signs",
+    "Neon signs in Canada",
+    "Sex clubs in Montreal",
+    "Shop signs in Montreal"
   ],
-  "found_by": "kartaview-ocr:Ottawa",
-  "bytes": 989341,
-  "width": 3423,
-  "height": 2567,
-  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMS5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE2LzcvMTAvcHJvYy85MjE2XzJmYmYwXzU3ODI4YmIzMWI5MzEuanBn",
-  "derivative": "crop 560,420,3983,2987 of the 3984x2988 full-size processed (blurred) picture"
+  "camera_location": [
+    45.498654,
+    -73.57398
+  ],
+  "found_by": "keyword",
+  "bytes": 537050,
+  "width": 1920,
+  "height": 1411,
+  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Montreal_Nuru_Massage_Parlor_Neon_Sign_%2830560735210%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "derivative": ""
 }

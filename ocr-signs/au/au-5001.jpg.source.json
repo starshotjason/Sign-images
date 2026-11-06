@@ -1,23 +1,28 @@
 {
-  "source": "kartaview",
-  "source_url": "https://kartaview.org/details/1361320/105/track-info",
-  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTEub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAxOS80LzEvcHJvYy8xMzYxMzIwXzFfZmUwZTFfNDIuanBn",
+  "source": "commons",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Chester_Street_Heritage_Area_Sign.jpg",
+  "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Chester_Street_Heritage_Area_Sign.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
   "license_as_published": "CC BY-SA 4.0",
-  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
-  "author_as_published": "andy-to",
-  "credit_as_published": "KartaView user andy-to (user id 18271); © KartaView contributors",
-  "title": "KartaView photo 377270220, sequence 1361320 #105 (Sydney, 2019-04-01)",
-  "description": "Street-level picture on KartaView, taken 2019-04-01 near Sydney by andy-to, sequence 1361320, heading 217.99. OCR (PP-OCRv3) read: BALLET | pera House | CKS COFFEE | ElizabethSt | PARK | IVERPOOU",
-  "date": "2019-04-01",
-  "categories": [],
-  "camera_location": [
-    -33.873444,
-    151.210047
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author_as_published": "Commemorative1",
+  "credit_as_published": "Own work",
+  "title": "File:Chester Street Heritage Area Sign.jpg",
+  "description": "A sign in Chester St, Subiaco, with a City of Subiaco Heritage Area sign beneath it.",
+  "date": "2023-03-24 11:58:48",
+  "categories": [
+    "Heritage of Australia",
+    "March 2023 in Perth, Western Australia",
+    "Street signs in the City of Subiaco",
+    "Subiaco, Western Australia"
   ],
-  "found_by": "kartaview-ocr:Sydney",
-  "bytes": 267980,
+  "camera_location": [
+    -31.954519,
+    115.826436
+  ],
+  "found_by": "keyword",
+  "bytes": 2278606,
   "width": 1920,
-  "height": 1080,
-  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTEub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAxOS80LzEvcHJvYy8xMzYxMzIwXzFfZmUwZTFfNDIuanBn",
-  "derivative": "whole 1920x1080 full-size processed (blurred) picture as served by the KartaView CDN (byte-identical; the service blurs faces and number plates), not cropped"
+  "height": 2550,
+  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Chester_Street_Heritage_Area_Sign.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "derivative": ""
 }

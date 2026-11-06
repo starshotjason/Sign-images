@@ -1,23 +1,29 @@
 {
-  "source": "kartaview",
-  "source_url": "https://kartaview.org/details/9537/1438/track-info",
-  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMS5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE2LzcvMTUvcHJvYy85NTM3XzgxNjEwXzU3ODgyY2FhNzc1YzguanBn",
+  "source": "commons",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Willie%27s_Bakery_sign,_Victoria,_British_Columbia,_Canada_28.jpg",
+  "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Willie%27s_Bakery_sign%2C_Victoria%2C_British_Columbia%2C_Canada_28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
   "license_as_published": "CC BY-SA 4.0",
-  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
-  "author_as_published": "LogicalViolinist",
-  "credit_as_published": "KartaView user LogicalViolinist (user id 80); © KartaView contributors",
-  "title": "KartaView photo 4237731, sequence 9537 #1438 (Ottawa, 2016-07-14)",
-  "description": "Street-level picture on KartaView, taken 2016-07-14 near Ottawa by LogicalViolinist, sequence 9537, heading 1.4. OCR (PP-OCRv3) read: WIN | WINNEIS | WINNERS | INNER | WINNERS | WINNERS | WINNERS | VINNERS | WINNE",
-  "date": "2016-07-14",
-  "categories": [],
-  "camera_location": [
-    45.422057,
-    -75.699406
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author_as_published": "Michal Klajban",
+  "credit_as_published": "Own work",
+  "title": "File:Willie's Bakery sign, Victoria, British Columbia, Canada 28.jpg",
+  "description": "Willie's Bakery sign on the wall of Willie's Bakery Building, Victoria, British Columbia, Canada",
+  "date": "2018-05-27 22:14:50",
+  "categories": [
+    "Brick walls in Canada",
+    "May 2018 in Victoria, British Columbia",
+    "Signs in Victoria, British Columbia",
+    "Walls in British Columbia",
+    "Willie's Bakery"
   ],
-  "found_by": "kartaview-ocr:Ottawa",
-  "bytes": 404059,
-  "width": 1518,
-  "height": 1139,
-  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMS5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE2LzcvMTUvcHJvYy85NTM3XzgxNjEwXzU3ODgyY2FhNzc1YzguanBn",
-  "derivative": "crop 1073,308,2591,1447 of the 2592x1944 full-size processed (blurred) picture"
+  "camera_location": [
+    48.427533,
+    -123.369239
+  ],
+  "found_by": "keyword",
+  "bytes": 1192335,
+  "width": 1920,
+  "height": 1566,
+  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Willie%27s_Bakery_sign%2C_Victoria%2C_British_Columbia%2C_Canada_28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "derivative": ""
 }

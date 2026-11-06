@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/1361320/105/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTEub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAxOS80LzEvcHJvYy8xMzYxMzIwXzFfZmUwZTFfNDIuanBn",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "andy-to",
+  "credit_as_published": "KartaView user andy-to (user id 18271); © KartaView contributors",
+  "title": "KartaView photo 377270220, sequence 1361320 #105 (Sydney, 2019-04-01)",
+  "description": "Street-level picture on KartaView, taken 2019-04-01 near Sydney by andy-to, sequence 1361320, heading 217.99. OCR (PP-OCRv3) read: BALLET | pera House | CKS COFFEE | ElizabethSt | PARK | IVERPOOU",
+  "date": "2019-04-01",
+  "categories": [],
+  "camera_location": [
+    -33.873444,
+    151.210047
+  ],
+  "found_by": "kartaview-ocr:Sydney",
+  "bytes": 267980,
+  "width": 1920,
+  "height": 1080,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTEub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAxOS80LzEvcHJvYy8xMzYxMzIwXzFfZmUwZTFfNDIuanBn",
+  "derivative": "whole 1920x1080 full-size processed (blurred) picture as served by the KartaView CDN (byte-identical; the service blurs faces and number plates), not cropped"
+}

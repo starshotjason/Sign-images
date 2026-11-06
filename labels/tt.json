@@ -1,0 +1,235 @@
+{
+  "c57233090": {
+    "accept": false,
+    "reason": "only text is a 'NO ENTRY!' notice and a donation-box label at a Hindu temple shrine; no place name"
+  },
+  "c157018506": {
+    "accept": true,
+    "reason": "",
+    "kind": "hard",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "Halaal Village",
+        "lang": "en"
+      },
+      {
+        "text": "WHOLESALE",
+        "lang": "en"
+      },
+      {
+        "text": "& RETAIL",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Halaal Village",
+      "type": "poi"
+    },
+    "difficulty": "hard",
+    "notes": "Large printed fascia banner of a halal poultry shop in El Socorro, Trinidad (no camera location), shot from a moving car: motion blur and an oblique angle. 'Halaal Village' is in outlined script on a red arrow. A smaller line under it (looks like 'Next to El Socorro Masjid' plus a WhatsApp number) is too blurred to transcribe reliably and is omitted. Product lists ('FRESH CHICKEN / FARM DUCKS / LOCAL DUCKS / HARD FOWL', 'X-LAYERS / FRESH EGGS ...'), a red 'NO ENTRY' road sign and a chalkboard 'Farm Ducks / Local Ducks / X-LAYERS' are distractors."
+  },
+  "c157018547": {
+    "accept": false,
+    "reason": "mosque 'Sisters DRESS CODE' rules notice (NO bare heads, short pants ...); rules/warning text, the 'Nur e Islam Masjid' logo is only a small corner mark"
+  },
+  "c161232311": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "UBH",
+        "lang": "en"
+      },
+      {
+        "text": "Arima",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Arima",
+      "type": "place"
+    },
+    "difficulty": "medium",
+    "notes": "Blue overhead lane-destination panels on a pedestrian overpass across the Churchill Roosevelt Highway at El Socorro (no camera location), shot through a car windscreen. Target is the middle panel 'UBH / Arima' with an airport pictogram and down arrow (UBH = Uriah Butler Highway). Neighbouring panels: left 'UBH / Bamboo', right 'S’ Grande / Arima' (curly apostrophe, abbreviation of Sangre Grande) with airport pictogram. Distractors: a '5m' height-clearance triangle and a religious banner 'THE MAHDI HAS APPEARED' with Arabic on the railing above."
+  },
+  "c57722144": {
+    "accept": false,
+    "reason": "temple-by-the-sea view; only text is small 'DO NOT PICK FLOWERS' and 'STOP NO VE...' notices"
+  },
+  "c42112727": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "WELCOME",
+        "lang": "en"
+      },
+      {
+        "text": "TO THE",
+        "lang": "en"
+      },
+      {
+        "text": "PORT OF SCARBOROUGH",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Port of Scarborough",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "White letters painted on the red roof of the port terminal building in Scarborough, Tobago (camera 11.11, -60.44), seen from the sea at a distance; 'WELCOME TO THE' on the upper gable, 'PORT OF SCARBOROUGH' along the lower roof slope. The photographer added a small red caption 'Scarborough / Tobago / West Indies' at the top-left corner; it is an overlay, not part of the sign."
+  },
+  "c52386898": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "WELCOME",
+        "lang": "en"
+      },
+      {
+        "text": "TO KELLY",
+        "lang": "en"
+      },
+      {
+        "text": "VILLAGE",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Kelly Village",
+      "type": "place"
+    },
+    "difficulty": "medium",
+    "notes": "Green welcome panel with white letters and left/right arrows on either side of 'VILLAGE', set in a stone pillar by a shelter, Kelly Village (camera 10.5849, -61.3548); slightly soft focus, taken through a car window. The faded red fascia text on the shelter roof above is unreadable; billboards at right are cut off."
+  },
+  "c71817632": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "WELCOME TO DEBE",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Debe",
+      "type": "place"
+    },
+    "difficulty": "medium",
+    "notes": "Ornamental arch with raised serif letters spanning the main road in Debe (camera 10.2176, -61.4580), shot through a windscreen; the whole image is soft but the arch text is clear. Distractors: blurred shop signs and billboards down the street; car plates are small and incidental."
+  },
+  "c73771550": {
+    "accept": false,
+    "reason": "near-duplicate of c76055241 (same 'DEBE POPULATION-7200' town sign, seen from farther away)"
+  },
+  "c76055241": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn",
+      "Zyyy"
+    ],
+    "lines": [
+      {
+        "text": "DEBE",
+        "lang": "en"
+      },
+      {
+        "text": "POPULATION-7200",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Debe",
+      "type": "place"
+    },
+    "difficulty": "easy",
+    "notes": "Dark green town-limit board with cream letters in a green/yellow pipe frame on a grass verge in Debe (camera 10.2153, -61.4539); night flash shot, frontal and sharp. The Welcome to Debe arch (c71817632) is faintly visible far in the background; a Rotary International wheel and a blue 'PENAL' sign fragment are at the top right."
+  },
+  "c114542782": {
+    "accept": false,
+    "reason": "c.1841-45 watercolour landscape; not a photograph"
+  },
+  "c180236414": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "Aranguez Plaza",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Aranguez Plaza",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Red pylon sign with white script 'Aranguez Plaza' at the top of a tenant directory, Aranguez (no camera location). Tenant panels are distractors: 'Gift Shop', 'PSI DRUGS Ltd PHARMACY PH: 221-5292 /289-0241', 'CRAFT SHOP', 'TOY SHOP', 'General Accident', 'skin Dermatology Services', 'FLOWER Shop', 'Dr. Peter K. Baggan', 'le Bon lien BOUTIQUE', 'Dental Clinic 270-CARE', 'MEDICALHEALTH CARE LAB' (its small address reads 163 ARANGUEZ MAIN ROAD)."
+  },
+  "c50263987": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "Welcome to",
+        "lang": "en"
+      },
+      {
+        "text": "ENGLISHMAN’S BAY",
+        "lang": "en"
+      },
+      {
+        "text": "TOBAGO HOUSE OF ASSEMBLY DEPARTMENT OF TOURISM",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Englishman's Bay",
+      "type": "place"
+    },
+    "difficulty": "easy",
+    "notes": "Large white beach board with a blue title band, Englishman's Bay, Tobago (no camera location); frontal. The apostrophe is typographic (’). Below the transcribed lines is advisory text ('USERS OF THIS BEACH ARE ADVISED: THIS BEACH IS NOT PATROLLED BY LIFEGUARDS / SECURITY ...'), not transcribed. Distractors: 'TOBAGO DEPARTMENT OF TOURISM' round logo, and a weathered 'TOBAGO HOUSE OF ASSEMBLY ... WARNING DANGEROUS TREE MANCHINEEL TREE ...' board at left."
+  },
+  "c71452905": {
+    "accept": false,
+    "reason": "people at a signing ceremony are the subject; only a small 'CARIB COMMUNITY' wall sign in the background"
+  },
+  "c4357858": {
+    "accept": false,
+    "reason": "street with a church, parked cars and a no-entry roundel; no readable place text (car number plates are the clearest text)"
+  },
+  "c161231950": {
+    "accept": false,
+    "reason": "indoor information poster (stranded marine mammal guidance, phone numbers) propped on a keyboard; not a place sign"
+  }
+}

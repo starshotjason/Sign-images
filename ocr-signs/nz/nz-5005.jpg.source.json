@@ -1,23 +1,26 @@
 {
-  "source": "panoramax",
-  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=1d2018ac-8e36-412c-90dc-240e487550aa",
-  "original_url": "https://panoramax.openstreetmap.fr/images/1d/20/18/ac/8e36-412c-90dc-240e487550aa.jpg",
-  "license_as_published": "CC-BY-SA-4.0",
-  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
-  "author_as_published": "Alixun",
-  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
-  "title": "Panoramax picture 1d2018ac-8e36-412c-90dc-240e487550aa (Wellington, 2025-02-19)",
-  "description": "Street-level picture on Panoramax, taken 2025-02-19 near Wellington by Alixun, sequence 4ca8e172-c23e-4184-8ac2-f3c2002039b1, heading 165. OCR (PP-OCRv3) read: CIRCA | THEATRE | Other | PRIME",
-  "date": "2025-02-19",
-  "categories": [],
-  "camera_location": [
-    -41.2897682,
-    174.7806229
+  "source": "commons",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Signboard_Holy_Cross_Anglican_Church.jpg",
+  "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Signboard_Holy_Cross_Anglican_Church.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "license_as_published": "CC BY 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by/4.0",
+  "author_as_published": "Bjankuloski06",
+  "credit_as_published": "Own work",
+  "title": "File:Signboard Holy Cross Anglican Church.jpg",
+  "description": "Signboard for Holy Cross Anglican Church and Fellowship of Jesus Christ Methodist Church. Albany Village, Albany, Auckland, New Zealand.",
+  "date": "2024-09-24",
+  "categories": [
+    "Albany Village",
+    "Church signs in New Zealand"
   ],
-  "found_by": "panoramax-ocr:Wellington",
-  "bytes": 484124,
-  "width": 1816,
-  "height": 1362,
-  "downloaded_url": "https://panoramax.openstreetmap.fr/images/1d/20/18/ac/8e36-412c-90dc-240e487550aa.jpg",
-  "derivative": "crop 1111,0,2927,1362 of the 4080x1836 HD picture"
+  "camera_location": [
+    -36.7253801,
+    174.696155
+  ],
+  "found_by": "keyword",
+  "bytes": 1961423,
+  "width": 1920,
+  "height": 2560,
+  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Signboard_Holy_Cross_Anglican_Church.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "derivative": ""
 }

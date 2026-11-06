@@ -1,150 +1,304 @@
 {
- "k249400961": {
-  "accept": true,
-  "reason": "",
-  "kind": "business sign",
-  "scripts": [
-   "Latn"
-  ],
-  "lines": [
-   {
-    "text": "Felipe Motta",
-    "lang": "es"
-   }
-  ],
-  "expect": {
-   "query": "Felipe Motta",
-   "type": "poi"
+  "k249400961": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "Felipe Motta",
+        "lang": "es"
+      }
+    ],
+    "expect": {
+      "query": "Felipe Motta",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Purple lettering on the white fascia of a wine/liquor store across a parking lot (Panama City, wide-angle lens); a small line under the name is not legible. The empty two-storey building in the foreground and a truck with partial 'JM' lettering are distractors; a worker in a hi-vis vest is incidental."
   },
-  "difficulty": "medium",
-  "notes": "Purple lettering on the white fascia of a wine/liquor store across a parking lot (Panama City, wide-angle lens); a small line under the name is not legible. The empty two-storey building in the foreground and a truck with partial 'JM' lettering are distractors; a worker in a hi-vis vest is incidental."
- },
- "k249401021": {
-  "accept": true,
-  "reason": "",
-  "kind": "building tag",
-  "scripts": [
-   "Latn"
-  ],
-  "lines": [
-   {
-    "text": "HUMBOLDT TOWER",
-    "lang": "en"
-   }
-  ],
-  "expect": {
-   "query": "Humboldt Tower",
-   "type": "poi"
+  "k249401021": {
+    "accept": true,
+    "reason": "",
+    "kind": "building tag",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "HUMBOLDT TOWER",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Humboldt Tower",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Metal letters on the dark band above the entrance of an office tower, wide-angle fisheye distortion; a privacy-blur patch covers something on the pavement (not the sign)."
   },
-  "difficulty": "medium",
-  "notes": "Metal letters on the dark band above the entrance of an office tower, wide-angle fisheye distortion; a privacy-blur patch covers something on the pavement (not the sign)."
- },
- "k249401041": {
-  "accept": true,
-  "reason": "",
-  "kind": "hard",
-  "scripts": [
-   "Latn"
-  ],
-  "lines": [
-   {
-    "text": "Sandra's",
-    "lang": "en"
-   },
-   {
-    "text": "BOUTIQUE",
-    "lang": "en"
-   }
-  ],
-  "expect": {
-   "query": "Sandra's Boutique",
-   "type": "poi"
+  "k249401041": {
+    "accept": true,
+    "reason": "",
+    "kind": "hard",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "Sandra's",
+        "lang": "en"
+      },
+      {
+        "text": "BOUTIQUE",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Sandra's Boutique",
+      "type": "poi"
+    },
+    "difficulty": "hard",
+    "notes": "Small strip-mall fascia, low resolution and slightly blurred; 'BOUTIQUE' is tiny. Neighbouring 'Regency' and 'BATTERY GIANT' fascias are distractors; the twisted F&F Tower is in the background."
   },
-  "difficulty": "hard",
-  "notes": "Small strip-mall fascia, low resolution and slightly blurred; 'BOUTIQUE' is tiny. Neighbouring 'Regency' and 'BATTERY GIANT' fascias are distractors; the twisted F&F Tower is in the background."
- },
- "k249555427": {
-  "accept": false,
-  "reason": "main text is a sandwich advert on a pole; the salon fascia ('FACTORY ... FASHIO...') is cut and partly hidden"
- },
- "k249555467": {
-  "accept": false,
-  "reason": "casino name sign is blurred by foreground palm fronds and partly hidden; valet panel and promo poster are privacy-blurred"
- },
- "k250335003": {
-  "accept": true,
-  "reason": "",
-  "kind": "business sign",
-  "scripts": [
-   "Latn"
-  ],
-  "lines": [
-   {
-    "text": "maternité",
-    "lang": "fr"
-   },
-   {
-    "text": "SINCE 1979",
-    "lang": "en"
-   }
-  ],
-  "expect": {
-   "query": "Maternité",
-   "type": "poi"
+  "k249555427": {
+    "accept": false,
+    "reason": "main text is a sandwich advert on a pole; the salon fascia ('FACTORY ... FASHIO...') is cut and partly hidden"
   },
-  "difficulty": "medium",
-  "notes": "White lower-case letters with an acute accent on the black fascia of a maternity-wear shop, with a red heart outline over the 'r'; 'SINCE 1979' small at left. The next fascia reads 'IN MOTION' with its last part cut at the right edge (distractor). Slight motion blur; car plate blurred."
- },
- "k250652757": {
-  "accept": true,
-  "reason": "",
-  "kind": "business sign",
-  "scripts": [
-   "Latn"
-  ],
-  "lines": [
-   {
-    "text": "BANCO ALIADO",
-    "lang": "es"
-   }
-  ],
-  "expect": {
-   "query": "Banco Aliado",
-   "type": "poi"
+  "k249555467": {
+    "accept": false,
+    "reason": "casino name sign is blurred by foreground palm fronds and partly hidden; valet panel and promo poster are privacy-blurred"
   },
-  "difficulty": "medium",
-  "notes": "Dark letters along the top edge of a glass bank building, seen at an angle; a vertical logo panel at the corner repeats 'BANCO ALIADO' small. Parked pickups in the foreground are incidental."
- },
- "k250654577": {
-  "accept": false,
-  "reason": "construction-company signboard on a private property (Niño Caina Construcciones), not a mappable place"
- },
- "k250852607": {
-  "accept": false,
-  "reason": "near-duplicate of k250853467 (same hotel sign at night), more oblique"
- },
- "k250853467": {
-  "accept": true,
-  "reason": "",
-  "kind": "hard",
-  "scripts": [
-   "Latn"
-  ],
-  "lines": [
-   {
-    "text": "HOTEL R",
-    "lang": "es"
-   },
-   {
-    "text": "PLAZA PANAMA",
-    "lang": "es"
-   }
-  ],
-  "expect": {
-   "query": "Plaza Panamá",
-   "type": "poi"
+  "k250335003": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "maternité",
+        "lang": "fr"
+      },
+      {
+        "text": "SINCE 1979",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Maternité",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "White lower-case letters with an acute accent on the black fascia of a maternity-wear shop, with a red heart outline over the 'r'; 'SINCE 1979' small at left. The next fascia reads 'IN MOTION' with its last part cut at the right edge (distractor). Slight motion blur; car plate blurred."
   },
-  "difficulty": "hard",
-  "notes": "Night shot of illuminated rooftop-edge letters on a hotel; the word after 'R' is unlit/missing (only 'HOTEL R' then a gap), and the 'M' in PANAMA is dim. No accent visible. Panama flags hang in the lobby; passing cars blurred."
- }
+  "k250652757": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "BANCO ALIADO",
+        "lang": "es"
+      }
+    ],
+    "expect": {
+      "query": "Banco Aliado",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Dark letters along the top edge of a glass bank building, seen at an angle; a vertical logo panel at the corner repeats 'BANCO ALIADO' small. Parked pickups in the foreground are incidental."
+  },
+  "k250654577": {
+    "accept": false,
+    "reason": "construction-company signboard on a private property (Niño Caina Construcciones), not a mappable place"
+  },
+  "k250852607": {
+    "accept": false,
+    "reason": "near-duplicate of k250853467 (same hotel sign at night), more oblique"
+  },
+  "k250853467": {
+    "accept": true,
+    "reason": "",
+    "kind": "hard",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "HOTEL R",
+        "lang": "es"
+      },
+      {
+        "text": "PLAZA PANAMA",
+        "lang": "es"
+      }
+    ],
+    "expect": {
+      "query": "Plaza Panamá",
+      "type": "poi"
+    },
+    "difficulty": "hard",
+    "notes": "Night shot of illuminated rooftop-edge letters on a hotel; the word after 'R' is unlit/missing (only 'HOTEL R' then a gap), and the 'M' in PANAMA is dim. No accent visible. Panama flags hang in the lobby; passing cars blurred."
+  },
+  "c49985627": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn",
+      "Zyyy"
+    ],
+    "lines": [
+      {
+        "text": "RIO",
+        "lang": "es"
+      },
+      {
+        "text": "MENDOZA",
+        "lang": "es"
+      },
+      {
+        "text": "8.8 KMS",
+        "lang": "es"
+      },
+      {
+        "text": "AMINO DEL OLEODUCTO",
+        "lang": "es"
+      },
+      {
+        "text": "PARQUE NACIONAL SOBERANIA",
+        "lang": "es"
+      },
+      {
+        "text": "INRENARE",
+        "lang": "es"
+      }
+    ],
+    "expect": {
+      "query": "Río Mendoza",
+      "type": "place"
+    },
+    "difficulty": "hard",
+    "notes": "Rusty yellow trail sign on a pole beside Pipeline Road (Camino del Oleoducto), Soberanía National Park (camera 9.1599, -79.7243); small in the frame and weathered. No accent is visible on RIO or SOBERANIA on the sign. The first letter of the fourth line (presumably C of CAMINO) is covered by a white blotch, so it is transcribed as 'AMINO DEL OLEODUCTO'; the final A of SOBERANIA is partly cut by the sign edge. 'INRENARE' is the former natural-resources agency."
+  },
+  "c57018810": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "MERCADO MUNICIPAL DE BOCAS DEL TORO-ISLA COLON",
+        "lang": "es"
+      }
+    ],
+    "expect": {
+      "query": "Mercado Municipal de Bocas del Toro",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Red capital letters painted along the balcony fascia of the municipal market building, Bocas del Toro town, Isla Colón (camera 9.3418, -82.2404); frontal. No accent on COLON. Many distractor shop signs on the same facade: 'BOCAS PARTY SHOP', 'ROPA AMERICANA MICHAEL', 'MINI HELADERIA Y DULCERIA ANITA', 'Universal Com' (x3), 'BLOWER', 'RESTAURANTE TOM', 'CARIBBEAN SEAFOOD', 'REFRESQUERIA EBEN EZER', and a 'PROHIBIDO ESTACIONAR BICICLETA DENTRO DEL MERCADO' notice."
+  },
+  "c126821130": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "PANAMÁ",
+        "lang": "es"
+      }
+    ],
+    "expect": {
+      "query": "Panamá",
+      "type": "place"
+    },
+    "difficulty": "easy",
+    "notes": "Large multicoloured 3D letter sign 'PANAMÁ' (acute accent on the final A drawn as a separate block) on the waterfront by a marina in Panama City, skyline behind (no camera location; Commons category 3D letter place name signs in Panama). Small black text on the base, '#VISIT Panama' with social-media icons, is a secondary read."
+  },
+  "c17644792": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "Legumbrería José",
+        "lang": "es"
+      }
+    ],
+    "expect": {
+      "query": "Legumbrería José",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Hand-painted script lettering on a turquoise fascia of a greengrocer in Bocas del Toro province (no camera location). 'Legumbrería' in red, the i carries a slanted stroke read as an acute accent (í); 'José' in blue with a clear acute accent. Large painted fruit mural at left, no other text."
+  },
+  "c99004038": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "ESTADIO",
+        "lang": "es"
+      },
+      {
+        "text": "ARMANDO",
+        "lang": "es"
+      },
+      {
+        "text": "DELY VALDES",
+        "lang": "es"
+      }
+    ],
+    "expect": {
+      "query": "Estadio Armando Dely Valdés",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Large white 3D block letters on the facade of the football stadium in Colón (no camera location), seen at a steep angle; palm fronds partly cover the D and E of DELY. No accent on VALDES on the sign. A coat-of-arms medallion sits above."
+  },
+  "c73441685": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn",
+      "Zyyy"
+    ],
+    "lines": [
+      {
+        "text": "Comunidad de Pijibasal",
+        "lang": "es"
+      },
+      {
+        "text": "a 400mts aprox.",
+        "lang": "es"
+      }
+    ],
+    "expect": {
+      "query": "Pijibasal",
+      "type": "place"
+    },
+    "difficulty": "medium",
+    "notes": "Hand-painted wooden plank (upper right) under a tiled shelter in the Darién (no camera location); black marker letters, small hut drawings and a red arrow. Distractor planks: 'Parque Nacional Darién / 3 Kms aprox', 'Pijibasal Community / to 400 mts aprox' (faded green), 'Accommodation Restaurant / Local Guide Handicrafts' and 'Hospedaje - Alimentación / Guías locales y Art...' (partly cut)."
+  }
 }

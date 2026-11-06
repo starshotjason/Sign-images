@@ -1,0 +1,148 @@
+{
+  "c53177951": {
+    "accept": false,
+    "reason": "painted boulders reading 'CHEDDI' and 'JANET' (personal names) at the Cheddi Jagan park; not a name board, the yellow board behind is illegible, and the park's name board is already accepted (c54658877)"
+  },
+  "c54658877": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "CHEDDI JAGAN BIO-DIVERSITY PARK",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Cheddi Jagan Bio-Diversity Park",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Weathered wooden name board on two posts at Lima Sands, Essequibo coast (camera 7.2966, -58.5453). 'BIO-DIVERSITY' is in smaller letters stacked above 'PARK'; the board is faded and the photo is HDR-processed. An old boat in the foreground and a person standing in the background are incidental."
+  },
+  "c147235129": {
+    "accept": false,
+    "reason": "scanned newspaper clipping (photo of a contract signing with caption); not a sign photograph"
+  },
+  "c6780694": {
+    "accept": false,
+    "reason": "school-crossing pictogram with 'AHEAD' plate; warning only, no place name (KM 26 marker and minibus livery are not targets)"
+  },
+  "c62085610": {
+    "accept": true,
+    "reason": "",
+    "kind": "hard",
+    "scripts": [
+      "Latn",
+      "Zyyy"
+    ],
+    "lines": [
+      {
+        "text": "FORT",
+        "lang": "en"
+      },
+      {
+        "text": "1613",
+        "lang": "und"
+      },
+      {
+        "text": "KYK OVER AL",
+        "lang": "nl"
+      }
+    ],
+    "expect": {
+      "query": "Kyk-Over-Al",
+      "type": "poi"
+    },
+    "difficulty": "hard",
+    "notes": "Oval cast plaque with raised letters and peeling pale-green paint at Fort Kyk-Over-Al on the Essequibo River (no camera location; Commons categories Fort Kyk-Over-Al / Sloth Island - Barica). The lower parts of the curved bottom line are hidden by leaves; KYK, OVER and AL are readable but whether hyphens separate the words cannot be seen, so they are written with spaces. Strong mottled paint texture."
+  },
+  "c53380646": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "WELCOME TO",
+        "lang": "en"
+      },
+      {
+        "text": "MONKEY MOUNTAIN",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Monkey Mountain",
+      "type": "place"
+    },
+    "difficulty": "medium",
+    "notes": "Hand-painted orange letters on a white board between two blue posts, village welcome sign at Monkey Mountain, Region 8 (camera 4.4922, -59.6764). Board is small in the frame but legible."
+  },
+  "c56713394": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "WELCOME TO",
+        "lang": "en"
+      },
+      {
+        "text": "Anna Regina",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Anna Regina",
+      "type": "place"
+    },
+    "difficulty": "medium",
+    "notes": "White welcome board on the wall of the Anna Regina high bridge (camera 7.2626, -58.4806); 'Anna Regina' in brown script. A tiny 'Proudly sponsored by ...' line under it is unreadable and not transcribed. Distractors: the same 'Anna Regina' plate on the arch above, beer/detergent adverts and a small notice on the wall. HDR-processed."
+  },
+  "c132345511": {
+    "accept": false,
+    "reason": "1781 watercolour drawing ('A View on the River Demerary'); not a photograph"
+  },
+  "c5008725": {
+    "accept": false,
+    "reason": "scanned Russian presidential decree document; not a sign photograph"
+  },
+  "c53057456": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Latn",
+      "Zyyy"
+    ],
+    "lines": [
+      {
+        "text": "MABURA 23",
+        "lang": "en"
+      },
+      {
+        "text": "KURUPUKARI 124",
+        "lang": "en"
+      },
+      {
+        "text": "LETHEM 354",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Lethem",
+      "type": "place"
+    },
+    "difficulty": "hard",
+    "notes": "Green distance sign with an up arrow at the No 58 rest point on the Mabura road, Guyana (no camera location), seen between palm trunks; a palm frond crosses the 'MA' of MABURA and the '23', which are still readable at zoom. Distances (km) are right-aligned after each place name."
+  }
+}

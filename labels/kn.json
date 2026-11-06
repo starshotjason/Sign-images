@@ -1,0 +1,388 @@
+{
+  "c13565315": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "ALEXANDER HAMILTON",
+        "lang": "en"
+      },
+      {
+        "text": "BIRTHPLACE",
+        "lang": "en"
+      },
+      {
+        "text": "MUSEUM of",
+        "lang": "en"
+      },
+      {
+        "text": "NEVIS HISTORY",
+        "lang": "en"
+      },
+      {
+        "text": "HOUSE of ASSEMBLY:",
+        "lang": "en"
+      },
+      {
+        "text": "NEVIS ISLAND ADMINISTRATION",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Museum of Nevis History",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Green board with gold serif letters on two posts in front of the stone museum building, Charlestown, Nevis (camera 17.1405, -62.6298), seen at an angle from below. 'ALEXANDER HAMILTON' is arched over 'BIRTHPLACE'. A small white notice on the gate at left is unreadable."
+  },
+  "c54615804": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "OAEG",
+        "lang": "en"
+      },
+      {
+        "text": "ESQUIRE",
+        "lang": "en"
+      },
+      {
+        "text": "OMAX GARDNER ESQUIRE",
+        "lang": "en"
+      },
+      {
+        "text": "(REAL ESTATE DIVISION)",
+        "lang": "en"
+      },
+      {
+        "text": "FORT STREET PLAZA",
+        "lang": "en"
+      },
+      {
+        "text": "Cherisse & Kristal Gardner Foundation",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Fort Street Plaza",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Maroon fascia sign hung under the balcony of a three-storey wooden building on Fort Street, Basseterre (camera 17.2955, -62.7238), seen at a steep angle. Left panel is an interlocked monogram (read as O/A/E/G) over 'ESQUIRE'; the monogram reading is uncertain. Distractors: pink 'LIME' street banner, an event banner, 'Fort Street Ice cream Parlour' and 'Daily Basics' shop signs. Pedestrians and a van with a plate are incidental."
+  },
+  "c54616217": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "NATIONAL CARIBBEAN INSURANCE CO. LTD.",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "National Caribbean Insurance",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "White panel with dark green letters across the facade of a pink three-storey building on Church Street, Basseterre (camera 17.2950, -62.7250); frontal. Parked cars in the foreground."
+  },
+  "c54616243": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "MIDDLE ISLAND ANGLICAN CHURCH",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Middle Island Anglican Church",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Trilingual 'Explore St. Kitts' heritage board in front of the church, Middle Island, St. Thomas parish (camera 17.3271, -62.8144), shot through a car window behind a green railing. Only the title is transcribed; below it are three paragraphs (English, French, Spanish) about Sir Thomas Warner and Samuel Jefferson, partly hidden by the railing. 'EXPLORE St. Kitts' logo at top left."
+  },
+  "c32830709": {
+    "accept": false,
+    "reason": "airport name letters 'VANCE W. AMORY INTERNATIONAL AIRPORT' photographed from behind, so all text is mirror-reversed; not usable as OCR ground truth"
+  },
+  "c36259963": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn",
+      "Zyyy"
+    ],
+    "lines": [
+      {
+        "text": "CENTRAL",
+        "lang": "en"
+      },
+      {
+        "text": "GUEST HOUSE",
+        "lang": "en"
+      },
+      {
+        "text": "AND",
+        "lang": "en"
+      },
+      {
+        "text": "APARTMENTS",
+        "lang": "en"
+      },
+      {
+        "text": "TEL: 465 2278 / 465 4062 / 663 5756",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Central Guest House",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Hanging white sign with red frame on a bracket off the balcony of a wooden house in Basseterre (no camera location); seen from below at an angle. Phone digits are small; '2278' could be '2276' at this resolution. The suitcase on the pavement is incidental."
+  },
+  "c36259982": {
+    "accept": false,
+    "reason": "biography board 'HON. E.O CHALLENGER ... A LEGISLATOR ARCHAEOLOGIST ...' at the International House Museum; describes a person, and the site's name board is accepted from c36259984"
+  },
+  "c36259983": {
+    "accept": false,
+    "reason": "painted portrait mural of Edgar Challenger with 'HISTORIAN / BORN 29TH.NOV.1905 / DIED 28 NOV. 2000'; a person's face is the subject, no place name"
+  },
+  "c36259984": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "INTERNATIONAL",
+        "lang": "en"
+      },
+      {
+        "text": "HOUSE",
+        "lang": "en"
+      },
+      {
+        "text": "MUSEUM",
+        "lang": "en"
+      },
+      {
+        "text": "AND",
+        "lang": "en"
+      },
+      {
+        "text": "EDGAR",
+        "lang": "en"
+      },
+      {
+        "text": "CHALLENGER",
+        "lang": "en"
+      },
+      {
+        "text": "LIBRARY",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "International House Museum",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Hand-painted multicoloured board on a wall in Basseterre (no camera location); each line in a different colour and font. Flag labels on the right ('UNION JACK', 'STATEHOOD FLAG', 'NATIONAL FLAG') and the lower board 'HISTORICAL & CULTURAL & EDUCATIONAL RESEARCH + DOCUMENT UNIVERSITY' are distractors, as are the painted portrait boards at left with name plates 'EDGAR OSCAR CHALLENGER' and 'EDGAR WINSTON ZACK / CHALLENGER NISBETT'."
+  },
+  "c112213201": {
+    "accept": false,
+    "reason": "1875 pen drawing of Basseterre harbour; not a photograph"
+  },
+  "c5009567": {
+    "accept": false,
+    "reason": "scanned Russian presidential decree document; not a sign photograph"
+  },
+  "c59101870": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "More Shops - National Museum - Historic Basseterre",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "National Museum",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Green overhead arch sign with white condensed letters and up-arrows at each end, over the pedestrian walkway at Port Zante, Basseterre (no camera location). Distractors: 'COFFEE SHOP' giant-cup sign at left, 'DUTY FREE' awnings at right, a brand list board."
+  },
+  "c59101874": {
+    "accept": true,
+    "reason": "",
+    "kind": "building tag",
+    "scripts": [
+      "Latn",
+      "Zyyy"
+    ],
+    "lines": [
+      {
+        "text": "THE JUDICIAL AND LEGAL COMPLEX",
+        "lang": "en"
+      },
+      {
+        "text": "WAS OFFICIALLY OPENED ON MAY 21, 1998",
+        "lang": "en"
+      },
+      {
+        "text": "BY",
+        "lang": "en"
+      },
+      {
+        "text": "THE PRIME MINISTER OF ST. KITTS AND NEVIS",
+        "lang": "en"
+      },
+      {
+        "text": "DR. THE HON. DENZIL LLEWELLYN DOUGLAS.",
+        "lang": "en"
+      },
+      {
+        "text": "THIS COMPLEX STANDS ON THE SITE OF",
+        "lang": "en"
+      },
+      {
+        "text": "THE OLD COURT HOUSE AND PUBLIC LIBRARY",
+        "lang": "en"
+      },
+      {
+        "text": "AND WAS FUNDED BY THE GOVERNMENT",
+        "lang": "en"
+      },
+      {
+        "text": "OF ST. KITTS AND NEVIS AND US/AID.",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Judicial and Legal Complex",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Engraved white-marble dedication plaque set in a wall recess, Basseterre (no camera location); frontal and sharp. Some letters have worn fill (the P in COMPLEX and OPENED look like 'F'/'C'), but the words are clear. The building name is in the first line; the rest is commemorative text."
+  },
+  "c59101878": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "SOL'E'MAR",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Sol'E'Mar",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Colourful beach-scene fascia sign with multicoloured bubble letters over a duty-free shop at Port Zante, Basseterre (no camera location); the same name appears on a smaller board at left. Tiny product list on the right board is not transcribed. Distractors: 'Life is good. OFFICIAL RETAILER' board, 'SALE KEYCHAINS $1 ...' and 'NO VAT FOR LOCALS' standees, 'DUTY FREE TAX FREE' window decal, watch adverts. Tourists in the foreground are incidental."
+  },
+  "c59101881": {
+    "accept": false,
+    "reason": "shop-door banners for CompuZone are mostly brand/service advertising (Dell, HP, Apple, Microsoft...); a seated man is the visual subject"
+  },
+  "c629444": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "BASSETERRE POLICE STATION",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Basseterre Police Station",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "White panel with a crest and navy letters over the entrance of the stone police station in Basseterre (no camera location); frontal but the sign is small in the frame. A police officer at the door is incidental. Distractor: a vertical blue election banner 'VOTE PHILLIP BROWNE' on the pole at right."
+  },
+  "c36259989": {
+    "accept": false,
+    "reason": "near-duplicate of c36259982 (same 'HON. E.O. CHALLENGER' biography board); describes a person, not a place"
+  },
+  "c36401824": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "GOVERNMENT HEADQUARTERS",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Government Headquarters",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Dark serif metal letters on the cream facade of a three-storey government building in Basseterre (no camera location), seen at an angle from street level; a St Kitts and Nevis flag hangs beside 'GOVERNMENT'. Parked cars with number plates are incidental, not the subject."
+  },
+  "c59101888": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "DIAMONDS®",
+        "lang": "en"
+      },
+      {
+        "text": "INTERNATIONAL",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Diamonds International",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Black awning with white serif letters and a large 'Di' monogram (diamond icon over the i) at Port Zante, Basseterre (no camera location). The awning also lists watch/jewellery brands (BVLGARI, FOREVERMARK, BULOVA, BREITLING, LONGINES, ZENITH, MOVADO, TAG Heuer ...), which are advertising distractors. Other distractors: 'Restaurant & Sports Bar', 'TWIST RESTAURANT', 'BAR LOUNGE TWIST GLOBAL CUISINE', 'JEWEL PALACE', 'KAY'S FINE JEWELRY'. Passers-by are incidental."
+  }
+}

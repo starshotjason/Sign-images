@@ -1,28 +1,23 @@
 {
-  "source": "commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Havre_de_L_Estuaire.jpg",
-  "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Havre_de_L_Estuaire.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-  "license_as_published": "CC BY-SA 3.0",
-  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/3.0",
-  "author_as_published": "Jeangagnon",
-  "credit_as_published": "Own work",
-  "title": "File:Havre de L Estuaire.jpg",
-  "description": "Le Havre de L'Estuaire, 85, rue Saint-Germain Est, Rimouski Résidences pour personnes âgées reseau-selection.com vivreenresidence.com radio-canada.ca ici.radio-canada.ca lapresse.ca forum.skyscraperpage.com À gauche : Banque Nationale, 127, rue Saint-Germain Est À droite : Cathédrale Saint-Germain de Rimouski En bas : boulevard René-Lepage Est (route 132)",
-  "date": "2015-07-10",
-  "categories": [
-    "Buildings in Rimouski",
-    "Cathédrale Saint-Germain de Rimouski",
-    "National Bank of Canada",
-    "Route 132, Rimouski"
-  ],
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=de336dfc-2205-4ef5-a657-b758e8c6b9ec",
+  "original_url": "https://panoramax.openstreetmap.fr/images/de/33/6d/fc/2205-4ef5-a657-b758e8c6b9ec.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "Cameron R",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture de336dfc-2205-4ef5-a657-b758e8c6b9ec (Ottawa, 2026-04-10)",
+  "description": "Street-level picture on Panoramax, taken 2026-04-10 near Ottawa by Cameron R, sequence 0d567d46-f354-4d63-9dfe-ba269be377f4, heading 139. OCR (PP-OCRv3) read: Rue Montealm | Allumetteres | Souleverd des | CENYRE·VILLE | Catineeu | Maniwak",
+  "date": "2026-04-10",
+  "categories": [],
   "camera_location": [
-    48.455132,
-    -68.524535
+    45.449117501,
+    -75.718380278
   ],
-  "found_by": "keyword",
-  "bytes": 573522,
-  "width": 1920,
-  "height": 1440,
-  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Havre_de_L_Estuaire.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-  "derivative": ""
+  "found_by": "panoramax-ocr:Ottawa",
+  "bytes": 655818,
+  "width": 2160,
+  "height": 1792,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/de/33/6d/fc/2205-4ef5-a657-b758e8c6b9ec.jpg",
+  "derivative": "crop 0,411,2160,2203 of the 2160x3840 HD picture"
 }

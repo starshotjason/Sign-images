@@ -1,23 +1,25 @@
 {
-  "source": "panoramax",
-  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=de336dfc-2205-4ef5-a657-b758e8c6b9ec",
-  "original_url": "https://panoramax.openstreetmap.fr/images/de/33/6d/fc/2205-4ef5-a657-b758e8c6b9ec.jpg",
-  "license_as_published": "CC-BY-SA-4.0",
-  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
-  "author_as_published": "Cameron R",
-  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
-  "title": "Panoramax picture de336dfc-2205-4ef5-a657-b758e8c6b9ec (Ottawa, 2026-04-10)",
-  "description": "Street-level picture on Panoramax, taken 2026-04-10 near Ottawa by Cameron R, sequence 0d567d46-f354-4d63-9dfe-ba269be377f4, heading 139. OCR (PP-OCRv3) read: Rue Montealm | Allumetteres | Souleverd des | CENYRE·VILLE | Catineeu | Maniwak",
-  "date": "2026-04-10",
-  "categories": [],
-  "camera_location": [
-    45.449117501,
-    -75.718380278
+  "source": "commons",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Rigaud_(Qu%C3%A9bec)-Panneau_routier_signalant_le_Coll%C3%A8ge_de_l%27agence_des_services_frontaliers_du_Canada-2022-09-22.jpg",
+  "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Rigaud_%28Qu%C3%A9bec%29-Panneau_routier_signalant_le_Coll%C3%A8ge_de_l%27agence_des_services_frontaliers_du_Canada-2022-09-22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author_as_published": "Veillg1",
+  "credit_as_published": "Own work",
+  "title": "File:Rigaud (Québec)-Panneau routier signalant le Collège de l'agence des services frontaliers du Canada-2022-09-22.jpg",
+  "description": "Road sign, along Route 342 (Chemin de la Grande Ligne) indicating the College of the Canada Border Services Agency, located at Franc de Montagne in Rigaud (Quebec).",
+  "date": "2022-09-22 17:20:34",
+  "categories": [
+    "Rigaud, Quebec"
   ],
-  "found_by": "panoramax-ocr:Ottawa",
-  "bytes": 655818,
-  "width": 2160,
-  "height": 1792,
-  "downloaded_url": "https://panoramax.openstreetmap.fr/images/de/33/6d/fc/2205-4ef5-a657-b758e8c6b9ec.jpg",
-  "derivative": "crop 0,411,2160,2203 of the 2160x3840 HD picture"
+  "camera_location": [
+    45.47924,
+    -74.289465
+  ],
+  "found_by": "keyword",
+  "bytes": 648044,
+  "width": 1920,
+  "height": 1528,
+  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Rigaud_%28Qu%C3%A9bec%29-Panneau_routier_signalant_le_Coll%C3%A8ge_de_l%27agence_des_services_frontaliers_du_Canada-2022-09-22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "derivative": ""
 }

@@ -1,23 +1,32 @@
 {
-  "source": "panoramax",
-  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=57aba253-ef08-4308-bae9-56524c0586c1",
-  "original_url": "https://panoramax.openstreetmap.fr/images/57/ab/a2/53/ef08-4308-bae9-56524c0586c1.jpg",
-  "license_as_published": "CC-BY-SA-4.0",
-  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
-  "author_as_published": "EricFrench2015",
-  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
-  "title": "Panoramax picture 57aba253-ef08-4308-bae9-56524c0586c1 (Washington, 2025-11-12)",
-  "description": "Street-level picture on Panoramax, taken 2025-11-12 near Washington by EricFrench2015, sequence f821fd59-48ab-45a0-b066-15a90a86714c, heading 83. OCR (PP-OCRv3) read: SPEED | LIMIT | MIC OFF/HDR",
-  "date": "2025-11-12",
-  "categories": [],
-  "camera_location": [
-    38.9287458,
-    -77.0272018
+  "source": "commons",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Original_Ernest_Tubb_Record_Shop_sign_Tennessee_State_Museum_Nashville_TN_March_2006.jpg",
+  "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Original_Ernest_Tubb_Record_Shop_sign_Tennessee_State_Museum_Nashville_TN_March_2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "license_as_published": "CC BY 2.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by/2.0",
+  "author_as_published": "Brent Moore from Smyrna, TN, USA",
+  "credit_as_published": "Ernest Tubb Record Shop",
+  "title": "File:Original Ernest Tubb Record Shop sign Tennessee State Museum Nashville TN March 2006.jpg",
+  "description": "The original Ernest Tubb Record Shop sign from the Nashville, Tennessee store on Broadway. On the Temporary Exhibit at the Tennessee State Museum on the roots of country music March 22, 2006.",
+  "date": "2006-03-22 15:08",
+  "categories": [
+    "2006 in Nashville, Tennessee",
+    "Business signs in Nashville, Tennessee",
+    "Ernest Tubb",
+    "March 2006 in Tennessee",
+    "Neon signs in Tennessee",
+    "Record shops in the United States",
+    "Signs in Davidson County, Tennessee",
+    "Tennessee State Museum"
   ],
-  "found_by": "panoramax-ocr:Washington",
-  "bytes": 272592,
-  "width": 1515,
-  "height": 1136,
-  "downloaded_url": "https://panoramax.openstreetmap.fr/images/57/ab/a2/53/ef08-4308-bae9-56524c0586c1.jpg",
-  "derivative": "crop 1914,1023,3429,2159 of the 3840x2160 HD picture"
+  "camera_location": [
+    36.164552,
+    -86.782186
+  ],
+  "found_by": "keyword",
+  "bytes": 195510,
+  "width": 1280,
+  "height": 1204,
+  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Original_Ernest_Tubb_Record_Shop_sign_Tennessee_State_Museum_Nashville_TN_March_2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "derivative": ""
 }

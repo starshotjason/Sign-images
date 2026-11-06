@@ -1,122 +1,346 @@
 {
- "k349992353": {
-  "accept": false,
-  "reason": "only text is bus-operator van branding (ACTION Operations); no sign target"
- },
- "k352454739": {
-  "accept": false,
-  "reason": "bus livery and bus advertising seen through a dirty windscreen; vehicle branding"
- },
- "k363746783": {
-  "accept": true,
-  "reason": "",
-  "kind": "building tag",
-  "scripts": [
-   "Latn"
-  ],
-  "lines": [
-   {
-    "text": "51 ALLARA",
-    "lang": "en"
-   }
-  ],
-  "expect": {
-   "query": "51 Allara Street",
-   "type": "addr"
+  "k349992353": {
+    "accept": false,
+    "reason": "only text is bus-operator van branding (ACTION Operations); no sign target"
   },
-  "difficulty": "medium",
-  "notes": "Large black vertical letters on a white office-building facade in Canberra, reading bottom to top (address-as-building-name: 51 Allara Street, Canberra City). A small blue 'For Lease' panel is a distractor; a cyclist and cars in the foreground are incidental; car plate blurred."
- },
- "k377270220": {
-  "accept": true,
-  "reason": "",
-  "kind": "street sign",
-  "scripts": [
-   "Latn"
-  ],
-  "lines": [
-   {
-    "text": "Elizabeth St",
-    "lang": "en"
-   },
-   {
-    "text": "227 - 201",
-    "lang": "und"
-   }
-  ],
-  "expect": {
-   "query": "Elizabeth Street",
-   "type": "street"
+  "k352454739": {
+    "accept": false,
+    "reason": "bus livery and bus advertising seen through a dirty windscreen; vehicle branding"
   },
-  "difficulty": "medium",
-  "notes": "Green City of Sydney street blade with the anchor crest and the house-number range below. Distractors: 'STARBUCKS COFFEE' fascia behind it (cut by a pole), a pedestrian wayfinding totem (Hyde Park, George Street, Town Hall, Darling Harbour, Museum, Market Street, St James), a 'DRUITT ... PARK ST TO LIVERPOOL' sign and an 'AUSTRALIAN BALLET ... Opera House' banner. Many face-blurred pedestrians crossing (incidental)."
- },
- "p06df52f3c7": {
-  "accept": false,
-  "reason": "foundation-stone inscription; no name of a place or building to search"
- },
- "p5787696c0a": {
-  "accept": false,
-  "reason": "commemorative bronze plaque text (Sudan contingent) with a painting, no place name heading; same subject as pa6febfc6ef"
- },
- "p5d027bd4f0": {
-  "accept": true,
-  "reason": "",
-  "kind": "landmark",
-  "scripts": [
-   "Latn"
-  ],
-  "lines": [
-   {
-    "text": "Huntsman & Dogs",
-    "lang": "en"
-   },
-   {
-    "text": "by",
-    "lang": "en"
-   },
-   {
-    "text": "Henri Alfred Marie Jacquemart",
-    "lang": "fr"
-   },
-   {
-    "text": "(1824-96)",
-    "lang": "und"
-   }
-  ],
-  "expect": {
-   "query": "Huntsman & Dogs",
-   "type": "poi"
+  "k363746783": {
+    "accept": true,
+    "reason": "",
+    "kind": "building tag",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "51 ALLARA",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "51 Allara Street",
+      "type": "addr"
+    },
+    "difficulty": "medium",
+    "notes": "Large black vertical letters on a white office-building facade in Canberra, reading bottom to top (address-as-building-name: 51 Allara Street, Canberra City). A small blue 'For Lease' panel is a distractor; a cyclist and cars in the foreground are incidental; car plate blurred."
   },
-  "difficulty": "easy",
-  "notes": "Bronze statue plaque in the Royal Botanic Garden, Sydney, frontal; raised letters, some worn. The lower lines ('This statue was restored in September 2001 / through a gift in honour of the late / Lady (Berenice Mitchell) Finley / who loved these Gardens.') are context, not the target."
- },
- "p8b1c027474": {
-  "accept": false,
-  "reason": "single generic word 'SPRING' carved on a sculpture plinth; not a usable place name"
- },
- "pa6febfc6ef": {
-  "accept": true,
-  "reason": "",
-  "kind": "landmark",
-  "scripts": [
-   "Latn"
-  ],
-  "lines": [
-   {
-    "text": "SOUDAN CONTINGENT",
-    "lang": "en"
-   }
-  ],
-  "expect": {
-   "query": "Soudan Contingent",
-   "type": "poi"
+  "k377270220": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "Elizabeth St",
+        "lang": "en"
+      },
+      {
+        "text": "227 - 201",
+        "lang": "und"
+      }
+    ],
+    "expect": {
+      "query": "Elizabeth Street",
+      "type": "street"
+    },
+    "difficulty": "medium",
+    "notes": "Green City of Sydney street blade with the anchor crest and the house-number range below. Distractors: 'STARBUCKS COFFEE' fascia behind it (cut by a pole), a pedestrian wayfinding totem (Hyde Park, George Street, Town Hall, Darling Harbour, Museum, Market Street, St James), a 'DRUITT ... PARK ST TO LIVERPOOL' sign and an 'AUSTRALIAN BALLET ... Opera House' banner. Many face-blurred pedestrians crossing (incidental)."
   },
-  "difficulty": "medium",
-  "notes": "Heading of a bronze memorial plaque on a sandstone wall at Circular Quay, Sydney; the rest of the plaque and the second plaque below are commemorative text (distractors), which mention 'Circular Quay' and 'Victoria Barracks Paddington'. Slight upward angle."
- },
- "pef8afae277": {
-  "accept": false,
-  "reason": "parking regulation signs (4P campervans, caravan parking); no place name"
- }
+  "p06df52f3c7": {
+    "accept": false,
+    "reason": "foundation-stone inscription; no name of a place or building to search"
+  },
+  "p5787696c0a": {
+    "accept": false,
+    "reason": "commemorative bronze plaque text (Sudan contingent) with a painting, no place name heading; same subject as pa6febfc6ef"
+  },
+  "p5d027bd4f0": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "Huntsman & Dogs",
+        "lang": "en"
+      },
+      {
+        "text": "by",
+        "lang": "en"
+      },
+      {
+        "text": "Henri Alfred Marie Jacquemart",
+        "lang": "fr"
+      },
+      {
+        "text": "(1824-96)",
+        "lang": "und"
+      }
+    ],
+    "expect": {
+      "query": "Huntsman & Dogs",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Bronze statue plaque in the Royal Botanic Garden, Sydney, frontal; raised letters, some worn. The lower lines ('This statue was restored in September 2001 / through a gift in honour of the late / Lady (Berenice Mitchell) Finley / who loved these Gardens.') are context, not the target."
+  },
+  "p8b1c027474": {
+    "accept": false,
+    "reason": "single generic word 'SPRING' carved on a sculpture plinth; not a usable place name"
+  },
+  "pa6febfc6ef": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "SOUDAN CONTINGENT",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Soudan Contingent",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Heading of a bronze memorial plaque on a sandstone wall at Circular Quay, Sydney; the rest of the plaque and the second plaque below are commemorative text (distractors), which mention 'Circular Quay' and 'Victoria Barracks Paddington'. Slight upward angle."
+  },
+  "pef8afae277": {
+    "accept": false,
+    "reason": "parking regulation signs (4P campervans, caravan parking); no place name"
+  },
+  "c129942745": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "CHESTER ST",
+        "lang": "en"
+      },
+      {
+        "text": "Heritage Area",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Chester Street",
+      "type": "street"
+    },
+    "difficulty": "medium",
+    "notes": "Orange street blade with dark red letters ('ST' superscript) on a black heritage lamp post in Subiaco, Perth (camera -31.9545, 115.8264), with a white City of Subiaco 'Heritage Area' plate (small council logo at left) below. The cross-street blade above is seen edge-on and unreadable. A red-and-white 'H' hydrant marker is on the post."
+  },
+  "c160140781": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "McLAREN ST",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "McLaren Street",
+      "type": "street"
+    },
+    "difficulty": "easy",
+    "notes": "Weathered white street blade with black serif letters ('ST' superscript, small c in Mc) and the City of Fremantle crest at left, strapped to a timber pole (camera -32.0710, 115.7530); close and frontal against blue sky."
+  },
+  "c164857539": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "KRAWARRI ST",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Krawarri Street",
+      "type": "street"
+    },
+    "difficulty": "medium",
+    "notes": "White street blade with blue letters (superscript 'T' in ST) on a pole at Sherriffs Road, Lonsdale, South Australia (camera -35.1064, 138.5019), seen from below. The logo at left reads 'LONSDALE' with tiny 'COMMERCIAL PRECINCT' text. Distractor: black A-frame 'LD LORDAN DIESEL / DIESEL SPECIALISTS / 4X4 TRUCKS / HEAVY EQUIPMENT' board in the foreground."
+  },
+  "c84301283": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "German Village Shop",
+        "lang": "en"
+      },
+      {
+        "text": "SOUVENIRS • GESCHENKE",
+        "lang": "de"
+      },
+      {
+        "text": "GIFTS • CUCKOO CLOCKS • STEINS",
+        "lang": "en"
+      },
+      {
+        "text": "COWBELLS",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "German Village Shop",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Yellow hanging board on an iron bracket, Hahndorf, South Australia (camera -35.0306, 138.8108); 'German Village Shop' arched in red blackletter-style script, with crossed German and Australian flags and folk-costume figures. Bullets between the product words are red dots. The blackletter 'G' and 'V' may challenge OCR."
+  },
+  "c139282406": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "GRAND",
+        "lang": "en"
+      },
+      {
+        "text": "CENTRAL",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Grand Central",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Pylon sign for the Grand Central hotel on Goodman Road, Elizabeth, South Australia (camera -34.7237, 138.6631): blue letters under a red swoosh on a white panel at the top. Lower panels are advertising and distractors: 'the jackpot ... club / OPEN UNTIL 2AM / GAMING', 'TAB', 'WEST END'. A Central District 'BULLDOGS' painted wall and a 'GAMING ENTRANCE' sign are in the background."
+  },
+  "c156793463": {
+    "accept": true,
+    "reason": "",
+    "kind": "transit",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "Parafield",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Parafield",
+      "type": "stop"
+    },
+    "difficulty": "easy",
+    "notes": "Red Adelaide Metro station-name plate with a white train-in-circle icon, bolted to a galvanised post at Parafield railway station (camera -34.7828, 138.6308); slightly angled, clear sky behind."
+  },
+  "c84301254": {
+    "accept": false,
+    "reason": "'Fantastic German Hotdogs' banner with German flags is advertising copy; no business or place name visible"
+  },
+  "c84910615": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "Welcome to",
+        "lang": "en"
+      },
+      {
+        "text": "FISH CREEK",
+        "lang": "en"
+      },
+      {
+        "text": "Gateway to",
+        "lang": "en"
+      },
+      {
+        "text": "WILSON’S PROMONTORY",
+        "lang": "en"
+      },
+      {
+        "text": "& WARATAH BAY",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Fish Creek",
+      "type": "place"
+    },
+    "difficulty": "easy",
+    "notes": "Weathered white town welcome board on timber posts beside the road into Fish Creek, Victoria (camera -38.6941, 146.0767); 'Welcome to' and 'Gateway to' in maroon script, the rest in blue capitals; the apostrophe in WILSON’S is typographic. A white fish/hat cut-out sits on the top right corner. Distractors: small plates 'Landscape the future Fish Creek Landcare', CWA badge, CFA and 'CFA RA Rescue Association' logos, 'SCOUTS', and a 60 km/h speed sign."
+  },
+  "c191147551": {
+    "accept": false,
+    "reason": "painted 'VILLAGE MILK BAR' window of a closed, former shop (per the description); not a business a map is likely to contain, and the phone number is partly obscured by reflections"
+  },
+  "c138285394": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "HISTORICAL SITE",
+        "lang": "en"
+      },
+      {
+        "text": "PORTLAND ROADS",
+        "lang": "en"
+      },
+      {
+        "text": "WWII HISTORICAL SITE",
+        "lang": "en"
+      },
+      {
+        "text": "IRON RANGE AIRPORT",
+        "lang": "en"
+      },
+      {
+        "text": "WW II GORDON STRIP",
+        "lang": "en"
+      },
+      {
+        "text": "INFORMATION BAY",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Portland Roads",
+      "type": "place"
+    },
+    "difficulty": "easy",
+    "notes": "Brown tourist direction signs at a junction in Kutini-Payamu (Iron Range) National Park, Cape York, Queensland (camera -12.7454, 143.2812): top panel with up arrow and cockatoo pictogram 'HISTORICAL SITE / PORTLAND ROADS', middle panel with right arrow 'WWII HISTORICAL SITE / IRON RANGE AIRPORT', lower chevron sign 'WW II GORDON STRIP' with a blue 'INFORMATION BAY' strip. Bullet dents, faint graffiti scrawl across the middle panel, a '51 FNQR' sticker and a small green arrow plate are distractors."
+  }
 }

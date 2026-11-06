@@ -1,27 +1,29 @@
 {
   "source": "commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Colonia_Uruguay_train_station_sign.jpg",
-  "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Colonia_Uruguay_train_station_sign.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-  "license_as_published": "CC BY 2.0",
-  "license_url_as_published": "https://creativecommons.org/licenses/by/2.0",
-  "author_as_published": "Jimmy Harris from Melbourne, Australia",
-  "credit_as_published": "Sign at Colonia railway station Uploaded by jcornelius",
-  "title": "File:Colonia Uruguay train station sign.jpg",
-  "description": "Sign at Colonia railway station",
-  "date": "2009-07-10 14:10",
+  "source_url": "https://commons.wikimedia.org/wiki/File:%22Colonia%22_sign_2.jpg",
+  "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/%22Colonia%22_sign_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "license_as_published": "CC0",
+  "license_url_as_published": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "author_as_published": "Mx. Granger",
+  "credit_as_published": "Own work",
+  "title": "File:\"Colonia\" sign 2.jpg",
+  "description": "\"Colonia\" sign by the water in Colonia del Sacramento.",
+  "date": "18 July 2017 (according to Exif data)",
   "categories": [
-    "Black on white train station name signs",
-    "Colonia del Sacramento train station",
-    "Train station signs in Uruguay"
+    "3D letter place name signs in Uruguay",
+    "Colonia del Sacramento",
+    "Rambla de las Américas, Colonia del Sacramento",
+    "Tourism in Colonia Department",
+    "Visitor attractions in Uruguay"
   ],
   "camera_location": [
-    -34.47306,
-    -57.84624
+    -34.44456714,
+    -57.85953217
   ],
   "found_by": "keyword",
-  "bytes": 1655383,
+  "bytes": 472583,
   "width": 1920,
-  "height": 2880,
-  "downloaded_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Colonia_Uruguay_train_station_sign.jpg/1920px-Colonia_Uruguay_train_station_sign.jpg",
-  "derivative": "Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org)"
+  "height": 1440,
+  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/%22Colonia%22_sign_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "derivative": ""
 }

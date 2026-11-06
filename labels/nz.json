@@ -1,194 +1,383 @@
 {
- "k337367263": {
-  "accept": true,
-  "reason": "",
-  "kind": "business sign",
-  "scripts": [
-   "Latn"
-  ],
-  "lines": [
-   {
-    "text": "OXYGEN",
-    "lang": "en"
-   },
-   {
-    "text": "oxygen.co.nz",
-    "lang": "und"
-   },
-   {
-    "text": "Letting | Property Management | Body Corporate",
-    "lang": "en"
-   }
-  ],
-  "expect": {
-   "query": "Oxygen",
-   "type": "poi"
+  "k337367263": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "OXYGEN",
+        "lang": "en"
+      },
+      {
+        "text": "oxygen.co.nz",
+        "lang": "und"
+      },
+      {
+        "text": "Letting | Property Management | Body Corporate",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Oxygen",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Black channel letters on a white facade with a pink-and-white web/services panel below (Wellington). The black panel '27 BULLER STREET' on the neighbouring building is an address distractor (addr query 27 Buller Street); 'Professionals' signs at left are cut. Shot through a windscreen with a dark blob at top right; car plates blurred."
   },
-  "difficulty": "easy",
-  "notes": "Black channel letters on a white facade with a pink-and-white web/services panel below (Wellington). The black panel '27 BULLER STREET' on the neighbouring building is an address distractor (addr query 27 Buller Street); 'Professionals' signs at left are cut. Shot through a windscreen with a dark blob at top right; car plates blurred."
- },
- "p1d2018ac8e": {
-  "accept": true,
-  "reason": "",
-  "kind": "landmark",
-  "scripts": [
-   "Latn"
-  ],
-  "lines": [
-   {
-    "text": "CIRCA",
-    "lang": "en"
-   },
-   {
-    "text": "THEATRE",
-    "lang": "en"
-   }
-  ],
-  "expect": {
-   "query": "Circa Theatre",
-   "type": "poi"
+  "p1d2018ac8e": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "CIRCA",
+        "lang": "en"
+      },
+      {
+        "text": "THEATRE",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Circa Theatre",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Red serif letters with a circular C logo on the black facade of the theatre on the Wellington waterfront. Distractors: 'PRIME Interiors' van lettering, a Vivienne Westwood poster at left (face blurred). Pedestrians with a pram are face-blurred and incidental."
   },
-  "difficulty": "easy",
-  "notes": "Red serif letters with a circular C logo on the black facade of the theatre on the Wellington waterfront. Distractors: 'PRIME Interiors' van lettering, a Vivienne Westwood poster at left (face blurred). Pedestrians with a pram are face-blurred and incidental."
- },
- "p2b31fb8699": {
-  "accept": true,
-  "reason": "",
-  "kind": "business sign",
-  "scripts": [
-   "Latn"
-  ],
-  "lines": [
-   {
-    "text": "SWITCHED",
-    "lang": "en"
-   },
-   {
-    "text": "ON BIKES",
-    "lang": "en"
-   }
-  ],
-  "expect": {
-   "query": "Switched On Bikes",
-   "type": "poi"
+  "p2b31fb8699": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "SWITCHED",
+        "lang": "en"
+      },
+      {
+        "text": "ON BIKES",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Switched On Bikes",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Painted panel on a shipping-container shop with a bicycle-plug logo; 'SWITCHED ON' in yellow, 'BIKES' in white. A 'WE'VE MOVED' notice and a small map are pasted on it (the shop may have relocated). Port straddle-carrier at left, number 14 on a pillar."
   },
-  "difficulty": "easy",
-  "notes": "Painted panel on a shipping-container shop with a bicycle-plug logo; 'SWITCHED ON' in yellow, 'BIKES' in white. A 'WE'VE MOVED' notice and a small map are pasted on it (the shop may have relocated). Port straddle-carrier at left, number 14 on a pillar."
- },
- "p617aa6d973": {
-  "accept": true,
-  "reason": "",
-  "kind": "hard",
-  "scripts": [
-   "Latn"
-  ],
-  "lines": [
-   {
-    "text": "ARTHUR ST",
-    "lang": "en"
-   }
-  ],
-  "expect": {
-   "query": "Arthur Street",
-   "type": "street"
+  "p617aa6d973": {
+    "accept": true,
+    "reason": "",
+    "kind": "hard",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "ARTHUR ST",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Arthur Street",
+      "type": "street"
+    },
+    "difficulty": "hard",
+    "notes": "Small white street blade with a dark border on a traffic-light pole, mid-frame and small. The bus-shelter advert at left ('REAL MAGIC', Anchor milk, child's face blurred) is a large distractor; a blue direction sign at top left is too small. Pedestrians face-blurred."
   },
-  "difficulty": "hard",
-  "notes": "Small white street blade with a dark border on a traffic-light pole, mid-frame and small. The bus-shelter advert at left ('REAL MAGIC', Anchor milk, child's face blurred) is a large distractor; a blue direction sign at top left is too small. Pedestrians face-blurred."
- },
- "p8645245cdc": {
-  "accept": false,
-  "reason": "bus rear advertising (Outlet City) dominates the frame, taken from a following bus; shop signs are small"
- },
- "pa559a6f5bd": {
-  "accept": true,
-  "reason": "",
-  "kind": "business sign",
-  "scripts": [
-   "Latn"
-  ],
-  "lines": [
-   {
-    "text": "New Zealand",
-    "lang": "en"
-   },
-   {
-    "text": "Sotheby's",
-    "lang": "en"
-   },
-   {
-    "text": "INTERNATIONAL REALTY",
-    "lang": "en"
-   }
-  ],
-  "expect": {
-   "query": "Sotheby's International Realty",
-   "type": "poi"
+  "p8645245cdc": {
+    "accept": false,
+    "reason": "bus rear advertising (Outlet City) dominates the frame, taken from a following bus; shop signs are small"
   },
-  "difficulty": "medium",
-  "notes": "Black under-verandah sign at the top edge of the frame, slight blur; the small third line is barely legible. Apostrophe is typographic (’)."
- },
- "paab834c4c4": {
-  "accept": true,
-  "reason": "",
-  "kind": "landmark",
-  "scripts": [
-   "Latn"
-  ],
-  "lines": [
-   {
-    "text": "JAMES COOK ARCADE",
-    "lang": "en"
-   },
-   {
-    "text": "James Cook",
-    "lang": "en"
-   },
-   {
-    "text": "HOTEL GRAND",
-    "lang": "en"
-   },
-   {
-    "text": "CHANCELLOR",
-    "lang": "en"
-   },
-   {
-    "text": "WELLINGTON • NEW ZEALAND",
-    "lang": "en"
-   }
-  ],
-  "expect": {
-   "query": "James Cook Arcade",
-   "type": "poi"
+  "pa559a6f5bd": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "New Zealand",
+        "lang": "en"
+      },
+      {
+        "text": "Sotheby's",
+        "lang": "en"
+      },
+      {
+        "text": "INTERNATIONAL REALTY",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Sotheby's International Realty",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Black under-verandah sign at the top edge of the frame, slight blur; the small third line is barely legible. Apostrophe is typographic (’)."
   },
-  "difficulty": "medium",
-  "notes": "Arched entrance sign on Lambton Quay/Willis St, Wellington: 'JAMES COOK ARCADE' around the arch (gold band) and the hotel name inside (red serif letters). Taken from the top deck of a bus; the 'www.outletcity.co.nz / OUTLET CITY' advert on the bus ahead fills the bottom of the frame and is a distractor, as are a 'For Lease' banner and bus destination displays. The 'Hotel Grand Chancellor' is also a valid poi query."
- },
- "pe0cc31a6aa": {
-  "accept": false,
-  "reason": "bus rear advertising (Outlet City, brand list, '24 Main Road, Tawa') is the dominant text; near-duplicate of the same bus in p8645245cdc"
- },
- "pe95f2e23e4": {
-  "accept": true,
-  "reason": "",
-  "kind": "business sign",
-  "scripts": [
-   "Latn"
-  ],
-  "lines": [
-   {
-    "text": "Dakota",
-    "lang": "en"
-   }
-  ],
-  "expect": {
-   "query": "Dakota",
-   "type": "poi"
+  "paab834c4c4": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "JAMES COOK ARCADE",
+        "lang": "en"
+      },
+      {
+        "text": "James Cook",
+        "lang": "en"
+      },
+      {
+        "text": "HOTEL GRAND",
+        "lang": "en"
+      },
+      {
+        "text": "CHANCELLOR",
+        "lang": "en"
+      },
+      {
+        "text": "WELLINGTON • NEW ZEALAND",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "James Cook Arcade",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Arched entrance sign on Lambton Quay/Willis St, Wellington: 'JAMES COOK ARCADE' around the arch (gold band) and the hotel name inside (red serif letters). Taken from the top deck of a bus; the 'www.outletcity.co.nz / OUTLET CITY' advert on the bus ahead fills the bottom of the frame and is a distractor, as are a 'For Lease' banner and bus destination displays. The 'Hotel Grand Chancellor' is also a valid poi query."
   },
-  "difficulty": "medium",
-  "notes": "Large black script letters on a white weatherboard verandah fascia at the far left (Cuba St area, Wellington), seen from the top deck of a bus. 'THE POW WOW ROOM' black sign above, 'BALLROOM' further along, 'Victory' building lettering and 'Giana'/'ABV' signs at right are distractors; the bus rear advert 'DRINK. NOURISH. GROW.' (Anchor) in the middle is vehicle advertising."
- },
- "pf6ccedaa59": {
-  "accept": false,
-  "reason": "bus rear advertising (Outlet City, Happy Easter) dominates; same bus as p8645245cdc"
- }
+  "pe0cc31a6aa": {
+    "accept": false,
+    "reason": "bus rear advertising (Outlet City, brand list, '24 Main Road, Tawa') is the dominant text; near-duplicate of the same bus in p8645245cdc"
+  },
+  "pe95f2e23e4": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "Dakota",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Dakota",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Large black script letters on a white weatherboard verandah fascia at the far left (Cuba St area, Wellington), seen from the top deck of a bus. 'THE POW WOW ROOM' black sign above, 'BALLROOM' further along, 'Victory' building lettering and 'Giana'/'ABV' signs at right are distractors; the bus rear advert 'DRINK. NOURISH. GROW.' (Anchor) in the middle is vehicle advertising."
+  },
+  "pf6ccedaa59": {
+    "accept": false,
+    "reason": "bus rear advertising (Outlet City, Happy Easter) dominates; same bus as p8645245cdc"
+  },
+  "c170947887": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "TE PUNA WAI",
+        "lang": "mi"
+      }
+    ],
+    "expect": {
+      "query": "Te Puna Wai",
+      "type": "place"
+    },
+    "difficulty": "medium",
+    "notes": "Back-lit cut-metal entrance pillar of a housing development in Wainuiomata, Lower Hutt (no camera location); night shot, white serif capitals under a white feather/pod motif, with a large glowing green koru (fern) design below. Black background, no other text. Māori: 'the water spring'."
+  },
+  "c171479219": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "EKALESIA FAAPOTOPOTOGA",
+        "lang": "sm"
+      },
+      {
+        "text": "KERISIANO I SAMOA",
+        "lang": "sm"
+      },
+      {
+        "text": "CONGREGATIONAL CHRISTIAN",
+        "lang": "en"
+      },
+      {
+        "text": "CHURCH IN SAMOA",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Congregational Christian Church in Samoa",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Two-sided V-shaped church board on teal posts, Wainuiomata, Lower Hutt (no camera location); both faces carry the same text (left face is clearer; the right face has peeled letters, e.g. 'CHRISTIA' and 'SAMC A'). Samoan lines are arched and written without the glottal-stop mark (FAAPOTOPOTOGA). The circular crest has tiny text 'O LE EKALESIA FAAPOTOPOTOGA KERISIANO ... I SAMOA'. The service-times panel (Sunday School 9.30 am, Morning Service 11.00 am, ...) and 'Minister : Rev. Henry / Phone' (rest blanked) are secondary. The Commons description spells it 'EKELASIA', but the sign reads EKALESIA."
+  },
+  "c171603282": {
+    "accept": true,
+    "reason": "",
+    "kind": "building tag",
+    "scripts": [
+      "Latn",
+      "Zyyy"
+    ],
+    "lines": [
+      {
+        "text": "WHAI ORANGA",
+        "lang": "mi"
+      },
+      {
+        "text": "COMMUNITY HEALTH HUB",
+        "lang": "en"
+      },
+      {
+        "text": "PH: 04 564",
+        "lang": "en"
+      },
+      {
+        "text": "THE STRAND",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Whai Oranga",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "White-to-purple gradient board on two grey posts on a lawn in Wainuiomata (no camera location); dappled tree shadows over the text. The phone number appears to be cut short ('04 564' followed by a blank), and a vertical bar separates it from the street name THE STRAND. A Māori carved-house (wharenui) logo is in the centre."
+  },
+  "c171667206": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "EKALESIA METOTISI SAMOA",
+        "lang": "sm"
+      },
+      {
+        "text": "SAMOAN METHODIST CHURCH",
+        "lang": "en"
+      },
+      {
+        "text": "WAINUIOMATA",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Samoan Methodist Church",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Large white board with red serif capitals on white posts against blue sky, Wainuiomata (no camera location); the Samoan line is arched. Rust streaks at the bolts. Below is a navy service-times panel in Samoan and English ('SAUNIGA OLE VAIASO / Aso Gafua 6:00pm ...', 'PRAYER MEETING', 'SAUNIGA OLE ASO SA', 'SUNDAY SERVICE') and 'REV. / PH: (04) / MOB:' with blank fields; the triangular logo has small text 'OLE MEA SILI UA IA TE I TATOU LE ATUA'. These are secondary reads."
+  },
+  "c153075768": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn",
+      "Hang"
+    ],
+    "lines": [
+      {
+        "text": "HOLY CROSS",
+        "lang": "en"
+      },
+      {
+        "text": "ANGLICAN CHURCH",
+        "lang": "en"
+      },
+      {
+        "text": "SUNDAY WORSHIP 10:30AM",
+        "lang": "en"
+      },
+      {
+        "text": "www.agac.org.nz",
+        "lang": "en"
+      },
+      {
+        "text": "Albany Greenhithe Anglican Church",
+        "lang": "en"
+      },
+      {
+        "text": "기독교 대한감리회",
+        "lang": "ko",
+        "latin": "Gidokgyo Daehan Gamnihoe (Korean Methodist Church)"
+      },
+      {
+        "text": "예수인 마을 교회",
+        "lang": "ko",
+        "latin": "Yesuin Maeul Gyohoe (Jesus People Village Church)"
+      },
+      {
+        "text": "Fellowship of Jesus Christ Methodist Church",
+        "lang": "en"
+      },
+      {
+        "text": "1:30pm (주일) / 8:00pm (수요일)",
+        "lang": "ko",
+        "latin": "1:30pm (Juil, Sunday) / 8:00pm (Suyoil, Wednesday)"
+      }
+    ],
+    "expect": {
+      "query": "Holy Cross Anglican Church",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Shared church signboard on two posts, Albany Village, Auckland (camera -36.7254, 174.6962), frontal. Top maroon panel is the target (Holy Cross Anglican Church); the white strip has two empty letter rails. The lower blue panel is a Korean congregation that shares the site: small stacked '기독교 / 대한감리회' beside a shield logo, then the larger Korean name in a brush-style font. Both names are mappable."
+  },
+  "c167686926": {
+    "accept": true,
+    "reason": "",
+    "kind": "building tag",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "MOUNTAINCOURT",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Mountain Court",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Raised white Art-Deco letters on a recessed duck-egg-blue panel on the stucco wall of the Mountain Court apartments, Mount Eden, Auckland (camera -36.8741, 174.7614); frontal. Written as one run 'MOUNTAINCOURT' (tall initial M and C, the rest in small capitals) with no visible space between the words; the name is Mountain Court. A small unit number '3' by the door is a distractor."
+  }
 }

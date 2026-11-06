@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=a559a6f5-bd44-4757-851b-e7b3c5c4afd3",
+  "original_url": "https://panoramax.openstreetmap.fr/images/a5/59/a6/f5/bd44-4757-851b-e7b3c5c4afd3.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "Alixun",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture a559a6f5-bd44-4757-851b-e7b3c5c4afd3 (Wellington, 2025-02-15)",
+  "description": "Street-level picture on Panoramax, taken 2025-02-15 near Wellington by Alixun, sequence 926d462c-fccb-4219-9db8-0932039751aa, heading 187. OCR (PP-OCRv3) read: Sotheby's | NewZealand",
+  "date": "2025-02-15",
+  "categories": [],
+  "camera_location": [
+    -41.2825639,
+    174.7789267
+  ],
+  "found_by": "panoramax-ocr:Wellington",
+  "bytes": 117123,
+  "width": 1200,
+  "height": 900,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/a5/59/a6/f5/bd44-4757-851b-e7b3c5c4afd3.jpg",
+  "derivative": "crop 2342,0,3542,900 of the 4080x1836 HD picture"
+}

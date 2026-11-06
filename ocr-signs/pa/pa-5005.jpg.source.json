@@ -1,23 +1,27 @@
 {
-  "source": "kartaview",
-  "source_url": "https://kartaview.org/details/1186289/187/track-info",
-  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlOC5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE4LzUvMjQvcHJvYy8xMTg2Mjg5X2FkZTIzXzE4OC5qcGc",
+  "source": "commons",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Estadio_Armando_Dely_Vald%C3%A9s_(Col%C3%B3n).jpg",
+  "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Estadio_Armando_Dely_Vald%C3%A9s_%28Col%C3%B3n%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
   "license_as_published": "CC BY-SA 4.0",
-  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
-  "author_as_published": "skobblertest1",
-  "credit_as_published": "KartaView user skobblertest1 (user id 41); © KartaView contributors",
-  "title": "KartaView photo 250335003, sequence 1186289 #187 (Panama City, 2015-11-21)",
-  "description": "Street-level picture on KartaView, taken 2015-11-21 near Panama City by skobblertest1, sequence 1186289, heading 0. OCR (PP-OCRv3) read: INMOTION | maternite",
-  "date": "2015-11-21",
-  "categories": [],
-  "camera_location": [
-    8.982784,
-    -79.522633
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author_as_published": "Ulises Icardi",
+  "credit_as_published": "Own work",
+  "title": "File:Estadio Armando Dely Valdés (Colón).jpg",
+  "description": "Estadio Armando Dely Valdés (Colón).",
+  "date": "2017-08-11",
+  "categories": [
+    "Association football venues in Panama",
+    "Buildings in Colón, Panama",
+    "Commercial signage",
+    "Estadio Armando Dely Valdés",
+    "One-point perspective",
+    "Unidentified trees in Panama"
   ],
-  "found_by": "kartaview-ocr:Panama City",
-  "bytes": 227263,
-  "width": 1200,
-  "height": 900,
-  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlOC5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE4LzUvMjQvcHJvYy8xMTg2Mjg5X2FkZTIzXzE4OC5qcGc",
-  "derivative": "crop 484,137,1684,1037 of the 1920x1080 full-size processed (blurred) picture"
+  "camera_location": null,
+  "found_by": "keyword",
+  "bytes": 704857,
+  "width": 1920,
+  "height": 1440,
+  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Estadio_Armando_Dely_Vald%C3%A9s_%28Col%C3%B3n%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "derivative": ""
 }

@@ -1,29 +1,23 @@
 {
   "source": "commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Street_signs_Bv_Artigas_Av_18_de_Julio.JPG",
-  "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Street_signs_Bv_Artigas_Av_18_de_Julio.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-  "license_as_published": "CC0",
-  "license_url_as_published": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-  "author_as_published": "Ypsilon from Finland",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Uruguay_disco.jpg",
+  "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Uruguay_disco.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "license_as_published": "CC BY-SA 3.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/3.0",
+  "author_as_published": "Groupe Casino",
   "credit_as_published": "Own work",
-  "title": "File:Street signs Bv Artigas Av 18 de Julio.JPG",
-  "description": "Street name signs of Bulevar Artigas and Avenida 18 de Julio, with ANTEL ads.",
-  "date": "2014-05-17 16:13:17",
+  "title": "File:Uruguay disco.jpg",
+  "description": "Supermarché Disco en Uruguay",
+  "date": "2012-01-04 14:50:39",
   "categories": [
-    "ANTEL advertisements",
-    "Advertising in Uruguay",
-    "Av. (text)",
-    "Avenida 18 de Julio, Montevideo",
-    "Bulevar Artigas, Montevideo",
-    "May 2014 in Montevideo",
-    "Street signs in Montevideo",
-    "Tres Cruces"
+    "Shop signs in Uruguay",
+    "Supermercados Disco, Uruguay"
   ],
   "camera_location": null,
   "found_by": "keyword",
-  "bytes": 413127,
+  "bytes": 399818,
   "width": 1920,
-  "height": 1440,
-  "downloaded_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Street_signs_Bv_Artigas_Av_18_de_Julio.JPG/1920px-Street_signs_Bv_Artigas_Av_18_de_Julio.JPG",
-  "derivative": "Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org)"
+  "height": 945,
+  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Uruguay_disco.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "derivative": ""
 }

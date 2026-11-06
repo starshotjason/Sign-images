@@ -1,26 +1,27 @@
 {
   "source": "commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Sloth_Island_-_Barica,_Guyana_(23654276145).jpg",
-  "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Sloth_Island_-_Barica%2C_Guyana_%2823654276145%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-  "license_as_published": "CC BY-SA 2.0",
-  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/2.0",
-  "author_as_published": "Dan Sloan",
-  "credit_as_published": "Sloth Island - Barica, Guyana",
-  "title": "File:Sloth Island - Barica, Guyana (23654276145).jpg",
-  "description": "Sloth Island - Barica, Guyana",
-  "date": "2015-12-08 10:08",
+  "source_url": "https://commons.wikimedia.org/wiki/File:No_58_Rest_Point_on_the_Mabura_Road_-_panoramio.jpg",
+  "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/No_58_Rest_Point_on_the_Mabura_Road_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "license_as_published": "CC BY-SA 3.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/3.0",
+  "author_as_published": "Marco Farouk Basir",
+  "credit_as_published": "https://web.archive.org/web/20161111160056/http://www.panoramio.com/photo/47987770",
+  "title": "File:No 58 Rest Point on the Mabura Road - panoramio.jpg",
+  "description": "No 58 Rest Point on the Mabura Road",
+  "date": "Taken on 5 February 2011",
   "categories": [
-    "1613 in South America",
-    "2015 in Guyana",
-    "Fort Kyk-Over-Al",
-    "Guyana in the 1610s",
-    "Signs in Guyana"
+    "Mabura, Guyana",
+    "Road signs in Guyana",
+    "Trees in Guyana"
   ],
-  "camera_location": null,
+  "camera_location": [
+    5.411971,
+    -58.583908
+  ],
   "found_by": "keyword",
-  "bytes": 839942,
-  "width": 1920,
-  "height": 1280,
-  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Sloth_Island_-_Barica%2C_Guyana_%2823654276145%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "bytes": 450455,
+  "width": 1280,
+  "height": 960,
+  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/No_58_Rest_Point_on_the_Mabura_Road_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
   "derivative": ""
 }

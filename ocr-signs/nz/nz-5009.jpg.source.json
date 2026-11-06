@@ -1,0 +1,23 @@
+{
+  "source": "panoramax",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=2b31fb86-9949-4b5e-ac56-e08808658bf3",
+  "original_url": "https://panoramax.openstreetmap.fr/images/2b/31/fb/86/9949-4b5e-ac56-e08808658bf3.jpg",
+  "license_as_published": "CC-BY-SA-4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "Alixun",
+  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
+  "title": "Panoramax picture 2b31fb86-9949-4b5e-ac56-e08808658bf3 (Wellington, 2025-02-18)",
+  "description": "Street-level picture on Panoramax, taken 2025-02-18 near Wellington by Alixun, sequence 07413348-09b5-4629-b346-3ce790ec488b, heading 111. OCR (PP-OCRv3) read: SWITCHED | ON BIKES",
+  "date": "2025-02-18",
+  "categories": [],
+  "camera_location": [
+    -41.284788,
+    174.7796576
+  ],
+  "found_by": "panoramax-ocr:Wellington",
+  "bytes": 182245,
+  "width": 1200,
+  "height": 900,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/2b/31/fb/86/9949-4b5e-ac56-e08808658bf3.jpg",
+  "derivative": "crop 718,283,1918,1183 of the 4080x1836 HD picture"
+}

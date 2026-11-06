@@ -1,23 +1,32 @@
 {
-  "source": "kartaview",
-  "source_url": "https://kartaview.org/details/995969/50/track-info",
-  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlNy5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE4LzEvOS9wcm9jLzk5NTk2OV9mNGJjOV81YTU0ZTNhOTFjOTgxLmpwZw",
+  "source": "commons",
+  "source_url": "https://commons.wikimedia.org/wiki/File:2019-09-08_14_58_52_View_north_along_Maryland_State_Route_295_(Baltimore-Washington_Parkway)_at_the_exit_for_Interstate_895_NORTH_(Baltimore_Harbor_Tunnel_Thruway)_on_the_edge_of_Lansdowne_and_Baltimore_Highlands_in_Baltimore_County,_Maryland.jpg",
+  "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/2019-09-08_14_58_52_View_north_along_Maryland_State_Route_295_%28Baltimore-Washington_Parkway%29_at_the_exit_for_Interstate_895_NORTH_%28Baltimore_Harbor_Tunnel_Thruway%29_on_the_edge_of_Lansdowne_and_Baltimore_Highlands_in_Baltimore_County%2C_Maryland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
   "license_as_published": "CC BY-SA 4.0",
-  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
-  "author_as_published": "danbjoseph",
-  "credit_as_published": "KartaView user danbjoseph (user id 230); © KartaView contributors",
-  "title": "KartaView photo 187437427, sequence 995969 #50 (Washington, 2018-01-09)",
-  "description": "Street-level picture on KartaView, taken 2018-01-09 near Washington by danbjoseph, sequence 995969, heading 54.08. OCR (PP-OCRv3) read: UUNITED BANK",
-  "date": "2018-01-09",
-  "categories": [],
-  "camera_location": [
-    38.902461,
-    -77.038453
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author_as_published": "Famartin",
+  "credit_as_published": "Own work",
+  "title": "File:2019-09-08 14 58 52 View north along Maryland State Route 295 (Baltimore-Washington Parkway) at the exit for Interstate 895 NORTH (Baltimore Harbor Tunnel Thruway) on the edge of Lansdowne and Baltimore Highlands in Baltimore County, Maryland.jpg",
+  "description": "View north along Maryland State Route 295 (Baltimore-Washington Parkway) at the exit for Interstate 895 NORTH (Baltimore Harbor Tunnel Thruway) on the edge of Lansdowne and Baltimore Highlands in Baltimore County, Maryland",
+  "date": "2019-09-08 14:58:52",
+  "categories": [
+    "Baltimore Highlands, Maryland",
+    "Guide signs with supplemental road names in the United States",
+    "Lansdowne, Maryland",
+    "Road sign gantries in Baltimore County, Maryland",
+    "Road signs along the Baltimore-Washington Parkway (Maryland Route 295) in Baltimore County, Maryland",
+    "Road signs for Baltimore, Maryland",
+    "Road signs for Interstate 895 along other roads in Baltimore County, Maryland",
+    "September 2019 in Maryland"
   ],
-  "found_by": "kartaview-ocr:Washington",
-  "bytes": 314222,
-  "width": 1200,
-  "height": 900,
-  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlNy5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE4LzEvOS9wcm9jLzk5NTk2OV9mNGJjOV81YTU0ZTNhOTFjOTgxLmpwZw",
-  "derivative": "crop 2285,497,3485,1397 of the 3840x2160 full-size processed (blurred) picture"
+  "camera_location": [
+    39.230347,
+    -76.649864
+  ],
+  "found_by": "keyword",
+  "bytes": 957184,
+  "width": 1920,
+  "height": 1440,
+  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/2019-09-08_14_58_52_View_north_along_Maryland_State_Route_295_%28Baltimore-Washington_Parkway%29_at_the_exit_for_Interstate_895_NORTH_%28Baltimore_Harbor_Tunnel_Thruway%29_on_the_edge_of_Lansdowne_and_Baltimore_Highlands_in_Baltimore_County%2C_Maryland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "derivative": ""
 }

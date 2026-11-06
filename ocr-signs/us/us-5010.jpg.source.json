@@ -1,28 +1,23 @@
 {
-  "source": "commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Faithful_Indians%27_Monument-signage-2011.jpg",
-  "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Faithful_Indians%27_Monument-signage-2011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/995969/50/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlNy5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE4LzEvOS9wcm9jLzk5NTk2OV9mNGJjOV81YTU0ZTNhOTFjOTgxLmpwZw",
   "license_as_published": "CC BY-SA 4.0",
-  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0",
-  "author_as_published": "Myotus",
-  "credit_as_published": "Own work",
-  "title": "File:Faithful Indians' Monument-signage-2011.jpg",
-  "description": "Faithful Indians' Monument and interpretive signage at the Birch Coulee Battle Monuments site, Renville County, Minnesota, United States.",
-  "date": "2011-06-09 14:37:14",
-  "categories": [
-    "Birch Coulee Battle Monuments",
-    "Interpretive signs in Minnesota",
-    "Monuments and memorials to Native Americans",
-    "Signs in Renville County, Minnesota"
-  ],
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "danbjoseph",
+  "credit_as_published": "KartaView user danbjoseph (user id 230); © KartaView contributors",
+  "title": "KartaView photo 187437427, sequence 995969 #50 (Washington, 2018-01-09)",
+  "description": "Street-level picture on KartaView, taken 2018-01-09 near Washington by danbjoseph, sequence 995969, heading 54.08. OCR (PP-OCRv3) read: UUNITED BANK",
+  "date": "2018-01-09",
+  "categories": [],
   "camera_location": [
-    44.5525,
-    -94.972333
+    38.902461,
+    -77.038453
   ],
-  "found_by": "keyword",
-  "bytes": 1949172,
-  "width": 1920,
-  "height": 2571,
-  "downloaded_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Faithful_Indians%27_Monument-signage-2011.jpg/1920px-Faithful_Indians%27_Monument-signage-2011.jpg",
-  "derivative": "Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org)"
+  "found_by": "kartaview-ocr:Washington",
+  "bytes": 314222,
+  "width": 1200,
+  "height": 900,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlNy5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE4LzEvOS9wcm9jLzk5NTk2OV9mNGJjOV81YTU0ZTNhOTFjOTgxLmpwZw",
+  "derivative": "crop 2285,497,3485,1397 of the 3840x2160 full-size processed (blurred) picture"
 }

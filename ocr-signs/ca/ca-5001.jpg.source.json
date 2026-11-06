@@ -1,23 +1,29 @@
 {
-  "source": "kartaview",
-  "source_url": "https://kartaview.org/details/7682/94/track-info",
-  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMS5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE2LzYvMTgvcHJvYy83NjgyXzA5NTU1XzU3NjU5NmJmZTVlOWIuanBn",
+  "source": "commons",
+  "source_url": "https://commons.wikimedia.org/wiki/File:St._James_Village_BIZ_street_sign.jpg",
+  "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/St._James_Village_BIZ_street_sign.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
   "license_as_published": "CC BY-SA 4.0",
-  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
-  "author_as_published": "Rps333",
-  "credit_as_published": "KartaView user Rps333 (user id 78); © KartaView contributors",
-  "title": "KartaView photo 2463201, sequence 7682 #94 (Ottawa, 2016-06-18)",
-  "description": "Street-level picture on KartaView, taken 2016-06-18 near Ottawa by Rps333, sequence 7682, heading 3. OCR (PP-OCRv3) read: FOR | LEASE | BREW PUB CLOCKTO | CIOCATOWERBREWPUB | Gabrle!",
-  "date": "2016-06-18",
-  "categories": [],
-  "camera_location": [
-    45.419729,
-    -75.692054
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author_as_published": "Jimj wpg",
+  "credit_as_published": "Own work",
+  "title": "File:St. James Village BIZ street sign.jpg",
+  "description": "St. James Village BIZ street sign 'Amherst' at Portage. St. James is a suburb of Winnipeg",
+  "date": "2020-06-11 17:20:26",
+  "categories": [
+    "Bus stop signs in Canada",
+    "June 2020 in Winnipeg",
+    "Signs in Winnipeg",
+    "St. James-Assiniboia",
+    "Winnipeg Transit"
   ],
-  "found_by": "kartaview-ocr:Ottawa",
-  "bytes": 517787,
-  "width": 2560,
+  "camera_location": [
+    49.878387,
+    -97.222989
+  ],
+  "found_by": "keyword",
+  "bytes": 730366,
+  "width": 1920,
   "height": 1920,
-  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMS5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE2LzYvMTgvcHJvYy83NjgyXzA5NTU1XzU3NjU5NmJmZTVlOWIuanBn",
-  "derivative": "whole 2560x1920 full-size processed (blurred) picture as served by the KartaView CDN (byte-identical; the service blurs faces and number plates), not cropped"
+  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/St._James_Village_BIZ_street_sign.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "derivative": ""
 }

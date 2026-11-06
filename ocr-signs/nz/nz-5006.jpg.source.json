@@ -1,23 +1,27 @@
 {
-  "source": "panoramax",
-  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=aab834c4-c4a3-450b-a76d-3522e044ba0f",
-  "original_url": "https://panoramax.openstreetmap.fr/images/aa/b8/34/c4/c4a3-450b-a76d-3522e044ba0f.jpg",
-  "license_as_published": "CC-BY-SA-4.0",
-  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
-  "author_as_published": "Alixun",
-  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
-  "title": "Panoramax picture aab834c4-c4a3-450b-a76d-3522e044ba0f (Wellington, 2025-04-09)",
-  "description": "Street-level picture on Panoramax, taken 2025-04-09 near Wellington by Alixun, sequence a2b5f07b-d3f1-49f8-8852-aae35fdef694, heading 328. OCR (PP-OCRv3) read: HOTELCRAD | www.outletcity.co.nz | GOMedia",
-  "date": "2025-04-09",
-  "categories": [],
-  "camera_location": [
-    -41.2846477,
-    174.7755352
+  "source": "commons",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Name_signage,_Mountain_Court.jpg",
+  "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Name_signage%2C_Mountain_Court.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "license_as_published": "CC BY 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by/4.0",
+  "author_as_published": "Bjankuloski06",
+  "credit_as_published": "Own work",
+  "title": "File:Name signage, Mountain Court.jpg",
+  "description": "Name inscription. Mountain Court, Mount Eden, Auckland.",
+  "date": "2025-06-11",
+  "categories": [
+    "Building name signs in New Zealand",
+    "June 2025 in Auckland",
+    "Mountain Court"
   ],
-  "found_by": "panoramax-ocr:Wellington",
-  "bytes": 1476177,
-  "width": 3793,
-  "height": 1836,
-  "downloaded_url": "https://panoramax.openstreetmap.fr/images/aa/b8/34/c4/c4a3-450b-a76d-3522e044ba0f.jpg",
-  "derivative": "crop 0,0,3793,1836 of the 4080x1836 HD picture"
+  "camera_location": [
+    -36.874062,
+    174.761368
+  ],
+  "found_by": "keyword",
+  "bytes": 635925,
+  "width": 1920,
+  "height": 1280,
+  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Name_signage%2C_Mountain_Court.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "derivative": ""
 }

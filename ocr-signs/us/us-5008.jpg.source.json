@@ -1,30 +1,29 @@
 {
   "source": "commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Signage-Solid_Friendships.jpg",
-  "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Signage-Solid_Friendships.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Sobel_Park_Billyburg_sign_jeh.jpg",
+  "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Sobel_Park_Billyburg_sign_jeh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
   "license_as_published": "CC BY-SA 4.0",
   "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0",
-  "author_as_published": "Myotus",
+  "author_as_published": "Jim.henderson",
   "credit_as_published": "Own work",
-  "title": "File:Signage-Solid Friendships.jpg",
-  "description": "\"Solid Friendships\" Interpretive signage at the Birch Coulee Battle Monuments site, Renville County, Minnesota, United States.",
-  "date": "2011-06-09 14:37:06",
+  "title": "File:Sobel Park Billyburg sign jeh.jpg",
+  "description": "Looking northeast on a sunny midday at sign on fence.",
+  "date": "2019-11-03 13:16:03",
   "categories": [
-    "Birch Coulee Battle Monuments",
-    "Interpretive signs in Minnesota",
-    "Minnesota River Valley Scenic Byway",
-    "Monuments and memorials to Native Americans",
-    "Native Americans of Minnesota",
-    "Signs in Renville County, Minnesota"
+    "2019 in Williamsburg, Brooklyn",
+    "NYC Parks signs in Brooklyn",
+    "Parks in Williamsburg, Brooklyn",
+    "Plaques in Brooklyn",
+    "Plaques referencing 1988 in the United States"
   ],
   "camera_location": [
-    44.5525,
-    -94.972333
+    40.7071,
+    -73.9614
   ],
   "found_by": "keyword",
-  "bytes": 831565,
+  "bytes": 705752,
   "width": 1920,
-  "height": 1434,
-  "downloaded_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Signage-Solid_Friendships.jpg/1920px-Signage-Solid_Friendships.jpg",
-  "derivative": "Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org)"
+  "height": 1440,
+  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Sobel_Park_Billyburg_sign_jeh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "derivative": ""
 }

@@ -1,25 +1,27 @@
 {
   "source": "commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Facultad_de_Arquitectura_Uruguay.jpg",
-  "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Facultad_de_Arquitectura_Uruguay.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-  "license_as_published": "CC BY-SA 3.0",
-  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/3.0",
-  "author_as_published": "Monte San Savino",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Saul_cosmetica.jpg",
+  "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Saul_cosmetica.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "license_as_published": "CC0",
+  "license_url_as_published": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "author_as_published": "Ypsilon from Finland",
   "credit_as_published": "Own work",
-  "title": "File:Facultad de Arquitectura Uruguay.jpg",
-  "description": "This is a photo of a Uruguayan monument identified by the ID",
-  "date": "Taken on 18 September 2013, 14:32:28",
+  "title": "File:Saul cosmetica.jpg",
+  "description": "Saúl, a perfume and cosmetics shop along Avenida 18 de Julio, the main street of Montevideo",
+  "date": "2014-05-17 16:33:45",
   "categories": [
-    "Accessibility in Montevideo",
-    "Columns in Uruguay",
-    "Facultad de Arquitectura, Universidad de la República",
-    "September 2013 Uruguay photographs"
+    "Avenida 18 de Julio, Montevideo",
+    "JS letter combinations",
+    "Monograms",
+    "Perfume shops",
+    "Shop signs in Uruguay",
+    "Shops in Montevideo"
   ],
   "camera_location": null,
   "found_by": "keyword",
-  "bytes": 778017,
+  "bytes": 665484,
   "width": 1920,
   "height": 1440,
-  "downloaded_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Facultad_de_Arquitectura_Uruguay.jpg/1920px-Facultad_de_Arquitectura_Uruguay.jpg",
-  "derivative": "Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org)"
+  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Saul_cosmetica.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "derivative": ""
 }

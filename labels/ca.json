@@ -1,170 +1,420 @@
 {
- "k2463201": {
-  "accept": true,
-  "reason": "",
-  "kind": "business sign",
-  "scripts": [
-   "Latn"
-  ],
-  "lines": [
-   {
-    "text": "CLOCKTOWER BREW PUB",
-    "lang": "en"
-   },
-   {
-    "text": "BREW PUB",
-    "lang": "en"
-   }
-  ],
-  "expect": {
-   "query": "Clocktower Brew Pub",
-   "type": "poi"
+  "k2463201": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "CLOCKTOWER BREW PUB",
+        "lang": "en"
+      },
+      {
+        "text": "BREW PUB",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Clocktower Brew Pub",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Maroon fascia boards with white serif capitals wrapping a building corner (Ottawa, Bank St area); the left board has the full name, the right one is cut ('CLOCKTO...'). Distractors: 'FOR LEASE / District Realty' banner, 'Gabriel Pizza 310.7777' A-board, Harvey's, Prince and Johnny Farina signs down the street. Taken through a windscreen; pedestrians incidental."
   },
-  "difficulty": "medium",
-  "notes": "Maroon fascia boards with white serif capitals wrapping a building corner (Ottawa, Bank St area); the left board has the full name, the right one is cut ('CLOCKTO...'). Distractors: 'FOR LEASE / District Realty' banner, 'Gabriel Pizza 310.7777' A-board, Harvey's, Prince and Johnny Farina signs down the street. Taken through a windscreen; pedestrians incidental."
- },
- "k2792602": {
-  "accept": false,
-  "reason": "main text is box-truck branding (Chez Lili Party Rental / madali); hotel awnings small"
- },
- "k3893837": {
-  "accept": true,
-  "reason": "",
-  "kind": "street sign",
-  "scripts": [
-   "Latn"
-  ],
-  "lines": [
-   {
-    "text": "Gladstone",
-    "lang": "en"
-   }
-  ],
-  "expect": {
-   "query": "Gladstone Avenue",
-   "type": "street"
+  "k2792602": {
+    "accept": false,
+    "reason": "main text is box-truck branding (Chez Lili Party Rental / madali); hotel awnings small"
   },
-  "difficulty": "hard",
-  "notes": "Blue Ottawa street blade with city logo on a traffic-signal arm, mid-distance under an overcast sky; a second blade at right reads 'Gladstone' with small prefix/suffix text (not legible). Distractors: ESSO 'Self Service 99.9' price sign, 'On the Run' sign, SHOPPERS DRUG MART fascia at left, 'Thai-Viet' restaurant sign at right."
- },
- "k4237731": {
-  "accept": true,
-  "reason": "",
-  "kind": "business sign",
-  "scripts": [
-   "Latn"
-  ],
-  "lines": [
-   {
-    "text": "WINNERS",
-    "lang": "en"
-   }
-  ],
-  "expect": {
-   "query": "Winners",
-   "type": "poi"
+  "k3893837": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "Gladstone",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Gladstone Avenue",
+      "type": "street"
+    },
+    "difficulty": "hard",
+    "notes": "Blue Ottawa street blade with city logo on a traffic-signal arm, mid-distance under an overcast sky; a second blade at right reads 'Gladstone' with small prefix/suffix text (not legible). Distractors: ESSO 'Self Service 99.9' price sign, 'On the Run' sign, SHOPPERS DRUG MART fascia at left, 'Thai-Viet' restaurant sign at right."
   },
-  "difficulty": "medium",
-  "notes": "Store name repeated on dark awnings and vertical banners along a red heritage facade (Ottawa, Sparks/Queen St area), behind light-rail construction hoarding. Orange arrow sign, OLRT traffic barrels and a parking guidance sign are distractors."
- },
- "k5092594": {
-  "accept": false,
-  "reason": "main text is truck branding (Iron Mountain); other signs small"
- },
- "k5092627": {
-  "accept": false,
-  "reason": "bus fleet numbers and a partial 'SUBWAY' sign hidden behind a bus"
- },
- "p2f0169ae3f": {
-  "accept": false,
-  "reason": "Little Free Library book box; only an organisation plate, not a mappable named place"
- },
- "p48988f964c": {
-  "accept": false,
-  "reason": "image rotated 90°; only text is a notice 'TUNNEL AUTORISÉ AUX GRAFFITIS' among graffiti, not a named place"
- },
- "p6df63077e6": {
-  "accept": true,
-  "reason": "",
-  "kind": "business sign",
-  "scripts": [
-   "Latn"
-  ],
-  "lines": [
-   {
-    "text": "MR.PIZZA",
-    "lang": "en"
-   },
-   {
-    "text": "TWO FLAVOURS. ONE DOOR",
-    "lang": "en"
-   }
-  ],
-  "expect": {
-   "query": "Mr. Pizza",
-   "type": "poi"
+  "k4237731": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "WINNERS",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Winners",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Store name repeated on dark awnings and vertical banners along a red heritage facade (Ottawa, Sparks/Queen St area), behind light-rail construction hoarding. Orange arrow sign, OLRT traffic barrels and a parking guidance sign are distractors."
   },
-  "difficulty": "medium",
-  "notes": "Fascia box with a chef cartoon and red 'MR.PIZZA', repeated at the right edge (cut); slogan on the red band below continues 'MRPIZZ...' (cut). Distractors: hand-cut window letters '...PEUTIC MASSAGE / ...UPUNCTURE / RELAXATION / 371 SOMERSET ST. W.', RBC bank ATM signs, a Chinese '...都可' sign at left. Pedestrian face-blurred."
- },
- "pde336dfc22": {
-  "accept": true,
-  "reason": "",
-  "kind": "street sign",
-  "scripts": [
-   "Latn"
-  ],
-  "lines": [
-   {
-    "text": "50 OUEST",
-    "lang": "fr"
-   },
-   {
-    "text": "148 OUEST",
-    "lang": "fr"
-   },
-   {
-    "text": "Boulevard des",
-    "lang": "fr"
-   },
-   {
-    "text": "Allumettières",
-    "lang": "fr"
-   },
-   {
-    "text": "Rue Montcalm",
-    "lang": "fr"
-   },
-   {
-    "text": "5",
-    "lang": "und"
-   },
-   {
-    "text": "Gatineau",
-    "lang": "fr"
-   },
-   {
-    "text": "CENTRE - VILLE",
-    "lang": "fr"
-   },
-   {
-    "text": "Ottawa",
-    "lang": "fr"
-   },
-   {
-    "text": "Maniwaki",
-    "lang": "fr"
-   },
-   {
-    "text": "105",
-    "lang": "und"
-   }
-  ],
-  "expect": {
-   "query": "Rue Montcalm",
-   "type": "street"
+  "k5092594": {
+    "accept": false,
+    "reason": "main text is truck branding (Iron Mountain); other signs small"
   },
-  "difficulty": "hard",
-  "notes": "Gatineau, Quebec: two green overhead motorway signs on a gantry; the photo is rotated 90° and motion-blurred through a wet windscreen. Left sign: A-50 and route 148 shields, 'OUEST', 'Boulevard des Allumettières / Rue Montcalm' with down arrows (the grave accent on Allumettières is faint). Right sign: A-5 shield, 'Gatineau CENTRE-VILLE / Ottawa / Maniwaki' with a yellow '105' route tab. Orange 'DÉTOUR' sign is a distractor."
- }
+  "k5092627": {
+    "accept": false,
+    "reason": "bus fleet numbers and a partial 'SUBWAY' sign hidden behind a bus"
+  },
+  "p2f0169ae3f": {
+    "accept": false,
+    "reason": "Little Free Library book box; only an organisation plate, not a mappable named place"
+  },
+  "p48988f964c": {
+    "accept": false,
+    "reason": "image rotated 90°; only text is a notice 'TUNNEL AUTORISÉ AUX GRAFFITIS' among graffiti, not a named place"
+  },
+  "p6df63077e6": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "MR.PIZZA",
+        "lang": "en"
+      },
+      {
+        "text": "TWO FLAVOURS. ONE DOOR",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Mr. Pizza",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Fascia box with a chef cartoon and red 'MR.PIZZA', repeated at the right edge (cut); slogan on the red band below continues 'MRPIZZ...' (cut). Distractors: hand-cut window letters '...PEUTIC MASSAGE / ...UPUNCTURE / RELAXATION / 371 SOMERSET ST. W.', RBC bank ATM signs, a Chinese '...都可' sign at left. Pedestrian face-blurred."
+  },
+  "pde336dfc22": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "50 OUEST",
+        "lang": "fr"
+      },
+      {
+        "text": "148 OUEST",
+        "lang": "fr"
+      },
+      {
+        "text": "Boulevard des",
+        "lang": "fr"
+      },
+      {
+        "text": "Allumettières",
+        "lang": "fr"
+      },
+      {
+        "text": "Rue Montcalm",
+        "lang": "fr"
+      },
+      {
+        "text": "5",
+        "lang": "und"
+      },
+      {
+        "text": "Gatineau",
+        "lang": "fr"
+      },
+      {
+        "text": "CENTRE - VILLE",
+        "lang": "fr"
+      },
+      {
+        "text": "Ottawa",
+        "lang": "fr"
+      },
+      {
+        "text": "Maniwaki",
+        "lang": "fr"
+      },
+      {
+        "text": "105",
+        "lang": "und"
+      }
+    ],
+    "expect": {
+      "query": "Rue Montcalm",
+      "type": "street"
+    },
+    "difficulty": "hard",
+    "notes": "Gatineau, Quebec: two green overhead motorway signs on a gantry; the photo is rotated 90° and motion-blurred through a wet windscreen. Left sign: A-50 and route 148 shields, 'OUEST', 'Boulevard des Allumettières / Rue Montcalm' with down arrows (the grave accent on Allumettières is faint). Right sign: A-5 shield, 'Gatineau CENTRE-VILLE / Ottawa / Maniwaki' with a yellow '105' route tab. Orange 'DÉTOUR' sign is a distractor."
+  },
+  "c92847021": {
+    "accept": false,
+    "reason": "covered bridge with narrow-bridge warning diamonds, '1 VOIE' plate and a 4.1 m clearance sign; the 'Jean-Chassé' name plaque on the gable is too small to read reliably"
+  },
+  "c144154659": {
+    "accept": false,
+    "reason": "'NO SHOOTING / DÉFENSE DE TIRER' prohibition sign; warning only, no place name"
+  },
+  "c91141714": {
+    "accept": true,
+    "reason": "",
+    "kind": "transit",
+    "scripts": [
+      "Latn",
+      "Zyyy"
+    ],
+    "lines": [
+      {
+        "text": "AMHERST",
+        "lang": "en"
+      },
+      {
+        "text": "11",
+        "lang": "und"
+      },
+      {
+        "text": "21",
+        "lang": "und"
+      },
+      {
+        "text": "TeleBUS",
+        "lang": "en"
+      },
+      {
+        "text": "287-7433",
+        "lang": "und"
+      },
+      {
+        "text": "20283#",
+        "lang": "und"
+      }
+    ],
+    "expect": {
+      "query": "Amherst",
+      "type": "stop"
+    },
+    "difficulty": "medium",
+    "notes": "Winnipeg Transit bus-stop flag 'AMHERST' (stop 20283, routes 11 and 21) on Portage Avenue in St. James, Winnipeg (camera 49.8784, -97.2230), shot from below. Directly above it is the blue St. James Village BIZ street blade 'AMHERST ST' with a sun logo and 'THE ST. JAMES village BIZ' script; it names the same street and is a strong second read. Parking signs and storefronts down the street are distractors."
+  },
+  "c121221033": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "FORT STEELE RESORT",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Fort Steele Resort",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Cream board with brown western-style lettering on the wooden store/office building at Fort Steele Resort, BC (camera 49.6215, -115.6255); wide panoramic shot, sign is mid-size in frame. Distractors: red 'FIREWORKS' board and an 'OFFICE' sign on the porch, an ice-cream sign, a painted bear cut-out board."
+  },
+  "c123492399": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn",
+      "Zyyy"
+    ],
+    "lines": [
+      {
+        "text": "Agence des services",
+        "lang": "fr"
+      },
+      {
+        "text": "frontaliers du Canada",
+        "lang": "fr"
+      },
+      {
+        "text": "Canada Border",
+        "lang": "en"
+      },
+      {
+        "text": "Services Agency",
+        "lang": "en"
+      },
+      {
+        "text": "Collège de l’Agence",
+        "lang": "fr"
+      },
+      {
+        "text": "des services frontaliers",
+        "lang": "fr"
+      },
+      {
+        "text": "du Canada",
+        "lang": "fr"
+      },
+      {
+        "text": "Canada Border",
+        "lang": "en"
+      },
+      {
+        "text": "Services Agency",
+        "lang": "en"
+      },
+      {
+        "text": "College",
+        "lang": "en"
+      },
+      {
+        "text": "475, chemin de la",
+        "lang": "fr"
+      },
+      {
+        "text": "Grande-Ligne",
+        "lang": "fr"
+      },
+      {
+        "text": "475 Grande-Ligne",
+        "lang": "en"
+      },
+      {
+        "text": "Road",
+        "lang": "en"
+      },
+      {
+        "text": "Canada",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Collège de l’Agence des services frontaliers du Canada",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Federal identity sign (French left column, English right) for the CBSA College at 475 chemin de la Grande-Ligne, Rigaud, Quebec (camera 45.4792, -74.2895), frontal and close. Header row is the department signature; the bottom wordmark is 'Canada' with a small flag over the final a. The apostrophe in 'l’Agence' is typographic (’). Address format: French '475, chemin de la Grande-Ligne' with a comma after the number, English '475 Grande-Ligne Road'. Graffiti 'SAUER'-like tag on the building behind is a distractor."
+  },
+  "c42114550": {
+    "accept": false,
+    "reason": "distant view of apartment towers and a highway in Rimouski; the Banque Nationale pylon and other signs are too small to read, only a 'MAXIMUM 70' speed sign is clear"
+  },
+  "c53112317": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "MASSAGE",
+        "lang": "en"
+      },
+      {
+        "text": "MONTREAL NURU",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Montreal Nuru",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Back-lit pink-on-black sign with a mermaid silhouette and blue LED border over a stairway entrance at 1249 rue Drummond, downtown Montreal (camera 45.4987, -73.5740); night shot, ceiling light glare, a round light fixture reflects in the middle of the panel. Tiny vertical sign-maker text at the right edge ('fantasy graphix' and a 514 phone number) is not transcribed. Reflections of the sign on the left wall are distractors. Adult-venue (massage parlour) signage."
+  },
+  "c53112319": {
+    "accept": false,
+    "reason": "near-duplicate of c53112317 (same Montreal Nuru massage sign, same night, different LED colours)"
+  },
+  "c53112321": {
+    "accept": false,
+    "reason": "near-duplicate of c53112317 (same Montreal Nuru massage sign, same night)"
+  },
+  "c53112324": {
+    "accept": false,
+    "reason": "near-duplicate of c53112317 (same Montreal Nuru massage sign, same night)"
+  },
+  "c53196908": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "Studio Glass",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Studio Glass",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Orange neon script-style 'Studio Glass' sign in the transom over the open shop door on Granville Island, Vancouver (camera 49.2707, -123.1343); dusk, neon glow and a cage lamp overlap the 'o'. The open door carries the address '1440' with 'OLD BRIDGE STREET' in small letters (address format: number then street). Distractors: 'OPEN / COME IN' card, glassware in the windows, a poster on the door."
+  },
+  "c69520087": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "WILLIE'S",
+        "lang": "en"
+      },
+      {
+        "text": "BAKERY",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Willie's Bakery",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Hand-painted wall sign on blue-grey brick, Willie's Bakery building, Victoria, BC (camera 48.4275, -123.3692). White outlined letters on a red panel, 'BAKERY' arched in black-outlined white. Gooseneck lamps and their shadows cross the letters. Distractor: an orange script 'Il Terrazzo' sign cut off at the bottom edge."
+  },
+  "c71934144": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "CARCROSS DESERT",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Carcross Desert",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Routed wooden name board with yellow letters and a blue inset border on two posts, in the sand of the Carcross Desert, Yukon (camera 60.1854, -134.7002); clean background, no distractors."
+  }
 }

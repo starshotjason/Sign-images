@@ -1,86 +1,365 @@
 {
- "k187413665": {
-  "accept": true,
-  "reason": "",
-  "kind": "business sign",
-  "scripts": [
-   "Latn"
-  ],
-  "lines": [
-   {
-    "text": "HILTON GARDEN INN",
-    "lang": "en"
-   }
-  ],
-  "expect": {
-   "query": "Hilton Garden Inn",
-   "type": "poi"
+  "k187413665": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "HILTON GARDEN INN",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Hilton Garden Inn",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Tall vertical blade sign on a hotel facade (Washington, DC), letters stacked top to bottom under a red flower logo, seen at an angle with sun glare at its foot. A mirror-image reflection of the same sign appears in the glass building at left (distractor)."
   },
-  "difficulty": "medium",
-  "notes": "Tall vertical blade sign on a hotel facade (Washington, DC), letters stacked top to bottom under a red flower logo, seen at an angle with sun glare at its foot. A mirror-image reflection of the same sign appears in the glass building at left (distractor)."
- },
- "k187413723": {
-  "accept": false,
-  "reason": "only a tiny 'POTBELLY' window sign and a 'LOVE' holiday banner; nothing legible enough as the target"
- },
- "k187429829": {
-  "accept": false,
-  "reason": "taxis (one with a readable number plate) dominate the frame; the blue wayfinding sign is too small to read reliably at 1600 px"
- },
- "k187429849": {
-  "accept": false,
-  "reason": "taxi and FedEx truck branding only; bank fascia too small"
- },
- "k187430053": {
-  "accept": false,
-  "reason": "moving-van branding (Victory Van Corporation), vehicle advertising"
- },
- "k187430133": {
-  "accept": false,
-  "reason": "only a 'DO NOT ENTER' traffic sign; no place name (Washington Monument in background has no sign)"
- },
- "k187437427": {
-  "accept": true,
-  "reason": "",
-  "kind": "business sign",
-  "scripts": [
-   "Latn"
-  ],
-  "lines": [
-   {
-    "text": "UNITED BANK",
-    "lang": "en"
-   }
-  ],
-  "expect": {
-   "query": "United Bank",
-   "type": "poi"
+  "k187413723": {
+    "accept": false,
+    "reason": "only a tiny 'POTBELLY' window sign and a 'LOVE' holiday banner; nothing legible enough as the target"
   },
-  "difficulty": "medium",
-  "notes": "White letters with a 'U' logo on the dark fascia of a bank branch at a street corner; the name repeats on the side ('...ITED BANK'). The address plate '1667 K' on the pillar at left could support an addr query (1667 K St NW). Distractors: 'ONE WAY' and no-turn signs, a red 'K STREET' banner, a green K St blade at far left; pedestrians incidental."
- },
- "p57aba253ef": {
-  "accept": true,
-  "reason": "",
-  "kind": "hard",
-  "scripts": [
-   "Latn"
-  ],
-  "lines": [
-   {
-    "text": "Williams Alley",
-    "lang": "en"
-   }
-  ],
-  "expect": {
-   "query": "Williams Alley",
-   "type": "street"
+  "k187429829": {
+    "accept": false,
+    "reason": "taxis (one with a readable number plate) dominate the frame; the blue wayfinding sign is too small to read reliably at 1600 px"
   },
-  "difficulty": "hard",
-  "notes": "Small green street blade at dusk on a pole above a 'SPEED LIMIT 25' sign, seen through a dashcam windscreen; low contrast. Dashcam overlay 'MIC OFF/HDR BLACKVUE DR900...' at the bottom is not sign text. A truck at left is incidental."
- },
- "pad819803a5": {
-  "accept": false,
-  "reason": "dark dashcam frame; only parking-regulation plates, unreadable"
- }
+  "k187429849": {
+    "accept": false,
+    "reason": "taxi and FedEx truck branding only; bank fascia too small"
+  },
+  "k187430053": {
+    "accept": false,
+    "reason": "moving-van branding (Victory Van Corporation), vehicle advertising"
+  },
+  "k187430133": {
+    "accept": false,
+    "reason": "only a 'DO NOT ENTER' traffic sign; no place name (Washington Monument in background has no sign)"
+  },
+  "k187437427": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "UNITED BANK",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "United Bank",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "White letters with a 'U' logo on the dark fascia of a bank branch at a street corner; the name repeats on the side ('...ITED BANK'). The address plate '1667 K' on the pillar at left could support an addr query (1667 K St NW). Distractors: 'ONE WAY' and no-turn signs, a red 'K STREET' banner, a green K St blade at far left; pedestrians incidental."
+  },
+  "p57aba253ef": {
+    "accept": true,
+    "reason": "",
+    "kind": "hard",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "Williams Alley",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Williams Alley",
+      "type": "street"
+    },
+    "difficulty": "hard",
+    "notes": "Small green street blade at dusk on a pole above a 'SPEED LIMIT 25' sign, seen through a dashcam windscreen; low contrast. Dashcam overlay 'MIC OFF/HDR BLACKVUE DR900...' at the bottom is not sign text. A truck at left is incidental."
+  },
+  "pad819803a5": {
+    "accept": false,
+    "reason": "dark dashcam frame; only parking-regulation plates, unreadable"
+  },
+  "c81987970": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Latn",
+      "Zyyy"
+    ],
+    "lines": [
+      {
+        "text": "NORTH",
+        "lang": "en"
+      },
+      {
+        "text": "INTERSTATE",
+        "lang": "en"
+      },
+      {
+        "text": "895",
+        "lang": "und"
+      },
+      {
+        "text": "Baltimore Harbor",
+        "lang": "en"
+      },
+      {
+        "text": "Tunnel Thruway",
+        "lang": "en"
+      },
+      {
+        "text": "NO EXIT BEFORE TOLL",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Baltimore Harbor Tunnel Thruway",
+      "type": "street"
+    },
+    "difficulty": "easy",
+    "notes": "Large green overhead guide sign with an I-895 shield, up-right exit arrow and yellow 'NO EXIT BEFORE TOLL' strip, on MD 295 (Baltimore-Washington Parkway) at Lansdowne, Baltimore County (camera 39.2303, -76.6499). Distractors: smaller gantry sign '295 NORTH Baltimore', roadside 'BALTIMORE COUNTY' sign, yellow 'RAMP 30 MPH' advisory, a distant I-895 sign."
+  },
+  "c109486171": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "BOULEVARD",
+        "lang": "en"
+      },
+      {
+        "text": "Hotel",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Boulevard Hotel",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Neon sign on an Art Deco facade on Ocean Drive, Miami Beach (camera 25.7776, -80.1312), night shot under red/orange light: 'BOULEVARD' in neon capitals, 'Hotel' in neon script with long swashes. The red cast and glow lower contrast; the H of Hotel is a stylised script letter."
+  },
+  "c121641173": {
+    "accept": false,
+    "reason": "distant waterfront skyline; the rooftop 'Ghirardelli' letters are small and low-contrast against the sky, other signs unreadable"
+  },
+  "c123862520": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "CASTLETON SQUARE",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Castleton Square",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Large cream monument sign with raised brown Art-Deco letters and a flower keystone, on a stone base at the Castleton Square mall, Indianapolis (camera 39.9122, -86.0689); slightly angled. A small building number on the wall behind is unreadable."
+  },
+  "c133231901": {
+    "accept": false,
+    "reason": "hand-painted 'GOING OUT OF BUSINESS' banner and 'CLEARANCE' window sign on a shop grille; no business or place name"
+  },
+  "c138077674": {
+    "accept": false,
+    "reason": "'SECURITY CAMERAS IN USE' warning sign next to a dome camera; no place name"
+  },
+  "c148728124": {
+    "accept": true,
+    "reason": "",
+    "kind": "transit",
+    "scripts": [
+      "Latn",
+      "Zyyy"
+    ],
+    "lines": [
+      {
+        "text": "B",
+        "lang": "en"
+      },
+      {
+        "text": "Santa Teresa",
+        "lang": "es"
+      },
+      {
+        "text": "G",
+        "lang": "en"
+      },
+      {
+        "text": "Winchester",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Santa Teresa",
+      "type": "stop"
+    },
+    "difficulty": "medium",
+    "notes": "Two white light-rail wayfinding blades with left arrows on a pole at Santa Clara VTA station, downtown San Jose (camera 37.3359, -121.8889), seen steeply from below: 'B' Blue Line roundel + 'Santa Teresa', 'G' Green Line roundel + 'Winchester'. Also on the pole: a VTA 'Bus Stop' flag with '82 Westgate', '17 HIGHWAY EXPRESS' (with a 17 San Jose route badge), '(408) 321-2300' and a partly cut web address. Street banners ('CREATE IN THE PLACE', 'SJDOWNTOWN.COM'), security cameras and a speaker are distractors."
+  },
+  "c163000899": {
+    "accept": false,
+    "reason": "abandoned roadside sign reads only 'DOMESTIC & JAPANESE AUTO & LIGHT TRUCK RECYCLING' with no business name; the lower panel is covered by a graffiti tag"
+  },
+  "c193462629": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "Thunder Bowl Lanes",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Thunder Bowl Lanes",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Orange channel letters on a beige facade band of a bowling alley in Alpena, Michigan (camera 45.0447, -83.4549), frontal. Faded 'ghost' outlines of the old, removed letters show around the new ones (e.g. a ghost 'R' after Thunder and ghost shapes after Bowl and Lanes), which can confuse OCR. Bowling-pin logo at right. Distractors: 'FALL LEAGUES NOW FORMING SIGN-UP INSIDE' window poster; parked cars' plates are small and incidental."
+  },
+  "c23187505": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "ERNEST",
+        "lang": "en"
+      },
+      {
+        "text": "TUBB",
+        "lang": "en"
+      },
+      {
+        "text": "RECORD",
+        "lang": "en"
+      },
+      {
+        "text": "SHOP",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Ernest Tubb Record Shop",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Guitar-shaped neon sign, red-orange 'ERNEST TUBB' and blue 'RECORD SHOP', photographed at night/indoors against a black background. This is the original sign from the shop on Broadway, Nashville, shown in a 2006 exhibit at the Tennessee State Museum (camera 36.1646, -86.7822), so the photo is not at the shop's own location."
+  },
+  "c30454383": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "Gaslamp",
+        "lang": "en"
+      },
+      {
+        "text": "Quarter",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Gaslamp Quarter",
+      "type": "place"
+    },
+    "difficulty": "hard",
+    "notes": "Ornate marquee arch sign over Fifth Avenue, Gaslamp Quarter, San Diego (camera 32.7076, -117.1601): dark 3D script letters studded with light bulbs on a striped panel. Heavy decorative script, 'Quarter' overlaps 'Gaslamp'; difficult for OCR despite being close and sharp. Partial distractors at the bottom edge: 'ART...' lettering and a round 'SAN DIEGO STA...' seal."
+  },
+  "c85650884": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn",
+      "Zyyy"
+    ],
+    "lines": [
+      {
+        "text": "LOUIS SOBEL PARK",
+        "lang": "en"
+      },
+      {
+        "text": "RENOVATED BY NEW YORK CITY",
+        "lang": "en"
+      },
+      {
+        "text": "OFFICE OF BUSINESS DEVELOPMENT",
+        "lang": "en"
+      },
+      {
+        "text": "THROUGH THE EFFORTS OF",
+        "lang": "en"
+      },
+      {
+        "text": "OPPORTUNITY DEVELOPMENT ASSOCIATION",
+        "lang": "en"
+      },
+      {
+        "text": "1988",
+        "lang": "und"
+      }
+    ],
+    "expect": {
+      "query": "Louis Sobel Park",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Cast-metal plaque with raised serif letters bolted to an iron fence, Williamsburg, Brooklyn (camera 40.7071, -73.9614); frontal and sharp. Small letters are weathered and outlined, but legible."
+  },
+  "c94270643": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "RIVAS",
+        "lang": "en"
+      },
+      {
+        "text": "AUTO SALES",
+        "lang": "en"
+      },
+      {
+        "text": "& REPAIRS",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Rivas Auto Sales",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Retro pole sign on Roger Williams Avenue, Providence, Rhode Island (camera 41.7885, -71.4218), seen from below: 'RIVAS' stacked vertically in white on a maroon panel next to a bulb-studded arrow, 'AUTO SALES & REPAIRS' in yellow below. Ghosts of older peeled lettering show under the yellow text. Distractors at bottom left: 'NO PARKING TOW ZONE' sign and a brown 'JAMES J. CREAMER Memorial Bridge' street sign."
+  }
 }

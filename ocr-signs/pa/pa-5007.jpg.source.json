@@ -1,27 +1,23 @@
 {
-  "source": "commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Bocas_Party_Shop_-_panoramio.jpg",
-  "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Bocas_Party_Shop_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-  "license_as_published": "CC BY 3.0",
-  "license_url_as_published": "https://creativecommons.org/licenses/by/3.0",
-  "author_as_published": "hh oldman",
-  "credit_as_published": "https://web.archive.org/web/20161029111222/http://www.panoramio.com/photo/101255620",
-  "title": "File:Bocas Party Shop - panoramio.jpg",
-  "description": "Bocas Party Shop",
-  "date": "Taken on 9 December 2013",
-  "categories": [
-    "Bocas del Toro, Panama",
-    "Shop signs in Panama",
-    "Shops in Panama"
-  ],
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/1185661/1476/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlOC5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE4LzUvMjMvcHJvYy8xMTg1NjYxX2E1NzE3XzE0NzcuanBn",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "skobblertest1",
+  "credit_as_published": "KartaView user skobblertest1 (user id 41); © KartaView contributors",
+  "title": "KartaView photo 249400961, sequence 1185661 #1476 (Panama City, 2015-11-15)",
+  "description": "Street-level picture on KartaView, taken 2015-11-15 near Panama City by skobblertest1, sequence 1185661, heading 0. OCR (PP-OCRv3) read: Fellpe Motta",
+  "date": "2015-11-15",
+  "categories": [],
   "camera_location": [
-    9.341808,
-    -82.240385
+    8.979309,
+    -79.519084
   ],
-  "found_by": "keyword",
-  "bytes": 634921,
-  "width": 1920,
-  "height": 1440,
-  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Bocas_Party_Shop_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-  "derivative": ""
+  "found_by": "kartaview-ocr:Panama City",
+  "bytes": 163693,
+  "width": 1200,
+  "height": 900,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlOC5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE4LzUvMjMvcHJvYy8xMTg1NjYxX2E1NzE3XzE0NzcuanBn",
+  "derivative": "crop 0,131,1200,1031 of the 1920x1080 full-size processed (blurred) picture"
 }

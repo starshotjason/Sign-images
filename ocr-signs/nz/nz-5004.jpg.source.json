@@ -1,23 +1,26 @@
 {
-  "source": "panoramax",
-  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=617aa6d9-733d-43d0-a604-cb4d224b9b78",
-  "original_url": "https://panoramax.openstreetmap.fr/images/61/7a/a6/d9/733d-43d0-a604-cb4d224b9b78.jpg",
-  "license_as_published": "CC-BY-SA-4.0",
-  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
-  "author_as_published": "Alixun",
-  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
-  "title": "Panoramax picture 617aa6d9-733d-43d0-a604-cb4d224b9b78 (Wellington, 2025-04-09)",
-  "description": "Street-level picture on Panoramax, taken 2025-04-09 near Wellington by Alixun, sequence 2f002ade-d60e-4612-bbd2-5f9f92b56985, heading 7. OCR (PP-OCRv3) read: OUTLETCITY | Taster | 24MAINROAD,TAWA | NRU982 | MAGIC",
-  "date": "2025-04-09",
-  "categories": [],
-  "camera_location": [
-    -41.298033,
-    174.7756689
+  "source": "commons",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Sign-1310881,_Wainuiomata,_Wellington,_New_Zealand.jpg",
+  "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Sign-1310881%2C_Wainuiomata%2C_Wellington%2C_New_Zealand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author_as_published": "Wainuio",
+  "credit_as_published": "Own work",
+  "title": "File:Sign-1310881, Wainuiomata, Wellington, New Zealand.jpg",
+  "description": "Bilingual Samoan-English church name sign, in which 'EKALESIA' means 'Church' in Samoan.",
+  "date": "2025-04-08 12:17:12",
+  "categories": [
+    "Bilingual English-Samoan signs",
+    "Church notice boards in New Zealand",
+    "Methodist churches in New Zealand",
+    "Samoan-language information boards in New Zealand",
+    "Signs with blue sky background"
   ],
-  "found_by": "panoramax-ocr:Wellington",
-  "bytes": 322210,
-  "width": 1362,
-  "height": 1021,
-  "downloaded_url": "https://panoramax.openstreetmap.fr/images/61/7a/a6/d9/733d-43d0-a604-cb4d224b9b78.jpg",
-  "derivative": "crop 0,814,1362,1835 of the 4080x1836 HD picture"
+  "camera_location": null,
+  "found_by": "keyword",
+  "bytes": 534259,
+  "width": 1920,
+  "height": 1440,
+  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Sign-1310881%2C_Wainuiomata%2C_Wellington%2C_New_Zealand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "derivative": ""
 }

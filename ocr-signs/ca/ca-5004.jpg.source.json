@@ -1,23 +1,26 @@
 {
-  "source": "panoramax",
-  "source_url": "https://panoramax.mapcomplete.org/#focus=pic&pic=6df63077-e691-42d3-b800-d5487d54b00f",
-  "original_url": "https://panoramax.mapcomplete.org/permanent/6d/f6/30/77/e691-42d3-b800-d5487d54b00f.jpg",
-  "license_as_published": "CC-BY-SA-4.0",
-  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
-  "author_as_published": "mapcomplete",
-  "credit_as_published": "Panoramax, instance mapcomplete (https://panoramax.mapcomplete.org)",
-  "title": "Panoramax picture 6df63077-e691-42d3-b800-d5487d54b00f (Ottawa, 2026-07-22)",
-  "description": "Street-level picture on Panoramax, taken 2026-07-22 near Ottawa by mapcomplete, sequence a7cf963f-8d1c-4bac-9717-e3149f5f9fff, heading 85. OCR (PP-OCRv3) read: ank | 32-5路 | Pay Low Get... | EXCEPTED | SAUF LES | RELAXATION | MASSACE | rue Somersetstw. | UPUNCTURE | TWOFLAVOURS.ONE DOOR",
-  "date": "2026-07-22",
-  "categories": [],
-  "camera_location": [
-    45.415441667,
-    -75.696661111
+  "source": "commons",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Studio_Glass_Shop_Vancouver_Canada_-_panoramio.jpg",
+  "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Studio_Glass_Shop_Vancouver_Canada_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "license_as_published": "CC BY-SA 3.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/3.0",
+  "author_as_published": "Chanilim714",
+  "credit_as_published": "https://web.archive.org/web/20161018013318/http://www.panoramio.com/photo/42650702",
+  "title": "File:Studio Glass Shop Vancouver Canada - panoramio.jpg",
+  "description": "Studio Glass Shop Vancouver Canada",
+  "date": "Taken on 23 October 2010",
+  "categories": [
+    "Shop signs in Vancouver",
+    "Shops in Vancouver"
   ],
-  "found_by": "panoramax-ocr:Ottawa",
-  "bytes": 189494,
-  "width": 1200,
-  "height": 900,
-  "downloaded_url": "https://panoramax.mapcomplete.org/permanent/6d/f6/30/77/e691-42d3-b800-d5487d54b00f.jpg",
-  "derivative": "crop 1872,2517,3072,3417 of the 3072x4080 HD picture"
+  "camera_location": [
+    49.270689,
+    -123.134315
+  ],
+  "found_by": "keyword",
+  "bytes": 543742,
+  "width": 1920,
+  "height": 1440,
+  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Studio_Glass_Shop_Vancouver_Canada_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "derivative": ""
 }

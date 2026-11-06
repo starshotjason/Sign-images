@@ -1,27 +1,27 @@
 {
   "source": "commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:No_Shooting_Sign_-_Villeneuve_Airport.jpg",
-  "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/No_Shooting_Sign_-_Villeneuve_Airport.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-  "license_as_published": "CC BY-SA 2.0",
-  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/2.0",
-  "author_as_published": "formulanone",
-  "credit_as_published": "https://www.flickr.com/photos/formulanone/29552182337/",
-  "title": "File:No Shooting Sign - Villeneuve Airport.jpg",
-  "description": "A \"No Shooting\" sign at Villeneuve Airport.",
-  "date": "2017-04-06 20:54:59",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Carcross_Desert_sign_%E2%80%93_Yukon_%E2%80%93_(2017-05-20).jpg",
+  "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Carcross_Desert_sign_%E2%80%93_Yukon_%E2%80%93_%282017-05-20%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author_as_published": "Ryan Sharpe",
+  "credit_as_published": "Own work",
+  "title": "File:Carcross Desert sign – Yukon – (2017-05-20).jpg",
+  "description": "Sign for the Carcross Desert in southern Yukon, Canada. The Carcross Desert is considered by many to be the smallest desert in the world, measuring just 2.6 square km (640 acres; 1 square mi).",
+  "date": "Taken on 20 May 2017",
   "categories": [
-    "April 2017 in Alberta",
-    "Bilingual English-French signs in Canada",
-    "Chain-link fences in Alberta",
-    "Shooting prohibition signs",
-    "Signs in Alberta",
-    "Villeneuve Airport"
+    "Carcross Desert",
+    "May 2017 in Yukon",
+    "Park signs in Yukon"
   ],
-  "camera_location": null,
+  "camera_location": [
+    60.185424,
+    -134.700193
+  ],
   "found_by": "keyword",
-  "bytes": 539493,
+  "bytes": 859647,
   "width": 1920,
-  "height": 1280,
-  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/No_Shooting_Sign_-_Villeneuve_Airport.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "height": 1440,
+  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Carcross_Desert_sign_%E2%80%93_Yukon_%E2%80%93_%282017-05-20%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
   "derivative": ""
 }

@@ -1,26 +1,25 @@
 {
   "source": "commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:TnT_Dattatreya_Mandir_4.jpg",
-  "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/TnT_Dattatreya_Mandir_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-  "license_as_published": "CC BY-SA 4.0",
-  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0",
-  "author_as_published": "Grueslayer",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Halal_poultry_shop_in_El_Socorro,_Trinidad_opposite_Nur_E_Islam_Masjid_with_sign_advertising_local_ducks_and_chickens.jpg",
+  "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Halal_poultry_shop_in_El_Socorro%2C_Trinidad_opposite_Nur_E_Islam_Masjid_with_sign_advertising_local_ducks_and_chickens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "license_as_published": "CC0",
+  "license_url_as_published": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "author_as_published": "999real",
   "credit_as_published": "Own work",
-  "title": "File:TnT Dattatreya Mandir 4.jpg",
-  "description": "Dattatreya Mandir, Carapichaima, Couva-Tabaquite-Talparo, Trinidad and Tobago. Patron of the temple (mandir) is Ganapathi Sachchidananda. Background: Hanuman statue.",
-  "date": "2016-12-21 22:32:08",
+  "title": "File:Halal poultry shop in El Socorro, Trinidad opposite Nur E Islam Masjid with sign advertising local ducks and chickens.jpg",
+  "description": "Halal poultry shop in El Socorro, Trinidad opposite Nur E Islam Masjid with sign advertising local ducks and chickens",
+  "date": "",
   "categories": [
-    "Hindu temples in Trinidad and Tobago",
-    "No entry signs"
+    "2024 in Trinidad and Tobago",
+    "El Socorro, Trinidad and Tobago",
+    "Islam in Trinidad and Tobago",
+    "Shops in Trinidad and Tobago"
   ],
-  "camera_location": [
-    10.475692,
-    -61.430786
-  ],
+  "camera_location": null,
   "found_by": "keyword",
-  "bytes": 354885,
+  "bytes": 518836,
   "width": 1920,
-  "height": 1440,
-  "downloaded_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/TnT_Dattatreya_Mandir_4.jpg/1920px-TnT_Dattatreya_Mandir_4.jpg",
-  "derivative": "Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org)"
+  "height": 1707,
+  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Halal_poultry_shop_in_El_Socorro%2C_Trinidad_opposite_Nur_E_Islam_Masjid_with_sign_advertising_local_ducks_and_chickens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "derivative": ""
 }

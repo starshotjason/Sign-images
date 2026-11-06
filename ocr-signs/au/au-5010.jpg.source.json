@@ -1,0 +1,23 @@
+{
+  "source": "kartaview",
+  "source_url": "https://kartaview.org/details/1344285/296/track-info",
+  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTEub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAxOS8yLzI1L3Byb2MvMTM0NDI4NV81XzFkZmRiXzQ3LmpwZw",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author_as_published": "rieza-prawira",
+  "credit_as_published": "KartaView user rieza-prawira (user id 17677); © KartaView contributors",
+  "title": "KartaView photo 363746783, sequence 1344285 #296 (Canberra, 2019-02-24)",
+  "description": "Street-level picture on KartaView, taken 2019-02-24 near Canberra by rieza-prawira, sequence 1344285, heading 109.65. OCR (PP-OCRv3) read: 51ALLARA",
+  "date": "2019-02-24",
+  "categories": [],
+  "camera_location": [
+    -35.2839,
+    149.132115
+  ],
+  "found_by": "kartaview-ocr:Canberra",
+  "bytes": 298916,
+  "width": 1920,
+  "height": 1080,
+  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTEub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAxOS8yLzI1L3Byb2MvMTM0NDI4NV81XzFkZmRiXzQ3LmpwZw",
+  "derivative": "whole 1920x1080 full-size processed (blurred) picture as served by the KartaView CDN (byte-identical; the service blurs faces and number plates), not cropped"
+}

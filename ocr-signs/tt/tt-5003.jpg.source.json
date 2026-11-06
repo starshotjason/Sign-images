@@ -1,25 +1,29 @@
 {
   "source": "commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Sewdass_Sadhu_Shiva_Mandir_in_the_Sea.jpg",
-  "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Sewdass_Sadhu_Shiva_Mandir_in_the_Sea.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Scarborough_Port,_Tobago.JPG",
+  "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Scarborough_Port%2C_Tobago.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
   "license_as_published": "CC BY-SA 4.0",
   "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0",
-  "author_as_published": "Sven stig",
+  "author_as_published": "Kalamazadkhan",
   "credit_as_published": "Own work",
-  "title": "File:Sewdass Sadhu Shiva Mandir in the Sea.jpg",
-  "description": "Temple by the Sea",
-  "date": "2017-03-19 10:26:07",
+  "title": "File:Scarborough Port, Tobago.JPG",
+  "description": "The port of Scarborough, Tobago. Administrative and commercial capital of the island.",
+  "date": "2012-08-19",
   "categories": [
-    "Hindu temples in Trinidad and Tobago",
-    "JPG ॐ",
-    "No flower picking signs",
-    "Trishula"
+    "2012 in Trinidad and Tobago",
+    "Ports and harbours in Trinidad and Tobago",
+    "Roof tile signs",
+    "Scarborough, Tobago",
+    "Welcome (text)"
   ],
-  "camera_location": null,
+  "camera_location": [
+    11.11,
+    -60.44
+  ],
   "found_by": "keyword",
-  "bytes": 492027,
+  "bytes": 489855,
   "width": 1920,
-  "height": 1440,
-  "downloaded_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Sewdass_Sadhu_Shiva_Mandir_in_the_Sea.jpg/1920px-Sewdass_Sadhu_Shiva_Mandir_in_the_Sea.jpg",
-  "derivative": "Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org)"
+  "height": 1080,
+  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Scarborough_Port%2C_Tobago.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "derivative": ""
 }

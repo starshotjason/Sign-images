@@ -1,29 +1,26 @@
 {
   "source": "commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Scarborough_Port,_Tobago.JPG",
-  "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Scarborough_Port%2C_Tobago.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source_url": "https://commons.wikimedia.org/wiki/File:TnT_Debe_Town_Sign_2.jpg",
+  "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/TnT_Debe_Town_Sign_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
   "license_as_published": "CC BY-SA 4.0",
   "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0",
-  "author_as_published": "Kalamazadkhan",
+  "author_as_published": "Grueslayer",
   "credit_as_published": "Own work",
-  "title": "File:Scarborough Port, Tobago.JPG",
-  "description": "The port of Scarborough, Tobago. Administrative and commercial capital of the island.",
-  "date": "2012-08-19",
+  "title": "File:TnT Debe Town Sign 2.jpg",
+  "description": "Town sign of Debe, Penal-Debe, Trinidad and Tobago.",
+  "date": "2016-12-23 00:49:25",
   "categories": [
-    "2012 in Trinidad and Tobago",
-    "Ports and harbours in Trinidad and Tobago",
-    "Roof tile signs",
-    "Scarborough, Tobago",
-    "Welcome (text)"
+    "Debe, Trinidad and Tobago",
+    "Signs in Trinidad and Tobago"
   ],
   "camera_location": [
-    11.11,
-    -60.44
+    10.215256,
+    -61.453864
   ],
   "found_by": "keyword",
-  "bytes": 489855,
+  "bytes": 1015148,
   "width": 1920,
-  "height": 1080,
-  "downloaded_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Scarborough_Port%2C_Tobago.JPG/1920px-Scarborough_Port%2C_Tobago.JPG",
-  "derivative": "Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org)"
+  "height": 2560,
+  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/TnT_Debe_Town_Sign_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "derivative": ""
 }

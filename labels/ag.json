@@ -150,5 +150,13 @@
   "c52879424": {
     "accept": false,
     "reason": "'PLEASE DO NOT DUMP GARBAGE HERE' notice; no place name"
+  },
+  "c184150853": {
+    "accept": false,
+    "reason": "roundabout warning triangle with 'REDUCE SPEED NOW / NEW ROUNDABOUT AHEAD' plates; warning only, no place name (the Bridget's shop sign behind is too small)"
+  },
+  "c184150859": {
+    "accept": false,
+    "reason": "plain no-entry roundel by a residential lane; no text"
   }
 }

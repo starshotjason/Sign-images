@@ -1,23 +1,25 @@
 {
-  "source": "kartaview",
-  "source_url": "https://kartaview.org/details/1185661/1516/track-info",
-  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlOC5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE4LzUvMjMvcHJvYy8xMTg1NjYxX2E1NzE3XzE1MTcuanBn",
+  "source": "commons",
+  "source_url": "https://commons.wikimedia.org/wiki/File:3D_Panam%C3%A1_-30_dec_2018.jpg",
+  "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/3D_Panam%C3%A1_-30_dec_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
   "license_as_published": "CC BY-SA 4.0",
-  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
-  "author_as_published": "skobblertest1",
-  "credit_as_published": "KartaView user skobblertest1 (user id 41); © KartaView contributors",
-  "title": "KartaView photo 249401041, sequence 1185661 #1516 (Panama City, 2015-11-15)",
-  "description": "Street-level picture on KartaView, taken 2015-11-15 near Panama City by skobblertest1, sequence 1185661, heading 0. OCR (PP-OCRv3) read: Sandras | Reguney",
-  "date": "2015-11-15",
-  "categories": [],
-  "camera_location": [
-    8.981625,
-    -79.520398
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author_as_published": "Uviein",
+  "credit_as_published": "Own work",
+  "title": "File:3D Panamá -30 dec 2018.jpg",
+  "description": "Letrero 3D de la Ciudad de Panamá",
+  "date": "2018-12-30",
+  "categories": [
+    "2018 in Panama City",
+    "3D letter place name signs in Panama",
+    "Colorful signs",
+    "Signs in Panama City"
   ],
-  "found_by": "kartaview-ocr:Panama City",
-  "bytes": 170414,
-  "width": 1200,
-  "height": 900,
-  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlOC5vcGVuc3RyZWV0Y2FtLm9yZy9maWxlcy9waG90by8yMDE4LzUvMjMvcHJvYy8xMTg1NjYxX2E1NzE3XzE1MTcuanBn",
-  "derivative": "crop 425,155,1625,1055 of the 1920x1080 full-size processed (blurred) picture"
+  "camera_location": null,
+  "found_by": "keyword",
+  "bytes": 155688,
+  "width": 1280,
+  "height": 727,
+  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/3D_Panam%C3%A1_-30_dec_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "derivative": ""
 }

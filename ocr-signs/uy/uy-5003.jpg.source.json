@@ -1,29 +1,31 @@
 {
   "source": "commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:%22Colonia%22_sign_1.jpg",
-  "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/%22Colonia%22_sign_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Camping_%2233_Orientales%22_sign.jpg",
+  "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Camping_%2233_Orientales%22_sign.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
   "license_as_published": "CC0",
   "license_url_as_published": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
   "author_as_published": "Mx. Granger",
   "credit_as_published": "Own work",
-  "title": "File:\"Colonia\" sign 1.jpg",
-  "description": "\"Colonia\" sign by the water in Colonia del Sacramento, lit up at night.",
-  "date": "24 July 2017 (according to Exif data)",
+  "title": "File:Camping \"33 Orientales\" sign.jpg",
+  "description": "The sign for Camping \"33 Orientales\" in Durazno, Uruguay.",
+  "date": "4 June 2017 (according to Exif data)",
   "categories": [
-    "3D letter place name signs in Uruguay",
-    "Colonia del Sacramento",
-    "Rambla de las Américas, Colonia del Sacramento",
-    "Tourism in Colonia Department",
-    "Visitor attractions in Uruguay"
+    "Camping signs",
+    "Campsites in Uruguay",
+    "Durazno",
+    "Gates in Uruguay",
+    "Things named after the Thirty-Three Orientals",
+    "Tourism in Durazno Department",
+    "Tourist signs in Uruguay"
   ],
   "camera_location": [
-    -34.44444969,
-    -57.85954989
+    -33.36878744,
+    -56.51785508
   ],
   "found_by": "keyword",
-  "bytes": 234027,
+  "bytes": 781672,
   "width": 1920,
   "height": 1440,
-  "downloaded_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/%22Colonia%22_sign_1.jpg/1920px-%22Colonia%22_sign_1.jpg",
-  "derivative": "Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org)"
+  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Camping_%2233_Orientales%22_sign.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "derivative": ""
 }

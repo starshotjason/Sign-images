@@ -1,26 +1,25 @@
 {
   "source": "commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:WelcomeToDebeSign.jpg",
-  "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/08/WelcomeToDebeSign.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Englishman%27s_Bay_-_Tobago,_West_Indies_(2).jpg",
+  "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Englishman%27s_Bay_-_Tobago%2C_West_Indies_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
   "license_as_published": "CC BY-SA 4.0",
   "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0",
-  "author_as_published": "Arimaboss",
+  "author_as_published": "Kalamazadkhan",
   "credit_as_published": "Own work",
-  "title": "File:WelcomeToDebeSign.jpg",
-  "description": "Welcome to Debe sign in Debe, Trinidad and Tobago.",
-  "date": "2018-07-11 18:22:47",
+  "title": "File:Englishman's Bay - Tobago, West Indies (2).jpg",
+  "description": "Englishman's Bay in Tobago is a popular destination for foreign yachts.",
+  "date": "2012-08-21 13:27:27",
   "categories": [
-    "Debe, Trinidad and Tobago",
+    "2012 in Trinidad and Tobago",
+    "Beaches of Tobago",
+    "Englishman's Bay",
     "Signs in Trinidad and Tobago"
   ],
-  "camera_location": [
-    10.217608,
-    -61.458017
-  ],
+  "camera_location": null,
   "found_by": "keyword",
-  "bytes": 266215,
+  "bytes": 875838,
   "width": 1920,
-  "height": 1493,
-  "downloaded_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/WelcomeToDebeSign.jpg/1920px-WelcomeToDebeSign.jpg",
-  "derivative": "Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org)"
+  "height": 1080,
+  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Englishman%27s_Bay_-_Tobago%2C_West_Indies_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "derivative": ""
 }

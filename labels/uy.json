@@ -1,0 +1,317 @@
+{
+  "c143986362": {
+    "accept": false,
+    "reason": "toy-car display case with a 'NO TOCAR MUCHO' notice and 'SHOWCASTS DIECAST COLLECTIBLES' product branding; no place name"
+  },
+  "c10313768": {
+    "accept": true,
+    "reason": "",
+    "kind": "transit",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "COLONIA",
+        "lang": "es"
+      }
+    ],
+    "expect": {
+      "query": "Colonia",
+      "type": "stop"
+    },
+    "difficulty": "easy",
+    "notes": "Concrete station-name board with raised black letters on two rusty rails, Colonia del Sacramento railway station (camera -34.4731, -57.8462). Two small pointed plates hang below: left 'ALTITUD / SOBRE EL CERO / DEL PUERTO DE / MONTEVIDEO / Mts 6,00' (superscript 'ts' underlined; the decimal mark looks like a comma), right 'DISTANCIA / - DE - / CENTRAL / KILM 246' (the C of CENTRAL may carry a cedilla-like mark). These are secondary reads."
+  },
+  "c61304341": {
+    "accept": false,
+    "reason": "near-duplicate of c61304368 (same 'Colonia' 3D letters on the Rambla, night shot)"
+  },
+  "c61304368": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "Colonia",
+        "lang": "es"
+      }
+    ],
+    "expect": {
+      "query": "Colonia del Sacramento",
+      "type": "place"
+    },
+    "difficulty": "easy",
+    "notes": "Large white 3D letters on a grey plinth by the river on the Rambla de las Américas, Colonia del Sacramento (camera -34.4446, -57.8595); seen at an angle in daylight. A lamp-post shadow crosses the base."
+  },
+  "c59773144": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn",
+      "Zyyy"
+    ],
+    "lines": [
+      {
+        "text": "CAMPING “33 ORIENTALES”",
+        "lang": "es"
+      }
+    ],
+    "expect": {
+      "query": "Camping 33 Orientales",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Silver raised letters on a red beam spanning two stone pillars at the campsite entrance in Durazno (camera -33.3688, -56.5179). The quotation marks are typographic double quotes (“ ”)."
+  },
+  "c122279353": {
+    "accept": false,
+    "reason": "wrong country: Betbeder station is in Nogoyá, Entre Ríos, Argentina (matched on 'Concepción del Uruguay')"
+  },
+  "c32925288": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "PASEO",
+        "lang": "es"
+      },
+      {
+        "text": "Sn MIGUEL",
+        "lang": "es"
+      }
+    ],
+    "expect": {
+      "query": "Paseo de San Miguel",
+      "type": "street"
+    },
+    "difficulty": "hard",
+    "notes": "Small blue-and-white azulejo street plate set in a white wall, Colonia del Sacramento (no camera location); the plate is small in the frame. 'Sn' is S with a superscript N (abbreviation of San) with a small mark under it. Between PASEO and Sn MIGUEL there is a middle tile damaged by red stains; it is probably the 'DE' ligature used on Colonia plates, but only an E-like shape is legible, so it is not transcribed. Distractors: hanging 'GRUPO ARTESANAL GADEC COLONIA' shop sign at bottom, street lantern."
+  },
+  "c32926386": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Latn",
+      "Zyyy"
+    ],
+    "lines": [
+      {
+        "text": "Av. 18 de Julio",
+        "lang": "es"
+      },
+      {
+        "text": "2350 - 2300",
+        "lang": "und"
+      },
+      {
+        "text": "CP: 11200",
+        "lang": "es"
+      },
+      {
+        "text": "Bv. Artigas",
+        "lang": "es"
+      },
+      {
+        "text": "1700 - 1650",
+        "lang": "und"
+      },
+      {
+        "text": "CP: 11200",
+        "lang": "es"
+      }
+    ],
+    "expect": {
+      "query": "18 de Julio",
+      "type": "street"
+    },
+    "difficulty": "medium",
+    "notes": "Two Montevideo street-name blades at the corner of Avenida 18 de Julio and Bulevar Artigas, Tres Cruces (no camera location), seen from below against the sky. Each gives the street name, the house-number range for the block, and the postcode (CP). Both carry ANTEL sponsor strips ('antel.com.uy', 'AntelDeTodos' with social icons); these are advertising, not part of the label. The Bv. Artigas blade is darker and angled."
+  },
+  "c7859750": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "CALLE",
+        "lang": "es"
+      },
+      {
+        "text": "DE",
+        "lang": "es"
+      },
+      {
+        "text": "ESPAÑA",
+        "lang": "es"
+      }
+    ],
+    "expect": {
+      "query": "Calle de España",
+      "type": "street"
+    },
+    "difficulty": "medium",
+    "notes": "Blue-on-white tiled azulejo street plate in a white wall, Colonia del Sacramento (no camera location); frontal and close but the glaze is heavily cracked and flaked. 'DE' is written as a ligature (D and E sharing a stem). The tilde on Ñ is visible. Decorative scroll border."
+  },
+  "c114756737": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "Saúl",
+        "lang": "es"
+      },
+      {
+        "text": "PERFUMERIA COSMETICA",
+        "lang": "es"
+      }
+    ],
+    "expect": {
+      "query": "Saúl",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Red corner fascia of a perfume shop on Avenida 18 de Julio, Montevideo (no camera location); raised cream letters with an interlocked 'JS'-style monogram forming the S of 'Saúl' (acute accent on the u). No accent on PERFUMERIA or COSMETICA. The side face repeats 'Saúl / COSMETICA', and a lower band reads 'PERFUM... COSMETICA'. Distractors: 'Las Margaritas BELLEZA PROFESIONAL Perfumería / ACP CURSOS Peluquería & Estética', 'EL MUNDO DE LOS RELOJES', 'Préstamos en e... EMPLEADOS PÚBLICOS · JUBILADO...' and a cut 'EDIFICIO PARM...' sign. Parked cars' plates are incidental."
+  },
+  "c127941162": {
+    "accept": false,
+    "reason": "a writer signing a book is the subject; no sign"
+  },
+  "c147386922": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn",
+      "Zyyy"
+    ],
+    "lines": [
+      {
+        "text": "BIENVENIDOS A",
+        "lang": "es"
+      },
+      {
+        "text": "Lapataia",
+        "lang": "es"
+      },
+      {
+        "text": "PUNTA DEL ESTE",
+        "lang": "es"
+      },
+      {
+        "text": "DESDE 1986",
+        "lang": "es"
+      }
+    ],
+    "expect": {
+      "query": "Lapataia",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Black painted board hung by chains from a timber rail at the entrance of tambo (dairy farm) Lapataia, Punta del Este (no camera location); 'Lapataia' in red decorative uncial lettering where the second t has a flourish that looks like an apostrophe, and the i dot is a red drop. 'BIENVENIDOS A' is arched. White wavy decorations at both ends."
+  },
+  "c26910116": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "Disco",
+        "lang": "es"
+      }
+    ],
+    "expect": {
+      "query": "Disco",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Red oval logo with white italic 'Disco' on the facade of a Disco supermarket in Uruguay (no camera location; a car plate in the old Uruguayan 3-letter + 4-digit format and a 'HoyJuego' lottery kiosk support Uruguay rather than Argentina's Disco chain). Seen from above at an angle. Distractors: slogan 'Contigo, todos los días' in large green letters (accent on días), Disco flags, a green 'TODOS LOS MIERCOLES FERIA DE FRUTAS Y VERDURAS' board, an 'E' parking sign."
+  },
+  "c28387203": {
+    "accept": true,
+    "reason": "",
+    "kind": "hard",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "FACULTAD DE",
+        "lang": "es"
+      },
+      {
+        "text": "ARQUITECTURA",
+        "lang": "es"
+      }
+    ],
+    "expect": {
+      "query": "Facultad de Arquitectura",
+      "type": "poi"
+    },
+    "difficulty": "hard",
+    "notes": "Dark metal letters on the stone facade beside the entrance of the Facultad de Arquitectura, Universidad de la República, Montevideo (no camera location); small in a wide street view. Above a dark crest are two smaller lines, presumably 'UNIVERSIDAD DE / LA REPUBLICA', which are too small to transcribe reliably and are omitted. Parked cars with readable plates are incidental; an 'E' no-parking sign and a poster board are distractors."
+  },
+  "c30308587": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "feria del libro",
+        "lang": "es"
+      },
+      {
+        "text": "www.feriadellibro.com.uy",
+        "lang": "es"
+      }
+    ],
+    "expect": {
+      "query": "Feria del Libro",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Red fascia with white bold lowercase serif letters over a bookshop on Avenida 18 de Julio, Montevideo (no camera location), frontal; a book-reader icon at left. A second band below repeats 'feria del libro' twice. Distractors: blue 'TECSYS UN MUNDO MULTIMEDIA' sign next door with '15% DESCUENTO EN TODOS LOS PRODUCTOS' posters, window cards 'LIBROS ANTIGUOS Y MODERNOS', 'REGALE LIBROS', 'NOVEDADES SIEMPRE', a 'SITIO del LECTOR' sign at right, and a giant Santa Claus decoration on the balcony."
+  },
+  "c75828889": {
+    "accept": false,
+    "reason": "front view of the Museo Blanes villa; the only signs are no-parking roundels, no readable name"
+  },
+  "c157860106": {
+    "accept": false,
+    "reason": "no-parking sign 'L. a V. de 7 a 21 hs.' with a bicycle; the storefront signs behind are distractors only"
+  },
+  "c54171074": {
+    "accept": false,
+    "reason": "pedestrian warning sign with a 'SORDOS' (deaf) plate; warning, not a place name"
+  },
+  "c54171137": {
+    "accept": false,
+    "reason": "school/pedestrian warning sign with a 'SORDOS' (deaf) plate; warning, not a place name"
+  },
+  "c152736332": {
+    "accept": false,
+    "reason": "workers laying tactile paving are the subject; only a bus destination display, no sign"
+  }
+}
