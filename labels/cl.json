@@ -1,78 +1,366 @@
 {
- "k1836082521": {
-  "accept": true,
-  "reason": "",
-  "kind": "street sign",
-  "scripts": [
-   "Latn"
-  ],
-  "lines": [
-   {
-    "text": "AVDA.",
-    "lang": "es"
-   },
-   {
-    "text": "SANTA MARIA",
-    "lang": "es"
-   }
-  ],
-  "expect": {
-   "query": "Avenida Santa María",
-   "type": "street"
+  "k1836082521": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "AVDA.",
+        "lang": "es"
+      },
+      {
+        "text": "SANTA MARIA",
+        "lang": "es"
+      }
+    ],
+    "expect": {
+      "query": "Avenida Santa María",
+      "type": "street"
+    },
+    "difficulty": "easy",
+    "notes": "Black Santiago street-name blade with white letters and a left-arrow panel, on a traffic-light pole; written without the accent (MARIA). A second blade above with a right arrow is edge-on and unreadable; buses at the bottom are distractors."
   },
-  "difficulty": "easy",
-  "notes": "Black Santiago street-name blade with white letters and a left-arrow panel, on a traffic-light pole; written without the accent (MARIA). A second blade above with a right arrow is edge-on and unreadable; buses at the bottom are distractors."
- },
- "k1840378793": {
-  "accept": false,
-  "reason": "rooftop name 'WOK ...' is hidden by tree leaves after the first word; name incomplete"
- },
- "k292198731": {
-  "accept": false,
-  "reason": "heavily motion-blurred; shop fascias ('...ERCASEAUX', '... DEUBALDO') cut and unreliable"
- },
- "p115c2ad699": {
-  "accept": false,
-  "reason": "graffiti list of personal names on a monument base, at dusk; no sign"
- },
- "p15a702d161": {
-  "accept": false,
-  "reason": "bus rear advertising and fleet number; vehicle branding"
- },
- "p4393ac946a": {
-  "accept": false,
-  "reason": "'GRAN VIALE' is a bus-body model badge (vehicle branding)"
- },
- "p81e2a96043": {
-  "accept": false,
-  "reason": "advertising sign for car-permit payment (CMR Falabella), partly hidden by leaves"
- },
- "padea5c8df2": {
-  "accept": false,
-  "reason": "graffiti and stickers only"
- },
- "pcdcf8bd4af": {
-  "accept": false,
-  "reason": "bus rear advertising (TV package) and route number; vehicle branding"
- },
- "pf84bbcf0af": {
-  "accept": true,
-  "reason": "",
-  "kind": "business sign",
-  "scripts": [
-   "Latn"
-  ],
-  "lines": [
-   {
-    "text": "Claro",
-    "lang": "es"
-   }
-  ],
-  "expect": {
-   "query": "Claro",
-   "type": "poi"
+  "k1840378793": {
+    "accept": false,
+    "reason": "rooftop name 'WOK ...' is hidden by tree leaves after the first word; name incomplete"
   },
-  "difficulty": "easy",
-  "notes": "White 'Claro' logo (with sun-ray mark over the o) on a long red fascia of a mobile-phone shop, dusk; a red in-store display repeats the logo. A mirrored 'eurocentro' reflection in the upper glass and a snack stand at left are distractors; passers-by incidental at the bottom edge."
- }
+  "k292198731": {
+    "accept": false,
+    "reason": "heavily motion-blurred; shop fascias ('...ERCASEAUX', '... DEUBALDO') cut and unreliable"
+  },
+  "p115c2ad699": {
+    "accept": false,
+    "reason": "graffiti list of personal names on a monument base, at dusk; no sign"
+  },
+  "p15a702d161": {
+    "accept": false,
+    "reason": "bus rear advertising and fleet number; vehicle branding"
+  },
+  "p4393ac946a": {
+    "accept": false,
+    "reason": "'GRAN VIALE' is a bus-body model badge (vehicle branding)"
+  },
+  "p81e2a96043": {
+    "accept": false,
+    "reason": "advertising sign for car-permit payment (CMR Falabella), partly hidden by leaves"
+  },
+  "padea5c8df2": {
+    "accept": false,
+    "reason": "graffiti and stickers only"
+  },
+  "pcdcf8bd4af": {
+    "accept": false,
+    "reason": "bus rear advertising (TV package) and route number; vehicle branding"
+  },
+  "pf84bbcf0af": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "Claro",
+        "lang": "es"
+      }
+    ],
+    "expect": {
+      "query": "Claro",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "White 'Claro' logo (with sun-ray mark over the o) on a long red fascia of a mobile-phone shop, dusk; a red in-store display repeats the logo. A mirrored 'eurocentro' reflection in the upper glass and a snack stand at left are distractors; passers-by incidental at the bottom edge."
+  },
+  "c122614065": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "UNIVERSIDAD",
+        "lang": "es"
+      },
+      {
+        "text": "DEL BÍO-BÍO",
+        "lang": "es"
+      },
+      {
+        "text": "CAMPUS",
+        "lang": "es"
+      },
+      {
+        "text": "FERNANDO MAY",
+        "lang": "es"
+      }
+    ],
+    "expect": {
+      "query": "Campus Fernando May",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Brushed-steel monolith with blue letters and the university crest (Α Ω on an open book) at the Fernando May campus entrance, Chillán (camera -36.5996, -72.0755). Both Í in BÍO-BÍO carry acute accents. Reflections on the metal lower the contrast."
+  },
+  "c130771296": {
+    "accept": false,
+    "reason": "retail-park pylon with four separate brand panels (Lider, Maritano Ebensperger, Happyland, DECATHLON); several brand logos and no single target"
+  },
+  "c137845645": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "MONUMENTO HISTORICO",
+        "lang": "es"
+      },
+      {
+        "text": "CERRO PRIMO DE RIVERA",
+        "lang": "es"
+      }
+    ],
+    "expect": {
+      "query": "Cerro Primo de Rivera",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Rough granite block with black-painted carved letters at Cerro Primo de Rivera, Maipú (camera -33.4949, -70.7570), seen at an angle from below. HISTORICO is carved without an accent. Two faint lines carved below the name are illegible and not transcribed. Distractor: brown national-monument board behind, 'MONUMENTO NACIONAL / CERRO PRIMO DE ...' (cut by the block)."
+  },
+  "c139202821": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "VILLA LOS SETENTA",
+        "lang": "es"
+      }
+    ],
+    "expect": {
+      "query": "Villa Los Setenta",
+      "type": "place"
+    },
+    "difficulty": "medium",
+    "notes": "Weathered plank on two wooden posts at the entrance of the Villa Los Setenta neighbourhood, El Quisco (camera -33.3994, -71.6861); hand-painted white stencil-style letters with black shadow, seen from below at dusk. Back of an octagonal stop sign at right is a distractor."
+  },
+  "c139206529": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "PLAZA",
+        "lang": "es"
+      },
+      {
+        "text": "PESCADOR",
+        "lang": "es"
+      },
+      {
+        "text": "Fco.Ceballos Seco",
+        "lang": "es"
+      }
+    ],
+    "expect": {
+      "query": "Plaza Pescador Francisco Ceballos Seco",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Wavy-edged wooden board with burnt/painted black letters on two posts, on the Costanera of El Quisco (camera -33.3951, -71.6979). 'Fco.' abbreviates Francisco; there is almost no space after 'Fco.' and only a narrow gap between Ceballos and Seco."
+  },
+  "c139206533": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "PLAYA HANGA ROA",
+        "lang": "es"
+      },
+      {
+        "text": "PLAYA PELIGROSA",
+        "lang": "es"
+      },
+      {
+        "text": "PROHIBIDO BAÑARSE",
+        "lang": "es"
+      }
+    ],
+    "expect": {
+      "query": "Playa Hanga Roa",
+      "type": "place"
+    },
+    "difficulty": "medium",
+    "notes": "Municipal beach board in El Quisco (camera -33.3981, -71.7005), angled view; the beach name is the large heading. Only the heading and the two warning lines under it are transcribed. The rest of the board is a list of rules (PROHIBIDO EL TRÁNSITO DE VEHÍCULOS EN LA PLAYA, ...), emergency numbers (TELÉFONOS DE EMERGENCIA, 131 ATENCIÓN MÉDICA URGENCIA, ...), a Municipalidad de El Quisco crest and a red bottom band 'NO APTA PARA EL BAÑO'. Two vertical shadow stripes from the posts cross the board."
+  },
+  "c140918201": {
+    "accept": false,
+    "reason": "'BESO Y CHAO' kiss-and-ride drop-off sign with pictogram outside a school; an instruction sign, no place name"
+  },
+  "c170338713": {
+    "accept": false,
+    "reason": "frost-covered 'PASO PEATONAL / WALKWAY' pedestrian sign; generic traffic sign, no place name"
+  },
+  "c177478755": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "VALDIVIA",
+        "lang": "es"
+      }
+    ],
+    "expect": {
+      "query": "Valdivia",
+      "type": "place"
+    },
+    "difficulty": "medium",
+    "notes": "Large outline letters made of rusty steel standing on the lawn of the riverside Costanera, Valdivia (camera -39.8123, -73.2476). Letters are open frames (the I's look like narrow rectangles, the A's have triangle inserts), so word shapes are unusual. People in the background are incidental."
+  },
+  "c183778063": {
+    "accept": true,
+    "reason": "",
+    "kind": "transit",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "efe",
+        "lang": "es"
+      },
+      {
+        "text": "LLANQUIHUE",
+        "lang": "es"
+      }
+    ],
+    "expect": {
+      "query": "Llanquihue",
+      "type": "stop"
+    },
+    "difficulty": "medium",
+    "notes": "EFE railway station totem at Llanquihue station (camera -41.2533, -73.0064): round blue 'efe' logo disc on top, station name written vertically (rotated 90°, reading bottom to top) on the blue panel below. Seen from below against the sky."
+  },
+  "c196940627": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "BARRIO PASEO PROVIDENCIA",
+        "lang": "es"
+      },
+      {
+        "text": "ARQUITECTA MONTSERRAT",
+        "lang": "es"
+      },
+      {
+        "text": "PALMER TRIAS",
+        "lang": "es"
+      },
+      {
+        "text": "Editora, investigadora, diseñadora y arquitecta.",
+        "lang": "es"
+      },
+      {
+        "text": "Una autoridad cultural para Chile",
+        "lang": "es"
+      }
+    ],
+    "expect": {
+      "query": "Arquitecta Montserrat Palmer Trías",
+      "type": "street"
+    },
+    "difficulty": "medium",
+    "notes": "Yellow arrow-shaped street-name blade with pedestrian, dining, book and number pictograms, Providencia, Santiago (camera -33.4223, -70.6119). The sign writes TRIAS without an accent (the official name is Trías). Leaf shadows across the blade. Distractor: a second, angled yellow blade below 'BARRIO PASEO PROVIDENCIA / LAS URBINAS'."
+  },
+  "c22408988": {
+    "accept": false,
+    "reason": "'CRUCE DE VICUÑAS' wildlife-crossing warning sign; no place name"
+  },
+  "c63076752": {
+    "accept": false,
+    "reason": "wrong country: 'N5 CHILE' street plate (with 'UNA VIA' arrow) is Calle Chile in the historic centre of Quito, Ecuador"
+  },
+  "c6667314": {
+    "accept": false,
+    "reason": "historical tile plaque: 'Castillo Wulff' heading over a paragraph of history text; an information plaque rather than a name sign"
+  },
+  "c80141310": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "PASEO AHUMADA",
+        "lang": "es"
+      },
+      {
+        "text": "200",
+        "lang": "und"
+      },
+      {
+        "text": "298",
+        "lang": "und"
+      }
+    ],
+    "expect": {
+      "query": "Paseo Ahumada",
+      "type": "street"
+    },
+    "difficulty": "easy",
+    "notes": "Brushed-steel street blade with red letters and the house-number range 200 (left) to 298 (right), on a pole in central Santiago (camera -33.4408, -70.6508). Distractors: the 'Claro video / Descarga la APP' advert panel above, a pedestrian-pictogram blade at right, and a Starbucks logo behind."
+  },
+  "c82509446": {
+    "accept": true,
+    "reason": "",
+    "kind": "hard",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "CERRO PRIMO DE RIVERA",
+        "lang": "es"
+      },
+      {
+        "text": "MONUMENTO HISTÓRICO",
+        "lang": "es"
+      }
+    ],
+    "expect": {
+      "query": "Cerro Primo de Rivera",
+      "type": "poi"
+    },
+    "difficulty": "hard",
+    "notes": "Tall corten-steel pillar at the park entrance, Maipú (camera -33.4953, -70.7572), with dark letters written vertically (rotated 90°, reading bottom to top); low contrast, small in the frame. Different physical sign from c137845645 (same site). Distractors: 'PARQUE INTERCOMUNAL' in large letters on the wall, a street blade 'ANUNCIACIÓN' with a two-way arrow, and a small cut street blade."
+  }
 }

@@ -1,23 +1,23 @@
 {
-  "source": "panoramax",
-  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=05408cf3-c18f-4243-b73d-d56ada116c3b",
-  "original_url": "https://panoramax.openstreetmap.fr/images/05/40/8c/f3/c18f-4243-b73d-d56ada116c3b.jpg",
-  "license_as_published": "CC-BY-SA-4.0",
-  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
-  "author_as_published": "Danil",
-  "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
-  "title": "Panoramax picture 05408cf3-c18f-4243-b73d-d56ada116c3b (Mecca, 2026-06-09)",
-  "description": "Street-level picture taken 2026-06-09 near Mecca by Danil, sequence 31278c9a-39bf-4f61-907a-1b7cddb876f4, heading 132. OCR (PP-OCRv3) read: ELAFKNDAHOL OSL",
-  "date": "2026-06-09",
-  "categories": [],
-  "camera_location": [
-    21.418951292,
-    39.824109744
+  "source": "commons",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Sign_to_Dammam.jpg",
+  "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Sign_to_Dammam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "license_as_published": "CC BY 2.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by/2.0",
+  "author_as_published": "jonrawlinson",
+  "credit_as_published": "sign to Dammam, Saudi Arabia",
+  "title": "File:Sign to Dammam.jpg",
+  "description": "Sign to Dammam",
+  "date": "2007-04-12",
+  "categories": [
+    "Dammam",
+    "Roads in Saudi Arabia"
   ],
-  "found_by": "panoramax-ocr:Mecca",
-  "bytes": 518519,
-  "width": 3072,
-  "height": 1728,
-  "downloaded_url": "https://panoramax.openstreetmap.fr/images/05/40/8c/f3/c18f-4243-b73d-d56ada116c3b.jpg",
-  "derivative": "whole 3072x1728 HD picture as served by the Panoramax instance (byte-identical; the instance blurs faces and number plates), not cropped"
+  "camera_location": null,
+  "found_by": "keyword",
+  "bytes": 565959,
+  "width": 1920,
+  "height": 1440,
+  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Sign_to_Dammam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "derivative": ""
 }

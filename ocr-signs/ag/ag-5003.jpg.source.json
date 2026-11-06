@@ -1,26 +1,25 @@
 {
   "source": "commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Bench_John_3_16.jpg",
-  "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Bench_John_3_16.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-  "license_as_published": "CC BY 2.0",
-  "license_url_as_published": "https://creativecommons.org/licenses/by/2.0",
-  "author_as_published": "Lindz Graham from Strathaven, Scotland",
-  "credit_as_published": "John 3.16 ]",
-  "title": "File:Bench John 3 16.jpg",
-  "description": "Park bench with Bible verse from John 3:16 in Antigua",
-  "date": "2008-07-09 11:49:49",
+  "source_url": "https://commons.wikimedia.org/wiki/File:John_Hughes_welcome_sign.jpg",
+  "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/John_Hughes_welcome_sign.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author_as_published": "CROIX",
+  "credit_as_published": "Own work",
+  "title": "File:John Hughes welcome sign.jpg",
+  "description": "John Hughes welcome sign in June 2023",
+  "date": "2023-06-28 13:09:32",
   "categories": [
-    "Antigua",
-    "Benches in Antigua and Barbuda",
-    "Black, red, white",
-    "John 3:16",
-    "Signs in Antigua and Barbuda"
+    "Saint Mary Parish, Antigua and Barbuda"
   ],
-  "camera_location": null,
+  "camera_location": [
+    17.050839,
+    -61.808419
+  ],
   "found_by": "keyword",
-  "bytes": 634290,
+  "bytes": 1198135,
   "width": 1920,
-  "height": 1440,
-  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Bench_John_3_16.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "height": 1439,
+  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/John_Hughes_welcome_sign.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
   "derivative": ""
 }

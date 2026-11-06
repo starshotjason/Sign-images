@@ -552,5 +552,36 @@
   "fff35c4b5-d94a-40aa-9879-95b8102c801f": {
     "accept": false,
     "reason": "near-duplicate: same Kingdom Dates fascia design as accepted f463e4415"
+  },
+  "c10230757": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Arab",
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "الدمام",
+        "lang": "ar",
+        "latin": "ad-Dammam (Dammam)"
+      },
+      {
+        "text": "Dammam",
+        "lang": "en"
+      },
+      {
+        "text": "٦١٣",
+        "lang": "und",
+        "latin": "613"
+      }
+    ],
+    "expect": {
+      "query": "Dammam",
+      "type": "place"
+    },
+    "difficulty": "medium",
+    "notes": "Blue overhead gantry blade over the through lanes (three down arrows), Jubail area; route number ٦١٣ (Arabic-Indic digits) on a white patch. Distractor: the adjoining EXIT / مخرج panel 'وسط الجبيل / Jubail Center' and 'قاعدة الملك عبدالعزيز البحرية / King Abdul Aziz Naval Base'. Directional road sign naming a city."
   }
 }

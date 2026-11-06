@@ -1,23 +1,25 @@
 {
   "source": "commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Tradewinds_2014_plane_crash_exercise_140604-N-IA840-157.jpg",
-  "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Tradewinds_2014_plane_crash_exercise_140604-N-IA840-157.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-  "license_as_published": "Public domain",
-  "license_url_as_published": null,
-  "author_as_published": "Chief Petty Officer Elizabeth Thompson",
-  "credit_as_published": "https://www.dvidshub.net/image/1380641",
-  "title": "File:Tradewinds 2014 plane crash exercise 140604-N-IA840-157.jpg",
-  "description": "Constable Renee Roberts, Antigua and Barbuda Fire Services with Coolidge Fire Station, monitors the vital signs of Junior Monford, a lifeguard with the Antigua and Barbuda Ministry of Tourism, during a mass casualty training exercise here on June 4. Monford and several other lifeguards volunteered as role players, simulating injured plane crash survivors during an Antigua and Barbuda Defence Force (ABDF) training exercise. The exercise tested the response capabilities of local emergency services",
-  "date": "Taken on 4 June 2014",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Road_sign_in_Antigua_and_Barbuda_2020s_01.jpg",
+  "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Road_sign_in_Antigua_and_Barbuda_2020s_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "license_as_published": "CC BY 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by/4.0",
+  "author_as_published": "CROIX",
+  "credit_as_published": "Own work",
+  "title": "File:Road sign in Antigua and Barbuda 2020s 01.jpg",
+  "description": "A road sign in Antigua and Barbuda in the 2020s",
+  "date": "2023-07-12 13:36:31",
   "categories": [
-    "Mass-casualty training",
-    "Tradewinds 2014"
+    "Road signs in Antigua and Barbuda"
   ],
-  "camera_location": null,
+  "camera_location": [
+    17.637203,
+    -61.826467
+  ],
   "found_by": "keyword",
-  "bytes": 506694,
+  "bytes": 1892436,
   "width": 1920,
-  "height": 1275,
-  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Tradewinds_2014_plane_crash_exercise_140604-N-IA840-157.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "height": 2560,
+  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Road_sign_in_Antigua_and_Barbuda_2020s_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
   "derivative": ""
 }

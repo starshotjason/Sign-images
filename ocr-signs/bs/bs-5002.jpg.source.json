@@ -1,23 +1,26 @@
 {
-  "source": "panoramax",
-  "source_url": "https://panoramax.mapcomplete.org/#focus=pic&pic=da53acda-4264-4108-a631-429d0d7edd82",
-  "original_url": "https://panoramax.mapcomplete.org/permanent/da/53/ac/da/4264-4108-a631-429d0d7edd82.jpg",
-  "license_as_published": "CC-BY-SA-4.0",
-  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
-  "author_as_published": "mapcomplete",
-  "credit_as_published": "Panoramax, instance mapcomplete (https://panoramax.mapcomplete.org)",
-  "title": "Panoramax picture da53acda-4264-4108-a631-429d0d7edd82 (Nassau, 2025-08-13)",
-  "description": "Street-level picture on Panoramax, taken 2025-08-13 near Nassau by mapcomplete, sequence 14ea2dff-2d5f-4134-9a9c-0b7ff34d87aa, heading None. OCR (PP-OCRv3) read: Cogos Deli | YES | WE'RE | OPEN | Shop Hours: | MONDAY-FRIDAY | 8:00am-4:30pm | Sandwiches.Snacks·Wraps | SaladsWingsPastas",
-  "date": "2025-08-13",
-  "categories": [],
-  "camera_location": [
-    25.0679213,
-    -77.3286001
+  "source": "commons",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Sandals_Island_entrance_sign.jpg",
+  "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Sandals_Island_entrance_sign.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author_as_published": "User:B",
+  "credit_as_published": "Own work",
+  "title": "File:Sandals Island entrance sign.jpg",
+  "description": "Sign at the entrance to the Sandals side of Discovery Island",
+  "date": "2018-12-20",
+  "categories": [
+    "Discovery Island (Bahamas)",
+    "Sandals Royal Bahamian"
   ],
-  "found_by": "panoramax-ocr:Nassau",
-  "bytes": 1196019,
-  "width": 3087,
-  "height": 2315,
-  "downloaded_url": "https://panoramax.mapcomplete.org/permanent/da/53/ac/da/4264-4108-a631-429d0d7edd82.jpg",
-  "derivative": "crop 0,490,3087,2805 of the 4032x3024 HD picture"
+  "camera_location": [
+    25.09017322,
+    -77.40471011
+  ],
+  "found_by": "keyword",
+  "bytes": 915433,
+  "width": 1920,
+  "height": 1439,
+  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Sandals_Island_entrance_sign.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "derivative": ""
 }

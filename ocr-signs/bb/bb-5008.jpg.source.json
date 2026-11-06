@@ -1,25 +1,23 @@
 {
   "source": "commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:The_Barbados_Yacht_Club_sign.jpg",
-  "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/The_Barbados_Yacht_Club_sign.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-  "license_as_published": "Public domain",
-  "license_url_as_published": null,
-  "author_as_published": "CaribDigita",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Royal_Barbados_Yacht_Club_Sign.jpg",
+  "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Royal_Barbados_Yacht_Club_Sign.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "license_as_published": "CC0",
+  "license_url_as_published": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "author_as_published": "Unionville",
   "credit_as_published": "Own work",
-  "title": "File:The Barbados Yacht Club sign.jpg",
-  "description": "Main entrance to the Barbados Yacht Club, Bay Street.",
-  "date": "2000-11-30",
+  "title": "File:Royal Barbados Yacht Club Sign.jpg",
+  "description": "Royal Barbados Yacht Club sign before loss of Royal designation",
+  "date": "2024-02-02",
   "categories": [
-    "2000 in Barbados",
-    "Bay Street, Bridgetown",
-    "Signs in Barbados",
-    "Yacht clubs"
+    "Barbados in the 1960s",
+    "Signs in Barbados"
   ],
   "camera_location": null,
   "found_by": "keyword",
-  "bytes": 284427,
-  "width": 1280,
-  "height": 853,
-  "downloaded_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/The_Barbados_Yacht_Club_sign.jpg/1280px-The_Barbados_Yacht_Club_sign.jpg",
-  "derivative": "Wikimedia Commons standard 1280px-wide rendition (thumb.wikimedia.org)"
+  "bytes": 325627,
+  "width": 1920,
+  "height": 1440,
+  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Royal_Barbados_Yacht_Club_Sign.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "derivative": ""
 }

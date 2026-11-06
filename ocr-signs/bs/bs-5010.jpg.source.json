@@ -1,24 +1,27 @@
 {
   "source": "commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Double_Dragon_Restaurant_sign,_Nassau.JPG",
-  "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Double_Dragon_Restaurant_sign%2C_Nassau.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-  "license_as_published": "CC BY-SA 3.0",
-  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/3.0",
-  "author_as_published": "BrokenSphere",
-  "credit_as_published": "Own work",
-  "title": "File:Double Dragon Restaurant sign, Nassau.JPG",
-  "description": "A sign for the Double Dragon Restaurant in Nassau, The Bahamas.",
-  "date": "2006-05-23",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Bahamas_1988_(631)_New_Providence_Creative_Learning_Preschool,_Nassau_(25684872802).jpg",
+  "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Bahamas_1988_%28631%29_New_Providence_Creative_Learning_Preschool%2C_Nassau_%2825684872802%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "license_as_published": "CC BY-SA 2.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/2.0",
+  "author_as_published": "Rüdiger Stehn from Kiel, Deutschland",
+  "credit_as_published": "Bahamas 1988 (631) New Providence: Creative Learning Preschool, Nassau",
+  "title": "File:Bahamas 1988 (631) New Providence Creative Learning Preschool, Nassau (25684872802).jpg",
+  "description": "Die Creative Learning Preschool in <a href=\" https://de.wikipedia.org/wiki/Nassau_(Bahamas) \" rel=\"nofollow\">Nassau</a>, <a href=\" https://de.wikipedia.org/wiki/New_Providence_(Bahamas) \" rel=\"nofollow\">New Providence (Bahamas)</a>.",
+  "date": "1988-12-01 00:00",
   "categories": [
-    "2006 in the Bahamas",
-    "Restaurants in Nassau, Bahamas",
+    "1988 on New Providence Island",
+    "Schools in Nassau, Bahamas",
     "Signs in the Bahamas"
   ],
-  "camera_location": null,
+  "camera_location": [
+    25.066338,
+    -77.323322
+  ],
   "found_by": "keyword",
-  "bytes": 340939,
-  "width": 1280,
-  "height": 1707,
-  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Double_Dragon_Restaurant_sign%2C_Nassau.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "bytes": 511888,
+  "width": 1920,
+  "height": 1269,
+  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Bahamas_1988_%28631%29_New_Providence_Creative_Learning_Preschool%2C_Nassau_%2825684872802%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
   "derivative": ""
 }

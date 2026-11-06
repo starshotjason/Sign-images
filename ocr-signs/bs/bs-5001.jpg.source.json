@@ -1,23 +1,25 @@
 {
-  "source": "panoramax",
-  "source_url": "https://panoramax.mapcomplete.org/#focus=pic&pic=b770e52c-b22d-4861-b65c-bda72cd12650",
-  "original_url": "https://panoramax.mapcomplete.org/permanent/b7/70/e5/2c/b22d-4861-b65c-bda72cd12650.jpg",
-  "license_as_published": "CC-BY-SA-4.0",
-  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
-  "author_as_published": "mapcomplete",
-  "credit_as_published": "Panoramax, instance mapcomplete (https://panoramax.mapcomplete.org)",
-  "title": "Panoramax picture b770e52c-b22d-4861-b65c-bda72cd12650 (Nassau, 2025-08-29)",
-  "description": "Street-level picture on Panoramax, taken 2025-08-29 near Nassau by mapcomplete, sequence 14ea2dff-2d5f-4134-9a9c-0b7ff34d87aa, heading None. OCR (PP-OCRv3) read: Social Room | In-housedining | TASTY | wholesale/retail | PATTIES | Catering | Mon.-Sat.7am-8pm closed Sunday | tastypattiesbahamas@gmail.com",
-  "date": "2025-08-29",
-  "categories": [],
-  "camera_location": [
-    25.074274003,
-    -77.35180861
+  "source": "commons",
+  "source_url": "https://commons.wikimedia.org/wiki/File:CocoCaySign.JPG",
+  "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/CocoCaySign.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "license_as_published": "CC BY-SA 3.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/3.0",
+  "author_as_published": "UpstateNYer",
+  "credit_as_published": "Own work",
+  "title": "File:CocoCaySign.JPG",
+  "description": "Sign at the entrance to Coco Cay , an island leased by Royal Caribbean International in the en:Bahamas .",
+  "date": "2009-01-07",
+  "categories": [
+    "Signs in Little Stirrup Cay"
   ],
-  "found_by": "panoramax-ocr:Nassau",
-  "bytes": 1216520,
-  "width": 3031,
-  "height": 2273,
-  "downloaded_url": "https://panoramax.mapcomplete.org/permanent/b7/70/e5/2c/b22d-4861-b65c-bda72cd12650.jpg",
-  "derivative": "crop 1000,495,4031,2768 of the 4032x3024 HD picture"
+  "camera_location": [
+    25.81666667,
+    -77.93333333
+  ],
+  "found_by": "keyword",
+  "bytes": 910499,
+  "width": 1920,
+  "height": 1285,
+  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/CocoCaySign.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "derivative": ""
 }

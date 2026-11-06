@@ -1,42 +1,170 @@
 {
- "k1441652489": {
-  "accept": false,
-  "reason": "close-up of a cap and backpack on cobbles; no sign (text is clothing branding)"
- },
- "k695220510": {
-  "accept": false,
-  "reason": "wrong country: residential street in Rome south of the Vatican walls (camera 41.8970, 12.4499); only a distant shop fascia"
- },
- "k696664510": {
-  "accept": false,
-  "reason": "wrong country: Opel garage sign in a Rome residential street outside the Vatican walls (camera 41.8998, 12.4497)"
- },
- "p3cd3ca63c8": {
-  "accept": false,
-  "reason": "wrong country: 'BAR BAFFO | CAFFE' VERGNANO' is in Rome near Piazza di Porta Portese / Trastevere (camera 41.873, 12.466), not Vatican City"
- },
- "p430283ffa7": {
-  "accept": false,
-  "reason": "wrong country: Nespresso shop in central Rome (camera 41.904, 12.482); name also cut at the left edge"
- },
- "p4ae3d67097": {
-  "accept": false,
-  "reason": "wrong country: Via Frattina shopping street in central Rome (camera 41.904, 12.482)"
- },
- "p58cf8c1284": {
-  "accept": false,
-  "reason": "wrong country and advertising: university advert banner in Rome (camera 41.9024, 12.4609, east of the Vatican)"
- },
- "p9cd3baf886": {
-  "accept": false,
-  "reason": "wrong country: Campo de' Fiori market kiosk in Rome (camera 41.896, 12.472); only 'ATM' / 'FRESH WATER COLD DRINKS'"
- },
- "pb61d1c4bab": {
-  "accept": false,
-  "reason": "wrong country (Trastevere, Rome) and no sign: stone wall with stickers"
- },
- "pc4a2e0b80d": {
-  "accept": false,
-  "reason": "wrong country: 'PIAZZA DI S. CALISTO' plate (Rione XIII Trastevere) is a Rome street; Palazzo San Callisto is Holy See property but the square is in Italy (camera 41.889, 12.471)"
- }
+  "k1441652489": {
+    "accept": false,
+    "reason": "close-up of a cap and backpack on cobbles; no sign (text is clothing branding)"
+  },
+  "k695220510": {
+    "accept": false,
+    "reason": "wrong country: residential street in Rome south of the Vatican walls (camera 41.8970, 12.4499); only a distant shop fascia"
+  },
+  "k696664510": {
+    "accept": false,
+    "reason": "wrong country: Opel garage sign in a Rome residential street outside the Vatican walls (camera 41.8998, 12.4497)"
+  },
+  "p3cd3ca63c8": {
+    "accept": false,
+    "reason": "wrong country: 'BAR BAFFO | CAFFE' VERGNANO' is in Rome near Piazza di Porta Portese / Trastevere (camera 41.873, 12.466), not Vatican City"
+  },
+  "p430283ffa7": {
+    "accept": false,
+    "reason": "wrong country: Nespresso shop in central Rome (camera 41.904, 12.482); name also cut at the left edge"
+  },
+  "p4ae3d67097": {
+    "accept": false,
+    "reason": "wrong country: Via Frattina shopping street in central Rome (camera 41.904, 12.482)"
+  },
+  "p58cf8c1284": {
+    "accept": false,
+    "reason": "wrong country and advertising: university advert banner in Rome (camera 41.9024, 12.4609, east of the Vatican)"
+  },
+  "p9cd3baf886": {
+    "accept": false,
+    "reason": "wrong country: Campo de' Fiori market kiosk in Rome (camera 41.896, 12.472); only 'ATM' / 'FRESH WATER COLD DRINKS'"
+  },
+  "pb61d1c4bab": {
+    "accept": false,
+    "reason": "wrong country (Trastevere, Rome) and no sign: stone wall with stickers"
+  },
+  "pc4a2e0b80d": {
+    "accept": false,
+    "reason": "wrong country: 'PIAZZA DI S. CALISTO' plate (Rione XIII Trastevere) is a Rome street; Palazzo San Callisto is Holy See property but the square is in Italy (camera 41.889, 12.471)"
+  },
+  "c159027541": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "SAN SEBASTIANO",
+        "lang": "it"
+      },
+      {
+        "text": "CHAPEL OF ST. SEBASTIAN",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "San Sebastiano",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Framed visitor panel at the Chapel of St Sebastian inside St Peter's Basilica (camera 41.90219, 12.45479, inside the basilica). The Italian header is cut by the left frame edge: a partial 'D' and full 'I' precede 'SAN SEBASTIANO' (probably 'CAPPELLA DI SAN SEBASTIANO'); only the legible part is transcribed. The cream body below is a paragraph of descriptive English text (CHAPEL OF St SEBASTIAN, CENTRE, Altar..., LEFT/RIGHT memorials) and a cut-off Italian column at left: distractors, not part of the label. Glare spot on the body text."
+  },
+  "c20072690": {
+    "accept": false,
+    "reason": "commemorative khachkar monument in the Vatican Gardens; the text is a dedication inscription (Armenian and 'ARMENIAN MEMORIAL CROSS KHATCHKAR PRESENTED BY H H KAREKIN I ... TO H H POPE JOHN PAUL II DECEMBER 1996'), not a place-name sign"
+  },
+  "c25868871": {
+    "accept": false,
+    "reason": "helicopter and windsock over the Vatican wall; no sign text"
+  },
+  "c468536": {
+    "accept": false,
+    "reason": "wrong country: 'CLIVO DELLE MURA VATICANE' plate carries the Rome quarter number 'Q.XIV' (Aurelio) and the camera (41.9035, 12.4465) is outside the Vatican walls; a Rome street"
+  },
+  "c47332811": {
+    "accept": false,
+    "reason": "scan of an international reply coupon (document), not a photograph of a sign"
+  },
+  "c63785706": {
+    "accept": false,
+    "reason": "'USCITA / EXIT / SORTIE / SALIDA / AUSGANG' exit plaque on the dome stairs of St Peter's; no place name"
+  },
+  "c7458065": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "VIALE",
+        "lang": "it"
+      },
+      {
+        "text": "DELLA",
+        "lang": "it"
+      },
+      {
+        "text": "GROTTA DI LOURDES",
+        "lang": "it"
+      }
+    ],
+    "expect": {
+      "query": "Viale della Grotta di Lourdes",
+      "type": "street"
+    },
+    "difficulty": "easy",
+    "notes": "Carved marble Vatican City street plate with dark red lettering on a grey Y-shaped stand, in the Vatican Gardens (path to the Lourdes Grotto replica). No camera coordinates; Vatican placement rests on the Vatican-only stand style (no Rome rione/quartiere number) and the Gardens-only street name. Slightly angled from below."
+  },
+  "c7458086": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "BASTIONE",
+        "lang": "it"
+      },
+      {
+        "text": "PAOLO VI",
+        "lang": "it"
+      }
+    ],
+    "expect": {
+      "query": "Bastione Paolo VI",
+      "type": "street"
+    },
+    "difficulty": "easy",
+    "notes": "Carved marble Vatican City street/place plate, dark red lettering, on the grey Y-shaped Vatican stand in front of an ivy-covered brick wall. 'VI' is the Roman numeral. No camera coordinates; Vatican placement rests on the stand style (same series as c7458065 and c7458358) and the Commons category."
+  },
+  "c7458358": {
+    "accept": true,
+    "reason": "",
+    "kind": "street sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "VIALE",
+        "lang": "it"
+      },
+      {
+        "text": "PIO XII",
+        "lang": "it"
+      }
+    ],
+    "expect": {
+      "query": "Viale Pio XII",
+      "type": "street"
+    },
+    "difficulty": "medium",
+    "notes": "Carved marble Vatican City street plate on the grey Y-shaped Vatican stand, shot from below against bright sky; the lettering is thin and faded (dark on white marble) with a small lens flare above. 'XII' is the Roman numeral. No camera coordinates; Vatican placement rests on the stand style and the Commons category 'Street signs in the Vatican City'."
+  },
+  "c7525471": {
+    "accept": false,
+    "reason": "wrong country: 'VIA DI PORTA ANGELICA' plate carries the Rome rione number 'R. XIV' (Borgo), outside the Vatican; the yellow arrow sign only points towards 'Stato Citta' del Vaticano'"
+  },
+  "c7490333": {
+    "accept": false,
+    "reason": "road through the Vatican Gardens rock garden; the only sign is a no-stopping pictogram, no text"
+  }
 }

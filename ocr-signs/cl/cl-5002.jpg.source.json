@@ -1,23 +1,27 @@
 {
-  "source": "kartaview",
-  "source_url": "https://kartaview.org/details/8118473/12/track-info",
-  "original_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMy8xMC8zMS9wcm9jLzgxMTg0NzNfMzg2NjAwZWIxYzc0OWQ2MDcxMGNmMjYwMjY4NzBiMzEuanBn",
+  "source": "commons",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Placa_conmemorativa_del_cerro_Primo_de_Rivera.jpg",
+  "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Placa_conmemorativa_del_cerro_Primo_de_Rivera.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
   "license_as_published": "CC BY-SA 4.0",
-  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
-  "author_as_published": "Nick_T",
-  "credit_as_published": "KartaView user Nick_T (user id 570); © KartaView contributors",
-  "title": "KartaView photo 1836082521, sequence 8118473 #12 (Santiago, 2023-10-31)",
-  "description": "Street-level picture on KartaView, taken 2023-10-31 near Santiago by Nick_T, sequence 8118473, heading 103.01. OCR (PP-OCRv3) read: SANTA MARIA | CIRC37",
-  "date": "2023-10-31",
-  "categories": [],
-  "camera_location": [
-    -33.43261,
-    -70.648685
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author_as_published": "Jorge Barrios R.",
+  "credit_as_published": "Own work",
+  "title": "File:Placa conmemorativa del cerro Primo de Rivera.jpg",
+  "description": "Placa conmemorativa del Monumento Histórico Cerro Primo de Rivera, en la comuna de Maipú, Chile.",
+  "date": "2023-09-19 16:06:33",
+  "categories": [
+    "Cerro Primo de Rivera",
+    "Memorial stones in Chile",
+    "Spanish-language signs in Chile"
   ],
-  "found_by": "kartaview-ocr:Santiago",
-  "bytes": 166016,
-  "width": 1200,
-  "height": 900,
-  "downloaded_url": "https://cdn.kartaview.org/pr:sharp/aHR0cHM6Ly9zdG9yYWdlMTMub3BlbnN0cmVldGNhbS5vcmcvZmlsZXMvcGhvdG8vMjAyMy8xMC8zMS9wcm9jLzgxMTg0NzNfMzg2NjAwZWIxYzc0OWQ2MDcxMGNmMjYwMjY4NzBiMzEuanBn",
-  "derivative": "crop 1667,531,2867,1431 of the 4032x3024 full-size processed (blurred) picture"
+  "camera_location": [
+    -33.494876,
+    -70.756959
+  ],
+  "found_by": "keyword",
+  "bytes": 1266255,
+  "width": 1920,
+  "height": 1440,
+  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Placa_conmemorativa_del_cerro_Primo_de_Rivera.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "derivative": ""
 }

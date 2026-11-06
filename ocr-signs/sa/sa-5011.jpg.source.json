@@ -1,23 +1,23 @@
 {
   "source": "panoramax",
-  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=ee05cf94-da29-414e-a566-71ec2da57d02",
-  "original_url": "https://panoramax.openstreetmap.fr/images/ee/05/cf/94/da29-414e-a566-71ec2da57d02.jpg",
+  "source_url": "https://panoramax.openstreetmap.fr/#focus=pic&pic=ba032a60-5028-4852-808f-edd7558ecc07",
+  "original_url": "https://panoramax.openstreetmap.fr/images/ba/03/2a/60/5028-4852-808f-edd7558ecc07.jpg",
   "license_as_published": "CC-BY-SA-4.0",
   "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
   "author_as_published": "Danil",
   "credit_as_published": "Panoramax, instance osm-fr (https://panoramax.openstreetmap.fr)",
-  "title": "Panoramax picture ee05cf94-da29-414e-a566-71ec2da57d02 (Mecca, 2026-06-16)",
-  "description": "Street-level picture taken 2026-06-16 near Mecca by Danil, sequence d61760fe-ec53-4063-a75f-702c13983236, heading 83. OCR (PP-OCRv3) read: pcwMakkahalMukarramahLibraryEstablishedin1951AD | La Bibliothequedela Mecque | Mekke-iMukerremeKutuphanesi | PERPUSTAKAANMAKKAH",
+  "title": "Panoramax picture ba032a60-5028-4852-808f-edd7558ecc07 (Mecca, 2026-06-16)",
+  "description": "Street-level picture taken 2026-06-16 near Mecca by Danil, sequence 48f98eab-a25d-4082-acf1-43b92df7d36e, heading 204. OCR (PP-OCRv3) read: Saha Eastern | [unread] Jgill gall-alball | 1stFloor-Mataf Area | Prayer Area | Electric Wheelchair Service | [unread] adlclaiabys",
   "date": "2026-06-16",
   "categories": [],
   "camera_location": [
-    21.424932989,
-    39.82974567
+    21.422523274,
+    39.827973097
   ],
   "found_by": "panoramax-ocr:Mecca",
-  "bytes": 1195220,
-  "width": 3264,
-  "height": 1504,
-  "downloaded_url": "https://panoramax.openstreetmap.fr/images/ee/05/cf/94/da29-414e-a566-71ec2da57d02.jpg",
-  "derivative": "whole 3264x1504 HD picture as served by the Panoramax instance (byte-identical; the instance blurs faces and number plates), not cropped"
+  "bytes": 623895,
+  "width": 2624,
+  "height": 1728,
+  "downloaded_url": "https://panoramax.openstreetmap.fr/images/ba/03/2a/60/5028-4852-808f-edd7558ecc07.jpg",
+  "derivative": "crop 448,0,3072,1728 of the 3072x1728 HD picture"
 }

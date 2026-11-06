@@ -1,58 +1,282 @@
 {
- "k83806493": {
-  "accept": false,
-  "reason": "shop signs in deep shadow and too small to read (only 'Top Up Here' advert disc is legible)"
- },
- "k83839069": {
-  "accept": true,
-  "reason": "",
-  "kind": "hard",
-  "scripts": [
-   "Latn"
-  ],
-  "lines": [
-   {
-    "text": "BEAUTY ESSENTIALS",
-    "lang": "en"
-   }
-  ],
-  "expect": {
-   "query": "Beauty Essentials",
-   "type": "poi"
+  "k83806493": {
+    "accept": false,
+    "reason": "shop signs in deep shadow and too small to read (only 'Top Up Here' advert disc is legible)"
   },
-  "difficulty": "hard",
-  "notes": "Small hanging sign under a shop canopy in Bridgetown, in shadow and seen from below at an angle; serif capitals, low contrast (first word faint but readable). A distant red-and-white building sign further down the street is too small."
- },
- "k83839089": {
-  "accept": false,
-  "reason": "only text is a generic 'OPEN' window sign and no-entry signs; passers-by in the foreground"
- },
- "k83839197": {
-  "accept": true,
-  "reason": "",
-  "kind": "business sign",
-  "scripts": [
-   "Latn"
-  ],
-  "lines": [
-   {
-    "text": "PYRAMID",
-    "lang": "en"
-   },
-   {
-    "text": "MALL",
-    "lang": "en"
-   }
-  ],
-  "expect": {
-   "query": "Pyramid Mall",
-   "type": "poi"
+  "k83839069": {
+    "accept": true,
+    "reason": "",
+    "kind": "hard",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "BEAUTY ESSENTIALS",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Beauty Essentials",
+      "type": "poi"
+    },
+    "difficulty": "hard",
+    "notes": "Small hanging sign under a shop canopy in Bridgetown, in shadow and seen from below at an angle; serif capitals, low contrast (first word faint but readable). A distant red-and-white building sign further down the street is too small."
   },
-  "difficulty": "medium",
-  "notes": "Tall projecting panel at top left with letters stacked vertically over a pastel triangle pattern; overhead wires cross it and a tiny line at the bottom is illegible. Pedestrian shopping street (Swan Street area) in Bridgetown. Distractors: 'ST. ADAM & SON' and 'GENESIS' blade signs, Chinese restaurant fascia at right."
- },
- "k83839395": {
-  "accept": false,
-  "reason": "store light-box name is cut by an umbrella and partly hidden ('...ORKS'); other signs too small; a face-blurred man fills the foreground"
- }
+  "k83839089": {
+    "accept": false,
+    "reason": "only text is a generic 'OPEN' window sign and no-entry signs; passers-by in the foreground"
+  },
+  "k83839197": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "PYRAMID",
+        "lang": "en"
+      },
+      {
+        "text": "MALL",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Pyramid Mall",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Tall projecting panel at top left with letters stacked vertically over a pastel triangle pattern; overhead wires cross it and a tiny line at the bottom is illegible. Pedestrian shopping street (Swan Street area) in Bridgetown. Distractors: 'ST. ADAM & SON' and 'GENESIS' blade signs, Chinese restaurant fascia at right."
+  },
+  "k83839395": {
+    "accept": false,
+    "reason": "store light-box name is cut by an umbrella and partly hidden ('...ORKS'); other signs too small; a face-blurred man fills the foreground"
+  },
+  "c10949834": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "THE",
+        "lang": "en"
+      },
+      {
+        "text": "BARBADOS",
+        "lang": "en"
+      },
+      {
+        "text": "YACHT CLUB",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Barbados Yacht Club",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Gold raised letters on a coral-stone wall at the club's main entrance, Bay Street, Bridgetown. The orange '1 12 '00' in the lower right is a film-camera date imprint, not sign text."
+  },
+  "c10952516": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "INTER-AMERICAN",
+        "lang": "en"
+      },
+      {
+        "text": "DEVELOPMENT",
+        "lang": "en"
+      },
+      {
+        "text": "BANK",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Inter-American Development Bank",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Stone plaque with the IDB globe emblem on a white boundary wall of the bank's Barbados country office on Highway 7; the carved lettering is thin and low-contrast (brownish on cream). Film scan with slight grain."
+  },
+  "c12080282": {
+    "accept": true,
+    "reason": "",
+    "kind": "hard",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "St LAWRENCE",
+        "lang": "en"
+      },
+      {
+        "text": "GA...",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "St Lawrence Gap",
+      "type": "place"
+    },
+    "difficulty": "hard",
+    "notes": "Large rough-cast 3D letters on a wall at the western end of St Lawrence Gap, Christ Church, where it meets Highway 7; irregular stylised letters, half in shadow, low-resolution phone photo. 'St' is written with a small t. After 'GA' the final P is not visible (out of frame or missing). Distractors: a partly hidden hotel sign and a '...illage' arrow sign at far left, blue 'WAY' arrow sign at left edge."
+  },
+  "c12385347": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "COURTYARD",
+        "lang": "en"
+      },
+      {
+        "text": "Marriott",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Courtyard Marriott",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Free-standing hotel monument sign on Highway 7, Christ Church. Behind it, gold script letters on the brick wall ('The B... Pavili...') are mostly hidden by the sign and a palm trunk: distractor, not transcribed."
+  },
+  "c131743107": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "BARBADOS",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Barbados",
+      "type": "place"
+    },
+    "difficulty": "medium",
+    "notes": "Free-standing 3D letters on the cruise pier at Bridgetown port, each letter painted with palm trees, dancers and surfers in blue, green and yellow, which breaks up the letter shapes. Distractor: 'RHAPSODY OF THE SEAS / NASSAU' on the stern of the cruise ship behind (vehicle name)."
+  },
+  "c145004034": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "ROYAL BARBADOS YACHT CLUB",
+        "lang": "en"
+      },
+      {
+        "text": "MEMBERS ONLY",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Barbados Yacht Club",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Historic cast sign with the club burgee, now mounted on an interior wall; frontal and sharp. Different physical sign from c10949834 (same club). The small wooden plaque below explaining the sign's history is too small to read reliably and is not transcribed."
+  },
+  "c5990402": {
+    "accept": false,
+    "reason": "STOP sign with a one-way arrow and a handwritten cardboard 'Ready bone fish sold here' note at a produce stand; no place name"
+  },
+  "c6634309": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "MOUNT GAY DISTILLERIES",
+        "lang": "en"
+      },
+      {
+        "text": "THE HOME OF",
+        "lang": "en"
+      },
+      {
+        "text": "MOUNT GAY RUM",
+        "lang": "en"
+      },
+      {
+        "text": "SINCE 1703",
+        "lang": "en"
+      },
+      {
+        "text": "TOURS: MON - FRI 9:30am - 3:30pm",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Mount Gay Distilleries",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Roadside sign in front of the Mount Gay bottling plant and visitor centre, Saint Lucy. Crest logo at left (with tiny 'MOUNT GAY'), small 'MOUNT GAY RUM BARBADOS' logo in the bottom panel. A second identical face is seen edge-on at left (distractor). Razor wire in the foreground."
+  },
+  "c6841864": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "WELCOME",
+        "lang": "en"
+      },
+      {
+        "text": "TO",
+        "lang": "en"
+      },
+      {
+        "text": "COMBERMERE",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Combermere",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Blue painted letters on a white board above the scoreboard of Combermere School's cricket ground, Barbados, seen from below. The black scoreboard below shows a cut-off '1stINNINGS' (distractor)."
+  },
+  "c9625175": {
+    "accept": false,
+    "reason": "'RUBY PRINCESS' name on the hull of a cruise ship; vehicle name, not a place sign"
+  },
+  "c97281675": {
+    "accept": false,
+    "reason": "novelty signpost at North Point covered with many small country-name arrows (Jamaica, Panama, Brazil, Barbados, ...); no single target sign, several are cut or hidden"
+  }
 }

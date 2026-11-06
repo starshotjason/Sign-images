@@ -1,436 +1,508 @@
 {
- "pe9255538d6": {
-  "accept": false,
-  "reason": "toilet with product brand labels (TOTO, ecoflush); not a sign"
- },
- "fca8b53f3-5908-4b9e-a2b3-c7a75e03fe56": {
-  "accept": false,
-  "reason": "plate of food, no sign"
- },
- "f912ae673-cb25-4655-b478-c8a551a3e452": {
-  "accept": false,
-  "reason": "portrait of a vendor, face is the subject"
- },
- "f0a4128be-4b1b-4f8a-b1a6-06eb74144b83": {
-  "accept": false,
-  "reason": "portrait of a waitress, face is the subject"
- },
- "fa9362343-1559-4452-8c9f-b428d7ca97fc": {
-  "accept": false,
-  "reason": "child playing, no sign"
- },
- "f42e15291-b3ec-4001-9ae5-537391c870fb": {
-  "accept": false,
-  "reason": "temple dress-code notice, no place name"
- },
- "f4f5d3722-7348-43bb-a85e-4c0015de6b75": {
-  "accept": false,
-  "reason": "shrine label inside a temple (Palinggih Satia), not a mappable place; Balinese line not transcribable"
- },
- "f727df80f-b4a0-451e-bf1f-355b82f1b2a7": {
-  "accept": false,
-  "reason": "warning sign (monkey crossing), no place name"
- },
- "fce8d6045-41e7-4307-9804-a464932b63c3": {
-  "accept": false,
-  "reason": "'No Entrance' warning only"
- },
- "f715b097d-1c94-408e-ad33-8b8fcad1c909": {
-  "accept": false,
-  "reason": "hotel bathroom environmental notice"
- },
- "f4224ee5b-4dcd-40ca-935d-9f6caafbd59e": {
-  "accept": true,
-  "reason": "",
-  "kind": "landmark",
-  "scripts": [
-   "Latn",
-   "Java"
-  ],
-  "lines": [
-   {
-    "text": "PASAR BERINGHA JO",
-    "lang": "id"
-   },
-   {
-    "text": "JL. JEND. A. YANI 16    YOGYAKARTA",
-    "lang": "id"
-   }
-  ],
-  "expect": {
-   "query": "Pasar Beringharjo",
-   "type": "poi"
+  "pe9255538d6": {
+    "accept": false,
+    "reason": "toilet with product brand labels (TOTO, ecoflush); not a sign"
   },
-  "difficulty": "medium",
-  "notes": "Market name board over the entrance, Yogyakarta. A red-and-white flag hides the R between BERINGHA and JO (full name Pasar Beringharjo); the line is transcribed as visible. A Javanese-script (Aksara Jawa) line under the name is not transcribed. Small address line: Jl. Jend. A. Yani 16, Yogyakarta. Crowd below is incidental."
- },
- "f1176caec-00b9-49ad-b368-ceb32ace2a73": {
-  "accept": true,
-  "reason": "",
-  "kind": "business sign",
-  "scripts": [
-   "Latn"
-  ],
-  "lines": [
-   {
-    "text": "Wank INTERNET",
-    "lang": "en"
-   },
-   {
-    "text": "& GAME on line",
-    "lang": "en"
-   }
-  ],
-  "expect": {
-   "query": "Wank Internet",
-   "type": "poi"
+  "fca8b53f3-5908-4b9e-a2b3-c7a75e03fe56": {
+    "accept": false,
+    "reason": "plate of food, no sign"
   },
-  "difficulty": "easy",
-  "notes": "Painted orange board on poles, Kuta, Bali; side list (HIGH SPEED CONNECTION, LCD 17\", HEAD SET, WEB CAM) and window poster (High Speed 384 kbps, print/scan/CD) are distractors. 'Wank' is in script lettering."
- },
- "f3c0a5938-054c-4c71-8166-47ecfe0d10d2": {
-  "accept": true,
-  "reason": "",
-  "kind": "landmark",
-  "scripts": [
-   "Latn",
-   "Bali"
-  ],
-  "lines": [
-   {
-    "text": "DEPARTEMEN KEBUDAYAAN DAN PARIWISATA",
-    "lang": "id"
-   },
-   {
-    "text": "BENDA CAGAR BUDAYA / SITUS",
-    "lang": "id"
-   },
-   {
-    "text": "CANDI TEBING TEGALLINGGAH",
-    "lang": "id"
-   },
-   {
-    "text": "BANJAR TEGALLINGGAH, DESA BEDULU,",
-    "lang": "id"
-   },
-   {
-    "text": "KECAMATAN BLAHBATUH, KABUPATEN GIANYAR",
-    "lang": "id"
-   }
-  ],
-  "expect": {
-   "query": "Candi Tebing Tegallinggah",
-   "type": "poi"
+  "f912ae673-cb25-4655-b478-c8a551a3e452": {
+    "accept": false,
+    "reason": "portrait of a vendor, face is the subject"
   },
-  "difficulty": "medium",
-  "notes": "Brown heritage-site board with leaf shadows across it, Bedulu, Gianyar, Bali. A Balinese-script line under the site name is not transcribed. Small footer (DILINDUNGI: UNDANG-UNDANG NO.5 TAHUN 1992; BALAI PELESTARIAN PENINGGALAN PURBAKALA BALI ...) omitted."
- },
- "f7adc0994-55f8-4379-a874-d792f33c1826": {
-  "accept": false,
-  "reason": "blurry B&W alley scene, no sign"
- },
- "f541d589e-f6e3-4b05-b48a-af666f70ab88": {
-  "accept": false,
-  "reason": "decorative coffee advert board ('Minum Kopi Bali di ARMA'), not a name sign"
- },
- "ffefb77f6-2654-4425-b9e8-1c0e319995fe": {
-  "accept": false,
-  "reason": "charity-booth event poster, not a place sign"
- },
- "f8f99fca7-c07c-4748-ae34-fd2aa18a04b2": {
-  "accept": false,
-  "reason": "'Don't step up' warning only"
- },
- "f73ccdec0-327a-47f9-9556-bed126fc03e0": {
-  "accept": false,
-  "reason": "food-stall menu sheet with prices"
- },
- "f8d4054ca-406d-4f52-9351-d25067ceaa48": {
-  "accept": false,
-  "reason": "portrait of children, no sign"
- },
- "ffde5e1d6-d6ca-4d61-b14a-17996c622efc": {
-  "accept": false,
-  "reason": "street with many chain pylon signs, no single target sign"
- },
- "f33b031c1-0b21-4c5d-8359-2ccb96ba36f7": {
-  "accept": false,
-  "reason": "event portrait with watermark, no sign"
- },
- "facc36113-c713-47fa-a1e7-9aa393ba3987": {
-  "accept": false,
-  "reason": "'do not step on the stone' warning only"
- },
- "f1944e49d-a824-4bcb-8947-81b9e5b694f9": {
-  "accept": false,
-  "reason": "pictogram wayfinding sign, no text"
- },
- "f43541e31-e9e8-4327-accc-ad6d0c4650a1": {
-  "accept": true,
-  "reason": "",
-  "kind": "business sign",
-  "scripts": [
-   "Latn"
-  ],
-  "lines": [
-   {
-    "text": "Kodak",
-    "lang": "en"
-   },
-   {
-    "text": "EXPRESS",
-    "lang": "en"
-   },
-   {
-    "text": "DEVELOP & PRINT",
-    "lang": "en"
-   }
-  ],
-  "expect": {
-   "query": "Kodak Express",
-   "type": "poi"
+  "f0a4128be-4b1b-4f8a-b1a6-06eb74144b83": {
+    "accept": false,
+    "reason": "portrait of a waitress, face is the subject"
   },
-  "difficulty": "medium",
-  "notes": "Faded yellow photo-shop fascia on a corrugated wall, Seminyak, Bali; power lines cross the signs. Tiny 'QUALITY MONITORING SERVICE' under EXPRESS is not transcribed."
- },
- "f0f8edecb-94f2-4478-bc0b-7b689634dc55": {
-  "accept": false,
-  "reason": "US Embassy/NBA outreach event group photo; children's faces are the subject, only sponsor banners"
- },
- "f157e4694-1156-4a15-99ea-36fc2bafeec1": {
-  "accept": false,
-  "reason": "Dhammapada quotation board (paragraph of text); not a place sign"
- },
- "f1f181701-5e82-4e49-8942-4ddd1ca18e76": {
-  "accept": false,
-  "reason": "night portrait of a boy with a toy; no sign"
- },
- "f2191d082-fe7d-45d2-b42b-f81677c870e0": {
-  "accept": false,
-  "reason": "'slowdown security check' warning with snail pictogram; the shop advert banner behind is partly hidden"
- },
- "f42f7ce81-85f2-4f32-86ce-a8107537b3e1": {
-  "accept": false,
-  "reason": "'DILARANG MEMANJAT / NO CLIMBING' warning plaque; no place name"
- },
- "f5028e545-09c6-4078-8aa4-3f1fb7b1cd2e": {
-  "accept": false,
-  "reason": "airport waiting-room interior; no legible target sign"
- },
- "f57361619-2c8c-4232-aa31-3f62c6472095": {
-  "accept": false,
-  "reason": "group portrait of people in an alley (faces are the subject); motorbike number plate visible; no sign"
- },
- "f6434c538-6131-4f40-b707-c850cea7c981": {
-  "accept": false,
-  "reason": "Ganesha paintings for sale; no sign text"
- },
- "f7d3ecec7-4a54-4c90-900c-ba36af8ee157": {
-  "accept": false,
-  "reason": "restaurant fascia name cut off by the frame ('TENTE...'); diners are the focus"
- },
- "fa0dd45f1-4abf-4ee7-8343-799914513c43": {
-  "accept": true,
-  "reason": "",
-  "kind": "landmark",
-  "scripts": [
-   "Latn"
-  ],
-  "lines": [
-   {
-    "text": "ECHO",
-    "lang": "en"
-   },
-   {
-    "text": "BEACH",
-    "lang": "en"
-   },
-   {
-    "text": "far away in time",
-    "lang": "en"
-   }
-  ],
-  "expect": {
-   "query": "Echo Beach",
-   "type": "place"
+  "fa9362343-1559-4452-8c9f-b428d7ca97fc": {
+    "accept": false,
+    "reason": "child playing, no sign"
   },
-  "difficulty": "easy",
-  "notes": "Large blue letters painted on a white wall at Echo Beach, Canggu, Bali; third line is a tagline. Parked scooters in the foreground; number plate on the right scooter is small and not the subject."
- },
- "fb9109924-3f78-40b4-9874-9499430d41d1": {
-  "accept": true,
-  "reason": "",
-  "kind": "landmark",
-  "scripts": [
-   "Latn"
-  ],
-  "lines": [
-   {
-    "text": "KAWASAN STRATEGIS",
-    "lang": "id"
-   },
-   {
-    "text": "SENTRA PROMOSI",
-    "lang": "id"
-   },
-   {
-    "text": "PASAR BUNGA RAWA BELONG",
-    "lang": "id"
-   },
-   {
-    "text": "JAKARTA BARAT",
-    "lang": "id"
-   }
-  ],
-  "expect": {
-   "query": "Pasar Bunga Rawa Belong",
-   "type": "poi"
+  "f42e15291-b3ec-4001-9ae5-537391c870fb": {
+    "accept": false,
+    "reason": "temple dress-code notice, no place name"
   },
-  "difficulty": "hard",
-  "notes": "Arrow-shaped black board with white letters seen from above through a footbridge railing (film photo, grain and dust). Third line is in smaller condensed letters. A 'SOTO AYAM' stall banner behind is a distractor; a tiny line under 'JAKARTA BARAT' is illegible."
- },
- "fc2cd5f80-048a-426e-8fba-e2fa8ab3aa6c": {
-  "accept": false,
-  "reason": "eatery interior with coffee-brand adverts (TORABIKA) and a menu list; no business name"
- },
- "fc9adde94-d437-464c-aa55-f000bc672958": {
-  "accept": false,
-  "reason": "indoor mall floor directory with parts of the text blanked out by white patches; no single legible place name"
- },
- "fe84f0f1e-d1f0-4f9d-9eae-31cd526a1c87": {
-  "accept": false,
-  "reason": "wrong country: 'BALI HAI the beach' driftwood sign on a porch in New Orleans, USA"
- },
- "faf2648fa-8173-4f08-abd0-74c3633b55a6": {
-  "accept": false,
-  "reason": "night shopfront of a convenience store; only a cut-off ginger-drink advert banner and product brands, no shop name"
- },
- "fafe1cc82-c466-4c55-b065-6b3e8621cc12": {
-  "accept": false,
-  "reason": "pug behind a gate; no sign"
- },
- "fb0da085a-a7a8-44f6-9232-a9eb0d1bddfe": {
-  "accept": false,
-  "reason": "portrait of a tobacco-shop keeper (face is the subject); only handwritten price labels, no shop sign"
- },
- "f4149a614-2ea6-40d5-9139-434287f42591": {
-  "accept": false,
-  "reason": "busy market interior (Ubud); no legible sign"
- },
- "f478981e3-fece-4ec5-a727-2fe207ce53e6": {
-  "accept": true,
-  "reason": "",
-  "kind": "business sign",
-  "scripts": [
-   "Latn"
-  ],
-  "lines": [
-   {
-    "text": "Sakura",
-    "lang": "id"
-   },
-   {
-    "text": "DENPASAR",
-    "lang": "id"
-   }
-  ],
-  "expect": {
-   "query": "Sakura",
-   "type": "poi"
+  "f4f5d3722-7348-43bb-a85e-4c0015de6b75": {
+    "accept": false,
+    "reason": "shrine label inside a temple (Palinggih Satia), not a mappable place; Balinese line not transcribable"
   },
-  "difficulty": "hard",
-  "notes": "Red jewellery-shop fascia in Kampung Arab, Denpasar, seen at an angle above the shop door. 'Sakura' is large and clear; the small address/phone line beneath ('JALAN ... No. 47 Telp. (0361) ...') is too small to read reliably and only its last word 'DENPASAR' is transcribed. Distractors: 'ISTANA MAS' fascia and vertical banners at left, a house number '47', Coca-Cola crates. Men seated in the foreground are incidental to the street scene."
- },
- "f603fa4d1-3a70-4555-b497-69837f848873": {
-  "accept": false,
-  "reason": "mirror reflecting a man on a pavement; only product cartons, no sign"
- },
- "f775a605d-947f-4f24-8504-2e16e158f63b": {
-  "accept": true,
-  "reason": "",
-  "kind": "landmark",
-  "scripts": [
-   "Latn"
-  ],
-  "lines": [
-   {
-    "text": "CANDI BOROBUDUR",
-    "lang": "id"
-   },
-   {
-    "text": "KEMENTERIAN PENDIDIKAN DAN KEBUDAYAAN",
-    "lang": "id"
-   },
-   {
-    "text": "DIREKTORAT JENDERAL KEBUDAYAAN",
-    "lang": "id"
-   },
-   {
-    "text": "BALAI KONSERVASI BOROBUDUR",
-    "lang": "id"
-   },
-   {
-    "text": "http://kebudayaan.kemdikbud.go.id/bkborobudur/",
-    "lang": "und"
-   }
-  ],
-  "expect": {
-   "query": "Candi Borobudur",
-   "type": "poi"
+  "f727df80f-b4a0-451e-bf1f-355b82f1b2a7": {
+    "accept": false,
+    "reason": "warning sign (monkey crossing), no place name"
   },
-  "difficulty": "easy",
-  "notes": "Header of the visitor-rules board at Borobudur temple: large 'CANDI BOROBUDUR' at left, ministry/conservation-office block at right. Below are 18 prohibition pictograms; the only other text is 'Official Permit is Required / Harus Dengan Izin Resmi' under the camera/drone panel and a tiny 'BEER' on a bottle."
- },
- "fa703ce11-0253-4af0-9b87-aff9bfc5d25d": {
-  "accept": false,
-  "reason": "stone Nandi sculpture at the National Museum; no sign text"
- },
- "fb02868ff-f3ff-446e-a076-a2596d47b8a7": {
-  "accept": false,
-  "reason": "near-duplicate of accepted f1176caec (same 'Wank INTERNET & GAME on line' shop sign in Kuta)"
- },
- "fb93024df-90ee-4012-ab0c-15092094d918": {
-  "accept": false,
-  "reason": "Kuta souvenir-shop row with several small signs and no single target; the main fascia is hidden behind flag bunting, the others ('INDO SILVER', 'YANTI SHOP') are small and partly blocked"
- },
- "fcd0a6fcd-e0cf-45f6-a553-f4880a4c1a2d": {
-  "accept": true,
-  "reason": "",
-  "kind": "business sign",
-  "scripts": [
-   "Latn"
-  ],
-  "lines": [
-   {
-    "text": "penangbistro",
-    "lang": "en"
-   }
-  ],
-  "expect": {
-   "query": "Penang Bistro",
-   "type": "poi"
+  "fce8d6045-41e7-4307-9804-a464932b63c3": {
+    "accept": false,
+    "reason": "'No Entrance' warning only"
   },
-  "difficulty": "medium",
-  "notes": "Night shot of illuminated channel letters on a facade in Jakarta, from below at an angle: 'penang' in purple and 'bistro' in orange, written as one word with no space."
- },
- "fcdbe1d8f-8bd7-435a-9a28-3fa71af63a71": {
-  "accept": false,
-  "reason": "monument and food carts; only a 'SAMPAI RAMBU BERIKUT' no-stopping plate, no place name"
- },
- "fda8507a1-515d-4a6b-b248-7e43f3b27f52": {
-  "accept": false,
-  "reason": "distant view of Borobudur temple; the small boards on the lawn are illegible"
- },
- "fdee0b305-4000-4ea6-9c8c-bb7a4dd202aa": {
-  "accept": false,
-  "reason": "Monkey Forest 'GUIDELINES' rules board (paragraphs and cartoons); a notice, not a name sign"
- },
- "fe0ac758a-a79d-4bd1-a1c0-f883bb884af2": {
-  "accept": false,
-  "reason": "close-up of batik fabrics; no sign"
- },
- "ff6175a58-e4e0-426d-b950-e9031e174101": {
-  "accept": false,
-  "reason": "salt-therapy advertising board (Bali Better Breathing) full of advert copy and photos; pure advert"
- }
+  "f715b097d-1c94-408e-ad33-8b8fcad1c909": {
+    "accept": false,
+    "reason": "hotel bathroom environmental notice"
+  },
+  "f4224ee5b-4dcd-40ca-935d-9f6caafbd59e": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn",
+      "Java"
+    ],
+    "lines": [
+      {
+        "text": "PASAR BERINGHA JO",
+        "lang": "id"
+      },
+      {
+        "text": "JL. JEND. A. YANI 16    YOGYAKARTA",
+        "lang": "id"
+      }
+    ],
+    "expect": {
+      "query": "Pasar Beringharjo",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Market name board over the entrance, Yogyakarta. A red-and-white flag hides the R between BERINGHA and JO (full name Pasar Beringharjo); the line is transcribed as visible. A Javanese-script (Aksara Jawa) line under the name is not transcribed. Small address line: Jl. Jend. A. Yani 16, Yogyakarta. Crowd below is incidental."
+  },
+  "f1176caec-00b9-49ad-b368-ceb32ace2a73": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "Wank INTERNET",
+        "lang": "en"
+      },
+      {
+        "text": "& GAME on line",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Wank Internet",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Painted orange board on poles, Kuta, Bali; side list (HIGH SPEED CONNECTION, LCD 17\", HEAD SET, WEB CAM) and window poster (High Speed 384 kbps, print/scan/CD) are distractors. 'Wank' is in script lettering."
+  },
+  "f3c0a5938-054c-4c71-8166-47ecfe0d10d2": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn",
+      "Bali"
+    ],
+    "lines": [
+      {
+        "text": "DEPARTEMEN KEBUDAYAAN DAN PARIWISATA",
+        "lang": "id"
+      },
+      {
+        "text": "BENDA CAGAR BUDAYA / SITUS",
+        "lang": "id"
+      },
+      {
+        "text": "CANDI TEBING TEGALLINGGAH",
+        "lang": "id"
+      },
+      {
+        "text": "BANJAR TEGALLINGGAH, DESA BEDULU,",
+        "lang": "id"
+      },
+      {
+        "text": "KECAMATAN BLAHBATUH, KABUPATEN GIANYAR",
+        "lang": "id"
+      }
+    ],
+    "expect": {
+      "query": "Candi Tebing Tegallinggah",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Brown heritage-site board with leaf shadows across it, Bedulu, Gianyar, Bali. A Balinese-script line under the site name is not transcribed. Small footer (DILINDUNGI: UNDANG-UNDANG NO.5 TAHUN 1992; BALAI PELESTARIAN PENINGGALAN PURBAKALA BALI ...) omitted."
+  },
+  "f7adc0994-55f8-4379-a874-d792f33c1826": {
+    "accept": false,
+    "reason": "blurry B&W alley scene, no sign"
+  },
+  "f541d589e-f6e3-4b05-b48a-af666f70ab88": {
+    "accept": false,
+    "reason": "decorative coffee advert board ('Minum Kopi Bali di ARMA'), not a name sign"
+  },
+  "ffefb77f6-2654-4425-b9e8-1c0e319995fe": {
+    "accept": false,
+    "reason": "charity-booth event poster, not a place sign"
+  },
+  "f8f99fca7-c07c-4748-ae34-fd2aa18a04b2": {
+    "accept": false,
+    "reason": "'Don't step up' warning only"
+  },
+  "f73ccdec0-327a-47f9-9556-bed126fc03e0": {
+    "accept": false,
+    "reason": "food-stall menu sheet with prices"
+  },
+  "f8d4054ca-406d-4f52-9351-d25067ceaa48": {
+    "accept": false,
+    "reason": "portrait of children, no sign"
+  },
+  "ffde5e1d6-d6ca-4d61-b14a-17996c622efc": {
+    "accept": false,
+    "reason": "street with many chain pylon signs, no single target sign"
+  },
+  "f33b031c1-0b21-4c5d-8359-2ccb96ba36f7": {
+    "accept": false,
+    "reason": "event portrait with watermark, no sign"
+  },
+  "facc36113-c713-47fa-a1e7-9aa393ba3987": {
+    "accept": false,
+    "reason": "'do not step on the stone' warning only"
+  },
+  "f1944e49d-a824-4bcb-8947-81b9e5b694f9": {
+    "accept": false,
+    "reason": "pictogram wayfinding sign, no text"
+  },
+  "f43541e31-e9e8-4327-accc-ad6d0c4650a1": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "Kodak",
+        "lang": "en"
+      },
+      {
+        "text": "EXPRESS",
+        "lang": "en"
+      },
+      {
+        "text": "DEVELOP & PRINT",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Kodak Express",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Faded yellow photo-shop fascia on a corrugated wall, Seminyak, Bali; power lines cross the signs. Tiny 'QUALITY MONITORING SERVICE' under EXPRESS is not transcribed."
+  },
+  "f0f8edecb-94f2-4478-bc0b-7b689634dc55": {
+    "accept": false,
+    "reason": "US Embassy/NBA outreach event group photo; children's faces are the subject, only sponsor banners"
+  },
+  "f157e4694-1156-4a15-99ea-36fc2bafeec1": {
+    "accept": false,
+    "reason": "Dhammapada quotation board (paragraph of text); not a place sign"
+  },
+  "f1f181701-5e82-4e49-8942-4ddd1ca18e76": {
+    "accept": false,
+    "reason": "night portrait of a boy with a toy; no sign"
+  },
+  "f2191d082-fe7d-45d2-b42b-f81677c870e0": {
+    "accept": false,
+    "reason": "'slowdown security check' warning with snail pictogram; the shop advert banner behind is partly hidden"
+  },
+  "f42f7ce81-85f2-4f32-86ce-a8107537b3e1": {
+    "accept": false,
+    "reason": "'DILARANG MEMANJAT / NO CLIMBING' warning plaque; no place name"
+  },
+  "f5028e545-09c6-4078-8aa4-3f1fb7b1cd2e": {
+    "accept": false,
+    "reason": "airport waiting-room interior; no legible target sign"
+  },
+  "f57361619-2c8c-4232-aa31-3f62c6472095": {
+    "accept": false,
+    "reason": "group portrait of people in an alley (faces are the subject); motorbike number plate visible; no sign"
+  },
+  "f6434c538-6131-4f40-b707-c850cea7c981": {
+    "accept": false,
+    "reason": "Ganesha paintings for sale; no sign text"
+  },
+  "f7d3ecec7-4a54-4c90-900c-ba36af8ee157": {
+    "accept": false,
+    "reason": "restaurant fascia name cut off by the frame ('TENTE...'); diners are the focus"
+  },
+  "fa0dd45f1-4abf-4ee7-8343-799914513c43": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "ECHO",
+        "lang": "en"
+      },
+      {
+        "text": "BEACH",
+        "lang": "en"
+      },
+      {
+        "text": "far away in time",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Echo Beach",
+      "type": "place"
+    },
+    "difficulty": "easy",
+    "notes": "Large blue letters painted on a white wall at Echo Beach, Canggu, Bali; third line is a tagline. Parked scooters in the foreground; number plate on the right scooter is small and not the subject."
+  },
+  "fb9109924-3f78-40b4-9874-9499430d41d1": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "KAWASAN STRATEGIS",
+        "lang": "id"
+      },
+      {
+        "text": "SENTRA PROMOSI",
+        "lang": "id"
+      },
+      {
+        "text": "PASAR BUNGA RAWA BELONG",
+        "lang": "id"
+      },
+      {
+        "text": "JAKARTA BARAT",
+        "lang": "id"
+      }
+    ],
+    "expect": {
+      "query": "Pasar Bunga Rawa Belong",
+      "type": "poi"
+    },
+    "difficulty": "hard",
+    "notes": "Arrow-shaped black board with white letters seen from above through a footbridge railing (film photo, grain and dust). Third line is in smaller condensed letters. A 'SOTO AYAM' stall banner behind is a distractor; a tiny line under 'JAKARTA BARAT' is illegible."
+  },
+  "fc2cd5f80-048a-426e-8fba-e2fa8ab3aa6c": {
+    "accept": false,
+    "reason": "eatery interior with coffee-brand adverts (TORABIKA) and a menu list; no business name"
+  },
+  "fc9adde94-d437-464c-aa55-f000bc672958": {
+    "accept": false,
+    "reason": "indoor mall floor directory with parts of the text blanked out by white patches; no single legible place name"
+  },
+  "fe84f0f1e-d1f0-4f9d-9eae-31cd526a1c87": {
+    "accept": false,
+    "reason": "wrong country: 'BALI HAI the beach' driftwood sign on a porch in New Orleans, USA"
+  },
+  "faf2648fa-8173-4f08-abd0-74c3633b55a6": {
+    "accept": false,
+    "reason": "night shopfront of a convenience store; only a cut-off ginger-drink advert banner and product brands, no shop name"
+  },
+  "fafe1cc82-c466-4c55-b065-6b3e8621cc12": {
+    "accept": false,
+    "reason": "pug behind a gate; no sign"
+  },
+  "fb0da085a-a7a8-44f6-9232-a9eb0d1bddfe": {
+    "accept": false,
+    "reason": "portrait of a tobacco-shop keeper (face is the subject); only handwritten price labels, no shop sign"
+  },
+  "f4149a614-2ea6-40d5-9139-434287f42591": {
+    "accept": false,
+    "reason": "busy market interior (Ubud); no legible sign"
+  },
+  "f478981e3-fece-4ec5-a727-2fe207ce53e6": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "Sakura",
+        "lang": "id"
+      },
+      {
+        "text": "DENPASAR",
+        "lang": "id"
+      }
+    ],
+    "expect": {
+      "query": "Sakura",
+      "type": "poi"
+    },
+    "difficulty": "hard",
+    "notes": "Red jewellery-shop fascia in Kampung Arab, Denpasar, seen at an angle above the shop door. 'Sakura' is large and clear; the small address/phone line beneath ('JALAN ... No. 47 Telp. (0361) ...') is too small to read reliably and only its last word 'DENPASAR' is transcribed. Distractors: 'ISTANA MAS' fascia and vertical banners at left, a house number '47', Coca-Cola crates. Men seated in the foreground are incidental to the street scene."
+  },
+  "f603fa4d1-3a70-4555-b497-69837f848873": {
+    "accept": false,
+    "reason": "mirror reflecting a man on a pavement; only product cartons, no sign"
+  },
+  "f775a605d-947f-4f24-8504-2e16e158f63b": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "CANDI BOROBUDUR",
+        "lang": "id"
+      },
+      {
+        "text": "KEMENTERIAN PENDIDIKAN DAN KEBUDAYAAN",
+        "lang": "id"
+      },
+      {
+        "text": "DIREKTORAT JENDERAL KEBUDAYAAN",
+        "lang": "id"
+      },
+      {
+        "text": "BALAI KONSERVASI BOROBUDUR",
+        "lang": "id"
+      },
+      {
+        "text": "http://kebudayaan.kemdikbud.go.id/bkborobudur/",
+        "lang": "und"
+      }
+    ],
+    "expect": {
+      "query": "Candi Borobudur",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Header of the visitor-rules board at Borobudur temple: large 'CANDI BOROBUDUR' at left, ministry/conservation-office block at right. Below are 18 prohibition pictograms; the only other text is 'Official Permit is Required / Harus Dengan Izin Resmi' under the camera/drone panel and a tiny 'BEER' on a bottle."
+  },
+  "fa703ce11-0253-4af0-9b87-aff9bfc5d25d": {
+    "accept": false,
+    "reason": "stone Nandi sculpture at the National Museum; no sign text"
+  },
+  "fb02868ff-f3ff-446e-a076-a2596d47b8a7": {
+    "accept": false,
+    "reason": "near-duplicate of accepted f1176caec (same 'Wank INTERNET & GAME on line' shop sign in Kuta)"
+  },
+  "fb93024df-90ee-4012-ab0c-15092094d918": {
+    "accept": false,
+    "reason": "Kuta souvenir-shop row with several small signs and no single target; the main fascia is hidden behind flag bunting, the others ('INDO SILVER', 'YANTI SHOP') are small and partly blocked"
+  },
+  "fcd0a6fcd-e0cf-45f6-a553-f4880a4c1a2d": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "penangbistro",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Penang Bistro",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Night shot of illuminated channel letters on a facade in Jakarta, from below at an angle: 'penang' in purple and 'bistro' in orange, written as one word with no space."
+  },
+  "fcdbe1d8f-8bd7-435a-9a28-3fa71af63a71": {
+    "accept": false,
+    "reason": "monument and food carts; only a 'SAMPAI RAMBU BERIKUT' no-stopping plate, no place name"
+  },
+  "fda8507a1-515d-4a6b-b248-7e43f3b27f52": {
+    "accept": false,
+    "reason": "distant view of Borobudur temple; the small boards on the lawn are illegible"
+  },
+  "fdee0b305-4000-4ea6-9c8c-bb7a4dd202aa": {
+    "accept": false,
+    "reason": "Monkey Forest 'GUIDELINES' rules board (paragraphs and cartoons); a notice, not a name sign"
+  },
+  "fe0ac758a-a79d-4bd1-a1c0-f883bb884af2": {
+    "accept": false,
+    "reason": "close-up of batik fabrics; no sign"
+  },
+  "ff6175a58-e4e0-426d-b950-e9031e174101": {
+    "accept": false,
+    "reason": "salt-therapy advertising board (Bali Better Breathing) full of advert copy and photos; pure advert"
+  },
+  "f0ae3fef5-0c2c-4d21-9945-b90ea7aca55a": {
+    "accept": false,
+    "reason": "posed portrait: a seated man (face) is the subject in front of a rules/prohibitions board ('Selamat Datang di areal Bukit Suci Gunung Lebah', then DILARANG / SANGSI paragraphs); the board is a notice, not a name sign"
+  },
+  "f3491ce02-7443-4060-b3fe-c3703b36489d": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "LUWAK COFFEE",
+        "lang": "en"
+      },
+      {
+        "text": "ONE BALI AGRO",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "One Bali Agro",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Roadside banner on bamboo poles by rice fields in Bali with a civet photo and a left arrow pointing to the coffee plantation. Round logo in the middle reads 'ONE BALI AGROWISATA' around the top and 'LUWAK COFFEE' along the bottom (small, curved)."
+  },
+  "f641d2ff1-d6b0-486c-aab8-3747c08ddab3": {
+    "accept": true,
+    "reason": "",
+    "kind": "hard",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "THIS WAY",
+        "lang": "en"
+      },
+      {
+        "text": "TREKKING",
+        "lang": "en"
+      },
+      {
+        "text": "CAMPUHAN",
+        "lang": "en"
+      },
+      {
+        "text": "RIDGE",
+        "lang": "en"
+      },
+      {
+        "text": "\"KARSA KAFE\"",
+        "lang": "en"
+      },
+      {
+        "text": "2 KILOMETERS",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Karsa Kafe",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Hand-lettered marker-pen directions on a laminated card taped to a black board, Campuhan Ridge walk near Ubud, Bali; a right arrow is drawn above. The printed photo strip at the top has small 'Karsa Kafe & Rice Terrace Villas' in red script and tiny 'Campuhan Ridge' / web address text; not transcribed. Preview is only 1024 px wide."
+  },
+  "fdcbbe723-366d-4b57-b89b-8f99a1283b57": {
+    "accept": false,
+    "reason": "close-up of an abstract painting for sale; no sign"
+  }
 }

@@ -1,106 +1,459 @@
 {
- "p30bedce975": {
-  "accept": false,
-  "reason": "table menu card (Just Choices), menu only"
- },
- "pb770e52cb2": {
-  "accept": true,
-  "reason": "",
-  "kind": "business sign",
-  "scripts": [
-   "Latn"
-  ],
-  "lines": [
-   {
-    "text": "TASTY",
-    "lang": "en"
-   },
-   {
-    "text": "PATTIES",
-    "lang": "en"
-   },
-   {
-    "text": "AUTHENTIC JAMAICAN PATTIES",
-    "lang": "en"
-   },
-   {
-    "text": "Social Room",
-    "lang": "en"
-   },
-   {
-    "text": "In-house dining",
-    "lang": "en"
-   },
-   {
-    "text": "wholesale / retail",
-    "lang": "en"
-   },
-   {
-    "text": "Catering",
-    "lang": "en"
-   },
-   {
-    "text": "Mon. - Sat. 7am - 8pm closed Sunday",
-    "lang": "en"
-   },
-   {
-    "text": "tastypattiesbahamas@gmail.com",
-    "lang": "und"
-   }
-  ],
-  "expect": {
-   "query": "Tasty Patties",
-   "type": "poi"
+  "p30bedce975": {
+    "accept": false,
+    "reason": "table menu card (Just Choices), menu only"
   },
-  "difficulty": "easy",
-  "notes": "White board on a wall beside a ramp at dusk: palm-tree logo with 'TASTY PATTIES' and a tiny 'AUTHENTIC JAMAICAN PATTIES' tagline, services box at right, hours and e-mail below. A vertical repeat of the logo is on the building wall behind."
- },
- "pc220128e59": {
-  "accept": false,
-  "reason": "indoor decorative neon slogan ('This Must Be the Place') and wine-list board; no place name"
- },
- "pd733ec2a47": {
-  "accept": false,
-  "reason": "indoor digital menu board (Tasty Patties), menu only; same business as pb770e52cb2"
- },
- "pda53acda42": {
-  "accept": true,
-  "reason": "",
-  "kind": "business sign",
-  "scripts": [
-   "Latn"
-  ],
-  "lines": [
-   {
-    "text": "Gogos Deli",
-    "lang": "en"
-   },
-   {
-    "text": "Shop Hours:",
-    "lang": "en"
-   },
-   {
-    "text": "MONDAY- FRIDAY",
-    "lang": "en"
-   },
-   {
-    "text": "8:00am - 4:30pm",
-    "lang": "en"
-   },
-   {
-    "text": "Sandwiches • Snacks • Wraps",
-    "lang": "en"
-   },
-   {
-    "text": "Salads • Wings • Pastas",
-    "lang": "en"
-   }
-  ],
-  "expect": {
-   "query": "Gogos Deli",
-   "type": "poi"
+  "pb770e52cb2": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "TASTY",
+        "lang": "en"
+      },
+      {
+        "text": "PATTIES",
+        "lang": "en"
+      },
+      {
+        "text": "AUTHENTIC JAMAICAN PATTIES",
+        "lang": "en"
+      },
+      {
+        "text": "Social Room",
+        "lang": "en"
+      },
+      {
+        "text": "In-house dining",
+        "lang": "en"
+      },
+      {
+        "text": "wholesale / retail",
+        "lang": "en"
+      },
+      {
+        "text": "Catering",
+        "lang": "en"
+      },
+      {
+        "text": "Mon. - Sat. 7am - 8pm closed Sunday",
+        "lang": "en"
+      },
+      {
+        "text": "tastypattiesbahamas@gmail.com",
+        "lang": "und"
+      }
+    ],
+    "expect": {
+      "query": "Tasty Patties",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "White board on a wall beside a ramp at dusk: palm-tree logo with 'TASTY PATTIES' and a tiny 'AUTHENTIC JAMAICAN PATTIES' tagline, services box at right, hours and e-mail below. A vertical repeat of the logo is on the building wall behind."
   },
-  "difficulty": "easy",
-  "notes": "Printed window panel on a turquoise wall, frontal; the name is in a purple script font (first letter is a G, though OCR may read C). House number '6' beside the red door; card-payment stickers on the door."
- }
+  "pc220128e59": {
+    "accept": false,
+    "reason": "indoor decorative neon slogan ('This Must Be the Place') and wine-list board; no place name"
+  },
+  "pd733ec2a47": {
+    "accept": false,
+    "reason": "indoor digital menu board (Tasty Patties), menu only; same business as pb770e52cb2"
+  },
+  "pda53acda42": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "Gogos Deli",
+        "lang": "en"
+      },
+      {
+        "text": "Shop Hours:",
+        "lang": "en"
+      },
+      {
+        "text": "MONDAY- FRIDAY",
+        "lang": "en"
+      },
+      {
+        "text": "8:00am - 4:30pm",
+        "lang": "en"
+      },
+      {
+        "text": "Sandwiches • Snacks • Wraps",
+        "lang": "en"
+      },
+      {
+        "text": "Salads • Wings • Pastas",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Gogos Deli",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Printed window panel on a turquoise wall, frontal; the name is in a purple script font (first letter is a G, though OCR may read C). House number '6' beside the red door; card-payment stickers on the door."
+  },
+  "c10246864": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn",
+      "Hani"
+    ],
+    "lines": [
+      {
+        "text": "雙",
+        "lang": "zh",
+        "latin": "shuang (double)"
+      },
+      {
+        "text": "龍",
+        "lang": "zh",
+        "latin": "long (dragon)"
+      },
+      {
+        "text": "DOUBLE",
+        "lang": "en"
+      },
+      {
+        "text": "DRAGON",
+        "lang": "en"
+      },
+      {
+        "text": "CHINESE",
+        "lang": "en"
+      },
+      {
+        "text": "RESTAURANT",
+        "lang": "en"
+      },
+      {
+        "text": "酒",
+        "lang": "zh",
+        "latin": "jiu"
+      },
+      {
+        "text": "家",
+        "lang": "zh",
+        "latin": "jia (酒家 jiujia, restaurant)"
+      }
+    ],
+    "expect": {
+      "query": "Double Dragon",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Projecting restaurant sign in Nassau, seen from below. Traditional Chinese characters sit in the four corners: top 雙 (left) 龍 (right) = 'Double Dragon', bottom 酒 (left) 家 (right) = 'restaurant'. English name in a chop-suey style font. Rust streaks from the screws."
+  },
+  "c10246868": {
+    "accept": false,
+    "reason": "near-duplicate of c10246870 (same 'MANILA RESTAURANT' board in Nassau, seen from further away at the gate)"
+  },
+  "c10246870": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "MANILA",
+        "lang": "en"
+      },
+      {
+        "text": "RESTAURANT",
+        "lang": "en"
+      },
+      {
+        "text": "ORIENTAL FOOD:",
+        "lang": "en"
+      },
+      {
+        "text": "-FILIPINO -CHINESE",
+        "lang": "en"
+      },
+      {
+        "text": "-INDONESIAN -THAI",
+        "lang": "en"
+      },
+      {
+        "text": "DINE-IN TAKE-OUT",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Manila Restaurant",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Hand-stencilled wooden board hanging from a blue beam in front of trees, Nassau; red stencil letters with bridges. The colon after FOOD is a stencilled '=' shape."
+  },
+  "c1052938": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "THE ISLAND SCHOOL",
+        "lang": "en"
+      },
+      {
+        "text": "CAPE ELEUTHERA",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "The Island School",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Tiled school sign with a mosaic fish, Cape Eleuthera; 'THE ISLAND SCHOOL' is set in an arch in a playful font, 'CAPE ELEUTHERA' is small below the fish. Seen from a moderate distance among palms."
+  },
+  "c142173055": {
+    "accept": false,
+    "reason": "interpretive trail board ('Enter the Forest Primeval' with paragraphs and a Longfellow quotation); descriptive text, not a name sign; glare over the left panel"
+  },
+  "c147087544": {
+    "accept": false,
+    "reason": "interpretive plaque: 'GOLD ROCK CREEK' heading over a paragraph of descriptive text about the creek; an information board rather than a name sign"
+  },
+  "c151249427": {
+    "accept": false,
+    "reason": "'NORWEGIAN SPIRIT' name on the hull of a cruise ship; vehicle branding"
+  },
+  "c24745577": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "ART GALLERY",
+        "lang": "en"
+      },
+      {
+        "text": "The",
+        "lang": "en"
+      },
+      {
+        "text": "Laughing",
+        "lang": "en"
+      },
+      {
+        "text": "Lisard",
+        "lang": "en"
+      },
+      {
+        "text": "Cafe",
+        "lang": "en"
+      },
+      {
+        "text": "TUE-SAT",
+        "lang": "en"
+      },
+      {
+        "text": "9ISH - 4ISH",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Laughing Lizard Cafe",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Hand-painted roadside sign with a green lizard, Gregory Town, Eleuthera. The name is painted 'Lisard' (with s, as written; the cafe is the Laughing Lizard). 'ART GALLERY' runs vertically on the left post board. Opening-hours boards below: 'TUE-SAT', '9ISH - 4ISH' (ISH in small caps)."
+  },
+  "c26463410": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "BAHAMAS NATIONAL TRUST",
+        "lang": "en"
+      },
+      {
+        "text": "LUCAYAN",
+        "lang": "en"
+      },
+      {
+        "text": "NATIONAL PARK",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Lucayan National Park",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Green carved park entrance sign on two posts, Grand Bahama; the Bahamas National Trust crest at left has 'BAHAMAS' around the top and 'NATIONAL TRUST' around the bottom (curved, small)."
+  },
+  "c4513786": {
+    "accept": false,
+    "reason": "near-duplicate of c26463410 (same Lucayan National Park entrance sign)"
+  },
+  "c54181130": {
+    "accept": false,
+    "reason": "novelty 'HARLEY PARKING ONLY / ALL OTHERS WILL BE CRUSHED' parking sign; brand joke, no place name"
+  },
+  "c5686712": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "COCO",
+        "lang": "en"
+      },
+      {
+        "text": "Cay",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Coco Cay",
+      "type": "place"
+    },
+    "difficulty": "easy",
+    "notes": "Diamond-shaped painted welcome sign at the entrance of Coco Cay (Little Stirrup Cay), with palm and lighthouse silhouettes; stylised serif lettering, 'COCO' in capitals and 'Cay' with lower-case a and y. Distractor: a 'COCO CAY' T-shirt on a passer-by, and a small directional board behind."
+  },
+  "c5686874": {
+    "accept": false,
+    "reason": "lighthouse-shaped signpost with about thirty small directional blades (Bahama Jack Bar, Island Oasis, Snorkel Shack, ...); no single target sign"
+  },
+  "c57019562": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "MINISTRY OF EDUCATION, SCIENCE & TECHNOLOGY",
+        "lang": "en"
+      },
+      {
+        "text": "Staniel Cay All-Age School",
+        "lang": "en"
+      },
+      {
+        "text": "\"Success Via Discipline,Work And Play\"",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Staniel Cay All-Age School",
+      "type": "poi"
+    },
+    "difficulty": "easy",
+    "notes": "Roadside school sign with the Bahamas coat of arms at the top, Staniel Cay, Exumas; the school building and bicycles are behind. Motto line has no space after the comma ('Discipline,Work')."
+  },
+  "c57019595": {
+    "accept": false,
+    "reason": "hand-painted directions notice 'THE BLUE BUILDING ON TOP OF THE HILL IS THE GROCERY STORE'; gives no shop name"
+  },
+  "c57019679": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "BAHAMAS NATIONAL TRUST",
+        "lang": "en"
+      },
+      {
+        "text": "EXUMA CAYS",
+        "lang": "en"
+      },
+      {
+        "text": "LAND AND SEA PARK",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Exuma Cays Land and Sea Park",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Green park sign on two wooden posts, shot steeply from below against the sky (perspective skew), Shroud Cay. 'AND' is in small caps between LAND and SEA. Bahamas National Trust crest at left with curved small text. A tiny sponsor plaque on the left post is not transcribed."
+  },
+  "c74233344": {
+    "accept": true,
+    "reason": "",
+    "kind": "business sign",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "CREATIVE",
+        "lang": "en"
+      },
+      {
+        "text": "LEARNING",
+        "lang": "en"
+      },
+      {
+        "text": "Pre-School",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Creative Learning Preschool",
+      "type": "poi"
+    },
+    "difficulty": "hard",
+    "notes": "Small pencil-logo sign beside the entrance of a preschool in Nassau (camera 25.0663, -77.3233), 1988 slide scan; the sign is small in the frame and a pine trunk stands just to its right. After 'Pre-School' a small telephone number follows ('TEL. 393-5228' as far as can be read at this size); it is not transcribed."
+  },
+  "c75265947": {
+    "accept": true,
+    "reason": "",
+    "kind": "landmark",
+    "scripts": [
+      "Latn"
+    ],
+    "lines": [
+      {
+        "text": "Sandals",
+        "lang": "en"
+      },
+      {
+        "text": "ISLAnd",
+        "lang": "en"
+      }
+    ],
+    "expect": {
+      "query": "Sandals Island",
+      "type": "poi"
+    },
+    "difficulty": "medium",
+    "notes": "Gable sign over a red entrance arch at the Sandals side of Discovery Island off Nassau (camera 25.0902, -77.4047). 'Sandals' is a raised brush-script logo; 'ISLAnd' is hand-lettered with capital I S L A and lower-case n d, transcribed as written."
+  }
 }

@@ -1,26 +1,24 @@
 {
   "source": "commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Sandals_Island_entrance_sign.jpg",
-  "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Sandals_Island_entrance_sign.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-  "license_as_published": "CC BY-SA 4.0",
-  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0",
-  "author_as_published": "User:B",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Manila_Restaurant_sign,_Nassau.JPG",
+  "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Manila_Restaurant_sign%2C_Nassau.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "license_as_published": "CC BY-SA 3.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/3.0",
+  "author_as_published": "BrokenSphere",
   "credit_as_published": "Own work",
-  "title": "File:Sandals Island entrance sign.jpg",
-  "description": "Sign at the entrance to the Sandals side of Discovery Island",
-  "date": "2018-12-20",
+  "title": "File:Manila Restaurant sign, Nassau.JPG",
+  "description": "A sign for the Manila Restaurant in Nassau, The Bahamas.",
+  "date": "2006-05-23",
   "categories": [
-    "Discovery Island (Bahamas)",
-    "Sandals Royal Bahamian"
+    "2006 in the Bahamas",
+    "Restaurants in Nassau, Bahamas",
+    "Signs in the Bahamas"
   ],
-  "camera_location": [
-    25.09017322,
-    -77.40471011
-  ],
+  "camera_location": null,
   "found_by": "keyword",
-  "bytes": 915433,
+  "bytes": 672715,
   "width": 1920,
-  "height": 1439,
-  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Sandals_Island_entrance_sign.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "height": 1440,
+  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Manila_Restaurant_sign%2C_Nassau.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
   "derivative": ""
 }

@@ -1,24 +1,23 @@
 {
   "source": "commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:MountGayRum-SignInFrontOfBuilding-March12-09.JPG",
-  "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/MountGayRum-SignInFrontOfBuilding-March12-09.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-  "license_as_published": "CC BY-SA 3.0",
-  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/3.0",
-  "author_as_published": "Captmondo",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Sign_for_Saint_Lawrence_Gap,_Christ_Church.jpg",
+  "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Sign_for_Saint_Lawrence_Gap%2C_Christ_Church.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "license_as_published": "Public domain",
+  "license_url_as_published": null,
+  "author_as_published": "CaribDigita",
   "credit_as_published": "Own work",
-  "title": "File:MountGayRum-SignInFrontOfBuilding-March12-09.JPG",
-  "description": "Picture of the sign in front of the Mount Gay Rum bottling plant and museum, Barbados.",
-  "date": "2009-03-12",
+  "title": "File:Sign for Saint Lawrence Gap, Christ Church.jpg",
+  "description": "Sign at the western-most end of Saint Lawrence Gap at its junction with Highway 7.",
+  "date": "2010-11-15",
   "categories": [
-    "Mount Gay Rum",
-    "Saint Lucy, Barbados",
+    "Saint Lawrence Gap, Christ Church",
     "Signs in Barbados"
   ],
   "camera_location": null,
   "found_by": "keyword",
-  "bytes": 687022,
-  "width": 1920,
-  "height": 1440,
-  "downloaded_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/MountGayRum-SignInFrontOfBuilding-March12-09.JPG/1920px-MountGayRum-SignInFrontOfBuilding-March12-09.JPG",
-  "derivative": "Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org)"
+  "bytes": 204039,
+  "width": 1280,
+  "height": 960,
+  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Sign_for_Saint_Lawrence_Gap%2C_Christ_Church.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "derivative": ""
 }

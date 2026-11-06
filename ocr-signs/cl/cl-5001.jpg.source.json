@@ -1,23 +1,26 @@
 {
-  "source": "panoramax",
-  "source_url": "https://panoramax.mapcomplete.org/#focus=pic&pic=f84bbcf0-af1d-4826-a92f-13f5fa894eb5",
-  "original_url": "https://panoramax.mapcomplete.org/permanent/f8/4b/bc/f0/af1d-4826-a92f-13f5fa894eb5.jpg",
-  "license_as_published": "CC-BY-SA-4.0",
-  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0/",
-  "author_as_published": "mapcomplete",
-  "credit_as_published": "Panoramax, instance mapcomplete (https://panoramax.mapcomplete.org)",
-  "title": "Panoramax picture f84bbcf0-af1d-4826-a92f-13f5fa894eb5 (Santiago, 2025-09-05)",
-  "description": "Street-level picture on Panoramax, taken 2025-09-05 near Santiago by mapcomplete, sequence 14ea2dff-2d5f-4134-9a9c-0b7ff34d87aa, heading 40. OCR (PP-OCRv3) read: Claro- | eurocentro",
-  "date": "2025-09-05",
-  "categories": [],
-  "camera_location": [
-    -33.4422249,
-    -70.6505522
+  "source": "commons",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Calle_Arquitecta_Montserrat_Palmer_Trias.jpg",
+  "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Calle_Arquitecta_Montserrat_Palmer_Trias.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "license_as_published": "CC BY-SA 4.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author_as_published": "TomasVial",
+  "credit_as_published": "Own work",
+  "title": "File:Calle Arquitecta Montserrat Palmer Trias.jpg",
+  "description": "Street sign for Arquitecta Montserrat Palmer Trías street in Providencia, Santiago, Chile",
+  "date": "2026-08-06 13:34:55",
+  "categories": [
+    "Street signs in Santiago de Chile",
+    "Streets in Providencia, Chile"
   ],
-  "found_by": "panoramax-ocr:Santiago",
-  "bytes": 225945,
-  "width": 1200,
-  "height": 900,
-  "downloaded_url": "https://panoramax.mapcomplete.org/permanent/f8/4b/bc/f0/af1d-4826-a92f-13f5fa894eb5.jpg",
-  "derivative": "crop 0,2838,1200,3738 of the 3072x4080 HD picture"
+  "camera_location": [
+    -33.422258,
+    -70.611901
+  ],
+  "found_by": "keyword",
+  "bytes": 679702,
+  "width": 1920,
+  "height": 1081,
+  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Calle_Arquitecta_Montserrat_Palmer_Trias.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "derivative": ""
 }

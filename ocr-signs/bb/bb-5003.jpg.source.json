@@ -1,27 +1,26 @@
 {
   "source": "commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Ruby_Princess_moored_in_Bridgetown.JPG",
-  "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Ruby_Princess_moored_in_Bridgetown.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-  "license_as_published": "CC BY 3.0",
-  "license_url_as_published": "https://creativecommons.org/licenses/by/3.0",
-  "author_as_published": "Jean-Philippe Boulet",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Welcome_to_Combermere.JPG",
+  "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Welcome_to_Combermere.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "license_as_published": "CC BY-SA 3.0",
+  "license_url_as_published": "https://creativecommons.org/licenses/by-sa/3.0",
+  "author_as_published": "Djr xi",
   "credit_as_published": "Own work",
-  "title": "File:Ruby Princess moored in Bridgetown.JPG",
-  "description": "Ruby Princess moored in Bridgetown , Barbados .",
-  "date": "2010-02-23",
+  "title": "File:Welcome to Combermere.JPG",
+  "description": "\"Welcome to Combermere\" message above the scoreboard at Combermere School 's cricket ground.",
+  "date": "2006-04-11",
   "categories": [
-    "February 2010 in Barbados",
-    "Ruby Princess (ship, 2008) in Bridgetown",
-    "Ship name signs"
+    "Cricket in Barbados",
+    "School signs in Barbados",
+    "Schools in Barbados",
+    "Sports signs",
+    "Welcome signs in Barbados"
   ],
-  "camera_location": [
-    13.1015,
-    -59.6284
-  ],
+  "camera_location": null,
   "found_by": "keyword",
-  "bytes": 746260,
-  "width": 1920,
-  "height": 2560,
-  "downloaded_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Ruby_Princess_moored_in_Bridgetown.JPG/1920px-Ruby_Princess_moored_in_Bridgetown.JPG",
-  "derivative": "Wikimedia Commons standard 1920px-wide rendition (thumb.wikimedia.org)"
+  "bytes": 210968,
+  "width": 1280,
+  "height": 960,
+  "downloaded_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Welcome_to_Combermere.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "derivative": ""
 }
